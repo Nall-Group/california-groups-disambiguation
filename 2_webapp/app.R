@@ -1,25 +1,21 @@
 library(shiny)
-library(tidyverse)
 
 # Increase file upload limit to 30MB
 options(shiny.maxRequestSize = 30 * 1024^2)
 
 # Load crosswalk data once at startup
-crosswalk_data <- read_csv("crosswalk.standardizenames.manualedits_clean.csv",
-  col_types = cols(.default = "c"),
-  show_col_types = FALSE
+crosswalk_data <- read.csv("crosswalk.standardizenames.manualedits_clean.csv",
+  stringsAsFactors = FALSE
 )
 
 # Function to disambiguate organization names
 disambiguate_org <- function(input_name) {
   # Look up the input name in the original names
-  result <- crosswalk_data %>%
-    filter(originalname == input_name) %>%
-    pull(editedname)
+  match_idx <- which(crosswalk_data$originalname == input_name)
 
   # Return result or indicate no match found
-  if (length(result) > 0) {
-    return(result[1]) # Return first match if multiple exist
+  if (length(match_idx) > 0) {
+    return(crosswalk_data$editedname[match_idx[1]]) # Return first match if multiple exist
   } else {
     return(paste("No match found for:", input_name))
   }
@@ -28,33 +24,51 @@ disambiguate_org <- function(input_name) {
 # Function to process uploaded CSV and disambiguate all org names
 process_uploaded_csv <- function(uploaded_file) {
   # Read the uploaded CSV
-  uploaded_data <- read_csv(uploaded_file$datapath,
-    col_types = cols(.default = "c"),
-    show_col_types = FALSE
-  )
+  uploaded_data <- read.csv(uploaded_file$datapath, stringsAsFactors = FALSE)
 
   # Get the first column (assume it contains org names)
+  first_col <- uploaded_data[, 1]
   first_col_name <- names(uploaded_data)[1]
 
   # Create disambiguation results
-  results <- uploaded_data %>%
-    select(original_name = all_of(first_col_name)) %>%
-    mutate(
-      # Look up each name in crosswalk
-      disambiguated_name = map_chr(original_name, function(name) {
-        match_result <- crosswalk_data %>%
-          filter(originalname == name) %>%
-          pull(editedname)
+  disambiguated_names <- sapply(first_col, function(name) {
+    match_idx <- which(crosswalk_data$originalname == name)
+    if (length(match_idx) > 0) {
+      return(crosswalk_data$editedname[match_idx[1]])
+    } else {
+      return("No match found")
+    }
+  })
 
-        if (length(match_result) > 0) {
-          return(match_result[1])
-        } else {
-          return("No match found")
-        }
-      }),
-      # Add match status
-      match_status = ifelse(disambiguated_name == "No match found", "No Match", "Matched")
+  # Create match status
+  match_status <- ifelse(disambiguated_names == "No match found", "No Match", "Matched")
+
+  # Start with original data
+  results <- uploaded_data
+
+  # Insert disambiguation columns after the first column
+  if (ncol(uploaded_data) == 1) {
+    # If only one column, just add the new columns
+    results <- cbind(
+      results,
+      data.frame(
+        disambiguated_name = disambiguated_names,
+        match_status = match_status,
+        stringsAsFactors = FALSE
+      )
     )
+  } else {
+    # If multiple columns, insert after first column
+    results <- cbind(
+      uploaded_data[, 1, drop = FALSE], # First column
+      data.frame(
+        disambiguated_name = disambiguated_names,
+        match_status = match_status,
+        stringsAsFactors = FALSE
+      ),
+      uploaded_data[, -1, drop = FALSE] # All other columns
+    )
+  }
 
   return(results)
 }
@@ -96,9 +110,22 @@ ui <- fluidPage(
         color: #2980b9;
         text-decoration: underline;
       }
+      .btn-disabled {
+        background-color: #6c757d !important;
+        border-color: #6c757d !important;
+        color: white !important;
+        cursor: not-allowed !important;
+        opacity: 0.65;
+      }
+      .btn-enabled {
+        background-color: #28a745 !important;
+        border-color: #28a745 !important;
+        color: white !important;
+        cursor: pointer !important;
+        opacity: 1;
+      }
     "))
   ),
-
 
   # Main content
   div(
@@ -151,7 +178,7 @@ ui <- fluidPage(
     # Batch CSV upload section
     div(
       h3("Batch CSV Disambiguation", style = "color: #2c3e50; margin-bottom: 20px;"),
-      p("Upload a CSV file with organization names in the first column to get a disambiguated version.",
+      p("Upload a CSV file with organization names in the first column. The disambiguated name and match status will be inserted after the first column, preserving all other data.",
         style = "text-align: center; color: #6c757d; margin-bottom: 30px;"
       ),
       div(
@@ -163,19 +190,16 @@ ui <- fluidPage(
         ),
         br(),
         div(
-          style = "text-align: center;",
-          downloadButton("download_results",
-            "Download Disambiguated CSV",
-            class = "btn btn-success",
-            style = "background-color: #28a745; border-color: #28a745; padding: 10px 30px;"
-          )
-        ),
-        br(), br(),
-        div(
           id = "upload_status",
           textOutput("upload_status_text"),
           style = "background-color: #f8f9fa; padding: 15px; border-radius: 5px; min-height: 50px; border: 1px solid #dee2e6;"
-        )
+        ),
+        br(),
+        div(
+          style = "text-align: center;",
+          uiOutput("download_button_ui")
+        ),
+        br(), br()
       )
     )
   )
@@ -241,15 +265,81 @@ server <- function(input, output) {
     }
   })
 
+  # Render download button conditionally
+  output$download_button_ui <- renderUI({
+    if (is.null(input$csv_upload) || is.null(processed_data())) {
+      # Disabled button - gray state
+      tags$button(
+        "Download Disambiguated CSV",
+        class = "btn btn-disabled",
+        style = "padding: 10px 30px;",
+        disabled = "disabled"
+      )
+    } else {
+      # Enabled buttons - both download and copy options
+      div(
+        downloadButton("download_results",
+          "Download CSV",
+          class = "btn btn-enabled",
+          style = "padding: 10px 20px; margin-right: 10px;"
+        ),
+        actionButton("show_results",
+          "Show Results",
+          class = "btn btn-enabled",
+          style = "padding: 10px 20px;"
+        )
+      )
+    }
+  })
+
+  # Show results in modal dialog as backup for download issues
+  observeEvent(input$show_results, {
+    req(processed_data())
+
+    # Convert data to CSV text
+    temp_file <- tempfile(fileext = ".csv")
+    write.csv(processed_data(), temp_file, row.names = FALSE, na = "")
+    csv_text <- paste(readLines(temp_file), collapse = "\n")
+    unlink(temp_file)
+
+    showModal(modalDialog(
+      title = "Disambiguated Results",
+      div(
+        p("Copy the text below and save it as a .csv file:"),
+        tags$textarea(
+          csv_text,
+          style = "width: 100%; height: 400px; font-family: monospace; font-size: 12px;",
+          readonly = "readonly"
+        ),
+        br(), br(),
+        p("Instructions: Select all text above (Ctrl+A/Cmd+A), copy (Ctrl+C/Cmd+C), paste into a text editor, and save with .csv extension.")
+      ),
+      size = "l",
+      easyClose = TRUE,
+      footer = modalButton("Close")
+    ))
+  })
+
   # Download handler for processed CSV
   output$download_results <- downloadHandler(
     filename = function() {
-      paste0("disambiguated_orgs_", Sys.Date(), ".csv")
+      paste0("DISAMBIGUATED_ORGS_", format(Sys.Date(), "%Y-%m-%d"), ".csv")
     },
     content = function(file) {
-      req(processed_data())
-      write_csv(processed_data(), file)
-    }
+      tryCatch(
+        {
+          data <- processed_data()
+          if (!is.null(data)) {
+            write.csv(data, file, row.names = FALSE, na = "", fileEncoding = "UTF-8")
+          }
+        },
+        error = function(e) {
+          # Fallback: create a basic CSV
+          cat("Error creating download file\n", file = file)
+        }
+      )
+    },
+    contentType = "text/csv"
   )
 }
 
