@@ -1,16 +1,19 @@
 library(shiny)
 library(tidyverse)
 
+# Increase file upload limit to 30MB
+options(shiny.maxRequestSize = 30 * 1024^2)
+
+# Load crosswalk data once at startup
+crosswalk_data <- read_csv("crosswalk.standardizenames.manualedits_clean.csv",
+  col_types = cols(.default = "c"),
+  show_col_types = FALSE
+)
+
 # Function to disambiguate organization names
 disambiguate_org <- function(input_name) {
-  # Read the crosswalk file
-  crosswalk <- read_csv("../crosswalk.standardizenames.manualedits_clean.csv",
-    col_types = cols(.default = "c"),
-    show_col_types = FALSE
-  )
-
   # Look up the input name in the original names
-  result <- crosswalk %>%
+  result <- crosswalk_data %>%
     filter(originalname == input_name) %>%
     pull(editedname)
 
@@ -20,6 +23,40 @@ disambiguate_org <- function(input_name) {
   } else {
     return(paste("No match found for:", input_name))
   }
+}
+
+# Function to process uploaded CSV and disambiguate all org names
+process_uploaded_csv <- function(uploaded_file) {
+  # Read the uploaded CSV
+  uploaded_data <- read_csv(uploaded_file$datapath,
+    col_types = cols(.default = "c"),
+    show_col_types = FALSE
+  )
+
+  # Get the first column (assume it contains org names)
+  first_col_name <- names(uploaded_data)[1]
+
+  # Create disambiguation results
+  results <- uploaded_data %>%
+    select(original_name = all_of(first_col_name)) %>%
+    mutate(
+      # Look up each name in crosswalk
+      disambiguated_name = map_chr(original_name, function(name) {
+        match_result <- crosswalk_data %>%
+          filter(originalname == name) %>%
+          pull(editedname)
+
+        if (length(match_result) > 0) {
+          return(match_result[1])
+        } else {
+          return("No match found")
+        }
+      }),
+      # Add match status
+      match_status = ifelse(disambiguated_name == "No match found", "No Match", "Matched")
+    )
+
+  return(results)
 }
 
 # Define UI
@@ -107,6 +144,39 @@ ui <- fluidPage(
           style = "background-color: #f8f9fa; padding: 15px; border-radius: 5px; min-height: 50px; border: 1px solid #dee2e6;"
         )
       )
+    ),
+    br(), br(),
+    hr(style = "border-top: 2px solid #dee2e6; margin: 40px 0;"),
+
+    # Batch CSV upload section
+    div(
+      h3("Batch CSV Disambiguation", style = "color: #2c3e50; margin-bottom: 20px;"),
+      p("Upload a CSV file with organization names in the first column to get a disambiguated version.",
+        style = "text-align: center; color: #6c757d; margin-bottom: 30px;"
+      ),
+      div(
+        style = "max-width: 600px; margin: 0 auto;",
+        fileInput("csv_upload",
+          "Choose CSV File:",
+          accept = c(".csv"),
+          width = "100%"
+        ),
+        br(),
+        div(
+          style = "text-align: center;",
+          downloadButton("download_results",
+            "Download Disambiguated CSV",
+            class = "btn btn-success",
+            style = "background-color: #28a745; border-color: #28a745; padding: 10px 30px;"
+          )
+        ),
+        br(), br(),
+        div(
+          id = "upload_status",
+          textOutput("upload_status_text"),
+          style = "background-color: #f8f9fa; padding: 15px; border-radius: 5px; min-height: 50px; border: 1px solid #dee2e6;"
+        )
+      )
     )
   )
 )
@@ -136,6 +206,51 @@ server <- function(input, output) {
       disambiguation_result()
     }
   })
+
+  # Reactive value to store processed CSV data
+  processed_data <- reactive({
+    req(input$csv_upload)
+
+    # Process the uploaded file
+    tryCatch(
+      {
+        result <- process_uploaded_csv(input$csv_upload)
+        return(result)
+      },
+      error = function(e) {
+        return(NULL)
+      }
+    )
+  })
+
+  # Display upload status
+  output$upload_status_text <- renderText({
+    if (is.null(input$csv_upload)) {
+      "Upload a CSV file to begin batch disambiguation."
+    } else if (is.null(processed_data())) {
+      "Error processing file. Please ensure it's a valid CSV with organization names in the first column."
+    } else {
+      data <- processed_data()
+      total_orgs <- nrow(data)
+      matched_orgs <- sum(data$match_status == "Matched")
+      paste0(
+        "Processed ", total_orgs, " organizations. ",
+        matched_orgs, " matched (", round(matched_orgs / total_orgs * 100, 1), "%). ",
+        "Click 'Download' to get results."
+      )
+    }
+  })
+
+  # Download handler for processed CSV
+  output$download_results <- downloadHandler(
+    filename = function() {
+      paste0("disambiguated_orgs_", Sys.Date(), ".csv")
+    },
+    content = function(file) {
+      req(processed_data())
+      write_csv(processed_data(), file)
+    }
+  )
 }
 
 # Run the application
