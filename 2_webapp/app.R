@@ -110,20 +110,7 @@ ui <- fluidPage(
         color: #2980b9;
         text-decoration: underline;
       }
-      .btn-disabled {
-        background-color: #6c757d !important;
-        border-color: #6c757d !important;
-        color: white !important;
-        cursor: not-allowed !important;
-        opacity: 0.65;
-      }
-      .btn-enabled {
-        background-color: #28a745 !important;
-        border-color: #28a745 !important;
-        color: white !important;
-        cursor: pointer !important;
-        opacity: 1;
-      }
+
     "))
   ),
 
@@ -260,34 +247,18 @@ server <- function(input, output) {
       paste0(
         "Processed ", total_orgs, " organizations. ",
         matched_orgs, " matched (", round(matched_orgs / total_orgs * 100, 1), "%). ",
-        "Click 'Download' to get results."
+        "Click 'Show Results' to view and copy the data."
       )
     }
   })
 
-  # Render download button conditionally
+  # Render show results button
   output$download_button_ui <- renderUI({
-    if (is.null(input$csv_upload) || is.null(processed_data())) {
-      # Disabled button - gray state
-      tags$button(
-        "Download Disambiguated CSV",
-        class = "btn btn-disabled",
-        style = "padding: 10px 30px;",
-        disabled = "disabled"
-      )
-    } else {
-      # Enabled buttons - both download and copy options
-      div(
-        downloadButton("download_results",
-          "Download CSV",
-          class = "btn btn-enabled",
-          style = "padding: 10px 20px; margin-right: 10px;"
-        ),
-        actionButton("show_results",
-          "Show Results",
-          class = "btn btn-enabled",
-          style = "padding: 10px 20px;"
-        )
+    if (!is.null(input$csv_upload) && !is.null(processed_data())) {
+      actionButton("show_results",
+        "Show Results",
+        class = "btn btn-success",
+        style = "background-color: #28a745; border-color: #28a745; padding: 10px 30px;"
       )
     }
   })
@@ -319,28 +290,6 @@ server <- function(input, output) {
       footer = modalButton("Close")
     ))
   })
-
-  # Download handler for processed CSV
-  output$download_results <- downloadHandler(
-    filename = function() {
-      paste0("DISAMBIGUATED_ORGS_", format(Sys.Date(), "%Y-%m-%d"), ".csv")
-    },
-    content = function(file) {
-      tryCatch(
-        {
-          data <- processed_data()
-          if (!is.null(data)) {
-            write.csv(data, file, row.names = FALSE, na = "", fileEncoding = "UTF-8")
-          }
-        },
-        error = function(e) {
-          # Fallback: create a basic CSV
-          cat("Error creating download file\n", file = file)
-        }
-      )
-    },
-    contentType = "text/csv"
-  )
 }
 
 # Run the application
