@@ -188,6 +188,19 @@ ui <- fluidPage(
         ),
         br(), br()
       )
+    ),
+
+    # Footer with GitHub issues link
+    hr(style = "border-top: 1px solid #dee2e6; margin: 40px 0;"),
+    div(
+      style = "text-align: center; color: #6c757d; font-size: 14px; margin-bottom: 20px;",
+      p("Have an issue or suggestion for this web app?"),
+      tags$a(
+        href = "https://github.com/Nall-Group/california-groups-disambiguation/issues",
+        target = "_blank",
+        style = "color: #3498db; text-decoration: underline;",
+        "Report it on GitHub Issues"
+      )
     )
   )
 )
