@@ -1,24 +1,32 @@
 library(shiny)
+library(jsonlite)
 
 # Increase file upload limit to 30MB
 options(shiny.maxRequestSize = 30 * 1024^2)
 
-# Load crosswalk data once at startup
-crosswalk_data <- read.csv("crosswalk.standardizenames.manualedits_clean.csv",
-  stringsAsFactors = FALSE
-)
+# Source cluster functions
+source("cluster_functions.R")
 
-# Function to disambiguate organization names
+# Load cluster data once at startup
+cluster_data <- load_clusters("org_clusters.json")
+
+# Function to disambiguate organization names using cluster data
 disambiguate_org <- function(input_name) {
-  # Look up the input name in the original names
-  match_idx <- which(crosswalk_data$originalname == input_name)
+  result <- lookup_org(input_name, cluster_data)
 
-  # Return result or indicate no match found
-  if (length(match_idx) > 0) {
-    return(crosswalk_data$editedname[match_idx[1]]) # Return first match if multiple exist
-  } else {
-    return(paste("No match found for:", input_name))
+  if (is.null(result)) {
+    return(list(
+      canonical = paste("No match found for:", input_name),
+      narrative = "",
+      has_lineage = FALSE
+    ))
   }
+
+  list(
+    canonical = result$canonical,
+    narrative = result$narrative,
+    has_lineage = result$has_lineage
+  )
 }
 
 # Function to process uploaded CSV and disambiguate all org names
@@ -30,18 +38,27 @@ process_uploaded_csv <- function(uploaded_file) {
   first_col <- uploaded_data[, 1]
   first_col_name <- names(uploaded_data)[1]
 
-  # Create disambiguation results
-  disambiguated_names <- sapply(first_col, function(name) {
-    match_idx <- which(crosswalk_data$originalname == name)
-    if (length(match_idx) > 0) {
-      return(crosswalk_data$editedname[match_idx[1]])
+  # Create disambiguation results using cluster lookup
+  results_list <- lapply(first_col, function(name) {
+    result <- lookup_org(name, cluster_data)
+    if (is.null(result)) {
+      list(
+        canonical = "No match found",
+        narrative = "",
+        status = "No Match"
+      )
     } else {
-      return("No match found")
+      list(
+        canonical = result$canonical,
+        narrative = result$narrative,
+        status = "Matched"
+      )
     }
   })
 
-  # Create match status
-  match_status <- ifelse(disambiguated_names == "No match found", "No Match", "Matched")
+  disambiguated_names <- sapply(results_list, function(x) x$canonical)
+  match_status <- sapply(results_list, function(x) x$status)
+  lineage_info <- sapply(results_list, function(x) x$narrative)
 
   # Start with original data
   results <- uploaded_data
@@ -54,6 +71,7 @@ process_uploaded_csv <- function(uploaded_file) {
       data.frame(
         disambiguated_name = disambiguated_names,
         match_status = match_status,
+        lineage = lineage_info,
         stringsAsFactors = FALSE
       )
     )
@@ -64,6 +82,7 @@ process_uploaded_csv <- function(uploaded_file) {
       data.frame(
         disambiguated_name = disambiguated_names,
         match_status = match_status,
+        lineage = lineage_info,
         stringsAsFactors = FALSE
       ),
       uploaded_data[, -1, drop = FALSE] # All other columns
@@ -156,7 +175,9 @@ ui <- fluidPage(
           id = "result_area",
           textOutput("disambiguation_result"),
           style = "background-color: #f8f9fa; padding: 15px; border-radius: 5px; min-height: 50px; border: 1px solid #dee2e6;"
-        )
+        ),
+        # Lineage information display
+        uiOutput("lineage_display")
       )
     ),
     br(), br(),
@@ -214,7 +235,11 @@ server <- function(input, output) {
 
     # Check if input is empty
     if (org_name == "") {
-      return("Please enter an organization name.")
+      return(list(
+        canonical = "Please enter an organization name.",
+        narrative = "",
+        has_lineage = FALSE
+      ))
     }
 
     # Call the disambiguation function
@@ -227,7 +252,23 @@ server <- function(input, output) {
     if (input$submit_btn == 0) {
       "Enter an organization name and click 'Disambiguate' to see the standardized name."
     } else {
-      disambiguation_result()
+      disambiguation_result()$canonical
+    }
+  })
+
+  # Render lineage information
+  output$lineage_display <- renderUI({
+    if (input$submit_btn == 0) return(NULL)
+
+    result <- disambiguation_result()
+
+    # Only show if there's lineage info (not just alternate spelling)
+    if (result$narrative != "" && nchar(result$narrative) > 0) {
+      div(
+        style = "margin-top: 15px; padding: 15px; background-color: #e7f3ff; border-left: 4px solid #2196F3; border-radius: 4px;",
+        tags$strong("Relationship: "),
+        result$narrative
+      )
     }
   })
 
