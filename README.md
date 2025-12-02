@@ -27,3 +27,5 @@ directory: org_name_subsets_for_cleaning/
 5. Remove all organizations that start with lower case "to" and "with" to org_names_partial.csv
 
 6. Remove all date and positions in parentheses such as (3/19/98) or (Oppose) or (Co-Sponsor) from the end of org names in org_names_capitalized.csv
+
+7. Add all org names that Looks like an org name that is in the crosswalk except it has its own acronym in brackets at the end to the crosswalk as alternate spelling
