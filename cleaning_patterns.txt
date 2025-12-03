@@ -89,3 +89,16 @@
 (?i)^\s*\[prior to latest amendments\]\s*
 (?i)^\s*\[per\s[^\]]*\]\s*
 (?i)^\s*\[as of\s[^\]]*\]\s*
+
+# Patterns to remove from ANYWHERE in organization names
+# These phrases can appear in the middle of strings and should be removed
+
+# Round brackets - ANYWHERE
+(?i)\s*\(submitted on earlier version\)\s*
+(?i)\s*\(submitted on previous version\)\s*
+(?i)\s*\(unable to re-verify\)\s*
+
+# Square brackets - ANYWHERE
+(?i)\s*\[submitted on earlier version\]\s*
+(?i)\s*\[submitted on previous version\]\s*
+(?i)\s*\[unable to re-verify\]\s*

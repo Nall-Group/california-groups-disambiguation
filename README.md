@@ -47,6 +47,8 @@ directory: org_name_subsets_for_cleaning/
 
 13. Make sure that orgs that look like valid names except for stuff in brackets are moved from org_names_not_capitalized.csv to org_names_not_in_crosswalk.csv
 
+14. Remove all orgs that start with digits and then a closing square bracket, e.g. '2] 2015-16 Budget: "Capital Outlay Program Review". LAO, May 14, 2014' because these are all citations
+
 
 ## Crosswalk Relationship Types
 
