@@ -94,5 +94,10 @@ def main():
     print(f"  In crosswalk: {in_crosswalk_count}")
     print(f"  Not in crosswalk: {len(org_counts) - in_crosswalk_count}")
 
+    # Generate stats JSON
+    from generate_stats import generate_stats
+    print("\nGenerating stats.json...")
+    generate_stats()
+
 if __name__ == "__main__":
     main()
