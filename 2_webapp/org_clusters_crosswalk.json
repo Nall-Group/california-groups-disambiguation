@@ -141198,6 +141198,70 @@
         {
           "name": "International Association of Fire Fighters (Local 55)",
           "relationship": "chapter"
+        },
+        {
+          "name": "International Association of Firefighters",
+          "relationship": "alternate_spelling"
+        },
+        {
+          "name": "International Association of Firefighters, Local 55",
+          "relationship": "chapter"
+        },
+        {
+          "name": "International Association of Firefighters Local 55",
+          "relationship": "chapter"
+        },
+        {
+          "name": "International Association of Firefighters Local 2400",
+          "relationship": "chapter"
+        },
+        {
+          "name": "International Association of Firefighters, Local 2881",
+          "relationship": "chapter"
+        },
+        {
+          "name": "International Association of Fire Fighters Union",
+          "relationship": "alternate_spelling"
+        },
+        {
+          "name": "International Association of Fire Fighters Union, Local 1067",
+          "relationship": "chapter"
+        },
+        {
+          "name": "International Association of Fire Fighters Union Local 1067",
+          "relationship": "chapter"
+        },
+        {
+          "name": "International Association of Fire Fighters Union Local 3631",
+          "relationship": "chapter"
+        },
+        {
+          "name": "International Association of Firefighters -",
+          "relationship": "alternate_spelling"
+        },
+        {
+          "name": "International Association of Firefighters - Local 55",
+          "relationship": "chapter"
+        },
+        {
+          "name": "International Association of Fire Fighters -",
+          "relationship": "alternate_spelling"
+        },
+        {
+          "name": "International Association of Fire Fighters - Local 55",
+          "relationship": "chapter"
+        },
+        {
+          "name": "IAFF",
+          "relationship": "alternate_spelling"
+        },
+        {
+          "name": "IAFF Local 3631",
+          "relationship": "chapter"
+        },
+        {
+          "name": "I.A.F.F.",
+          "relationship": "alternate_spelling"
         }
       ]
     },
@@ -143252,28 +143316,6 @@
       ]
     },
     {
-      "canonical": "International Association of Firefighters",
-      "status": "active",
-      "children": [
-        {
-          "name": "International Association of Firefighters, Local 55",
-          "relationship": "chapter"
-        },
-        {
-          "name": "International Association of Firefighters Local 55",
-          "relationship": "chapter"
-        },
-        {
-          "name": "International Association of Firefighters Local 2400",
-          "relationship": "chapter"
-        },
-        {
-          "name": "International Association of Firefighters, Local 2881",
-          "relationship": "chapter"
-        }
-      ]
-    },
-    {
       "canonical": "ILWU",
       "status": "active",
       "children": [
@@ -144669,24 +144711,6 @@
       "children": [
         {
           "name": "Fremont Fire Fighters Local 1689",
-          "relationship": "chapter"
-        }
-      ]
-    },
-    {
-      "canonical": "International Association of Fire Fighters Union",
-      "status": "active",
-      "children": [
-        {
-          "name": "International Association of Fire Fighters Union, Local 1067",
-          "relationship": "chapter"
-        },
-        {
-          "name": "International Association of Fire Fighters Union Local 1067",
-          "relationship": "chapter"
-        },
-        {
-          "name": "International Association of Fire Fighters Union Local 3631",
           "relationship": "chapter"
         }
       ]
@@ -148380,16 +148404,6 @@
       ]
     },
     {
-      "canonical": "IAFF",
-      "status": "active",
-      "children": [
-        {
-          "name": "IAFF Local 3631",
-          "relationship": "chapter"
-        }
-      ]
-    },
-    {
       "canonical": "I.A.T.S.E.",
       "status": "active",
       "children": [
@@ -150972,16 +150986,6 @@
       ]
     },
     {
-      "canonical": "International Association of Firefighters -",
-      "status": "active",
-      "children": [
-        {
-          "name": "International Association of Firefighters - Local 55",
-          "relationship": "chapter"
-        }
-      ]
-    },
-    {
       "canonical": "International Association of Machinist and Aerospace Workers",
       "status": "active",
       "children": [
@@ -152561,16 +152565,6 @@
       "children": [
         {
           "name": "Joint Council of Interns and Residents SEIU Local 1957",
-          "relationship": "chapter"
-        }
-      ]
-    },
-    {
-      "canonical": "International Association of Fire Fighters -",
-      "status": "active",
-      "children": [
-        {
-          "name": "International Association of Fire Fighters - Local 55",
           "relationship": "chapter"
         }
       ]
