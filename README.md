@@ -16,7 +16,7 @@ directory: org_name_subsets_for_cleaning/
 
 0. Use extract_org_names.py to get all org names from leginfo_metadata.csv in https://github.com/Nall-Group/leginfo
 
-1. Remove all organization names that do not follow the rule where all words above four characters long are capitalized. These are likely text fragments. These organizations are moved into org_names_not_capitalized.csv
+1. Remove all organization names that do not follow the rule where all words above four characters long are capitalized. These are likely text fragments. These organizations are moved into org_names_not_capitalized.csv. Make sure to exclude organizations where the item that is longer than four characters and not capitalized is after some punctuation like a hyphen or inside parentheses at the end of the organization name.
 
 2. Remove all organization names that are dates or phone numbers to org_names_that_are_dates_or_phone_numbers.csv
 
@@ -45,4 +45,16 @@ directory: org_name_subsets_for_cleaning/
 - canonical
 - alternate_spelling
 - chapter
+
+## Cleaning Patterns
+
+`cleaning_patterns.txt` contains regex patterns that should be removed from the end of organization names. These are metadata about bill relationships (e.g., sponsor status), not part of the actual org name.
+
+Patterns include:
+- (CO-SPONSOR), (SPONSOR), (Sponsors)
+- (Co-Source)
+- (PRIOR VERSION)
+- (OPPOSE), (OPPOSE UNLESS AMENDED)
+- ("In Concept")
+- (Principal Co-Sponsor), (Co-Sponsors)
 

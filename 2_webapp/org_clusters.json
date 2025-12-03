@@ -207,13 +207,11 @@
         {
           "name": "THE 5 GYRES INSTITUTE",
           "relationship": "alternate_spelling"
-        }
-      ]
-    },
-    {
-      "canonical": "5 GYRES INSTITUTE (CO-SPONSOR)",
-      "status": "active",
-      "children": [
+        },
+        {
+          "name": "5 GYRES INSTITUTE (CO-SPONSOR)",
+          "relationship": "alternate_spelling"
+        },
         {
           "name": "THE 5 GYRES INSTITUTE (CO-SPONSOR)",
           "relationship": "alternate_spelling"
@@ -1167,10 +1165,6 @@
         },
         {
           "name": "AMERICAN CIVIL LIBERTIES UNION CALIFORNIA ACTION",
-          "relationship": "alternate_spelling"
-        },
-        {
-          "name": "AMERICAN CIVIL LIBERTIES UNION OF CALIFORNIA",
           "relationship": "alternate_spelling"
         },
         {
@@ -3836,13 +3830,11 @@
         {
           "name": "THE ALLIANCE FOR BOYS AND MEN OF COLOR",
           "relationship": "alternate_spelling"
-        }
-      ]
-    },
-    {
-      "canonical": "ALLIANCE FOR BOYS AND MEN OF COLOR (CO-SPONSOR)",
-      "status": "active",
-      "children": [
+        },
+        {
+          "name": "ALLIANCE FOR BOYS AND MEN OF COLOR (CO-SPONSOR)",
+          "relationship": "alternate_spelling"
+        },
         {
           "name": "THE ALLIANCE FOR BOYS AND MEN OF COLOR (CO-SPONSOR)",
           "relationship": "alternate_spelling"
@@ -3876,13 +3868,11 @@
         {
           "name": "THE ALLIANCE FOR CHILDREN'S RIGHTS",
           "relationship": "alternate_spelling"
-        }
-      ]
-    },
-    {
-      "canonical": "ALLIANCE FOR CHILDREN'S RIGHTS (CO-SPONSOR)",
-      "status": "active",
-      "children": [
+        },
+        {
+          "name": "ALLIANCE FOR CHILDREN'S RIGHTS (CO-SPONSOR)",
+          "relationship": "alternate_spelling"
+        },
         {
           "name": "THE ALLIANCE FOR CHILDREN'S RIGHTS (CO-SPONSOR)",
           "relationship": "alternate_spelling"
@@ -5651,11 +5641,15 @@
       ]
     },
     {
-      "canonical": "AMERICAN CIVIL LIBERTIES UNION OF CALIFORNIA (CO-SPONSOR)",
+      "canonical": "AMERICAN CIVIL LIBERTIES UNION OF CALIFORNIA",
       "status": "active",
       "children": [
         {
           "name": "THE AMERICAN CIVIL LIBERTIES UNION OF CALIFORNIA (CO-SPONSOR)",
+          "relationship": "alternate_spelling"
+        },
+        {
+          "name": "AMERICAN CIVIL LIBERTIES UNION OF CALIFORNIA (CO-SPONSOR)",
           "relationship": "alternate_spelling"
         }
       ]
@@ -6627,15 +6621,7 @@
           "relationship": "alternate_spelling"
         },
         {
-          "name": "AMERICAN FEDERATION OF STATE, COUNTY AND MUNICIPAL EMPLOYEES, AFL-CIO",
-          "relationship": "alternate_spelling"
-        },
-        {
           "name": "AMERICAN FEDERATION OF STATE, COUNTY AND MUNICIPAL EMPLOYEES...",
-          "relationship": "alternate_spelling"
-        },
-        {
-          "name": "AMERICAN FEDERATION OF STATE, COUNTY, AND MUNICIPAL EMPLOYEES",
           "relationship": "alternate_spelling"
         },
         {
@@ -6717,11 +6703,15 @@
       ]
     },
     {
-      "canonical": "AMERICAN FEDERATION OF STATE, COUNTY AND MUNICIPAL EMPLOYEES, AFL-CIO (CO-SPONSOR)",
+      "canonical": "AMERICAN FEDERATION OF STATE, COUNTY AND MUNICIPAL EMPLOYEES, AFL-CIO",
       "status": "active",
       "children": [
         {
           "name": "THE AMERICAN FEDERATION OF STATE, COUNTY AND MUNICIPAL EMPLOYEES, AFL-CIO (CO-SPONSOR)",
+          "relationship": "alternate_spelling"
+        },
+        {
+          "name": "AMERICAN FEDERATION OF STATE, COUNTY AND MUNICIPAL EMPLOYEES, AFL-CIO (CO-SPONSOR)",
           "relationship": "alternate_spelling"
         }
       ]
@@ -6785,11 +6775,15 @@
       ]
     },
     {
-      "canonical": "AMERICAN FEDERATION OF STATE, COUNTY, AND MUNICIPAL EMPLOYEES (CO-SPONSOR)",
+      "canonical": "AMERICAN FEDERATION OF STATE, COUNTY, AND MUNICIPAL EMPLOYEES",
       "status": "active",
       "children": [
         {
           "name": "THE AMERICAN FEDERATION OF STATE, COUNTY, AND MUNICIPAL EMPLOYEES (CO-SPONSOR)",
+          "relationship": "alternate_spelling"
+        },
+        {
+          "name": "AMERICAN FEDERATION OF STATE, COUNTY, AND MUNICIPAL EMPLOYEES (CO-SPONSOR)",
           "relationship": "alternate_spelling"
         }
       ]
@@ -11887,13 +11881,11 @@
         {
           "name": "Association for Los Angeles Deputy Sheriffs, Inc.",
           "relationship": "alternate_spelling"
-        }
-      ]
-    },
-    {
-      "canonical": "ASSOCIATION FOR LOS ANGELES DEPUTY SHERIFFS (CO-SPONSOR)",
-      "status": "active",
-      "children": [
+        },
+        {
+          "name": "ASSOCIATION FOR LOS ANGELES DEPUTY SHERIFFS (CO-SPONSOR)",
+          "relationship": "alternate_spelling"
+        },
         {
           "name": "THE ASSOCIATION FOR LOS ANGELES DEPUTY SHERIFFS (CO-SPONSOR)",
           "relationship": "alternate_spelling"
@@ -25867,13 +25859,11 @@
         {
           "name": "CALIFORNIA COALITION FOR CHILDREN'S SAFETY AND HEALTH (CCCSH)",
           "relationship": "alternate_spelling"
-        }
-      ]
-    },
-    {
-      "canonical": "CALIFORNIA COALITION FOR CHILDREN'S SAFETY AND HEALTH (CO-SPONSOR)",
-      "status": "active",
-      "children": [
+        },
+        {
+          "name": "CALIFORNIA COALITION FOR CHILDREN'S SAFETY AND HEALTH (CO-SPONSOR)",
+          "relationship": "alternate_spelling"
+        },
         {
           "name": "THE CALIFORNIA COALITION FOR CHILDREN'S SAFETY AND HEALTH (CO-SPONSOR)",
           "relationship": "alternate_spelling"
@@ -28015,13 +28005,11 @@
         {
           "name": "CALIFORNIA EMPLOYMENT LAWYERS ASSOCIATION (CELA)",
           "relationship": "alternate_spelling"
-        }
-      ]
-    },
-    {
-      "canonical": "CALIFORNIA EMPLOYMENT LAWYERS ASSOCIATION (CO-SPONSOR)",
-      "status": "active",
-      "children": [
+        },
+        {
+          "name": "CALIFORNIA EMPLOYMENT LAWYERS ASSOCIATION (CO-SPONSOR)",
+          "relationship": "alternate_spelling"
+        },
         {
           "name": "THE CALIFORNIA EMPLOYMENT LAWYERS ASSOCIATION (CO-SPONSOR)",
           "relationship": "alternate_spelling"
@@ -32585,13 +32573,11 @@
         {
           "name": "California Professional Firefighters, California",
           "relationship": "chapter"
-        }
-      ]
-    },
-    {
-      "canonical": "CALIFORNIA PROFESSIONAL FIREFIGHTERS (CO-SPONSOR)",
-      "status": "active",
-      "children": [
+        },
+        {
+          "name": "CALIFORNIA PROFESSIONAL FIREFIGHTERS (CO-SPONSOR)",
+          "relationship": "alternate_spelling"
+        },
         {
           "name": "THE CALIFORNIA PROFESSIONAL FIREFIGHTERS (CO-SPONSOR)",
           "relationship": "alternate_spelling"
@@ -41247,13 +41233,11 @@
         {
           "name": "THE CHILDREN'S PARTNERSHIP",
           "relationship": "alternate_spelling"
-        }
-      ]
-    },
-    {
-      "canonical": "CHILDREN'S PARTNERSHIP (CO-SPONSOR)",
-      "status": "active",
-      "children": [
+        },
+        {
+          "name": "CHILDREN'S PARTNERSHIP (CO-SPONSOR)",
+          "relationship": "alternate_spelling"
+        },
         {
           "name": "THE CHILDREN'S PARTNERSHIP (CO-SPONSOR)",
           "relationship": "alternate_spelling"
@@ -46538,13 +46522,11 @@
         {
           "name": "California Coalition of California Welfare Rights Organizations",
           "relationship": "alternate_spelling"
-        }
-      ]
-    },
-    {
-      "canonical": "COALITION OF CALIFORNIA WELFARE RIGHTS ORGANIZATIONS (CO-SPONSOR)",
-      "status": "active",
-      "children": [
+        },
+        {
+          "name": "COALITION OF CALIFORNIA WELFARE RIGHTS ORGANIZATIONS (CO-SPONSOR)",
+          "relationship": "alternate_spelling"
+        },
         {
           "name": "THE COALITION OF CALIFORNIA WELFARE RIGHTS ORGANIZATIONS (CO-SPONSOR)",
           "relationship": "alternate_spelling"
@@ -55684,13 +55666,11 @@
         {
           "name": "California Department of Real Estate (DRE)",
           "relationship": "chapter"
-        }
-      ]
-    },
-    {
-      "canonical": "DEPARTMENT OF REAL ESTATE (SPONSOR)",
-      "status": "active",
-      "children": [
+        },
+        {
+          "name": "DEPARTMENT OF REAL ESTATE (SPONSOR)",
+          "relationship": "alternate_spelling"
+        },
         {
           "name": "THE DEPARTMENT OF REAL ESTATE (SPONSOR)",
           "relationship": "alternate_spelling"
@@ -72452,13 +72432,11 @@
         {
           "name": "THE HOME OFFICE AND BUSINESS OPPORTUNITIES ASSOCIATION OF CALIFORNIA",
           "relationship": "alternate_spelling"
-        }
-      ]
-    },
-    {
-      "canonical": "HOME OFFICE AND BUSINESS OPPORTUNITIES ASSOCIATION OF CALIFORNIA (SPONSOR)",
-      "status": "active",
-      "children": [
+        },
+        {
+          "name": "HOME OFFICE AND BUSINESS OPPORTUNITIES ASSOCIATION OF CALIFORNIA (SPONSOR)",
+          "relationship": "alternate_spelling"
+        },
         {
           "name": "THE HOME OFFICE AND BUSINESS OPPORTUNITIES ASSOCIATION OF CALIFORNIA (SPONSOR)",
           "relationship": "alternate_spelling"
@@ -82112,13 +82090,11 @@
         {
           "name": "THE LEAGUE OF CALIFORNIA CITIES (LCC)",
           "relationship": "alternate_spelling"
-        }
-      ]
-    },
-    {
-      "canonical": "LEAGUE OF CALIFORNIA CITIES (CO-SPONSOR)",
-      "status": "active",
-      "children": [
+        },
+        {
+          "name": "LEAGUE OF CALIFORNIA CITIES (CO-SPONSOR)",
+          "relationship": "alternate_spelling"
+        },
         {
           "name": "THE LEAGUE OF CALIFORNIA CITIES (CO-SPONSOR)",
           "relationship": "alternate_spelling"
@@ -82345,9 +82321,14 @@
       "children": []
     },
     {
-      "canonical": "LEAGUE OF WOMEN VOTERS OF MONTEREY COUNTY (PRIOR VERSION)",
+      "canonical": "LEAGUE OF WOMEN VOTERS OF MONTEREY COUNTY",
       "status": "active",
-      "children": []
+      "children": [
+        {
+          "name": "LEAGUE OF WOMEN VOTERS OF MONTEREY COUNTY (PRIOR VERSION)",
+          "relationship": "alternate_spelling"
+        }
+      ]
     },
     {
       "canonical": "LEAGUE OF WOMEN VOTERS OF PALO ALTO",
@@ -82725,13 +82706,11 @@
         {
           "name": "THE LEGAL AID SOCIETY-EMPLOYMENT LAW CENTER",
           "relationship": "alternate_spelling"
-        }
-      ]
-    },
-    {
-      "canonical": "LEGAL AID SOCIETY-EMPLOYMENT LAW CENTER (CO-SPONSOR)",
-      "status": "active",
-      "children": [
+        },
+        {
+          "name": "LEGAL AID SOCIETY-EMPLOYMENT LAW CENTER (CO-SPONSOR)",
+          "relationship": "alternate_spelling"
+        },
         {
           "name": "THE LEGAL AID SOCIETY-EMPLOYMENT LAW CENTER (CO-SPONSOR)",
           "relationship": "alternate_spelling"
@@ -85488,13 +85467,11 @@
         {
           "name": "LOS ANGELES POLICE PROTECTIVE LEAGUE (LAPPL)",
           "relationship": "alternate_spelling"
-        }
-      ]
-    },
-    {
-      "canonical": "LOS ANGELES POLICE PROTECTIVE LEAGUE (CO-SPONSOR)",
-      "status": "active",
-      "children": [
+        },
+        {
+          "name": "LOS ANGELES POLICE PROTECTIVE LEAGUE (CO-SPONSOR)",
+          "relationship": "alternate_spelling"
+        },
         {
           "name": "THE LOS ANGELES POLICE PROTECTIVE LEAGUE (CO-SPONSOR)",
           "relationship": "alternate_spelling"
@@ -89278,13 +89255,11 @@
         {
           "name": "THE MICHELSON CENTER FOR PUBLIC POLICY",
           "relationship": "alternate_spelling"
-        }
-      ]
-    },
-    {
-      "canonical": "MICHELSON CENTER FOR PUBLIC POLICY (CO-SPONSOR)",
-      "status": "active",
-      "children": [
+        },
+        {
+          "name": "MICHELSON CENTER FOR PUBLIC POLICY (CO-SPONSOR)",
+          "relationship": "alternate_spelling"
+        },
         {
           "name": "THE MICHELSON CENTER FOR PUBLIC POLICY (CO-SPONSOR)",
           "relationship": "alternate_spelling"
@@ -90449,12 +90424,12 @@
     {
       "canonical": "MONTEREY COUNTY SUPERVISOR JANE PARKER",
       "status": "active",
-      "children": []
-    },
-    {
-      "canonical": "MONTEREY COUNTY SUPERVISOR JANE PARKER (PRIOR VERSION)",
-      "status": "active",
-      "children": []
+      "children": [
+        {
+          "name": "MONTEREY COUNTY SUPERVISOR JANE PARKER (PRIOR VERSION)",
+          "relationship": "alternate_spelling"
+        }
+      ]
     },
     {
       "canonical": "Monterey Fish Company",
@@ -95034,13 +95009,11 @@
         {
           "name": "Nature Conservancy California",
           "relationship": "chapter"
-        }
-      ]
-    },
-    {
-      "canonical": "NATURE CONSERVANCY (CO-SPONSOR)",
-      "status": "active",
-      "children": [
+        },
+        {
+          "name": "NATURE CONSERVANCY (CO-SPONSOR)",
+          "relationship": "alternate_spelling"
+        },
         {
           "name": "THE NATURE CONSERVANCY (CO-SPONSOR)",
           "relationship": "alternate_spelling"
@@ -106653,13 +106626,11 @@
         {
           "name": "PUBLIC INTEREST LAW PROJECT (PILP)",
           "relationship": "alternate_spelling"
-        }
-      ]
-    },
-    {
-      "canonical": "PUBLIC INTEREST LAW PROJECT (CO-SPONSOR)",
-      "status": "active",
-      "children": [
+        },
+        {
+          "name": "PUBLIC INTEREST LAW PROJECT (CO-SPONSOR)",
+          "relationship": "alternate_spelling"
+        },
         {
           "name": "THE PUBLIC INTEREST LAW PROJECT (CO-SPONSOR)",
           "relationship": "alternate_spelling"
@@ -110057,13 +110028,11 @@
         {
           "name": "THE RIVERSIDE SHERIFFS' ASSOCIATION",
           "relationship": "alternate_spelling"
-        }
-      ]
-    },
-    {
-      "canonical": "RIVERSIDE SHERIFFS' ASSOCIATION (CO-SPONSOR)",
-      "status": "active",
-      "children": [
+        },
+        {
+          "name": "RIVERSIDE SHERIFFS' ASSOCIATION (CO-SPONSOR)",
+          "relationship": "alternate_spelling"
+        },
         {
           "name": "THE RIVERSIDE SHERIFFS' ASSOCIATION (CO-SPONSOR)",
           "relationship": "alternate_spelling"
@@ -122498,13 +122467,11 @@
         {
           "name": "California State Council on Developmental Disabilities (SCDD)",
           "relationship": "chapter"
-        }
-      ]
-    },
-    {
-      "canonical": "STATE COUNCIL ON DEVELOPMENTAL DISABILITIES (CO-SPONSOR)",
-      "status": "active",
-      "children": [
+        },
+        {
+          "name": "STATE COUNCIL ON DEVELOPMENTAL DISABILITIES (CO-SPONSOR)",
+          "relationship": "alternate_spelling"
+        },
         {
           "name": "THE STATE COUNCIL ON DEVELOPMENTAL DISABILITIES (CO-SPONSOR)",
           "relationship": "alternate_spelling"
@@ -122544,13 +122511,11 @@
         {
           "name": "California State Department of Mental Health",
           "relationship": "chapter"
-        }
-      ]
-    },
-    {
-      "canonical": "STATE DEPARTMENT OF MENTAL HEALTH (SPONSOR)",
-      "status": "active",
-      "children": [
+        },
+        {
+          "name": "STATE DEPARTMENT OF MENTAL HEALTH (SPONSOR)",
+          "relationship": "alternate_spelling"
+        },
         {
           "name": "THE STATE DEPARTMENT OF MENTAL HEALTH (SPONSOR)",
           "relationship": "alternate_spelling"
@@ -123164,13 +123129,11 @@
         {
           "name": "THE STEINBERG INSTITUTE",
           "relationship": "alternate_spelling"
-        }
-      ]
-    },
-    {
-      "canonical": "STEINBERG INSTITUTE (CO-SPONSOR)",
-      "status": "active",
-      "children": [
+        },
+        {
+          "name": "STEINBERG INSTITUTE (CO-SPONSOR)",
+          "relationship": "alternate_spelling"
+        },
         {
           "name": "THE STEINBERG INSTITUTE (CO-SPONSOR)",
           "relationship": "alternate_spelling"
@@ -133021,13 +132984,11 @@
         {
           "name": "THE W. HAYWOOD BURNS INSTITUTE",
           "relationship": "alternate_spelling"
-        }
-      ]
-    },
-    {
-      "canonical": "W. HAYWOOD BURNS INSTITUTE (CO-SPONSOR)",
-      "status": "active",
-      "children": [
+        },
+        {
+          "name": "W. HAYWOOD BURNS INSTITUTE (CO-SPONSOR)",
+          "relationship": "alternate_spelling"
+        },
         {
           "name": "THE W. HAYWOOD BURNS INSTITUTE (CO-SPONSOR)",
           "relationship": "alternate_spelling"
@@ -134411,13 +134372,11 @@
         {
           "name": "THE WESTERN CENTER ON LAW AND POVERTY (WCLP)",
           "relationship": "alternate_spelling"
-        }
-      ]
-    },
-    {
-      "canonical": "WESTERN CENTER ON LAW AND POVERTY (CO-SPONSOR)",
-      "status": "active",
-      "children": [
+        },
+        {
+          "name": "WESTERN CENTER ON LAW AND POVERTY (CO-SPONSOR)",
+          "relationship": "alternate_spelling"
+        },
         {
           "name": "THE WESTERN CENTER ON LAW AND POVERTY (CO-SPONSOR)",
           "relationship": "alternate_spelling"
@@ -134622,9 +134581,14 @@
       ]
     },
     {
-      "canonical": "WESTERN MANUFACTURED HOUSING COMMUNITIES ASSOCIATION (WMA) (OPPOSE UNLESS AMENDED)",
+      "canonical": "WESTERN MANUFACTURED HOUSING COMMUNITIES ASSOCIATION (WMA)",
       "status": "active",
-      "children": []
+      "children": [
+        {
+          "name": "WESTERN MANUFACTURED HOUSING COMMUNITIES ASSOCIATION (WMA) (OPPOSE UNLESS AMENDED)",
+          "relationship": "alternate_spelling"
+        }
+      ]
     },
     {
       "canonical": "WESTERN MOBILEHOME ASSOCIATION",
@@ -136027,12 +135991,11 @@
     {
       "canonical": "WOMEN'S FOUNDATION OF CALIFORNIA",
       "status": "active",
-      "children": []
-    },
-    {
-      "canonical": "WOMEN'S FOUNDATION OF CALIFORNIA (CO-SPONSOR)",
-      "status": "active",
       "children": [
+        {
+          "name": "WOMEN'S FOUNDATION OF CALIFORNIA (CO-SPONSOR)",
+          "relationship": "alternate_spelling"
+        },
         {
           "name": "THE WOMEN'S FOUNDATION OF CALIFORNIA (CO-SPONSOR)",
           "relationship": "alternate_spelling"
@@ -136842,13 +136805,11 @@
         {
           "name": "THE YOUNG WOMEN'S FREEDOM CENTER",
           "relationship": "alternate_spelling"
-        }
-      ]
-    },
-    {
-      "canonical": "YOUNG WOMEN'S FREEDOM CENTER (CO-SPONSOR)",
-      "status": "active",
-      "children": [
+        },
+        {
+          "name": "YOUNG WOMEN'S FREEDOM CENTER (CO-SPONSOR)",
+          "relationship": "alternate_spelling"
+        },
         {
           "name": "THE YOUNG WOMEN'S FREEDOM CENTER (CO-SPONSOR)",
           "relationship": "alternate_spelling"
@@ -136988,13 +136949,11 @@
         {
           "name": "California Youth Law Center",
           "relationship": "chapter"
-        }
-      ]
-    },
-    {
-      "canonical": "YOUTH LAW CENTER (CO-SPONSOR)",
-      "status": "active",
-      "children": [
+        },
+        {
+          "name": "YOUTH LAW CENTER (CO-SPONSOR)",
+          "relationship": "alternate_spelling"
+        },
         {
           "name": "THE YOUTH LAW CENTER (CO-SPONSOR)",
           "relationship": "alternate_spelling"

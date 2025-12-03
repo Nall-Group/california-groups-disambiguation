@@ -1,0 +1,14 @@
+# Regex patterns to remove from the END of organization names
+# These are metadata about bill relationships, not part of the org name
+# Each pattern starts with (?i) to make it case-insensitive
+
+(?i)\s*\(co-sponsor\)\s*$
+(?i)\s*\(sponsor\)\s*$
+(?i)\s*\(sponsors\)\s*$
+(?i)\s*\(co-source\)\s*$
+(?i)\s*\(prior version\)\s*$
+(?i)\s*\(oppose\)\s*$
+(?i)\s*\(oppose unless amended\)\s*$
+(?i)\s*\("in concept"\)\s*$
+(?i)\s*\(principal co-sponsor\)\s*$
+(?i)\s*\(co-sponsors\)\s*$
