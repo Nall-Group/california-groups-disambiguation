@@ -1986,9 +1986,14 @@
       "children": []
     },
     {
-      "canonical": "ADVOCATES FOR AFFORDABLE HOUSING (MOUNTAIN VIEW)",
+      "canonical": "ADVOCATES FOR AFFORDABLE HOUSING",
       "status": "active",
-      "children": []
+      "children": [
+        {
+          "name": "ADVOCATES FOR AFFORDABLE HOUSING (MOUNTAIN VIEW)",
+          "relationship": "alternate_spelling"
+        }
+      ]
     },
     {
       "canonical": "Advocates For Consumer Equity",
@@ -2169,13 +2174,12 @@
         {
           "name": "Affordable Homeless Housing Alternatives, Inc",
           "relationship": "alternate_spelling"
+        },
+        {
+          "name": "AFFORDABLE HOMELESS HOUSING ALTERNATIVES (AHHA)",
+          "relationship": "alternate_spelling"
         }
       ]
-    },
-    {
-      "canonical": "AFFORDABLE HOMELESS HOUSING ALTERNATIVES (AHHA)",
-      "status": "active",
-      "children": []
     },
     {
       "canonical": "AFFORDABLE HOMES COLLABORATIVE",
@@ -3764,13 +3768,12 @@
         {
           "name": "Alliance of California",
           "relationship": "chapter"
+        },
+        {
+          "name": "ALLIANCE (CMPA)",
+          "relationship": "alternate_spelling"
         }
       ]
-    },
-    {
-      "canonical": "ALLIANCE (CMPA)",
-      "status": "active",
-      "children": []
     },
     {
       "canonical": "Alliance Against Racial Mascots",
@@ -7046,11 +7049,15 @@
       ]
     },
     {
-      "canonical": "AMERICAN HEART/AMERICAN STROKE ASSOCIATION (AHA/ASA)",
+      "canonical": "AMERICAN HEART/AMERICAN STROKE ASSOCIATION",
       "status": "active",
       "children": [
         {
           "name": "THE AMERICAN HEART/AMERICAN STROKE ASSOCIATION (AHA/ASA)",
+          "relationship": "alternate_spelling"
+        },
+        {
+          "name": "AMERICAN HEART/AMERICAN STROKE ASSOCIATION (AHA/ASA)",
           "relationship": "alternate_spelling"
         }
       ]
@@ -8401,13 +8408,11 @@
         {
           "name": "American Veterans of California",
           "relationship": "chapter"
-        }
-      ]
-    },
-    {
-      "canonical": "American Veterans (AMVETS)",
-      "status": "active",
-      "children": [
+        },
+        {
+          "name": "American Veterans (AMVETS)",
+          "relationship": "alternate_spelling"
+        },
         {
           "name": "American Veterans (AMVETS) of California",
           "relationship": "chapter"
@@ -9373,13 +9378,11 @@
         {
           "name": "THE ANTI-RECIDIVISM COALITION",
           "relationship": "alternate_spelling"
-        }
-      ]
-    },
-    {
-      "canonical": "ANTI-RECIDIVISM COALITION (ARC)",
-      "status": "active",
-      "children": [
+        },
+        {
+          "name": "ANTI-RECIDIVISM COALITION (ARC)",
+          "relationship": "alternate_spelling"
+        },
         {
           "name": "THE ANTI-RECIDIVISM COALITION (ARC)",
           "relationship": "alternate_spelling"
@@ -13328,13 +13331,11 @@
         {
           "name": "THE ASSOCIATION OF SETTLEMENT COMPANIES",
           "relationship": "alternate_spelling"
-        }
-      ]
-    },
-    {
-      "canonical": "ASSOCIATION OF SETTLEMENT COMPANIES (TASC)",
-      "status": "active",
-      "children": [
+        },
+        {
+          "name": "ASSOCIATION OF SETTLEMENT COMPANIES (TASC)",
+          "relationship": "alternate_spelling"
+        },
         {
           "name": "THE ASSOCIATION OF SETTLEMENT COMPANIES (TASC)",
           "relationship": "alternate_spelling"
@@ -15890,9 +15891,14 @@
       ]
     },
     {
-      "canonical": "BERKELEY NEEDLE EXCHANGE EMERGENCY DISTRIBUTION (BERKELEY NEED)",
+      "canonical": "BERKELEY NEEDLE EXCHANGE EMERGENCY DISTRIBUTION",
       "status": "active",
-      "children": []
+      "children": [
+        {
+          "name": "BERKELEY NEEDLE EXCHANGE EMERGENCY DISTRIBUTION (BERKELEY NEED)",
+          "relationship": "alternate_spelling"
+        }
+      ]
     },
     {
       "canonical": "BERKELEY ORGANIZING CONGREGATIONS FOR ACTION",
@@ -20622,13 +20628,11 @@
         {
           "name": "THE CALIFORNIA AGRICULTURAL COMMISSIONERS AND SEALERS ASSOCIATION",
           "relationship": "alternate_spelling"
-        }
-      ]
-    },
-    {
-      "canonical": "CALIFORNIA AGRICULTURAL COMMISSIONERS AND SEALERS ASSOCIATION (CACASA)",
-      "status": "active",
-      "children": [
+        },
+        {
+          "name": "CALIFORNIA AGRICULTURAL COMMISSIONERS AND SEALERS ASSOCIATION (CACASA)",
+          "relationship": "alternate_spelling"
+        },
         {
           "name": "THE CALIFORNIA AGRICULTURAL COMMISSIONERS AND SEALERS ASSOCIATION (CACASA)",
           "relationship": "alternate_spelling"
@@ -21476,11 +21480,15 @@
       ]
     },
     {
-      "canonical": "CALIFORNIA ASSOCIATION FOR BILINGUAL EDUCATION (CABE)",
+      "canonical": "CALIFORNIA ASSOCIATION FOR BILINGUAL EDUCATION",
       "status": "active",
       "children": [
         {
           "name": "CABE",
+          "relationship": "alternate_spelling"
+        },
+        {
+          "name": "CALIFORNIA ASSOCIATION FOR BILINGUAL EDUCATION (CABE)",
           "relationship": "alternate_spelling"
         }
       ]
@@ -21512,13 +21520,11 @@
         {
           "name": "THE CALIFORNIA ASSOCIATION FOR HEALTH SERVICES AT HOME",
           "relationship": "alternate_spelling"
-        }
-      ]
-    },
-    {
-      "canonical": "CALIFORNIA ASSOCIATION FOR HEALTH SERVICES AT HOME (CAHSAH)",
-      "status": "active",
-      "children": [
+        },
+        {
+          "name": "CALIFORNIA ASSOCIATION FOR HEALTH SERVICES AT HOME (CAHSAH)",
+          "relationship": "alternate_spelling"
+        },
         {
           "name": "THE CALIFORNIA ASSOCIATION FOR HEALTH SERVICES AT HOME (CAHSAH)",
           "relationship": "alternate_spelling"
@@ -21808,13 +21814,11 @@
         {
           "name": "THE CALIFORNIA ASSOCIATION OF AREA AGENCIES ON AGING",
           "relationship": "alternate_spelling"
-        }
-      ]
-    },
-    {
-      "canonical": "CALIFORNIA ASSOCIATION OF AREA AGENCIES ON AGING (C4A)",
-      "status": "active",
-      "children": [
+        },
+        {
+          "name": "CALIFORNIA ASSOCIATION OF AREA AGENCIES ON AGING (C4A)",
+          "relationship": "alternate_spelling"
+        },
         {
           "name": "THE CALIFORNIA ASSOCIATION OF AREA AGENCIES ON AGING (C4A)",
           "relationship": "alternate_spelling"
@@ -22550,13 +22554,11 @@
         {
           "name": "CALIFORNIA ASSOCIATION OF JOINT POWERS AUTHORITY (CAJPA)",
           "relationship": "alternate_spelling"
-        }
-      ]
-    },
-    {
-      "canonical": "CALIFORNIA ASSOCIATION OF JOINT POWERS AUTHORITIES (CJPA)",
-      "status": "active",
-      "children": [
+        },
+        {
+          "name": "CALIFORNIA ASSOCIATION OF JOINT POWERS AUTHORITIES (CJPA)",
+          "relationship": "alternate_spelling"
+        },
         {
           "name": "THE CALIFORNIA ASSOCIATION OF JOINT POWERS AUTHORITIES (CJPA)",
           "relationship": "alternate_spelling"
@@ -23344,13 +23346,11 @@
         {
           "name": "California Association of Realtors, California",
           "relationship": "chapter"
-        }
-      ]
-    },
-    {
-      "canonical": "CALIFORNIA ASSOCIATION OF REALTORS (C.A.R.)",
-      "status": "active",
-      "children": [
+        },
+        {
+          "name": "CALIFORNIA ASSOCIATION OF REALTORS (C.A.R.)",
+          "relationship": "alternate_spelling"
+        },
         {
           "name": "THE CALIFORNIA ASSOCIATION OF REALTORS (C.A.R.)",
           "relationship": "alternate_spelling"
@@ -24759,11 +24759,15 @@
       ]
     },
     {
-      "canonical": "CALIFORNIA CHAPTER OF THE NATIONAL EMERGENCY NUMBER ASSOCIATION (CALNENA)",
+      "canonical": "CALIFORNIA CHAPTER OF THE NATIONAL EMERGENCY NUMBER ASSOCIATION",
       "status": "active",
       "children": [
         {
           "name": "THE CALIFORNIA CHAPTER OF THE NATIONAL EMERGENCY NUMBER ASSOCIATION (CALNENA)",
+          "relationship": "alternate_spelling"
+        },
+        {
+          "name": "CALIFORNIA CHAPTER OF THE NATIONAL EMERGENCY NUMBER ASSOCIATION (CALNENA)",
           "relationship": "alternate_spelling"
         }
       ]
@@ -29732,11 +29736,15 @@
       ]
     },
     {
-      "canonical": "CALIFORNIA LONG-TERM CARE OMBUDSMAN ASSOCIATION (CLTCOA)",
+      "canonical": "CALIFORNIA LONG-TERM CARE OMBUDSMAN ASSOCIATION",
       "status": "active",
       "children": [
         {
           "name": "THE CALIFORNIA LONG-TERM CARE OMBUDSMAN ASSOCIATION (CLTCOA)",
+          "relationship": "alternate_spelling"
+        },
+        {
+          "name": "CALIFORNIA LONG-TERM CARE OMBUDSMAN ASSOCIATION (CLTCOA)",
           "relationship": "alternate_spelling"
         }
       ]
@@ -30393,13 +30401,11 @@
         {
           "name": "California National Organization for Women, Inc",
           "relationship": "alternate_spelling"
-        }
-      ]
-    },
-    {
-      "canonical": "CALIFORNIA NATIONAL ORGANIZATION FOR WOMEN (CANOW)",
-      "status": "active",
-      "children": [
+        },
+        {
+          "name": "CALIFORNIA NATIONAL ORGANIZATION FOR WOMEN (CANOW)",
+          "relationship": "alternate_spelling"
+        },
         {
           "name": "THE CALIFORNIA NATIONAL ORGANIZATION FOR WOMEN (CANOW)",
           "relationship": "alternate_spelling"
@@ -30413,13 +30419,11 @@
         {
           "name": "California National Organization of Women, Inc",
           "relationship": "alternate_spelling"
-        }
-      ]
-    },
-    {
-      "canonical": "California National Organization of Women (NOW)",
-      "status": "active",
-      "children": [
+        },
+        {
+          "name": "California National Organization of Women (NOW)",
+          "relationship": "alternate_spelling"
+        },
         {
           "name": "California National Organization of Women (NOW) California",
           "relationship": "chapter"
@@ -31164,13 +31168,11 @@
         {
           "name": "THE CALIFORNIA PHARMACISTS ASSOCIATION",
           "relationship": "alternate_spelling"
-        }
-      ]
-    },
-    {
-      "canonical": "CALIFORNIA PHARMACISTS ASSOCIATION (CPHA)",
-      "status": "active",
-      "children": [
+        },
+        {
+          "name": "CALIFORNIA PHARMACISTS ASSOCIATION (CPHA)",
+          "relationship": "alternate_spelling"
+        },
         {
           "name": "THE CALIFORNIA PHARMACISTS ASSOCIATION (CPHA)",
           "relationship": "alternate_spelling"
@@ -32605,13 +32607,11 @@
         {
           "name": "CALIFORNIA SOCIETY OF CERTIFIED PUBLIC ACCOUNTANTS (CSCPA)",
           "relationship": "alternate_spelling"
-        }
-      ]
-    },
-    {
-      "canonical": "CALIFORNIA SOCIETY OF CERTIFIED PUBLIC ACCOUNTANTS (CALCPA)",
-      "status": "active",
-      "children": [
+        },
+        {
+          "name": "CALIFORNIA SOCIETY OF CERTIFIED PUBLIC ACCOUNTANTS (CALCPA)",
+          "relationship": "alternate_spelling"
+        },
         {
           "name": "THE CALIFORNIA SOCIETY OF CERTIFIED PUBLIC ACCOUNTANTS (CALCPA)",
           "relationship": "alternate_spelling"
@@ -33512,11 +33512,15 @@
       ]
     },
     {
-      "canonical": "CALIFORNIA STATE LEGISLATIVE BOARD OF THE SHEET METAL, AIR, RAIL AND TRANSPORTATION WORKERS - TRANSPORTATION DIVISION (SMART-TD)",
+      "canonical": "CALIFORNIA STATE LEGISLATIVE BOARD OF THE SHEET METAL, AIR, RAIL AND TRANSPORTATION WORKERS - TRANSPORTATION DIVISION",
       "status": "active",
       "children": [
         {
           "name": "THE CALIFORNIA STATE LEGISLATIVE BOARD OF THE SHEET METAL, AIR, RAIL AND TRANSPORTATION WORKERS - TRANSPORTATION DIVISION (SMART-TD)",
+          "relationship": "alternate_spelling"
+        },
+        {
+          "name": "CALIFORNIA STATE LEGISLATIVE BOARD OF THE SHEET METAL, AIR, RAIL AND TRANSPORTATION WORKERS - TRANSPORTATION DIVISION (SMART-TD)",
           "relationship": "alternate_spelling"
         }
       ]
@@ -34537,11 +34541,15 @@
       "children": []
     },
     {
-      "canonical": "CALIFORNIA WIND ENERGY ASSOCIATION (CALWEA)",
+      "canonical": "CALIFORNIA WIND ENERGY ASSOCIATION",
       "status": "active",
       "children": [
         {
           "name": "THE CALIFORNIA WIND ENERGY ASSOCIATION (CALWEA)",
+          "relationship": "alternate_spelling"
+        },
+        {
+          "name": "CALIFORNIA WIND ENERGY ASSOCIATION (CALWEA)",
           "relationship": "alternate_spelling"
         }
       ]
@@ -37618,13 +37626,11 @@
         {
           "name": "Central American Resource Center of California",
           "relationship": "chapter"
-        }
-      ]
-    },
-    {
-      "canonical": "Central American Resource Center (CARECEN)",
-      "status": "active",
-      "children": [
+        },
+        {
+          "name": "Central American Resource Center (CARECEN)",
+          "relationship": "alternate_spelling"
+        },
         {
           "name": "Central American Resource Center (CARECEN) of California",
           "relationship": "chapter"
@@ -39094,13 +39100,11 @@
         {
           "name": "THE CHILD ABUSE PREVENTION CENTER",
           "relationship": "alternate_spelling"
-        }
-      ]
-    },
-    {
-      "canonical": "CHILD ABUSE PREVENTION CENTER (CAP CENTER)",
-      "status": "active",
-      "children": [
+        },
+        {
+          "name": "CHILD ABUSE PREVENTION CENTER (CAP CENTER)",
+          "relationship": "alternate_spelling"
+        },
         {
           "name": "THE CHILD ABUSE PREVENTION CENTER (CAP CENTER)",
           "relationship": "alternate_spelling"
@@ -43530,9 +43534,14 @@
       ]
     },
     {
-      "canonical": "CLARION ALLEY MURAL PROJECT (CAMP)",
+      "canonical": "CLARION ALLEY MURAL PROJECT",
       "status": "active",
-      "children": []
+      "children": [
+        {
+          "name": "CLARION ALLEY MURAL PROJECT (CAMP)",
+          "relationship": "alternate_spelling"
+        }
+      ]
     },
     {
       "canonical": "CLASSICAL ACADEMIES",
@@ -44981,13 +44990,11 @@
         {
           "name": "COALITION OF CALIFORNIA UTILITY EMPLOYEES (CCUE)",
           "relationship": "alternate_spelling"
-        }
-      ]
-    },
-    {
-      "canonical": "COALITION OF CALIFORNIA UTILITY EMPLOYEES (CUE)",
-      "status": "active",
-      "children": [
+        },
+        {
+          "name": "COALITION OF CALIFORNIA UTILITY EMPLOYEES (CUE)",
+          "relationship": "alternate_spelling"
+        },
         {
           "name": "THE COALITION OF CALIFORNIA UTILITY EMPLOYEES (CUE)",
           "relationship": "alternate_spelling"
@@ -45304,13 +45311,12 @@
         {
           "name": "COALITION TO ABOLISH SLAVERY & TRAFFICKING (CAST)",
           "relationship": "alternate_spelling"
+        },
+        {
+          "name": "COALITION TO ABOLISH SLAVERY & TRAFFICKING (CASDT)",
+          "relationship": "alternate_spelling"
         }
       ]
-    },
-    {
-      "canonical": "COALITION TO ABOLISH SLAVERY & TRAFFICKING (CASDT)",
-      "status": "active",
-      "children": []
     },
     {
       "canonical": "COALITION TO ABOLISH SLAVERY AND TRAFFICKING",
@@ -46094,11 +46100,15 @@
       ]
     },
     {
-      "canonical": "COMMISSION ON PEACE OFFICER STANDARDS AND TRAINING (POST)",
+      "canonical": "COMMISSION ON PEACE OFFICER STANDARDS AND TRAINING",
       "status": "active",
       "children": [
         {
           "name": "THE COMMISSION ON PEACE OFFICER STANDARDS AND TRAINING (POST)",
+          "relationship": "alternate_spelling"
+        },
+        {
+          "name": "COMMISSION ON PEACE OFFICER STANDARDS AND TRAINING (POST)",
           "relationship": "alternate_spelling"
         }
       ]
@@ -46437,9 +46447,14 @@
       "children": []
     },
     {
-      "canonical": "COMMUNITIES ASSOCIATION (WMA)",
+      "canonical": "COMMUNITIES ASSOCIATION",
       "status": "active",
-      "children": []
+      "children": [
+        {
+          "name": "COMMUNITIES ASSOCIATION (WMA)",
+          "relationship": "alternate_spelling"
+        }
+      ]
     },
     {
       "canonical": "COMMUNITIES FOR A BETTER ENVIRONMENT",
@@ -48323,12 +48338,12 @@
     {
       "canonical": "CONGREGATIONS ORGANIZED FOR PROPHETIC ENGAGEMENT",
       "status": "active",
-      "children": []
-    },
-    {
-      "canonical": "CONGREGATIONS ORGANIZED FOR PROPHETIC ENGAGEMENT (COPE)",
-      "status": "active",
-      "children": []
+      "children": [
+        {
+          "name": "CONGREGATIONS ORGANIZED FOR PROPHETIC ENGAGEMENT (COPE)",
+          "relationship": "alternate_spelling"
+        }
+      ]
     },
     {
       "canonical": "CONGREGATIONS ORGANIZING FOR RENEWAL",
@@ -49503,9 +49518,14 @@
       ]
     },
     {
-      "canonical": "COOPERATION FOR SUPPORTIVE HOUSING (CSH)",
+      "canonical": "COOPERATION FOR SUPPORTIVE HOUSING",
       "status": "active",
-      "children": []
+      "children": [
+        {
+          "name": "COOPERATION FOR SUPPORTIVE HOUSING (CSH)",
+          "relationship": "alternate_spelling"
+        }
+      ]
     },
     {
       "canonical": "COOPERATIVE DEVELOPMENT FOUNDATION",
@@ -53727,13 +53747,11 @@
         {
           "name": "California Department of Corporations",
           "relationship": "chapter"
-        }
-      ]
-    },
-    {
-      "canonical": "DEPARTMENT OF CORPORATIONS (DOC)",
-      "status": "active",
-      "children": [
+        },
+        {
+          "name": "DEPARTMENT OF CORPORATIONS (DOC)",
+          "relationship": "alternate_spelling"
+        },
         {
           "name": "THE DEPARTMENT OF CORPORATIONS (DOC)",
           "relationship": "alternate_spelling"
@@ -56074,13 +56092,12 @@
         {
           "name": "EAH Inc",
           "relationship": "alternate_spelling"
+        },
+        {
+          "name": "EAH (NONPROFIT HOUSING CORPORATION)",
+          "relationship": "alternate_spelling"
         }
       ]
-    },
-    {
-      "canonical": "EAH (NONPROFIT HOUSING CORPORATION)",
-      "status": "active",
-      "children": []
     },
     {
       "canonical": "EAH HOUSING",
@@ -60111,9 +60128,14 @@
       ]
     },
     {
-      "canonical": "EVANS MANAGEMENT SERVICES (EMS)",
+      "canonical": "EVANS MANAGEMENT SERVICES",
       "status": "active",
-      "children": []
+      "children": [
+        {
+          "name": "EVANS MANAGEMENT SERVICES (EMS)",
+          "relationship": "alternate_spelling"
+        }
+      ]
     },
     {
       "canonical": "Evans Plumbing",
@@ -60246,11 +60268,15 @@
       ]
     },
     {
-      "canonical": "EXECUTIVE COMMITTEE OF THE FAMILY LAW SECTION OF THE STATE BAR (FLEXCOM)",
+      "canonical": "EXECUTIVE COMMITTEE OF THE FAMILY LAW SECTION OF THE STATE BAR",
       "status": "active",
       "children": [
         {
           "name": "THE EXECUTIVE COMMITTEE OF THE FAMILY LAW SECTION OF THE STATE BAR (FLEXCOM)",
+          "relationship": "alternate_spelling"
+        },
+        {
+          "name": "EXECUTIVE COMMITTEE OF THE FAMILY LAW SECTION OF THE STATE BAR (FLEXCOM)",
           "relationship": "alternate_spelling"
         }
       ]
@@ -60346,13 +60372,11 @@
         {
           "name": "THE EXECUTIVE COUNCIL OF HOMEOWNERS",
           "relationship": "alternate_spelling"
-        }
-      ]
-    },
-    {
-      "canonical": "EXECUTIVE COUNCIL OF HOMEOWNERS (ECHO)",
-      "status": "active",
-      "children": [
+        },
+        {
+          "name": "EXECUTIVE COUNCIL OF HOMEOWNERS (ECHO)",
+          "relationship": "alternate_spelling"
+        },
         {
           "name": "THE EXECUTIVE COUNCIL OF HOMEOWNERS (ECHO)",
           "relationship": "alternate_spelling"
@@ -62135,11 +62159,15 @@
       ]
     },
     {
-      "canonical": "FILIPINO AMERICAN SERVICE GROUP INC. (FASGI)",
+      "canonical": "FILIPINO AMERICAN SERVICE GROUP INC.",
       "status": "active",
       "children": [
         {
           "name": "THE FILIPINO AMERICAN SERVICE GROUP INC. (FASGI)",
+          "relationship": "alternate_spelling"
+        },
+        {
+          "name": "FILIPINO AMERICAN SERVICE GROUP INC. (FASGI)",
           "relationship": "alternate_spelling"
         }
       ]
@@ -64481,9 +64509,14 @@
       ]
     },
     {
-      "canonical": "FRIENDS OF THE HILLS (HILLS 2000)",
+      "canonical": "FRIENDS OF THE HILLS",
       "status": "active",
-      "children": []
+      "children": [
+        {
+          "name": "FRIENDS OF THE HILLS (HILLS 2000)",
+          "relationship": "alternate_spelling"
+        }
+      ]
     },
     {
       "canonical": "FRIENDS OF THE RIVER",
@@ -70999,9 +71032,14 @@
       "children": []
     },
     {
-      "canonical": "HOMEOWNERS ORGANIZED TO MAINTAIN EQUITY (H.O.M.E.)",
+      "canonical": "HOMEOWNERS ORGANIZED TO MAINTAIN EQUITY",
       "status": "active",
-      "children": []
+      "children": [
+        {
+          "name": "HOMEOWNERS ORGANIZED TO MAINTAIN EQUITY (H.O.M.E.)",
+          "relationship": "alternate_spelling"
+        }
+      ]
     },
     {
       "canonical": "HOMEOWNERSHIP SAN FRANCISCO",
@@ -71766,9 +71804,14 @@
       "children": []
     },
     {
-      "canonical": "HOUSING ENDOWNMENT AND REGIONAL TRUST OF SAN MATEO COUNTY (HEART)",
+      "canonical": "HOUSING ENDOWNMENT AND REGIONAL TRUST OF SAN MATEO COUNTY",
       "status": "active",
-      "children": []
+      "children": [
+        {
+          "name": "HOUSING ENDOWNMENT AND REGIONAL TRUST OF SAN MATEO COUNTY (HEART)",
+          "relationship": "alternate_spelling"
+        }
+      ]
     },
     {
       "canonical": "HOUSING EQUALITY & ADVOCACY RESOURCE TEAM",
@@ -74478,13 +74521,11 @@
         {
           "name": "THE INSTITUTE FOR COLLEGE ACCESS AND SUCCESS",
           "relationship": "alternate_spelling"
-        }
-      ]
-    },
-    {
-      "canonical": "INSTITUTE FOR COLLEGE ACCESS AND SUCCESS (TICAS)",
-      "status": "active",
-      "children": [
+        },
+        {
+          "name": "INSTITUTE FOR COLLEGE ACCESS AND SUCCESS (TICAS)",
+          "relationship": "alternate_spelling"
+        },
         {
           "name": "THE INSTITUTE FOR COLLEGE ACCESS AND SUCCESS (TICAS)",
           "relationship": "alternate_spelling"
@@ -74696,13 +74737,11 @@
         {
           "name": "THE INSTITUTO DE EDUCACION POPULAR DEL SUR DE CALIFORNIA",
           "relationship": "alternate_spelling"
-        }
-      ]
-    },
-    {
-      "canonical": "INSTITUTO DE EDUCACION POPULAR DEL SUR DE CALIFORNIA (IDEPSCA)",
-      "status": "active",
-      "children": [
+        },
+        {
+          "name": "INSTITUTO DE EDUCACION POPULAR DEL SUR DE CALIFORNIA (IDEPSCA)",
+          "relationship": "alternate_spelling"
+        },
         {
           "name": "THE INSTITUTO DE EDUCACION POPULAR DEL SUR DE CALIFORNIA (IDEPSCA)",
           "relationship": "alternate_spelling"
@@ -74943,9 +74982,14 @@
       "children": []
     },
     {
-      "canonical": "INTERFAITH COUNCIL OF ALAMEDA COUNTY (ICAC)",
+      "canonical": "INTERFAITH COUNCIL OF ALAMEDA COUNTY",
       "status": "active",
-      "children": []
+      "children": [
+        {
+          "name": "INTERFAITH COUNCIL OF ALAMEDA COUNTY (ICAC)",
+          "relationship": "alternate_spelling"
+        }
+      ]
     },
     {
       "canonical": "INTERFAITH COUNCIL OF CONTRA COSTA COUNTY",
@@ -75730,9 +75774,14 @@
       ]
     },
     {
-      "canonical": "INVESTMENT PROPERTY GROUP (IPG)",
+      "canonical": "INVESTMENT PROPERTY GROUP",
       "status": "active",
-      "children": []
+      "children": [
+        {
+          "name": "INVESTMENT PROPERTY GROUP (IPG)",
+          "relationship": "alternate_spelling"
+        }
+      ]
     },
     {
       "canonical": "INYO MONO ADVOCATES FOR COMMUNITY ACTION",
@@ -80035,11 +80084,15 @@
       "children": []
     },
     {
-      "canonical": "LAVENDER YOUTH RECREATION AND INFORMATION CENTER (LYRIC)",
+      "canonical": "LAVENDER YOUTH RECREATION AND INFORMATION CENTER",
       "status": "active",
       "children": [
         {
           "name": "LYRIC",
+          "relationship": "alternate_spelling"
+        },
+        {
+          "name": "LAVENDER YOUTH RECREATION AND INFORMATION CENTER (LYRIC)",
           "relationship": "alternate_spelling"
         }
       ]
@@ -80957,13 +81010,11 @@
         {
           "name": "THE LEGAL AID SOCIETY - EMPLOYMENT LAW CENTER",
           "relationship": "alternate_spelling"
-        }
-      ]
-    },
-    {
-      "canonical": "LEGAL AID SOCIETY - EMPLOYMENT LAW CENTER (LAS-ELC)",
-      "status": "active",
-      "children": [
+        },
+        {
+          "name": "LEGAL AID SOCIETY - EMPLOYMENT LAW CENTER (LAS-ELC)",
+          "relationship": "alternate_spelling"
+        },
         {
           "name": "THE LEGAL AID SOCIETY - EMPLOYMENT LAW CENTER (LAS-ELC)",
           "relationship": "alternate_spelling"
@@ -81750,11 +81801,15 @@
       ]
     },
     {
-      "canonical": "LIFE SKILLS TRAINING AND EDUCATIONAL PROGRAMS, INC. (LIFESTEPS)",
+      "canonical": "LIFE SKILLS TRAINING AND EDUCATIONAL PROGRAMS, INC.",
       "status": "active",
       "children": [
         {
           "name": "LIFE STEPS TRAINING AND EDUCATIONAL PROGRAMS, INC.",
+          "relationship": "alternate_spelling"
+        },
+        {
+          "name": "LIFE SKILLS TRAINING AND EDUCATIONAL PROGRAMS, INC. (LIFESTEPS)",
           "relationship": "alternate_spelling"
         }
       ]
@@ -88055,13 +88110,11 @@
         {
           "name": "THE MISSION ECONOMIC DEVELOPMENT AGENCY",
           "relationship": "alternate_spelling"
-        }
-      ]
-    },
-    {
-      "canonical": "MISSION ECONOMIC DEVELOPMENT AGENCY (MEDA)",
-      "status": "active",
-      "children": [
+        },
+        {
+          "name": "MISSION ECONOMIC DEVELOPMENT AGENCY (MEDA)",
+          "relationship": "alternate_spelling"
+        },
         {
           "name": "MISSION ECONOMIC DEVELOPMENT COMPANY",
           "relationship": "alternate_spelling"
@@ -88189,11 +88242,15 @@
       ]
     },
     {
-      "canonical": "Mitsui & Co. (U.S.A.)",
+      "canonical": "Mitsui & Co.",
       "status": "active",
       "children": [
         {
           "name": "Mitsui & Co. (U.S.A.), Inc",
+          "relationship": "alternate_spelling"
+        },
+        {
+          "name": "Mitsui & Co. (U.S.A.)",
           "relationship": "alternate_spelling"
         }
       ]
@@ -90326,12 +90383,16 @@
       ]
     },
     {
-      "canonical": "National Alliance of the Mentally Ill (NAMI)",
+      "canonical": "National Alliance of the Mentally Ill",
       "status": "active",
       "children": [
         {
           "name": "National Alliance of the Mentally Ill (NAMI) California",
           "relationship": "chapter"
+        },
+        {
+          "name": "National Alliance of the Mentally Ill (NAMI)",
+          "relationship": "alternate_spelling"
         }
       ]
     },
@@ -92338,13 +92399,12 @@
         {
           "name": "THE NATIONAL HOUSING LAW PROJECT",
           "relationship": "alternate_spelling"
+        },
+        {
+          "name": "NATIONAL HOUSING LAW PROJECT (NHLP)",
+          "relationship": "alternate_spelling"
         }
       ]
-    },
-    {
-      "canonical": "NATIONAL HOUSING LAW PROJECT (NHLP)",
-      "status": "active",
-      "children": []
     },
     {
       "canonical": "NATIONAL HUMANE EDUCATION SOCIETY",
@@ -94338,13 +94398,11 @@
         {
           "name": "THE NON-PROFIT HOUSING ASSOCIATION OF NORTHERN CALIFORNIA",
           "relationship": "alternate_spelling"
-        }
-      ]
-    },
-    {
-      "canonical": "NON-PROFIT HOUSING ASSOCIATION OF NORTHERN CALIFORNIA (NPH)",
-      "status": "active",
-      "children": [
+        },
+        {
+          "name": "NON-PROFIT HOUSING ASSOCIATION OF NORTHERN CALIFORNIA (NPH)",
+          "relationship": "alternate_spelling"
+        },
         {
           "name": "NON PROFIT HOUSING ASSOCIATION OF NORTHERN CALIFORNIA",
           "relationship": "alternate_spelling"
@@ -95067,9 +95125,14 @@
       "children": []
     },
     {
-      "canonical": "NORTHERN CALIFORNIA GOLF ASSOCIATION (NCGA)",
+      "canonical": "NORTHERN CALIFORNIA GOLF ASSOCIATION",
       "status": "active",
-      "children": []
+      "children": [
+        {
+          "name": "NORTHERN CALIFORNIA GOLF ASSOCIATION (NCGA)",
+          "relationship": "alternate_spelling"
+        }
+      ]
     },
     {
       "canonical": "NORTHERN CALIFORNIA GUIDES AND SPORTSMEN'S ASSOCIATION",
@@ -97018,11 +97081,15 @@
       "children": []
     },
     {
-      "canonical": "OOCL (USA)",
+      "canonical": "OOCL",
       "status": "active",
       "children": [
         {
           "name": "OOCL (USA), Inc",
+          "relationship": "alternate_spelling"
+        },
+        {
+          "name": "OOCL (USA)",
           "relationship": "alternate_spelling"
         }
       ]
@@ -98666,13 +98733,11 @@
         {
           "name": "THE PACIFIC LUMBER COMPANY",
           "relationship": "alternate_spelling"
-        }
-      ]
-    },
-    {
-      "canonical": "PACIFIC LUMBER COMPANY (PALCO)",
-      "status": "active",
-      "children": [
+        },
+        {
+          "name": "PACIFIC LUMBER COMPANY (PALCO)",
+          "relationship": "alternate_spelling"
+        },
         {
           "name": "THE PACIFIC LUMBER COMPANY (PALCO)",
           "relationship": "alternate_spelling"
@@ -100383,11 +100448,15 @@
       ]
     },
     {
-      "canonical": "PENINSULA CORRIDOR JOINT POWERS BOARD (CALTRAIN)",
+      "canonical": "PENINSULA CORRIDOR JOINT POWERS BOARD",
       "status": "active",
       "children": [
         {
           "name": "THE PENINSULA CORRIDOR JOINT POWERS BOARD (CALTRAIN)",
+          "relationship": "alternate_spelling"
+        },
+        {
+          "name": "PENINSULA CORRIDOR JOINT POWERS BOARD (CALTRAIN)",
           "relationship": "alternate_spelling"
         }
       ]
@@ -100623,11 +100692,15 @@
       "children": []
     },
     {
-      "canonical": "PEOPLE'S COMMUNITY ORGANIZATION FOR REFORM AND EMPOWERMENT (PEOPLE'S CORE)",
+      "canonical": "PEOPLE'S COMMUNITY ORGANIZATION FOR REFORM AND EMPOWERMENT",
       "status": "active",
       "children": [
         {
           "name": "THE PEOPLE'S COMMUNITY ORGANIZATION FOR REFORM AND EMPOWERMENT (PEOPLE'S CORE)",
+          "relationship": "alternate_spelling"
+        },
+        {
+          "name": "PEOPLE'S COMMUNITY ORGANIZATION FOR REFORM AND EMPOWERMENT (PEOPLE'S CORE)",
           "relationship": "alternate_spelling"
         }
       ]
@@ -101254,13 +101327,11 @@
         {
           "name": "THE PHARMACEUTICAL RESEARCH AND MANUFACTURERS OF AMERICA",
           "relationship": "alternate_spelling"
-        }
-      ]
-    },
-    {
-      "canonical": "PHARMACEUTICAL RESEARCH AND MANUFACTURERS OF AMERICA (PHRMA)",
-      "status": "active",
-      "children": [
+        },
+        {
+          "name": "PHARMACEUTICAL RESEARCH AND MANUFACTURERS OF AMERICA (PHRMA)",
+          "relationship": "alternate_spelling"
+        },
         {
           "name": "THE PHARMACEUTICAL RESEARCH AND MANUFACTURERS OF AMERICA (PHRMA)",
           "relationship": "alternate_spelling"
@@ -103703,13 +103774,11 @@
         {
           "name": "THE PROFESSIONAL INSURANCE AGENTS GROUP",
           "relationship": "alternate_spelling"
-        }
-      ]
-    },
-    {
-      "canonical": "PROFESSIONAL INSURANCE AGENTS GROUP (PIA)",
-      "status": "active",
-      "children": [
+        },
+        {
+          "name": "PROFESSIONAL INSURANCE AGENTS GROUP (PIA)",
+          "relationship": "alternate_spelling"
+        },
         {
           "name": "THE PROFESSIONAL INSURANCE AGENTS GROUP (PIA)",
           "relationship": "alternate_spelling"
@@ -109365,13 +109434,12 @@
         {
           "name": "THE SACRAMENTO REGIONAL COALITION TO END HOMELESSNESS",
           "relationship": "alternate_spelling"
+        },
+        {
+          "name": "SACRAMENTO REGIONAL COALITION TO END HOMELESSNESS (SRCEH)",
+          "relationship": "alternate_spelling"
         }
       ]
-    },
-    {
-      "canonical": "SACRAMENTO REGIONAL COALITION TO END HOMELESSNESS (SRCEH)",
-      "status": "active",
-      "children": []
     },
     {
       "canonical": "SACRAMENTO REGIONAL COUNTY SANITATION DISTRICT",
@@ -110118,13 +110186,11 @@
         {
           "name": "San Diego Association of Governments, California",
           "relationship": "chapter"
-        }
-      ]
-    },
-    {
-      "canonical": "SAN DIEGO ASSOCIATION OF GOVERNMENTS (SANDAG)",
-      "status": "active",
-      "children": [
+        },
+        {
+          "name": "SAN DIEGO ASSOCIATION OF GOVERNMENTS (SANDAG)",
+          "relationship": "alternate_spelling"
+        },
         {
           "name": "THE SAN DIEGO ASSOCIATION OF GOVERNMENTS (SANDAG)",
           "relationship": "alternate_spelling"
@@ -110914,13 +110980,12 @@
         {
           "name": "THE SAN FRANCISCO BAY AREA PLANNING AND URBAN RESEARCH ASSOCIATION",
           "relationship": "alternate_spelling"
+        },
+        {
+          "name": "San Francisco Bay Area Planning and Urban Research Association (SPUR)",
+          "relationship": "alternate_spelling"
         }
       ]
-    },
-    {
-      "canonical": "San Francisco Bay Area Planning and Urban Research Association (SPUR)",
-      "status": "active",
-      "children": []
     },
     {
       "canonical": "SAN FRANCISCO BAY AREA RAPID TRANSIT DISTRICT (BART)",
@@ -113064,13 +113129,11 @@
         {
           "name": "School for Integrated Academics and Technologies, California",
           "relationship": "chapter"
-        }
-      ]
-    },
-    {
-      "canonical": "SCHOOL FOR INTEGRATED ACADEMICS AND TECHNOLOGIES (SIATECH)",
-      "status": "active",
-      "children": [
+        },
+        {
+          "name": "SCHOOL FOR INTEGRATED ACADEMICS AND TECHNOLOGIES (SIATECH)",
+          "relationship": "alternate_spelling"
+        },
         {
           "name": "THE SCHOOL FOR INTEGRATED ACADEMICS AND TECHNOLOGIES (SIATECH)",
           "relationship": "alternate_spelling"
@@ -115804,13 +115867,11 @@
         {
           "name": "THE SILICON VALLEY ORGANIZATION",
           "relationship": "alternate_spelling"
-        }
-      ]
-    },
-    {
-      "canonical": "SILICON VALLEY ORGANIZATION (THE SVO)",
-      "status": "active",
-      "children": [
+        },
+        {
+          "name": "SILICON VALLEY ORGANIZATION (THE SVO)",
+          "relationship": "alternate_spelling"
+        },
         {
           "name": "THE SILICON VALLEY ORGANIZATION (THE SVO)",
           "relationship": "alternate_spelling"
@@ -118005,12 +118066,12 @@
     {
       "canonical": "SOUTHEAST TORRANCE HOMEOWNERS' ASSOCIATION, INC.",
       "status": "active",
-      "children": []
-    },
-    {
-      "canonical": "SOUTHEAST TORRANCE HOMEOWNERS' ASSOCIATION, INC. (SETHA)",
-      "status": "active",
-      "children": []
+      "children": [
+        {
+          "name": "SOUTHEAST TORRANCE HOMEOWNERS' ASSOCIATION, INC. (SETHA)",
+          "relationship": "alternate_spelling"
+        }
+      ]
     },
     {
       "canonical": "Southern",
@@ -118131,13 +118192,11 @@
         {
           "name": "THE SOUTHERN CALIFORNIA ASSOCIATION OF GOVERNMENTS",
           "relationship": "alternate_spelling"
-        }
-      ]
-    },
-    {
-      "canonical": "SOUTHERN CALIFORNIA ASSOCIATION OF GOVERNMENTS (SCAG)",
-      "status": "active",
-      "children": [
+        },
+        {
+          "name": "SOUTHERN CALIFORNIA ASSOCIATION OF GOVERNMENTS (SCAG)",
+          "relationship": "alternate_spelling"
+        },
         {
           "name": "SCAG",
           "relationship": "alternate_spelling"
@@ -118157,12 +118216,11 @@
     {
       "canonical": "SOUTHERN CALIFORNIA ASSOCIATION OF NON-PROFIT HOUSING",
       "status": "active",
-      "children": []
-    },
-    {
-      "canonical": "SOUTHERN CALIFORNIA ASSOCIATION OF NON-PROFIT HOUSING (SCANPH)",
-      "status": "active",
       "children": [
+        {
+          "name": "SOUTHERN CALIFORNIA ASSOCIATION OF NON-PROFIT HOUSING (SCANPH)",
+          "relationship": "alternate_spelling"
+        },
         {
           "name": "SCANPH",
           "relationship": "alternate_spelling"
@@ -118652,13 +118710,11 @@
         {
           "name": "THE SOUTHLAND CORPORATION",
           "relationship": "alternate_spelling"
-        }
-      ]
-    },
-    {
-      "canonical": "SOUTHLAND CORPORATION (7-ELEVEN STORES)",
-      "status": "active",
-      "children": [
+        },
+        {
+          "name": "SOUTHLAND CORPORATION (7-ELEVEN STORES)",
+          "relationship": "alternate_spelling"
+        },
         {
           "name": "THE SOUTHLAND CORPORATION (7-ELEVEN STORES)",
           "relationship": "alternate_spelling"
@@ -120064,13 +120120,11 @@
         {
           "name": "State Bar of CA",
           "relationship": "chapter"
-        }
-      ]
-    },
-    {
-      "canonical": "STATE BAR (FLEXCOM)",
-      "status": "active",
-      "children": [
+        },
+        {
+          "name": "STATE BAR (FLEXCOM)",
+          "relationship": "alternate_spelling"
+        },
         {
           "name": "THE STATE BAR (FLEXCOM)",
           "relationship": "alternate_spelling"
@@ -122275,12 +122329,12 @@
     {
       "canonical": "SUNSET-PARKSIDE EDUCATION AND ACTION COMMITTEE",
       "status": "active",
-      "children": []
-    },
-    {
-      "canonical": "SUNSET-PARKSIDE EDUCATION AND ACTION COMMITTEE (SPEAK)",
-      "status": "active",
-      "children": []
+      "children": [
+        {
+          "name": "SUNSET-PARKSIDE EDUCATION AND ACTION COMMITTEE (SPEAK)",
+          "relationship": "alternate_spelling"
+        }
+      ]
     },
     {
       "canonical": "SUNSHINE DESIGN",
@@ -123506,13 +123560,11 @@
         {
           "name": "THE TECHNOLOGY NETWORK",
           "relationship": "alternate_spelling"
-        }
-      ]
-    },
-    {
-      "canonical": "TECHNOLOGY NETWORK (TECHNET)",
-      "status": "active",
-      "children": [
+        },
+        {
+          "name": "TECHNOLOGY NETWORK (TECHNET)",
+          "relationship": "alternate_spelling"
+        },
         {
           "name": "THE TECHNOLOGY NETWORK (TECHNET)",
           "relationship": "alternate_spelling"
@@ -125951,7 +126003,7 @@
       ]
     },
     {
-      "canonical": "TRUSTS AND ESTATES SECTION OF THE STATE BAR (TEXCOM)",
+      "canonical": "TRUSTS AND ESTATES SECTION OF THE STATE BAR",
       "status": "active",
       "children": [
         {
@@ -125960,6 +126012,10 @@
         },
         {
           "name": "TEXCOM",
+          "relationship": "alternate_spelling"
+        },
+        {
+          "name": "TRUSTS AND ESTATES SECTION OF THE STATE BAR (TEXCOM)",
           "relationship": "alternate_spelling"
         }
       ]
@@ -126422,7 +126478,7 @@
       ]
     },
     {
-      "canonical": "U.S. GREEN BUILDING COUNCIL, INC. (USGBC)",
+      "canonical": "U.S. GREEN BUILDING COUNCIL, INC.",
       "status": "active",
       "children": [
         {
@@ -126431,6 +126487,10 @@
         },
         {
           "name": "USGBC",
+          "relationship": "alternate_spelling"
+        },
+        {
+          "name": "U.S. GREEN BUILDING COUNCIL, INC. (USGBC)",
           "relationship": "alternate_spelling"
         }
       ]
@@ -128873,13 +128933,11 @@
         {
           "name": "THE UTILITY REFORM NETWORK",
           "relationship": "alternate_spelling"
-        }
-      ]
-    },
-    {
-      "canonical": "UTILITY REFORM NETWORK (TURN)",
-      "status": "active",
-      "children": [
+        },
+        {
+          "name": "UTILITY REFORM NETWORK (TURN)",
+          "relationship": "alternate_spelling"
+        },
         {
           "name": "THE UTILITY REFORM NETWORK (TURN)",
           "relationship": "alternate_spelling"
@@ -131068,9 +131126,14 @@
       ]
     },
     {
-      "canonical": "WAGES COOPERATIVES (WOMEN'S ACTION TO GAIN ECONOMIC SECURITY)",
+      "canonical": "WAGES COOPERATIVES",
       "status": "active",
-      "children": []
+      "children": [
+        {
+          "name": "WAGES COOPERATIVES (WOMEN'S ACTION TO GAIN ECONOMIC SECURITY)",
+          "relationship": "alternate_spelling"
+        }
+      ]
     },
     {
       "canonical": "Wagner Engineering & Survey",
@@ -132607,13 +132670,11 @@
         {
           "name": "THE WESTERN MOBILEHOME PARKOWNERS ASSOCIATION",
           "relationship": "alternate_spelling"
-        }
-      ]
-    },
-    {
-      "canonical": "WESTERN MOBILEHOME PARKOWNERS ASSOCIATION (WMA)",
-      "status": "active",
-      "children": [
+        },
+        {
+          "name": "WESTERN MOBILEHOME PARKOWNERS ASSOCIATION (WMA)",
+          "relationship": "alternate_spelling"
+        },
         {
           "name": "THE WESTERN MOBILEHOME PARKOWNERS ASSOCIATION (WMA)",
           "relationship": "alternate_spelling"
@@ -132691,9 +132752,14 @@
       "children": []
     },
     {
-      "canonical": "WESTERN REGIONAL ADVOCACY PROGRAM (WRAP)",
+      "canonical": "WESTERN REGIONAL ADVOCACY PROGRAM",
       "status": "active",
-      "children": []
+      "children": [
+        {
+          "name": "WESTERN REGIONAL ADVOCACY PROGRAM (WRAP)",
+          "relationship": "alternate_spelling"
+        }
+      ]
     },
     {
       "canonical": "WESTERN REGIONAL ADVOCACY PROJECT",
@@ -133728,12 +133794,12 @@
     {
       "canonical": "WOMEN ORGANIZING RESOURCES, KNOWLEDGE, AND SERVICES",
       "status": "active",
-      "children": []
-    },
-    {
-      "canonical": "WOMEN ORGANIZING RESOURCES, KNOWLEDGE, AND SERVICES (WORKS)",
-      "status": "active",
-      "children": []
+      "children": [
+        {
+          "name": "WOMEN ORGANIZING RESOURCES, KNOWLEDGE, AND SERVICES (WORKS)",
+          "relationship": "alternate_spelling"
+        }
+      ]
     },
     {
       "canonical": "Women Prosecutors",
