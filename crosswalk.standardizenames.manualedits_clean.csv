@@ -20,8 +20,8 @@ A V RANCHOS MOBILE HOME PARK,A V RANCHOS MOBILE HOME PARK,canonical
 A&B PAINTING,A&B PAINTING,canonical
 AAPIS FOR CIVIC EMPOWERMENT EDUCATION FUND,AAPIS FOR CIVIC EMPOWERMENT EDUCATION FUND,canonical
 AARP,AARP,canonical
-AARP CALIFORNIA,AARP CALIFORNIA,canonical
-"AARP, CALIFORNIA",AARP CALIFORNIA,alternate_spelling
+AARP CALIFORNIA,AARP,chapter
+"AARP, CALIFORNIA",AARP,alternate_spelling
 AB 1506,AB 1506,canonical
 ABODE COMMUNITIES,ABODE COMMUNITIES,canonical
 ABODE COMMUNITIESAFFIRMED,ABODE COMMUNITIES,alternate_spelling
@@ -298,8 +298,8 @@ ASSOCIATED BUILDERS AND CONTRACTORS - MERIT TRAINING TRUST FUND,ASSOCIATED BUILD
 ASSOCIATED BUILDERS AND CONTRACTORS - SOUTHERN CALIFORNIA CHAPTER,ASSOCIATED BUILDERS AND CONTRACTORS - SOUTHERN CALIFORNIA CHAPTER,canonical
 ASSOCIATED BUILDERS AND CONTRACTORS - NORTHERN CALIFORNIA,ASSOCIATED BUILDERS AND CONTRACTORS - NORTHERN CALIFORNIA,canonical
 ASSOCIATED BUILDERS AND CONTRACTORS NORTHERN CALIFORNIA CHAPTER,ASSOCIATED BUILDERS AND CONTRACTORS - NORTHERN CALIFORNIA,alternate_spelling
-ASSOCIATED BUILDERS AND CONTRACTORS OF CALIFORNIA,ASSOCIATED BUILDERS AND CONTRACTORS OF CALIFORNIA,canonical
-ASSOCIATED BUILDERS AND CONTRACTORS OF CALIFORNIA CALIFORNIA,ASSOCIATED BUILDERS AND CONTRACTORS OF CALIFORNIA,alternate_spelling
+ASSOCIATED BUILDERS AND CONTRACTORS OF CALIFORNIA,ASSOCIATED BUILDERS AND CONTRACTORS,chapter
+ASSOCIATED BUILDERS AND CONTRACTORS OF CALIFORNIA CALIFORNIA,ASSOCIATED BUILDERS AND CONTRACTORS,alternate_spelling
 ASSOCIATED BUILDERS AND CONTRACTORS OF NORTHERN CALIFORNIA,ASSOCIATED BUILDERS AND CONTRACTORS OF NORTHERN CALIFORNIA,canonical
 "ASSOCIATED BUILDERS AND CONTRACTORS, INC",ASSOCIATED BUILDERS AND CONTRACTORS,alternate_spelling
 ASSOCIATED CALIFORNIA LOGGERS,ASSOCIATED CALIFORNIA LOGGERS,canonical
@@ -1566,7 +1566,7 @@ CLAYTON,CITY OF CLAYTON,alternate_spelling
 CLAYTON REGENCY MOBILE HOME PARK,CLAYTON REGENCY MOBILE HOME PARK,canonical
 CLAYTON VALLEY PRESBYTERIAN CHURCH,CLAYTON VALLEY PRESBYTERIAN CHURCH,canonical
 CLEAN WATER ACTION,CLEAN WATER ACTION,canonical
-CLEAN WATER ACTION CALIFORNIA,CLEAN WATER ACTION CALIFORNIA,canonical
+CLEAN WATER ACTION CALIFORNIA,CLEAN WATER ACTION,chapter
 CLERGY AND LAITY UNITED FOR ECONOMIC JUSTICE,CLERGY AND LAITY UNITED FOR ECONOMIC JUSTICE,canonical
 "CLERGY AND LAITY UNITED FOR ECONOMIC JUSTICE, CANOGA PARK","CLERGY AND LAITY UNITED FOR ECONOMIC JUSTICE, CANOGA PARK",canonical
 "CLERGY COMMUNITY COALITION, PASADENA","CLERGY COMMUNITY COALITION, PASADENA",canonical
@@ -1831,7 +1831,7 @@ COUNTY WELFARE DIRECTORS ASSOCIATION OF CALIFORNIA (CWDA),COUNTY WELFARE DIRECTO
 COURAGE CALIFORNIA,COURAGE CALIFORNIA,canonical
 COURAGE CAMPAIGN,COURAGE CAMPAIGN,canonical
 COVENANT HOUSE,COVENANT HOUSE,canonical
-COVENANT HOUSE CALIFORNIA,COVENANT HOUSE CALIFORNIA,canonical
+COVENANT HOUSE CALIFORNIA,COVENANT HOUSE,chapter
 COVENANT MANOR,COVENANT MANOR,canonical
 COVER,COVER,canonical
 COW HOLLOW ASSOCIATION,COW HOLLOW ASSOCIATION,canonical
@@ -1917,7 +1917,7 @@ DIGNITY AND POWER NOW,DIGNITY AND POWER NOW,canonical
 DIGNITY HEALTH,DIGNITY HEALTH,canonical
 DISABILITY COMMUNITY RESOURCE CENTER DOWNTOWN WOMEN'S CENTER,DISABILITY COMMUNITY RESOURCE CENTER DOWNTOWN WOMEN'S CENTER,canonical
 DISABILITY RIGHTS ADVOCATES,DISABILITY RIGHTS ADVOCATES,canonical
-DISABILITY RIGHTS CALIFORNIA,DISABILITY RIGHTS CALIFORNIA,canonical
+DISABILITY RIGHTS CALIFORNIA,Disability Rights,chapter
 DISABILITY RIGHTS EDUCATION & DEFENSE FUND,DISABILITY RIGHTS EDUCATION AND DEFENSE FUND,alternate_spelling
 DISABILITY RIGHTS EDUCATION AND DEFENSE FUND,DISABILITY RIGHTS EDUCATION AND DEFENSE FUND,canonical
 DISABILITY RIGHTS LEGAL CENTER,DISABILITY RIGHTS LEGAL CENTER,canonical
@@ -2698,8 +2698,8 @@ JOSHUA TREE GATEWAY ASSOCIATION OF REALTORS ,JOSHUA TREE GATEWAY ASSOCIATION OF 
 JP MORGAN CHASE,JP MORGAN CHASE,canonical
 JUDICIAL COUNCIL,JUDICIAL COUNCIL,canonical
 JUDICIAL COUNCIL (OPPOSE),JUDICIAL COUNCIL,alternate_spelling
-JUDICIAL COUNCIL OF CALIFORNIA,JUDICIAL COUNCIL OF CALIFORNIA,canonical
-JUDICIAL COUNCIL OF CALIFORNIA (OPPOSE),JUDICIAL COUNCIL OF CALIFORNIA,alternate_spelling
+JUDICIAL COUNCIL OF CALIFORNIA,JUDICIAL COUNCIL,chapter
+JUDICIAL COUNCIL OF CALIFORNIA (OPPOSE),JUDICIAL COUNCIL,alternate_spelling
 JUDSON TERRACE HOMES,JUDSON TERRACE HOMES,canonical
 JUNIOR LEAGUE OF FRESNO,JUNIOR LEAGUE OF FRESNO,canonical
 JUNIOR LEAGUE OF ORANGE COUNTY,JUNIOR LEAGUE OF ORANGE COUNTY,canonical
@@ -3749,7 +3749,7 @@ POSTMATES,POSTMATES,canonical
 POTRERO NUEVO FARM,POTRERO NUEVO FARM,canonical
 "POWELL & PARTNERS, ARCHITECTS","POWELL & PARTNERS, ARCHITECTS",canonical
 POWER,POWER,canonical
-POWER CALIFORNIA,POWER CALIFORNIA,canonical
+POWER CALIFORNIA,POWER,chapter
 PREFABADU,PREFABADU,canonical
 "PRESBYTERY OF SAN FERNANDO, PASADENA","PRESBYTERY OF SAN FERNANDO, PASADENA",canonical
 "PRESBYTERY OF SAN GABRIEL, PRESBYTERIAN CHURCH (USA), LOS ANGELES COUNTY","PRESBYTERY OF SAN GABRIEL, PRESBYTERIAN CHURCH (USA), LOS ANGELES COUNTY",canonical
@@ -3852,7 +3852,7 @@ REGIONAL ASTHMA MANAGEMENT AND PREVENTION FRESNO,REGIONAL ASTHMA MANAGEMENT AND 
 REGIONAL COUNCIL OF RURAL COUNTIES,REGIONAL COUNCIL OF RURAL COUNTIES,canonical
 REINVENT SOUTH STOCKTON COALITION,REINVENT SOUTH STOCKTON COALITION,canonical
 RELATED,RELATED,canonical
-RELATED CALIFORNIA,RELATED CALIFORNIA,canonical
+RELATED CALIFORNIA,RELATED,chapter
 RELIABLE ENERGY MANAGEMENT,RELIABLE ENERGY MANAGEMENT,canonical
 RENEWABLE ENERGY ACCOUNTABILITY PROJECT,RENEWABLE ENERGY ACCOUNTABILITY PROJECT,canonical
 RENEWABLE ENERGY EDUCATION SOLUTIONS,RENEWABLE ENERGY EDUCATION SOLUTIONS,canonical
@@ -4501,11 +4501,11 @@ STATE BAR OF CALIFORNIA,STATE BAR OF CALIFORNIA,canonical
 STATE BOARD OF EQUALIZATION,STATE BOARD OF EQUALIZATION,canonical
 STATE BOARD OF EQUALIZATION CHAIRWOMAN FIONA MA,STATE BOARD OF EQUALIZATION CHAIRWOMAN FIONA MA,canonical
 STATE BUILDING & CONSTRUCTION TRADES COUNCIL,STATE BUILDING & CONSTRUCTION TRADES COUNCIL,canonical
-STATE BUILDING & CONSTRUCTION TRADES COUNCIL OF CALIFORNIA,STATE BUILDING & CONSTRUCTION TRADES COUNCIL OF CALIFORNIA,canonical
+STATE BUILDING & CONSTRUCTION TRADES COUNCIL OF CALIFORNIA,STATE BUILDING & CONSTRUCTION TRADES COUNCIL,chapter
 STATE BUILDING AND CONSTRUCTION TRADE COUNCIL OF CALIFORNIA,STATE BUILDING AND CONSTRUCTION TRADE COUNCIL OF CALIFORNIA,canonical
 STATE BUILDING AND CONSTRUCTION TRADES COUNCIL,STATE BUILDING AND CONSTRUCTION TRADES COUNCIL,canonical
-STATE BUILDING AND CONSTRUCTION TRADES COUNCIL OF CA,STATE BUILDING AND CONSTRUCTION TRADES COUNCIL OF CA,canonical
-STATE BUILDING AND CONSTRUCTION TRADES COUNCIL OF CALIFORNIA,STATE BUILDING AND CONSTRUCTION TRADES COUNCIL OF CALIFORNIA,canonical
+STATE BUILDING AND CONSTRUCTION TRADES COUNCIL OF CA,STATE BUILDING AND CONSTRUCTION TRADES COUNCIL,chapter
+STATE BUILDING AND CONSTRUCTION TRADES COUNCIL OF CALIFORNIA,STATE BUILDING AND CONSTRUCTION TRADES COUNCIL,chapter
 "STATE BUILDING AND CONSTRUCTION TRADES COUNCIL OF CALIFORNIA, AFL-CIO","STATE BUILDING AND CONSTRUCTION TRADES COUNCIL OF CALIFORNIA, AFL-CIO",canonical
 "STATE BUILDING AND CONSTRUCTION TRADES COUNCIL, AFL-CIO","STATE BUILDING AND CONSTRUCTION TRADES COUNCIL, AFL-CIO",canonical
 STATE BUILDING AND CONSTRUCTION TRADES OF CALIFORNIA,STATE BUILDING AND CONSTRUCTION TRADES OF CALIFORNIA,canonical
@@ -5514,7 +5514,7 @@ THE ASIAN LAW ALLIANCE,ASIAN LAW ALLIANCE,alternate_spelling
 THE ASIAN PACIFIC AMERICAN LEGAL,ASIAN PACIFIC AMERICAN LEGAL,alternate_spelling
 THE ASSEMBLY INSURANCE COMMITTEE,ASSEMBLY INSURANCE COMMITTEE,alternate_spelling
 THE ASSOCIATED BUILDERS AND CONTRACTORS OF,ASSOCIATED BUILDERS AND CONTRACTORS OF,alternate_spelling
-THE ASSOCIATED BUILDERS AND CONTRACTORS OF CALIFORNIA,ASSOCIATED BUILDERS AND CONTRACTORS OF CALIFORNIA,alternate_spelling
+THE ASSOCIATED BUILDERS AND CONTRACTORS OF CALIFORNIA,ASSOCIATED BUILDERS AND CONTRACTORS,alternate_spelling
 "THE ASSOCIATED BUILDERS AND CONTRACTORS, INC","ASSOCIATED BUILDERS AND CONTRACTORS, INC",alternate_spelling
 THE ASSOCIATED GENERAL,ASSOCIATED GENERAL,alternate_spelling
 THE ASSOCIATED GENERAL CONTRACTORS,ASSOCIATED GENERAL CONTRACTORS,alternate_spelling
@@ -7520,7 +7520,7 @@ THE JOYFUL CHILD FOUNDATION,JOYFUL CHILD FOUNDATION,alternate_spelling
 "THE JP SQUARED CONSULTING, LLC","JP SQUARED CONSULTING, LLC",alternate_spelling
 THE JUDICIAL COUNCIL,JUDICIAL COUNCIL,alternate_spelling
 THE JUDICIAL COUNCIL OF CA,JUDICIAL COUNCIL OF CA,alternate_spelling
-THE JUDICIAL COUNCIL OF CALIFORNIA,JUDICIAL COUNCIL OF CALIFORNIA,alternate_spelling
+THE JUDICIAL COUNCIL OF CALIFORNIA,JUDICIAL COUNCIL,alternate_spelling
 THE JUNE BURNETT INSTITUTE,JUNE BURNETT INSTITUTE,alternate_spelling
 THE JUNIOR LEAGUE,JUNIOR LEAGUE,alternate_spelling
 THE JUNIOR LEAGUE OF CALIFORNIA,JUNIOR LEAGUE OF CALIFORNIA,alternate_spelling
@@ -8621,7 +8621,7 @@ THE STATE BAR OF CALIFORNIA,STATE BAR OF CALIFORNIA,alternate_spelling
 THE STATE BOARD OF CONTROL,STATE BOARD OF CONTROL,alternate_spelling
 THE STATE BOARD OF EQUALIZATION,STATE BOARD OF EQUALIZATION,alternate_spelling
 THE STATE BUILDING AND CONSTRUCTION TRADES COUNCIL,STATE BUILDING AND CONSTRUCTION TRADES COUNCIL,alternate_spelling
-THE STATE BUILDING AND CONSTRUCTION TRADES COUNCIL OF CA,STATE BUILDING AND CONSTRUCTION TRADES COUNCIL OF CA,alternate_spelling
+THE STATE BUILDING AND CONSTRUCTION TRADES COUNCIL OF CA,STATE BUILDING AND CONSTRUCTION TRADES COUNCIL,alternate_spelling
 THE STATE CENTER COMMUNITY COLLEGE DISTRICT,STATE CENTER COMMUNITY COLLEGE DISTRICT,alternate_spelling
 THE STATE COALITION OF PROBATION ORGANIZATIONS,STATE COALITION OF PROBATION ORGANIZATIONS,alternate_spelling
 THE STATE CONTROLLER,STATE CONTROLLER,alternate_spelling
@@ -10280,7 +10280,7 @@ DESERT WATER AGENCY (DWA),DESERT WATER AGENCY,alternate_spelling
 DESIGN BUILD INSTITUTE OF AMERICA (DBIA),DESIGN BUILD INSTITUTE OF AMERICA,alternate_spelling
 DIRECT MARKETING ASSOCIATION (DMA),DIRECT MARKETING ASSOCIATION,alternate_spelling
 DIRECTORS GUILD OF AMERICA (DGA),DIRECTORS GUILD OF AMERICA,alternate_spelling
-DISABILITY RIGHTS CALIFORNIA (DRC),DISABILITY RIGHTS CALIFORNIA,alternate_spelling
+DISABILITY RIGHTS CALIFORNIA (DRC),Disability Rights,alternate_spelling
 DISABILITY RIGHTS EDUCATION & DEFENSE FUND (DREDF),DISABILITY RIGHTS EDUCATION & DEFENSE FUND,alternate_spelling
 DISABILITY RIGHTS EDUCATION AND DEFENSE FUND (DREDF),DISABILITY RIGHTS EDUCATION AND DEFENSE FUND,alternate_spelling
 DISABILITY RIGHTS LEGAL CENTER (DRLC),DISABILITY RIGHTS LEGAL CENTER,alternate_spelling
@@ -11928,7 +11928,7 @@ A Better Way Inc,A BETTER WAY,alternate_spelling
 Association of California State Supervisors Inc,ASSOCIATION OF CALIFORNIA STATE SUPERVISORS,alternate_spelling
 "Association For Los Angeles Deputy Sheriffs, Inc",ASSOCIATION FOR LOS ANGELES DEPUTY SHERIFFS,alternate_spelling
 "Association for Los Angeles Deputy Sheriffs, INC",ASSOCIATION FOR LOS ANGELES DEPUTY SHERIFFS,alternate_spelling
-"Associated Builders and Contractors of California, Inc",ASSOCIATED BUILDERS AND CONTRACTORS OF CALIFORNIA,alternate_spelling
+"Associated Builders and Contractors of California, Inc",ASSOCIATED BUILDERS AND CONTRACTORS,alternate_spelling
 "Fresno Interdenominational Refugee Ministries, Inc",FRESNO INTERDENOMINATIONAL REFUGEE MINISTRIES,alternate_spelling
 "Environmental Defense Fund, Inc",ENVIRONMENTAL DEFENSE FUND,alternate_spelling
 "Faculty Association of California Community Colleges, Inc.",FACULTY ASSOCIATION OF CALIFORNIA COMMUNITY COLLEGES,alternate_spelling
@@ -12115,8 +12115,8 @@ Waste Management,Waste Management,canonical
 "Waste Management, Inc",Waste Management,alternate_spelling
 Protection and Advocacy,Protection and Advocacy,canonical
 Protection and Advocacy Inc,Protection and Advocacy,alternate_spelling
-Election Integrity Project California,Election Integrity Project California,canonical
-"Election Integrity Project California, Inc",Election Integrity Project California,alternate_spelling
+Election Integrity Project California,Election Integrity Project,chapter
+"Election Integrity Project California, Inc",Election Integrity Project,alternate_spelling
 Handgun Control,Handgun Control,canonical
 "Handgun Control, Inc",Handgun Control,alternate_spelling
 Starting Over,Starting Over,canonical
@@ -12135,8 +12135,8 @@ Independent Insurance Agents & Brokers of California,Independent Insurance Agent
 "Independent Insurance Agents & Brokers of California, INC",Independent Insurance Agents & Brokers of California,alternate_spelling
 Crestwood Behavioral Health,Crestwood Behavioral Health,canonical
 "Crestwood Behavioral Health, Inc",Crestwood Behavioral Health,alternate_spelling
-American Subcontractors Association California,American Subcontractors Association California,canonical
-"American Subcontractors Association California, Inc",American Subcontractors Association California,alternate_spelling
+American Subcontractors Association California,American Subcontractors Association,chapter
+"American Subcontractors Association California, Inc",American Subcontractors Association,alternate_spelling
 Republic Services,Republic Services,canonical
 Republic Services INC,Republic Services,alternate_spelling
 Gun Owners of California,Gun Owners of California,canonical
@@ -13035,8 +13035,8 @@ Strategic Materials,Strategic Materials,canonical
 "Western Line Constructors Chapter, Inc., Neca, Inc","Western Line Constructors Chapter, Inc., NECA",alternate_spelling
 Ebay,Ebay,canonical
 "eBay, Inc",Ebay,alternate_spelling
-Wine and Spirits Wholesalers of California,Wine and Spirits Wholesalers of California,canonical
-"Wine and Spirits Wholesalers of California, Inc",Wine and Spirits Wholesalers of California,alternate_spelling
+Wine and Spirits Wholesalers of California,Wine and Spirits Wholesalers,chapter
+"Wine and Spirits Wholesalers of California, Inc",Wine and Spirits Wholesalers,alternate_spelling
 UNITE-LA,UNITE-LA,canonical
 "Unite-LA, Inc",UNITE-LA,alternate_spelling
 United Health Centers of The San Joaquin Valley,United Health Centers of The San Joaquin Valley,canonical
@@ -15911,8 +15911,8 @@ Anatolian Shepherd Dog Club of America,Anatolian Shepherd Dog Club of America,ca
 "Anatolian Shepherd Dog Club of America, Inc",Anatolian Shepherd Dog Club of America,alternate_spelling
 American Trucking Associations,American Trucking Associations,canonical
 "American Trucking Associations, Inc",American Trucking Associations,alternate_spelling
-American Subcontractors Association of CA,American Subcontractors Association of CA,canonical
-"American Subcontractors Association of CA, Inc",American Subcontractors Association of CA,alternate_spelling
+American Subcontractors Association of CA,American Subcontractors Association,chapter
+"American Subcontractors Association of CA, Inc",American Subcontractors Association,alternate_spelling
 Annie's,Annie's,canonical
 Annie's Inc,Annie's,alternate_spelling
 American Outdoor Advertising,American Outdoor Advertising,canonical
@@ -16291,10 +16291,10 @@ Entrenous Youth Empowerment Services,Entrenous Youth Empowerment Services,canoni
 "EntreNous Youth Empowerment Services, Inc",Entrenous Youth Empowerment Services,alternate_spelling
 Envisioneers,Envisioneers,canonical
 Envisioneers INC,Envisioneers,alternate_spelling
-"Election Integrity Project, California","Election Integrity Project, California",canonical
-"Election Integrity Project, California, Inc","Election Integrity Project, California",alternate_spelling
-"Election Integrity Project, California","Election Integrity Project, California",canonical
-"Election Integrity Project, California Inc","Election Integrity Project, California",alternate_spelling
+"Election Integrity Project, California",Election Integrity Project,chapter
+"Election Integrity Project, California, Inc",Election Integrity Project,alternate_spelling
+"Election Integrity Project, California",Election Integrity Project,chapter
+"Election Integrity Project, California Inc",Election Integrity Project,alternate_spelling
 Elder Angels,Elder Angels,canonical
 "Elder Angels, Inc",Elder Angels,alternate_spelling
 Emergency Medical Directors Association of California,Emergency Medical Directors Association of California,canonical
@@ -17475,8 +17475,8 @@ AMERIGON,AMERIGON,canonical
 "Amerigon, Inc",AMERIGON,alternate_spelling
 American Stores,American Stores,canonical
 American Stores Inc,American Stores,alternate_spelling
-"American Subcontractors Association, California","American Subcontractors Association, California",canonical
-"American Subcontractors Association, California, Inc","American Subcontractors Association, California",alternate_spelling
+"American Subcontractors Association, California",American Subcontractors Association,chapter
+"American Subcontractors Association, California, Inc",American Subcontractors Association,alternate_spelling
 American Subcontractors Association,American Subcontractors Association,canonical
 "American Subcontractors Association, Inc",American Subcontractors Association,alternate_spelling
 Amber Kinetics,Amber Kinetics,canonical
