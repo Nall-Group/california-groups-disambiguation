@@ -49,6 +49,10 @@ directory: org_name_subsets_for_cleaning/
 
 14. Remove all orgs that start with digits and then a closing square bracket, e.g. '2] 2015-16 Budget: "Capital Outlay Program Review". LAO, May 14, 2014' because these are all citations
 
+15. Add all orgs that have "Local" in the MIDDLE of the name where it's another org name, Local, and then a number. These orgs are chapters of the prefix org.
+
+16. Add orgs that start with Local, a number, and then another org name -- these are also chapters.
+
 
 ## Crosswalk Relationship Types
 

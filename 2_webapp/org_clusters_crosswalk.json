@@ -6587,6 +6587,22 @@
         {
           "name": "California American Federation of State",
           "relationship": "chapter"
+        },
+        {
+          "name": "Local 1000 American Federation of State",
+          "relationship": "chapter"
+        },
+        {
+          "name": "Local 1902 American Federation of State",
+          "relationship": "chapter"
+        },
+        {
+          "name": "Local 575 American Federation of State",
+          "relationship": "chapter"
+        },
+        {
+          "name": "Local 2620 American Federation of State",
+          "relationship": "chapter"
         }
       ]
     },
@@ -14303,6 +14319,10 @@
       "children": [
         {
           "name": "Auto California",
+          "relationship": "chapter"
+        },
+        {
+          "name": "Local 1176 Auto",
           "relationship": "chapter"
         }
       ]
@@ -30435,6 +30455,10 @@
         {
           "name": "California Labor Federation (Co-Source)",
           "relationship": "alternate_spelling"
+        },
+        {
+          "name": "Local 3299 California Labor Federation",
+          "relationship": "chapter"
         }
       ]
     },
@@ -40840,6 +40864,10 @@
         {
           "name": "California Chief Probation Officers of California",
           "relationship": "alternate_spelling"
+        },
+        {
+          "name": "Local 685 Chief Probation Officers of California",
+          "relationship": "chapter"
         }
       ]
     },
@@ -66720,6 +66748,10 @@
         {
           "name": "THE FRIENDS COMMITTEE ON LEGISLATION OF CALIFORNIA",
           "relationship": "alternate_spelling"
+        },
+        {
+          "name": "Local 1000 Friends Committee on Legislation",
+          "relationship": "chapter"
         }
       ]
     },
@@ -78361,6 +78393,14 @@
         },
         {
           "name": "International Longshore And Warehouse Union, Local 34, Marine Clerks",
+          "relationship": "chapter"
+        },
+        {
+          "name": "Local 63 International Longshore and Warehouse Union",
+          "relationship": "chapter"
+        },
+        {
+          "name": "Local 13 International Longshore and Warehouse Union",
           "relationship": "chapter"
         }
       ]
@@ -100605,6 +100645,10 @@
         {
           "name": "ORANGE COUNTY EMPLOYEES ASSOCIATION (OCEA)",
           "relationship": "alternate_spelling"
+        },
+        {
+          "name": "Local 685 Orange County Employees Association",
+          "relationship": "chapter"
         }
       ]
     },
@@ -111531,6 +111575,10 @@
         {
           "name": "THE RIVERSIDE SHERIFFS' ASSOCIATION (CO-SPONSOR)",
           "relationship": "alternate_spelling"
+        },
+        {
+          "name": "Local 685 Riverside Sheriffs' Association",
+          "relationship": "chapter"
         }
       ]
     },
@@ -117969,6 +118017,18 @@
         {
           "name": "Service Employees International Union, Local 1000 (SEIU co-sponsor)",
           "relationship": "chapter"
+        },
+        {
+          "name": "Local 521 Service Employees International Union",
+          "relationship": "chapter"
+        },
+        {
+          "name": "Local 21 Service Employees International Union",
+          "relationship": "chapter"
+        },
+        {
+          "name": "Local 1165 Service Employees International Union",
+          "relationship": "chapter"
         }
       ]
     },
@@ -124057,6 +124117,10 @@
         {
           "name": "STATE BUILDING AND CONSTRUCTION TRADES COUNCIL (SBCTC)",
           "relationship": "alternate_spelling"
+        },
+        {
+          "name": "Local 105 State Building and Construction Trades Council",
+          "relationship": "chapter"
         }
       ]
     },
@@ -131425,6 +131489,10 @@
         },
         {
           "name": "United Firefighters of Los Angeles City, Local 112 (UFLAC)",
+          "relationship": "chapter"
+        },
+        {
+          "name": "Local 1319 United Firefighters of Los Angeles City",
           "relationship": "chapter"
         }
       ]
@@ -139896,6 +139964,14 @@
         {
           "name": "Orange County Professional Firefighters Association, Local 3631 [SPONSOR",
           "relationship": "chapter"
+        },
+        {
+          "name": "Local 685 Orange County Professional Firefighters Association",
+          "relationship": "chapter"
+        },
+        {
+          "name": "Local 2384 Orange County Professional Firefighters Association",
+          "relationship": "chapter"
         }
       ]
     },
@@ -140240,6 +140316,10 @@
         {
           "name": "LA County Public Defenders Union, Local 148",
           "relationship": "chapter"
+        },
+        {
+          "name": "Local 148 LA County Public Defenders Union",
+          "relationship": "chapter"
         }
       ]
     },
@@ -140498,6 +140578,10 @@
         {
           "name": "Seiu Local 2015",
           "relationship": "chapter"
+        },
+        {
+          "name": "Local 535 SEIU",
+          "relationship": "chapter"
         }
       ]
     },
@@ -140515,6 +140599,10 @@
         },
         {
           "name": "Marin Professional Firefighters Local 798",
+          "relationship": "chapter"
+        },
+        {
+          "name": "Local 372 Marin Professional Firefighters",
           "relationship": "chapter"
         }
       ]
@@ -140563,6 +140651,10 @@
         },
         {
           "name": "Long Beach Firefighters Local 372",
+          "relationship": "chapter"
+        },
+        {
+          "name": "Local 4488 Long Beach Firefighters",
           "relationship": "chapter"
         }
       ]
@@ -140754,6 +140846,10 @@
         {
           "name": "Sacramento Area Fire Fighters (Local 522)",
           "relationship": "chapter"
+        },
+        {
+          "name": "Local 230 Sacramento Area Fire Fighters",
+          "relationship": "chapter"
         }
       ]
     },
@@ -140849,6 +140945,10 @@
         },
         {
           "name": "Sacramento Area Firefighters, Local 522",
+          "relationship": "chapter"
+        },
+        {
+          "name": "Local 1067 Sacramento Area Firefighters",
           "relationship": "chapter"
         }
       ]
@@ -141284,6 +141384,10 @@
         {
           "name": "Contra Costa County Professional Firefighters, Local 1230",
           "relationship": "chapter"
+        },
+        {
+          "name": "Local 2216 Contra Costa County Professional Firefighters",
+          "relationship": "chapter"
         }
       ]
     },
@@ -141447,6 +141551,10 @@
         },
         {
           "name": "Kern County Firefighters, Local 1301 Union",
+          "relationship": "chapter"
+        },
+        {
+          "name": "Local 2342 Kern County Firefighters",
           "relationship": "chapter"
         }
       ]
@@ -142069,6 +142177,10 @@
         },
         {
           "name": "San Jose Fire Fighters (Local 230)",
+          "relationship": "chapter"
+        },
+        {
+          "name": "Local 145 San Jose Fire Fighters",
           "relationship": "chapter"
         }
       ]
@@ -142804,6 +142916,14 @@
         {
           "name": "Santa Clara County Firefighters Local 1162",
           "relationship": "chapter"
+        },
+        {
+          "name": "Local 3523 Santa Clara County Firefighters",
+          "relationship": "chapter"
+        },
+        {
+          "name": "Local 1171 Santa Clara County Firefighters",
+          "relationship": "chapter"
         }
       ]
     },
@@ -142855,6 +142975,10 @@
       "children": [
         {
           "name": "Anaheim Firefighters Association Local 2899",
+          "relationship": "chapter"
+        },
+        {
+          "name": "Local 55 Anaheim Firefighters Association",
           "relationship": "chapter"
         }
       ]
@@ -142992,6 +143116,10 @@
         {
           "name": "Redlands Professional Firefighters Association Local 1354",
           "relationship": "chapter"
+        },
+        {
+          "name": "Local 2274 Redlands Professional Firefighters Association",
+          "relationship": "chapter"
         }
       ]
     },
@@ -143001,6 +143129,10 @@
       "children": [
         {
           "name": "Modesto City Firefighters Local 1289",
+          "relationship": "chapter"
+        },
+        {
+          "name": "Local 1775 Modesto City Firefighters",
           "relationship": "chapter"
         }
       ]
@@ -143012,6 +143144,10 @@
         {
           "name": "Monrovia Firefighters Local 2415",
           "relationship": "chapter"
+        },
+        {
+          "name": "Local 1289 Monrovia Firefighters",
+          "relationship": "chapter"
         }
       ]
     },
@@ -143021,6 +143157,10 @@
       "children": [
         {
           "name": "Monterey Firefighters Association Local 3707",
+          "relationship": "chapter"
+        },
+        {
+          "name": "Local 2415 Monterey Firefighters Association",
           "relationship": "chapter"
         }
       ]
@@ -143073,6 +143213,10 @@
       "children": [
         {
           "name": "Vista Firefighters Association Local 4107",
+          "relationship": "chapter"
+        },
+        {
+          "name": "Local 1364 Vista Firefighters Association",
           "relationship": "chapter"
         }
       ]
@@ -143249,6 +143393,10 @@
         },
         {
           "name": "Oakland Firefighters, Local 55",
+          "relationship": "chapter"
+        },
+        {
+          "name": "Local 3734 Oakland Firefighters",
           "relationship": "chapter"
         }
       ]
@@ -143506,6 +143654,10 @@
         {
           "name": "Costa Mesa Firefighters Local 1465",
           "relationship": "chapter"
+        },
+        {
+          "name": "Local 1475 Costa Mesa Firefighters",
+          "relationship": "chapter"
         }
       ]
     },
@@ -143515,6 +143667,10 @@
       "children": [
         {
           "name": "Corona Firefighters Association Local 3757",
+          "relationship": "chapter"
+        },
+        {
+          "name": "Local 1230 Corona Firefighters Association",
           "relationship": "chapter"
         }
       ]
@@ -143529,6 +143685,10 @@
         },
         {
           "name": "Ontario Professional Firefighters, Local 1430",
+          "relationship": "chapter"
+        },
+        {
+          "name": "Local 3736 Ontario Professional Firefighters",
           "relationship": "chapter"
         }
       ]
@@ -143690,6 +143850,10 @@
         {
           "name": "Plumbers and Steamfitters, Local 494",
           "relationship": "chapter"
+        },
+        {
+          "name": "Local 91 Plumbers and Steamfitters",
+          "relationship": "chapter"
         }
       ]
     },
@@ -143786,6 +143950,10 @@
         {
           "name": "Sheet Metal Workers' International Association, Local 104",
           "relationship": "chapter"
+        },
+        {
+          "name": "Local 802 Sheet Metal Workers' International Association",
+          "relationship": "chapter"
         }
       ]
     },
@@ -143813,6 +143981,10 @@
       "children": [
         {
           "name": "Chula Vista Firefighters Local 2180",
+          "relationship": "chapter"
+        },
+        {
+          "name": "Local 2734 Chula Vista Firefighters",
           "relationship": "chapter"
         }
       ]
@@ -144204,6 +144376,10 @@
         {
           "name": "Glendale Professional Firefighters Local 3842",
           "relationship": "chapter"
+        },
+        {
+          "name": "Local 2805 Glendale Professional Firefighters",
+          "relationship": "chapter"
         }
       ]
     },
@@ -144223,6 +144399,10 @@
       "children": [
         {
           "name": "Oxnard Firefighters Local 1684",
+          "relationship": "chapter"
+        },
+        {
+          "name": "Local 3631 Oxnard Firefighters",
           "relationship": "chapter"
         }
       ]
@@ -144252,6 +144432,10 @@
         {
           "name": "Nevada County Professional Firefighters, Local 3800",
           "relationship": "chapter"
+        },
+        {
+          "name": "Local 2744 Nevada County Professional Firefighters",
+          "relationship": "chapter"
         }
       ]
     },
@@ -144261,6 +144445,10 @@
       "children": [
         {
           "name": "Rancho Cucamonga Firefighters Association Local 2274",
+          "relationship": "chapter"
+        },
+        {
+          "name": "Local 1401 Rancho Cucamonga Firefighters Association",
           "relationship": "chapter"
         }
       ]
@@ -144272,6 +144460,10 @@
         {
           "name": "Riverside City Firefighters Association Local 1067",
           "relationship": "chapter"
+        },
+        {
+          "name": "Local 1354 Riverside City Firefighters Association",
+          "relationship": "chapter"
         }
       ]
     },
@@ -144281,6 +144473,10 @@
       "children": [
         {
           "name": "Professional Firefighters of Sonoma County Local 1401",
+          "relationship": "chapter"
+        },
+        {
+          "name": "Local 3922 Professional Firefighters of Sonoma County",
           "relationship": "chapter"
         }
       ]
@@ -144397,6 +144593,10 @@
         },
         {
           "name": "Stockton Firefighters Local 456",
+          "relationship": "chapter"
+        },
+        {
+          "name": "Local 3779 Stockton Firefighters",
           "relationship": "chapter"
         }
       ]
@@ -144670,6 +144870,10 @@
         {
           "name": "Davis Professional Firefighters Association Local 3494",
           "relationship": "chapter"
+        },
+        {
+          "name": "Local 1465 Davis Professional Firefighters Association",
+          "relationship": "chapter"
         }
       ]
     },
@@ -144920,6 +145124,10 @@
         {
           "name": "San Diego City Fire Fighters Local 145",
           "relationship": "chapter"
+        },
+        {
+          "name": "Local 1270 San Diego City Fire Fighters",
+          "relationship": "chapter"
         }
       ]
     },
@@ -144929,6 +145137,10 @@
       "children": [
         {
           "name": "San Luis Obispo City Firefighters, Local 3523",
+          "relationship": "chapter"
+        },
+        {
+          "name": "Local 522 San Luis Obispo City Firefighters",
           "relationship": "chapter"
         }
       ]
@@ -144977,6 +145189,10 @@
       "children": [
         {
           "name": "Santa Barbara City Firefighters Association Local 525",
+          "relationship": "chapter"
+        },
+        {
+          "name": "Local 4184 Santa Barbara City Firefighters Association",
           "relationship": "chapter"
         }
       ]
@@ -145508,6 +145724,10 @@
         {
           "name": "Los Angeles County Public Defenders Union, Local 148",
           "relationship": "chapter"
+        },
+        {
+          "name": "Local 148 Los Angeles County Public Defenders Union",
+          "relationship": "chapter"
         }
       ]
     },
@@ -145930,6 +146150,10 @@
         {
           "name": "San Marcos Firefighters Association Local 4184",
           "relationship": "chapter"
+        },
+        {
+          "name": "Local 230 San Marcos Firefighters Association",
+          "relationship": "chapter"
         }
       ]
     },
@@ -146256,6 +146480,10 @@
         {
           "name": "Atascadero City Firefighters Local 3600",
           "relationship": "chapter"
+        },
+        {
+          "name": "Local 2899 Atascadero City Firefighters",
+          "relationship": "chapter"
         }
       ]
     },
@@ -146275,6 +146503,10 @@
       "children": [
         {
           "name": "Escondido Firefighters Local 3842",
+          "relationship": "chapter"
+        },
+        {
+          "name": "Local 3787 Escondido Firefighters",
           "relationship": "chapter"
         }
       ]
@@ -146513,6 +146745,10 @@
         },
         {
           "name": "Painters Local 376",
+          "relationship": "chapter"
+        },
+        {
+          "name": "Local 95 Painters",
           "relationship": "chapter"
         }
       ]
@@ -147394,6 +147630,10 @@
         {
           "name": "Santa Clara City Firefighters, Local 1171",
           "relationship": "chapter"
+        },
+        {
+          "name": "Local 2046 Santa Clara City Firefighters",
+          "relationship": "chapter"
         }
       ]
     },
@@ -147413,6 +147653,10 @@
       "children": [
         {
           "name": "Santa Barbara County Firefighters, Local 2046",
+          "relationship": "chapter"
+        },
+        {
+          "name": "Local 525 Santa Barbara County Firefighters",
           "relationship": "chapter"
         }
       ]
@@ -147723,6 +147967,10 @@
         },
         {
           "name": "Alameda County Firefighters, Local 55",
+          "relationship": "chapter"
+        },
+        {
+          "name": "Local 689 Alameda County Firefighters",
           "relationship": "chapter"
         }
       ]
@@ -148803,6 +149051,10 @@
       "children": [
         {
           "name": "Pipefitters Local 250",
+          "relationship": "chapter"
+        },
+        {
+          "name": "Local 345 Pipefitters",
           "relationship": "chapter"
         }
       ]
@@ -151182,6 +151434,10 @@
         {
           "name": "Newport Beach Firefighters Association, Local 3734",
           "relationship": "chapter"
+        },
+        {
+          "name": "Local 3800 Newport Beach Firefighters Association",
+          "relationship": "chapter"
         }
       ]
     },
@@ -151527,6 +151783,10 @@
         },
         {
           "name": "Painters and Tapers, Local 507",
+          "relationship": "chapter"
+        },
+        {
+          "name": "Local 9254 Painters and Tapers",
           "relationship": "chapter"
         }
       ]
@@ -152047,6 +152307,10 @@
       "children": [
         {
           "name": "International Brotherhood of Electrical Workers (IBEW), Local 11",
+          "relationship": "chapter"
+        },
+        {
+          "name": "Local 5 International Brotherhood of Electrical Workers (IBEW)",
           "relationship": "chapter"
         }
       ]
@@ -154296,6 +154560,10 @@
         {
           "name": "South San Francisco Professional Firefighters, Local 1507",
           "relationship": "chapter"
+        },
+        {
+          "name": "Local 1165 South San Francisco Professional Firefighters",
+          "relationship": "chapter"
         }
       ]
     },
@@ -156059,6 +156327,10 @@
       "children": [
         {
           "name": "Hayward Firefighters Local 1909",
+          "relationship": "chapter"
+        },
+        {
+          "name": "Local 776 Hayward Firefighters",
           "relationship": "chapter"
         }
       ]
