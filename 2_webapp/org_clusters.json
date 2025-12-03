@@ -562,56 +562,12 @@
       "children": []
     },
     {
-      "canonical": "AARP",
-      "status": "active",
-      "children": [
-        {
-          "name": "AARP CALIFORNIA",
-          "relationship": "chapter"
-        },
-        {
-          "name": "AARP, CALIFORNIA",
-          "relationship": "alternate_spelling"
-        },
-        {
-          "name": "AMERICAN ASSOCIATION OF RETIRED PERSONS",
-          "relationship": "alternate_spelling"
-        },
-        {
-          "name": "THE AARP",
-          "relationship": "alternate_spelling"
-        },
-        {
-          "name": "AARP, Inc",
-          "relationship": "alternate_spelling"
-        },
-        {
-          "name": "AARP of California",
-          "relationship": "chapter"
-        }
-      ]
-    },
-    {
       "canonical": "AARP CALIFORNIA",
       "status": "active",
       "children": [
         {
           "name": "AARP, CALIFORNIA",
           "relationship": "alternate_spelling"
-        }
-      ]
-    },
-    {
-      "canonical": "AAUW",
-      "status": "active",
-      "children": [
-        {
-          "name": "AAUW California",
-          "relationship": "chapter"
-        },
-        {
-          "name": "AAUW of California",
-          "relationship": "chapter"
         }
       ]
     },
@@ -627,16 +583,6 @@
         {
           "name": "Abalone International, Inc",
           "relationship": "alternate_spelling"
-        }
-      ]
-    },
-    {
-      "canonical": "ABATE",
-      "status": "active",
-      "children": [
-        {
-          "name": "ABATE California",
-          "relationship": "chapter"
         }
       ]
     },
@@ -700,16 +646,6 @@
       "children": [
         {
           "name": "Abbvie, Inc",
-          "relationship": "alternate_spelling"
-        }
-      ]
-    },
-    {
-      "canonical": "ABC",
-      "status": "active",
-      "children": [
-        {
-          "name": "ABC, Inc",
           "relationship": "alternate_spelling"
         }
       ]
@@ -1244,20 +1180,6 @@
         {
           "name": "Acid Maltase Deficiency Association, Inc",
           "relationship": "alternate_spelling"
-        }
-      ]
-    },
-    {
-      "canonical": "ACLU",
-      "status": "active",
-      "children": [
-        {
-          "name": "ACLU of California",
-          "relationship": "chapter"
-        },
-        {
-          "name": "ACLU, California",
-          "relationship": "chapter"
         }
       ]
     },
@@ -2529,52 +2451,6 @@
         {
           "name": "AFRICAN-AMERICAN MALE ACHIEVERS NETWORK (AMAN)",
           "relationship": "alternate_spelling"
-        }
-      ]
-    },
-    {
-      "canonical": "AFSCME",
-      "status": "active",
-      "children": [
-        {
-          "name": "AFSCME, AFL-CIO",
-          "relationship": "alternate_spelling"
-        },
-        {
-          "name": "AMERICAN FEDERATION OF STATE, COUNTY AND MUNICIPAL EMPLOYEES",
-          "relationship": "alternate_spelling"
-        },
-        {
-          "name": "AMERICAN FEDERATION OF STATE, COUNTY AND MUNICIPAL EMPLOYEES (AFSCME)",
-          "relationship": "alternate_spelling"
-        },
-        {
-          "name": "AMERICAN FEDERATION OF STATE, COUNTY AND MUNICIPAL EMPLOYEES (AFSCME), AFL-CIO",
-          "relationship": "alternate_spelling"
-        },
-        {
-          "name": "AMERICAN FEDERATION OF STATE, COUNTY AND MUNICIPAL EMPLOYEES, AFL-CIO",
-          "relationship": "alternate_spelling"
-        },
-        {
-          "name": "AMERICAN FEDERATION OF STATE, COUNTY AND MUNICIPAL EMPLOYEES...",
-          "relationship": "alternate_spelling"
-        },
-        {
-          "name": "AMERICAN FEDERATION OF STATE, COUNTY, AND MUNICIPAL EMPLOYEES",
-          "relationship": "alternate_spelling"
-        },
-        {
-          "name": "AMERICAN FEDERATION OF STATE, COUNTY, AND MUNICIPAL EMPLOYEES, AFL-CIO",
-          "relationship": "alternate_spelling"
-        },
-        {
-          "name": "Afscme California",
-          "relationship": "chapter"
-        },
-        {
-          "name": "AFSCME CA",
-          "relationship": "chapter"
         }
       ]
     },
@@ -5376,6 +5252,34 @@
         {
           "name": "American Association of Retired Persons CA",
           "relationship": "chapter"
+        },
+        {
+          "name": "AARP",
+          "relationship": "alternate_spelling"
+        },
+        {
+          "name": "AARP CALIFORNIA",
+          "relationship": "chapter"
+        },
+        {
+          "name": "AARP, CALIFORNIA",
+          "relationship": "alternate_spelling"
+        },
+        {
+          "name": "AMERICAN ASSOCIATION OF RETIRED PERSONS",
+          "relationship": "alternate_spelling"
+        },
+        {
+          "name": "THE AARP",
+          "relationship": "alternate_spelling"
+        },
+        {
+          "name": "AARP, Inc",
+          "relationship": "alternate_spelling"
+        },
+        {
+          "name": "AARP of California",
+          "relationship": "chapter"
         }
       ]
     },
@@ -5435,6 +5339,18 @@
         },
         {
           "name": "American Association of University Women CA",
+          "relationship": "chapter"
+        },
+        {
+          "name": "AAUW",
+          "relationship": "alternate_spelling"
+        },
+        {
+          "name": "AAUW California",
+          "relationship": "chapter"
+        },
+        {
+          "name": "AAUW of California",
           "relationship": "chapter"
         }
       ]
@@ -5594,6 +5510,14 @@
         {
           "name": "AMERICAN BROTHERHOOD AIMED TOWARD EDUCATION (ABATE)",
           "relationship": "alternate_spelling"
+        },
+        {
+          "name": "ABATE",
+          "relationship": "alternate_spelling"
+        },
+        {
+          "name": "ABATE California",
+          "relationship": "chapter"
         }
       ]
     },
@@ -5809,6 +5733,18 @@
         },
         {
           "name": "American Civil Liberties Union, California",
+          "relationship": "chapter"
+        },
+        {
+          "name": "ACLU",
+          "relationship": "alternate_spelling"
+        },
+        {
+          "name": "ACLU of California",
+          "relationship": "chapter"
+        },
+        {
+          "name": "ACLU, California",
           "relationship": "chapter"
         }
       ]
@@ -6799,6 +6735,50 @@
         },
         {
           "name": "American Federation of State, County and Municipal Employees of California",
+          "relationship": "chapter"
+        },
+        {
+          "name": "AFSCME",
+          "relationship": "alternate_spelling"
+        },
+        {
+          "name": "AFSCME, AFL-CIO",
+          "relationship": "alternate_spelling"
+        },
+        {
+          "name": "AMERICAN FEDERATION OF STATE, COUNTY AND MUNICIPAL EMPLOYEES",
+          "relationship": "alternate_spelling"
+        },
+        {
+          "name": "AMERICAN FEDERATION OF STATE, COUNTY AND MUNICIPAL EMPLOYEES (AFSCME)",
+          "relationship": "alternate_spelling"
+        },
+        {
+          "name": "AMERICAN FEDERATION OF STATE, COUNTY AND MUNICIPAL EMPLOYEES (AFSCME), AFL-CIO",
+          "relationship": "alternate_spelling"
+        },
+        {
+          "name": "AMERICAN FEDERATION OF STATE, COUNTY AND MUNICIPAL EMPLOYEES, AFL-CIO",
+          "relationship": "alternate_spelling"
+        },
+        {
+          "name": "AMERICAN FEDERATION OF STATE, COUNTY AND MUNICIPAL EMPLOYEES...",
+          "relationship": "alternate_spelling"
+        },
+        {
+          "name": "AMERICAN FEDERATION OF STATE, COUNTY, AND MUNICIPAL EMPLOYEES",
+          "relationship": "alternate_spelling"
+        },
+        {
+          "name": "AMERICAN FEDERATION OF STATE, COUNTY, AND MUNICIPAL EMPLOYEES, AFL-CIO",
+          "relationship": "alternate_spelling"
+        },
+        {
+          "name": "Afscme California",
+          "relationship": "chapter"
+        },
+        {
+          "name": "AFSCME CA",
           "relationship": "chapter"
         }
       ]
@@ -8412,6 +8392,14 @@
         },
         {
           "name": "AMERICAN SOCIETY FOR THE PREVENTION OF CRUELTY TO ANIMALS (ASPCA)",
+          "relationship": "alternate_spelling"
+        },
+        {
+          "name": "ASPCA",
+          "relationship": "alternate_spelling"
+        },
+        {
+          "name": "AMERICAN SOCIETY FOR THE PREVENTION OF CRUELTY TO ANIMALS",
           "relationship": "alternate_spelling"
         }
       ]
@@ -11279,16 +11267,6 @@
       "children": []
     },
     {
-      "canonical": "ASPCA",
-      "status": "active",
-      "children": [
-        {
-          "name": "AMERICAN SOCIETY FOR THE PREVENTION OF CRUELTY TO ANIMALS",
-          "relationship": "alternate_spelling"
-        }
-      ]
-    },
-    {
       "canonical": "Aspen Public Schools",
       "status": "active",
       "children": [
@@ -11568,6 +11546,14 @@
         {
           "name": "Associated Builders and Contractors of CA",
           "relationship": "chapter"
+        },
+        {
+          "name": "ABC",
+          "relationship": "alternate_spelling"
+        },
+        {
+          "name": "ABC, Inc",
+          "relationship": "alternate_spelling"
         }
       ]
     },
@@ -17937,20 +17923,6 @@
       ]
     },
     {
-      "canonical": "BOMA",
-      "status": "active",
-      "children": [
-        {
-          "name": "BOMA California",
-          "relationship": "chapter"
-        },
-        {
-          "name": "BOMA of California",
-          "relationship": "chapter"
-        }
-      ]
-    },
-    {
       "canonical": "BOMA, CALIFORNIA AND SAN DIEGO",
       "status": "active",
       "children": []
@@ -19321,6 +19293,18 @@
         {
           "name": "BUILDING OWNERS AND MANAGERS ASSOCIATION OF CALIFORNIA (BOMA)",
           "relationship": "alternate_spelling"
+        },
+        {
+          "name": "BOMA",
+          "relationship": "alternate_spelling"
+        },
+        {
+          "name": "BOMA California",
+          "relationship": "chapter"
+        },
+        {
+          "name": "BOMA of California",
+          "relationship": "chapter"
         }
       ]
     },
@@ -33592,6 +33576,10 @@
         {
           "name": "California State Association of Counties, California",
           "relationship": "chapter"
+        },
+        {
+          "name": "CSAC",
+          "relationship": "alternate_spelling"
         }
       ]
     },
@@ -53042,11 +53030,6 @@
           "relationship": "alternate_spelling"
         }
       ]
-    },
-    {
-      "canonical": "CSAC",
-      "status": "active",
-      "children": []
     },
     {
       "canonical": "CSAC EXCESS INSURANCE AUTHORITY",
@@ -81578,6 +81561,14 @@
         {
           "name": "LEAGUE OF UNITED LATIN AMERICAN CITIZENS (LULAC)",
           "relationship": "alternate_spelling"
+        },
+        {
+          "name": "LULAC",
+          "relationship": "alternate_spelling"
+        },
+        {
+          "name": "Lulac California",
+          "relationship": "chapter"
         }
       ]
     },
@@ -85280,16 +85271,6 @@
       ]
     },
     {
-      "canonical": "LULAC",
-      "status": "active",
-      "children": [
-        {
-          "name": "Lulac California",
-          "relationship": "chapter"
-        }
-      ]
-    },
-    {
       "canonical": "Lumber",
       "status": "active",
       "children": [
@@ -85632,16 +85613,6 @@
         {
           "name": "Madaffer Enterprises, Inc",
           "relationship": "alternate_spelling"
-        }
-      ]
-    },
-    {
-      "canonical": "MADD",
-      "status": "active",
-      "children": [
-        {
-          "name": "MADD California",
-          "relationship": "chapter"
         }
       ]
     },
@@ -90189,6 +90160,14 @@
         {
           "name": "Mothers Against Drunk Driving California",
           "relationship": "chapter"
+        },
+        {
+          "name": "MADD",
+          "relationship": "alternate_spelling"
+        },
+        {
+          "name": "MADD California",
+          "relationship": "chapter"
         }
       ]
     },
@@ -90953,20 +90932,6 @@
       "children": []
     },
     {
-      "canonical": "NAACP",
-      "status": "active",
-      "children": [
-        {
-          "name": "THE NAACP",
-          "relationship": "alternate_spelling"
-        },
-        {
-          "name": "NAACP California",
-          "relationship": "chapter"
-        }
-      ]
-    },
-    {
       "canonical": "NAACP Legal Defense and Education Fund",
       "status": "active",
       "children": [
@@ -91067,24 +91032,6 @@
         {
           "name": "Namezero.com, Inc",
           "relationship": "alternate_spelling"
-        }
-      ]
-    },
-    {
-      "canonical": "NAMI",
-      "status": "active",
-      "children": [
-        {
-          "name": "Nami California",
-          "relationship": "chapter"
-        },
-        {
-          "name": "NAMI, California",
-          "relationship": "chapter"
-        },
-        {
-          "name": "NAMI CA",
-          "relationship": "chapter"
         }
       ]
     },
@@ -91478,6 +91425,22 @@
         {
           "name": "National Alliance on Mental Illness of California",
           "relationship": "chapter"
+        },
+        {
+          "name": "NAMI",
+          "relationship": "alternate_spelling"
+        },
+        {
+          "name": "Nami California",
+          "relationship": "chapter"
+        },
+        {
+          "name": "NAMI, California",
+          "relationship": "chapter"
+        },
+        {
+          "name": "NAMI CA",
+          "relationship": "chapter"
         }
       ]
     },
@@ -91656,6 +91619,18 @@
         },
         {
           "name": "National Association for the Advancement of Colored People, California",
+          "relationship": "chapter"
+        },
+        {
+          "name": "NAACP",
+          "relationship": "alternate_spelling"
+        },
+        {
+          "name": "THE NAACP",
+          "relationship": "alternate_spelling"
+        },
+        {
+          "name": "NAACP California",
           "relationship": "chapter"
         }
       ]
@@ -94355,6 +94330,14 @@
         {
           "name": "NATURAL RESOURCES DEFENSE COUNCIL (NRDC)",
           "relationship": "alternate_spelling"
+        },
+        {
+          "name": "NRDC",
+          "relationship": "alternate_spelling"
+        },
+        {
+          "name": "THE NRDC",
+          "relationship": "alternate_spelling"
         }
       ]
     },
@@ -96642,16 +96625,6 @@
         {
           "name": "NOW California",
           "relationship": "chapter"
-        }
-      ]
-    },
-    {
-      "canonical": "NRDC",
-      "status": "active",
-      "children": [
-        {
-          "name": "THE NRDC",
-          "relationship": "alternate_spelling"
         }
       ]
     },
@@ -115101,24 +115074,6 @@
       ]
     },
     {
-      "canonical": "SEIU",
-      "status": "active",
-      "children": [
-        {
-          "name": "SEIU CA",
-          "relationship": "chapter"
-        },
-        {
-          "name": "SEIU of California",
-          "relationship": "chapter"
-        },
-        {
-          "name": "SEIU, California",
-          "relationship": "chapter"
-        }
-      ]
-    },
-    {
       "canonical": "SEIU LOCAL 1021",
       "status": "active",
       "children": [
@@ -115612,6 +115567,22 @@
         },
         {
           "name": "Service Employees International Union of California",
+          "relationship": "chapter"
+        },
+        {
+          "name": "SEIU",
+          "relationship": "alternate_spelling"
+        },
+        {
+          "name": "SEIU CA",
+          "relationship": "chapter"
+        },
+        {
+          "name": "SEIU of California",
+          "relationship": "chapter"
+        },
+        {
+          "name": "SEIU, California",
           "relationship": "chapter"
         }
       ]
@@ -128221,16 +128192,6 @@
       "children": []
     },
     {
-      "canonical": "UFCW",
-      "status": "active",
-      "children": [
-        {
-          "name": "UFCW CA",
-          "relationship": "chapter"
-        }
-      ]
-    },
-    {
       "canonical": "ULTIMATE FIGHTING CHAMPIONSHIP",
       "status": "active",
       "children": [
@@ -129080,6 +129041,14 @@
         {
           "name": "UNITED FOOD AND COMMERCIAL WORKERS (UFCW)",
           "relationship": "alternate_spelling"
+        },
+        {
+          "name": "UFCW",
+          "relationship": "alternate_spelling"
+        },
+        {
+          "name": "UFCW CA",
+          "relationship": "chapter"
         }
       ]
     },
@@ -129440,6 +129409,14 @@
       "children": [
         {
           "name": "UNITED PARCEL SERVICE (UPS)",
+          "relationship": "alternate_spelling"
+        },
+        {
+          "name": "UPS",
+          "relationship": "alternate_spelling"
+        },
+        {
+          "name": "UPS, Inc",
           "relationship": "alternate_spelling"
         }
       ]
@@ -130136,16 +130113,6 @@
       "canonical": "UPRISE THEATRE",
       "status": "active",
       "children": []
-    },
-    {
-      "canonical": "UPS",
-      "status": "active",
-      "children": [
-        {
-          "name": "UPS, Inc",
-          "relationship": "alternate_spelling"
-        }
-      ]
     },
     {
       "canonical": "UPSTATE CALIFORNIA CONNECT CONSORTIUM",

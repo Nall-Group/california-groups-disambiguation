@@ -34,6 +34,8 @@ directory: org_name_subsets_for_cleaning/
 
 9. Add orgs that have "Inc" at the end of the name where the same org without "Inc" also exists in the dataset, to the crosswalk
 
+10. Add orgs that are the same as another org except for the addition of ' California" or ' of California' or ' of CA' or ' CA' at teh end as orgs with a chapter relationship to the base name
+
 ## Crosswalk Relationship Types
 
 - canonical
