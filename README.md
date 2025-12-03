@@ -34,4 +34,9 @@ directory: org_name_subsets_for_cleaning/
 
 9. Add orgs that have "Inc" at the end of the name where the same org without "Inc" also exists in the dataset, to the crosswalk
 
+## Crosswalk Relationship Types
+
+- canonical
+- alternate_spelling
+- chapter
 
