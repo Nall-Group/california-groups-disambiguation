@@ -31,3 +31,7 @@ directory: org_name_subsets_for_cleaning/
 7. Add all org names that Looks like an org name that is in the crosswalk except it has its own acronym in brackets at the end to the crosswalk as alternate spelling
 
 8. Separate org_names_capitalized.csv into org_names_in_crosswalk.csv and org_names_not_in_crosswalk.csv so we can work on getting them all into the crosswalk
+
+9. Add orgs that have "Inc" at the end of the name where the same org without "Inc" also exists in the dataset, to the crosswalk
+
+
