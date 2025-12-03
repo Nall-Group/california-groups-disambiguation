@@ -19,7 +19,7 @@ Future feature: add fuzzy search feature to disambiguation tool
 
 directory: org_name_subsets_for_cleaning/
 
-0. Use extract_org_names.py to get all org names from leginfo_metadata.csv in https://github.com/Nall-Group/leginfo
+0. Use extract_org_names.py to get all org names from leginfo_metadata.csv in https://github.com/Nall-Group/leginfo. Clean these by removing stuff matching the regex in cleaning_patterns.txt.
 
 1. Remove all organization names that do not follow the rule where all words above four characters long are capitalized. These are likely text fragments. These organizations are moved into org_names_not_capitalized.csv. Make sure to exclude organizations where the item that is longer than four characters and not capitalized is after some punctuation like a hyphen or inside parentheses at the end of the organization name.
 
@@ -44,6 +44,9 @@ directory: org_name_subsets_for_cleaning/
 11. Add orgs that are unambiguous acronyms as an alternate spelling
 
 12. Add orgs that start with California but otherwise the same as another org as a chapter
+
+13. Make sure that orgs that look like valid names except for stuff in brackets are moved from org_names_not_capitalized.csv to org_names_not_in_crosswalk.csv
+
 
 ## Crosswalk Relationship Types
 
