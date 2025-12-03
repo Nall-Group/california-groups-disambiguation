@@ -789,6 +789,10 @@
         {
           "name": "ACAL",
           "relationship": "alternate_spelling"
+        },
+        {
+          "name": "California Adoption Lawyers (ACAL)",
+          "relationship": "chapter"
         }
       ]
     },
@@ -1231,6 +1235,18 @@
         },
         {
           "name": "California ACORN",
+          "relationship": "chapter"
+        },
+        {
+          "name": "California Association of Community Organizers for Reform Now (ACORN)",
+          "relationship": "chapter"
+        },
+        {
+          "name": "California ACORN (Association of Community Organizations for Reform Now)",
+          "relationship": "chapter"
+        },
+        {
+          "name": "California ACORN (Association of Community Organizers for Reform Now)",
           "relationship": "chapter"
         }
       ]
@@ -2904,6 +2920,10 @@
         {
           "name": "AIR RESOURCES BOARD (ARB)",
           "relationship": "alternate_spelling"
+        },
+        {
+          "name": "California Air Resources Board (ARB)",
+          "relationship": "chapter"
         }
       ]
     },
@@ -3772,6 +3792,10 @@
         {
           "name": "ALLIANCE (CMPA)",
           "relationship": "alternate_spelling"
+        },
+        {
+          "name": "California Alliance of Child and Family Services (Alliance)",
+          "relationship": "chapter"
         }
       ]
     },
@@ -5759,6 +5783,10 @@
         {
           "name": "American College of Emergency Physicians of California",
           "relationship": "chapter"
+        },
+        {
+          "name": "California ACEP (American College of Emergency Physicians)",
+          "relationship": "chapter"
         }
       ]
     },
@@ -6791,6 +6819,10 @@
         {
           "name": "AFT",
           "relationship": "alternate_spelling"
+        },
+        {
+          "name": "California Federation of Teachers (AFT)",
+          "relationship": "chapter"
         }
       ]
     },
@@ -11775,6 +11807,10 @@
         {
           "name": "Association for Coordinated Transportation, Inc",
           "relationship": "alternate_spelling"
+        },
+        {
+          "name": "California Association for Coordinated Transportation (CALACT)",
+          "relationship": "chapter"
         }
       ]
     },
@@ -12675,6 +12711,10 @@
         {
           "name": "California Association of Community Organizations for Reform Now",
           "relationship": "chapter"
+        },
+        {
+          "name": "California Association of Community Organizations for Reform Now (ACORN)",
+          "relationship": "chapter"
         }
       ]
     },
@@ -12708,6 +12748,18 @@
         },
         {
           "name": "Association of County Veterans Service Officers, California",
+          "relationship": "chapter"
+        },
+        {
+          "name": "California Association of County Veterans Service Officers (CACVSOs)",
+          "relationship": "chapter"
+        },
+        {
+          "name": "California Association of County Veterans Service Officers (CVSO)",
+          "relationship": "chapter"
+        },
+        {
+          "name": "California Association of County Veterans Service Officers (CAVSO)",
           "relationship": "chapter"
         }
       ]
@@ -13321,6 +13373,14 @@
         {
           "name": "Association of Sanitation Agencies, California",
           "relationship": "chapter"
+        },
+        {
+          "name": "California Association of Sanitation Agencies (Supports Section 2)",
+          "relationship": "chapter"
+        },
+        {
+          "name": "California Association of Sanitation Agencies (Opposes Section 1)",
+          "relationship": "chapter"
         }
       ]
     },
@@ -13615,6 +13675,14 @@
         {
           "name": "AG",
           "relationship": "alternate_spelling"
+        },
+        {
+          "name": "California Attorney General (AG)",
+          "relationship": "chapter"
+        },
+        {
+          "name": "California Department of Justice (Attorney General)",
+          "relationship": "chapter"
         }
       ]
     },
@@ -17144,6 +17212,14 @@
         {
           "name": "California Board",
           "relationship": "chapter"
+        },
+        {
+          "name": "California Architects Board (Board)",
+          "relationship": "chapter"
+        },
+        {
+          "name": "California State Board of Pharmacy (Board)",
+          "relationship": "chapter"
         }
       ]
     },
@@ -17158,6 +17234,10 @@
         {
           "name": "BPELS",
           "relationship": "alternate_spelling"
+        },
+        {
+          "name": "California Board for Professional Engineers and Land Surveyors (BPELS)",
+          "relationship": "chapter"
         }
       ]
     },
@@ -17985,6 +18065,10 @@
         {
           "name": "California Brain Injury Association",
           "relationship": "chapter"
+        },
+        {
+          "name": "California Brain Injury Association (CALBIA)",
+          "relationship": "chapter"
         }
       ]
     },
@@ -18693,6 +18777,22 @@
         {
           "name": "THE BUILDING INDUSTRY ASSOCIATION",
           "relationship": "alternate_spelling"
+        },
+        {
+          "name": "California Building Industry Association (BIA)",
+          "relationship": "chapter"
+        },
+        {
+          "name": "California Building Industry Association (CIBA)",
+          "relationship": "chapter"
+        },
+        {
+          "name": "California Building Industry Association (LA Co. Public Works)",
+          "relationship": "chapter"
+        },
+        {
+          "name": "California Building Industry Association (Sponsors)",
+          "relationship": "chapter"
         }
       ]
     },
@@ -19141,6 +19241,10 @@
         {
           "name": "California Bureau of State Audits",
           "relationship": "chapter"
+        },
+        {
+          "name": "California Bureau of State Audits (State Auditor)",
+          "relationship": "chapter"
         }
       ]
     },
@@ -19277,6 +19381,18 @@
       "children": [
         {
           "name": "Business Properties Association California",
+          "relationship": "chapter"
+        },
+        {
+          "name": "California Business Properties Association (\"In Concept\")",
+          "relationship": "chapter"
+        },
+        {
+          "name": "California Business Properties Association (CPBA)",
+          "relationship": "chapter"
+        },
+        {
+          "name": "California Business Properties Association (CBIA)",
           "relationship": "chapter"
         }
       ]
@@ -20060,6 +20176,18 @@
         {
           "name": "CALIFORNIA STATE STUDENT ASSOCIATION (CSSA)",
           "relationship": "alternate_spelling"
+        },
+        {
+          "name": "California State Student Association (CSU)",
+          "relationship": "alternate_spelling"
+        },
+        {
+          "name": "California State Student Association (Co-Source)",
+          "relationship": "alternate_spelling"
+        },
+        {
+          "name": "California State Student Association (Sponsors)",
+          "relationship": "alternate_spelling"
         }
       ]
     },
@@ -20144,6 +20272,10 @@
         {
           "name": "CALIFORNIA STATE CHAMBER OF COMMERCE",
           "relationship": "alternate_spelling"
+        },
+        {
+          "name": "California Chamber of Commerce (CalChamber)",
+          "relationship": "chapter"
         }
       ]
     },
@@ -20288,6 +20420,142 @@
         {
           "name": "California, Inc",
           "relationship": "alternate_spelling"
+        },
+        {
+          "name": "California (PORAC)",
+          "relationship": "chapter"
+        },
+        {
+          "name": "California (CELSOC)",
+          "relationship": "chapter"
+        },
+        {
+          "name": "California (CAOC)",
+          "relationship": "chapter"
+        },
+        {
+          "name": "California (NAIFA-California)",
+          "relationship": "chapter"
+        },
+        {
+          "name": "California (PIFC)",
+          "relationship": "chapter"
+        },
+        {
+          "name": "California (FLEXCOM)",
+          "relationship": "chapter"
+        },
+        {
+          "name": "California (CJAC)",
+          "relationship": "chapter"
+        },
+        {
+          "name": "California (Caltrans)",
+          "relationship": "chapter"
+        },
+        {
+          "name": "California (OWL/CA)",
+          "relationship": "chapter"
+        },
+        {
+          "name": "California (HOAC)",
+          "relationship": "chapter"
+        },
+        {
+          "name": "California (ACLU)",
+          "relationship": "chapter"
+        },
+        {
+          "name": "California (AOCUC)",
+          "relationship": "chapter"
+        },
+        {
+          "name": "California (CADPAAC)",
+          "relationship": "chapter"
+        },
+        {
+          "name": "California (EQCA)",
+          "relationship": "chapter"
+        },
+        {
+          "name": "California (CWDA)",
+          "relationship": "chapter"
+        },
+        {
+          "name": "California (CVUC)",
+          "relationship": "chapter"
+        },
+        {
+          "name": "California (NCJW CA)",
+          "relationship": "chapter"
+        },
+        {
+          "name": "California (NAIFA-CA)",
+          "relationship": "chapter"
+        },
+        {
+          "name": "California (NAIFA)",
+          "relationship": "chapter"
+        },
+        {
+          "name": "California (LAAC)",
+          "relationship": "chapter"
+        },
+        {
+          "name": "California (HOBO)",
+          "relationship": "chapter"
+        },
+        {
+          "name": "California (EMSAAC)",
+          "relationship": "chapter"
+        },
+        {
+          "name": "California (BOMA)",
+          "relationship": "chapter"
+        },
+        {
+          "name": "California (APALC)",
+          "relationship": "chapter"
+        },
+        {
+          "name": "California (AKAMAC)",
+          "relationship": "chapter"
+        },
+        {
+          "name": "California (Sponsors)",
+          "relationship": "chapter"
+        },
+        {
+          "name": "California (AAA)",
+          "relationship": "chapter"
+        },
+        {
+          "name": "California (OSCC)",
+          "relationship": "chapter"
+        },
+        {
+          "name": "California (SBCTC)",
+          "relationship": "chapter"
+        },
+        {
+          "name": "California (Secretary John Laird)",
+          "relationship": "chapter"
+        },
+        {
+          "name": "California (ABC)",
+          "relationship": "chapter"
+        },
+        {
+          "name": "California (ACSI)",
+          "relationship": "chapter"
+        },
+        {
+          "name": "California (AAP-CA)",
+          "relationship": "chapter"
+        },
+        {
+          "name": "California (TEXCOM)",
+          "relationship": "chapter"
         }
       ]
     },
@@ -20340,6 +20608,10 @@
         {
           "name": "CARAL",
           "relationship": "alternate_spelling"
+        },
+        {
+          "name": "California Abortion and Reproductive Rights Action League (CARAL)",
+          "relationship": "chapter"
         }
       ]
     },
@@ -20367,6 +20639,10 @@
       "children": [
         {
           "name": "THE CALIFORNIA ACADEMY OF CHILD AND ADOLESCENT PSYCHIATRY",
+          "relationship": "alternate_spelling"
+        },
+        {
+          "name": "California Academy of Child and Adolescent Psychiatry (Cal-ACAP)",
           "relationship": "alternate_spelling"
         }
       ]
@@ -20448,6 +20724,10 @@
         {
           "name": "CAO",
           "relationship": "alternate_spelling"
+        },
+        {
+          "name": "California Optometric Association (CAO)",
+          "relationship": "chapter"
         }
       ]
     },
@@ -20552,6 +20832,14 @@
       "children": [
         {
           "name": "CALIFORNIA ADVOCATES FOR NURSING HOME REFORM (CANHR)",
+          "relationship": "alternate_spelling"
+        },
+        {
+          "name": "California Advocates for Nursing Home Reform (CAHNR)",
+          "relationship": "alternate_spelling"
+        },
+        {
+          "name": "California Advocates for Nursing Home Reform (If Amended)",
           "relationship": "alternate_spelling"
         }
       ]
@@ -20740,6 +21028,10 @@
         {
           "name": "THE CALIFORNIA ALLIANCE",
           "relationship": "alternate_spelling"
+        },
+        {
+          "name": "California Alliance of Child and Family Services (California Alliance)",
+          "relationship": "chapter"
         }
       ]
     },
@@ -20869,6 +21161,10 @@
         {
           "name": "THE CALIFORNIA ALLIANCE FOR PRIDE AND EQUALITY (CAPE)",
           "relationship": "alternate_spelling"
+        },
+        {
+          "name": "California Alliance for Pride and Equality (Co Sponsor)",
+          "relationship": "alternate_spelling"
         }
       ]
     },
@@ -20903,6 +21199,14 @@
         {
           "name": "California Alliance for Retired Americans California",
           "relationship": "chapter"
+        },
+        {
+          "name": "California Alliance for Retired Americans (CARSA)",
+          "relationship": "alternate_spelling"
+        },
+        {
+          "name": "California Alliance for Retired Americans (Co-Source)",
+          "relationship": "alternate_spelling"
         }
       ]
     },
@@ -20959,7 +21263,12 @@
     {
       "canonical": "CALIFORNIA ALLIANCE OF CAREGIVERS",
       "status": "active",
-      "children": []
+      "children": [
+        {
+          "name": "California Alliance of Caregivers (UNREG)",
+          "relationship": "alternate_spelling"
+        }
+      ]
     },
     {
       "canonical": "CALIFORNIA ALLIANCE OF CHILD AND FAMILY",
@@ -21027,6 +21336,10 @@
         {
           "name": "California Alliance of Self-Insured Groups, Inc",
           "relationship": "alternate_spelling"
+        },
+        {
+          "name": "California Alliance of Self-Insured Groups (CA-SIG)",
+          "relationship": "alternate_spelling"
         }
       ]
     },
@@ -21059,6 +21372,14 @@
         {
           "name": "CAPPA",
           "relationship": "alternate_spelling"
+        },
+        {
+          "name": "California Alternative Payment Program (CAPPA)",
+          "relationship": "chapter"
+        },
+        {
+          "name": "California Alternative Program Payment Association (CAPPA)",
+          "relationship": "chapter"
         }
       ]
     },
@@ -21143,6 +21464,10 @@
       "children": [
         {
           "name": "THE CALIFORNIA ANIMAL WELFARE ASSOCIATION",
+          "relationship": "alternate_spelling"
+        },
+        {
+          "name": "California Animal Welfare Association (CalAnimals)",
           "relationship": "alternate_spelling"
         }
       ]
@@ -21252,6 +21577,10 @@
         {
           "name": "THE CALIFORNIA APPLICANTS' ATTORNEYS ASSOCIATION (CAAA)",
           "relationship": "alternate_spelling"
+        },
+        {
+          "name": "California Applicants' Attorneys Association (Sponsors)",
+          "relationship": "alternate_spelling"
         }
       ]
     },
@@ -21326,6 +21655,22 @@
         },
         {
           "name": "THE CALIFORNIA ASIAN PACIFIC ISLANDER CHAMBER OF COMMERCE",
+          "relationship": "alternate_spelling"
+        },
+        {
+          "name": "California Asian Pacific Chamber of Commerce (CalAsian)",
+          "relationship": "alternate_spelling"
+        },
+        {
+          "name": "California Asian Pacific Chamber of Commerce (CalAsian Chamber)",
+          "relationship": "alternate_spelling"
+        },
+        {
+          "name": "California Asian Pacific Islander Chamber of Commerce (CalAsian Chamber)",
+          "relationship": "alternate_spelling"
+        },
+        {
+          "name": "California Asian Pacific Chamber of Commerce (Co-Source)",
           "relationship": "alternate_spelling"
         }
       ]
@@ -21490,6 +21835,10 @@
         {
           "name": "CALIFORNIA ASSOCIATION FOR BILINGUAL EDUCATION (CABE)",
           "relationship": "alternate_spelling"
+        },
+        {
+          "name": "California Association for Bilingual Education (Co-Source)",
+          "relationship": "alternate_spelling"
         }
       ]
     },
@@ -21532,6 +21881,22 @@
         {
           "name": "CAHSAH",
           "relationship": "alternate_spelling"
+        },
+        {
+          "name": "California Association of Health Services at Home (CAHSAH)",
+          "relationship": "chapter"
+        },
+        {
+          "name": "California Association for Health Services at Home (CAHSA)",
+          "relationship": "alternate_spelling"
+        },
+        {
+          "name": "California Association for Health Servicers at Home (CAHSAH)",
+          "relationship": "chapter"
+        },
+        {
+          "name": "California Association of Health Care Services At Home (CAHSAH)",
+          "relationship": "chapter"
         }
       ]
     },
@@ -21692,6 +22057,10 @@
         {
           "name": "CALIFORNIA ASSOCIATION FOR THE EDUCATION OF YOUNG CHILDREN (CAEYC)",
           "relationship": "alternate_spelling"
+        },
+        {
+          "name": "California Association for The Education of Young Children (CAAEYC)",
+          "relationship": "alternate_spelling"
         }
       ]
     },
@@ -21752,6 +22121,10 @@
         {
           "name": "CALIFORNIA ASSOCIATION OF ADULT DAY SERVICES (CAADS)",
           "relationship": "alternate_spelling"
+        },
+        {
+          "name": "California Association of Adult Day Services (ADHC)",
+          "relationship": "alternate_spelling"
         }
       ]
     },
@@ -21804,6 +22177,14 @@
         {
           "name": "CAADPE",
           "relationship": "alternate_spelling"
+        },
+        {
+          "name": "California Association of Alcohol and Drug Program Executives, Inc. (CAADPE)",
+          "relationship": "chapter"
+        },
+        {
+          "name": "California Association of Alcohol and Drug Programs (CAADPE)",
+          "relationship": "chapter"
         }
       ]
     },
@@ -21821,6 +22202,10 @@
         },
         {
           "name": "THE CALIFORNIA ASSOCIATION OF AREA AGENCIES ON AGING (C4A)",
+          "relationship": "alternate_spelling"
+        },
+        {
+          "name": "California Association of Area Agencies on Aging (CAA)",
           "relationship": "alternate_spelling"
         }
       ]
@@ -21865,6 +22250,10 @@
       "children": [
         {
           "name": "THE CALIFORNIA ASSOCIATION OF CHILDREN'S HOMES",
+          "relationship": "alternate_spelling"
+        },
+        {
+          "name": "California Association of Children's Homes (June 16th Version)",
           "relationship": "alternate_spelling"
         }
       ]
@@ -21919,6 +22308,10 @@
         },
         {
           "name": "CALIFORNIA ASSOCIATION OF CLERKS AND ELECTION OFFICIALS (CACEO)",
+          "relationship": "alternate_spelling"
+        },
+        {
+          "name": "California Association of Clerks and Election Officials (Sec. 2)",
           "relationship": "alternate_spelling"
         }
       ]
@@ -21976,6 +22369,10 @@
         {
           "name": "California Association of Collectors, Inc",
           "relationship": "alternate_spelling"
+        },
+        {
+          "name": "California Association of Collectors (See Comment 6)",
+          "relationship": "alternate_spelling"
         }
       ]
     },
@@ -21998,6 +22395,10 @@
         {
           "name": "CACM",
           "relationship": "alternate_spelling"
+        },
+        {
+          "name": "California Association of Community Managers. Inc. (CACM)",
+          "relationship": "chapter"
         }
       ]
     },
@@ -22011,6 +22412,14 @@
         },
         {
           "name": "CALIFORNIA ASSOCIATION OF COUNCILS OF GOVERNMENT",
+          "relationship": "alternate_spelling"
+        },
+        {
+          "name": "California Association of Councils of Governments (CALCOG)",
+          "relationship": "alternate_spelling"
+        },
+        {
+          "name": "California Association of Councils of Government (CALCOG)",
           "relationship": "alternate_spelling"
         }
       ]
@@ -22041,6 +22450,14 @@
         {
           "name": "CALIFORNIA ASSOCIATION OF COUNTY TREASURERS AND TAX COLLECTORS (CACTTC)",
           "relationship": "alternate_spelling"
+        },
+        {
+          "name": "California Association of County Treasurers and Tax Collectors (Co-Source)",
+          "relationship": "alternate_spelling"
+        },
+        {
+          "name": "California Association of County Treasurers and Tax Collectors (CATTC)",
+          "relationship": "alternate_spelling"
         }
       ]
     },
@@ -22050,6 +22467,10 @@
       "children": [
         {
           "name": "California Association of County Veteran Service Officers, Inc",
+          "relationship": "alternate_spelling"
+        },
+        {
+          "name": "California Association of County Veteran Service Officers (CVSO)",
           "relationship": "alternate_spelling"
         }
       ]
@@ -22083,6 +22504,10 @@
       "children": [
         {
           "name": "California Association of County Veterans Service Offices, Inc",
+          "relationship": "alternate_spelling"
+        },
+        {
+          "name": "California Association of County Veterans Service Offices (CASVSO)",
           "relationship": "alternate_spelling"
         }
       ]
@@ -22204,6 +22629,10 @@
         {
           "name": "CALIFORNIA ASSOCIATION OF FOOD BANKS (CAFB)",
           "relationship": "alternate_spelling"
+        },
+        {
+          "name": "California Association of Food Banks (Co-Sponsors)",
+          "relationship": "alternate_spelling"
         }
       ]
     },
@@ -22262,6 +22691,10 @@
         {
           "name": "THE CALIFORNIA ASSOCIATION OF HEALTH FACILITIES (CAHF)",
           "relationship": "alternate_spelling"
+        },
+        {
+          "name": "California Association of Health Facilities (Sponsors)",
+          "relationship": "alternate_spelling"
         }
       ]
     },
@@ -22276,6 +22709,30 @@
         {
           "name": "CAHMO",
           "relationship": "alternate_spelling"
+        },
+        {
+          "name": "California Association of HMOs, Inc. (CAHMO)",
+          "relationship": "chapter"
+        },
+        {
+          "name": "California Association of HMOos (CAHMO)",
+          "relationship": "chapter"
+        },
+        {
+          "name": "California Association of HMOs (CAHMO)",
+          "relationship": "chapter"
+        },
+        {
+          "name": "California Association of Health Maintenance Organizations (California HMO)",
+          "relationship": "alternate_spelling"
+        },
+        {
+          "name": "California Association of Health Maintenance Organizations (CaliforniaHMO)",
+          "relationship": "alternate_spelling"
+        },
+        {
+          "name": "California Assoc. of HMOos (CAHMO)",
+          "relationship": "chapter"
         }
       ]
     },
@@ -22374,6 +22831,10 @@
         {
           "name": "California Association of HMOs Inc",
           "relationship": "alternate_spelling"
+        },
+        {
+          "name": "California Association of HMOs (Concern)",
+          "relationship": "alternate_spelling"
         }
       ]
     },
@@ -22403,6 +22864,14 @@
       "children": [
         {
           "name": "CALIFORNIA ASSOCIATION OF HOMES AND SERVICES FOR THE AGING (CAHSA)",
+          "relationship": "alternate_spelling"
+        },
+        {
+          "name": "California Association of Homes and Services for the Aging (CAHA)",
+          "relationship": "alternate_spelling"
+        },
+        {
+          "name": "California Association of Homes and Services for the Aging (With Amendment)",
           "relationship": "alternate_spelling"
         }
       ]
@@ -22562,6 +23031,10 @@
         {
           "name": "THE CALIFORNIA ASSOCIATION OF JOINT POWERS AUTHORITIES (CJPA)",
           "relationship": "alternate_spelling"
+        },
+        {
+          "name": "California Association of Joint Powers Authorities (CAPJA)",
+          "relationship": "alternate_spelling"
         }
       ]
     },
@@ -22572,6 +23045,10 @@
         {
           "name": "California Association of LAFCOs, California",
           "relationship": "chapter"
+        },
+        {
+          "name": "California Association of LAFCOS (CALAFCO)",
+          "relationship": "alternate_spelling"
         }
       ]
     },
@@ -22591,6 +23068,10 @@
       "children": [
         {
           "name": "CALIFORNIA ASSOCIATION OF LEADERS OF CAREER PREPARATION (CALCP)",
+          "relationship": "alternate_spelling"
+        },
+        {
+          "name": "California Association of Leaders of Career Preparation (CALP)",
           "relationship": "alternate_spelling"
         }
       ]
@@ -22619,6 +23100,14 @@
         },
         {
           "name": "California Association of Licensed Investigators, Inc",
+          "relationship": "alternate_spelling"
+        },
+        {
+          "name": "California Association of Licensed Investigators (CALI - Sponsor)",
+          "relationship": "alternate_spelling"
+        },
+        {
+          "name": "California Association of Licensed Investigators (Sponsors)",
           "relationship": "alternate_spelling"
         }
       ]
@@ -22706,6 +23195,14 @@
         {
           "name": "California Association of Local Agency Formation Commissions, California",
           "relationship": "chapter"
+        },
+        {
+          "name": "California Association of Local Agency Formation Commissions (CALAFCO)",
+          "relationship": "alternate_spelling"
+        },
+        {
+          "name": "California Association of Local Agency Formation Commissions (CALFACO)",
+          "relationship": "alternate_spelling"
         }
       ]
     },
@@ -22740,7 +23237,16 @@
     {
       "canonical": "CALIFORNIA ASSOCIATION OF LOCAL HOUSING FINANCE AGENCIES",
       "status": "active",
-      "children": []
+      "children": [
+        {
+          "name": "California Association of Local Housing Finance Agencies (CAL-ALHPFA)",
+          "relationship": "alternate_spelling"
+        },
+        {
+          "name": "California Association of Local Housing Finance Agencies (CAL-ALHFA)",
+          "relationship": "alternate_spelling"
+        }
+      ]
     },
     {
       "canonical": "CALIFORNIA ASSOCIATION OF LONG TERM CARE MEDICINE",
@@ -22870,6 +23376,10 @@
         {
           "name": "CALIFORNIA ASSOCIATION OF NATUROPATHIC PHYSICIANS (CANP)",
           "relationship": "alternate_spelling"
+        },
+        {
+          "name": "California Association of Naturopathic Physicians (CANP - Sponsor)",
+          "relationship": "alternate_spelling"
         }
       ]
     },
@@ -22897,6 +23407,10 @@
         },
         {
           "name": "CALIFORNIA ASSOCIATION OF NONPROFITS (CAN)",
+          "relationship": "alternate_spelling"
+        },
+        {
+          "name": "California Association of Nonprofits (CalNonprofits)",
           "relationship": "alternate_spelling"
         }
       ]
@@ -22934,6 +23448,10 @@
         {
           "name": "CALIFORNIA ASSOCIATION OF NURSE PRACTITIONERS (CANP)",
           "relationship": "alternate_spelling"
+        },
+        {
+          "name": "California Association of Nurse Practitioners (Sponsors)",
+          "relationship": "alternate_spelling"
         }
       ]
     },
@@ -22956,6 +23474,10 @@
         },
         {
           "name": "THE CALIFORNIA ASSOCIATION OF OBSTETRICIANS AND GYNECOLOGISTS (CAOG)",
+          "relationship": "alternate_spelling"
+        },
+        {
+          "name": "California Association of Obstetricians and Gynecologists (COAG)",
           "relationship": "alternate_spelling"
         }
       ]
@@ -23177,6 +23699,10 @@
         {
           "name": "CALIFORNIA ASSOCIATION OF PROFESSIONAL LIABILITY INSURERS (CAPLI)",
           "relationship": "alternate_spelling"
+        },
+        {
+          "name": "California Association of Professional Liability Insurers (CAPL)",
+          "relationship": "alternate_spelling"
         }
       ]
     },
@@ -23201,6 +23727,10 @@
         {
           "name": "CALIFORNIA ASSOCIATION OF PROFESSIONAL SCIENTISTS (CAPS)",
           "relationship": "alternate_spelling"
+        },
+        {
+          "name": "California Association of Professional Scientists (BU 10: CAPS)",
+          "relationship": "alternate_spelling"
         }
       ]
     },
@@ -23214,6 +23744,10 @@
         },
         {
           "name": "CAPT",
+          "relationship": "alternate_spelling"
+        },
+        {
+          "name": "California Association of Psychiatric Technicians (BU 18: CAPT)",
           "relationship": "alternate_spelling"
         }
       ]
@@ -23263,6 +23797,10 @@
         {
           "name": "CALIFORNIA ASSOCIATION OF PUBLIC AUTHORITIES (CAPA)",
           "relationship": "alternate_spelling"
+        },
+        {
+          "name": "California Association of Public Authorities for IHSS (Co-Source)",
+          "relationship": "alternate_spelling"
         }
       ]
     },
@@ -23307,7 +23845,12 @@
     {
       "canonical": "CALIFORNIA ASSOCIATION OF PUBLIC HOSPITALS AND HEALTH SYSTEMS",
       "status": "active",
-      "children": []
+      "children": [
+        {
+          "name": "California Association of Public Hospitals and Health Systems (CAPH)",
+          "relationship": "alternate_spelling"
+        }
+      ]
     },
     {
       "canonical": "CALIFORNIA ASSOCIATION OF REAL ESTATE BROKERS",
@@ -23354,6 +23897,14 @@
         {
           "name": "THE CALIFORNIA ASSOCIATION OF REALTORS (C.A.R.)",
           "relationship": "alternate_spelling"
+        },
+        {
+          "name": "California Association of REALTORS (C.A.R)",
+          "relationship": "chapter"
+        },
+        {
+          "name": "California Association of Realtors (Sponsors)",
+          "relationship": "chapter"
         }
       ]
     },
@@ -23483,6 +24034,10 @@
         {
           "name": "THE CALIFORNIA ASSOCIATION OF SCHOOL BUSINESS OFFICIALS (CASBO)",
           "relationship": "alternate_spelling"
+        },
+        {
+          "name": "California Association of School Business Officials (Co-Source)",
+          "relationship": "alternate_spelling"
         }
       ]
     },
@@ -23500,6 +24055,14 @@
         },
         {
           "name": "California Association of School Counselors Inc",
+          "relationship": "alternate_spelling"
+        },
+        {
+          "name": "California Association of School Counselors (PRIOR VERSION)",
+          "relationship": "alternate_spelling"
+        },
+        {
+          "name": "California Association of School Counselors (Co-Source)",
           "relationship": "alternate_spelling"
         }
       ]
@@ -23520,6 +24083,10 @@
       "children": [
         {
           "name": "CALIFORNIA ASSOCIATION OF SCHOOL PSYCHOLOGISTS (CASP)",
+          "relationship": "alternate_spelling"
+        },
+        {
+          "name": "California Association of School Psychologists (Co-Source)",
           "relationship": "alternate_spelling"
         }
       ]
@@ -23570,6 +24137,14 @@
         {
           "name": "CALIFORNIA ASSOCIATION OF STATE HOSPITAL PARENT COUNCILS FOR THE RETARDED (CASHPCR)",
           "relationship": "alternate_spelling"
+        },
+        {
+          "name": "California Association of State Hospital Parent Councils for the Retarded (CASH/PCR)",
+          "relationship": "alternate_spelling"
+        },
+        {
+          "name": "California Association of State Hospital Parent Councils for the Retarded (CASH-PCR)",
+          "relationship": "alternate_spelling"
         }
       ]
     },
@@ -23580,6 +24155,10 @@
         {
           "name": "CALIFORNIA ASSOCIATION OF STUDENT COUNCILS (CASC)",
           "relationship": "alternate_spelling"
+        },
+        {
+          "name": "California Association of Student Councils (22 High Schools)",
+          "relationship": "alternate_spelling"
         }
       ]
     },
@@ -23589,6 +24168,10 @@
       "children": [
         {
           "name": "CALIFORNIA ASSOCIATION OF SUBURBAN SCHOOL DISTRICTS (CASSD)",
+          "relationship": "alternate_spelling"
+        },
+        {
+          "name": "California Association of Suburban School Districts (CALSSD)",
           "relationship": "alternate_spelling"
         }
       ]
@@ -23672,6 +24255,10 @@
         {
           "name": "California Association of Veterans Service Officers, Inc",
           "relationship": "alternate_spelling"
+        },
+        {
+          "name": "California Association of Veterans Service Officers (CVSO)",
+          "relationship": "alternate_spelling"
         }
       ]
     },
@@ -23686,6 +24273,10 @@
       "children": [
         {
           "name": "CALIFORNIA ASSOCIATION OF WINEGRAPE GROWERS (CAWG)",
+          "relationship": "alternate_spelling"
+        },
+        {
+          "name": "California Association of Winegrape Growers (\"CAWG\")",
           "relationship": "alternate_spelling"
         }
       ]
@@ -23819,6 +24410,14 @@
         {
           "name": "California Attorneys for Criminal Justice, California",
           "relationship": "chapter"
+        },
+        {
+          "name": "California Attorneys for Criminal Justice (Sponsors)",
+          "relationship": "alternate_spelling"
+        },
+        {
+          "name": "California Attorneys for Criminal Justice (CADCJ)",
+          "relationship": "alternate_spelling"
         }
       ]
     },
@@ -23967,6 +24566,10 @@
         {
           "name": "California Bail Agents Association of California",
           "relationship": "chapter"
+        },
+        {
+          "name": "California Bail Agents Association (Sponsor, Section 1)",
+          "relationship": "alternate_spelling"
         }
       ]
     },
@@ -23984,6 +24587,10 @@
         },
         {
           "name": "THE CALIFORNIA BANKERS ASSOCIATION (CBA)",
+          "relationship": "alternate_spelling"
+        },
+        {
+          "name": "California Bankers Association (As Amended)",
           "relationship": "alternate_spelling"
         }
       ]
@@ -24029,6 +24636,10 @@
       "children": [
         {
           "name": "CALIFORNIA BEER AND BEVERAGE DISTRIBUTORS (CBBD)",
+          "relationship": "alternate_spelling"
+        },
+        {
+          "name": "California Beer and Beverage Distributors (\"In Concept\")",
           "relationship": "alternate_spelling"
         }
       ]
@@ -24135,6 +24746,10 @@
         },
         {
           "name": "CALIFORNIA BOARD OF ACCOUNTANCY (CBA)",
+          "relationship": "alternate_spelling"
+        },
+        {
+          "name": "California Board of Accountancy (the CBA)",
           "relationship": "alternate_spelling"
         }
       ]
@@ -24274,6 +24889,10 @@
         {
           "name": "CBIA",
           "relationship": "alternate_spelling"
+        },
+        {
+          "name": "California Building Industry (CBIA)",
+          "relationship": "chapter"
         }
       ]
     },
@@ -24300,7 +24919,16 @@
     {
       "canonical": "CALIFORNIA BUILDING OFFICIALS",
       "status": "active",
-      "children": []
+      "children": [
+        {
+          "name": "California Building Officials (CALBO)",
+          "relationship": "alternate_spelling"
+        },
+        {
+          "name": "California Building Officials (CBC)",
+          "relationship": "alternate_spelling"
+        }
+      ]
     },
     {
       "canonical": "CALIFORNIA BUILDING PROPERTIES ASSOCIATION",
@@ -24358,7 +24986,12 @@
     {
       "canonical": "CALIFORNIA BUSINESS ROUNDTABLE",
       "status": "active",
-      "children": []
+      "children": [
+        {
+          "name": "California Business Roundtable (CBRT)",
+          "relationship": "alternate_spelling"
+        }
+      ]
     },
     {
       "canonical": "CALIFORNIA CABLE & TELECOMMUNICATIONS ASSOCIATION",
@@ -24646,7 +25279,12 @@
     {
       "canonical": "CALIFORNIA CHAPTER OF AMERICAN FENCE ASSOCIATION",
       "status": "active",
-      "children": []
+      "children": [
+        {
+          "name": "California Chapter of American Fence Association (AFA)",
+          "relationship": "alternate_spelling"
+        }
+      ]
     },
     {
       "canonical": "CALIFORNIA CHAPTER OF THE AMERICAN",
@@ -24684,6 +25322,14 @@
       "children": [
         {
           "name": "THE CALIFORNIA CHAPTER OF THE AMERICAN COLLEGE OF EMERGENCY PHYSICIANS",
+          "relationship": "alternate_spelling"
+        },
+        {
+          "name": "California Chapter of the American College of Emergency Physicians (CAL/ACEP)",
+          "relationship": "alternate_spelling"
+        },
+        {
+          "name": "California Chapter of the American College of Emergency Physicians (CA-ACEP)",
           "relationship": "alternate_spelling"
         }
       ]
@@ -24778,6 +25424,14 @@
       "children": [
         {
           "name": "THE CALIFORNIA CHAPTER OF THE NATIONAL ORGANIZATION FOR THE REFORM OF MARIJUANA LAWS",
+          "relationship": "alternate_spelling"
+        },
+        {
+          "name": "California Chapter of the National Organization for the Reform of Marijuana Laws (Cal NORML)",
+          "relationship": "alternate_spelling"
+        },
+        {
+          "name": "California Chapter of the National Organization for the Reform of Marijuana Laws (NORML)",
           "relationship": "alternate_spelling"
         }
       ]
@@ -25063,7 +25717,12 @@
     {
       "canonical": "CALIFORNIA CITRUS MUTUAL",
       "status": "active",
-      "children": []
+      "children": [
+        {
+          "name": "California Citrus Mutual (\"In Concept\")",
+          "relationship": "alternate_spelling"
+        }
+      ]
     },
     {
       "canonical": "CALIFORNIA CITY MANAGEMENT FOUNDATION",
@@ -25165,13 +25824,22 @@
         {
           "name": "CALIFORNIA COALITION AGAINST GAMBLING EXPANSION (CCAGE)",
           "relationship": "alternate_spelling"
+        },
+        {
+          "name": "California Coalition Against Gambling Expansion (CAGE)",
+          "relationship": "alternate_spelling"
         }
       ]
     },
     {
       "canonical": "CALIFORNIA COALITION AGAINST SEXUAL ASSAULT",
       "status": "active",
-      "children": []
+      "children": [
+        {
+          "name": "California Coalition Against Sexual Assault (CALCASA)",
+          "relationship": "alternate_spelling"
+        }
+      ]
     },
     {
       "canonical": "CALIFORNIA COALITION FOR ADEQUATE SCHOOL HOUSING",
@@ -25325,6 +25993,18 @@
         {
           "name": "CALIFORNIA COALITION FOR YOUTH (CCY)",
           "relationship": "alternate_spelling"
+        },
+        {
+          "name": "California Coalition for Youth (CCYFC)",
+          "relationship": "alternate_spelling"
+        },
+        {
+          "name": "California Coalition for Youth (CCFY)",
+          "relationship": "alternate_spelling"
+        },
+        {
+          "name": "California Coalition for Youth (PRIOR VERSION)",
+          "relationship": "alternate_spelling"
         }
       ]
     },
@@ -25470,6 +26150,10 @@
         },
         {
           "name": "CALIFORNIA COALITION ON WORKERS' COMPENSATION (CCWC)",
+          "relationship": "alternate_spelling"
+        },
+        {
+          "name": "California Coalition on Workers' Compensation (CCWCC)",
           "relationship": "alternate_spelling"
         }
       ]
@@ -25625,7 +26309,16 @@
     {
       "canonical": "CALIFORNIA COMMUNITIES UNITED INSTITUTE",
       "status": "active",
-      "children": []
+      "children": [
+        {
+          "name": "California Communities United Institute (CalComUI)",
+          "relationship": "alternate_spelling"
+        },
+        {
+          "name": "California Communities United Institute (CalComUI.)",
+          "relationship": "alternate_spelling"
+        }
+      ]
     },
     {
       "canonical": "CALIFORNIA COMMUNITY BANKING NETWORK",
@@ -25724,6 +26417,14 @@
         {
           "name": "THE CALIFORNIA COMMUNITY COLLEGES",
           "relationship": "alternate_spelling"
+        },
+        {
+          "name": "California Community Colleges (FACCC)",
+          "relationship": "alternate_spelling"
+        },
+        {
+          "name": "California Community Colleges (Chancellor's Office)",
+          "relationship": "alternate_spelling"
         }
       ]
     },
@@ -25743,6 +26444,10 @@
       "children": [
         {
           "name": "THE CALIFORNIA COMMUNITY COLLEGES CHANCELLOR'S OFFICE",
+          "relationship": "alternate_spelling"
+        },
+        {
+          "name": "California Community Colleges Chancellor's Office (Sponsors)",
           "relationship": "alternate_spelling"
         }
       ]
@@ -25774,7 +26479,12 @@
     {
       "canonical": "CALIFORNIA COMMUNITY FOUNDATION",
       "status": "active",
-      "children": []
+      "children": [
+        {
+          "name": "California Community Foundation (UNREG)",
+          "relationship": "alternate_spelling"
+        }
+      ]
     },
     {
       "canonical": "CALIFORNIA COMMUNITY HOUSING AGENCY",
@@ -25853,6 +26563,14 @@
         {
           "name": "THE CALIFORNIA CONFERENCE BOARD OF THE AMALGAMATED TRANSIT UNION",
           "relationship": "alternate_spelling"
+        },
+        {
+          "name": "California Conference Board of the Amalgamated Transit Union (ATU)",
+          "relationship": "alternate_spelling"
+        },
+        {
+          "name": "California Conference Board of The Amalgamated Transit Union (Co-Source)",
+          "relationship": "alternate_spelling"
         }
       ]
     },
@@ -25879,7 +26597,16 @@
     {
       "canonical": "CALIFORNIA CONFERENCE OF CARPENTERS",
       "status": "active",
-      "children": []
+      "children": [
+        {
+          "name": "California Conference of Carpenters (Sponsors)",
+          "relationship": "alternate_spelling"
+        },
+        {
+          "name": "California Conference of Carpenters (Co-Source)",
+          "relationship": "alternate_spelling"
+        }
+      ]
     },
     {
       "canonical": "CALIFORNIA CONFERENCE OF LOCAL HEALTH",
@@ -25956,6 +26683,14 @@
         {
           "name": "CALIFORNIA CONSERVATION CORPS (CCC)",
           "relationship": "alternate_spelling"
+        },
+        {
+          "name": "California Conservation Corps (Santa Maria)",
+          "relationship": "alternate_spelling"
+        },
+        {
+          "name": "California Conservation Corps (Sponsors)",
+          "relationship": "alternate_spelling"
         }
       ]
     },
@@ -25995,6 +26730,10 @@
         {
           "name": "California Continuing Care Residents Association, Inc",
           "relationship": "alternate_spelling"
+        },
+        {
+          "name": "California Continuing Care Residents Association (CALCRA)",
+          "relationship": "alternate_spelling"
         }
       ]
     },
@@ -26032,6 +26771,10 @@
         },
         {
           "name": "CCHCS",
+          "relationship": "alternate_spelling"
+        },
+        {
+          "name": "California Correctional Health Care Services (Receiver)",
           "relationship": "alternate_spelling"
         }
       ]
@@ -26210,6 +26953,10 @@
         {
           "name": "CALIFORNIA COUNCIL FOR ENVIRONMENTAL AND ECONOMIC BALANCE (CCEEB)",
           "relationship": "alternate_spelling"
+        },
+        {
+          "name": "California Council for Environmental and Economic Balance (CEEB)",
+          "relationship": "alternate_spelling"
         }
       ]
     },
@@ -26244,6 +26991,10 @@
       "children": [
         {
           "name": "THE CALIFORNIA COUNCIL OF COMMUNITY BEHAVIORAL HEALTH AGENCIES",
+          "relationship": "alternate_spelling"
+        },
+        {
+          "name": "California Council of Community Behavioral Health Agencies (CBHA)",
           "relationship": "alternate_spelling"
         }
       ]
@@ -26363,6 +27114,10 @@
         {
           "name": "THE CALIFORNIA COUNTY SUPERINTENDENTS",
           "relationship": "alternate_spelling"
+        },
+        {
+          "name": "California County Superintendents (Co-Source)",
+          "relationship": "alternate_spelling"
         }
       ]
     },
@@ -26476,6 +27231,14 @@
       "children": [
         {
           "name": "CALIFORNIA CREDIT UNION LEAGUE (CCUL)",
+          "relationship": "alternate_spelling"
+        },
+        {
+          "name": "California Credit Union League (CCLU)",
+          "relationship": "alternate_spelling"
+        },
+        {
+          "name": "California Credit Union League (1 & 2)",
           "relationship": "alternate_spelling"
         }
       ]
@@ -26719,6 +27482,26 @@
         {
           "name": "CDF",
           "relationship": "alternate_spelling"
+        },
+        {
+          "name": "California Department of Forestry Firefighters (CDF)",
+          "relationship": "chapter"
+        },
+        {
+          "name": "California Department of Forestry and Fire Protection (CDF)",
+          "relationship": "chapter"
+        },
+        {
+          "name": "California Department of Forestry Fire Fighters (CDF)",
+          "relationship": "chapter"
+        },
+        {
+          "name": "California Division of Forestry Firefighters (CDF)",
+          "relationship": "chapter"
+        },
+        {
+          "name": "California Dept. of Forestry & Fire Protection (CDF)",
+          "relationship": "chapter"
         }
       ]
     },
@@ -26728,6 +27511,14 @@
       "children": [
         {
           "name": "THE CALIFORNIA DEPARTMENT OF FORESTRY AND FIRE PROTECTION",
+          "relationship": "alternate_spelling"
+        },
+        {
+          "name": "California Department of Forestry and Fire Protection (CAL FIRE)",
+          "relationship": "alternate_spelling"
+        },
+        {
+          "name": "California Department of Forestry and Fire Protection (Sponsors)",
           "relationship": "alternate_spelling"
         }
       ]
@@ -26762,6 +27553,10 @@
       "children": [
         {
           "name": "CALIFORNIA DEPARTMENT OF FORESTRY FIREFIGHTERS (CDFF)",
+          "relationship": "alternate_spelling"
+        },
+        {
+          "name": "California Department of Forestry Firefighters (CDF Firefighters)",
           "relationship": "alternate_spelling"
         }
       ]
@@ -26800,6 +27595,10 @@
         {
           "name": "CDPH",
           "relationship": "alternate_spelling"
+        },
+        {
+          "name": "California Department of Health (CDPH)",
+          "relationship": "chapter"
         }
       ]
     },
@@ -26945,6 +27744,10 @@
         {
           "name": "California Distributors Association, California",
           "relationship": "chapter"
+        },
+        {
+          "name": "California Distributors Association (\"CDA\")",
+          "relationship": "alternate_spelling"
         }
       ]
     },
@@ -27252,7 +28055,12 @@
     {
       "canonical": "CALIFORNIA ENERGY EFFICIENCY INDUSTRY COUNCIL",
       "status": "active",
-      "children": []
+      "children": [
+        {
+          "name": "California Energy Efficiency Industry Council (Efficiency Council)",
+          "relationship": "alternate_spelling"
+        }
+      ]
     },
     {
       "canonical": "CALIFORNIA ENERGY STORAGE ALLIANCE",
@@ -27590,6 +28398,18 @@
         {
           "name": "California Federation of Teachers, California",
           "relationship": "chapter"
+        },
+        {
+          "name": "California Federation of Teachers (PRIOR VERSION)",
+          "relationship": "alternate_spelling"
+        },
+        {
+          "name": "California Federation of Teachers (Sections 17 and 25)",
+          "relationship": "alternate_spelling"
+        },
+        {
+          "name": "California Federation of Teachers (CFT, Sponsor)",
+          "relationship": "alternate_spelling"
         }
       ]
     },
@@ -27633,6 +28453,10 @@
         {
           "name": "CALIFORNIA FENCE CONTRACTORS' ASSOCIATION (CFCA)",
           "relationship": "alternate_spelling"
+        },
+        {
+          "name": "California Fence Contractors' Association (California Chapter)",
+          "relationship": "alternate_spelling"
         }
       ]
     },
@@ -27657,6 +28481,10 @@
         {
           "name": "CALIFORNIA FINANCIAL SERVICES ASSOCIATION (CFSA)",
           "relationship": "alternate_spelling"
+        },
+        {
+          "name": "California Financial Services Association (3)",
+          "relationship": "alternate_spelling"
         }
       ]
     },
@@ -27679,6 +28507,14 @@
         {
           "name": "California Fire Chiefs Association, California",
           "relationship": "chapter"
+        },
+        {
+          "name": "California Fire Chiefs Association (Fire Prevention Officers' Section)",
+          "relationship": "alternate_spelling"
+        },
+        {
+          "name": "California Fire Chiefs Association (CalChiefs)",
+          "relationship": "alternate_spelling"
         }
       ]
     },
@@ -27847,6 +28683,10 @@
         {
           "name": "CALIFORNIA FORESTRY ASSOCIATION (CFA)",
           "relationship": "alternate_spelling"
+        },
+        {
+          "name": "California Forestry Association (Calforests)",
+          "relationship": "alternate_spelling"
         }
       ]
     },
@@ -27980,6 +28820,10 @@
         {
           "name": "THE CALIFORNIA GEOTECHNICAL ENGINEERING ASSOCIATION",
           "relationship": "alternate_spelling"
+        },
+        {
+          "name": "California Geotechnical Engineering Association (CalGeo)",
+          "relationship": "alternate_spelling"
         }
       ]
     },
@@ -28102,6 +28946,10 @@
         {
           "name": "California Grocers Association of California",
           "relationship": "chapter"
+        },
+        {
+          "name": "California Grocers Association (\"In Concept\")",
+          "relationship": "alternate_spelling"
         }
       ]
     },
@@ -28177,6 +29025,26 @@
         {
           "name": "NAACP",
           "relationship": "alternate_spelling"
+        },
+        {
+          "name": "California Hawaii State Conference of the National Association for the Advancement of Colored People (NAACP)",
+          "relationship": "chapter"
+        },
+        {
+          "name": "California-Hawaii State Conference of the National Association for the Advancement of Colored People (NAACP)",
+          "relationship": "chapter"
+        },
+        {
+          "name": "California State Conference Of The National Association For The Advancement Of Colored People (NAACP)",
+          "relationship": "chapter"
+        },
+        {
+          "name": "California Sate Conference of the National Association for the Advancement of Colored People (NAACP)",
+          "relationship": "chapter"
+        },
+        {
+          "name": "California State Conference of the National Association for the Advancement of Colored People (California NAACP)",
+          "relationship": "chapter"
         }
       ]
     },
@@ -28195,6 +29063,10 @@
         },
         {
           "name": "THE CALIFORNIA HEALTH ADVOCATES (CHA)",
+          "relationship": "alternate_spelling"
+        },
+        {
+          "name": "California Health Advocates (HICAP Association)",
           "relationship": "alternate_spelling"
         }
       ]
@@ -28379,6 +29251,10 @@
         {
           "name": "CHP",
           "relationship": "alternate_spelling"
+        },
+        {
+          "name": "California Association of Highway Patrolmen (CHP)",
+          "relationship": "chapter"
         }
       ]
     },
@@ -28400,6 +29276,18 @@
         },
         {
           "name": "CALIFORNIA HISPANIC CHAMBERS OF COMMERCE (CHCC)",
+          "relationship": "alternate_spelling"
+        },
+        {
+          "name": "California Hispanic Chambers of Commerce (CAHCC)",
+          "relationship": "alternate_spelling"
+        },
+        {
+          "name": "California Hispanic Chamber of Commerce (Co-Source)",
+          "relationship": "alternate_spelling"
+        },
+        {
+          "name": "California Hispanic Chambers of Commerce (CHDD)",
           "relationship": "alternate_spelling"
         }
       ]
@@ -28549,6 +29437,10 @@
         {
           "name": "THE CALIFORNIA HOSPICE & PALLIATIVE CARE ASSOCIATION",
           "relationship": "alternate_spelling"
+        },
+        {
+          "name": "California Hospice & Palliative Care Association (CHAPCA)",
+          "relationship": "alternate_spelling"
         }
       ]
     },
@@ -28568,6 +29460,10 @@
       "children": [
         {
           "name": "CALIFORNIA HOSPICE AND PALLIATIVE CARE ASSOCIATION (CHPCA)",
+          "relationship": "alternate_spelling"
+        },
+        {
+          "name": "California Hospice and Palliative Care Association (CHAPCA)",
           "relationship": "alternate_spelling"
         }
       ]
@@ -28613,7 +29509,12 @@
     {
       "canonical": "CALIFORNIA HOTEL & LODGING ASSOCIATION",
       "status": "active",
-      "children": []
+      "children": [
+        {
+          "name": "California Hotel & Lodging Association (CH&LA)",
+          "relationship": "alternate_spelling"
+        }
+      ]
     },
     {
       "canonical": "CALIFORNIA HOTEL AND LODGING ASSOCIATION",
@@ -28641,6 +29542,10 @@
       "children": [
         {
           "name": "CALIFORNIA HOUSING CONSORTIUM (CHC)",
+          "relationship": "alternate_spelling"
+        },
+        {
+          "name": "California Housing Consortium (Co-Source)",
           "relationship": "alternate_spelling"
         }
       ]
@@ -28699,6 +29604,10 @@
         },
         {
           "name": "CALIFORNIA HOUSING PARTNERSHIP CORPORATION (CHPC)",
+          "relationship": "alternate_spelling"
+        },
+        {
+          "name": "California Housing Partnership (Co-Source)",
           "relationship": "alternate_spelling"
         }
       ]
@@ -28889,6 +29798,10 @@
         {
           "name": "CIPA",
           "relationship": "alternate_spelling"
+        },
+        {
+          "name": "California Independent Petroleum Associationn (CIPA)",
+          "relationship": "chapter"
         }
       ]
     },
@@ -28916,6 +29829,14 @@
         },
         {
           "name": "California Independent Public Employees Legislative Council, Inc.",
+          "relationship": "alternate_spelling"
+        },
+        {
+          "name": "California Independent Public Employees Legislative Council, Inc. (CIPELC)",
+          "relationship": "alternate_spelling"
+        },
+        {
+          "name": "California Independent Public Employees Legislative Council, Inc.(CIPELC)",
           "relationship": "alternate_spelling"
         }
       ]
@@ -29107,6 +30028,10 @@
         {
           "name": "CALIFORNIA JOINT POWERS INSURANCE AUTHORITY (CJPIA)",
           "relationship": "alternate_spelling"
+        },
+        {
+          "name": "California Joint Powers Insurance Authority (California JPIA)",
+          "relationship": "alternate_spelling"
         }
       ]
     },
@@ -29129,6 +30054,10 @@
         },
         {
           "name": "THE CALIFORNIA JUDGES ASSOCIATION (CJA)",
+          "relationship": "alternate_spelling"
+        },
+        {
+          "name": "California Judges Association (in part)",
           "relationship": "alternate_spelling"
         }
       ]
@@ -29202,6 +30131,14 @@
         {
           "name": "CLF",
           "relationship": "alternate_spelling"
+        },
+        {
+          "name": "California Labor Federation (AFL-CIO)",
+          "relationship": "alternate_spelling"
+        },
+        {
+          "name": "California Labor Federation (Co-Source)",
+          "relationship": "alternate_spelling"
         }
       ]
     },
@@ -29221,6 +30158,14 @@
       "children": [
         {
           "name": "THE CALIFORNIA LABOR FEDERATION, AFL-CIO",
+          "relationship": "alternate_spelling"
+        },
+        {
+          "name": "California Labor Federation, AFL-CIO (Sponsors)",
+          "relationship": "alternate_spelling"
+        },
+        {
+          "name": "California Labor Federation, AFL-CIO (Co-Source)",
           "relationship": "alternate_spelling"
         }
       ]
@@ -29291,6 +30236,10 @@
         {
           "name": "CALIFORNIA LANGUAGE TEACHERS ASSOCIATION (CLTA)",
           "relationship": "alternate_spelling"
+        },
+        {
+          "name": "California Language Teachers Association (Previous Version)",
+          "relationship": "alternate_spelling"
         }
       ]
     },
@@ -29305,6 +30254,10 @@
         {
           "name": "CLECA",
           "relationship": "alternate_spelling"
+        },
+        {
+          "name": "California Large Energy Producers Association (CLECA)",
+          "relationship": "chapter"
         }
       ]
     },
@@ -29366,6 +30319,10 @@
         },
         {
           "name": "CLRC",
+          "relationship": "alternate_spelling"
+        },
+        {
+          "name": "California Law Revision Commission (Section 2)",
           "relationship": "alternate_spelling"
         }
       ]
@@ -29466,6 +30423,10 @@
         {
           "name": "CALIFORNIA LEAGUE OF FOOD PROCESSORS (CLFP)",
           "relationship": "alternate_spelling"
+        },
+        {
+          "name": "California League of Food Processors (\"In Concept\")",
+          "relationship": "alternate_spelling"
         }
       ]
     },
@@ -29550,6 +30511,10 @@
       "children": [
         {
           "name": "THE CALIFORNIA LEGISLATIVE CONFERENCE OF THE PLUMBING, HEATING AND PIPING INDUSTRY",
+          "relationship": "alternate_spelling"
+        },
+        {
+          "name": "California Legislative Conference of the Plumbing, Heating and Piping Industry (CLC)",
           "relationship": "alternate_spelling"
         }
       ]
@@ -29678,6 +30643,10 @@
         {
           "name": "CALIFORNIA LODGING INDUSTRY ASSOCIATION (CLIA)",
           "relationship": "alternate_spelling"
+        },
+        {
+          "name": "California Lodging Industry Association (\"In Concept\")",
+          "relationship": "alternate_spelling"
         }
       ]
     },
@@ -29711,6 +30680,10 @@
       "children": [
         {
           "name": "THE CALIFORNIA LONG TERM-CARE OMBUDSMAN ASSOCIATION",
+          "relationship": "alternate_spelling"
+        },
+        {
+          "name": "California Long Term-Care Ombudsman Association (CLTCOA)",
           "relationship": "alternate_spelling"
         }
       ]
@@ -29755,6 +30728,10 @@
       "children": [
         {
           "name": "THE CALIFORNIA LOW-INCOME CONSUMER COALITION",
+          "relationship": "alternate_spelling"
+        },
+        {
+          "name": "California Low-Income Consumer Coalition (CLICC)",
           "relationship": "alternate_spelling"
         }
       ]
@@ -29847,6 +30824,10 @@
         },
         {
           "name": "CALIFORNIA MANUFACTURERS AND TECHNOLOGY ASSOCIATION (CMTA)",
+          "relationship": "alternate_spelling"
+        },
+        {
+          "name": "California Manufacturers and Technology Association (CM&TA)",
           "relationship": "alternate_spelling"
         }
       ]
@@ -30269,6 +31250,14 @@
         {
           "name": "CALIFORNIA MOTOR CAR DEALERS ASSOCIATION (CMCDA)",
           "relationship": "alternate_spelling"
+        },
+        {
+          "name": "California Motor Car Dealers Association (Section 2)",
+          "relationship": "alternate_spelling"
+        },
+        {
+          "name": "California Motor Car Dealers Association (*)",
+          "relationship": "alternate_spelling"
         }
       ]
     },
@@ -30456,6 +31445,14 @@
         {
           "name": "CALIFORNIA NATIVE PLANT SOCIETY (CNPS)",
           "relationship": "alternate_spelling"
+        },
+        {
+          "name": "California Native Plant Society (Sacramento Valley Chapter & San Diego Chapter)",
+          "relationship": "alternate_spelling"
+        },
+        {
+          "name": "California Native Plant Society (Sacramento Valley Chapter)",
+          "relationship": "alternate_spelling"
         }
       ]
     },
@@ -30494,6 +31491,10 @@
         },
         {
           "name": "CALIFORNIA NATUROPATHIC DOCTORS ASSOCIATION (CNDA)",
+          "relationship": "alternate_spelling"
+        },
+        {
+          "name": "California Naturopathic Doctors Association (CDNA)",
           "relationship": "alternate_spelling"
         }
       ]
@@ -30609,7 +31610,16 @@
     {
       "canonical": "CALIFORNIA NORML",
       "status": "active",
-      "children": []
+      "children": [
+        {
+          "name": "California Norml (UNREG)",
+          "relationship": "alternate_spelling"
+        },
+        {
+          "name": "California Chapter of the National Organization for the Reform of Marijuana Laws (California NORML)",
+          "relationship": "chapter"
+        }
+      ]
     },
     {
       "canonical": "California NOW",
@@ -30686,6 +31696,10 @@
         {
           "name": "California Off-Road Vehicle Association, Inc",
           "relationship": "alternate_spelling"
+        },
+        {
+          "name": "California Off-Road Vehicle Association (CORVA)",
+          "relationship": "alternate_spelling"
         }
       ]
     },
@@ -30709,6 +31723,10 @@
       "children": [
         {
           "name": "CALIFORNIA OFFICIAL COURT REPORTERS ASSOCIATION (COCRA)",
+          "relationship": "alternate_spelling"
+        },
+        {
+          "name": "California Official Court Reporters Association (DRA)",
           "relationship": "alternate_spelling"
         }
       ]
@@ -30937,6 +31955,22 @@
         {
           "name": "CPEHN",
           "relationship": "alternate_spelling"
+        },
+        {
+          "name": "California Pan-Ethnic Health Network (CPEHN)",
+          "relationship": "chapter"
+        },
+        {
+          "name": "California Pan-Ethic Health Network (CPEHN)",
+          "relationship": "chapter"
+        },
+        {
+          "name": "California Pan-Ethnic Network (CPEHN)",
+          "relationship": "chapter"
+        },
+        {
+          "name": "California Pan-Ethics Health Net Work (CPEHN)",
+          "relationship": "chapter"
         }
       ]
     },
@@ -30946,6 +31980,10 @@
       "children": [
         {
           "name": "THE CALIFORNIA PAN-ETHNIC HEALTH NETWORK",
+          "relationship": "alternate_spelling"
+        },
+        {
+          "name": "California Pan-Ethnic Health Network (+ 6.19)",
           "relationship": "alternate_spelling"
         }
       ]
@@ -31057,6 +32095,10 @@
         {
           "name": "CALIFORNIA PARTNERSHIP TO END DOMESTIC VIOLENCE (CPEDV)",
           "relationship": "alternate_spelling"
+        },
+        {
+          "name": "California Partnership to End Domestic Violence (the Partnership)",
+          "relationship": "alternate_spelling"
         }
       ]
     },
@@ -31066,6 +32108,10 @@
       "children": [
         {
           "name": "THE CALIFORNIA PAWNBROKERS ASSOCIATION",
+          "relationship": "alternate_spelling"
+        },
+        {
+          "name": "California Pawnbrokers Association (CAPA)",
           "relationship": "alternate_spelling"
         }
       ]
@@ -31125,6 +32171,10 @@
         {
           "name": "California Peace Officers Research Association of California",
           "relationship": "chapter"
+        },
+        {
+          "name": "California Peace Officers Research Association (PORAC)",
+          "relationship": "alternate_spelling"
         }
       ]
     },
@@ -31212,13 +32262,22 @@
         {
           "name": "CPTA",
           "relationship": "alternate_spelling"
+        },
+        {
+          "name": "California Physical Therapy Association (Co-Source)",
+          "relationship": "alternate_spelling"
         }
       ]
     },
     {
       "canonical": "CALIFORNIA PILOTS ASSOCIATION",
       "status": "active",
-      "children": []
+      "children": [
+        {
+          "name": "California Pilots Association (CALPILOTS)",
+          "relationship": "alternate_spelling"
+        }
+      ]
     },
     {
       "canonical": "CALIFORNIA PODIATRIC MEDICAL ASSOCIATION",
@@ -31236,6 +32295,14 @@
       "children": [
         {
           "name": "THE CALIFORNIA POLICE ACTIVITIES LEAGUE",
+          "relationship": "alternate_spelling"
+        },
+        {
+          "name": "California Police Activities League (CAL PAL)",
+          "relationship": "alternate_spelling"
+        },
+        {
+          "name": "California Police Activities League (PAL)",
           "relationship": "alternate_spelling"
         }
       ]
@@ -31380,6 +32447,10 @@
         {
           "name": "CALIFORNIA PRIMARY CARE ASSOCIATION (CPCA)",
           "relationship": "alternate_spelling"
+        },
+        {
+          "name": "California Primary Care Association (CPCA - Sponsor)",
+          "relationship": "alternate_spelling"
         }
       ]
     },
@@ -31423,6 +32494,10 @@
       "children": [
         {
           "name": "CALIFORNIA PROBATION PAROLE AND CORRECTIONAL ASSOCIATION (CPPCA)",
+          "relationship": "alternate_spelling"
+        },
+        {
+          "name": "California Probation Parole and Correctional Association (CCPCA)",
           "relationship": "alternate_spelling"
         }
       ]
@@ -31484,7 +32559,12 @@
     {
       "canonical": "CALIFORNIA PROFESSIONAL ASSOCIATION OF SPECIALTY CONTRACTORS",
       "status": "active",
-      "children": []
+      "children": [
+        {
+          "name": "California Professional Association of Specialty Contractors (CALPASC)",
+          "relationship": "alternate_spelling"
+        }
+      ]
     },
     {
       "canonical": "CALIFORNIA PROFESSIONAL FIREFIGHTERS",
@@ -31665,7 +32745,12 @@
     {
       "canonical": "CALIFORNIA PUBLIC HEALTH ASSOCIATION-NORTH",
       "status": "active",
-      "children": []
+      "children": [
+        {
+          "name": "California Public Health Association-North (CPHA-N)",
+          "relationship": "alternate_spelling"
+        }
+      ]
     },
     {
       "canonical": "CALIFORNIA PUBLIC INTEREST RESEARCH GROUP",
@@ -31707,6 +32792,10 @@
         {
           "name": "CPUC",
           "relationship": "alternate_spelling"
+        },
+        {
+          "name": "California Public Utilities Commission (TURN) (CPUC)",
+          "relationship": "chapter"
         }
       ]
     },
@@ -31883,6 +32972,14 @@
         {
           "name": "THE CALIFORNIA REFUSE REMOVAL COUNCIL",
           "relationship": "alternate_spelling"
+        },
+        {
+          "name": "California Refuse Removal Council (North & South)",
+          "relationship": "alternate_spelling"
+        },
+        {
+          "name": "California Refuse Removal Council (North and South)",
+          "relationship": "alternate_spelling"
         }
       ]
     },
@@ -31952,6 +33049,10 @@
         {
           "name": "CALIFORNIA RENTERS LEGAL ADVOCACY & EDUCATION FUND",
           "relationship": "alternate_spelling"
+        },
+        {
+          "name": "California Renters Legal Advocacy and Education Fund (CaRLA)",
+          "relationship": "alternate_spelling"
         }
       ]
     },
@@ -32014,6 +33115,10 @@
         {
           "name": "California Restaurant Association, California",
           "relationship": "chapter"
+        },
+        {
+          "name": "California Restaurant Association (\"In Concept\")",
+          "relationship": "alternate_spelling"
         }
       ]
     },
@@ -32042,6 +33147,10 @@
         {
           "name": "CALIFORNIA RETIRED COUNTY EMPLOYEES ASSOCIATION (CRCEA)",
           "relationship": "alternate_spelling"
+        },
+        {
+          "name": "California Retired County Employees Association (CARA)",
+          "relationship": "alternate_spelling"
         }
       ]
     },
@@ -32052,13 +33161,22 @@
         {
           "name": "CALIFORNIA RETIRED TEACHERS ASSOCIATION (CRTA)",
           "relationship": "alternate_spelling"
+        },
+        {
+          "name": "California Retired Teachers Association (CalRTA)",
+          "relationship": "alternate_spelling"
         }
       ]
     },
     {
       "canonical": "CALIFORNIA RICE COMMISSION",
       "status": "active",
-      "children": []
+      "children": [
+        {
+          "name": "California Rice Commission (Sponsors)",
+          "relationship": "alternate_spelling"
+        }
+      ]
     },
     {
       "canonical": "CALIFORNIA RIFLE & PISTOL ASSOCIATION",
@@ -32212,6 +33330,14 @@
         {
           "name": "CRLA",
           "relationship": "alternate_spelling"
+        },
+        {
+          "name": "California Rural Legal Assistance Foundation, (CRLA)",
+          "relationship": "chapter"
+        },
+        {
+          "name": "California Rural Legal Assistance, Inc. (CRLA)",
+          "relationship": "chapter"
         }
       ]
     },
@@ -32271,6 +33397,10 @@
         {
           "name": "CALIFORNIA SCHOOL BOARD ASSOCIATION (CSBA)",
           "relationship": "alternate_spelling"
+        },
+        {
+          "name": "California School Board Association (CBSA)",
+          "relationship": "alternate_spelling"
         }
       ]
     },
@@ -32284,6 +33414,18 @@
         },
         {
           "name": "CALIFORNIA SCHOOL BOARDS ASSOCIATION (CSBA)",
+          "relationship": "alternate_spelling"
+        },
+        {
+          "name": "California School Boards Association (Principal Co-Sponsor)",
+          "relationship": "alternate_spelling"
+        },
+        {
+          "name": "California School Boards Association (Co-Source)",
+          "relationship": "alternate_spelling"
+        },
+        {
+          "name": "California School Boards Association (CBSA)",
           "relationship": "alternate_spelling"
         }
       ]
@@ -32326,6 +33468,10 @@
         },
         {
           "name": "THE CALIFORNIA SCHOOL EMPLOYEES ASSOCIATION, AFL-CIO",
+          "relationship": "alternate_spelling"
+        },
+        {
+          "name": "California School Employees Association, AFL-CIO (CSEA)",
           "relationship": "alternate_spelling"
         }
       ]
@@ -32401,6 +33547,10 @@
         {
           "name": "CALIFORNIA SEED ASSOCIATION (CSA)",
           "relationship": "alternate_spelling"
+        },
+        {
+          "name": "California Seed Association (Sponsors)",
+          "relationship": "alternate_spelling"
         }
       ]
     },
@@ -32410,6 +33560,10 @@
       "children": [
         {
           "name": "THE CALIFORNIA SELF-INSURERS ASSOCIATION",
+          "relationship": "alternate_spelling"
+        },
+        {
+          "name": "California Self-Insurers Association (CSIA)",
           "relationship": "alternate_spelling"
         }
       ]
@@ -32540,6 +33694,10 @@
         {
           "name": "CSCSW",
           "relationship": "alternate_spelling"
+        },
+        {
+          "name": "California Society for Clinical Social Work (CSCW)",
+          "relationship": "alternate_spelling"
         }
       ]
     },
@@ -32549,6 +33707,10 @@
       "children": [
         {
           "name": "CALIFORNIA SOCIETY FOR RESPIRATORY CARE (CSRC)",
+          "relationship": "alternate_spelling"
+        },
+        {
+          "name": "California Society for Respiratory Care (Co-Source)",
           "relationship": "alternate_spelling"
         }
       ]
@@ -32569,6 +33731,10 @@
       "children": [
         {
           "name": "CALIFORNIA SOCIETY OF ADDICTION MEDICINE (CSAM)",
+          "relationship": "alternate_spelling"
+        },
+        {
+          "name": "California Society of Addiction Medicine (San Francisco)",
           "relationship": "alternate_spelling"
         }
       ]
@@ -32594,7 +33760,12 @@
     {
       "canonical": "CALIFORNIA SOCIETY OF ASSOCIATION EXECUTIVES",
       "status": "active",
-      "children": []
+      "children": [
+        {
+          "name": "California Society of Association Executives (CalSAE)",
+          "relationship": "alternate_spelling"
+        }
+      ]
     },
     {
       "canonical": "CALIFORNIA SOCIETY OF CERTIFIED PUBLIC ACCOUNTANTS",
@@ -32630,6 +33801,10 @@
         {
           "name": "THE CALIFORNIA SOCIETY OF CPAS",
           "relationship": "alternate_spelling"
+        },
+        {
+          "name": "California Society of CPAs (CalCPA)",
+          "relationship": "alternate_spelling"
         }
       ]
     },
@@ -32644,6 +33819,10 @@
       "children": [
         {
           "name": "THE CALIFORNIA SOCIETY OF DERMATOLOGY & DERMATOLOGIC SURGERY",
+          "relationship": "alternate_spelling"
+        },
+        {
+          "name": "California Society of Dermatology & Dermatologic Surgery (CalDerm)",
           "relationship": "alternate_spelling"
         }
       ]
@@ -32727,6 +33906,10 @@
         {
           "name": "CALIFORNIA SOCIETY OF PHYSICAL MEDICINE AND REHABILITATION (CSPMR)",
           "relationship": "alternate_spelling"
+        },
+        {
+          "name": "California Society of Physical Medicine and Rehabilitation (CSPM&R)",
+          "relationship": "alternate_spelling"
         }
       ]
     },
@@ -32762,6 +33945,10 @@
       "children": [
         {
           "name": "CALIFORNIA SOCIETY OF PROFESSIONAL ENGINEERS (CSPE)",
+          "relationship": "alternate_spelling"
+        },
+        {
+          "name": "California Society of Professional Engineers (Peninsula Chapter)",
           "relationship": "alternate_spelling"
         }
       ]
@@ -32808,6 +33995,10 @@
         {
           "name": "California Southern Cities, Inc",
           "relationship": "alternate_spelling"
+        },
+        {
+          "name": "California Southern Cities (Long Beach)",
+          "relationship": "alternate_spelling"
         }
       ]
     },
@@ -32831,6 +34022,10 @@
       "children": [
         {
           "name": "CALIFORNIA SPECIAL DISTRICT ASSOCIATION (CSDA)",
+          "relationship": "alternate_spelling"
+        },
+        {
+          "name": "California Special District Association (SCA 11 only)",
           "relationship": "alternate_spelling"
         }
       ]
@@ -33068,6 +34263,42 @@
         {
           "name": "THE CALIFORNIA STATE ASSOCIATION OF COUNTIES (CSAC)",
           "relationship": "alternate_spelling"
+        },
+        {
+          "name": "California Association of Counties (CSAC)",
+          "relationship": "chapter"
+        },
+        {
+          "name": "California State Association of Counties (\"In Concept\")",
+          "relationship": "alternate_spelling"
+        },
+        {
+          "name": "California State Association of Counties (SCAC)",
+          "relationship": "alternate_spelling"
+        },
+        {
+          "name": "California State Association of Counties (CSAC) (\"In Concept\")",
+          "relationship": "alternate_spelling"
+        },
+        {
+          "name": "California State Association of Counties (CSAC - Sponsor)",
+          "relationship": "alternate_spelling"
+        },
+        {
+          "name": "California Associaiton of Counties (CSAC)",
+          "relationship": "chapter"
+        },
+        {
+          "name": "California State Assoication of Counties (CSAC)",
+          "relationship": "chapter"
+        },
+        {
+          "name": "California State Association of Counties (Co-Source)",
+          "relationship": "alternate_spelling"
+        },
+        {
+          "name": "California State Association of Counties (CSA)",
+          "relationship": "alternate_spelling"
         }
       ]
     },
@@ -33115,6 +34346,10 @@
         },
         {
           "name": "THE CALIFORNIA STATE ASSOCIATION OF PSYCHIATRISTS (CSAP)",
+          "relationship": "alternate_spelling"
+        },
+        {
+          "name": "California State Association of Psychiatrists (CASP)",
           "relationship": "alternate_spelling"
         }
       ]
@@ -33175,6 +34410,10 @@
       "children": [
         {
           "name": "CALIFORNIA STATE AUTOMOBILE ASSOCIATION (CSAA)",
+          "relationship": "alternate_spelling"
+        },
+        {
+          "name": "California State Automobile Association (AAA)",
           "relationship": "alternate_spelling"
         }
       ]
@@ -33243,6 +34482,14 @@
         {
           "name": "CALIFORNIA STATE COMMANDERS VETERANS COUNCIL (CSCVC)",
           "relationship": "alternate_spelling"
+        },
+        {
+          "name": "California State Commanders Veterans Council (Except for AMVETS)",
+          "relationship": "alternate_spelling"
+        },
+        {
+          "name": "California State Commanders Veterans Council (CSVC)",
+          "relationship": "alternate_spelling"
         }
       ]
     },
@@ -33293,7 +34540,12 @@
     {
       "canonical": "CALIFORNIA STATE COUNCIL OF LABORERS",
       "status": "active",
-      "children": []
+      "children": [
+        {
+          "name": "California State Council of Laborers (Co-Source)",
+          "relationship": "alternate_spelling"
+        }
+      ]
     },
     {
       "canonical": "California State Council of Service Employees International Union",
@@ -33306,6 +34558,10 @@
         {
           "name": "California State Council of Service Employees International Union California",
           "relationship": "chapter"
+        },
+        {
+          "name": "California State Council of Service Employees International Union (Co-Source)",
+          "relationship": "alternate_spelling"
         }
       ]
     },
@@ -33315,6 +34571,10 @@
       "children": [
         {
           "name": "THE CALIFORNIA STATE COUNCIL OF SHRM",
+          "relationship": "alternate_spelling"
+        },
+        {
+          "name": "California State Council of Shrm (CALSHRM)",
           "relationship": "alternate_spelling"
         }
       ]
@@ -33366,6 +34626,22 @@
         {
           "name": "SEIU CALIFORNIA",
           "relationship": "alternate_spelling"
+        },
+        {
+          "name": "California State Council of Service Employees (SEIU)",
+          "relationship": "chapter"
+        },
+        {
+          "name": "California State Council, Service Employees International Union (SEIU)",
+          "relationship": "chapter"
+        },
+        {
+          "name": "California Council of the Service Employees International Union (SEIU)",
+          "relationship": "chapter"
+        },
+        {
+          "name": "California Council of Service Employees International Union (SEIU)",
+          "relationship": "chapter"
         }
       ]
     },
@@ -33454,6 +34730,10 @@
         {
           "name": "California State Firefighters' Association, Inc.",
           "relationship": "alternate_spelling"
+        },
+        {
+          "name": "California State Firefighters' Association, Inc. (CSFA)",
+          "relationship": "alternate_spelling"
         }
       ]
     },
@@ -33473,6 +34753,10 @@
       "children": [
         {
           "name": "CALIFORNIA STATE FLORAL ASSOCIATION (CSFA)",
+          "relationship": "alternate_spelling"
+        },
+        {
+          "name": "California State Floral Association (Sponsors)",
           "relationship": "alternate_spelling"
         }
       ]
@@ -33586,6 +34870,10 @@
         {
           "name": "THE CALIFORNIA STATE PTA",
           "relationship": "alternate_spelling"
+        },
+        {
+          "name": "California State PTA (Parent Teacher Association)",
+          "relationship": "alternate_spelling"
         }
       ]
     },
@@ -33609,6 +34897,10 @@
         },
         {
           "name": "CALIFORNIA STATE SHERIFF'S ASSOCIATION (CSSA)",
+          "relationship": "alternate_spelling"
+        },
+        {
+          "name": "California State Sheriff's Association (CCSA)",
           "relationship": "alternate_spelling"
         }
       ]
@@ -33714,6 +35006,10 @@
         {
           "name": "CALIFORNIA STATE UNIVERSITY EMPLOYEES UNION (CSUEU)",
           "relationship": "alternate_spelling"
+        },
+        {
+          "name": "California State University Employees Union (CSUEU/SEIU)",
+          "relationship": "alternate_spelling"
         }
       ]
     },
@@ -33783,6 +35079,10 @@
         {
           "name": "CSLEA",
           "relationship": "alternate_spelling"
+        },
+        {
+          "name": "California Statewide Law Enforcement Association (BU 7: CSLEA)",
+          "relationship": "alternate_spelling"
         }
       ]
     },
@@ -33821,6 +35121,10 @@
       "children": [
         {
           "name": "CALIFORNIA STUDENT AID COMMISSION (CSAC)",
+          "relationship": "alternate_spelling"
+        },
+        {
+          "name": "California Student Aid Commission (PRIOR VERSION)",
           "relationship": "alternate_spelling"
         }
       ]
@@ -33876,6 +35180,18 @@
         {
           "name": "CALIFORNIA TAX REFORM ASSOCIATION (CTRA)",
           "relationship": "alternate_spelling"
+        },
+        {
+          "name": "California Tax Reform Association (H.S.A. Provision)",
+          "relationship": "alternate_spelling"
+        },
+        {
+          "name": "California Tax Reform Association (to AB 366, Havice)",
+          "relationship": "alternate_spelling"
+        },
+        {
+          "name": "California Tax Reform Association (CRTA)",
+          "relationship": "alternate_spelling"
         }
       ]
     },
@@ -33885,6 +35201,10 @@
       "children": [
         {
           "name": "THE CALIFORNIA TAXPAYER ASSOCIATION",
+          "relationship": "alternate_spelling"
+        },
+        {
+          "name": "California Taxpayer Association (Cal-Tax)",
           "relationship": "alternate_spelling"
         }
       ]
@@ -33930,6 +35250,14 @@
         {
           "name": "California Taxpayers' Association, California",
           "relationship": "chapter"
+        },
+        {
+          "name": "California Taxpayers Association (Cal-Tax)",
+          "relationship": "alternate_spelling"
+        },
+        {
+          "name": "California Taxpayers Association (Cal Tax)",
+          "relationship": "alternate_spelling"
         }
       ]
     },
@@ -33982,6 +35310,14 @@
         {
           "name": "THE CALIFORNIA TEACHERS ASSOCIATION (CTA)",
           "relationship": "alternate_spelling"
+        },
+        {
+          "name": "California Teachers Association (Previous Version)",
+          "relationship": "alternate_spelling"
+        },
+        {
+          "name": "California Teachers Association (Co-Source)",
+          "relationship": "alternate_spelling"
         }
       ]
     },
@@ -34020,6 +35356,18 @@
         {
           "name": "California Teamsters Public Affairs Council of California",
           "relationship": "chapter"
+        },
+        {
+          "name": "California Teamsters Public Affairs Council (Sponsors)",
+          "relationship": "alternate_spelling"
+        },
+        {
+          "name": "California Teamsters Public Affairs Council (Co-Source)",
+          "relationship": "alternate_spelling"
+        },
+        {
+          "name": "California Teamsters Public Affairs Council (ATU)",
+          "relationship": "alternate_spelling"
         }
       ]
     },
@@ -34136,6 +35484,10 @@
         {
           "name": "THE CALIFORNIA TRADE COALITION",
           "relationship": "alternate_spelling"
+        },
+        {
+          "name": "California Trade Coalition (CalTrade)",
+          "relationship": "alternate_spelling"
         }
       ]
     },
@@ -34204,6 +35556,14 @@
         {
           "name": "THE CALIFORNIA TRAVEL ASSOCIATION",
           "relationship": "alternate_spelling"
+        },
+        {
+          "name": "California Travel Association (CALTRAVEL)",
+          "relationship": "alternate_spelling"
+        },
+        {
+          "name": "California Travel Association (CALTIA)",
+          "relationship": "alternate_spelling"
         }
       ]
     },
@@ -34213,6 +35573,14 @@
       "children": [
         {
           "name": "CALIFORNIA TRAVEL INDUSTRY ASSOCIATION (CTIA)",
+          "relationship": "alternate_spelling"
+        },
+        {
+          "name": "California Travel Industry Association (\"In Concept\")",
+          "relationship": "alternate_spelling"
+        },
+        {
+          "name": "California Travel Industry Association (CalTIA)",
           "relationship": "alternate_spelling"
         }
       ]
@@ -34276,6 +35644,10 @@
         {
           "name": "California Trout California",
           "relationship": "chapter"
+        },
+        {
+          "name": "California Trout (Previous Version)",
+          "relationship": "alternate_spelling"
         }
       ]
     },
@@ -34327,6 +35699,10 @@
       "children": [
         {
           "name": "CALIFORNIA URBAN FORESTS",
+          "relationship": "alternate_spelling"
+        },
+        {
+          "name": "California Urban Forests Council (CAUFC)",
           "relationship": "alternate_spelling"
         }
       ]
@@ -34385,6 +35761,10 @@
         },
         {
           "name": "THE CALIFORNIA VETERINARY MEDICAL ASSOCIATION (CVMA)",
+          "relationship": "alternate_spelling"
+        },
+        {
+          "name": "California Veterinary Medical Association (Oppose/Work with Author)",
           "relationship": "alternate_spelling"
         }
       ]
@@ -34448,6 +35828,10 @@
       "children": [
         {
           "name": "THE CALIFORNIA WATER IMPACT NETWORK",
+          "relationship": "alternate_spelling"
+        },
+        {
+          "name": "California Water Impact Network (C-WIN)",
           "relationship": "alternate_spelling"
         }
       ]
@@ -34571,6 +35955,10 @@
         {
           "name": "THE CALIFORNIA WOMEN'S AGENDA",
           "relationship": "alternate_spelling"
+        },
+        {
+          "name": "California Women's Agenda (CAWA)",
+          "relationship": "alternate_spelling"
         }
       ]
     },
@@ -34599,6 +35987,10 @@
       "children": [
         {
           "name": "CALIFORNIA WOOL GROWERS ASSOCIATION (CWGA)",
+          "relationship": "alternate_spelling"
+        },
+        {
+          "name": "California Wool Growers Association (Sponsors)",
           "relationship": "alternate_spelling"
         }
       ]
@@ -34684,7 +36076,16 @@
     {
       "canonical": "CALIFORNIA YOUTH EMPOWERMENT NETWORK",
       "status": "active",
-      "children": []
+      "children": [
+        {
+          "name": "California Youth Empowerment Network (CAYEN)",
+          "relationship": "alternate_spelling"
+        },
+        {
+          "name": "California Youth Empowerment Network (PRIOR VERSION)",
+          "relationship": "alternate_spelling"
+        }
+      ]
     },
     {
       "canonical": "CALIFORNIA'S INDEPENDENT TELECOMMUNICATIONS COMPANIES",
@@ -34722,6 +36123,10 @@
         {
           "name": "California-Mexico Studies Center, Inc",
           "relationship": "alternate_spelling"
+        },
+        {
+          "name": "California-Mexico Studies Center (Co-Source)",
+          "relationship": "chapter"
         }
       ]
     },
@@ -34732,6 +36137,14 @@
         {
           "name": "THE CALIFORNIA-NEVADA CONFERENCE OF OPERATING ENGINEERS",
           "relationship": "alternate_spelling"
+        },
+        {
+          "name": "California-Nevada Conference of Operating Engineers (Sponsors)",
+          "relationship": "chapter"
+        },
+        {
+          "name": "California-Nevada Conference of Operating Engineers (Co-Source)",
+          "relationship": "chapter"
         }
       ]
     },
@@ -34797,6 +36210,10 @@
         {
           "name": "CALIFORNIANS AGAINST WASTE (CAW)",
           "relationship": "alternate_spelling"
+        },
+        {
+          "name": "Californians Against Waste (Co-Sponor)",
+          "relationship": "chapter"
         }
       ]
     },
@@ -34864,6 +36281,14 @@
         {
           "name": "CDR",
           "relationship": "alternate_spelling"
+        },
+        {
+          "name": "Californians for Disability Rights, Inc. (CDR)",
+          "relationship": "chapter"
+        },
+        {
+          "name": "Californians for Disability Rights (CDR, Inc.)",
+          "relationship": "chapter"
         }
       ]
     },
@@ -34945,7 +36370,12 @@
     {
       "canonical": "CALIFORNIANS TOGETHER",
       "status": "active",
-      "children": []
+      "children": [
+        {
+          "name": "Californians Together (Co-Source)",
+          "relationship": "chapter"
+        }
+      ]
     },
     {
       "canonical": "CALIFORNIANS UNITED FOR A RESPONSIBLE BUDGET",
@@ -35029,13 +36459,22 @@
         {
           "name": "CALNENA, Inc",
           "relationship": "alternate_spelling"
+        },
+        {
+          "name": "California Chapter National Emergency Number Association (CALNENA)",
+          "relationship": "chapter"
         }
       ]
     },
     {
       "canonical": "CALPACE",
       "status": "active",
-      "children": []
+      "children": [
+        {
+          "name": "California PACE Association (CalPACE)",
+          "relationship": "chapter"
+        }
+      ]
     },
     {
       "canonical": "CALPERS BOARD OF ADMINISTRATION",
@@ -35073,7 +36512,12 @@
     {
       "canonical": "CALTAX",
       "status": "active",
-      "children": []
+      "children": [
+        {
+          "name": "California Taxpayers Association (CALTAX)",
+          "relationship": "chapter"
+        }
+      ]
     },
     {
       "canonical": "CALTHORPE ASSOCIATES",
@@ -35923,6 +37367,10 @@
         {
           "name": "California CASA",
           "relationship": "chapter"
+        },
+        {
+          "name": "California Association of Sanitation Districts (CASA)",
+          "relationship": "chapter"
         }
       ]
     },
@@ -36330,6 +37778,10 @@
         {
           "name": "THE CDC",
           "relationship": "alternate_spelling"
+        },
+        {
+          "name": "California Department of Correction (CDC)",
+          "relationship": "chapter"
         }
       ]
     },
@@ -37085,6 +38537,10 @@
         {
           "name": "CLEAR",
           "relationship": "alternate_spelling"
+        },
+        {
+          "name": "California Law Enforcement Association of Records Supervisors (CLEAR)",
+          "relationship": "chapter"
         }
       ]
     },
@@ -37778,6 +39234,18 @@
         {
           "name": "CENTRAL COAST ALLIANCE UNITED FOR SUSTAINABLE ECONOMY",
           "relationship": "alternate_spelling"
+        },
+        {
+          "name": "California Union of Safety Employees (CAUSE)",
+          "relationship": "chapter"
+        },
+        {
+          "name": "California Union of Service Employees (CAUSE)",
+          "relationship": "chapter"
+        },
+        {
+          "name": "Californians United for Sex-Based Evidence in Policy and Law (CAUSE)",
+          "relationship": "chapter"
         }
       ]
     },
@@ -38371,6 +39839,10 @@
         {
           "name": "THE CHA",
           "relationship": "alternate_spelling"
+        },
+        {
+          "name": "California Health Care Association (CHA)",
+          "relationship": "chapter"
         }
       ]
     },
@@ -39288,6 +40760,14 @@
         {
           "name": "California Child Care Resource & Referral Network",
           "relationship": "chapter"
+        },
+        {
+          "name": "California Child Care Resource & Referral Network (R&R Network)",
+          "relationship": "chapter"
+        },
+        {
+          "name": "California Child Care Resource & Referral Network (Network)",
+          "relationship": "chapter"
         }
       ]
     },
@@ -39906,6 +41386,10 @@
         {
           "name": "Chiropractic Association, California",
           "relationship": "chapter"
+        },
+        {
+          "name": "California Chiropractic Association (CalChiro)",
+          "relationship": "chapter"
         }
       ]
     },
@@ -40365,6 +41849,10 @@
       "children": [
         {
           "name": "California Citizens Against Lawsuit Abuse",
+          "relationship": "chapter"
+        },
+        {
+          "name": "California Citizens Against Lawsuit Abuse (CALA)",
           "relationship": "chapter"
         }
       ]
@@ -41518,6 +43006,10 @@
         {
           "name": "THE CITY OF FRESNO",
           "relationship": "alternate_spelling"
+        },
+        {
+          "name": "California Save Our Streams Council (Fresno)",
+          "relationship": "chapter"
         }
       ]
     },
@@ -44545,6 +46037,10 @@
         {
           "name": "California Coalition",
           "relationship": "chapter"
+        },
+        {
+          "name": "California Coalition of Accredited Career Schools (The Coalition)",
+          "relationship": "chapter"
         }
       ]
     },
@@ -44624,6 +46120,10 @@
         {
           "name": "COALITION FOR ADEQUATE SCHOOL HOUSING (CASH)",
           "relationship": "alternate_spelling"
+        },
+        {
+          "name": "California Coalition for Adequate School Housing (CASH)",
+          "relationship": "chapter"
         }
       ]
     },
@@ -45242,6 +46742,10 @@
         {
           "name": "COALITION OF UTILITY EMPLOYEES (CUE)",
           "relationship": "alternate_spelling"
+        },
+        {
+          "name": "California Coalition of Utility Employees (CUE)",
+          "relationship": "chapter"
         }
       ]
     },
@@ -46086,6 +47590,10 @@
         {
           "name": "THE COMMISSION ON AGING",
           "relationship": "alternate_spelling"
+        },
+        {
+          "name": "California Commission on Aging (CCoA)",
+          "relationship": "chapter"
         }
       ]
     },
@@ -46110,6 +47618,10 @@
         {
           "name": "COMMISSION ON PEACE OFFICER STANDARDS AND TRAINING (POST)",
           "relationship": "alternate_spelling"
+        },
+        {
+          "name": "California Commission on Peace Officer Standards and Training (POST)",
+          "relationship": "chapter"
         }
       ]
     },
@@ -46124,6 +47636,10 @@
         {
           "name": "COMMISSION ON TEACHER CREDENTIALING (CTC)",
           "relationship": "alternate_spelling"
+        },
+        {
+          "name": "California Commission on Teacher Credentialing (CTC)",
+          "relationship": "chapter"
         }
       ]
     },
@@ -48857,6 +50373,22 @@
         {
           "name": "CASE",
           "relationship": "alternate_spelling"
+        },
+        {
+          "name": "California Attorneys, Administrative Law Judges and Hearing Officers in State Employment (CASE)",
+          "relationship": "chapter"
+        },
+        {
+          "name": "California Attorneys, Administrative Law Judges and Hearing Officer in State Employment (CASE)",
+          "relationship": "chapter"
+        },
+        {
+          "name": "California Attorneys in State Employment (CASE)",
+          "relationship": "chapter"
+        },
+        {
+          "name": "California Attorneys, Administrative Law Judges, Hearing Employment (CASE)",
+          "relationship": "chapter"
         }
       ]
     },
@@ -49766,6 +51298,10 @@
       "children": [
         {
           "name": "Correctional Peace Officers Association of California",
+          "relationship": "chapter"
+        },
+        {
+          "name": "California Correctional Peace Officers Association (BU 6: CCPOA)",
           "relationship": "chapter"
         }
       ]
@@ -51072,6 +52608,10 @@
         {
           "name": "THE COUNTY OF ORANGE",
           "relationship": "alternate_spelling"
+        },
+        {
+          "name": "California Elwyn (Orange County)",
+          "relationship": "chapter"
         }
       ]
     },
@@ -51640,6 +53180,10 @@
         },
         {
           "name": "California Court Appointed Special Advocates",
+          "relationship": "chapter"
+        },
+        {
+          "name": "California Court Appointed Special Advocates (CASA)",
           "relationship": "chapter"
         }
       ]
@@ -53733,6 +55277,10 @@
         {
           "name": "California Department of Consumer Affairs",
           "relationship": "chapter"
+        },
+        {
+          "name": "California Department of Consumer Affairs (DCA)",
+          "relationship": "chapter"
         }
       ]
     },
@@ -53831,6 +55379,10 @@
         {
           "name": "THE DEPARTMENT OF FINANCE",
           "relationship": "alternate_spelling"
+        },
+        {
+          "name": "California Department of Finance (DOF)",
+          "relationship": "chapter"
         }
       ]
     },
@@ -53984,6 +55536,14 @@
         {
           "name": "THE DEPARTMENT OF INSURANCE",
           "relationship": "alternate_spelling"
+        },
+        {
+          "name": "California Department of Insurance (DOI)",
+          "relationship": "chapter"
+        },
+        {
+          "name": "California Department of Insurance (Co-Source)",
+          "relationship": "chapter"
         }
       ]
     },
@@ -54023,6 +55583,10 @@
         },
         {
           "name": "California Department of Motor Vehicles",
+          "relationship": "chapter"
+        },
+        {
+          "name": "California Department of Motor Vehicle (DMV)",
           "relationship": "chapter"
         }
       ]
@@ -54116,6 +55680,10 @@
         {
           "name": "California Department of Real Estate",
           "relationship": "chapter"
+        },
+        {
+          "name": "California Department of Real Estate (DRE)",
+          "relationship": "chapter"
         }
       ]
     },
@@ -54144,6 +55712,10 @@
         {
           "name": "DSS",
           "relationship": "alternate_spelling"
+        },
+        {
+          "name": "California Department of Social Services (DSS)",
+          "relationship": "chapter"
         }
       ]
     },
@@ -54192,6 +55764,10 @@
         {
           "name": "DVA",
           "relationship": "alternate_spelling"
+        },
+        {
+          "name": "California Department of Veterans Affairs (Sponsors)",
+          "relationship": "chapter"
         }
       ]
     },
@@ -54298,6 +55874,10 @@
         {
           "name": "DEPT. OF PERSONNEL ADMINISTRATION (DPA)",
           "relationship": "alternate_spelling"
+        },
+        {
+          "name": "California Dept. of Personnel Administration (DPA)",
+          "relationship": "chapter"
         }
       ]
     },
@@ -58223,6 +59803,10 @@
         {
           "name": "California Emergency Nurses Association",
           "relationship": "chapter"
+        },
+        {
+          "name": "California Emergency Nurses Association (CalENA)",
+          "relationship": "chapter"
         }
       ]
     },
@@ -60583,6 +62167,10 @@
         {
           "name": "Faculty Association, California",
           "relationship": "chapter"
+        },
+        {
+          "name": "California Faculty Association (Co-Source)",
+          "relationship": "chapter"
         }
       ]
     },
@@ -60820,6 +62408,10 @@
         },
         {
           "name": "California Fair Share Network",
+          "relationship": "chapter"
+        },
+        {
+          "name": "California Fair Share Network (Santa Cruz)",
           "relationship": "chapter"
         }
       ]
@@ -61446,6 +63038,18 @@
       "children": [
         {
           "name": "Farm Bureau Federation of California",
+          "relationship": "chapter"
+        },
+        {
+          "name": "California Farm Bureau Federation (\"In Concept\")",
+          "relationship": "chapter"
+        },
+        {
+          "name": "California Farm Bureau Federation (Sponsors)",
+          "relationship": "chapter"
+        },
+        {
+          "name": "California Farm Bureau Federation (Farm Bureau)",
           "relationship": "chapter"
         }
       ]
@@ -62437,6 +64041,10 @@
         },
         {
           "name": "First 5 of California",
+          "relationship": "chapter"
+        },
+        {
+          "name": "California Children and Families Commission (First 5)",
           "relationship": "chapter"
         }
       ]
@@ -73567,6 +75175,10 @@
         {
           "name": "Independent Public Employees Legislative Council, Inc",
           "relationship": "alternate_spelling"
+        },
+        {
+          "name": "California Independent Public Employees Legislative Council (CIPLEC)",
+          "relationship": "chapter"
         }
       ]
     },
@@ -75219,6 +76831,10 @@
         {
           "name": "IBEW",
           "relationship": "alternate_spelling"
+        },
+        {
+          "name": "California & Nevada State Association of Electrical Workers (IBEW)",
+          "relationship": "chapter"
         }
       ]
     },
@@ -80633,6 +82249,14 @@
         {
           "name": "California Lulac",
           "relationship": "chapter"
+        },
+        {
+          "name": "California League of United Latin American Citizens (LULAC)",
+          "relationship": "chapter"
+        },
+        {
+          "name": "California LULAC (League of United Latin American Citizens)",
+          "relationship": "chapter"
         }
       ]
     },
@@ -82742,6 +84366,14 @@
         },
         {
           "name": "Los Angeles CA",
+          "relationship": "chapter"
+        },
+        {
+          "name": "California Medical Center (Los Angeles)",
+          "relationship": "chapter"
+        },
+        {
+          "name": "California Plaza Presents (Los Angeles)",
           "relationship": "chapter"
         }
       ]
@@ -84912,6 +86544,10 @@
         {
           "name": "MRMIB",
           "relationship": "alternate_spelling"
+        },
+        {
+          "name": "California Managed Risk Medical Insurance Board (MRMIB)",
+          "relationship": "chapter"
         }
       ]
     },
@@ -85006,6 +86642,14 @@
         {
           "name": "Manufacturers Association, Inc",
           "relationship": "alternate_spelling"
+        },
+        {
+          "name": "California Manufacturers Association (CMAA)",
+          "relationship": "chapter"
+        },
+        {
+          "name": "California Manufacturers Association (ANALYSIS REFLECTS AUTHOR'S AMENDMENTS TO BE OFFERED IN COMMITTEE.)",
+          "relationship": "chapter"
         }
       ]
     },
@@ -87814,6 +89458,10 @@
         {
           "name": "THE MILITARY OFFICERS ASSOCIATION OF AMERICA, CALIFORNIA COUNCIL OF CHAPTERS",
           "relationship": "alternate_spelling"
+        },
+        {
+          "name": "California Military Officers Association of America (CALMOAA)",
+          "relationship": "chapter"
         }
       ]
     },
@@ -88354,6 +90002,10 @@
         },
         {
           "name": "California Mobilehome Parks Alliance",
+          "relationship": "chapter"
+        },
+        {
+          "name": "California Mobilehome Parks Alliance (MPA)",
           "relationship": "chapter"
         }
       ]
@@ -90618,6 +92270,14 @@
         {
           "name": "California National Association for the Advancement of Colored People",
           "relationship": "chapter"
+        },
+        {
+          "name": "California National Association for the Advancement of Colored People (NAACP)",
+          "relationship": "chapter"
+        },
+        {
+          "name": "California State Conference of the NAACP (National Association for the Advancement of Colored People)",
+          "relationship": "chapter"
         }
       ]
     },
@@ -91925,6 +93585,10 @@
         {
           "name": "National Electrical Contractors Association (NECA), California",
           "relationship": "chapter"
+        },
+        {
+          "name": "California National Electrical Contractors Association (NECA)",
+          "relationship": "chapter"
         }
       ]
     },
@@ -92711,6 +94375,10 @@
         {
           "name": "California National Organization for the Reform of Marijuana Laws",
           "relationship": "chapter"
+        },
+        {
+          "name": "California NORML (National Organization for the Reform of Marijuana Laws)",
+          "relationship": "chapter"
         }
       ]
     },
@@ -92732,6 +94400,18 @@
         },
         {
           "name": "National Organization for Women California",
+          "relationship": "chapter"
+        },
+        {
+          "name": "California National Organization for Women (NOW)",
+          "relationship": "chapter"
+        },
+        {
+          "name": "California National Organization for Women (California NOW)",
+          "relationship": "chapter"
+        },
+        {
+          "name": "California National Organization for Women (CA NOW)",
           "relationship": "chapter"
         }
       ]
@@ -92767,6 +94447,10 @@
         {
           "name": "NATIONAL ORGANIZATION OF WOMEN (NOW)",
           "relationship": "alternate_spelling"
+        },
+        {
+          "name": "California National Organization of Women (CA NOW)",
+          "relationship": "chapter"
         }
       ]
     },
@@ -93704,6 +95388,10 @@
         },
         {
           "name": "Network California",
+          "relationship": "chapter"
+        },
+        {
+          "name": "California Child Care Resource and Referral Network (Network)",
           "relationship": "chapter"
         }
       ]
@@ -95524,6 +97212,14 @@
         {
           "name": "NOW California",
           "relationship": "chapter"
+        },
+        {
+          "name": "California Organization for Women (NOW)",
+          "relationship": "chapter"
+        },
+        {
+          "name": "California NOW (National Organization for Women)",
+          "relationship": "chapter"
         }
       ]
     },
@@ -95582,6 +97278,14 @@
         },
         {
           "name": "Nurses Association, California",
+          "relationship": "chapter"
+        },
+        {
+          "name": "California Nurses Association (CAN)",
+          "relationship": "chapter"
+        },
+        {
+          "name": "California Nurses Association (As of April 3, 2013.)",
           "relationship": "chapter"
         }
       ]
@@ -96141,6 +97845,10 @@
         {
           "name": "Ochin, Inc",
           "relationship": "alternate_spelling"
+        },
+        {
+          "name": "California Telehealth Network (OCHIN)",
+          "relationship": "chapter"
         }
       ]
     },
@@ -99427,6 +101135,50 @@
         {
           "name": "California Parent Teachers Association",
           "relationship": "chapter"
+        },
+        {
+          "name": "California Congress of Parents, Teachers, and Students, Inc. (PTA)",
+          "relationship": "chapter"
+        },
+        {
+          "name": "California Congress of Parents, Teachers, and Students (PTA)",
+          "relationship": "chapter"
+        },
+        {
+          "name": "California State Parent Teacher Association (PTA)",
+          "relationship": "chapter"
+        },
+        {
+          "name": "California Parent-Teacher Association (PTA)",
+          "relationship": "chapter"
+        },
+        {
+          "name": "California State Parent Teachers Association (PTA)",
+          "relationship": "chapter"
+        },
+        {
+          "name": "California State Parent Teachers Assoc. (PTA)",
+          "relationship": "chapter"
+        },
+        {
+          "name": "California Congress of Parents, Teachers and Students (PTA)",
+          "relationship": "chapter"
+        },
+        {
+          "name": "California Congress of Parents, Teachers & Students, Inc. (PTA)",
+          "relationship": "chapter"
+        },
+        {
+          "name": "California Conference of Parents, Teachers, and Students (PTA)",
+          "relationship": "chapter"
+        },
+        {
+          "name": "California Congress of Parents, Teachers, and Students Inc. (PTA)",
+          "relationship": "chapter"
+        },
+        {
+          "name": "California Congress of Parents, Teachers, and Students, INC. (California PTA)",
+          "relationship": "chapter"
         }
       ]
     },
@@ -99644,6 +101396,10 @@
         {
           "name": "Partnership, Inc",
           "relationship": "alternate_spelling"
+        },
+        {
+          "name": "California Partnership (120 CBO's)",
+          "relationship": "chapter"
         }
       ]
     },
@@ -100226,6 +101982,10 @@
         {
           "name": "THE PEACE OFFICERS RESEARCH ASSOCIATION OF CALIFORNIA (PORAC)",
           "relationship": "alternate_spelling"
+        },
+        {
+          "name": "California Peace Officers Research Association of California (PORAC)",
+          "relationship": "chapter"
         }
       ]
     },
@@ -100235,6 +101995,10 @@
       "children": [
         {
           "name": "Peace Officers' Association of California",
+          "relationship": "chapter"
+        },
+        {
+          "name": "California Peace Officers' Association (AFSCME)",
           "relationship": "chapter"
         }
       ]
@@ -103754,6 +105518,14 @@
         {
           "name": "Professional Firefighters California",
           "relationship": "chapter"
+        },
+        {
+          "name": "California Professional Firefighters (Co-Source)",
+          "relationship": "chapter"
+        },
+        {
+          "name": "California Professional Firefighters (Co- Sponsor)",
+          "relationship": "chapter"
         }
       ]
     },
@@ -104713,6 +106485,18 @@
         {
           "name": "Public Defenders Association of California",
           "relationship": "chapter"
+        },
+        {
+          "name": "California Public Defenders Association (NOTE: ANALYSIS REFLECTS AUTHOR'S AMENDMENTS TO BE OFFERED IN COMMITTEE.)",
+          "relationship": "chapter"
+        },
+        {
+          "name": "California Public Defenders Association (CDPA)",
+          "relationship": "chapter"
+        },
+        {
+          "name": "California Public Defenders Association (C.P.D.A.)",
+          "relationship": "chapter"
         }
       ]
     },
@@ -104741,6 +106525,10 @@
         {
           "name": "California Public Employees Legislative Council",
           "relationship": "chapter"
+        },
+        {
+          "name": "California Public Employees Legislative Council (CIPELC)",
+          "relationship": "chapter"
         }
       ]
     },
@@ -104754,6 +106542,22 @@
         },
         {
           "name": "California Public Employees Retirement System",
+          "relationship": "chapter"
+        },
+        {
+          "name": "California Public Employees Retirement System (PERS)",
+          "relationship": "chapter"
+        },
+        {
+          "name": "California Public Employees Retirement System (CalPERS)",
+          "relationship": "chapter"
+        },
+        {
+          "name": "California Public Employees Retirement System (Cal-PERS)",
+          "relationship": "chapter"
+        },
+        {
+          "name": "California Public Employees Retirement System (Cal PERS)",
           "relationship": "chapter"
         }
       ]
@@ -104769,6 +106573,14 @@
         {
           "name": "PUBLIC EMPLOYEES' RETIREMENT SYSTEM( PERS)",
           "relationship": "alternate_spelling"
+        },
+        {
+          "name": "California Public Employees' Retirement System (CalPERS)",
+          "relationship": "chapter"
+        },
+        {
+          "name": "California Public Employees' Retirement System (PERS)",
+          "relationship": "chapter"
         }
       ]
     },
@@ -104880,6 +106692,22 @@
       "children": [
         {
           "name": "Public Interest Research Group, California",
+          "relationship": "chapter"
+        },
+        {
+          "name": "California Public Interest Research Group (CALPIRG)",
+          "relationship": "chapter"
+        },
+        {
+          "name": "California Public Interest Research Group (CALPRIG)",
+          "relationship": "chapter"
+        },
+        {
+          "name": "California Public Interest Research Group (Committee Analysis)",
+          "relationship": "chapter"
+        },
+        {
+          "name": "California Public Interest Research Group (Cal-PIRG)",
           "relationship": "chapter"
         }
       ]
@@ -104999,6 +106827,10 @@
         {
           "name": "PUBLIC UTILITIES COMMISSION (PUC)",
           "relationship": "alternate_spelling"
+        },
+        {
+          "name": "California Public Utilities Commission (PUC)",
+          "relationship": "chapter"
         }
       ]
     },
@@ -108912,7 +110744,20 @@
     {
       "canonical": "RURAL LEGAL ASSISTANCE FOUNDATION",
       "status": "active",
-      "children": []
+      "children": [
+        {
+          "name": "California Rural Legal Assistance Foundation (CRLA Foundation)",
+          "relationship": "chapter"
+        },
+        {
+          "name": "California Rural Legal Assistance Foundation (CRLA)",
+          "relationship": "chapter"
+        },
+        {
+          "name": "California Rural Legal Assistance Foundation (CRLSF)",
+          "relationship": "chapter"
+        }
+      ]
     },
     {
       "canonical": "RURAL QUALITY COALITION OF NEVADA COUNTY",
@@ -109340,6 +111185,10 @@
         {
           "name": "SMART",
           "relationship": "alternate_spelling"
+        },
+        {
+          "name": "California State Legislative Board of the Sheet Metal, Air, Rail and Transportation (SMART)",
+          "relationship": "chapter"
         }
       ]
     },
@@ -110141,6 +111990,10 @@
         {
           "name": "THE SAN DIEGO",
           "relationship": "alternate_spelling"
+        },
+        {
+          "name": "California Southern Small Business Development Corporation (San Diego)",
+          "relationship": "chapter"
         }
       ]
     },
@@ -113095,6 +114948,18 @@
         {
           "name": "School Employees Association of California",
           "relationship": "chapter"
+        },
+        {
+          "name": "California School Employees Association (CSEAA)",
+          "relationship": "chapter"
+        },
+        {
+          "name": "California School Employees Association (CSE)",
+          "relationship": "chapter"
+        },
+        {
+          "name": "California School Employees Association (AFL-CIO)",
+          "relationship": "chapter"
         }
       ]
     },
@@ -114372,6 +116237,14 @@
         {
           "name": "Service Employees International Union (SEIU), California",
           "relationship": "chapter"
+        },
+        {
+          "name": "California State Council of Service Employees International Union (SEIU CA)",
+          "relationship": "chapter"
+        },
+        {
+          "name": "California State Council of Service Employees (SEIU CA)",
+          "relationship": "chapter"
         }
       ]
     },
@@ -115237,6 +117110,14 @@
       "children": [
         {
           "name": "Shrm California",
+          "relationship": "chapter"
+        },
+        {
+          "name": "California State Council of Society for Human Resource Management (SHRM)",
+          "relationship": "chapter"
+        },
+        {
+          "name": "California State Council for the Society for Human Resource Management (SHRM)",
           "relationship": "chapter"
         }
       ]
@@ -116774,6 +118655,10 @@
         {
           "name": "California Society for Human Resource Management",
           "relationship": "chapter"
+        },
+        {
+          "name": "California State Council of Shrm (Society for Human Resource Management)",
+          "relationship": "chapter"
         }
       ]
     },
@@ -117053,6 +118938,10 @@
         {
           "name": "SEIA",
           "relationship": "alternate_spelling"
+        },
+        {
+          "name": "California Solar Energy Industries Association (CALSEIA)",
+          "relationship": "chapter"
         }
       ]
     },
@@ -118224,6 +120113,14 @@
         {
           "name": "SCANPH",
           "relationship": "alternate_spelling"
+        },
+        {
+          "name": "California Associates of Non-Profit Housing (SCANPH)",
+          "relationship": "chapter"
+        },
+        {
+          "name": "California Association of Non-Profit Housing (SCANPH)",
+          "relationship": "chapter"
         }
       ]
     },
@@ -119187,6 +121084,10 @@
         {
           "name": "California Speech-Language Pathology and Audiology Board",
           "relationship": "chapter"
+        },
+        {
+          "name": "California Speech-Language Pathology and Audiology Board (SLPAB)",
+          "relationship": "chapter"
         }
       ]
     },
@@ -119468,6 +121369,10 @@
         {
           "name": "Sportsman's Lobby, Inc",
           "relationship": "alternate_spelling"
+        },
+        {
+          "name": "California Sportsman's Lobby (Committee Analysis)",
+          "relationship": "chapter"
         }
       ]
     },
@@ -120082,6 +121987,18 @@
         {
           "name": "THE STATE ASSOCIATION OF ELECTRICAL WORKERS",
           "relationship": "alternate_spelling"
+        },
+        {
+          "name": "California State Association of Electrical Workers (IBEW)",
+          "relationship": "chapter"
+        },
+        {
+          "name": "California State Association Of Electrical Workers(IBEW)",
+          "relationship": "chapter"
+        },
+        {
+          "name": "California State Association of Electrical Workers (Co-Sponsors)",
+          "relationship": "chapter"
         }
       ]
     },
@@ -120128,6 +122045,14 @@
         {
           "name": "THE STATE BAR (FLEXCOM)",
           "relationship": "alternate_spelling"
+        },
+        {
+          "name": "California State Bar (Trusts and Estate Law Section)",
+          "relationship": "chapter"
+        },
+        {
+          "name": "California State Bar (Board of Tax Appeals part)",
+          "relationship": "chapter"
         }
       ]
     },
@@ -120569,6 +122494,10 @@
         {
           "name": "THE STATE COUNCIL ON DEVELOPMENTAL DISABILITIES (SCDD)",
           "relationship": "alternate_spelling"
+        },
+        {
+          "name": "California State Council on Developmental Disabilities (SCDD)",
+          "relationship": "chapter"
         }
       ]
     },
@@ -120716,6 +122645,10 @@
         {
           "name": "California State Independent Living Council",
           "relationship": "chapter"
+        },
+        {
+          "name": "California State Independent Living Council (SILC)",
+          "relationship": "chapter"
         }
       ]
     },
@@ -120800,6 +122733,10 @@
         {
           "name": "California State Personnel Board",
           "relationship": "chapter"
+        },
+        {
+          "name": "California State Personnel Board (SPB)",
+          "relationship": "chapter"
         }
       ]
     },
@@ -120847,6 +122784,10 @@
         },
         {
           "name": "California State Public Affairs Committee",
+          "relationship": "chapter"
+        },
+        {
+          "name": "California State Public Affairs Committee (SPAC)",
           "relationship": "chapter"
         }
       ]
@@ -120980,6 +122921,10 @@
         {
           "name": "California State Teacher's Retirement System",
           "relationship": "chapter"
+        },
+        {
+          "name": "California State Teacher's Retirement System (CalSTRS)",
+          "relationship": "chapter"
         }
       ]
     },
@@ -120994,6 +122939,14 @@
         {
           "name": "California State Teachers Retirement System",
           "relationship": "chapter"
+        },
+        {
+          "name": "California State Teachers Retirement System (STRS)",
+          "relationship": "chapter"
+        },
+        {
+          "name": "California State Teachers Retirement System (CalSTRS)",
+          "relationship": "chapter"
         }
       ]
     },
@@ -121004,6 +122957,10 @@
         {
           "name": "STATE TEACHERS' RETIREMENT SYSTEM (STRS)",
           "relationship": "alternate_spelling"
+        },
+        {
+          "name": "California State Teachers' Retirement System (CalSTRS)",
+          "relationship": "chapter"
         }
       ]
     },
@@ -123481,6 +125438,10 @@
         },
         {
           "name": "Teamsters California",
+          "relationship": "chapter"
+        },
+        {
+          "name": "California Teamsters Public Affairs Council (Teamsters)",
           "relationship": "chapter"
         }
       ]
@@ -126017,6 +127978,10 @@
         {
           "name": "TRUSTS AND ESTATES SECTION OF THE STATE BAR (TEXCOM)",
           "relationship": "alternate_spelling"
+        },
+        {
+          "name": "California Lawyers Association, Trusts and Estates Section Executive Committee (TEXCOM)",
+          "relationship": "chapter"
         }
       ]
     },
@@ -127178,6 +129143,10 @@
         {
           "name": "UCPA",
           "relationship": "alternate_spelling"
+        },
+        {
+          "name": "California Coalition of United Cerebral Palsy Associations (UCPA)",
+          "relationship": "chapter"
         }
       ]
     },
@@ -131852,6 +133821,10 @@
         {
           "name": "Welfare Directors Association of California",
           "relationship": "chapter"
+        },
+        {
+          "name": "California Welfare Directors Association of California (CWDA)",
+          "relationship": "chapter"
         }
       ]
     },
@@ -135264,6 +137237,10 @@
         {
           "name": "ZERO AIR POLLUTION (ZAP)",
           "relationship": "alternate_spelling"
+        },
+        {
+          "name": "California Zero Air Pollution (ZAP)",
+          "relationship": "chapter"
         }
       ]
     },
