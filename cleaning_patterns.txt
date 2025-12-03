@@ -1,7 +1,9 @@
 # Regex patterns to remove from the END of organization names
 # These are metadata about bill relationships, not part of the org name
 # Each pattern starts with (?i) to make it case-insensitive
+# Patterns support both round brackets () and square brackets []
 
+# Round brackets - END
 (?i)\s*\(co-sponsor\)\s*$
 (?i)\s*\(sponsor\)\s*$
 (?i)\s*\(sponsors\)\s*$
@@ -22,9 +24,31 @@
 (?i)\s*\(per\s[^)]*\)\s*$
 (?i)\s*\(as of\s[^)]*\)\s*$
 
+# Square brackets - END
+(?i)\s*\[co-sponsor\]\s*$
+(?i)\s*\[sponsor\]\s*$
+(?i)\s*\[sponsors\]\s*$
+(?i)\s*\[co-source\]\s*$
+(?i)\s*\[prior version\]\s*$
+(?i)\s*\[oppose\]\s*$
+(?i)\s*\[oppose unless amended\]\s*$
+(?i)\s*\["in concept"\]\s*$
+(?i)\s*\[principal co-sponsor\]\s*$
+(?i)\s*\[co-sponsors\]\s*$
+(?i)\s*\[previous version\]\s*$
+(?i)\s*\[as of prior version\]\s*$
+(?i)\s*\[unable to re-verify at time of writing\]\s*$
+(?i)\s*\[none received[^\]]*\]\s*$
+(?i)\s*\[reflects[^\]]*\]\s*$
+(?i)\s*\[[^\]]*\sversion\s[^\]]*\]\s*$
+(?i)\s*\[prior to latest amendments\]\s*$
+(?i)\s*\[per\s[^\]]*\]\s*$
+(?i)\s*\[as of\s[^\]]*\]\s*$
+
 # Patterns to remove from the BEGINNING of organization names
 # These are procedural notes, not part of the org name
 
+# Round brackets - BEGINNING
 (?i)^\s*\(co-sponsor\)\s*
 (?i)^\s*\(sponsor\)\s*
 (?i)^\s*\(sponsors\)\s*
@@ -44,3 +68,24 @@
 (?i)^\s*\(prior to latest amendments\)\s*
 (?i)^\s*\(per\s[^)]*\)\s*
 (?i)^\s*\(as of\s[^)]*\)\s*
+
+# Square brackets - BEGINNING
+(?i)^\s*\[co-sponsor\]\s*
+(?i)^\s*\[sponsor\]\s*
+(?i)^\s*\[sponsors\]\s*
+(?i)^\s*\[co-source\]\s*
+(?i)^\s*\[prior version\]\s*
+(?i)^\s*\[oppose\]\s*
+(?i)^\s*\[oppose unless amended\]\s*
+(?i)^\s*\["in concept"\]\s*
+(?i)^\s*\[principal co-sponsor\]\s*
+(?i)^\s*\[co-sponsors\]\s*
+(?i)^\s*\[previous version\]\s*
+(?i)^\s*\[as of prior version\]\s*
+(?i)^\s*\[unable to re-verify at time of writing\]\s*
+(?i)^\s*\[none received[^\]]*\]\s*
+(?i)^\s*\[reflects[^\]]*\]\s*
+(?i)^\s*\[[^\]]*\sversion\s[^\]]*\]\s*
+(?i)^\s*\[prior to latest amendments\]\s*
+(?i)^\s*\[per\s[^\]]*\]\s*
+(?i)^\s*\[as of\s[^\]]*\]\s*
