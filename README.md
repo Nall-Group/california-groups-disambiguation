@@ -36,6 +36,10 @@ directory: org_name_subsets_for_cleaning/
 
 10. Add orgs that are the same as another org except for the addition of ' California" or ' of California' or ' of CA' or ' CA' at teh end as orgs with a chapter relationship to the base name
 
+11. Add orgs that are unambiguous acronyms as an alternate spelling
+
+12. Add orgs that start with California but otherwise the same as another org as a chapter
+
 ## Crosswalk Relationship Types
 
 - canonical

@@ -356,6 +356,10 @@
         {
           "name": "9to5, California",
           "relationship": "chapter"
+        },
+        {
+          "name": "California 9to5",
+          "relationship": "chapter"
         }
       ]
     },
@@ -815,6 +819,10 @@
         {
           "name": "Academy of California",
           "relationship": "chapter"
+        },
+        {
+          "name": "California Academy",
+          "relationship": "chapter"
         }
       ]
     },
@@ -1251,6 +1259,10 @@
         },
         {
           "name": "ACORN of California",
+          "relationship": "chapter"
+        },
+        {
+          "name": "California ACORN",
           "relationship": "chapter"
         }
       ]
@@ -2165,6 +2177,10 @@
         {
           "name": "Affiliates of CA",
           "relationship": "chapter"
+        },
+        {
+          "name": "California Affiliates",
+          "relationship": "chapter"
         }
       ]
     },
@@ -2721,6 +2737,10 @@
       "children": [
         {
           "name": "Agricultural Council of CA",
+          "relationship": "chapter"
+        },
+        {
+          "name": "California Agricultural Council",
           "relationship": "chapter"
         }
       ]
@@ -4727,6 +4747,10 @@
         {
           "name": "Alzheimer's Association, California",
           "relationship": "chapter"
+        },
+        {
+          "name": "California Alzheimer's Association",
+          "relationship": "chapter"
         }
       ]
     },
@@ -4779,6 +4803,10 @@
         },
         {
           "name": "Amalgamated Transit Union, California",
+          "relationship": "chapter"
+        },
+        {
+          "name": "California Amalgamated Transit Union",
           "relationship": "chapter"
         }
       ]
@@ -4992,6 +5020,10 @@
         {
           "name": "American, Inc",
           "relationship": "alternate_spelling"
+        },
+        {
+          "name": "California American",
+          "relationship": "chapter"
         }
       ]
     },
@@ -5238,6 +5270,10 @@
         {
           "name": "AMERICAN ASSOCIATION OF RETIRED PEOPLE (AARP)",
           "relationship": "alternate_spelling"
+        },
+        {
+          "name": "California American Association of Retired People",
+          "relationship": "chapter"
         }
       ]
     },
@@ -5295,6 +5331,14 @@
         },
         {
           "name": "AARP of California",
+          "relationship": "chapter"
+        },
+        {
+          "name": "California AARP",
+          "relationship": "chapter"
+        },
+        {
+          "name": "California American Association of Retired Persons",
           "relationship": "chapter"
         }
       ]
@@ -5367,6 +5411,10 @@
         },
         {
           "name": "AAUW of California",
+          "relationship": "chapter"
+        },
+        {
+          "name": "California American Association of University Women",
           "relationship": "chapter"
         }
       ]
@@ -6644,6 +6692,10 @@
         {
           "name": "THE AMERICAN FEDERATION OF STATE",
           "relationship": "alternate_spelling"
+        },
+        {
+          "name": "California American Federation of State",
+          "relationship": "chapter"
         }
       ]
     },
@@ -7636,7 +7688,7 @@
       "status": "active",
       "children": [
         {
-          "name": "AMERICAN LEGION â€” DEPARTMENT OF CALIFORNIA",
+          "name": "AMERICAN LEGION \u00e2\u20ac\u201d DEPARTMENT OF CALIFORNIA",
           "relationship": "alternate_spelling"
         },
         {
@@ -8925,6 +8977,10 @@
         {
           "name": "AMVETS California",
           "relationship": "chapter"
+        },
+        {
+          "name": "California AMVETS",
+          "relationship": "chapter"
         }
       ]
     },
@@ -9219,6 +9275,10 @@
         {
           "name": "and Pistol Association, Inc",
           "relationship": "alternate_spelling"
+        },
+        {
+          "name": "California and Pistol Association, Inc",
+          "relationship": "chapter"
         }
       ]
     },
@@ -9350,6 +9410,10 @@
         {
           "name": "THE ANIMAL",
           "relationship": "alternate_spelling"
+        },
+        {
+          "name": "California Animal",
+          "relationship": "chapter"
         }
       ]
     },
@@ -10060,6 +10124,10 @@
         {
           "name": "Appraisal Institute of California",
           "relationship": "chapter"
+        },
+        {
+          "name": "California Appraisal Institute",
+          "relationship": "chapter"
         }
       ]
     },
@@ -10494,6 +10562,10 @@
         {
           "name": "THE AREA AGENCIES ON AGING",
           "relationship": "alternate_spelling"
+        },
+        {
+          "name": "California Area Agencies on Aging",
+          "relationship": "chapter"
         }
       ]
     },
@@ -10907,7 +10979,7 @@
           "relationship": "alternate_spelling"
         },
         {
-          "name": "ASIAN AMERICANS ADVANCING JUSTICEâ€”CALIFORNIA",
+          "name": "ASIAN AMERICANS ADVANCING JUSTICE\u00e2\u20ac\u201dCALIFORNIA",
           "relationship": "alternate_spelling"
         },
         {
@@ -11510,6 +11582,10 @@
         {
           "name": "Assn. of California",
           "relationship": "chapter"
+        },
+        {
+          "name": "California Assn. of",
+          "relationship": "chapter"
         }
       ]
     },
@@ -11549,6 +11625,10 @@
       "children": [
         {
           "name": "Assoc. of California",
+          "relationship": "chapter"
+        },
+        {
+          "name": "California Assoc. of",
           "relationship": "chapter"
         }
       ]
@@ -11813,6 +11893,10 @@
         },
         {
           "name": "Associated General Contractors California",
+          "relationship": "chapter"
+        },
+        {
+          "name": "California Associated General Contractors",
           "relationship": "chapter"
         }
       ]
@@ -12439,6 +12523,10 @@
         {
           "name": "Association of American Physicians and Surgeons, Inc",
           "relationship": "alternate_spelling"
+        },
+        {
+          "name": "California Association of American Physicians and Surgeons",
+          "relationship": "chapter"
         }
       ]
     },
@@ -12477,6 +12565,10 @@
         {
           "name": "ASSOCIATION OF AMERICAN UNIVERSITY WOMEN (AAUW)",
           "relationship": "alternate_spelling"
+        },
+        {
+          "name": "California Association of American University Women",
+          "relationship": "chapter"
         }
       ]
     },
@@ -12520,6 +12612,10 @@
       "children": [
         {
           "name": "Association of Builders and Contractors of California",
+          "relationship": "chapter"
+        },
+        {
+          "name": "California Association of Builders and Contractors",
           "relationship": "chapter"
         }
       ]
@@ -13022,6 +13118,10 @@
         {
           "name": "Association of Certified Family Law Specialists of California",
           "relationship": "chapter"
+        },
+        {
+          "name": "California Association of Certified Family Law Specialists",
+          "relationship": "chapter"
         }
       ]
     },
@@ -13114,6 +13214,10 @@
         {
           "name": "Association of Community Organizations for Reform Now, California",
           "relationship": "chapter"
+        },
+        {
+          "name": "California Association of Community Organizations for Reform Now",
+          "relationship": "chapter"
         }
       ]
     },
@@ -13194,7 +13298,12 @@
     {
       "canonical": "ASSOCIATION OF ENVIRONMENTAL PROFESSIONALS",
       "status": "active",
-      "children": []
+      "children": [
+        {
+          "name": "California Association of Environmental Professionals",
+          "relationship": "chapter"
+        }
+      ]
     },
     {
       "canonical": "ASSOCIATION OF FAMILY & CONCILIATION COURTS",
@@ -13277,6 +13386,10 @@
         {
           "name": "Association of General Contractors of California",
           "relationship": "chapter"
+        },
+        {
+          "name": "California Association of General Contractors",
+          "relationship": "chapter"
         }
       ]
     },
@@ -13320,6 +13433,10 @@
       "children": [
         {
           "name": "Association of Independent California",
+          "relationship": "chapter"
+        },
+        {
+          "name": "California Association of Independent",
           "relationship": "chapter"
         }
       ]
@@ -13665,6 +13782,10 @@
         {
           "name": "Association of Regional Center Agencies California",
           "relationship": "chapter"
+        },
+        {
+          "name": "California Association of Regional Center Agencies",
+          "relationship": "chapter"
         }
       ]
     },
@@ -13845,6 +13966,10 @@
         {
           "name": "Association of University Women of California",
           "relationship": "chapter"
+        },
+        {
+          "name": "California Association of University Women",
+          "relationship": "chapter"
         }
       ]
     },
@@ -14007,6 +14132,10 @@
         {
           "name": "THE ATTORNEY",
           "relationship": "alternate_spelling"
+        },
+        {
+          "name": "California Attorney",
+          "relationship": "chapter"
         }
       ]
     },
@@ -14039,12 +14168,22 @@
     {
       "canonical": "ATTORNEY GENERAL KAMALA HARRIS",
       "status": "active",
-      "children": []
+      "children": [
+        {
+          "name": "California Attorney General Kamala Harris",
+          "relationship": "chapter"
+        }
+      ]
     },
     {
       "canonical": "ATTORNEY GENERAL ROB BONTA",
       "status": "active",
-      "children": []
+      "children": [
+        {
+          "name": "California Attorney General Rob Bonta",
+          "relationship": "chapter"
+        }
+      ]
     },
     {
       "canonical": "ATTORNEY GENERAL'S",
@@ -14154,6 +14293,10 @@
         {
           "name": "Audubon, California",
           "relationship": "chapter"
+        },
+        {
+          "name": "California Audubon",
+          "relationship": "chapter"
         }
       ]
     },
@@ -14196,6 +14339,10 @@
         },
         {
           "name": "Audubon Society, California",
+          "relationship": "chapter"
+        },
+        {
+          "name": "California Audubon Society",
           "relationship": "chapter"
         }
       ]
@@ -14268,7 +14415,12 @@
     {
       "canonical": "AUTHORITY",
       "status": "active",
-      "children": []
+      "children": [
+        {
+          "name": "California Authority",
+          "relationship": "chapter"
+        }
+      ]
     },
     {
       "canonical": "AUTHORS GUILD",
@@ -14507,6 +14659,10 @@
         {
           "name": "AUTOMOTIVE REPAIR COALITION (ARC)",
           "relationship": "alternate_spelling"
+        },
+        {
+          "name": "California Automotive Repair Coalition",
+          "relationship": "chapter"
         }
       ]
     },
@@ -14808,6 +14964,10 @@
         {
           "name": "Aware, Inc",
           "relationship": "alternate_spelling"
+        },
+        {
+          "name": "California Aware",
+          "relationship": "chapter"
         }
       ]
     },
@@ -15201,6 +15361,10 @@
       "children": [
         {
           "name": "Bar Association of California",
+          "relationship": "chapter"
+        },
+        {
+          "name": "California Bar Association",
           "relationship": "chapter"
         }
       ]
@@ -15664,7 +15828,12 @@
     {
       "canonical": "BAY AREA LEGAL AID",
       "status": "active",
-      "children": []
+      "children": [
+        {
+          "name": "California Bay Area Legal Aid",
+          "relationship": "chapter"
+        }
+      ]
     },
     {
       "canonical": "BAY AREA OPEN CARRY MOVEMENT",
@@ -15822,6 +15991,10 @@
         {
           "name": "THE BAY PLANNING COALITION",
           "relationship": "alternate_spelling"
+        },
+        {
+          "name": "California Bay Planning Coalition",
+          "relationship": "chapter"
         }
       ]
     },
@@ -16047,6 +16220,10 @@
         {
           "name": "Behavioral Health Services, INC",
           "relationship": "alternate_spelling"
+        },
+        {
+          "name": "California Behavioral Health Services",
+          "relationship": "chapter"
         }
       ]
     },
@@ -17611,6 +17788,10 @@
         {
           "name": "BlueGreen Alliance California",
           "relationship": "chapter"
+        },
+        {
+          "name": "California BlueGreen Alliance",
+          "relationship": "chapter"
         }
       ]
     },
@@ -17620,6 +17801,10 @@
       "children": [
         {
           "name": "Board of California",
+          "relationship": "chapter"
+        },
+        {
+          "name": "California Board",
           "relationship": "chapter"
         }
       ]
@@ -17645,6 +17830,10 @@
         {
           "name": "THE BOARD FOR PROFESSIONAL ENGINEERS, LAND SURVEYORS, AND GEOLOGISTS",
           "relationship": "alternate_spelling"
+        },
+        {
+          "name": "California Board for Professional Engineers, Land Surveyors, and Geologists",
+          "relationship": "chapter"
         }
       ]
     },
@@ -17655,6 +17844,10 @@
         {
           "name": "THE BOARD OF ARCHITECTURAL EXAMINERS",
           "relationship": "alternate_spelling"
+        },
+        {
+          "name": "California Board of Architectural Examiners",
+          "relationship": "chapter"
         }
       ]
     },
@@ -17665,6 +17858,10 @@
         {
           "name": "THE BOARD OF BARBERING AND COSMETOLOGY",
           "relationship": "alternate_spelling"
+        },
+        {
+          "name": "California Board of Barbering and Cosmetology",
+          "relationship": "chapter"
         }
       ]
     },
@@ -17693,6 +17890,10 @@
         {
           "name": "BBS",
           "relationship": "alternate_spelling"
+        },
+        {
+          "name": "California Board of Behavioral Sciences",
+          "relationship": "chapter"
         }
       ]
     },
@@ -17721,6 +17922,10 @@
         {
           "name": "BOARD OF CHIROPRACTIC EXAMINERS (BCE)",
           "relationship": "alternate_spelling"
+        },
+        {
+          "name": "California Board of Chiropractic Examiners",
+          "relationship": "chapter"
         }
       ]
     },
@@ -17736,6 +17941,10 @@
         {
           "name": "THE BOARD OF EQUALIZATION",
           "relationship": "alternate_spelling"
+        },
+        {
+          "name": "California Board of Equalization",
+          "relationship": "chapter"
         }
       ]
     },
@@ -17811,6 +18020,10 @@
         {
           "name": "BOARD OF REGISTERED NURSING (BRN)",
           "relationship": "alternate_spelling"
+        },
+        {
+          "name": "California Board of Registered Nursing",
+          "relationship": "chapter"
         }
       ]
     },
@@ -17911,6 +18124,10 @@
         {
           "name": "THE BOARD OF VOCATIONAL NURSING AND PSYCHIATRIC TECHNICIANS",
           "relationship": "alternate_spelling"
+        },
+        {
+          "name": "California Board of Vocational Nursing and Psychiatric Technicians",
+          "relationship": "chapter"
         }
       ]
     },
@@ -18355,6 +18572,10 @@
         {
           "name": "Brady Campaign of California",
           "relationship": "chapter"
+        },
+        {
+          "name": "California Brady Campaign",
+          "relationship": "chapter"
         }
       ]
     },
@@ -18368,6 +18589,10 @@
         },
         {
           "name": "Brady Campaign to Prevent Gun Violence California",
+          "relationship": "chapter"
+        },
+        {
+          "name": "California Brady Campaign to Prevent Gun Violence",
           "relationship": "chapter"
         }
       ]
@@ -18388,6 +18613,10 @@
       "children": [
         {
           "name": "Brady United Against Gun Violence California",
+          "relationship": "chapter"
+        },
+        {
+          "name": "California Brady United Against Gun Violence",
           "relationship": "chapter"
         }
       ]
@@ -18433,6 +18662,10 @@
       "children": [
         {
           "name": "Brain Injury Association of California",
+          "relationship": "chapter"
+        },
+        {
+          "name": "California Brain Injury Association",
           "relationship": "chapter"
         }
       ]
@@ -19073,6 +19306,10 @@
         {
           "name": "THE BUILDERS EXCHANGES",
           "relationship": "alternate_spelling"
+        },
+        {
+          "name": "California Builders Exchanges",
+          "relationship": "chapter"
         }
       ]
     },
@@ -19218,6 +19455,10 @@
         },
         {
           "name": "Building Industry Association of Southern California Inc",
+          "relationship": "alternate_spelling"
+        },
+        {
+          "name": "California Building Industry Association of Southern California",
           "relationship": "alternate_spelling"
         }
       ]
@@ -19397,6 +19638,10 @@
         {
           "name": "Building Owners and Managers Association, California",
           "relationship": "chapter"
+        },
+        {
+          "name": "California Building Owners and Managers Association",
+          "relationship": "chapter"
         }
       ]
     },
@@ -19428,6 +19673,10 @@
         },
         {
           "name": "BOMA of California",
+          "relationship": "chapter"
+        },
+        {
+          "name": "California BOMA",
           "relationship": "chapter"
         }
       ]
@@ -19584,6 +19833,10 @@
         {
           "name": "BSA",
           "relationship": "alternate_spelling"
+        },
+        {
+          "name": "California Bureau of State Audits",
+          "relationship": "chapter"
         }
       ]
     },
@@ -19674,6 +19927,10 @@
         },
         {
           "name": "Business California",
+          "relationship": "chapter"
+        },
+        {
+          "name": "California Business",
           "relationship": "chapter"
         }
       ]
@@ -20756,6 +21013,10 @@
         },
         {
           "name": "California & Nevada Civil Engineers and Land Surveyors Association, Inc",
+          "relationship": "alternate_spelling"
+        },
+        {
+          "name": "California California & Nevada Civil Engineers and Land Surveyors Association",
           "relationship": "alternate_spelling"
         }
       ]
@@ -27230,6 +27491,10 @@
         {
           "name": "CALIFORNIA DEFENSE COUNSEL (CDC)",
           "relationship": "alternate_spelling"
+        },
+        {
+          "name": "California California Defense Counsel",
+          "relationship": "alternate_spelling"
         }
       ]
     },
@@ -33600,6 +33865,10 @@
         {
           "name": "California Society of Plastic Surgeons Inc",
           "relationship": "alternate_spelling"
+        },
+        {
+          "name": "California California Society of Plastic Surgeons",
+          "relationship": "alternate_spelling"
         }
       ]
     },
@@ -36220,6 +36489,10 @@
         {
           "name": "THE CAMPAIGN FOR CALIFORNIA FAMILIES",
           "relationship": "alternate_spelling"
+        },
+        {
+          "name": "California Campaign for California Families",
+          "relationship": "alternate_spelling"
         }
       ]
     },
@@ -36905,6 +37178,10 @@
         {
           "name": "CASA California",
           "relationship": "chapter"
+        },
+        {
+          "name": "California CASA",
+          "relationship": "chapter"
         }
       ]
     },
@@ -37532,6 +37809,10 @@
         {
           "name": "Center of California",
           "relationship": "chapter"
+        },
+        {
+          "name": "California Center",
+          "relationship": "chapter"
         }
       ]
     },
@@ -37825,6 +38106,10 @@
         {
           "name": "Center for Employment Opportunities, Inc",
           "relationship": "alternate_spelling"
+        },
+        {
+          "name": "California Center for Employment Opportunities",
+          "relationship": "chapter"
         }
       ]
     },
@@ -37849,6 +38134,10 @@
         {
           "name": "CENTER FOR ENERGY AND ECONOMIC DEVELOPMENT (CEED)",
           "relationship": "alternate_spelling"
+        },
+        {
+          "name": "California Center for Energy and Economic Development",
+          "relationship": "chapter"
         }
       ]
     },
@@ -38965,6 +39254,10 @@
         {
           "name": "Central Valley of California",
           "relationship": "chapter"
+        },
+        {
+          "name": "California Central Valley",
+          "relationship": "chapter"
         }
       ]
     },
@@ -39335,6 +39628,10 @@
         {
           "name": "Cerebral Palsy Association of California",
           "relationship": "chapter"
+        },
+        {
+          "name": "California Cerebral Palsy Association",
+          "relationship": "chapter"
         }
       ]
     },
@@ -39667,6 +39964,10 @@
         {
           "name": "Charities of California",
           "relationship": "chapter"
+        },
+        {
+          "name": "California Charities of California",
+          "relationship": "alternate_spelling"
         }
       ]
     },
@@ -39838,6 +40139,10 @@
         {
           "name": "Chemical Industry of California",
           "relationship": "chapter"
+        },
+        {
+          "name": "California Chemical Industry",
+          "relationship": "chapter"
         }
       ]
     },
@@ -39876,6 +40181,10 @@
         {
           "name": "Chemical Transfer Company, Inc",
           "relationship": "alternate_spelling"
+        },
+        {
+          "name": "California Chemical Transfer Company, Inc",
+          "relationship": "chapter"
         }
       ]
     },
@@ -40046,6 +40355,10 @@
         {
           "name": "Chief Probation Officers Association of California",
           "relationship": "chapter"
+        },
+        {
+          "name": "California Chief Probation Officers Association",
+          "relationship": "chapter"
         }
       ]
     },
@@ -40065,6 +40378,10 @@
       "children": [
         {
           "name": "CHIEF PROBATION OFFICERS OF CALIFORNIA (CPOC)",
+          "relationship": "alternate_spelling"
+        },
+        {
+          "name": "California Chief Probation Officers of California",
           "relationship": "alternate_spelling"
         }
       ]
@@ -40354,6 +40671,10 @@
         {
           "name": "THE CHILD CARE RESOURCE & REFERRAL NETWORK",
           "relationship": "alternate_spelling"
+        },
+        {
+          "name": "California Child Care Resource & Referral Network",
+          "relationship": "chapter"
         }
       ]
     },
@@ -40446,6 +40767,10 @@
         {
           "name": "Children, Inc",
           "relationship": "alternate_spelling"
+        },
+        {
+          "name": "California Children",
+          "relationship": "chapter"
         }
       ]
     },
@@ -40476,6 +40801,10 @@
         {
           "name": "THE CHILDREN'S",
           "relationship": "alternate_spelling"
+        },
+        {
+          "name": "California Children's",
+          "relationship": "chapter"
         }
       ]
     },
@@ -40507,6 +40836,10 @@
         },
         {
           "name": "Children's Advocacy Institute of California",
+          "relationship": "chapter"
+        },
+        {
+          "name": "California Children's Advocacy Institute",
           "relationship": "chapter"
         }
       ]
@@ -40782,6 +41115,10 @@
         {
           "name": "THE CHILDREN'S LOBBY",
           "relationship": "alternate_spelling"
+        },
+        {
+          "name": "California Children's Lobby",
+          "relationship": "chapter"
         }
       ]
     },
@@ -41216,6 +41553,10 @@
         {
           "name": "THE CHURCH",
           "relationship": "alternate_spelling"
+        },
+        {
+          "name": "California Church",
+          "relationship": "chapter"
         }
       ]
     },
@@ -41433,6 +41774,10 @@
         {
           "name": "Citizens, Inc",
           "relationship": "alternate_spelling"
+        },
+        {
+          "name": "California Citizens",
+          "relationship": "chapter"
         }
       ]
     },
@@ -41444,7 +41789,12 @@
     {
       "canonical": "CITIZENS AGAINST LAWSUIT ABUSE",
       "status": "active",
-      "children": []
+      "children": [
+        {
+          "name": "California Citizens Against Lawsuit Abuse",
+          "relationship": "chapter"
+        }
+      ]
     },
     {
       "canonical": "CITIZENS AGAINST REGULATORY EXCESSES",
@@ -41512,6 +41862,10 @@
         {
           "name": "Citizens for Health, Inc",
           "relationship": "alternate_spelling"
+        },
+        {
+          "name": "California Citizens for Health",
+          "relationship": "chapter"
         }
       ]
     },
@@ -41585,6 +41939,10 @@
       "children": [
         {
           "name": "City of California",
+          "relationship": "chapter"
+        },
+        {
+          "name": "California City",
           "relationship": "chapter"
         }
       ]
@@ -42900,7 +43258,7 @@
       "status": "active",
       "children": [
         {
-          "name": "LA CAÃ‘ADA FLINTRIDGE",
+          "name": "LA CA\u00c3\u2018ADA FLINTRIDGE",
           "relationship": "alternate_spelling"
         }
       ]
@@ -44549,6 +44907,10 @@
         {
           "name": "Civil Liberties Union of California",
           "relationship": "chapter"
+        },
+        {
+          "name": "California Civil Liberties Union",
+          "relationship": "chapter"
         }
       ]
     },
@@ -44712,6 +45074,10 @@
         {
           "name": "Clean Power California",
           "relationship": "chapter"
+        },
+        {
+          "name": "California Clean Power",
+          "relationship": "chapter"
         }
       ]
     },
@@ -44726,6 +45092,10 @@
         {
           "name": "CLEAN POWER CAMPAIGN (CPC)",
           "relationship": "alternate_spelling"
+        },
+        {
+          "name": "California Clean Power Campaign",
+          "relationship": "chapter"
         }
       ]
     },
@@ -44902,6 +45272,10 @@
         },
         {
           "name": "Climate Action CA",
+          "relationship": "chapter"
+        },
+        {
+          "name": "California Climate Action",
           "relationship": "chapter"
         }
       ]
@@ -45311,7 +45685,7 @@
       "status": "active",
       "children": [
         {
-          "name": "CLÃNICA MONSEÃ‘OR OSCAR A. ROMERO",
+          "name": "CL\u00c3\u008dNICA MONSE\u00c3\u2018OR OSCAR A. ROMERO",
           "relationship": "alternate_spelling"
         }
       ]
@@ -45650,6 +46024,10 @@
         {
           "name": "Coalition of California",
           "relationship": "chapter"
+        },
+        {
+          "name": "California Coalition",
+          "relationship": "chapter"
         }
       ]
     },
@@ -45759,6 +46137,10 @@
         {
           "name": "THE COALITION FOR CLEAN AIR",
           "relationship": "alternate_spelling"
+        },
+        {
+          "name": "California Coalition for Clean Air",
+          "relationship": "chapter"
         }
       ]
     },
@@ -46143,6 +46525,10 @@
         {
           "name": "Coalition of California Welfare Rights Organizations Inc",
           "relationship": "alternate_spelling"
+        },
+        {
+          "name": "California Coalition of California Welfare Rights Organizations",
+          "relationship": "alternate_spelling"
         }
       ]
     },
@@ -46262,7 +46648,7 @@
       ]
     },
     {
-      "canonical": "COALITION OF MOBILEHOME OWNERSâ€”CALIFORNIA",
+      "canonical": "COALITION OF MOBILEHOME OWNERS\u00e2\u20ac\u201dCALIFORNIA",
       "status": "active",
       "children": []
     },
@@ -46504,6 +46890,10 @@
         {
           "name": "THE COALITION TO FIGHT HARDCORE DRUNK DRIVING",
           "relationship": "alternate_spelling"
+        },
+        {
+          "name": "California Coalition to Fight Hardcore Drunk Driving",
+          "relationship": "chapter"
         }
       ]
     },
@@ -46827,6 +47217,10 @@
         {
           "name": "THE COLLEGE",
           "relationship": "alternate_spelling"
+        },
+        {
+          "name": "California College",
+          "relationship": "chapter"
         }
       ]
     },
@@ -46851,6 +47245,10 @@
       "children": [
         {
           "name": "College League of California",
+          "relationship": "chapter"
+        },
+        {
+          "name": "California College League",
           "relationship": "chapter"
         }
       ]
@@ -47051,25 +47449,25 @@
       ]
     },
     {
-      "canonical": "Comité Civico Del Valle",
+      "canonical": "Comit\u00e9 Civico Del Valle",
       "status": "active",
       "children": [
         {
-          "name": "Comité Civico del Valle, Inc",
+          "name": "Comit\u00e9 Civico del Valle, Inc",
           "relationship": "alternate_spelling"
         },
         {
-          "name": "Comité Civico Del Valle, Inc",
+          "name": "Comit\u00e9 Civico Del Valle, Inc",
           "relationship": "alternate_spelling"
         }
       ]
     },
     {
-      "canonical": "Comité Cívico Del Valle",
+      "canonical": "Comit\u00e9 C\u00edvico Del Valle",
       "status": "active",
       "children": [
         {
-          "name": "Comité Cívico del Valle, Inc",
+          "name": "Comit\u00e9 C\u00edvico del Valle, Inc",
           "relationship": "alternate_spelling"
         }
       ]
@@ -47081,6 +47479,10 @@
         {
           "name": "THE COMMERCE CASINO",
           "relationship": "alternate_spelling"
+        },
+        {
+          "name": "California Commerce Casino",
+          "relationship": "chapter"
         }
       ]
     },
@@ -47300,6 +47702,10 @@
         {
           "name": "CLEAN",
           "relationship": "alternate_spelling"
+        },
+        {
+          "name": "California Clean",
+          "relationship": "chapter"
         }
       ]
     },
@@ -47419,6 +47825,10 @@
         {
           "name": "Common Cause of California",
           "relationship": "chapter"
+        },
+        {
+          "name": "California Common Cause",
+          "relationship": "chapter"
         }
       ]
     },
@@ -47493,6 +47903,10 @@
         {
           "name": "Communications, Inc",
           "relationship": "alternate_spelling"
+        },
+        {
+          "name": "California Communications",
+          "relationship": "chapter"
         }
       ]
     },
@@ -47533,6 +47947,10 @@
         {
           "name": "Communities, Inc",
           "relationship": "alternate_spelling"
+        },
+        {
+          "name": "California Communities",
+          "relationship": "chapter"
         }
       ]
     },
@@ -47650,6 +48068,10 @@
         {
           "name": "Community, Inc",
           "relationship": "alternate_spelling"
+        },
+        {
+          "name": "California Community",
+          "relationship": "chapter"
         }
       ]
     },
@@ -48056,6 +48478,10 @@
         {
           "name": "THE COMMUNITY COLLEGE FOUNDATION",
           "relationship": "alternate_spelling"
+        },
+        {
+          "name": "California Community College Foundation",
+          "relationship": "chapter"
         }
       ]
     },
@@ -49249,6 +49675,10 @@
         {
           "name": "Concerned Women for America, California",
           "relationship": "chapter"
+        },
+        {
+          "name": "California Concerned Women for America",
+          "relationship": "chapter"
         }
       ]
     },
@@ -49289,6 +49719,10 @@
         {
           "name": "Concerns of Police Survivors, Inc",
           "relationship": "alternate_spelling"
+        },
+        {
+          "name": "California Concerns of Police Survivors",
+          "relationship": "chapter"
         }
       ]
     },
@@ -49334,6 +49768,10 @@
         {
           "name": "Concrete, Inc",
           "relationship": "alternate_spelling"
+        },
+        {
+          "name": "California Concrete",
+          "relationship": "chapter"
         }
       ]
     },
@@ -49405,6 +49843,10 @@
         },
         {
           "name": "Conference of California",
+          "relationship": "chapter"
+        },
+        {
+          "name": "California Conference",
           "relationship": "chapter"
         }
       ]
@@ -49543,6 +49985,10 @@
         {
           "name": "Congress of CA",
           "relationship": "chapter"
+        },
+        {
+          "name": "California Congress",
+          "relationship": "chapter"
         }
       ]
     },
@@ -49575,6 +50021,10 @@
         },
         {
           "name": "Congress of California Seniors, Inc",
+          "relationship": "alternate_spelling"
+        },
+        {
+          "name": "California Congress of California Seniors",
           "relationship": "alternate_spelling"
         }
       ]
@@ -49748,6 +50198,10 @@
         {
           "name": "Construction,Inc",
           "relationship": "alternate_spelling"
+        },
+        {
+          "name": "California Construction",
+          "relationship": "chapter"
         }
       ]
     },
@@ -49961,6 +50415,10 @@
         {
           "name": "Consulting Engineers and Land Surveyors of CA",
           "relationship": "chapter"
+        },
+        {
+          "name": "California Consulting Engineers and Land Surveyors",
+          "relationship": "chapter"
         }
       ]
     },
@@ -50051,6 +50509,10 @@
         },
         {
           "name": "Consumer Attorneys, California",
+          "relationship": "chapter"
+        },
+        {
+          "name": "California Consumer Attorneys",
           "relationship": "chapter"
         }
       ]
@@ -50573,6 +51035,10 @@
         {
           "name": "Contractors Association of California",
           "relationship": "chapter"
+        },
+        {
+          "name": "California Contractors Association",
+          "relationship": "chapter"
         }
       ]
     },
@@ -50604,6 +51070,10 @@
         },
         {
           "name": "Contractors State License Board, California",
+          "relationship": "chapter"
+        },
+        {
+          "name": "California Contractors State License Board",
           "relationship": "chapter"
         }
       ]
@@ -50664,6 +51134,10 @@
       "children": [
         {
           "name": "Controller of California",
+          "relationship": "chapter"
+        },
+        {
+          "name": "California Controller",
           "relationship": "chapter"
         }
       ]
@@ -51096,6 +51570,10 @@
         {
           "name": "Council of CA",
           "relationship": "chapter"
+        },
+        {
+          "name": "California Council",
+          "relationship": "chapter"
         }
       ]
     },
@@ -51335,6 +51813,10 @@
         {
           "name": "Council of Engineering Companies of California",
           "relationship": "chapter"
+        },
+        {
+          "name": "California Council of Engineering Companies of California",
+          "relationship": "alternate_spelling"
         }
       ]
     },
@@ -51503,7 +51985,7 @@
       ]
     },
     {
-      "canonical": "COUNCIL PRESIDENT GEORGETTE GÃ“MEZ, CITY OF SAN DIEGO",
+      "canonical": "COUNCIL PRESIDENT GEORGETTE G\u00c3\u201cMEZ, CITY OF SAN DIEGO",
       "status": "active",
       "children": []
     },
@@ -51677,6 +52159,10 @@
         },
         {
           "name": "County of California",
+          "relationship": "chapter"
+        },
+        {
+          "name": "California County",
           "relationship": "chapter"
         }
       ]
@@ -51867,6 +52353,10 @@
         {
           "name": "County Clerks Association of CA",
           "relationship": "chapter"
+        },
+        {
+          "name": "California County Clerks Association",
+          "relationship": "chapter"
         }
       ]
     },
@@ -51930,6 +52420,10 @@
         },
         {
           "name": "COUNTY HEALTH EXECUTIVES ASSOCIATION OF CALIFORNIA (CHEAC)",
+          "relationship": "alternate_spelling"
+        },
+        {
+          "name": "California County Health Executives Association of California",
           "relationship": "alternate_spelling"
         }
       ]
@@ -52587,6 +53081,10 @@
         {
           "name": "THE COUNTY SUPERINTENDENTS OF SCHOOLS",
           "relationship": "alternate_spelling"
+        },
+        {
+          "name": "California County Superintendents of Schools",
+          "relationship": "chapter"
         }
       ]
     },
@@ -52607,6 +53105,10 @@
         {
           "name": "County Veterans Service Officers, Inc",
           "relationship": "alternate_spelling"
+        },
+        {
+          "name": "California County Veterans Service Officers",
+          "relationship": "chapter"
         }
       ]
     },
@@ -52651,6 +53153,10 @@
         {
           "name": "County Welfare Director's Association of California",
           "relationship": "chapter"
+        },
+        {
+          "name": "California County Welfare Director's Association",
+          "relationship": "chapter"
         }
       ]
     },
@@ -52692,6 +53198,10 @@
         },
         {
           "name": "County Welfare Directors Association of CA",
+          "relationship": "chapter"
+        },
+        {
+          "name": "California County Welfare Directors Association",
           "relationship": "chapter"
         }
       ]
@@ -52758,6 +53268,10 @@
         {
           "name": "Courage Campaign, California",
           "relationship": "chapter"
+        },
+        {
+          "name": "California Courage Campaign",
+          "relationship": "chapter"
         }
       ]
     },
@@ -52768,6 +53282,10 @@
         {
           "name": "COURT APPOINTED SPECIAL ADVOCATES (CASA)",
           "relationship": "alternate_spelling"
+        },
+        {
+          "name": "California Court Appointed Special Advocates",
+          "relationship": "chapter"
         }
       ]
     },
@@ -52778,6 +53296,10 @@
         {
           "name": "COURT REPORTERS BOARD (CRB)",
           "relationship": "alternate_spelling"
+        },
+        {
+          "name": "California Court Reporters Board",
+          "relationship": "chapter"
         }
       ]
     },
@@ -53135,6 +53657,10 @@
         {
           "name": "Crime Victims of California",
           "relationship": "chapter"
+        },
+        {
+          "name": "California Crime Victims",
+          "relationship": "chapter"
         }
       ]
     },
@@ -53174,6 +53700,10 @@
       "children": [
         {
           "name": "Crime Victims United California",
+          "relationship": "chapter"
+        },
+        {
+          "name": "California Crime Victims United",
           "relationship": "chapter"
         }
       ]
@@ -53896,6 +54426,10 @@
         {
           "name": "Dairy Institute of CA",
           "relationship": "chapter"
+        },
+        {
+          "name": "California Dairy Institute",
+          "relationship": "chapter"
         }
       ]
     },
@@ -54408,7 +54942,12 @@
     {
       "canonical": "DEFENDERS OF WILDLIFE",
       "status": "active",
-      "children": []
+      "children": [
+        {
+          "name": "California Defenders of Wildlife",
+          "relationship": "chapter"
+        }
+      ]
     },
     {
       "canonical": "Defense Fund",
@@ -54836,6 +55375,10 @@
         {
           "name": "Department of CA",
           "relationship": "chapter"
+        },
+        {
+          "name": "California Department",
+          "relationship": "chapter"
         }
       ]
     },
@@ -54846,6 +55389,10 @@
         {
           "name": "THE DEPARTMENT OF BOATING AND WATERWAYS",
           "relationship": "alternate_spelling"
+        },
+        {
+          "name": "California Department of Boating and Waterways",
+          "relationship": "chapter"
         }
       ]
     },
@@ -54884,6 +55431,10 @@
         {
           "name": "Department of Conservation, California",
           "relationship": "chapter"
+        },
+        {
+          "name": "California Department of Conservation",
+          "relationship": "chapter"
         }
       ]
     },
@@ -54902,6 +55453,10 @@
         {
           "name": "DCA",
           "relationship": "alternate_spelling"
+        },
+        {
+          "name": "California Department of Consumer Affairs",
+          "relationship": "chapter"
         }
       ]
     },
@@ -54912,6 +55467,10 @@
         {
           "name": "THE DEPARTMENT OF CORPORATIONS",
           "relationship": "alternate_spelling"
+        },
+        {
+          "name": "California Department of Corporations",
+          "relationship": "chapter"
         }
       ]
     },
@@ -54960,6 +55519,10 @@
         {
           "name": "DDS",
           "relationship": "alternate_spelling"
+        },
+        {
+          "name": "California Department of Developmental Services",
+          "relationship": "chapter"
         }
       ]
     },
@@ -55004,6 +55567,10 @@
         {
           "name": "THE DEPARTMENT OF FISH AND GAME",
           "relationship": "alternate_spelling"
+        },
+        {
+          "name": "California Department of Fish and Game",
+          "relationship": "chapter"
         }
       ]
     },
@@ -55022,6 +55589,10 @@
         {
           "name": "DGS",
           "relationship": "alternate_spelling"
+        },
+        {
+          "name": "California Department of General Services",
+          "relationship": "chapter"
         }
       ]
     },
@@ -55046,6 +55617,10 @@
         {
           "name": "DHCS",
           "relationship": "alternate_spelling"
+        },
+        {
+          "name": "California Department of Health Care Services",
+          "relationship": "chapter"
         }
       ]
     },
@@ -55064,6 +55639,10 @@
         {
           "name": "DHS",
           "relationship": "alternate_spelling"
+        },
+        {
+          "name": "California Department of Health Services",
+          "relationship": "chapter"
         }
       ]
     },
@@ -55107,6 +55686,10 @@
         {
           "name": "DIR",
           "relationship": "alternate_spelling"
+        },
+        {
+          "name": "California Department of Industrial Relations",
+          "relationship": "chapter"
         }
       ]
     },
@@ -55141,6 +55724,10 @@
         {
           "name": "DMHC",
           "relationship": "alternate_spelling"
+        },
+        {
+          "name": "California Department of Managed Health Care",
+          "relationship": "chapter"
         }
       ]
     },
@@ -55159,6 +55746,10 @@
         {
           "name": "DMV",
           "relationship": "alternate_spelling"
+        },
+        {
+          "name": "California Department of Motor Vehicles",
+          "relationship": "chapter"
         }
       ]
     },
@@ -55173,6 +55764,10 @@
         {
           "name": "Department of Parks and Recreation, California",
           "relationship": "chapter"
+        },
+        {
+          "name": "California Department of Parks and Recreation",
+          "relationship": "chapter"
         }
       ]
     },
@@ -55183,6 +55778,10 @@
         {
           "name": "DEPARTMENT OF PERSONNEL ADMINISTRATION (DPA)",
           "relationship": "alternate_spelling"
+        },
+        {
+          "name": "California Department of Personnel Administration",
+          "relationship": "chapter"
         }
       ]
     },
@@ -55207,6 +55806,10 @@
         {
           "name": "DEPARTMENT OF PESTICIDE REGULATION (DPR)",
           "relationship": "alternate_spelling"
+        },
+        {
+          "name": "California Department of Pesticide Regulation",
+          "relationship": "chapter"
         }
       ]
     },
@@ -55241,6 +55844,10 @@
         {
           "name": "THE DEPARTMENT OF REAL ESTATE",
           "relationship": "alternate_spelling"
+        },
+        {
+          "name": "California Department of Real Estate",
+          "relationship": "chapter"
         }
       ]
     },
@@ -55299,6 +55906,10 @@
         {
           "name": "DEPARTMENT OF TOXIC SUBSTANCES CONTROL (DTSC)",
           "relationship": "alternate_spelling"
+        },
+        {
+          "name": "California Department of Toxic Substances Control",
+          "relationship": "chapter"
         }
       ]
     },
@@ -55327,6 +55938,10 @@
         {
           "name": "DWR",
           "relationship": "alternate_spelling"
+        },
+        {
+          "name": "California Department of Water Resources",
+          "relationship": "chapter"
         }
       ]
     },
@@ -55372,6 +55987,10 @@
         {
           "name": "DEPOSITION REPORTERS ASSOCIATION (DRA)",
           "relationship": "alternate_spelling"
+        },
+        {
+          "name": "California Deposition Reporters Association",
+          "relationship": "chapter"
         }
       ]
     },
@@ -55448,6 +56067,10 @@
       "children": [
         {
           "name": "Deputy Sheriffs' Association of California",
+          "relationship": "chapter"
+        },
+        {
+          "name": "California Deputy Sheriffs' Association",
           "relationship": "chapter"
         }
       ]
@@ -55630,6 +56253,10 @@
         {
           "name": "THE DEVELOPMENTAL DISABILITIES AREA BOARD 10",
           "relationship": "alternate_spelling"
+        },
+        {
+          "name": "California Developmental Disabilities Area Board 10",
+          "relationship": "chapter"
         }
       ]
     },
@@ -56015,6 +56642,10 @@
         {
           "name": "Disability Rights, California",
           "relationship": "chapter"
+        },
+        {
+          "name": "California Disability Rights, Inc",
+          "relationship": "chapter"
         }
       ]
     },
@@ -56186,6 +56817,10 @@
         {
           "name": "Distributors, Inc",
           "relationship": "alternate_spelling"
+        },
+        {
+          "name": "California Distributors",
+          "relationship": "chapter"
         }
       ]
     },
@@ -56244,6 +56879,10 @@
       "children": [
         {
           "name": "District Council of Iron Workers of California",
+          "relationship": "chapter"
+        },
+        {
+          "name": "California District Council of Iron Workers",
           "relationship": "chapter"
         }
       ]
@@ -57009,6 +57648,10 @@
         {
           "name": "DRUG POLICY ALLIANCE NETWORK (DPAN)",
           "relationship": "alternate_spelling"
+        },
+        {
+          "name": "California Drug Policy Alliance Network",
+          "relationship": "chapter"
         }
       ]
     },
@@ -58616,7 +59259,7 @@
       "children": []
     },
     {
-      "canonical": "EL COMITÃ‰ DE VECINOS DEL LADO OESTE, EPA",
+      "canonical": "EL COMIT\u00c3\u2030 DE VECINOS DEL LADO OESTE, EPA",
       "status": "active",
       "children": []
     },
@@ -58799,6 +59442,10 @@
         {
           "name": "Election Integrity Project of California",
           "relationship": "chapter"
+        },
+        {
+          "name": "California Election Integrity Project, Inc",
+          "relationship": "chapter"
         }
       ]
     },
@@ -58832,6 +59479,10 @@
         {
           "name": "Electric Inc",
           "relationship": "alternate_spelling"
+        },
+        {
+          "name": "California Electric",
+          "relationship": "chapter"
         }
       ]
     },
@@ -59287,6 +59938,10 @@
         {
           "name": "THE EMERGENCY",
           "relationship": "alternate_spelling"
+        },
+        {
+          "name": "California Emergency",
+          "relationship": "chapter"
         }
       ]
     },
@@ -59410,6 +60065,10 @@
       "children": [
         {
           "name": "Emergency Nurses Association of California",
+          "relationship": "chapter"
+        },
+        {
+          "name": "California Emergency Nurses Association",
           "relationship": "chapter"
         }
       ]
@@ -59568,6 +60227,10 @@
         {
           "name": "EDD",
           "relationship": "alternate_spelling"
+        },
+        {
+          "name": "California Employment Development Department",
+          "relationship": "chapter"
         }
       ]
     },
@@ -59861,7 +60524,12 @@
     {
       "canonical": "ENERGY EFFICIENCY COUNCIL",
       "status": "active",
-      "children": []
+      "children": [
+        {
+          "name": "California Energy Efficiency Council",
+          "relationship": "chapter"
+        }
+      ]
     },
     {
       "canonical": "ENERGY EFFICIENCY, INC.",
@@ -60110,6 +60778,10 @@
         },
         {
           "name": "ENGINEERS AND SCIENTISTS OF CALIFORNIA (ESC)",
+          "relationship": "alternate_spelling"
+        },
+        {
+          "name": "California Engineers and Scientists of California",
           "relationship": "alternate_spelling"
         }
       ]
@@ -60397,6 +61069,10 @@
         {
           "name": "Environment CA",
           "relationship": "chapter"
+        },
+        {
+          "name": "California Environment",
+          "relationship": "chapter"
         }
       ]
     },
@@ -60415,6 +61091,10 @@
         },
         {
           "name": "Environmental California",
+          "relationship": "chapter"
+        },
+        {
+          "name": "California Environmental",
           "relationship": "chapter"
         }
       ]
@@ -60909,6 +61589,10 @@
         {
           "name": "EQUAL RIGHTS ADVOCATES (ERA)",
           "relationship": "alternate_spelling"
+        },
+        {
+          "name": "California Equal Rights Advocates",
+          "relationship": "chapter"
         }
       ]
     },
@@ -61126,6 +61810,10 @@
         {
           "name": "Escrow Institute of California",
           "relationship": "chapter"
+        },
+        {
+          "name": "California Escrow Institute",
+          "relationship": "chapter"
         }
       ]
     },
@@ -61179,6 +61867,10 @@
       "children": [
         {
           "name": "Essential Caregivers Coalition California",
+          "relationship": "chapter"
+        },
+        {
+          "name": "California Essential Caregivers Coalition",
           "relationship": "chapter"
         }
       ]
@@ -61822,6 +62514,10 @@
         {
           "name": "Faculty Association of California Community Colleges, Inc.",
           "relationship": "alternate_spelling"
+        },
+        {
+          "name": "California Faculty Association of California Community Colleges",
+          "relationship": "alternate_spelling"
         }
       ]
     },
@@ -62011,6 +62707,10 @@
         {
           "name": "FAIR POLITICAL PRACTICES COMMISSION (FPPC)",
           "relationship": "alternate_spelling"
+        },
+        {
+          "name": "California Fair Political Practices Commission",
+          "relationship": "chapter"
         }
       ]
     },
@@ -62026,6 +62726,10 @@
         {
           "name": "THE FAIR SHARE NETWORK",
           "relationship": "alternate_spelling"
+        },
+        {
+          "name": "California Fair Share Network",
+          "relationship": "chapter"
         }
       ]
     },
@@ -62633,6 +63337,10 @@
         {
           "name": "FAMILY WINEMAKERS OF CALIFORNIA (FWC)",
           "relationship": "alternate_spelling"
+        },
+        {
+          "name": "California Family Winemakers of California",
+          "relationship": "alternate_spelling"
         }
       ]
     },
@@ -62910,6 +63618,10 @@
         {
           "name": "Federal Bank of California",
           "relationship": "chapter"
+        },
+        {
+          "name": "California Federal Bank",
+          "relationship": "chapter"
         }
       ]
     },
@@ -62938,6 +63650,10 @@
         },
         {
           "name": "Federation of CA",
+          "relationship": "chapter"
+        },
+        {
+          "name": "California Federation",
           "relationship": "chapter"
         }
       ]
@@ -63124,7 +63840,7 @@
       ]
     },
     {
-      "canonical": "FERNANDEÃ‘O TATAVIAM BAND OF MISSION INDIANS",
+      "canonical": "FERNANDE\u00c3\u2018O TATAVIAM BAND OF MISSION INDIANS",
       "status": "active",
       "children": []
     },
@@ -63500,6 +64216,10 @@
         {
           "name": "Financial Services, Inc",
           "relationship": "alternate_spelling"
+        },
+        {
+          "name": "California Financial Services",
+          "relationship": "chapter"
         }
       ]
     },
@@ -63549,6 +64269,10 @@
       "children": [
         {
           "name": "FIRE DISTRICT ASSOCIATION OF CALIFORNIA (FDAC)",
+          "relationship": "alternate_spelling"
+        },
+        {
+          "name": "California Fire District Association of California",
           "relationship": "alternate_spelling"
         }
       ]
@@ -63712,6 +64436,10 @@
         {
           "name": "THE FIRST AMENDMENT",
           "relationship": "alternate_spelling"
+        },
+        {
+          "name": "California First Amendment",
+          "relationship": "chapter"
         }
       ]
     },
@@ -63726,6 +64454,10 @@
         {
           "name": "FIRST AMENDMENT COALITION (FAC)",
           "relationship": "alternate_spelling"
+        },
+        {
+          "name": "California First Amendment Coalition",
+          "relationship": "chapter"
         }
       ]
     },
@@ -64611,6 +65343,10 @@
         {
           "name": "for California",
           "relationship": "chapter"
+        },
+        {
+          "name": "California for",
+          "relationship": "chapter"
         }
       ]
     },
@@ -64882,6 +65618,10 @@
         {
           "name": "Foundation of California",
           "relationship": "chapter"
+        },
+        {
+          "name": "California Foundation",
+          "relationship": "chapter"
         }
       ]
     },
@@ -64892,6 +65632,10 @@
         {
           "name": "THE FOUNDATION FOR",
           "relationship": "alternate_spelling"
+        },
+        {
+          "name": "California Foundation for",
+          "relationship": "chapter"
         }
       ]
     },
@@ -65192,6 +65936,10 @@
         {
           "name": "FTB",
           "relationship": "alternate_spelling"
+        },
+        {
+          "name": "California Franchise Tax Board",
+          "relationship": "chapter"
         }
       ]
     },
@@ -66316,6 +67064,10 @@
         {
           "name": "THE GAS COMPANY",
           "relationship": "alternate_spelling"
+        },
+        {
+          "name": "California Gas Company",
+          "relationship": "chapter"
         }
       ]
     },
@@ -66825,6 +67577,10 @@
         {
           "name": "THE GERIATRIC CIRCLE",
           "relationship": "alternate_spelling"
+        },
+        {
+          "name": "California Geriatric Circle",
+          "relationship": "chapter"
         }
       ]
     },
@@ -67106,6 +67862,10 @@
         {
           "name": "Glass, Inc",
           "relationship": "alternate_spelling"
+        },
+        {
+          "name": "California Glass",
+          "relationship": "chapter"
         }
       ]
     },
@@ -68426,6 +69186,10 @@
         {
           "name": "Gray Panthers of CA",
           "relationship": "chapter"
+        },
+        {
+          "name": "California Gray Panthers",
+          "relationship": "chapter"
         }
       ]
     },
@@ -69391,6 +70155,10 @@
         {
           "name": "Group, Inc",
           "relationship": "alternate_spelling"
+        },
+        {
+          "name": "California Group",
+          "relationship": "chapter"
         }
       ]
     },
@@ -69686,6 +70454,10 @@
       "children": [
         {
           "name": "Gun Owners of CA",
+          "relationship": "chapter"
+        },
+        {
+          "name": "California Gun Owners",
           "relationship": "chapter"
         }
       ]
@@ -70630,6 +71402,10 @@
         {
           "name": "Head Start California",
           "relationship": "chapter"
+        },
+        {
+          "name": "California Head Start",
+          "relationship": "chapter"
         }
       ]
     },
@@ -70655,6 +71431,10 @@
         {
           "name": "Health, Inc",
           "relationship": "alternate_spelling"
+        },
+        {
+          "name": "California Health",
+          "relationship": "chapter"
         }
       ]
     },
@@ -70694,6 +71474,10 @@
         },
         {
           "name": "Health Access CA",
+          "relationship": "chapter"
+        },
+        {
+          "name": "California Health Access",
           "relationship": "chapter"
         }
       ]
@@ -70930,6 +71714,10 @@
         {
           "name": "Health Officers Association of CA",
           "relationship": "chapter"
+        },
+        {
+          "name": "California Health Officers Association",
+          "relationship": "chapter"
         }
       ]
     },
@@ -71047,6 +71835,10 @@
         {
           "name": "HEALTHY CHILDREN ORGANIZING PROJECT (HCOP)",
           "relationship": "alternate_spelling"
+        },
+        {
+          "name": "California Healthy Children Organizing Project",
+          "relationship": "chapter"
         }
       ]
     },
@@ -71823,11 +72615,11 @@
       ]
     },
     {
-      "canonical": "HISPAÑAS ORGANIZED FOR POLITICAL EQUALITY",
+      "canonical": "HISPA\u00d1AS ORGANIZED FOR POLITICAL EQUALITY",
       "status": "active",
       "children": [
         {
-          "name": "HISPAÑAS ORGANIZED FOR POLITICAL EQUALITY (HOPE)",
+          "name": "HISPA\u00d1AS ORGANIZED FOR POLITICAL EQUALITY (HOPE)",
           "relationship": "alternate_spelling"
         }
       ]
@@ -72375,7 +73167,7 @@
       ]
     },
     {
-      "canonical": "HOMELESS LIVES MATTER â€” BERKELEY",
+      "canonical": "HOMELESS LIVES MATTER \u00e2\u20ac\u201d BERKELEY",
       "status": "active",
       "children": []
     },
@@ -73038,6 +73830,10 @@
         {
           "name": "Housing CA",
           "relationship": "chapter"
+        },
+        {
+          "name": "California Housing",
+          "relationship": "chapter"
         }
       ]
     },
@@ -73512,6 +74308,10 @@
         {
           "name": "THE HUMAN",
           "relationship": "alternate_spelling"
+        },
+        {
+          "name": "California Human",
+          "relationship": "chapter"
         }
       ]
     },
@@ -74677,6 +75477,10 @@
         {
           "name": "Independent California",
           "relationship": "chapter"
+        },
+        {
+          "name": "California Independent",
+          "relationship": "chapter"
         }
       ]
     },
@@ -74875,6 +75679,10 @@
         {
           "name": "IEP",
           "relationship": "alternate_spelling"
+        },
+        {
+          "name": "California Independent Energy Producers",
+          "relationship": "chapter"
         }
       ]
     },
@@ -75228,6 +76036,10 @@
         {
           "name": "INDUSTRIAL AREAS FOUNDATION (IAF)",
           "relationship": "alternate_spelling"
+        },
+        {
+          "name": "California Industrial Areas Foundation",
+          "relationship": "chapter"
         }
       ]
     },
@@ -75302,6 +76114,10 @@
         {
           "name": "Industry Council of California, California",
           "relationship": "chapter"
+        },
+        {
+          "name": "California Industry Council of California",
+          "relationship": "alternate_spelling"
         }
       ]
     },
@@ -76192,6 +77008,10 @@
         {
           "name": "Institute of Real Estate Management of California",
           "relationship": "chapter"
+        },
+        {
+          "name": "California Institute of Real Estate Management",
+          "relationship": "chapter"
         }
       ]
     },
@@ -76298,6 +77118,10 @@
         {
           "name": "THE INSURANCE COMMISSIONER RICARDO LARA",
           "relationship": "alternate_spelling"
+        },
+        {
+          "name": "California Insurance Commissioner Ricardo Lara",
+          "relationship": "chapter"
         }
       ]
     },
@@ -78413,6 +79237,10 @@
         {
           "name": "Judges of California",
           "relationship": "chapter"
+        },
+        {
+          "name": "California Judges",
+          "relationship": "chapter"
         }
       ]
     },
@@ -78477,6 +79305,10 @@
         {
           "name": "Judicial Counsel of California",
           "relationship": "chapter"
+        },
+        {
+          "name": "California Judicial Counsel",
+          "relationship": "chapter"
         }
       ]
     },
@@ -78512,6 +79344,10 @@
         {
           "name": "THE JUNIOR LEAGUE",
           "relationship": "alternate_spelling"
+        },
+        {
+          "name": "California Junior League",
+          "relationship": "chapter"
         }
       ]
     },
@@ -78688,6 +79524,10 @@
         },
         {
           "name": "Junior Leagues of CA",
+          "relationship": "chapter"
+        },
+        {
+          "name": "California Junior Leagues",
           "relationship": "chapter"
         }
       ]
@@ -80412,15 +81252,15 @@
       ]
     },
     {
-      "canonical": "La Clínica De La Raza",
+      "canonical": "La Cl\u00ednica De La Raza",
       "status": "active",
       "children": [
         {
-          "name": "La Clínica de la Raza, Inc",
+          "name": "La Cl\u00ednica de la Raza, Inc",
           "relationship": "alternate_spelling"
         },
         {
-          "name": "La Clínica de La Raza, Inc",
+          "name": "La Cl\u00ednica de La Raza, Inc",
           "relationship": "alternate_spelling"
         }
       ]
@@ -80521,7 +81361,7 @@
       ]
     },
     {
-      "canonical": "LA JOLLA BAND OF LUISEÅƒO INDIANS",
+      "canonical": "LA JOLLA BAND OF LUISE\u00c5\u0192O INDIANS",
       "status": "active",
       "children": []
     },
@@ -80555,7 +81395,7 @@
       "children": []
     },
     {
-      "canonical": "LA MÃS",
+      "canonical": "LA M\u00c3\u0081S",
       "status": "active",
       "children": []
     },
@@ -80639,12 +81479,12 @@
       "children": []
     },
     {
-      "canonical": "LA-MÃS",
+      "canonical": "LA-M\u00c3\u0081S",
       "status": "active",
       "children": []
     },
     {
-      "canonical": "LA-Mð‘ŽÌS",
+      "canonical": "LA-M\u00f0\u009d\u2018\u017d\u00cc\u0081S",
       "status": "active",
       "children": []
     },
@@ -81750,6 +82590,10 @@
         {
           "name": "THE LAW",
           "relationship": "alternate_spelling"
+        },
+        {
+          "name": "California Law",
+          "relationship": "chapter"
         }
       ]
     },
@@ -82073,6 +82917,10 @@
         {
           "name": "League of CA",
           "relationship": "chapter"
+        },
+        {
+          "name": "California League",
+          "relationship": "chapter"
         }
       ]
     },
@@ -82083,6 +82931,10 @@
         {
           "name": "THE LEAGUE OF",
           "relationship": "alternate_spelling"
+        },
+        {
+          "name": "California League of",
+          "relationship": "chapter"
         }
       ]
     },
@@ -82128,6 +82980,14 @@
         {
           "name": "League of California Cities, California",
           "relationship": "chapter"
+        },
+        {
+          "name": "California League of Cities",
+          "relationship": "chapter"
+        },
+        {
+          "name": "California League of California Cities",
+          "relationship": "alternate_spelling"
         }
       ]
     },
@@ -82271,6 +83131,10 @@
         {
           "name": "Lulac California",
           "relationship": "chapter"
+        },
+        {
+          "name": "California Lulac",
+          "relationship": "chapter"
         }
       ]
     },
@@ -82322,6 +83186,10 @@
         },
         {
           "name": "League of Women Voters, California",
+          "relationship": "chapter"
+        },
+        {
+          "name": "California League of Women Voters",
           "relationship": "chapter"
         }
       ]
@@ -82783,6 +83651,10 @@
         {
           "name": "Legal Assistance Foundation, Inc",
           "relationship": "alternate_spelling"
+        },
+        {
+          "name": "California Legal Assistance Foundation",
+          "relationship": "chapter"
         }
       ]
     },
@@ -82870,6 +83742,10 @@
         },
         {
           "name": "Legal Services of California",
+          "relationship": "chapter"
+        },
+        {
+          "name": "California Legal Services, Inc",
           "relationship": "chapter"
         }
       ]
@@ -83022,6 +83898,10 @@
         {
           "name": "Legislative Council, Inc",
           "relationship": "alternate_spelling"
+        },
+        {
+          "name": "California Legislative Council",
+          "relationship": "chapter"
         }
       ]
     },
@@ -83230,6 +84110,10 @@
       "children": [
         {
           "name": "Libertarian Party of California",
+          "relationship": "chapter"
+        },
+        {
+          "name": "California Libertarian Party",
           "relationship": "chapter"
         }
       ]
@@ -83740,6 +84624,10 @@
         {
           "name": "THE LITTLE HOOVER COMMISSION",
           "relationship": "alternate_spelling"
+        },
+        {
+          "name": "California Little Hoover Commission",
+          "relationship": "chapter"
         }
       ]
     },
@@ -83955,6 +84843,10 @@
         {
           "name": "Lobby, Inc",
           "relationship": "alternate_spelling"
+        },
+        {
+          "name": "California Lobby",
+          "relationship": "chapter"
         }
       ]
     },
@@ -84122,6 +85014,10 @@
       "children": [
         {
           "name": "Log Cabin Republicans of California",
+          "relationship": "chapter"
+        },
+        {
+          "name": "California Log Cabin Republicans",
           "relationship": "chapter"
         }
       ]
@@ -86067,7 +86963,12 @@
     {
       "canonical": "LUNG ASSOCIATION",
       "status": "active",
-      "children": []
+      "children": [
+        {
+          "name": "California Lung Association",
+          "relationship": "chapter"
+        }
+      ]
     },
     {
       "canonical": "Lung Cancer Alliance",
@@ -87159,6 +88060,10 @@
         {
           "name": "MARINE CORPS LEAGUE (MCL)",
           "relationship": "alternate_spelling"
+        },
+        {
+          "name": "California Marine Corps League",
+          "relationship": "chapter"
         }
       ]
     },
@@ -87505,6 +88410,10 @@
         {
           "name": "Materials Association of California",
           "relationship": "chapter"
+        },
+        {
+          "name": "California Materials Association of California",
+          "relationship": "alternate_spelling"
         }
       ]
     },
@@ -87709,11 +88618,11 @@
       "status": "active",
       "children": [
         {
-          "name": "MAYOR JESSE ARREGUÃN",
+          "name": "MAYOR JESSE ARREGU\u00c3\u008dN",
           "relationship": "alternate_spelling"
         },
         {
-          "name": "MAYOR JESSE ARREGUÃN, CITY OF BERKELEY",
+          "name": "MAYOR JESSE ARREGU\u00c3\u008dN, CITY OF BERKELEY",
           "relationship": "alternate_spelling"
         }
       ]
@@ -87917,7 +88826,7 @@
       "children": []
     },
     {
-      "canonical": "MAÌS",
+      "canonical": "MA\u00cc\u0081S",
       "status": "active",
       "children": []
     },
@@ -88056,6 +88965,10 @@
         {
           "name": "McDonald's, Inc",
           "relationship": "alternate_spelling"
+        },
+        {
+          "name": "California McDonald's",
+          "relationship": "chapter"
         }
       ]
     },
@@ -88185,6 +89098,10 @@
         {
           "name": "Mechanical, Inc",
           "relationship": "alternate_spelling"
+        },
+        {
+          "name": "California Mechanical",
+          "relationship": "chapter"
         }
       ]
     },
@@ -88378,6 +89295,10 @@
         },
         {
           "name": "Medical Board of CA",
+          "relationship": "chapter"
+        },
+        {
+          "name": "California Medical Board",
           "relationship": "chapter"
         }
       ]
@@ -88711,6 +89632,10 @@
         },
         {
           "name": "Mental Health Association of CA",
+          "relationship": "chapter"
+        },
+        {
+          "name": "California Mental Health Association",
           "relationship": "chapter"
         }
       ]
@@ -89194,6 +90119,10 @@
         {
           "name": "THE MEXICAN",
           "relationship": "alternate_spelling"
+        },
+        {
+          "name": "California Mexican",
+          "relationship": "chapter"
         }
       ]
     },
@@ -89570,6 +90499,10 @@
         {
           "name": "MILITARY OFFICERS ASSOCIATION OF AMERICA (MOAA)",
           "relationship": "alternate_spelling"
+        },
+        {
+          "name": "California Military Officers Association of America",
+          "relationship": "chapter"
         }
       ]
     },
@@ -89678,6 +90611,10 @@
         {
           "name": "MPC",
           "relationship": "alternate_spelling"
+        },
+        {
+          "name": "California Milk Producers Council",
+          "relationship": "chapter"
         }
       ]
     },
@@ -89728,6 +90665,10 @@
         {
           "name": "THE MILLION MOM MARCH",
           "relationship": "alternate_spelling"
+        },
+        {
+          "name": "California Million Mom March",
+          "relationship": "chapter"
         }
       ]
     },
@@ -90127,6 +91068,10 @@
         {
           "name": "MOBILEHOME PARKS ALLIANCE (MPA)",
           "relationship": "alternate_spelling"
+        },
+        {
+          "name": "California Mobilehome Parks Alliance",
+          "relationship": "chapter"
         }
       ]
     },
@@ -90843,6 +91788,10 @@
         {
           "name": "Mosquito and Vector Control Association of CA",
           "relationship": "chapter"
+        },
+        {
+          "name": "California Mosquito and Vector Control Association",
+          "relationship": "chapter"
         }
       ]
     },
@@ -91037,6 +91986,10 @@
         },
         {
           "name": "Motion Picture Association of California",
+          "relationship": "chapter"
+        },
+        {
+          "name": "California Motion Picture Association",
           "relationship": "chapter"
         }
       ]
@@ -91368,6 +92321,10 @@
         {
           "name": "THE MULE DEER FOUNDATION",
           "relationship": "alternate_spelling"
+        },
+        {
+          "name": "California Mule Deer Foundation",
+          "relationship": "chapter"
         }
       ]
     },
@@ -92089,6 +93046,10 @@
         {
           "name": "THE NATIONAL",
           "relationship": "alternate_spelling"
+        },
+        {
+          "name": "California National",
+          "relationship": "chapter"
         }
       ]
     },
@@ -92429,6 +93390,10 @@
         },
         {
           "name": "NAACP California",
+          "relationship": "chapter"
+        },
+        {
+          "name": "California National Association for the Advancement of Colored People",
           "relationship": "chapter"
         }
       ]
@@ -92863,6 +93828,10 @@
         {
           "name": "National Association of Social Workers California",
           "relationship": "chapter"
+        },
+        {
+          "name": "California National Association of Social Workers",
+          "relationship": "chapter"
         }
       ]
     },
@@ -92875,7 +93844,7 @@
           "relationship": "alternate_spelling"
         },
         {
-          "name": "NATIONAL ASSOCIATION OF SOCIAL WORKERS â€” CALIFORNIA CHAPTER NATIONAL COALITION FOR THE HOMELESS",
+          "name": "NATIONAL ASSOCIATION OF SOCIAL WORKERS \u00e2\u20ac\u201d CALIFORNIA CHAPTER NATIONAL COALITION FOR THE HOMELESS",
           "relationship": "alternate_spelling"
         },
         {
@@ -93563,6 +94532,10 @@
         {
           "name": "National Council of Jewish Women of California",
           "relationship": "chapter"
+        },
+        {
+          "name": "California National Council of Jewish Women",
+          "relationship": "chapter"
         }
       ]
     },
@@ -93742,6 +94715,10 @@
         },
         {
           "name": "National Electrical Contractors Association, California",
+          "relationship": "chapter"
+        },
+        {
+          "name": "California National Electrical Contractors Association",
           "relationship": "chapter"
         }
       ]
@@ -94131,6 +95108,10 @@
         },
         {
           "name": "National Guard Association of CA",
+          "relationship": "chapter"
+        },
+        {
+          "name": "California National Guard Association",
           "relationship": "chapter"
         }
       ]
@@ -94560,6 +95541,10 @@
       "children": [
         {
           "name": "National Organization for the Reform of Marijuana Laws, California",
+          "relationship": "chapter"
+        },
+        {
+          "name": "California National Organization for the Reform of Marijuana Laws",
           "relationship": "chapter"
         }
       ]
@@ -95052,6 +96037,10 @@
         {
           "name": "THE NATIVE AMERICAN HERITAGE COMMISSION",
           "relationship": "alternate_spelling"
+        },
+        {
+          "name": "California Native American Heritage Commission",
+          "relationship": "chapter"
         }
       ]
     },
@@ -95272,6 +96261,10 @@
         {
           "name": "THE NATUROPATHIC MEDICINE COMMITTEE",
           "relationship": "alternate_spelling"
+        },
+        {
+          "name": "California Naturopathic Medicine Committee",
+          "relationship": "chapter"
         }
       ]
     },
@@ -98012,6 +99005,10 @@
         {
           "name": "THE OCEAN SCIENCE TRUST",
           "relationship": "alternate_spelling"
+        },
+        {
+          "name": "California Ocean Science Trust",
+          "relationship": "chapter"
         }
       ]
     },
@@ -98423,6 +99420,10 @@
         {
           "name": "OSHPD",
           "relationship": "alternate_spelling"
+        },
+        {
+          "name": "California Office of Statewide Health Planning and Development",
+          "relationship": "chapter"
         }
       ]
     },
@@ -98446,6 +99447,10 @@
         },
         {
           "name": "Office of the Attorney General of California",
+          "relationship": "chapter"
+        },
+        {
+          "name": "California Office of the Attorney General",
           "relationship": "chapter"
         }
       ]
@@ -98537,6 +99542,10 @@
         {
           "name": "THE OFFICE OF THE STATE LONG-TERM CARE OMBUDSMAN",
           "relationship": "alternate_spelling"
+        },
+        {
+          "name": "California Office of the State Long-Term Care Ombudsman",
+          "relationship": "chapter"
         }
       ]
     },
@@ -98808,6 +99817,10 @@
       "children": [
         {
           "name": "Olive Growers Council of California",
+          "relationship": "chapter"
+        },
+        {
+          "name": "California Olive Growers Council",
           "relationship": "chapter"
         }
       ]
@@ -99729,6 +100742,10 @@
         },
         {
           "name": "Organization of California",
+          "relationship": "chapter"
+        },
+        {
+          "name": "California Organization",
           "relationship": "chapter"
         }
       ]
@@ -101431,6 +102448,14 @@
         {
           "name": "PTA",
           "relationship": "alternate_spelling"
+        },
+        {
+          "name": "California PTA",
+          "relationship": "chapter"
+        },
+        {
+          "name": "California Parent Teachers Association",
+          "relationship": "chapter"
         }
       ]
     },
@@ -101658,6 +102683,10 @@
         {
           "name": "THE PARTNERSHIP FOR CHILDREN",
           "relationship": "alternate_spelling"
+        },
+        {
+          "name": "California Partnership for Children",
+          "relationship": "chapter"
         }
       ]
     },
@@ -101704,7 +102733,12 @@
     {
       "canonical": "PARTNERSHIP FOR WORKING FAMILIES",
       "status": "active",
-      "children": []
+      "children": [
+        {
+          "name": "California Partnership for Working Families",
+          "relationship": "chapter"
+        }
+      ]
     },
     {
       "canonical": "Partnership Health Plan",
@@ -103073,6 +104107,14 @@
         {
           "name": "PAN",
           "relationship": "alternate_spelling"
+        },
+        {
+          "name": "California Pesticide Action Network",
+          "relationship": "chapter"
+        },
+        {
+          "name": "California Pan",
+          "relationship": "chapter"
         }
       ]
     },
@@ -103290,15 +104332,15 @@
       ]
     },
     {
-      "canonical": "Peña's Disposal",
+      "canonical": "Pe\u00f1a's Disposal",
       "status": "active",
       "children": [
         {
-          "name": "Peña's Disposal, Inc",
+          "name": "Pe\u00f1a's Disposal, Inc",
           "relationship": "alternate_spelling"
         },
         {
-          "name": "Peña's Disposal Inc",
+          "name": "Pe\u00f1a's Disposal Inc",
           "relationship": "alternate_spelling"
         }
       ]
@@ -103405,6 +104447,10 @@
       "children": [
         {
           "name": "Pharmacy Board of California",
+          "relationship": "chapter"
+        },
+        {
+          "name": "California Pharmacy Board",
           "relationship": "chapter"
         }
       ]
@@ -103972,6 +105018,10 @@
         {
           "name": "Planned Parenthood of CA",
           "relationship": "chapter"
+        },
+        {
+          "name": "California Planned Parenthood",
+          "relationship": "chapter"
         }
       ]
     },
@@ -104094,6 +105144,10 @@
         {
           "name": "PLANNING AND CONSERVATION LEAGUE (PCL)",
           "relationship": "alternate_spelling"
+        },
+        {
+          "name": "California Planning and Conservation League",
+          "relationship": "chapter"
         }
       ]
     },
@@ -104129,6 +105183,10 @@
         {
           "name": "Planning Council Inc",
           "relationship": "alternate_spelling"
+        },
+        {
+          "name": "California Planning Council",
+          "relationship": "chapter"
         }
       ]
     },
@@ -104145,7 +105203,12 @@
     {
       "canonical": "PLANT",
       "status": "active",
-      "children": []
+      "children": [
+        {
+          "name": "California Plant",
+          "relationship": "chapter"
+        }
+      ]
     },
     {
       "canonical": "PLANTING AND CONSERVATION LEAGUE",
@@ -104549,6 +105612,10 @@
         {
           "name": "Police Chiefs of California",
           "relationship": "chapter"
+        },
+        {
+          "name": "California Police Chiefs",
+          "relationship": "chapter"
         }
       ]
     },
@@ -104569,6 +105636,10 @@
         {
           "name": "Police Officer's Association, Inc",
           "relationship": "alternate_spelling"
+        },
+        {
+          "name": "California Police Officer's Association",
+          "relationship": "chapter"
         }
       ]
     },
@@ -104587,6 +105658,10 @@
         {
           "name": "Police Officers Association of California",
           "relationship": "chapter"
+        },
+        {
+          "name": "California Police Officers Association",
+          "relationship": "chapter"
         }
       ]
     },
@@ -104596,6 +105671,10 @@
       "children": [
         {
           "name": "Police Officers Research Association of CA",
+          "relationship": "chapter"
+        },
+        {
+          "name": "California Police Officers Research Association",
           "relationship": "chapter"
         }
       ]
@@ -105122,6 +106201,10 @@
         {
           "name": "Preschool California",
           "relationship": "chapter"
+        },
+        {
+          "name": "California Preschool",
+          "relationship": "chapter"
         }
       ]
     },
@@ -105421,6 +106504,10 @@
         {
           "name": "PEACH",
           "relationship": "alternate_spelling"
+        },
+        {
+          "name": "California Peach",
+          "relationship": "chapter"
         }
       ]
     },
@@ -106078,6 +107165,10 @@
         {
           "name": "Project California",
           "relationship": "chapter"
+        },
+        {
+          "name": "California Project",
+          "relationship": "chapter"
         }
       ]
     },
@@ -106531,11 +107622,11 @@
       "children": []
     },
     {
-      "canonical": "Protégé Commercial Builders",
+      "canonical": "Prot\u00e9g\u00e9 Commercial Builders",
       "status": "active",
       "children": [
         {
-          "name": "Protégé Commercial Builders, Inc",
+          "name": "Prot\u00e9g\u00e9 Commercial Builders, Inc",
           "relationship": "alternate_spelling"
         }
       ]
@@ -106660,6 +107751,10 @@
         {
           "name": "Public Advocates INC",
           "relationship": "alternate_spelling"
+        },
+        {
+          "name": "California Public Advocates",
+          "relationship": "chapter"
         }
       ]
     },
@@ -106805,6 +107900,10 @@
         {
           "name": "Public Employees Legislative Council, Inc",
           "relationship": "alternate_spelling"
+        },
+        {
+          "name": "California Public Employees Legislative Council",
+          "relationship": "chapter"
         }
       ]
     },
@@ -106815,6 +107914,10 @@
         {
           "name": "PUBLIC EMPLOYEES RETIREMENT SYSTEM (PERS)",
           "relationship": "alternate_spelling"
+        },
+        {
+          "name": "California Public Employees Retirement System",
+          "relationship": "chapter"
         }
       ]
     },
@@ -106883,6 +107986,10 @@
         {
           "name": "THE PUBLIC INTEREST",
           "relationship": "alternate_spelling"
+        },
+        {
+          "name": "California Public Interest",
+          "relationship": "chapter"
         }
       ]
     },
@@ -107846,6 +108953,10 @@
         {
           "name": "Realtors, Inc",
           "relationship": "alternate_spelling"
+        },
+        {
+          "name": "California Realtors",
+          "relationship": "chapter"
         }
       ]
     },
@@ -107938,6 +109049,10 @@
       "children": [
         {
           "name": "Recorders Association of California",
+          "relationship": "chapter"
+        },
+        {
+          "name": "California Recorders Association",
           "relationship": "chapter"
         }
       ]
@@ -108467,6 +109582,10 @@
         {
           "name": "REGIONAL COUNCIL OF RURAL COUNTIES (RCRC)",
           "relationship": "alternate_spelling"
+        },
+        {
+          "name": "California Regional Council of Rural Counties",
+          "relationship": "chapter"
         }
       ]
     },
@@ -108691,6 +109810,10 @@
         },
         {
           "name": "Religious Coalition for Reproductive Choice of California",
+          "relationship": "chapter"
+        },
+        {
+          "name": "California Religious Coalition for Reproductive Choice",
           "relationship": "chapter"
         }
       ]
@@ -109254,6 +110377,10 @@
         {
           "name": "Resources, Inc",
           "relationship": "alternate_spelling"
+        },
+        {
+          "name": "California Resources",
+          "relationship": "chapter"
         }
       ]
     },
@@ -109264,6 +110391,10 @@
         {
           "name": "THE RESOURCES AGENCY",
           "relationship": "alternate_spelling"
+        },
+        {
+          "name": "California Resources Agency",
+          "relationship": "chapter"
         }
       ]
     },
@@ -109283,6 +110414,10 @@
         {
           "name": "Resources for Independent Living, Inc",
           "relationship": "alternate_spelling"
+        },
+        {
+          "name": "California Resources for Independent Living",
+          "relationship": "chapter"
         }
       ]
     },
@@ -109329,6 +110464,10 @@
         {
           "name": "RCB",
           "relationship": "alternate_spelling"
+        },
+        {
+          "name": "California Respiratory Care Board",
+          "relationship": "chapter"
         }
       ]
     },
@@ -109584,6 +110723,10 @@
         },
         {
           "name": "Retired Public Employees Association of California",
+          "relationship": "chapter"
+        },
+        {
+          "name": "California Retired Public Employees Association",
           "relationship": "chapter"
         }
       ]
@@ -109942,11 +111085,11 @@
       "children": []
     },
     {
-      "canonical": "RINCON BAND OF LUISEÑO INDIANS",
+      "canonical": "RINCON BAND OF LUISE\u00d1O INDIANS",
       "status": "active",
       "children": [
         {
-          "name": "THE RINCON BAND OF LUISEÑO INDIANS",
+          "name": "THE RINCON BAND OF LUISE\u00d1O INDIANS",
           "relationship": "alternate_spelling"
         }
       ]
@@ -113142,6 +114285,10 @@
         {
           "name": "THE SAN FRANCISCO AIDS FOUNDATION",
           "relationship": "alternate_spelling"
+        },
+        {
+          "name": "California San Francisco AIDS Foundation",
+          "relationship": "chapter"
         }
       ]
     },
@@ -115447,6 +116594,10 @@
         {
           "name": "THE SCHOOL TRANSPORTATION COALITION",
           "relationship": "alternate_spelling"
+        },
+        {
+          "name": "California School Transportation Coalition",
+          "relationship": "chapter"
         }
       ]
     },
@@ -115456,6 +116607,10 @@
       "children": [
         {
           "name": "Schools of California",
+          "relationship": "chapter"
+        },
+        {
+          "name": "California Schools",
           "relationship": "chapter"
         }
       ]
@@ -115623,6 +116778,10 @@
         {
           "name": "SAG",
           "relationship": "alternate_spelling"
+        },
+        {
+          "name": "California Screen Actors Guild",
+          "relationship": "chapter"
         }
       ]
     },
@@ -115800,7 +116959,7 @@
       ]
     },
     {
-      "canonical": "SEASIDE COUNCILMEMBER JON WIZARD SÃ EN MI BARRIO",
+      "canonical": "SEASIDE COUNCILMEMBER JON WIZARD S\u00c3\u008d EN MI BARRIO",
       "status": "active",
       "children": []
     },
@@ -115900,6 +117059,10 @@
         {
           "name": "THE SECRETARY OF STATE",
           "relationship": "alternate_spelling"
+        },
+        {
+          "name": "California Secretary of State",
+          "relationship": "chapter"
         }
       ]
     },
@@ -116068,6 +117231,10 @@
         {
           "name": "THE SEISMIC SAFETY COMMISSION",
           "relationship": "alternate_spelling"
+        },
+        {
+          "name": "California Seismic Safety Commission",
+          "relationship": "chapter"
         }
       ]
     },
@@ -116145,6 +117312,10 @@
         },
         {
           "name": "Selpa Administrators of CA",
+          "relationship": "chapter"
+        },
+        {
+          "name": "California SELPA Administrators",
           "relationship": "chapter"
         }
       ]
@@ -116231,6 +117402,10 @@
         {
           "name": "THE SENIOR",
           "relationship": "alternate_spelling"
+        },
+        {
+          "name": "California Senior",
+          "relationship": "chapter"
         }
       ]
     },
@@ -116353,6 +117528,10 @@
         {
           "name": "THE SENIORS COALITION",
           "relationship": "alternate_spelling"
+        },
+        {
+          "name": "California Seniors Coalition",
+          "relationship": "chapter"
         }
       ]
     },
@@ -116470,6 +117649,10 @@
         {
           "name": "Service Inc",
           "relationship": "alternate_spelling"
+        },
+        {
+          "name": "California Service",
+          "relationship": "chapter"
         }
       ]
     },
@@ -116590,6 +117773,14 @@
         {
           "name": "SEIU, California",
           "relationship": "chapter"
+        },
+        {
+          "name": "California Service Employees International Union",
+          "relationship": "chapter"
+        },
+        {
+          "name": "California SEIU",
+          "relationship": "chapter"
         }
       ]
     },
@@ -116677,6 +117868,10 @@
       "children": [
         {
           "name": "Service Employees Union of California",
+          "relationship": "chapter"
+        },
+        {
+          "name": "California Service Employees Union",
           "relationship": "chapter"
         }
       ]
@@ -117325,6 +118520,10 @@
         {
           "name": "Sheriffs, INC",
           "relationship": "alternate_spelling"
+        },
+        {
+          "name": "California Sheriffs",
+          "relationship": "chapter"
         }
       ]
     },
@@ -117660,6 +118859,10 @@
         },
         {
           "name": "Sierra Club of CA",
+          "relationship": "chapter"
+        },
+        {
+          "name": "California Sierra Club",
           "relationship": "chapter"
         }
       ]
@@ -118346,6 +119549,10 @@
         {
           "name": "Sisters of the Holy Names of Jesus and Mary California",
           "relationship": "chapter"
+        },
+        {
+          "name": "California Sisters of the Holy Names of Jesus and Mary",
+          "relationship": "chapter"
         }
       ]
     },
@@ -118522,6 +119729,10 @@
         {
           "name": "Small Business Alliance, Inc",
           "relationship": "alternate_spelling"
+        },
+        {
+          "name": "California Small Business Alliance",
+          "relationship": "chapter"
         }
       ]
     },
@@ -118556,6 +119767,10 @@
       "children": [
         {
           "name": "Small Business Majority, California",
+          "relationship": "chapter"
+        },
+        {
+          "name": "California Small Business Majority",
           "relationship": "chapter"
         }
       ]
@@ -118685,6 +119900,10 @@
         {
           "name": "SMALL SCHOOL DISTRICTS ASSOCIATION (SSDA)",
           "relationship": "alternate_spelling"
+        },
+        {
+          "name": "California Small School Districts Association",
+          "relationship": "chapter"
         }
       ]
     },
@@ -119015,6 +120234,10 @@
         {
           "name": "Society of California",
           "relationship": "chapter"
+        },
+        {
+          "name": "California Society",
+          "relationship": "chapter"
         }
       ]
     },
@@ -119067,6 +120290,10 @@
         },
         {
           "name": "Society for Human Resource Management California",
+          "relationship": "chapter"
+        },
+        {
+          "name": "California Society for Human Resource Management",
           "relationship": "chapter"
         }
       ]
@@ -119310,6 +120537,10 @@
         {
           "name": "THE SOLAR ALLIANCE",
           "relationship": "alternate_spelling"
+        },
+        {
+          "name": "California Solar Alliance",
+          "relationship": "chapter"
         }
       ]
     },
@@ -120066,7 +121297,12 @@
     {
       "canonical": "SOUTH BAY LABOR COUNCIL",
       "status": "active",
-      "children": []
+      "children": [
+        {
+          "name": "California South Bay Labor Council",
+          "relationship": "chapter"
+        }
+      ]
     },
     {
       "canonical": "SOUTH BAY LABOR COUNCIL (SAN JOSE)",
@@ -120386,6 +121622,10 @@
       "children": [
         {
           "name": "Southern CA",
+          "relationship": "chapter"
+        },
+        {
+          "name": "California Southern",
           "relationship": "chapter"
         }
       ]
@@ -121497,6 +122737,10 @@
         {
           "name": "THE SPEECH-LANGUAGE PATHOLOGY AND AUDIOLOGY AND HEARING AID DISPENSERS BOARD",
           "relationship": "alternate_spelling"
+        },
+        {
+          "name": "California Speech-Language Pathology and Audiology and Hearing Aid Dispensers Board",
+          "relationship": "chapter"
         }
       ]
     },
@@ -121507,6 +122751,10 @@
         {
           "name": "SPEECH-LANGUAGE PATHOLOGY AND AUDIOLOGY BOARD (SPAB)",
           "relationship": "alternate_spelling"
+        },
+        {
+          "name": "California Speech-Language Pathology and Audiology Board",
+          "relationship": "chapter"
         }
       ]
     },
@@ -121610,6 +122858,10 @@
         {
           "name": "THE SPORTFISHING ASSOCIATION OF CALIFORNIA",
           "relationship": "alternate_spelling"
+        },
+        {
+          "name": "California Sportfishing Association of California",
+          "relationship": "alternate_spelling"
         }
       ]
     },
@@ -121620,6 +122872,10 @@
         {
           "name": "THE SPORTFISHING CONSERVANCY",
           "relationship": "alternate_spelling"
+        },
+        {
+          "name": "California Sportfishing Conservancy",
+          "relationship": "chapter"
         }
       ]
     },
@@ -121972,7 +123228,7 @@
       ]
     },
     {
-      "canonical": "ST. JAMES INFIRMARY â€” SAN FRANCISCO",
+      "canonical": "ST. JAMES INFIRMARY \u00e2\u20ac\u201d SAN FRANCISCO",
       "status": "active",
       "children": []
     },
@@ -122042,7 +123298,7 @@
       "children": []
     },
     {
-      "canonical": "ST. MARY'S CENTER â€” OAKLAND",
+      "canonical": "ST. MARY'S CENTER \u00e2\u20ac\u201d OAKLAND",
       "status": "active",
       "children": []
     },
@@ -122223,6 +123479,10 @@
         {
           "name": "Star of California",
           "relationship": "chapter"
+        },
+        {
+          "name": "California Star",
+          "relationship": "chapter"
         }
       ]
     },
@@ -122374,6 +123634,10 @@
         {
           "name": "SACA",
           "relationship": "alternate_spelling"
+        },
+        {
+          "name": "California State Association of County Auditors",
+          "relationship": "chapter"
         }
       ]
     },
@@ -122422,6 +123686,10 @@
         {
           "name": "State Attorney General California",
           "relationship": "chapter"
+        },
+        {
+          "name": "California State Attorney General",
+          "relationship": "chapter"
         }
       ]
     },
@@ -122466,6 +123734,10 @@
         {
           "name": "THE STATE BAR BUSINESS LAW SECTION",
           "relationship": "alternate_spelling"
+        },
+        {
+          "name": "California State Bar Business Law Section",
+          "relationship": "chapter"
         }
       ]
     },
@@ -122489,6 +123761,10 @@
         },
         {
           "name": "State Bar Family Law Section, California",
+          "relationship": "chapter"
+        },
+        {
+          "name": "California State Bar Family Law Section",
           "relationship": "chapter"
         }
       ]
@@ -122550,6 +123826,10 @@
         {
           "name": "THE STATE BAR, BUSINESS LAW SECTION",
           "relationship": "alternate_spelling"
+        },
+        {
+          "name": "California State Bar, Business Law Section",
+          "relationship": "chapter"
         }
       ]
     },
@@ -122610,6 +123890,10 @@
         {
           "name": "THE STATE BAR, LEGAL SERVICES SECTION",
           "relationship": "alternate_spelling"
+        },
+        {
+          "name": "California State Bar, Legal Services Section",
+          "relationship": "chapter"
         }
       ]
     },
@@ -122630,6 +123914,10 @@
         {
           "name": "THE STATE BOARD OF EQUALIZATION",
           "relationship": "alternate_spelling"
+        },
+        {
+          "name": "California State Board of Equalization",
+          "relationship": "chapter"
         }
       ]
     },
@@ -122654,6 +123942,10 @@
       "children": [
         {
           "name": "STATE BUILDING & CONSTRUCTION TRADES COUNCIL OF CALIFORNIA",
+          "relationship": "chapter"
+        },
+        {
+          "name": "California State Building & Construction Trades Council",
           "relationship": "chapter"
         }
       ]
@@ -122717,7 +124009,12 @@
     {
       "canonical": "STATE BUILDING AND CONSTRUCTION TRADES COUNCIL, AFL-CIO",
       "status": "active",
-      "children": []
+      "children": [
+        {
+          "name": "California State Building and Construction Trades Council, AFL-CIO",
+          "relationship": "chapter"
+        }
+      ]
     },
     {
       "canonical": "STATE BUILDING AND CONSTRUCTION TRADES OF CALIFORNIA",
@@ -122750,6 +124047,10 @@
       "children": [
         {
           "name": "State Building Trades Council of California",
+          "relationship": "chapter"
+        },
+        {
+          "name": "California State Building Trades Council",
           "relationship": "chapter"
         }
       ]
@@ -122848,6 +124149,10 @@
         {
           "name": "THE STATE CONTROLLER'S OFFICE",
           "relationship": "alternate_spelling"
+        },
+        {
+          "name": "California State Controller's Office",
+          "relationship": "chapter"
         }
       ]
     },
@@ -122862,6 +124167,10 @@
         {
           "name": "STATE COUNCIL ON DEVELOPMENTAL DISABILITIES (SCDD)",
           "relationship": "alternate_spelling"
+        },
+        {
+          "name": "California State Council on Developmental Disabilities",
+          "relationship": "chapter"
         }
       ]
     },
@@ -122900,6 +124209,10 @@
         {
           "name": "SDE",
           "relationship": "alternate_spelling"
+        },
+        {
+          "name": "California State Department of Education",
+          "relationship": "chapter"
         }
       ]
     },
@@ -122910,6 +124223,10 @@
         {
           "name": "THE STATE DEPARTMENT OF MENTAL HEALTH",
           "relationship": "alternate_spelling"
+        },
+        {
+          "name": "California State Department of Mental Health",
+          "relationship": "chapter"
         }
       ]
     },
@@ -122930,6 +124247,10 @@
         {
           "name": "STATE DEPARTMENT OF SOCIAL SERVICES (SDSS)",
           "relationship": "alternate_spelling"
+        },
+        {
+          "name": "California State Department of Social Services",
+          "relationship": "chapter"
         }
       ]
     },
@@ -123003,6 +124324,10 @@
         {
           "name": "STATE INDEPENDENT LIVING COUNCIL (SILC)",
           "relationship": "alternate_spelling"
+        },
+        {
+          "name": "California State Independent Living Council",
+          "relationship": "chapter"
         }
       ]
     },
@@ -123023,6 +124348,10 @@
         {
           "name": "THE STATE LONG-TERM CARE OMBUDSMAN",
           "relationship": "alternate_spelling"
+        },
+        {
+          "name": "California State Long-Term Care Ombudsman",
+          "relationship": "chapter"
         }
       ]
     },
@@ -123061,6 +124390,10 @@
         {
           "name": "State Park Peace Officers Association of California",
           "relationship": "chapter"
+        },
+        {
+          "name": "California State Park Peace Officers Association",
+          "relationship": "chapter"
         }
       ]
     },
@@ -123075,6 +124408,10 @@
         {
           "name": "SPB",
           "relationship": "alternate_spelling"
+        },
+        {
+          "name": "California State Personnel Board",
+          "relationship": "chapter"
         }
       ]
     },
@@ -123127,6 +124464,10 @@
         {
           "name": "STATE PUBLIC AFFAIRS COMMITTEE (SPAC)",
           "relationship": "alternate_spelling"
+        },
+        {
+          "name": "California State Public Affairs Committee",
+          "relationship": "chapter"
         }
       ]
     },
@@ -123255,6 +124596,10 @@
         {
           "name": "STATE TEACHER'S RETIREMENT SYSTEM (STRS)",
           "relationship": "alternate_spelling"
+        },
+        {
+          "name": "California State Teacher's Retirement System",
+          "relationship": "chapter"
         }
       ]
     },
@@ -123265,6 +124610,10 @@
         {
           "name": "STATE TEACHERS RETIREMENT SYSTEM (STRS)",
           "relationship": "alternate_spelling"
+        },
+        {
+          "name": "California State Teachers Retirement System",
+          "relationship": "chapter"
         }
       ]
     },
@@ -123295,7 +124644,12 @@
     {
       "canonical": "STATE TREASURER BILL LOCKYER",
       "status": "active",
-      "children": []
+      "children": [
+        {
+          "name": "California State Treasurer Bill Lockyer",
+          "relationship": "chapter"
+        }
+      ]
     },
     {
       "canonical": "STATE TREASURER FIONA MA",
@@ -123314,6 +124668,10 @@
         {
           "name": "State Treasurer Phil Angelides California",
           "relationship": "chapter"
+        },
+        {
+          "name": "California State Treasurer Phil Angelides",
+          "relationship": "chapter"
         }
       ]
     },
@@ -123328,6 +124686,10 @@
         {
           "name": "STO",
           "relationship": "alternate_spelling"
+        },
+        {
+          "name": "California State Treasurer's Office",
+          "relationship": "chapter"
         }
       ]
     },
@@ -123356,6 +124718,10 @@
         {
           "name": "THE STATE WATER RESOURCES CONTROL BOARD",
           "relationship": "alternate_spelling"
+        },
+        {
+          "name": "California State Water Resources Control Board",
+          "relationship": "chapter"
         }
       ]
     },
@@ -123375,6 +124741,10 @@
       "children": [
         {
           "name": "Statewide California",
+          "relationship": "chapter"
+        },
+        {
+          "name": "California Statewide",
           "relationship": "chapter"
         }
       ]
@@ -123975,11 +125345,11 @@
       ]
     },
     {
-      "canonical": "STRONGER CALIF♀RNIA ADVOCATES NETWORK",
+      "canonical": "STRONGER CALIF\u2640RNIA ADVOCATES NETWORK",
       "status": "active",
       "children": [
         {
-          "name": "THE STRONGER CALIF♀RNIA ADVOCATES NETWORK",
+          "name": "THE STRONGER CALIF\u2640RNIA ADVOCATES NETWORK",
           "relationship": "alternate_spelling"
         }
       ]
@@ -124033,6 +125403,10 @@
         },
         {
           "name": "Structural Pest Control Board of California",
+          "relationship": "chapter"
+        },
+        {
+          "name": "California Structural Pest Control Board",
           "relationship": "chapter"
         }
       ]
@@ -124395,6 +125769,10 @@
         {
           "name": "Sun Utility Network, Inc",
           "relationship": "alternate_spelling"
+        },
+        {
+          "name": "California Sun Utility Network",
+          "relationship": "chapter"
         }
       ]
     },
@@ -124711,6 +126089,10 @@
         {
           "name": "SPI",
           "relationship": "alternate_spelling"
+        },
+        {
+          "name": "California Superintendent of Public Instruction",
+          "relationship": "chapter"
         }
       ]
     },
@@ -125565,7 +126947,7 @@
       ]
     },
     {
-      "canonical": "TAPESTRY, A UNITARIAN UNIVERSALIST CONGREGATION VISIÃ“N Y COMPROMISO",
+      "canonical": "TAPESTRY, A UNITARIAN UNIVERSALIST CONGREGATION VISI\u00c3\u201cN Y COMPROMISO",
       "status": "active",
       "children": []
     },
@@ -125648,6 +127030,10 @@
         {
           "name": "Taxpayers, Inc",
           "relationship": "alternate_spelling"
+        },
+        {
+          "name": "California Taxpayers",
+          "relationship": "chapter"
         }
       ]
     },
@@ -125814,6 +127200,10 @@
         {
           "name": "THE TEAMSTERS UNION",
           "relationship": "alternate_spelling"
+        },
+        {
+          "name": "California Teamsters Union",
+          "relationship": "chapter"
         }
       ]
     },
@@ -127154,7 +128544,12 @@
     {
       "canonical": "TOBACCO EDUCATION AND RESEARCH OVERSIGHT COMMITTEE",
       "status": "active",
-      "children": []
+      "children": [
+        {
+          "name": "California Tobacco Education and Research Oversight Committee",
+          "relationship": "chapter"
+        }
+      ]
     },
     {
       "canonical": "TOBACCO INSTITUTE",
@@ -129465,6 +130860,10 @@
       "children": [
         {
           "name": "Union of California",
+          "relationship": "chapter"
+        },
+        {
+          "name": "California Union",
           "relationship": "chapter"
         }
       ]
@@ -132651,6 +134050,10 @@
         {
           "name": "Veterans of California",
           "relationship": "chapter"
+        },
+        {
+          "name": "California Veterans",
+          "relationship": "chapter"
         }
       ]
     },
@@ -132759,6 +134162,10 @@
         {
           "name": "Veterans of Foreign Wars of the United States, California",
           "relationship": "chapter"
+        },
+        {
+          "name": "California Veterans of Foreign Wars of the United States",
+          "relationship": "chapter"
         }
       ]
     },
@@ -132805,7 +134212,7 @@
           "relationship": "alternate_spelling"
         },
         {
-          "name": "VFW â€” DEPARTMENT OF CALIFORNIA",
+          "name": "VFW \u00e2\u20ac\u201d DEPARTMENT OF CALIFORNIA",
           "relationship": "alternate_spelling"
         }
       ]
@@ -132989,6 +134396,10 @@
         {
           "name": "Victims United of California",
           "relationship": "chapter"
+        },
+        {
+          "name": "California Victims United of California",
+          "relationship": "alternate_spelling"
         }
       ]
     },
@@ -133105,7 +134516,7 @@
           "relationship": "alternate_spelling"
         },
         {
-          "name": "VIETNAM VETERANS OF AMERICA â€” CALIFORNIA STATE COUNCIL",
+          "name": "VIETNAM VETERANS OF AMERICA \u00e2\u20ac\u201d CALIFORNIA STATE COUNCIL",
           "relationship": "alternate_spelling"
         },
         {
@@ -133635,7 +135046,12 @@
     {
       "canonical": "VOICES FOR PROGRESS",
       "status": "active",
-      "children": []
+      "children": [
+        {
+          "name": "California Voices for Progress",
+          "relationship": "chapter"
+        }
+      ]
     },
     {
       "canonical": "VOICES ORGANIZING IMMIGRANT COMMUNITIES FOR EDUCATIONAL SUCCESS",
@@ -134324,6 +135740,10 @@
         {
           "name": "Water, Inc",
           "relationship": "alternate_spelling"
+        },
+        {
+          "name": "California Water",
+          "relationship": "chapter"
         }
       ]
     },
@@ -134407,6 +135827,10 @@
       "children": [
         {
           "name": "Watereuse Association of California",
+          "relationship": "chapter"
+        },
+        {
+          "name": "California WateReuse Association",
           "relationship": "chapter"
         }
       ]
@@ -136079,6 +137503,10 @@
         {
           "name": "THE WILDERNESS SOCIETY",
           "relationship": "alternate_spelling"
+        },
+        {
+          "name": "California Wilderness Society",
+          "relationship": "chapter"
         }
       ]
     },
@@ -136414,6 +137842,10 @@
         {
           "name": "THE WINE INSTITUTE",
           "relationship": "alternate_spelling"
+        },
+        {
+          "name": "California Wine Institute",
+          "relationship": "chapter"
         }
       ]
     },
@@ -136449,6 +137881,10 @@
         {
           "name": "THE WIRELESS ASSOCIATION",
           "relationship": "alternate_spelling"
+        },
+        {
+          "name": "California Wireless Association",
+          "relationship": "chapter"
         }
       ]
     },
@@ -136551,6 +137987,10 @@
         {
           "name": "Women, Inc",
           "relationship": "alternate_spelling"
+        },
+        {
+          "name": "California Women",
+          "relationship": "chapter"
         }
       ]
     },
@@ -136620,6 +138060,10 @@
         {
           "name": "WIC",
           "relationship": "alternate_spelling"
+        },
+        {
+          "name": "California WIC",
+          "relationship": "chapter"
         }
       ]
     },
@@ -136725,6 +138169,10 @@
         {
           "name": "THE WOMEN'S",
           "relationship": "alternate_spelling"
+        },
+        {
+          "name": "California Women's",
+          "relationship": "chapter"
         }
       ]
     },
@@ -136930,6 +138378,10 @@
         },
         {
           "name": "Women's Foundation of CA",
+          "relationship": "chapter"
+        },
+        {
+          "name": "California Women's Foundation",
           "relationship": "chapter"
         }
       ]
@@ -137863,6 +139315,10 @@
         {
           "name": "THE YOUTH",
           "relationship": "alternate_spelling"
+        },
+        {
+          "name": "California Youth",
+          "relationship": "chapter"
         }
       ]
     },
@@ -137923,7 +139379,12 @@
     {
       "canonical": "YOUTH JUSTICE COALITION",
       "status": "active",
-      "children": []
+      "children": [
+        {
+          "name": "California Youth Justice Coalition",
+          "relationship": "chapter"
+        }
+      ]
     },
     {
       "canonical": "YOUTH LAW CENTER",
@@ -137936,6 +139397,10 @@
         {
           "name": "YOUTH LAW CENTER (YLC)",
           "relationship": "alternate_spelling"
+        },
+        {
+          "name": "California Youth Law Center",
+          "relationship": "chapter"
         }
       ]
     },
