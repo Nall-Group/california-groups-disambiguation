@@ -58,3 +58,10 @@ Patterns include:
 - ("In Concept")
 - (Principal Co-Sponsor), (Co-Sponsors)
 
+## Invalid Organization Names
+
+`org_names_invalid.csv` contains placeholder values and metadata fragments that are not actual organization names. These include:
+- "None on file", "NONE RECEIVED", "None Known", "None to date", etc.
+- "END", "Inc", "Oppose", "Unknown"
+- Empty strings
+
