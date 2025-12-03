@@ -2,5 +2,5 @@
 
 ## Crosswalk Data
 
-- `crosswalk.standardizenames.manualedits_clean.csv` - original source, do not edit
-- `2_webapp/org_clusters.json` - live file, all updates go here
+- `crosswalk.standardizenames.manualedits_clean.csv` - original source, DO NOT EDIT
+- `2_webapp/org_clusters_crosswalk.json` - live file, all updates go here
