@@ -863,16 +863,6 @@
       "children": []
     },
     {
-      "canonical": "Abuse",
-      "status": "active",
-      "children": [
-        {
-          "name": "Abuse California",
-          "relationship": "chapter"
-        }
-      ]
-    },
-    {
       "canonical": "ACADEMIC SENATE, CALIFORNIA STATE UNIVERSITY",
       "status": "active",
       "children": [
@@ -104333,6 +104323,14 @@
         },
         {
           "name": "Prevent Child Abuse, California",
+          "relationship": "chapter"
+        },
+        {
+          "name": "Abuse",
+          "relationship": "alternate_spelling"
+        },
+        {
+          "name": "Abuse California",
           "relationship": "chapter"
         }
       ]
