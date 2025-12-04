@@ -57,6 +57,8 @@ directory: org_name_subsets_for_cleaning/
 
 18. Move all organizations that end in the word "individuals" along with one individual and Mayor to org_names_that_are_actually_individuals.csv
 
+19. Merge all case insensitive duplicates
+
 XX. Move things that are obviously not organization names (like sponsor or SB) to invalid organization names list 
 
 
