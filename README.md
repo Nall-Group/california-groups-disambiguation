@@ -55,6 +55,10 @@ directory: org_name_subsets_for_cleaning/
 
 17. Consolidate Fire Fighter organizations as children of International Association of Fire Fighters. Under this is California Professional Firefighters which is a chapter. Under that are the city/county chapters in format city name followed by Fire Fighters, and any other version of this is an alternate spelling.
 
+18. Move all organizations that end in the word "individuals" along with one individual and Mayor to org_names_that_are_actually_individuals.csv
+
+XX. Move things that are obviously not organization names (like sponsor or SB) to invalid organization names list 
+
 
 ## Crosswalk Relationship Types
 
