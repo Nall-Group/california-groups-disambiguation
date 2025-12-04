@@ -11,7 +11,7 @@ def generate_stats():
     stats = {}
 
     # 1. Canonical org names (clusters in crosswalk)
-    with open('2_webapp/org_clusters.json', 'r') as f:
+    with open('2_webapp/org_clusters_crosswalk.json', 'r') as f:
         data = json.load(f)
         stats['canonical_orgs'] = len(data['clusters'])
 
@@ -33,7 +33,8 @@ def generate_stats():
         'org_names_not_capitalized.csv',
         'org_names_that_are_dates_or_phone_numbers.csv',
         'org_names_that_start_with_parens.csv',
-        'org_names_partial.csv'
+        'org_names_partial.csv',
+        'org_names_that_are_actually_individuals.csv'
     ]
 
     invalid_count = 0
