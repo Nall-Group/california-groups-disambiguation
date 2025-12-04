@@ -53,7 +53,7 @@ directory: org_name_subsets_for_cleaning/
 
 16. Add orgs that start with Local, a number, and then another org name -- these are also chapters.
 
-17. Consolidate Fire Fighter organizations as children of International Association of Fire Fighters
+17. Consolidate Fire Fighter organizations as children of International Association of Fire Fighters. Under this is California Professional Firefighters which is a chapter. Under that are the city/county chapters in format city name followed by Fire Fighters, and any other version of this is an alternate spelling.
 
 
 ## Crosswalk Relationship Types
