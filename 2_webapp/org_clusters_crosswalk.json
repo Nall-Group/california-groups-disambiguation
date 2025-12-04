@@ -11448,42 +11448,6 @@
       ]
     },
     {
-      "canonical": "Assn",
-      "status": "active",
-      "children": [
-        {
-          "name": "Assn of CA",
-          "relationship": "chapter"
-        },
-        {
-          "name": "Assn of California",
-          "relationship": "chapter"
-        },
-        {
-          "name": "Assn.",
-          "relationship": "alternate_spelling"
-        }
-      ]
-    },
-    {
-      "canonical": "Assn. of",
-      "status": "active",
-      "children": [
-        {
-          "name": "Assn. of CA",
-          "relationship": "chapter"
-        },
-        {
-          "name": "Assn. of California",
-          "relationship": "chapter"
-        },
-        {
-          "name": "California Assn. of",
-          "relationship": "chapter"
-        }
-      ]
-    },
-    {
       "canonical": "ASSOC. FOR CALIFORNIA TORT REFORM",
       "status": "active",
       "children": [
