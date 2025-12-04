@@ -134426,112 +134426,6 @@
       ]
     },
     {
-      "canonical": "VETERANS OF FOREIGN WARS",
-      "status": "active",
-      "children": [
-        {
-          "name": "VETERANS OF FOREIGN WARS (VFW)",
-          "relationship": "alternate_spelling"
-        },
-        {
-          "name": "VFW",
-          "relationship": "alternate_spelling"
-        }
-      ]
-    },
-    {
-      "canonical": "Veterans of Foreign Wars of the United States",
-      "status": "active",
-      "children": [
-        {
-          "name": "Veterans of Foreign Wars of the United States, California",
-          "relationship": "chapter"
-        },
-        {
-          "name": "California Veterans of Foreign Wars of the United States",
-          "relationship": "chapter"
-        },
-        {
-          "name": "Veterans' of Foreign Wars of the United States",
-          "relationship": "alternate_spelling"
-        }
-      ]
-    },
-    {
-      "canonical": "Veterans of Foreign Wars of the United States Department of",
-      "status": "active",
-      "children": [
-        {
-          "name": "Veterans of Foreign Wars of the United States Department of California",
-          "relationship": "chapter"
-        },
-        {
-          "name": "Veterans of Foreign Wars of the United States, Department of",
-          "relationship": "alternate_spelling"
-        }
-      ]
-    },
-    {
-      "canonical": "Veterans of Foreign Wars of the United States, Department",
-      "status": "active",
-      "children": [
-        {
-          "name": "Veterans of Foreign Wars of The United States, Department of California",
-          "relationship": "chapter"
-        },
-        {
-          "name": "Veterans of Foreign Wars of the United States (Department",
-          "relationship": "alternate_spelling"
-        }
-      ]
-    },
-    {
-      "canonical": "Veterans of Foreign Wars of the United States, Dept. of",
-      "status": "active",
-      "children": [
-        {
-          "name": "Veterans of Foreign Wars of the United States, Dept. of California",
-          "relationship": "chapter"
-        }
-      ]
-    },
-    {
-      "canonical": "VETERANS OF FOREIGN WARS, DEPARTMENT OF CALIFORNIA",
-      "status": "active",
-      "children": [
-        {
-          "name": "Veterans of Foreign Wars Department of California",
-          "relationship": "alternate_spelling"
-        },
-        {
-          "name": "VFW, Department of California",
-          "relationship": "alternate_spelling"
-        },
-        {
-          "name": "VFW \u00e2\u20ac\u201d DEPARTMENT OF CALIFORNIA",
-          "relationship": "alternate_spelling"
-        },
-        {
-          "name": "THE VFW - DEPARTMENT OF CALIFORNIA",
-          "relationship": "alternate_spelling"
-        }
-      ]
-    },
-    {
-      "canonical": "Veterans of Foreign Wars-Department of",
-      "status": "active",
-      "children": [
-        {
-          "name": "Veterans of Foreign Wars-Department of California",
-          "relationship": "chapter"
-        },
-        {
-          "name": "Veterans of Foreign Wars, Department of",
-          "relationship": "alternate_spelling"
-        }
-      ]
-    },
-    {
       "canonical": "Veterans Service Officers",
       "status": "active",
       "children": [
@@ -134596,34 +134490,6 @@
       "children": [
         {
           "name": "VForce, INC",
-          "relationship": "alternate_spelling"
-        }
-      ]
-    },
-    {
-      "canonical": "VFW Department",
-      "status": "active",
-      "children": [
-        {
-          "name": "VFW Department of California",
-          "relationship": "chapter"
-        },
-        {
-          "name": "VFW - Department",
-          "relationship": "alternate_spelling"
-        }
-      ]
-    },
-    {
-      "canonical": "VFW-Department of",
-      "status": "active",
-      "children": [
-        {
-          "name": "VFW-Department of California",
-          "relationship": "chapter"
-        },
-        {
-          "name": "VFW - Department of",
           "relationship": "alternate_spelling"
         }
       ]
@@ -153812,6 +153678,110 @@
       "children": [
         {
           "name": "Coalition on the Environment and |SEIU Local 721 (85,000 members)",
+          "relationship": "chapter"
+        }
+      ]
+    },
+    {
+      "canonical": "Veterans of Foreign Wars of the United States",
+      "status": "active",
+      "children": [
+        {
+          "name": "VETERANS OF FOREIGN WARS (VFW)",
+          "relationship": "alternate_spelling"
+        },
+        {
+          "name": "VFW",
+          "relationship": "alternate_spelling"
+        },
+        {
+          "name": "VETERANS OF FOREIGN WARS",
+          "relationship": "alternate_spelling"
+        },
+        {
+          "name": "Veterans' of Foreign Wars of the United States",
+          "relationship": "alternate_spelling"
+        },
+        {
+          "name": "Veterans of Foreign Wars of the United States, Department of",
+          "relationship": "alternate_spelling"
+        },
+        {
+          "name": "Veterans of Foreign Wars of the United States (Department",
+          "relationship": "alternate_spelling"
+        },
+        {
+          "name": "Veterans of Foreign Wars of the United States, Dept. of",
+          "relationship": "alternate_spelling"
+        },
+        {
+          "name": "Veterans of Foreign Wars, Department of",
+          "relationship": "alternate_spelling"
+        },
+        {
+          "name": "Veterans of Foreign Wars-Department of",
+          "relationship": "alternate_spelling"
+        },
+        {
+          "name": "VFW - Department",
+          "relationship": "alternate_spelling"
+        },
+        {
+          "name": "VFW - Department of",
+          "relationship": "alternate_spelling"
+        },
+        {
+          "name": "VFW-Department of",
+          "relationship": "alternate_spelling"
+        },
+        {
+          "name": "Veterans of Foreign Wars, Department of California",
+          "relationship": "chapter"
+        }
+      ]
+    },
+    {
+      "canonical": "Veterans of Foreign Wars, Department of California",
+      "status": "active",
+      "children": [
+        {
+          "name": "Veterans of Foreign Wars of the United States, California",
+          "relationship": "chapter"
+        },
+        {
+          "name": "California Veterans of Foreign Wars of the United States",
+          "relationship": "chapter"
+        },
+        {
+          "name": "Veterans of Foreign Wars of the United States Department of California",
+          "relationship": "chapter"
+        },
+        {
+          "name": "Veterans of Foreign Wars of the United States, Dept. of California",
+          "relationship": "chapter"
+        },
+        {
+          "name": "Veterans of Foreign Wars Department of California",
+          "relationship": "alternate_spelling"
+        },
+        {
+          "name": "VFW, Department of California",
+          "relationship": "alternate_spelling"
+        },
+        {
+          "name": "VFW \u00e2\u20ac\u201d DEPARTMENT OF CALIFORNIA",
+          "relationship": "alternate_spelling"
+        },
+        {
+          "name": "THE VFW - DEPARTMENT OF CALIFORNIA",
+          "relationship": "alternate_spelling"
+        },
+        {
+          "name": "Veterans of Foreign Wars-Department of California",
+          "relationship": "chapter"
+        },
+        {
+          "name": "VFW-Department of California",
           "relationship": "chapter"
         }
       ]
