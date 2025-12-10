@@ -59,6 +59,34 @@ directory: org_name_subsets_for_cleaning/
 
 19. Merge all case insensitive duplicates
 
+20. Manually audit Sherriff/Police caninicals to merge to just these:
+Alameda County Deputy Sheriffs' Activities League
+CALIFORNIA COALITION FOR SHERIFF OVERSIGHT
+CALIFORNIA POLICE ACTIVITIES LEAGUE
+CHIEF OF POLICE
+California Council of Police and Sheriffs
+Concerns of Police Survivors
+DEPUTY SHERIFFS' ASSOCIATION
+END POLICE VIOLENCE COLLECTIVE
+FRATERNAL ORDER OF POLICE
+HOLLYWOOD COMMUNITY-POLICE ADVISORY BOARD
+LOS ANGELES POLICE PROTECTIVE LEAGUE
+LOS ANGELES SCHOOL POLICE MANAGEMENT ASSOCIATION
+NATIONAL BLACK POLICE ASSOCIATION
+Newport Beach Police Management Association
+ORGANIZATION OF POLICE AND SHERIFFS
+POLICE DEPARTMENT
+Police Chief's Association
+Police Officer's Association
+Police Officers' Research Association
+SHERIFF
+SHERIFF'S ASSOCIATION
+SHERIFF'S DEPARTMENT
+SHERIFF'S EMPLOYEE BENEFITS ASSOCIATION
+Sheriffs
+
+21. Remove CO-SPONSOR prefix or suffix from org names and merge duplicates
+
 XX. Move things that are obviously not organization names (like sponsor or SB) to invalid organization names list 
 
 
