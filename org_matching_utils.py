@@ -79,17 +79,18 @@ def normalize_for_matching(name: str) -> str:
     Normalize a name for matching purposes.
 
     - Lowercases
-    - Removes all punctuation
+    - Removes all punctuation EXCEPT % (which is semantically meaningful)
     - Collapses whitespace
 
     Examples:
         "California Teachers' Association" -> "california teachers association"
         "S.E.I.U." -> "seiu"
         "ACME, Inc." -> "acme inc"
+        "100% Campaign" -> "100% campaign"
     """
     s = name.lower()
-    # Remove all punctuation
-    s = re.sub(r'[^\w\s]', '', s)
+    # Remove all punctuation EXCEPT %
+    s = re.sub(r'[^\w\s%]', '', s)
     # Collapse whitespace
     s = re.sub(r'\s+', ' ', s).strip()
     return s

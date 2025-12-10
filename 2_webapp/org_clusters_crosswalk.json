@@ -7712,21 +7712,11 @@
       ]
     },
     {
-      "canonical": "American Legion - Department",
-      "status": "active",
-      "children": [
-        {
-          "name": "American Legion - Department of CA",
-          "relationship": "chapter"
-        }
-      ]
-    },
-    {
       "canonical": "AMERICAN LEGION - DEPARTMENT OF CALIFORNIA",
       "status": "active",
       "children": [
         {
-          "name": "AMERICAN LEGION â€” DEPARTMENT OF CALIFORNIA",
+          "name": "AMERICAN LEGION \u00e2\u20ac\u201d DEPARTMENT OF CALIFORNIA",
           "relationship": "alternate_spelling"
         },
         {
@@ -7785,6 +7775,13 @@
         {
           "name": "American Legion-Department of",
           "relationship": "alternate_spelling"
+        },
+        {
+          "name": "American Legion - Department"
+        },
+        {
+          "name": "American Legion - Department of CA",
+          "relationship": "chapter"
         }
       ]
     },
@@ -10882,7 +10879,7 @@
           "relationship": "alternate_spelling"
         },
         {
-          "name": "ASIAN AMERICANS ADVANCING JUSTICEâ€”CALIFORNIA",
+          "name": "ASIAN AMERICANS ADVANCING JUSTICE\u00e2\u20ac\u201dCALIFORNIA",
           "relationship": "alternate_spelling"
         },
         {
@@ -19277,6 +19274,10 @@
         {
           "name": "California BOMA",
           "relationship": "chapter"
+        },
+        {
+          "name": "California (BOMA)",
+          "relationship": "chapter"
         }
       ]
     },
@@ -20302,7 +20303,7 @@
           "relationship": "alternate_spelling"
         },
         {
-          "name": "Café de California",
+          "name": "Caf\u00e9 de California",
           "relationship": "alternate_spelling"
         }
       ]
@@ -20730,10 +20731,6 @@
         },
         {
           "name": "California (EMSAAC)",
-          "relationship": "chapter"
-        },
-        {
-          "name": "California (BOMA)",
           "relationship": "chapter"
         },
         {
@@ -32865,6 +32862,29 @@
         {
           "name": "California Public Defenders' Association",
           "relationship": "alternate_spelling"
+        },
+        {
+          "name": "Public Defenders Association"
+        },
+        {
+          "name": "Public Defenders Association of California",
+          "relationship": "chapter"
+        },
+        {
+          "name": "California Public Defenders Association (NOTE: ANALYSIS REFLECTS AUTHOR'S AMENDMENTS TO BE OFFERED IN COMMITTEE.)",
+          "relationship": "chapter"
+        },
+        {
+          "name": "California Public Defenders Association (CDPA)",
+          "relationship": "chapter"
+        },
+        {
+          "name": "California Public Defenders Association (C.P.D.A.)",
+          "relationship": "chapter"
+        },
+        {
+          "name": "Public Defenders' Association",
+          "relationship": "alternate_spelling"
         }
       ]
     },
@@ -33482,6 +33502,21 @@
         },
         {
           "name": "California Rural Legal Assistance, Inc. (CRLA)",
+          "relationship": "chapter"
+        },
+        {
+          "name": "RURAL LEGAL ASSISTANCE FOUNDATION"
+        },
+        {
+          "name": "California Rural Legal Assistance Foundation (CRLA Foundation)",
+          "relationship": "chapter"
+        },
+        {
+          "name": "California Rural Legal Assistance Foundation (CRLA)",
+          "relationship": "chapter"
+        },
+        {
+          "name": "California Rural Legal Assistance Foundation (CRLSF)",
           "relationship": "chapter"
         }
       ]
@@ -34877,10 +34912,6 @@
           "relationship": "alternate_spelling"
         },
         {
-          "name": "SEIU",
-          "relationship": "alternate_spelling"
-        },
-        {
           "name": "SEIU - California",
           "relationship": "alternate_spelling"
         },
@@ -35131,6 +35162,53 @@
         {
           "name": "SEIU California Local 221",
           "relationship": "chapter"
+        },
+        {
+          "name": "Service Employees International Union California",
+          "relationship": "chapter"
+        },
+        {
+          "name": "Service Employees International Union of California",
+          "relationship": "chapter"
+        },
+        {
+          "name": "SEIU of California",
+          "relationship": "chapter"
+        },
+        {
+          "name": "SEIU, California",
+          "relationship": "chapter"
+        },
+        {
+          "name": "California Service Employees International Union",
+          "relationship": "chapter"
+        },
+        {
+          "name": "California SEIU",
+          "relationship": "chapter"
+        },
+        {
+          "name": "Service Employees International Union (SEIU) California",
+          "relationship": "chapter"
+        },
+        {
+          "name": "California State Council of Service Employees International Union (SEIU CA)",
+          "relationship": "chapter"
+        },
+        {
+          "name": "California State Council of Service Employees (SEIU CA)",
+          "relationship": "chapter"
+        },
+        {
+          "name": "Service Employees International Union Local 1000 CA State",
+          "relationship": "chapter"
+        },
+        {
+          "name": "Service Employees International Union-California",
+          "relationship": "alternate_spelling"
+        },
+        {
+          "name": "SEIU California"
         }
       ]
     },
@@ -41775,16 +41853,18 @@
         {
           "name": "Chispa, INC",
           "relationship": "alternate_spelling"
+        },
+        {
+          "name": "CHISPA, INC."
         }
       ]
     },
     {
-      "canonical": "CHISPA HOUSING (SALINAS)",
+      "canonical": "Community Housing Improvement Systems and Planning Association of Monterey County",
       "status": "active",
       "children": [
         {
-          "name": "CHISPA, INC.",
-          "relationship": "alternate_spelling"
+          "name": "CHISPA HOUSING (SALINAS)"
         }
       ]
     },
@@ -43745,11 +43825,11 @@
       "status": "active",
       "children": [
         {
-          "name": "LA CAÃ‘ADA FLINTRIDGE",
+          "name": "LA CA\u00c3\u2018ADA FLINTRIDGE",
           "relationship": "alternate_spelling"
         },
         {
-          "name": "La Cañada Flintridge",
+          "name": "La Ca\u00f1ada Flintridge",
           "relationship": "alternate_spelling"
         },
         {
@@ -45891,10 +45971,6 @@
         {
           "name": "THE CLIMATE REALITY PROJECT",
           "relationship": "alternate_spelling"
-        },
-        {
-          "name": "The Climate Reality Project, California",
-          "relationship": "chapter"
         }
       ]
     },
@@ -45961,6 +46037,15 @@
         {
           "name": "THE CLIMATE REALITY PROJECT CALIFORNIA",
           "relationship": "alternate_spelling"
+        },
+        {
+          "name": "The Climate Reality Project, California"
+        },
+        {
+          "name": "Climate Reality Project CA"
+        },
+        {
+          "name": "Climate Reality Project - California"
         }
       ]
     },
@@ -46162,11 +46247,11 @@
       "status": "active",
       "children": [
         {
-          "name": "CLÃNICA MONSEÃ‘OR OSCAR A. ROMERO",
+          "name": "CL\u00c3\u008dNICA MONSE\u00c3\u2018OR OSCAR A. ROMERO",
           "relationship": "alternate_spelling"
         },
         {
-          "name": "Clínica Monseñor Oscar A. Romero",
+          "name": "Cl\u00ednica Monse\u00f1or Oscar A. Romero",
           "relationship": "alternate_spelling"
         }
       ]
@@ -47126,7 +47211,7 @@
       ]
     },
     {
-      "canonical": "COALITION OF MOBILEHOME OWNERSâ€”CALIFORNIA",
+      "canonical": "COALITION OF MOBILEHOME OWNERS\u00e2\u20ac\u201dCALIFORNIA",
       "status": "active",
       "children": [
         {
@@ -47894,21 +47979,21 @@
       ]
     },
     {
-      "canonical": "Comité Civico Del Valle",
+      "canonical": "Comit\u00e9 Civico Del Valle",
       "status": "active",
       "children": [
         {
-          "name": "Comité Civico del Valle, Inc",
+          "name": "Comit\u00e9 Civico del Valle, Inc",
           "relationship": "alternate_spelling"
         }
       ]
     },
     {
-      "canonical": "Comité Cívico Del Valle",
+      "canonical": "Comit\u00e9 C\u00edvico Del Valle",
       "status": "active",
       "children": [
         {
-          "name": "Comité Cívico del Valle, Inc",
+          "name": "Comit\u00e9 C\u00edvico del Valle, Inc",
           "relationship": "alternate_spelling"
         }
       ]
@@ -52460,7 +52545,7 @@
       ]
     },
     {
-      "canonical": "COUNCIL PRESIDENT GEORGETTE GÃ“MEZ, CITY OF SAN DIEGO",
+      "canonical": "COUNCIL PRESIDENT GEORGETTE G\u00c3\u201cMEZ, CITY OF SAN DIEGO",
       "status": "active",
       "children": []
     },
@@ -59612,11 +59697,11 @@
       "children": []
     },
     {
-      "canonical": "EL COMITÃ‰ DE VECINOS DEL LADO OESTE, EPA",
+      "canonical": "EL COMIT\u00c3\u2030 DE VECINOS DEL LADO OESTE, EPA",
       "status": "active",
       "children": [
         {
-          "name": "El Comité de Vecinos del Lado Oeste, EPA",
+          "name": "El Comit\u00e9 de Vecinos del Lado Oeste, EPA",
           "relationship": "alternate_spelling"
         }
       ]
@@ -64162,11 +64247,11 @@
       ]
     },
     {
-      "canonical": "FERNANDEÃ‘O TATAVIAM BAND OF MISSION INDIANS",
+      "canonical": "FERNANDE\u00c3\u2018O TATAVIAM BAND OF MISSION INDIANS",
       "status": "active",
       "children": [
         {
-          "name": "Fernandeño Tataviam Band of Mission Indians",
+          "name": "Fernande\u00f1o Tataviam Band of Mission Indians",
           "relationship": "alternate_spelling"
         },
         {
@@ -72600,11 +72685,11 @@
       ]
     },
     {
-      "canonical": "HISPAÑAS ORGANIZED FOR POLITICAL EQUALITY",
+      "canonical": "HISPA\u00d1AS ORGANIZED FOR POLITICAL EQUALITY",
       "status": "active",
       "children": [
         {
-          "name": "HISPAÑAS ORGANIZED FOR POLITICAL EQUALITY (HOPE)",
+          "name": "HISPA\u00d1AS ORGANIZED FOR POLITICAL EQUALITY (HOPE)",
           "relationship": "alternate_spelling"
         }
       ]
@@ -73130,7 +73215,7 @@
       ]
     },
     {
-      "canonical": "HOMELESS LIVES MATTER â€” BERKELEY",
+      "canonical": "HOMELESS LIVES MATTER \u00e2\u20ac\u201d BERKELEY",
       "status": "active",
       "children": [
         {
@@ -77753,7 +77838,7 @@
           "relationship": "chapter"
         },
         {
-          "name": "IATSE Local 695, Screen Actors Guild‐American Federation of Television and Radio Artists, Script Supervisors/ Continuity Coordinators, Accountants & Allied Production Specialists Guild",
+          "name": "IATSE Local 695, Screen Actors Guild\u2010American Federation of Television and Radio Artists, Script Supervisors/ Continuity Coordinators, Accountants & Allied Production Specialists Guild",
           "relationship": "chapter"
         },
         {
@@ -80327,7 +80412,7 @@
           "relationship": "alternate_spelling"
         },
         {
-          "name": "Junior League of Palo Alto ● Mid-Peninsula",
+          "name": "Junior League of Palo Alto \u25cf Mid-Peninsula",
           "relationship": "alternate_spelling"
         },
         {
@@ -82009,11 +82094,11 @@
       ]
     },
     {
-      "canonical": "La Clínica De La Raza",
+      "canonical": "La Cl\u00ednica De La Raza",
       "status": "active",
       "children": [
         {
-          "name": "La Clínica de la Raza, Inc",
+          "name": "La Cl\u00ednica de la Raza, Inc",
           "relationship": "alternate_spelling"
         },
         {
@@ -82113,15 +82198,15 @@
       ]
     },
     {
-      "canonical": "LA JOLLA BAND OF LUISEÅƒO INDIANS",
+      "canonical": "LA JOLLA BAND OF LUISE\u00c5\u0192O INDIANS",
       "status": "active",
       "children": [
         {
-          "name": "La Jolla Band of Luiseño Indians",
+          "name": "La Jolla Band of Luise\u00f1o Indians",
           "relationship": "alternate_spelling"
         },
         {
-          "name": "La Jolla Band of Luiseńo Indians",
+          "name": "La Jolla Band of Luise\u0144o Indians",
           "relationship": "alternate_spelling"
         },
         {
@@ -82156,15 +82241,15 @@
       "children": []
     },
     {
-      "canonical": "LA MÃS",
+      "canonical": "LA M\u00c3\u0081S",
       "status": "active",
       "children": [
         {
-          "name": "LA Más",
+          "name": "LA M\u00e1s",
           "relationship": "alternate_spelling"
         },
         {
-          "name": "LA-Más",
+          "name": "LA-M\u00e1s",
           "relationship": "alternate_spelling"
         }
       ]
@@ -82249,12 +82334,12 @@
       ]
     },
     {
-      "canonical": "LA-MÃS",
+      "canonical": "LA-M\u00c3\u0081S",
       "status": "active",
       "children": []
     },
     {
-      "canonical": "LA-Mð‘ŽÌS",
+      "canonical": "LA-M\u00f0\u009d\u2018\u017d\u00cc\u0081S",
       "status": "active",
       "children": []
     },
@@ -84373,6 +84458,21 @@
         {
           "name": "Legal Aid Society-Employment Law Center (LAS-ELC)",
           "relationship": "alternate_spelling"
+        },
+        {
+          "name": "LEGAL AID SOCIETY-EMPLOYMENT LAW CENTER"
+        },
+        {
+          "name": "THE LEGAL AID SOCIETY-EMPLOYMENT LAW CENTER",
+          "relationship": "alternate_spelling"
+        },
+        {
+          "name": "LEGAL AID SOCIETY-EMPLOYMENT LAW CENTER (CO-SPONSOR)",
+          "relationship": "alternate_spelling"
+        },
+        {
+          "name": "THE LEGAL AID SOCIETY-EMPLOYMENT LAW CENTER (CO-SPONSOR)",
+          "relationship": "alternate_spelling"
         }
       ]
     },
@@ -84406,24 +84506,6 @@
         },
         {
           "name": "THE LEGAL AID SOCIETY OF SAN MATEO COUNTY",
-          "relationship": "alternate_spelling"
-        }
-      ]
-    },
-    {
-      "canonical": "LEGAL AID SOCIETY-EMPLOYMENT LAW CENTER",
-      "status": "active",
-      "children": [
-        {
-          "name": "THE LEGAL AID SOCIETY-EMPLOYMENT LAW CENTER",
-          "relationship": "alternate_spelling"
-        },
-        {
-          "name": "LEGAL AID SOCIETY-EMPLOYMENT LAW CENTER (CO-SPONSOR)",
-          "relationship": "alternate_spelling"
-        },
-        {
-          "name": "THE LEGAL AID SOCIETY-EMPLOYMENT LAW CENTER (CO-SPONSOR)",
           "relationship": "alternate_spelling"
         }
       ]
@@ -89279,15 +89361,15 @@
       "status": "active",
       "children": [
         {
-          "name": "MAYOR JESSE ARREGUÃN",
+          "name": "MAYOR JESSE ARREGU\u00c3\u008dN",
           "relationship": "alternate_spelling"
         },
         {
-          "name": "MAYOR JESSE ARREGUÃN, CITY OF BERKELEY",
+          "name": "MAYOR JESSE ARREGU\u00c3\u008dN, CITY OF BERKELEY",
           "relationship": "alternate_spelling"
         },
         {
-          "name": "Mayor Jesse Arreguín",
+          "name": "Mayor Jesse Arregu\u00edn",
           "relationship": "alternate_spelling"
         }
       ]
@@ -89538,7 +89620,7 @@
       ]
     },
     {
-      "canonical": "MAÌS",
+      "canonical": "MA\u00cc\u0081S",
       "status": "active",
       "children": []
     },
@@ -94468,25 +94550,16 @@
           "relationship": "alternate_spelling"
         },
         {
-          "name": "National Association of Social Workers - California",
-          "relationship": "alternate_spelling"
-        },
-        {
-          "name": "California National Association of Social Workers",
-          "relationship": "chapter"
-        },
-        {
-          "name": "National Association of Social Workers-California",
-          "relationship": "alternate_spelling"
+          "name": "NASW"
         }
       ]
     },
     {
-      "canonical": "NATIONAL ASSOCIATION OF SOCIAL WORKERS - CALIFORNIA CHAPTER",
+      "canonical": "National Association of Social Workers - California Chapter",
       "status": "active",
       "children": [
         {
-          "name": "NATIONAL ASSOCIATION OF SOCIAL WORKERS â€” CALIFORNIA CHAPTER NATIONAL COALITION FOR THE HOMELESS",
+          "name": "NATIONAL ASSOCIATION OF SOCIAL WORKERS \u00e2\u20ac\u201d CALIFORNIA CHAPTER NATIONAL COALITION FOR THE HOMELESS",
           "relationship": "alternate_spelling"
         },
         {
@@ -94532,6 +94605,24 @@
         {
           "name": "THE NATIONAL ASSOCIATION OF SOCIAL WORKERS, CALIFORNIA CHAPTER (NASW-CA)",
           "relationship": "alternate_spelling"
+        },
+        {
+          "name": "National Association of Social Workers - California"
+        },
+        {
+          "name": "California National Association of Social Workers"
+        },
+        {
+          "name": "National Association of Social Workers-California"
+        },
+        {
+          "name": "NASW California"
+        },
+        {
+          "name": "NASW - California Chapter"
+        },
+        {
+          "name": "NASW-CA"
         }
       ]
     },
@@ -97888,6 +97979,13 @@
         {
           "name": "The Non -Profit Housing Association of Northern California",
           "relationship": "alternate_spelling"
+        },
+        {
+          "name": "Nonprofit Housing Association of Northern"
+        },
+        {
+          "name": "Nonprofit Housing Association of Northern CA",
+          "relationship": "chapter"
         }
       ]
     },
@@ -97918,16 +98016,6 @@
         {
           "name": "NONPROFIT FINANCE FUND (NFF)",
           "relationship": "alternate_spelling"
-        }
-      ]
-    },
-    {
-      "canonical": "Nonprofit Housing Association of Northern",
-      "status": "active",
-      "children": [
-        {
-          "name": "Nonprofit Housing Association of Northern CA",
-          "relationship": "chapter"
         }
       ]
     },
@@ -101240,11 +101328,11 @@
           "relationship": "chapter"
         },
         {
-          "name": "Organizaciόn en",
+          "name": "Organizaci\u03ccn en",
           "relationship": "alternate_spelling"
         },
         {
-          "name": "Organización en",
+          "name": "Organizaci\u00f3n en",
           "relationship": "alternate_spelling"
         }
       ]
@@ -104776,11 +104864,11 @@
       ]
     },
     {
-      "canonical": "Peña's Disposal",
+      "canonical": "Pe\u00f1a's Disposal",
       "status": "active",
       "children": [
         {
-          "name": "Peña's Disposal Inc",
+          "name": "Pe\u00f1a's Disposal Inc",
           "relationship": "alternate_spelling"
         }
       ]
@@ -107903,11 +107991,11 @@
       "children": []
     },
     {
-      "canonical": "Protégé Commercial Builders",
+      "canonical": "Prot\u00e9g\u00e9 Commercial Builders",
       "status": "active",
       "children": [
         {
-          "name": "Protégé Commercial Builders, Inc",
+          "name": "Prot\u00e9g\u00e9 Commercial Builders, Inc",
           "relationship": "alternate_spelling"
         }
       ]
@@ -108122,32 +108210,6 @@
       "canonical": "PUBLIC COUNSEL LAW CENTER (LOS ANGELES, BEVERLY HILLS)",
       "status": "active",
       "children": []
-    },
-    {
-      "canonical": "Public Defenders Association",
-      "status": "active",
-      "children": [
-        {
-          "name": "Public Defenders Association of California",
-          "relationship": "chapter"
-        },
-        {
-          "name": "California Public Defenders Association (NOTE: ANALYSIS REFLECTS AUTHOR'S AMENDMENTS TO BE OFFERED IN COMMITTEE.)",
-          "relationship": "chapter"
-        },
-        {
-          "name": "California Public Defenders Association (CDPA)",
-          "relationship": "chapter"
-        },
-        {
-          "name": "California Public Defenders Association (C.P.D.A.)",
-          "relationship": "chapter"
-        },
-        {
-          "name": "Public Defenders' Association",
-          "relationship": "alternate_spelling"
-        }
-      ]
     },
     {
       "canonical": "PUBLIC EMPLOYEES FOR ENVIRONMENTAL RESPONSIBILITY",
@@ -111244,11 +111306,11 @@
       "children": []
     },
     {
-      "canonical": "RINCON BAND OF LUISEÑO INDIANS",
+      "canonical": "RINCON BAND OF LUISE\u00d1O INDIANS",
       "status": "active",
       "children": [
         {
-          "name": "THE RINCON BAND OF LUISEÑO INDIANS",
+          "name": "THE RINCON BAND OF LUISE\u00d1O INDIANS",
           "relationship": "alternate_spelling"
         }
       ]
@@ -112287,24 +112349,6 @@
         {
           "name": "Rural Human Services INC",
           "relationship": "alternate_spelling"
-        }
-      ]
-    },
-    {
-      "canonical": "RURAL LEGAL ASSISTANCE FOUNDATION",
-      "status": "active",
-      "children": [
-        {
-          "name": "California Rural Legal Assistance Foundation (CRLA Foundation)",
-          "relationship": "chapter"
-        },
-        {
-          "name": "California Rural Legal Assistance Foundation (CRLA)",
-          "relationship": "chapter"
-        },
-        {
-          "name": "California Rural Legal Assistance Foundation (CRLSF)",
-          "relationship": "chapter"
         }
       ]
     },
@@ -117105,7 +117149,7 @@
       ]
     },
     {
-      "canonical": "SEASIDE COUNCILMEMBER JON WIZARD SÃ EN MI BARRIO",
+      "canonical": "SEASIDE COUNCILMEMBER JON WIZARD S\u00c3\u008d EN MI BARRIO",
       "status": "active",
       "children": []
     },
@@ -117897,48 +117941,12 @@
           "relationship": "alternate_spelling"
         },
         {
-          "name": "Service Employees International Union California",
-          "relationship": "chapter"
-        },
-        {
-          "name": "Service Employees International Union of California",
-          "relationship": "chapter"
-        },
-        {
           "name": "SEIU CA",
-          "relationship": "chapter"
-        },
-        {
-          "name": "SEIU of California",
-          "relationship": "chapter"
-        },
-        {
-          "name": "SEIU, California",
-          "relationship": "chapter"
-        },
-        {
-          "name": "California Service Employees International Union",
-          "relationship": "chapter"
-        },
-        {
-          "name": "California SEIU",
           "relationship": "chapter"
         },
         {
           "name": "THE SERVICE EMPLOYEES INTERNATIONAL UNION (SEIU)",
           "relationship": "alternate_spelling"
-        },
-        {
-          "name": "Service Employees International Union (SEIU) California",
-          "relationship": "chapter"
-        },
-        {
-          "name": "California State Council of Service Employees International Union (SEIU CA)",
-          "relationship": "chapter"
-        },
-        {
-          "name": "California State Council of Service Employees (SEIU CA)",
-          "relationship": "chapter"
         },
         {
           "name": "Service Employees International Union Local 1021",
@@ -118006,10 +118014,6 @@
         },
         {
           "name": "Service Employees International Union Local 435B",
-          "relationship": "chapter"
-        },
-        {
-          "name": "Service Employees International Union Local 1000 CA State",
           "relationship": "chapter"
         },
         {
@@ -118149,10 +118153,6 @@
           "relationship": "chapter"
         },
         {
-          "name": "Service Employees International Union-California",
-          "relationship": "alternate_spelling"
-        },
-        {
           "name": "SERVICE EMPLOYEES INTERNATIONAL UNION",
           "relationship": "alternate_spelling"
         },
@@ -118207,6 +118207,9 @@
         {
           "name": "THE SERVICE EMPLOYEES INTERNATIONAL UNION, LOCAL 1000",
           "relationship": "alternate_spelling"
+        },
+        {
+          "name": "SEIU"
         }
       ]
     },
@@ -123489,7 +123492,7 @@
       ]
     },
     {
-      "canonical": "ST. JAMES INFIRMARY â€” SAN FRANCISCO",
+      "canonical": "ST. JAMES INFIRMARY \u00e2\u20ac\u201d SAN FRANCISCO",
       "status": "active",
       "children": [
         {
@@ -123589,7 +123592,7 @@
       ]
     },
     {
-      "canonical": "ST. MARY'S CENTER â€” OAKLAND",
+      "canonical": "ST. MARY'S CENTER \u00e2\u20ac\u201d OAKLAND",
       "status": "active",
       "children": [
         {
@@ -125615,11 +125618,11 @@
       ]
     },
     {
-      "canonical": "STRONGER CALIF♀RNIA ADVOCATES NETWORK",
+      "canonical": "STRONGER CALIF\u2640RNIA ADVOCATES NETWORK",
       "status": "active",
       "children": [
         {
-          "name": "THE STRONGER CALIF♀RNIA ADVOCATES NETWORK",
+          "name": "THE STRONGER CALIF\u2640RNIA ADVOCATES NETWORK",
           "relationship": "alternate_spelling"
         }
       ]
@@ -127165,7 +127168,7 @@
       ]
     },
     {
-      "canonical": "TAPESTRY, A UNITARIAN UNIVERSALIST CONGREGATION VISIÃ“N Y COMPROMISO",
+      "canonical": "TAPESTRY, A UNITARIAN UNIVERSALIST CONGREGATION VISI\u00c3\u201cN Y COMPROMISO",
       "status": "active",
       "children": []
     },
@@ -129907,6 +129910,12 @@
         {
           "name": "Triple-A- Council of California",
           "relationship": "alternate_spelling"
+        },
+        {
+          "name": "Triple-A Council Of California"
+        },
+        {
+          "name": "Triple-A Council of CA"
         }
       ]
     },
@@ -129923,16 +129932,7 @@
     {
       "canonical": "Triple-A Council",
       "status": "active",
-      "children": [
-        {
-          "name": "Triple-A Council Of California",
-          "relationship": "chapter"
-        },
-        {
-          "name": "Triple-A Council of CA",
-          "relationship": "chapter"
-        }
-      ]
+      "children": []
     },
     {
       "canonical": "TROUT UNLIMITED",
@@ -134654,7 +134654,7 @@
           "relationship": "alternate_spelling"
         },
         {
-          "name": "VIETNAM VETERANS OF AMERICA â€” CALIFORNIA STATE COUNCIL",
+          "name": "VIETNAM VETERANS OF AMERICA \u00e2\u20ac\u201d CALIFORNIA STATE COUNCIL",
           "relationship": "alternate_spelling"
         },
         {
@@ -153707,10 +153707,6 @@
         {
           "name": "VFW-Department of",
           "relationship": "alternate_spelling"
-        },
-        {
-          "name": "Veterans of Foreign Wars, Department of California",
-          "relationship": "chapter"
         }
       ]
     },
@@ -153743,7 +153739,7 @@
           "relationship": "alternate_spelling"
         },
         {
-          "name": "VFW â€” DEPARTMENT OF CALIFORNIA",
+          "name": "VFW \u00e2\u20ac\u201d DEPARTMENT OF CALIFORNIA",
           "relationship": "alternate_spelling"
         },
         {
