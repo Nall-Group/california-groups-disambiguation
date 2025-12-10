@@ -36196,11 +36196,6 @@
       ]
     },
     {
-      "canonical": "CALIFORNIA YIMBY",
-      "status": "active",
-      "children": []
-    },
-    {
       "canonical": "CALIFORNIA YOUNG DEMOCRATS",
       "status": "active",
       "children": [
@@ -58698,11 +58693,6 @@
       ]
     },
     {
-      "canonical": "EAST BAY YIMBY",
-      "status": "active",
-      "children": []
-    },
-    {
       "canonical": "EAST BAY YOUNG DEMOCRATS",
       "status": "active",
       "children": []
@@ -72781,11 +72771,6 @@
       ]
     },
     {
-      "canonical": "HOLLYWOOD YIMBY",
-      "status": "active",
-      "children": []
-    },
-    {
       "canonical": "HOLLYWOODLAND HOMEOWNERS ASSOCIATION",
       "status": "active",
       "children": []
@@ -82353,11 +82338,6 @@
       ]
     },
     {
-      "canonical": "LAGUNA WOODS VILLAGE YIMBY",
-      "status": "active",
-      "children": []
-    },
-    {
       "canonical": "LAIDLAW Environmental Services",
       "status": "active",
       "children": [
@@ -85770,11 +85750,6 @@
           "relationship": "alternate_spelling"
         }
       ]
-    },
-    {
-      "canonical": "LONG BEACH YIMBY",
-      "status": "active",
-      "children": []
     },
     {
       "canonical": "Long Duration Energy Storage Association",
@@ -91992,11 +91967,6 @@
       "children": []
     },
     {
-      "canonical": "MONTEREY PENINSULA YIMBY",
-      "status": "active",
-      "children": []
-    },
-    {
       "canonical": "MONTEREY REGIONAL WASTE MANAGEMENT DISTRICT",
       "status": "active",
       "children": [
@@ -92580,11 +92550,6 @@
     },
     {
       "canonical": "MOUNTAIN VIEW UNITED NEIGHBORS",
-      "status": "active",
-      "children": []
-    },
-    {
-      "canonical": "MOUNTAIN VIEW YIMBY",
       "status": "active",
       "children": []
     },
@@ -97954,11 +97919,6 @@
           "relationship": "alternate_spelling"
         }
       ]
-    },
-    {
-      "canonical": "NORTH COUNTY YIMBY",
-      "status": "active",
-      "children": []
     },
     {
       "canonical": "NORTH DISTRICT OF THE UNITED METHODIST CHURCH, SOMIS",
@@ -114149,11 +114109,6 @@
       ]
     },
     {
-      "canonical": "SAN FERNANDO VALLEY YIMBY",
-      "status": "active",
-      "children": []
-    },
-    {
       "canonical": "SAN FERNANDO VALLEY YOUNG DEMOCRATS",
       "status": "active",
       "children": [
@@ -114798,20 +114753,6 @@
       ]
     },
     {
-      "canonical": "SAN FRANCISCO YIMBY",
-      "status": "active",
-      "children": [
-        {
-          "name": "SAN FRANCISCO YES-IN-MY-BACK-YARD PARTY",
-          "relationship": "alternate_spelling"
-        },
-        {
-          "name": "SF YIMBY",
-          "relationship": "alternate_spelling"
-        }
-      ]
-    },
-    {
       "canonical": "SAN FRANCISCO-SACRAMENTO DISTRICT OF THE AME CHURCH",
       "status": "active",
       "children": []
@@ -115238,11 +115179,6 @@
     },
     {
       "canonical": "SAN LUIS OBISPO MOBILEHOME RESIDENTS ASSISTANCE PANEL",
-      "status": "active",
-      "children": []
-    },
-    {
-      "canonical": "SAN LUIS OBISPO YIMBY",
       "status": "active",
       "children": []
     },
@@ -115978,11 +115914,6 @@
           "relationship": "alternate_spelling"
         }
       ]
-    },
-    {
-      "canonical": "SANTA CRUZ YIMBY",
-      "status": "active",
-      "children": []
     },
     {
       "canonical": "Santa Fe Aggregates",
@@ -119935,11 +119866,6 @@
       ]
     },
     {
-      "canonical": "SLO COUNTY YIMBY",
-      "status": "active",
-      "children": []
-    },
-    {
       "canonical": "SMALL BUSINESS ACTION COMMITTEE",
       "status": "active",
       "children": [
@@ -121552,11 +121478,6 @@
           "relationship": "alternate_spelling"
         }
       ]
-    },
-    {
-      "canonical": "SOUTH BAY YIMBY",
-      "status": "active",
-      "children": []
     },
     {
       "canonical": "SOUTH BAY YOUTH GOLF COALITION",
@@ -127861,11 +127782,6 @@
       ]
     },
     {
-      "canonical": "TERNER CENTER FOR HOUSING INNOVATION YIMBY ACTION",
-      "status": "active",
-      "children": []
-    },
-    {
       "canonical": "TERRACES OF LOS GATOS",
       "status": "active",
       "children": [
@@ -134055,11 +133971,6 @@
       ]
     },
     {
-      "canonical": "VENTURA COUNTY YIMBY",
-      "status": "active",
-      "children": []
-    },
-    {
       "canonical": "VENTURA MANUFACTURED-HOME RESIDENTS COUNCIL",
       "status": "active",
       "children": [
@@ -138914,39 +138825,106 @@
       "children": []
     },
     {
-      "canonical": "YIMBY ACTION",
+      "canonical": "YIMBY",
       "status": "active",
-      "children": []
-    },
-    {
-      "canonical": "YIMBY DEMOCRATS OF SAN DIEGO COUNTY",
-      "status": "active",
-      "children": []
-    },
-    {
-      "canonical": "YIMBY INLAND EMPIRE",
-      "status": "active",
-      "children": []
-    },
-    {
-      "canonical": "YIMBY LAW",
-      "status": "active",
-      "children": []
-    },
-    {
-      "canonical": "YIMBY SLO",
-      "status": "active",
-      "children": []
-    },
-    {
-      "canonical": "YIMBY VOICE",
-      "status": "active",
-      "children": []
-    },
-    {
-      "canonical": "YIMBYLA",
-      "status": "active",
-      "children": []
+      "children": [
+        {
+          "name": "CALIFORNIA YIMBY",
+          "relationship": "chapter"
+        },
+        {
+          "name": "EAST BAY YIMBY",
+          "relationship": "chapter"
+        },
+        {
+          "name": "HOLLYWOOD YIMBY",
+          "relationship": "chapter"
+        },
+        {
+          "name": "LAGUNA WOODS VILLAGE YIMBY",
+          "relationship": "chapter"
+        },
+        {
+          "name": "LONG BEACH YIMBY",
+          "relationship": "chapter"
+        },
+        {
+          "name": "MONTEREY PENINSULA YIMBY",
+          "relationship": "chapter"
+        },
+        {
+          "name": "MOUNTAIN VIEW YIMBY",
+          "relationship": "chapter"
+        },
+        {
+          "name": "NORTH COUNTY YIMBY",
+          "relationship": "chapter"
+        },
+        {
+          "name": "SAN FERNANDO VALLEY YIMBY",
+          "relationship": "chapter"
+        },
+        {
+          "name": "SAN FRANCISCO YIMBY",
+          "relationship": "chapter"
+        },
+        {
+          "name": "SAN LUIS OBISPO YIMBY",
+          "relationship": "chapter"
+        },
+        {
+          "name": "SANTA CRUZ YIMBY",
+          "relationship": "chapter"
+        },
+        {
+          "name": "SLO COUNTY YIMBY",
+          "relationship": "chapter"
+        },
+        {
+          "name": "SOUTH BAY YIMBY",
+          "relationship": "chapter"
+        },
+        {
+          "name": "VENTURA COUNTY YIMBY",
+          "relationship": "chapter"
+        },
+        {
+          "name": "YIMBY ACTION",
+          "relationship": "chapter"
+        },
+        {
+          "name": "YIMBY DEMOCRATS OF SAN DIEGO COUNTY",
+          "relationship": "chapter"
+        },
+        {
+          "name": "YIMBY INLAND EMPIRE",
+          "relationship": "chapter"
+        },
+        {
+          "name": "YIMBY LAW",
+          "relationship": "chapter"
+        },
+        {
+          "name": "YIMBY SLO",
+          "relationship": "chapter"
+        },
+        {
+          "name": "YIMBY VOICE",
+          "relationship": "chapter"
+        },
+        {
+          "name": "YIMBYLA",
+          "relationship": "chapter"
+        },
+        {
+          "name": "SF YIMBY",
+          "relationship": "alternate_spelling"
+        },
+        {
+          "name": "SAN FRANCISCO YES-IN-MY-BACK-YARD PARTY",
+          "relationship": "alternate_spelling"
+        }
+      ]
     },
     {
       "canonical": "YISRAEL FAMILY URBAN FARM",

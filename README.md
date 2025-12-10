@@ -87,6 +87,8 @@ Sheriffs
 
 21. Remove CO-SPONSOR prefix or suffix from org names and merge duplicates
 
+22. Consolidate YIMBY orgs in crosswalk to one org
+
 XX. Move things that are obviously not organization names (like sponsor or SB) to invalid organization names list 
 
 
