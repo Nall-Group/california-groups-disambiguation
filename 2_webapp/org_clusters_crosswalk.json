@@ -26254,20 +26254,6 @@
       ]
     },
     {
-      "canonical": "CALIFORNIA COLLEGE AND UNIVERSITY POLICE CHIEF'S ASSOCIATION",
-      "status": "active",
-      "children": [
-        {
-          "name": "THE CALIFORNIA COLLEGE AND UNIVERSITY POLICE CHIEF'S ASSOCIATION",
-          "relationship": "alternate_spelling"
-        },
-        {
-          "name": "California College and University Police Chiefs' Association",
-          "relationship": "alternate_spelling"
-        }
-      ]
-    },
-    {
       "canonical": "CALIFORNIA COLLEGE DEMOCRATS",
       "status": "active",
       "children": [
@@ -32397,52 +32383,6 @@
         },
         {
           "name": "California Police Activities League (PAL)",
-          "relationship": "alternate_spelling"
-        }
-      ]
-    },
-    {
-      "canonical": "California Police Chief Association",
-      "status": "active",
-      "children": [
-        {
-          "name": "California Police Chief Association, Inc",
-          "relationship": "alternate_spelling"
-        }
-      ]
-    },
-    {
-      "canonical": "California Police Chief's Association",
-      "status": "active",
-      "children": [
-        {
-          "name": "California Police Chief's Association, Inc",
-          "relationship": "alternate_spelling"
-        },
-        {
-          "name": "THE CALIFORNIA POLICE CHIEFS' ASSOCIATION",
-          "relationship": "alternate_spelling"
-        },
-        {
-          "name": "CALIFORNIA POLICE CHIEFS ASSOCIATION (CPCA)",
-          "relationship": "alternate_spelling"
-        },
-        {
-          "name": "CALIFORNIA POLICE CHIEFS' ASSOCIATION",
-          "relationship": "alternate_spelling"
-        }
-      ]
-    },
-    {
-      "canonical": "California Police Chiefs Associations",
-      "status": "active",
-      "children": [
-        {
-          "name": "California Police Chiefs Associations, Inc",
-          "relationship": "alternate_spelling"
-        },
-        {
-          "name": "California Police Chiefs' Associations",
           "relationship": "alternate_spelling"
         }
       ]
@@ -106024,20 +105964,74 @@
         {
           "name": "Police Chiefs' Association",
           "relationship": "alternate_spelling"
-        }
-      ]
-    },
-    {
-      "canonical": "Police Chiefs",
-      "status": "active",
-      "children": [
-        {
-          "name": "Police Chiefs of California",
-          "relationship": "chapter"
         },
         {
-          "name": "California Police Chiefs",
-          "relationship": "chapter"
+          "name": "Police Chiefs",
+          "relationship": "alternate_spelling"
+        },
+        {
+          "name": "California Police Chief's Association",
+          "relationship": "chapter",
+          "children": [
+            {
+              "name": "California Police Chief Association",
+              "relationship": "alternate_spelling"
+            },
+            {
+              "name": "California Police Chief Association, Inc",
+              "relationship": "alternate_spelling"
+            },
+            {
+              "name": "California Police Chief's Association, Inc",
+              "relationship": "alternate_spelling"
+            },
+            {
+              "name": "THE CALIFORNIA POLICE CHIEFS' ASSOCIATION",
+              "relationship": "alternate_spelling"
+            },
+            {
+              "name": "CALIFORNIA POLICE CHIEFS ASSOCIATION (CPCA)",
+              "relationship": "alternate_spelling"
+            },
+            {
+              "name": "CALIFORNIA POLICE CHIEFS' ASSOCIATION",
+              "relationship": "alternate_spelling"
+            },
+            {
+              "name": "California Police Chiefs Associations",
+              "relationship": "alternate_spelling"
+            },
+            {
+              "name": "California Police Chiefs Associations, Inc",
+              "relationship": "alternate_spelling"
+            },
+            {
+              "name": "California Police Chiefs' Associations",
+              "relationship": "alternate_spelling"
+            },
+            {
+              "name": "Police Chiefs of California",
+              "relationship": "alternate_spelling"
+            },
+            {
+              "name": "California Police Chiefs",
+              "relationship": "alternate_spelling"
+            }
+          ]
+        },
+        {
+          "name": "CALIFORNIA COLLEGE AND UNIVERSITY POLICE CHIEF'S ASSOCIATION",
+          "relationship": "chapter",
+          "children": [
+            {
+              "name": "THE CALIFORNIA COLLEGE AND UNIVERSITY POLICE CHIEF'S ASSOCIATION",
+              "relationship": "alternate_spelling"
+            },
+            {
+              "name": "California College and University Police Chiefs' Association",
+              "relationship": "alternate_spelling"
+            }
+          ]
         }
       ]
     },
