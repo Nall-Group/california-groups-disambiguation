@@ -28685,16 +28685,6 @@
       ]
     },
     {
-      "canonical": "CALIFORNIA FRATERNAL ORDER OF POLICE",
-      "status": "active",
-      "children": [
-        {
-          "name": "CALIFORNIA FRATERNAL ORDER OF POLICE (CFOP)",
-          "relationship": "alternate_spelling"
-        }
-      ]
-    },
-    {
       "canonical": "CALIFORNIA FRESH FRUIT ASSOCIATION",
       "status": "active",
       "children": []
@@ -66282,8 +66272,18 @@
           "relationship": "alternate_spelling"
         },
         {
-          "name": "Fraternal Order of Police California",
-          "relationship": "chapter"
+          "name": "CALIFORNIA FRATERNAL ORDER OF POLICE",
+          "relationship": "chapter",
+          "children": [
+            {
+              "name": "CALIFORNIA FRATERNAL ORDER OF POLICE (CFOP)",
+              "relationship": "alternate_spelling"
+            },
+            {
+              "name": "Fraternal Order of Police California",
+              "relationship": "alternate_spelling"
+            }
+          ]
         }
       ]
     },
