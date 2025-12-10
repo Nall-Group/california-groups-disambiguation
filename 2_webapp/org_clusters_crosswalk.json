@@ -3200,16 +3200,6 @@
       ]
     },
     {
-      "canonical": "ALAMEDA COUNTY CHIEFS OF POLICE AND SHERIFF'S ASSOCIATION",
-      "status": "active",
-      "children": [
-        {
-          "name": "THE ALAMEDA COUNTY CHIEFS OF POLICE AND SHERIFF'S ASSOCIATION",
-          "relationship": "alternate_spelling"
-        }
-      ]
-    },
-    {
       "canonical": "ALAMEDA COUNTY CONGESTION MANAGEMENT AGENCY",
       "status": "active",
       "children": [
@@ -12113,60 +12103,6 @@
       ]
     },
     {
-      "canonical": "Association for Los Angeles Deputy Sheriff",
-      "status": "active",
-      "children": [
-        {
-          "name": "Association for Los Angeles Deputy Sheriff, Inc",
-          "relationship": "alternate_spelling"
-        }
-      ]
-    },
-    {
-      "canonical": "Association for Los Angeles Deputy Sheriff's",
-      "status": "active",
-      "children": [
-        {
-          "name": "Association for Los Angeles Deputy Sheriff's, Inc",
-          "relationship": "alternate_spelling"
-        },
-        {
-          "name": "THE ASSOCIATION FOR LOS ANGELES DEPUTY SHERIFFS",
-          "relationship": "alternate_spelling"
-        },
-        {
-          "name": "Association for Los Angeles Deputy Sheriffs, ALADS",
-          "relationship": "alternate_spelling"
-        },
-        {
-          "name": "Association for Los Angeles Deputy Sheriffs [CO-SPONSOR",
-          "relationship": "alternate_spelling"
-        },
-        {
-          "name": "THE ASSOCIATION FOR LOS ANGELES DEPUTY SHERIFFS (CO-SPONSOR)",
-          "relationship": "alternate_spelling"
-        },
-        {
-          "name": "ASSOCIATION FOR LOS ANGELES DEPUTY SHERIFFS",
-          "relationship": "alternate_spelling"
-        }
-      ]
-    },
-    {
-      "canonical": "ASSOCIATION FOR LOS ANGELES DEPUTY SHERIFFS ASSOCIATION",
-      "status": "active",
-      "children": [
-        {
-          "name": "THE ASSOCIATION FOR LOS ANGELES DEPUTY SHERIFFS ASSOCIATION",
-          "relationship": "alternate_spelling"
-        },
-        {
-          "name": "Association for Los Angeles Deputy Sheriffs' Association",
-          "relationship": "alternate_spelling"
-        }
-      ]
-    },
-    {
       "canonical": "ASSOCIATION FOR MULTIDISCIPLINARY EDUCATION AND RESEARCH IN SUBSTANCE USE AND ADDICTION",
       "status": "active",
       "children": [
@@ -12214,16 +12150,6 @@
         },
         {
           "name": "ASSOCIATION FOR THE IMPROVEMENT OF SECONDARY EDUCATION (AISE)",
-          "relationship": "alternate_spelling"
-        }
-      ]
-    },
-    {
-      "canonical": "Association for the Los Angeles Deputy Sheriffs",
-      "status": "active",
-      "children": [
-        {
-          "name": "Association for the Los Angeles Deputy Sheriffs, Inc",
           "relationship": "alternate_spelling"
         }
       ]
@@ -13304,28 +13230,6 @@
       ]
     },
     {
-      "canonical": "ASSOCIATION OF LOS ANGELES DEPUTY SHERIFFS",
-      "status": "active",
-      "children": [
-        {
-          "name": "THE ASSOCIATION OF LOS ANGELES DEPUTY SHERIFFS",
-          "relationship": "alternate_spelling"
-        },
-        {
-          "name": "Association of Los Angeles Deputy Sheriffs (ALADS),",
-          "relationship": "alternate_spelling"
-        },
-        {
-          "name": "Association of Los Angeles Deputy Sheriffs Inc",
-          "relationship": "alternate_spelling"
-        },
-        {
-          "name": "THE ASSOCIATION OF LOS ANGELES DEPUTY SHERIFFS, INC",
-          "relationship": "alternate_spelling"
-        }
-      ]
-    },
-    {
       "canonical": "ASSOCIATION OF LOW WEALTH SCHOOLS",
       "status": "active",
       "children": [
@@ -13423,20 +13327,6 @@
         },
         {
           "name": "ASSOCIATION OF NORTHERN CALIFORNIA ONCOLOGISTS (ANCO)",
-          "relationship": "alternate_spelling"
-        }
-      ]
-    },
-    {
-      "canonical": "ASSOCIATION OF ORANGE COUNTY DEPUTY SHERIFFS",
-      "status": "active",
-      "children": [
-        {
-          "name": "ASSOCIATION OF ORANGE COUNTY DEPUTY SHERIFFS (AOCDS)",
-          "relationship": "alternate_spelling"
-        },
-        {
-          "name": "AOCDS",
           "relationship": "alternate_spelling"
         }
       ]
@@ -20133,20 +20023,6 @@
       "children": [
         {
           "name": "THE CA STATE HORSEMEN'S ASSOCIATION",
-          "relationship": "alternate_spelling"
-        }
-      ]
-    },
-    {
-      "canonical": "CA STATE SHERIFFS ASSOCIATION",
-      "status": "active",
-      "children": [
-        {
-          "name": "THE CA STATE SHERIFFS ASSOCIATION",
-          "relationship": "alternate_spelling"
-        },
-        {
-          "name": "CA State Sheriffs' Association",
           "relationship": "alternate_spelling"
         }
       ]
@@ -35416,32 +35292,6 @@
       "children": [
         {
           "name": "CALIFORNIA STATE RETIREES (CSR)",
-          "relationship": "alternate_spelling"
-        }
-      ]
-    },
-    {
-      "canonical": "CALIFORNIA STATE SHERIFF'S ASSOCIATION",
-      "status": "active",
-      "children": [
-        {
-          "name": "THE CALIFORNIA STATE SHERIFF'S ASSOCIATION",
-          "relationship": "alternate_spelling"
-        },
-        {
-          "name": "CALIFORNIA STATE SHERIFF'S ASSOCIATION (CSSA)",
-          "relationship": "alternate_spelling"
-        },
-        {
-          "name": "California State Sheriff's Association (CCSA)",
-          "relationship": "alternate_spelling"
-        },
-        {
-          "name": "California State Sheriffs'Association",
-          "relationship": "alternate_spelling"
-        },
-        {
-          "name": "California State Sheriffs 'Association",
           "relationship": "alternate_spelling"
         }
       ]
@@ -56582,48 +56432,192 @@
       ]
     },
     {
-      "canonical": "Deputy Sheriff's Association of San Francisco",
+      "canonical": "DEPUTY SHERIFFS' ASSOCIATION",
       "status": "active",
       "children": [
-        {
-          "name": "Deputy Sheriff's Association of San Francisco, Inc",
-          "relationship": "alternate_spelling"
-        },
-        {
-          "name": "Deputy Sheriffs' Association of San Francisco",
-          "relationship": "alternate_spelling"
-        }
-      ]
-    },
-    {
-      "canonical": "Deputy Sheriffs",
-      "status": "active",
-      "children": [
-        {
-          "name": "Deputy Sheriffs, Inc",
-          "relationship": "alternate_spelling"
-        },
-        {
-          "name": "Deputy Sheriffs,Inc",
-          "relationship": "alternate_spelling"
-        }
-      ]
-    },
-    {
-      "canonical": "Deputy Sheriffs' Association",
-      "status": "active",
-      "children": [
-        {
-          "name": "Deputy Sheriffs' Association of California",
-          "relationship": "chapter"
-        },
-        {
-          "name": "California Deputy Sheriffs' Association",
-          "relationship": "chapter"
-        },
         {
           "name": "Deputy Sheriffs Association",
           "relationship": "alternate_spelling"
+        },
+        {
+          "name": "Deputy Sheriffs' Association of California",
+          "relationship": "chapter",
+          "children": [
+            {
+              "name": "California Deputy Sheriffs' Association",
+              "relationship": "alternate_spelling"
+            }
+          ]
+        },
+        {
+          "name": "ASSOCIATION FOR LOS ANGELES DEPUTY SHERIFFS",
+          "relationship": "chapter",
+          "children": [
+            {
+              "name": "THE ASSOCIATION FOR LOS ANGELES DEPUTY SHERIFFS",
+              "relationship": "alternate_spelling"
+            },
+            {
+              "name": "Association for Los Angeles Deputy Sheriffs, ALADS",
+              "relationship": "alternate_spelling"
+            },
+            {
+              "name": "Association for Los Angeles Deputy Sheriffs [CO-SPONSOR",
+              "relationship": "alternate_spelling"
+            },
+            {
+              "name": "THE ASSOCIATION FOR LOS ANGELES DEPUTY SHERIFFS (CO-SPONSOR)",
+              "relationship": "alternate_spelling"
+            },
+            {
+              "name": "ASSOCIATION FOR LOS ANGELES DEPUTY SHERIFFS",
+              "relationship": "alternate_spelling"
+            },
+            {
+              "name": "Association for Los Angeles Deputy Sheriff, Inc",
+              "relationship": "alternate_spelling"
+            },
+            {
+              "name": "Association for Los Angeles Deputy Sheriff's, Inc",
+              "relationship": "alternate_spelling"
+            },
+            {
+              "name": "THE ASSOCIATION FOR LOS ANGELES DEPUTY SHERIFFS ASSOCIATION",
+              "relationship": "alternate_spelling"
+            },
+            {
+              "name": "Association for Los Angeles Deputy Sheriffs' Association",
+              "relationship": "alternate_spelling"
+            },
+            {
+              "name": "Association for the Los Angeles Deputy Sheriffs, Inc",
+              "relationship": "alternate_spelling"
+            },
+            {
+              "name": "ASSOCIATION OF LOS ANGELES DEPUTY SHERIFFS",
+              "relationship": "alternate_spelling"
+            },
+            {
+              "name": "THE ASSOCIATION OF LOS ANGELES DEPUTY SHERIFFS",
+              "relationship": "alternate_spelling"
+            },
+            {
+              "name": "Association of Los Angeles Deputy Sheriffs (ALADS),",
+              "relationship": "alternate_spelling"
+            },
+            {
+              "name": "Association of Los Angeles Deputy Sheriffs Inc",
+              "relationship": "alternate_spelling"
+            },
+            {
+              "name": "THE ASSOCIATION OF LOS ANGELES DEPUTY SHERIFFS, INC",
+              "relationship": "alternate_spelling"
+            },
+            {
+              "name": "Los Angeles Deputy Sheriffs Association, Inc",
+              "relationship": "alternate_spelling"
+            },
+            {
+              "name": "Los Angeles Deputy Sheriffs' Association",
+              "relationship": "alternate_spelling"
+            },
+            {
+              "name": "Los Angeles Deputy Sheriffs",
+              "relationship": "alternate_spelling"
+            },
+            {
+              "name": "Los Angeles Deputy Sheriffs', Inc",
+              "relationship": "alternate_spelling"
+            }
+          ]
+        },
+        {
+          "name": "Deputy Sheriff's Association of San Francisco",
+          "relationship": "chapter",
+          "children": [
+            {
+              "name": "Deputy Sheriff's Association of San Francisco, Inc",
+              "relationship": "alternate_spelling"
+            },
+            {
+              "name": "Deputy Sheriffs' Association of San Francisco",
+              "relationship": "alternate_spelling"
+            },
+            {
+              "name": "San Francisco Deputy Sheriff's Association, Inc",
+              "relationship": "alternate_spelling"
+            },
+            {
+              "name": "San Francisco Deputy Sheriffs' Association",
+              "relationship": "alternate_spelling"
+            }
+          ]
+        },
+        {
+          "name": "ASSOCIATION OF ORANGE COUNTY DEPUTY SHERIFFS",
+          "relationship": "chapter",
+          "children": [
+            {
+              "name": "ASSOCIATION OF ORANGE COUNTY DEPUTY SHERIFFS (AOCDS)",
+              "relationship": "alternate_spelling"
+            },
+            {
+              "name": "AOCDS",
+              "relationship": "alternate_spelling"
+            }
+          ]
+        },
+        {
+          "name": "FRESNO DEPUTY SHERIFF'S ASSOCIATION",
+          "relationship": "chapter",
+          "children": [
+            {
+              "name": "FRESNO DEPUTY SHERIFF'S ASSOCIATION (FDSA)",
+              "relationship": "alternate_spelling"
+            },
+            {
+              "name": "Fresno Deputy Sheriffs' Association",
+              "relationship": "alternate_spelling"
+            }
+          ]
+        },
+        {
+          "name": "MONO COUNTY DEPUTY SHERIFFS ASSOCIATION",
+          "relationship": "chapter",
+          "children": [
+            {
+              "name": "MONO COUNTY DEPUTY SHERIFFS ASSOCIATION (MCDSA)",
+              "relationship": "alternate_spelling"
+            }
+          ]
+        },
+        {
+          "name": "SACRAMENTO COUNTY DEPUTY SHERIFFS' ASSOCIATION",
+          "relationship": "chapter",
+          "children": [
+            {
+              "name": "SACRAMENTO COUNTY DEPUTY SHERIFFS' ASSOCIATION (SCDSA)",
+              "relationship": "alternate_spelling"
+            },
+            {
+              "name": "Sacramento County Deputy Sheriffs Association",
+              "relationship": "alternate_spelling"
+            }
+          ]
+        },
+        {
+          "name": "Deputy Sheriffs",
+          "relationship": "alternate_spelling",
+          "children": [
+            {
+              "name": "Deputy Sheriffs, Inc",
+              "relationship": "alternate_spelling"
+            },
+            {
+              "name": "Deputy Sheriffs,Inc",
+              "relationship": "alternate_spelling"
+            }
+          ]
         }
       ]
     },
@@ -66551,20 +66545,6 @@
       "children": [
         {
           "name": "FRESNO COUNTY FARM BUREAU (FCFB)",
-          "relationship": "alternate_spelling"
-        }
-      ]
-    },
-    {
-      "canonical": "FRESNO DEPUTY SHERIFF'S ASSOCIATION",
-      "status": "active",
-      "children": [
-        {
-          "name": "FRESNO DEPUTY SHERIFF'S ASSOCIATION (FDSA)",
-          "relationship": "alternate_spelling"
-        },
-        {
-          "name": "Fresno Deputy Sheriffs' Association",
           "relationship": "alternate_spelling"
         }
       ]
@@ -86903,30 +86883,6 @@
       ]
     },
     {
-      "canonical": "Los Angeles Deputy Sheriffs",
-      "status": "active",
-      "children": [
-        {
-          "name": "Los Angeles Deputy Sheriffs', Inc",
-          "relationship": "alternate_spelling"
-        }
-      ]
-    },
-    {
-      "canonical": "Los Angeles Deputy Sheriffs Association",
-      "status": "active",
-      "children": [
-        {
-          "name": "Los Angeles Deputy Sheriffs Association, Inc",
-          "relationship": "alternate_spelling"
-        },
-        {
-          "name": "Los Angeles Deputy Sheriffs' Association",
-          "relationship": "alternate_spelling"
-        }
-      ]
-    },
-    {
       "canonical": "LOS ANGELES DISTRICT ATTORNEY",
       "status": "active",
       "children": [
@@ -92098,16 +92054,6 @@
       "children": [
         {
           "name": "Mono, County Board of Supervisors",
-          "relationship": "alternate_spelling"
-        }
-      ]
-    },
-    {
-      "canonical": "MONO COUNTY DEPUTY SHERIFFS ASSOCIATION",
-      "status": "active",
-      "children": [
-        {
-          "name": "MONO COUNTY DEPUTY SHERIFFS ASSOCIATION (MCDSA)",
           "relationship": "alternate_spelling"
         }
       ]
@@ -111612,50 +111558,6 @@
       ]
     },
     {
-      "canonical": "RIVERSIDE SHERIFF'S ASSOCIATION",
-      "status": "active",
-      "children": [
-        {
-          "name": "THE RIVERSIDE SHERIFF'S ASSOCIATION",
-          "relationship": "alternate_spelling"
-        },
-        {
-          "name": "RIVERSIDE SHERIFF'S ASSOCIATION (RSA)",
-          "relationship": "alternate_spelling"
-        },
-        {
-          "name": "RSA",
-          "relationship": "alternate_spelling"
-        },
-        {
-          "name": "Riverside Sheriff's' Association",
-          "relationship": "alternate_spelling"
-        },
-        {
-          "name": "Riverside Sheriffs' Association [CO-SPONSOR",
-          "relationship": "alternate_spelling"
-        },
-        {
-          "name": "THE RIVERSIDE SHERIFFS' ASSOCIATION (CO-SPONSOR)",
-          "relationship": "alternate_spelling"
-        },
-        {
-          "name": "Local 685 Riverside Sheriffs' Association",
-          "relationship": "chapter"
-        }
-      ]
-    },
-    {
-      "canonical": "RIVERSIDE SHERIFFS",
-      "status": "active",
-      "children": [
-        {
-          "name": "THE RIVERSIDE SHERIFFS",
-          "relationship": "alternate_spelling"
-        }
-      ]
-    },
-    {
       "canonical": "Riverside Surgery Center",
       "status": "active",
       "children": [
@@ -112619,20 +112521,6 @@
       "children": [
         {
           "name": "Sacramento County, Board of Supervisors",
-          "relationship": "alternate_spelling"
-        }
-      ]
-    },
-    {
-      "canonical": "SACRAMENTO COUNTY DEPUTY SHERIFFS' ASSOCIATION",
-      "status": "active",
-      "children": [
-        {
-          "name": "SACRAMENTO COUNTY DEPUTY SHERIFFS' ASSOCIATION (SCDSA)",
-          "relationship": "alternate_spelling"
-        },
-        {
-          "name": "Sacramento County Deputy Sheriffs Association",
           "relationship": "alternate_spelling"
         }
       ]
@@ -114608,20 +114496,6 @@
       "canonical": "SAN FRANCISCO DEPARTMENT OF THE ENVIRONMENT",
       "status": "active",
       "children": []
-    },
-    {
-      "canonical": "San Francisco Deputy Sheriff's Association",
-      "status": "active",
-      "children": [
-        {
-          "name": "San Francisco Deputy Sheriff's Association, Inc",
-          "relationship": "alternate_spelling"
-        },
-        {
-          "name": "San Francisco Deputy Sheriffs' Association",
-          "relationship": "alternate_spelling"
-        }
-      ]
     },
     {
       "canonical": "SAN FRANCISCO DISTRICT ATTORNEY",
@@ -118858,6 +118732,102 @@
         {
           "name": "California Sheriffs",
           "relationship": "chapter"
+        }
+      ]
+    },
+    {
+      "canonical": "SHERIFF'S ASSOCIATION",
+      "status": "active",
+      "children": [
+        {
+          "name": "CA STATE SHERIFFS ASSOCIATION",
+          "relationship": "chapter",
+          "children": [
+            {
+              "name": "THE CA STATE SHERIFFS ASSOCIATION",
+              "relationship": "alternate_spelling"
+            },
+            {
+              "name": "CA State Sheriffs' Association",
+              "relationship": "alternate_spelling"
+            },
+            {
+              "name": "CALIFORNIA STATE SHERIFF'S ASSOCIATION",
+              "relationship": "alternate_spelling"
+            },
+            {
+              "name": "THE CALIFORNIA STATE SHERIFF'S ASSOCIATION",
+              "relationship": "alternate_spelling"
+            },
+            {
+              "name": "CALIFORNIA STATE SHERIFF'S ASSOCIATION (CSSA)",
+              "relationship": "alternate_spelling"
+            },
+            {
+              "name": "California State Sheriff's Association (CCSA)",
+              "relationship": "alternate_spelling"
+            },
+            {
+              "name": "California State Sheriffs'Association",
+              "relationship": "alternate_spelling"
+            },
+            {
+              "name": "California State Sheriffs 'Association",
+              "relationship": "alternate_spelling"
+            }
+          ]
+        },
+        {
+          "name": "RIVERSIDE SHERIFF'S ASSOCIATION",
+          "relationship": "chapter",
+          "children": [
+            {
+              "name": "THE RIVERSIDE SHERIFF'S ASSOCIATION",
+              "relationship": "alternate_spelling"
+            },
+            {
+              "name": "RIVERSIDE SHERIFF'S ASSOCIATION (RSA)",
+              "relationship": "alternate_spelling"
+            },
+            {
+              "name": "RSA",
+              "relationship": "alternate_spelling"
+            },
+            {
+              "name": "Riverside Sheriff's' Association",
+              "relationship": "alternate_spelling"
+            },
+            {
+              "name": "Riverside Sheriffs' Association [CO-SPONSOR",
+              "relationship": "alternate_spelling"
+            },
+            {
+              "name": "THE RIVERSIDE SHERIFFS' ASSOCIATION (CO-SPONSOR)",
+              "relationship": "alternate_spelling"
+            },
+            {
+              "name": "Local 685 Riverside Sheriffs' Association",
+              "relationship": "alternate_spelling"
+            },
+            {
+              "name": "RIVERSIDE SHERIFFS",
+              "relationship": "alternate_spelling"
+            },
+            {
+              "name": "THE RIVERSIDE SHERIFFS",
+              "relationship": "alternate_spelling"
+            }
+          ]
+        },
+        {
+          "name": "ALAMEDA COUNTY CHIEFS OF POLICE AND SHERIFF'S ASSOCIATION",
+          "relationship": "chapter",
+          "children": [
+            {
+              "name": "THE ALAMEDA COUNTY CHIEFS OF POLICE AND SHERIFF'S ASSOCIATION",
+              "relationship": "alternate_spelling"
+            }
+          ]
         }
       ]
     },
