@@ -31816,16 +31816,6 @@
       ]
     },
     {
-      "canonical": "CALIFORNIA ORGANIZATION OF POLICE",
-      "status": "active",
-      "children": [
-        {
-          "name": "THE CALIFORNIA ORGANIZATION OF POLICE",
-          "relationship": "alternate_spelling"
-        }
-      ]
-    },
-    {
       "canonical": "ORGANIZATION OF POLICE AND SHERIFFS",
       "status": "active",
       "children": [
@@ -31839,6 +31829,14 @@
             },
             {
               "name": "CALIFORNIA ORGANIZATION OF POLICE AND SHERIFFS (COPS)",
+              "relationship": "alternate_spelling"
+            },
+            {
+              "name": "CALIFORNIA ORGANIZATION OF POLICE",
+              "relationship": "alternate_spelling"
+            },
+            {
+              "name": "THE CALIFORNIA ORGANIZATION OF POLICE",
               "relationship": "alternate_spelling"
             },
             {
@@ -62143,16 +62141,6 @@
       "children": []
     },
     {
-      "canonical": "Escondido Police Association",
-      "status": "active",
-      "children": [
-        {
-          "name": "Escondido Police Association Inc",
-          "relationship": "alternate_spelling"
-        }
-      ]
-    },
-    {
       "canonical": "ESCROW AGENTS' FIDELITY CORPORATION",
       "status": "active",
       "children": [
@@ -87001,26 +86989,6 @@
       ]
     },
     {
-      "canonical": "LOS ANGELES POLICE",
-      "status": "active",
-      "children": [
-        {
-          "name": "THE LOS ANGELES POLICE",
-          "relationship": "alternate_spelling"
-        }
-      ]
-    },
-    {
-      "canonical": "LOS ANGELES POLICE PROTECTIVE",
-      "status": "active",
-      "children": [
-        {
-          "name": "THE LOS ANGELES POLICE PROTECTIVE",
-          "relationship": "alternate_spelling"
-        }
-      ]
-    },
-    {
       "canonical": "LOS ANGELES POLICE PROTECTIVE LEAGUE",
       "status": "active",
       "children": [
@@ -87038,6 +87006,14 @@
         },
         {
           "name": "THE LOS ANGELES POLICE PROTECTIVE LEAGUE (CO-SPONSOR)",
+          "relationship": "alternate_spelling"
+        },
+        {
+          "name": "LOS ANGELES POLICE PROTECTIVE",
+          "relationship": "alternate_spelling"
+        },
+        {
+          "name": "THE LOS ANGELES POLICE PROTECTIVE",
           "relationship": "alternate_spelling"
         }
       ]
@@ -106081,6 +106057,16 @@
               "relationship": "alternate_spelling"
             }
           ]
+        },
+        {
+          "name": "Escondido Police Association",
+          "relationship": "chapter",
+          "children": [
+            {
+              "name": "Escondido Police Association Inc",
+              "relationship": "alternate_spelling"
+            }
+          ]
         }
       ]
     },
@@ -106272,6 +106258,20 @@
           "children": [
             {
               "name": "THE POMONA POLICE DEPARTMENT",
+              "relationship": "alternate_spelling"
+            }
+          ]
+        },
+        {
+          "name": "LOS ANGELES POLICE DEPARTMENT",
+          "relationship": "chapter",
+          "children": [
+            {
+              "name": "LOS ANGELES POLICE",
+              "relationship": "alternate_spelling"
+            },
+            {
+              "name": "THE LOS ANGELES POLICE",
               "relationship": "alternate_spelling"
             }
           ]
