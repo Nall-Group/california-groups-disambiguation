@@ -16213,16 +16213,6 @@
       "children": []
     },
     {
-      "canonical": "Bernardino County Sheriff's Department",
-      "status": "active",
-      "children": [
-        {
-          "name": "Bernardino County Sheriff's Department, California",
-          "relationship": "chapter"
-        }
-      ]
-    },
-    {
       "canonical": "Berry Global",
       "status": "active",
       "children": [
@@ -86864,34 +86854,6 @@
       ]
     },
     {
-      "canonical": "LOS ANGELES COUNTY SHERIFF'S DEPARTMENT",
-      "status": "active",
-      "children": [
-        {
-          "name": "THE LOS ANGELES COUNTY SHERIFF'S DEPARTMENT",
-          "relationship": "alternate_spelling"
-        },
-        {
-          "name": "Los Angeles County Sheriff 's Department",
-          "relationship": "alternate_spelling"
-        },
-        {
-          "name": "Los Angeles County Sheriff's Department,",
-          "relationship": "alternate_spelling"
-        }
-      ]
-    },
-    {
-      "canonical": "LOS ANGELES COUNTY SHERIFF'S OFFICE",
-      "status": "active",
-      "children": [
-        {
-          "name": "THE LOS ANGELES COUNTY SHERIFF'S OFFICE",
-          "relationship": "alternate_spelling"
-        }
-      ]
-    },
-    {
       "canonical": "LOS ANGELES COUNTY SOLID WASTE MANAGEMENT COMMITTEE/INTEGRATED",
       "status": "active",
       "children": [
@@ -112686,16 +112648,6 @@
       ]
     },
     {
-      "canonical": "SACRAMENTO COUNTY SHERIFF'S DEPARTMENT",
-      "status": "active",
-      "children": [
-        {
-          "name": "SACRAMENTO COUNTY SHERIFF'S DEPARTMENT (SCSD)",
-          "relationship": "alternate_spelling"
-        }
-      ]
-    },
-    {
       "canonical": "SACRAMENTO ENVIRONMENTAL JUSTICE COALITION",
       "status": "active",
       "children": [
@@ -113576,26 +113528,6 @@
       "children": [
         {
           "name": "San Bernardino County Sexual Assault Services Inc",
-          "relationship": "alternate_spelling"
-        }
-      ]
-    },
-    {
-      "canonical": "SAN BERNARDINO COUNTY SHERIFF",
-      "status": "active",
-      "children": [
-        {
-          "name": "THE SAN BERNARDINO COUNTY SHERIFF",
-          "relationship": "alternate_spelling"
-        }
-      ]
-    },
-    {
-      "canonical": "SAN BERNARDINO COUNTY SHERIFF'S DEPARTMENT",
-      "status": "active",
-      "children": [
-        {
-          "name": "THE SAN BERNARDINO COUNTY SHERIFF'S DEPARTMENT",
           "relationship": "alternate_spelling"
         }
       ]
@@ -118824,6 +118756,84 @@
               "relationship": "alternate_spelling"
             }
           ]
+        },
+        {
+          "name": "SAN BERNARDINO COUNTY SHERIFF",
+          "relationship": "chapter",
+          "children": [
+            {
+              "name": "THE SAN BERNARDINO COUNTY SHERIFF",
+              "relationship": "alternate_spelling"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "canonical": "SHERIFF'S DEPARTMENT",
+      "status": "active",
+      "children": [
+        {
+          "name": "SHERIFF'S OFFICE",
+          "relationship": "alternate_spelling"
+        },
+        {
+          "name": "LOS ANGELES COUNTY SHERIFF'S DEPARTMENT",
+          "relationship": "chapter",
+          "children": [
+            {
+              "name": "THE LOS ANGELES COUNTY SHERIFF'S DEPARTMENT",
+              "relationship": "alternate_spelling"
+            },
+            {
+              "name": "Los Angeles County Sheriff 's Department",
+              "relationship": "alternate_spelling"
+            },
+            {
+              "name": "Los Angeles County Sheriff's Department,",
+              "relationship": "alternate_spelling"
+            },
+            {
+              "name": "LOS ANGELES COUNTY SHERIFF'S OFFICE",
+              "relationship": "alternate_spelling"
+            },
+            {
+              "name": "THE LOS ANGELES COUNTY SHERIFF'S OFFICE",
+              "relationship": "alternate_spelling"
+            }
+          ]
+        },
+        {
+          "name": "SACRAMENTO COUNTY SHERIFF'S DEPARTMENT",
+          "relationship": "chapter",
+          "children": [
+            {
+              "name": "SACRAMENTO COUNTY SHERIFF'S DEPARTMENT (SCSD)",
+              "relationship": "alternate_spelling"
+            }
+          ]
+        },
+        {
+          "name": "SAN BERNARDINO COUNTY SHERIFF'S DEPARTMENT",
+          "relationship": "chapter",
+          "children": [
+            {
+              "name": "THE SAN BERNARDINO COUNTY SHERIFF'S DEPARTMENT",
+              "relationship": "alternate_spelling"
+            },
+            {
+              "name": "Bernardino County Sheriff's Department",
+              "relationship": "alternate_spelling"
+            },
+            {
+              "name": "Bernardino County Sheriff's Department, California",
+              "relationship": "alternate_spelling"
+            }
+          ]
+        },
+        {
+          "name": "VENTURA COUNTY SHERIFF'S OFFICE",
+          "relationship": "chapter"
         }
       ]
     },
@@ -134119,11 +134129,6 @@
     },
     {
       "canonical": "VENTURA COUNTY HOUSING TRUST FUND",
-      "status": "active",
-      "children": []
-    },
-    {
-      "canonical": "VENTURA COUNTY SHERIFF'S OFFICE",
       "status": "active",
       "children": []
     },
