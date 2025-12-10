@@ -51773,16 +51773,6 @@
       ]
     },
     {
-      "canonical": "COSTA MESA POLICE DEPARTMENT",
-      "status": "active",
-      "children": [
-        {
-          "name": "THE COSTA MESA POLICE DEPARTMENT",
-          "relationship": "alternate_spelling"
-        }
-      ]
-    },
-    {
       "canonical": "COSTA MESA WOMEN'S GOLF CLUB",
       "status": "active",
       "children": []
@@ -59664,16 +59654,6 @@
       "canonical": "EL DORADO PARK MEN'S GOLF CLUB",
       "status": "active",
       "children": []
-    },
-    {
-      "canonical": "EL MONTE POLICE DEPARTMENT",
-      "status": "active",
-      "children": [
-        {
-          "name": "THE EL MONTE POLICE DEPARTMENT",
-          "relationship": "alternate_spelling"
-        }
-      ]
     },
     {
       "canonical": "EL NIDO MOBILE HOME PARK HOMEOWNERS' ASSOCIATION, SAN JUAN CAPISTRANO",
@@ -68100,11 +68080,6 @@
           "relationship": "alternate_spelling"
         }
       ]
-    },
-    {
-      "canonical": "GLENDALE POLICE DEPARTMENT",
-      "status": "active",
-      "children": []
     },
     {
       "canonical": "GLENDALE SUCCESSOR AGENCY",
@@ -97360,20 +97335,6 @@
       "children": []
     },
     {
-      "canonical": "NEWPORT BEACH POLICE DEPARTMENT",
-      "status": "active",
-      "children": [
-        {
-          "name": "THE NEWPORT BEACH POLICE DEPARTMENT",
-          "relationship": "alternate_spelling"
-        },
-        {
-          "name": "Newport Beach, Police Department",
-          "relationship": "alternate_spelling"
-        }
-      ]
-    },
-    {
       "canonical": "Newport Beach Police Management Association",
       "status": "active",
       "children": [
@@ -106264,12 +106225,56 @@
       "children": []
     },
     {
-      "canonical": "POMONA POLICE DEPARTMENT",
+      "canonical": "POLICE DEPARTMENT",
       "status": "active",
       "children": [
         {
-          "name": "THE POMONA POLICE DEPARTMENT",
-          "relationship": "alternate_spelling"
+          "name": "COSTA MESA POLICE DEPARTMENT",
+          "relationship": "chapter",
+          "children": [
+            {
+              "name": "THE COSTA MESA POLICE DEPARTMENT",
+              "relationship": "alternate_spelling"
+            }
+          ]
+        },
+        {
+          "name": "EL MONTE POLICE DEPARTMENT",
+          "relationship": "chapter",
+          "children": [
+            {
+              "name": "THE EL MONTE POLICE DEPARTMENT",
+              "relationship": "alternate_spelling"
+            }
+          ]
+        },
+        {
+          "name": "GLENDALE POLICE DEPARTMENT",
+          "relationship": "chapter"
+        },
+        {
+          "name": "NEWPORT BEACH POLICE DEPARTMENT",
+          "relationship": "chapter",
+          "children": [
+            {
+              "name": "THE NEWPORT BEACH POLICE DEPARTMENT",
+              "relationship": "alternate_spelling"
+            },
+            {
+              "name": "Newport Beach, Police Department",
+              "relationship": "alternate_spelling"
+            }
+          ]
+        },
+        {
+          "name": "POMONA POLICE DEPARTMENT",
+          "relationship": "chapter",
+          "children": [
+            {
+              "name": "THE POMONA POLICE DEPARTMENT",
+              "relationship": "alternate_spelling"
+            }
+          ]
         }
       ]
     },
