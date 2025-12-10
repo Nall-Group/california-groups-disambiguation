@@ -118750,90 +118750,80 @@
         {
           "name": "THE SHERIFF",
           "relationship": "alternate_spelling"
-        }
-      ]
-    },
-    {
-      "canonical": "SHERIFF OF",
-      "status": "active",
-      "children": [
-        {
-          "name": "THE SHERIFF OF",
-          "relationship": "alternate_spelling"
-        }
-      ]
-    },
-    {
-      "canonical": "SHERIFF OF ALAMEDA COUNTY",
-      "status": "active",
-      "children": [
-        {
-          "name": "THE SHERIFF OF ALAMEDA COUNTY",
-          "relationship": "alternate_spelling"
-        }
-      ]
-    },
-    {
-      "canonical": "SHERIFF OF AMADOR COUNTY",
-      "status": "active",
-      "children": [
-        {
-          "name": "THE SHERIFF OF AMADOR COUNTY",
-          "relationship": "alternate_spelling"
-        }
-      ]
-    },
-    {
-      "canonical": "SHERIFF OF KERN COUNTY",
-      "status": "active",
-      "children": [
-        {
-          "name": "THE SHERIFF OF KERN COUNTY",
-          "relationship": "alternate_spelling"
-        }
-      ]
-    },
-    {
-      "canonical": "SHERIFF OF ORANGE COUNTY",
-      "status": "active",
-      "children": [
-        {
-          "name": "THE SHERIFF OF ORANGE COUNTY",
-          "relationship": "alternate_spelling"
-        }
-      ]
-    },
-    {
-      "canonical": "SHERIFF OF PLACER COUNTY",
-      "status": "active",
-      "children": [
-        {
-          "name": "THE SHERIFF OF PLACER COUNTY",
-          "relationship": "alternate_spelling"
-        }
-      ]
-    },
-    {
-      "canonical": "SHERIFF OF SANTA CRUZ COUNTY",
-      "status": "active",
-      "children": [
-        {
-          "name": "THE SHERIFF OF SANTA CRUZ COUNTY",
-          "relationship": "alternate_spelling"
-        }
-      ]
-    },
-    {
-      "canonical": "SHERIFF OF SHASTA COUNTY",
-      "status": "active",
-      "children": [
-        {
-          "name": "THE SHERIFF OF SHASTA COUNTY",
-          "relationship": "alternate_spelling"
         },
         {
-          "name": "Sheriff of Shasta County, California",
-          "relationship": "chapter"
+          "name": "SHERIFF OF ALAMEDA COUNTY",
+          "relationship": "chapter",
+          "children": [
+            {
+              "name": "THE SHERIFF OF ALAMEDA COUNTY",
+              "relationship": "alternate_spelling"
+            }
+          ]
+        },
+        {
+          "name": "SHERIFF OF AMADOR COUNTY",
+          "relationship": "chapter",
+          "children": [
+            {
+              "name": "THE SHERIFF OF AMADOR COUNTY",
+              "relationship": "alternate_spelling"
+            }
+          ]
+        },
+        {
+          "name": "SHERIFF OF KERN COUNTY",
+          "relationship": "chapter",
+          "children": [
+            {
+              "name": "THE SHERIFF OF KERN COUNTY",
+              "relationship": "alternate_spelling"
+            }
+          ]
+        },
+        {
+          "name": "SHERIFF OF ORANGE COUNTY",
+          "relationship": "chapter",
+          "children": [
+            {
+              "name": "THE SHERIFF OF ORANGE COUNTY",
+              "relationship": "alternate_spelling"
+            }
+          ]
+        },
+        {
+          "name": "SHERIFF OF PLACER COUNTY",
+          "relationship": "chapter",
+          "children": [
+            {
+              "name": "THE SHERIFF OF PLACER COUNTY",
+              "relationship": "alternate_spelling"
+            }
+          ]
+        },
+        {
+          "name": "SHERIFF OF SANTA CRUZ COUNTY",
+          "relationship": "chapter",
+          "children": [
+            {
+              "name": "THE SHERIFF OF SANTA CRUZ COUNTY",
+              "relationship": "alternate_spelling"
+            }
+          ]
+        },
+        {
+          "name": "SHERIFF OF SHASTA COUNTY",
+          "relationship": "chapter",
+          "children": [
+            {
+              "name": "THE SHERIFF OF SHASTA COUNTY",
+              "relationship": "alternate_spelling"
+            },
+            {
+              "name": "Sheriff of Shasta County, California",
+              "relationship": "alternate_spelling"
+            }
+          ]
         }
       ]
     },
