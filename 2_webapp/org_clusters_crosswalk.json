@@ -9284,16 +9284,6 @@
       ]
     },
     {
-      "canonical": "Angeles Deputy Sheriffs",
-      "status": "active",
-      "children": [
-        {
-          "name": "Angeles Deputy Sheriffs, Inc",
-          "relationship": "alternate_spelling"
-        }
-      ]
-    },
-    {
       "canonical": "ANGELES MESA HOMEOWNERS COMMUNITY GROUP",
       "status": "active",
       "children": []
@@ -11440,16 +11430,6 @@
       "children": [
         {
           "name": "ASSOC. FOR CALIFORNIA TORT REFORM (ACTR)",
-          "relationship": "alternate_spelling"
-        }
-      ]
-    },
-    {
-      "canonical": "Assoc. for Los Angeles Deputy Sheriffs",
-      "status": "active",
-      "children": [
-        {
-          "name": "Assoc. for Los Angeles Deputy Sheriffs, Inc",
           "relationship": "alternate_spelling"
         }
       ]
@@ -31904,16 +31884,32 @@
       ]
     },
     {
-      "canonical": "CALIFORNIA ORGANIZATION OF POLICE AND SHERIFFS",
+      "canonical": "ORGANIZATION OF POLICE AND SHERIFFS",
       "status": "active",
       "children": [
         {
-          "name": "THE CALIFORNIA ORGANIZATION OF POLICE AND SHERIFFS",
-          "relationship": "alternate_spelling"
-        },
-        {
-          "name": "CALIFORNIA ORGANIZATION OF POLICE AND SHERIFFS (COPS)",
-          "relationship": "alternate_spelling"
+          "name": "CALIFORNIA ORGANIZATION OF POLICE AND SHERIFFS",
+          "relationship": "chapter",
+          "children": [
+            {
+              "name": "THE CALIFORNIA ORGANIZATION OF POLICE AND SHERIFFS",
+              "relationship": "alternate_spelling"
+            },
+            {
+              "name": "CALIFORNIA ORGANIZATION OF POLICE AND SHERIFFS (COPS)",
+              "relationship": "alternate_spelling"
+            },
+            {
+              "name": "LOS ANGELES COUNTY ORGANIZATION OF POLICE AND SHERIFFS",
+              "relationship": "chapter",
+              "children": [
+                {
+                  "name": "LOS ANGELES COUNTY ORGANIZATION OF POLICE AND SHERIFFS (LACOPS)",
+                  "relationship": "alternate_spelling"
+                }
+              ]
+            }
+          ]
         }
       ]
     },
@@ -56528,6 +56524,38 @@
             {
               "name": "Los Angeles Deputy Sheriffs', Inc",
               "relationship": "alternate_spelling"
+            },
+            {
+              "name": "Angeles Deputy Sheriffs",
+              "relationship": "alternate_spelling"
+            },
+            {
+              "name": "Angeles Deputy Sheriffs, Inc",
+              "relationship": "alternate_spelling"
+            },
+            {
+              "name": "Assoc. for Los Angeles Deputy Sheriffs",
+              "relationship": "alternate_spelling"
+            },
+            {
+              "name": "Assoc. for Los Angeles Deputy Sheriffs, Inc",
+              "relationship": "alternate_spelling"
+            },
+            {
+              "name": "for Los Angeles Deputy Sheriffs",
+              "relationship": "alternate_spelling"
+            },
+            {
+              "name": "for Los Angeles Deputy Sheriffs, Inc",
+              "relationship": "alternate_spelling"
+            },
+            {
+              "name": "Los Angeles County Deputy Sheriffs",
+              "relationship": "alternate_spelling"
+            },
+            {
+              "name": "Los Angeles County Deputy Sheriffs, Inc",
+              "relationship": "alternate_spelling"
             }
           ]
         },
@@ -65739,16 +65767,6 @@
       "children": [
         {
           "name": "for Independent Living, Inc",
-          "relationship": "alternate_spelling"
-        }
-      ]
-    },
-    {
-      "canonical": "for Los Angeles Deputy Sheriffs",
-      "status": "active",
-      "children": [
-        {
-          "name": "for Los Angeles Deputy Sheriffs, Inc",
           "relationship": "alternate_spelling"
         }
       ]
@@ -86598,16 +86616,6 @@
       ]
     },
     {
-      "canonical": "Los Angeles County Deputy Sheriffs",
-      "status": "active",
-      "children": [
-        {
-          "name": "Los Angeles County Deputy Sheriffs, Inc",
-          "relationship": "alternate_spelling"
-        }
-      ]
-    },
-    {
       "canonical": "Los Angeles County District Attorney",
       "status": "active",
       "children": [
@@ -86749,16 +86757,6 @@
         },
         {
           "name": "LACOE",
-          "relationship": "alternate_spelling"
-        }
-      ]
-    },
-    {
-      "canonical": "LOS ANGELES COUNTY ORGANIZATION OF POLICE AND SHERIFFS",
-      "status": "active",
-      "children": [
-        {
-          "name": "LOS ANGELES COUNTY ORGANIZATION OF POLICE AND SHERIFFS (LACOPS)",
           "relationship": "alternate_spelling"
         }
       ]
