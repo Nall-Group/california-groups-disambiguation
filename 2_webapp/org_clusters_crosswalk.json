@@ -9035,16 +9035,6 @@
       ]
     },
     {
-      "canonical": "Anaheim Police Officers Association",
-      "status": "active",
-      "children": [
-        {
-          "name": "Anaheim Police Officers Association, Inc",
-          "relationship": "alternate_spelling"
-        }
-      ]
-    },
-    {
       "canonical": "ANAHEIM WORKFORCE DEVELOPMENT BOARD",
       "status": "active",
       "children": [
@@ -15033,16 +15023,6 @@
       ]
     },
     {
-      "canonical": "BARSTOW POLICE OFFICER'S ASSOCIATION",
-      "status": "active",
-      "children": [
-        {
-          "name": "BARSTOW POLICE OFFICER'S ASSOCIATION (BPOA)",
-          "relationship": "alternate_spelling"
-        }
-      ]
-    },
-    {
       "canonical": "BARTZ-ALTADONNA COMMUNITY HEALTH CENTERS",
       "status": "active",
       "children": [
@@ -19231,20 +19211,6 @@
       "canonical": "BURBANK HOUSING MANAGEMENT CORPORATION",
       "status": "active",
       "children": []
-    },
-    {
-      "canonical": "Burbank Police Officers' Association",
-      "status": "active",
-      "children": [
-        {
-          "name": "Burbank Police Officers' Association, Inc",
-          "relationship": "alternate_spelling"
-        },
-        {
-          "name": "Burbank Police Officers Association",
-          "relationship": "alternate_spelling"
-        }
-      ]
     },
     {
       "canonical": "BURBANK WATER AND POWER",
@@ -45340,20 +45306,6 @@
       ]
     },
     {
-      "canonical": "CLAREMONT POLICE OFFICERS ASSOCIATION",
-      "status": "active",
-      "children": [
-        {
-          "name": "THE CLAREMONT POLICE OFFICERS ASSOCIATION",
-          "relationship": "alternate_spelling"
-        },
-        {
-          "name": "Claremont Police Officers' Association",
-          "relationship": "alternate_spelling"
-        }
-      ]
-    },
-    {
       "canonical": "CLARION ALLEY MURAL PROJECT",
       "status": "active",
       "children": [
@@ -66547,20 +66499,6 @@
       "children": []
     },
     {
-      "canonical": "FRESNO POLICE OFFICERS ASSOCIATION",
-      "status": "active",
-      "children": [
-        {
-          "name": "FRESNO POLICE OFFICERS ASSOCIATION (FPOA)",
-          "relationship": "alternate_spelling"
-        },
-        {
-          "name": "Fresno Police Officers' Association",
-          "relationship": "alternate_spelling"
-        }
-      ]
-    },
-    {
       "canonical": "Fresno Unified School District",
       "status": "active",
       "children": [
@@ -85904,20 +85842,6 @@
       "children": [
         {
           "name": "THE LONG BEACH IMMIGRANT RIGHTS COALITION",
-          "relationship": "alternate_spelling"
-        }
-      ]
-    },
-    {
-      "canonical": "LONG BEACH POLICE OFFICERS ASSOCIATION",
-      "status": "active",
-      "children": [
-        {
-          "name": "LONG BEACH POLICE OFFICERS ASSOCIATION (LBPOA)",
-          "relationship": "alternate_spelling"
-        },
-        {
-          "name": "Long Beach Police Officers' Association",
           "relationship": "alternate_spelling"
         }
       ]
@@ -106054,6 +105978,148 @@
         {
           "name": "Police Officers' Association",
           "relationship": "alternate_spelling"
+        },
+        {
+          "name": "Anaheim Police Officers Association",
+          "relationship": "chapter",
+          "children": [
+            {
+              "name": "Anaheim Police Officers Association, Inc",
+              "relationship": "alternate_spelling"
+            }
+          ]
+        },
+        {
+          "name": "BARSTOW POLICE OFFICER'S ASSOCIATION",
+          "relationship": "chapter",
+          "children": [
+            {
+              "name": "BARSTOW POLICE OFFICER'S ASSOCIATION (BPOA)",
+              "relationship": "alternate_spelling"
+            }
+          ]
+        },
+        {
+          "name": "Burbank Police Officers' Association",
+          "relationship": "chapter",
+          "children": [
+            {
+              "name": "Burbank Police Officers' Association, Inc",
+              "relationship": "alternate_spelling"
+            },
+            {
+              "name": "Burbank Police Officers Association",
+              "relationship": "alternate_spelling"
+            }
+          ]
+        },
+        {
+          "name": "CLAREMONT POLICE OFFICERS ASSOCIATION",
+          "relationship": "chapter",
+          "children": [
+            {
+              "name": "THE CLAREMONT POLICE OFFICERS ASSOCIATION",
+              "relationship": "alternate_spelling"
+            },
+            {
+              "name": "Claremont Police Officers' Association",
+              "relationship": "alternate_spelling"
+            }
+          ]
+        },
+        {
+          "name": "FRESNO POLICE OFFICERS ASSOCIATION",
+          "relationship": "chapter",
+          "children": [
+            {
+              "name": "FRESNO POLICE OFFICERS ASSOCIATION (FPOA)",
+              "relationship": "alternate_spelling"
+            },
+            {
+              "name": "Fresno Police Officers' Association",
+              "relationship": "alternate_spelling"
+            }
+          ]
+        },
+        {
+          "name": "LONG BEACH POLICE OFFICERS ASSOCIATION",
+          "relationship": "chapter",
+          "children": [
+            {
+              "name": "LONG BEACH POLICE OFFICERS ASSOCIATION (LBPOA)",
+              "relationship": "alternate_spelling"
+            },
+            {
+              "name": "Long Beach Police Officers' Association",
+              "relationship": "alternate_spelling"
+            }
+          ]
+        },
+        {
+          "name": "Los Angeles County Police Officers Association, IUPA",
+          "relationship": "chapter",
+          "children": [
+            {
+              "name": "Los Angeles County Police Officers Association, IUPA, Local 10",
+              "relationship": "alternate_spelling"
+            }
+          ]
+        },
+        {
+          "name": "RIVERSIDE POLICE OFFICERS' ASSOCIATION",
+          "relationship": "chapter",
+          "children": [
+            {
+              "name": "RIVERSIDE POLICE OFFICERS' ASSOCIATION (RPOA)",
+              "relationship": "alternate_spelling"
+            },
+            {
+              "name": "Riverside Police Officers Association",
+              "relationship": "alternate_spelling"
+            }
+          ]
+        },
+        {
+          "name": "SAN DIEGO POLICE OFFICERS ASSOCIATION",
+          "relationship": "chapter",
+          "children": [
+            {
+              "name": "SAN DIEGO POLICE OFFICERS ASSOCIATION (SDPOA)",
+              "relationship": "alternate_spelling"
+            },
+            {
+              "name": "San Diego Police Officers Association Inc",
+              "relationship": "alternate_spelling"
+            }
+          ]
+        },
+        {
+          "name": "SAN FRANCISCO POLICE OFFICERS ASSOCIATION",
+          "relationship": "chapter",
+          "children": [
+            {
+              "name": "SAN FRANCISCO POLICE OFFICERS ASSOCIATION (SFPOA)",
+              "relationship": "alternate_spelling"
+            },
+            {
+              "name": "San Francisco Police Officers' Association",
+              "relationship": "alternate_spelling"
+            }
+          ]
+        },
+        {
+          "name": "SANTA ANA POLICE OFFICERS ASSOCIATION",
+          "relationship": "chapter",
+          "children": [
+            {
+              "name": "SANTA ANA POLICE OFFICERS ASSOCIATION (SAPOA)",
+              "relationship": "alternate_spelling"
+            },
+            {
+              "name": "Santa Ana Police Officers' Association",
+              "relationship": "alternate_spelling"
+            }
+          ]
         }
       ]
     },
@@ -111526,20 +111592,6 @@
       ]
     },
     {
-      "canonical": "RIVERSIDE POLICE OFFICERS' ASSOCIATION",
-      "status": "active",
-      "children": [
-        {
-          "name": "RIVERSIDE POLICE OFFICERS' ASSOCIATION (RPOA)",
-          "relationship": "alternate_spelling"
-        },
-        {
-          "name": "Riverside Police Officers Association",
-          "relationship": "alternate_spelling"
-        }
-      ]
-    },
-    {
       "canonical": "Riverside Recovery Resources",
       "status": "active",
       "children": [
@@ -113928,20 +113980,6 @@
       ]
     },
     {
-      "canonical": "SAN DIEGO POLICE OFFICERS ASSOCIATION",
-      "status": "active",
-      "children": [
-        {
-          "name": "SAN DIEGO POLICE OFFICERS ASSOCIATION (SDPOA)",
-          "relationship": "alternate_spelling"
-        },
-        {
-          "name": "San Diego Police Officers Association Inc",
-          "relationship": "alternate_spelling"
-        }
-      ]
-    },
-    {
       "canonical": "SAN DIEGO REGIONAL ASTHMA COALITION",
       "status": "active",
       "children": []
@@ -114687,20 +114725,6 @@
       "canonical": "SAN FRANCISCO PLANNING AND URBAN RESEARCH",
       "status": "active",
       "children": []
-    },
-    {
-      "canonical": "SAN FRANCISCO POLICE OFFICERS ASSOCIATION",
-      "status": "active",
-      "children": [
-        {
-          "name": "SAN FRANCISCO POLICE OFFICERS ASSOCIATION (SFPOA)",
-          "relationship": "alternate_spelling"
-        },
-        {
-          "name": "San Francisco Police Officers' Association",
-          "relationship": "alternate_spelling"
-        }
-      ]
     },
     {
       "canonical": "SAN FRANCISCO PRETRIAL DIVERSION PROJECT",
@@ -115605,20 +115629,6 @@
         },
         {
           "name": "Santa Ana Educators Association",
-          "relationship": "alternate_spelling"
-        }
-      ]
-    },
-    {
-      "canonical": "SANTA ANA POLICE OFFICERS ASSOCIATION",
-      "status": "active",
-      "children": [
-        {
-          "name": "SANTA ANA POLICE OFFICERS ASSOCIATION (SAPOA)",
-          "relationship": "alternate_spelling"
-        },
-        {
-          "name": "Santa Ana Police Officers' Association",
           "relationship": "alternate_spelling"
         }
       ]
@@ -151231,16 +151241,6 @@
       "children": [
         {
           "name": "Los Angeles County Deputy Probations Officers Union, AFSCME Local 685",
-          "relationship": "chapter"
-        }
-      ]
-    },
-    {
-      "canonical": "Los Angeles County Police Officers Association, IUPA",
-      "status": "active",
-      "children": [
-        {
-          "name": "Los Angeles County Police Officers Association, IUPA, Local 10",
           "relationship": "chapter"
         }
       ]
