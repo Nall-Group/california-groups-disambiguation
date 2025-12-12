@@ -138833,6 +138833,28 @@
           "relationship": "chapter"
         },
         {
+          "name": "YIMBY ACTION",
+          "relationship": "chapter"
+        },
+        {
+          "name": "YIMBY DEMOCRATS OF SAN DIEGO COUNTY",
+          "relationship": "chapter"
+        },
+        {
+          "name": "YIMBY LAW",
+          "relationship": "chapter"
+        },
+        {
+          "name": "YIMBY VOICE",
+          "relationship": "chapter"
+        }
+      ]
+    },
+    {
+      "canonical": "YIMBY ACTION",
+      "status": "active",
+      "children": [
+        {
           "name": "EAST BAY YIMBY",
           "relationship": "chapter"
         },
@@ -138877,10 +138899,6 @@
           "relationship": "chapter"
         },
         {
-          "name": "SLO COUNTY YIMBY",
-          "relationship": "chapter"
-        },
-        {
           "name": "SOUTH BAY YIMBY",
           "relationship": "chapter"
         },
@@ -138889,27 +138907,7 @@
           "relationship": "chapter"
         },
         {
-          "name": "YIMBY ACTION",
-          "relationship": "chapter"
-        },
-        {
-          "name": "YIMBY DEMOCRATS OF SAN DIEGO COUNTY",
-          "relationship": "chapter"
-        },
-        {
           "name": "YIMBY INLAND EMPIRE",
-          "relationship": "chapter"
-        },
-        {
-          "name": "YIMBY LAW",
-          "relationship": "chapter"
-        },
-        {
-          "name": "YIMBY SLO",
-          "relationship": "chapter"
-        },
-        {
-          "name": "YIMBY VOICE",
           "relationship": "chapter"
         },
         {
@@ -138922,6 +138920,14 @@
         },
         {
           "name": "SAN FRANCISCO YES-IN-MY-BACK-YARD PARTY",
+          "relationship": "alternate_spelling"
+        },
+        {
+          "name": "SLO COUNTY YIMBY",
+          "relationship": "alternate_spelling"
+        },
+        {
+          "name": "YIMBY SLO",
           "relationship": "alternate_spelling"
         }
       ]
