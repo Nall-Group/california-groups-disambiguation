@@ -81,13 +81,16 @@ Police Officer's Association
 Police Officers' Research Association
 SHERIFF
 SHERIFF'S ASSOCIATION
-SHERIFF'S DEPARTMENT
+SHERIFF'S DEPARTMENT / Sheriffs
 SHERIFF'S EMPLOYEE BENEFITS ASSOCIATION
-Sheriffs
+
+Also add Sheriff and Police organizations that are not in the crosswalk, to the crosswalk.
 
 21. Remove CO-SPONSOR prefix or suffix from org names and merge duplicates
 
-22. Consolidate YIMBY orgs in crosswalk to one org
+22. Consolidate YIMBY orgs in crosswalk to one org. Add YIMBY orgs to the crosswalk that are not there yet.
+
+23. Conslidate place-based Chambers of Commerce as chapters of the California Chamber of Commerce (CALCHAMBER). Add Chambers of Commerce to the crosswalk that are not there yet.
 
 XX. Move things that are obviously not organization names (like sponsor or SB) to invalid organization names list 
 

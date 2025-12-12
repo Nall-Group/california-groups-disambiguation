@@ -20187,11 +20187,6 @@
       ]
     },
     {
-      "canonical": "CAL CHAMBER",
-      "status": "active",
-      "children": []
-    },
-    {
       "canonical": "CAL STATE STUDENT ASSOCIATION",
       "status": "active",
       "children": [
@@ -20282,20 +20277,6 @@
         {
           "name": "Calavo Growers of California",
           "relationship": "chapter"
-        }
-      ]
-    },
-    {
-      "canonical": "CALCHAMBER",
-      "status": "active",
-      "children": [
-        {
-          "name": "CALIFORNIA STATE CHAMBER OF COMMERCE",
-          "relationship": "alternate_spelling"
-        },
-        {
-          "name": "California Chamber of Commerce, CalChamber",
-          "relationship": "alternate_spelling"
         }
       ]
     },
@@ -21670,6 +21651,50 @@
         },
         {
           "name": "California Asian Pacific Chamber of Commerce (Co-Source)",
+          "relationship": "alternate_spelling"
+        },
+        {
+          "name": "Sacramento Asian Pacific Chamber of Commerce",
+          "relationship": "chapter"
+        },
+        {
+          "name": "CA Asian Pacific Chamber of Commerce",
+          "relationship": "alternate_spelling"
+        },
+        {
+          "name": "CA Asian Pacific Chamber",
+          "relationship": "alternate_spelling"
+        },
+        {
+          "name": "CalAsian Chamber",
+          "relationship": "alternate_spelling"
+        },
+        {
+          "name": "Cal Asian Pacific Islander Chamber of Commerce",
+          "relationship": "alternate_spelling"
+        },
+        {
+          "name": "California Asian and Pacific Islander Chamber of Commerce",
+          "relationship": "alternate_spelling"
+        },
+        {
+          "name": "Californian Asian Pacific Chamber of Commerce",
+          "relationship": "alternate_spelling"
+        },
+        {
+          "name": "California Asian Chamber of",
+          "relationship": "alternate_spelling"
+        },
+        {
+          "name": "California Asian Pacific Chamber",
+          "relationship": "alternate_spelling"
+        },
+        {
+          "name": "California Asian Pacific Chamber of",
+          "relationship": "alternate_spelling"
+        },
+        {
+          "name": "California Asian Pacific Chambers of Commerce",
           "relationship": "alternate_spelling"
         }
       ]
@@ -24684,6 +24709,110 @@
         {
           "name": "THE CALIFORNIA BLACK CHAMBER OF COMMERCE",
           "relationship": "alternate_spelling"
+        },
+        {
+          "name": "California Black Chamber of Commerce",
+          "relationship": "alternate_spelling"
+        },
+        {
+          "name": "California Black Chamber of Commerce Foundation",
+          "relationship": "alternate_spelling"
+        },
+        {
+          "name": "CA Black Chamber of Commerce",
+          "relationship": "alternate_spelling"
+        },
+        {
+          "name": "California Black Chamber",
+          "relationship": "alternate_spelling"
+        },
+        {
+          "name": "Ca Black Chamber Of Commerce Foundation",
+          "relationship": "alternate_spelling"
+        },
+        {
+          "name": "Sacramento Black Chamber of Commerce",
+          "relationship": "chapter"
+        },
+        {
+          "name": "Fresno Metro Black Chamber of Commerce",
+          "relationship": "chapter"
+        },
+        {
+          "name": "Moreno Valley Black Chamber of Commerce",
+          "relationship": "chapter"
+        },
+        {
+          "name": "Carson Black Chamber of Commerce",
+          "relationship": "chapter"
+        },
+        {
+          "name": "Oakland African American Chamber of Commerce",
+          "relationship": "chapter"
+        },
+        {
+          "name": "San Francisco Black Chamber of Commerce",
+          "relationship": "chapter"
+        },
+        {
+          "name": "Long Beach Black Chamber of Commerce",
+          "relationship": "chapter"
+        },
+        {
+          "name": "Silicon Valley Black Chamber of Commerce",
+          "relationship": "chapter"
+        },
+        {
+          "name": "Bay Area Black Chamber of Commerce",
+          "relationship": "chapter"
+        },
+        {
+          "name": "Bay Area Black Chambers of Commerce",
+          "relationship": "chapter"
+        },
+        {
+          "name": "Central San Diego Black Chamber of Commerce",
+          "relationship": "chapter"
+        },
+        {
+          "name": "Antelope Valley Black Chamber of Commerce",
+          "relationship": "chapter"
+        },
+        {
+          "name": "Black Chamber of Commerce of Los Angeles County",
+          "relationship": "chapter"
+        },
+        {
+          "name": "Black Chamber of Orange County",
+          "relationship": "chapter"
+        },
+        {
+          "name": "Black Chamber of Commerce- Orange County",
+          "relationship": "chapter"
+        },
+        {
+          "name": "Greater Los Angeles African American Chamber of Commerce",
+          "relationship": "chapter"
+        },
+        {
+          "name": "Greater LA African American Chamber of Commerce",
+          "relationship": "chapter"
+        },
+        {
+          "name": "Angeles African-American Chamber of Commerce",
+          "relationship": "chapter"
+        },
+        {
+          "name": "Oakland African-American Chamber of Commerce",
+          "relationship": "chapter"
+        },
+        {
+          "name": "Fresno Black Chamber",
+          "relationship": "chapter"
+        },
+        {
+          "name": "Fresno Metro Black Chamber",
+          "relationship": "chapter"
         }
       ]
     },
@@ -25235,13 +25364,1176 @@
         {
           "name": "California Chamber of Commerce California",
           "relationship": "chapter"
+        },
+        {
+          "name": "CALCHAMBER",
+          "relationship": "alternate_spelling"
+        },
+        {
+          "name": "CAL CHAMBER",
+          "relationship": "alternate_spelling"
+        },
+        {
+          "name": "CALIFORNIA STATE CHAMBER OF COMMERCE",
+          "relationship": "alternate_spelling"
+        },
+        {
+          "name": "California Chamber of Commerce, CalChamber",
+          "relationship": "alternate_spelling"
+        },
+        {
+          "name": "CALIFORNIA CHAMBER OF COMMERCE CITY OF CAMARILLO",
+          "relationship": "chapter"
+        },
+        {
+          "name": "CHAMBER OF COMMERCE MOUNTAIN VIEW",
+          "relationship": "chapter"
+        },
+        {
+          "name": "THE CHAMBER OF COMMERCE MOUNTAIN VIEW",
+          "relationship": "chapter"
+        },
+        {
+          "name": "Chamber of Commerce, Mountain View",
+          "relationship": "chapter"
+        },
+        {
+          "name": "CHAMBER OF COMMERCE OF THE SANTA BARBARA REGION",
+          "relationship": "chapter"
+        },
+        {
+          "name": "THE CHAMBER OF COMMERCE OF THE SANTA BARBARA REGION",
+          "relationship": "chapter"
+        },
+        {
+          "name": "CHAMBER OF COMMERCE OF WEST COVINA",
+          "relationship": "chapter"
+        },
+        {
+          "name": "THE CHAMBER OF COMMERCE OF WEST COVINA",
+          "relationship": "chapter"
+        },
+        {
+          "name": "LOS ANGELES AREA CHAMBER OF COMMERCE",
+          "relationship": "chapter"
+        },
+        {
+          "name": "THE LOS ANGELES AREA CHAMBER OF COMMERCE",
+          "relationship": "chapter"
+        },
+        {
+          "name": "Los Angeles Area, Chamber of Commerce",
+          "relationship": "chapter"
+        },
+        {
+          "name": "Montebello Chamber of Commerce and Industry",
+          "relationship": "chapter"
+        },
+        {
+          "name": "Montebello Chamber of Commerce and Industry, Inc",
+          "relationship": "chapter"
+        },
+        {
+          "name": "Murrieta Chamber of Commerce",
+          "relationship": "chapter"
+        },
+        {
+          "name": "Murrieta Chamber of Commerce, Inc",
+          "relationship": "chapter"
+        },
+        {
+          "name": "REGIONAL CHAMBER OF COMMERCE SAN GABRIEL VALLEY",
+          "relationship": "chapter"
+        },
+        {
+          "name": "REGIONAL CHAMBER OF COMMERCE SAN GABRIEL VALLEY (RCCSGV)",
+          "relationship": "chapter"
+        },
+        {
+          "name": "Regional Chamber of Commerce - San Gabriel Valley",
+          "relationship": "chapter"
+        },
+        {
+          "name": "Regional Chamber of Commerce-San Gabriel Valley",
+          "relationship": "chapter"
+        },
+        {
+          "name": "Santa Fe Springs Chamber of Commerce & Industrial League",
+          "relationship": "chapter"
+        },
+        {
+          "name": "Santa Fe Springs Chamber of Commerce & Industrial League, Inc",
+          "relationship": "chapter"
+        },
+        {
+          "name": "THOUSAND OAKS-WESTLAKE VILLAGE REGIONAL CHAMBER OF COMMERCE",
+          "relationship": "chapter"
+        },
+        {
+          "name": "THE THOUSAND OAKS-WESTLAKE VILLAGE REGIONAL CHAMBER OF COMMERCE",
+          "relationship": "chapter"
+        },
+        {
+          "name": "Thousand Oaks Westlake Village Regional Chamber of Commerce",
+          "relationship": "chapter"
+        },
+        {
+          "name": "Thousand Oaks/Westlake Village Regional Chamber of Commerce",
+          "relationship": "chapter"
+        },
+        {
+          "name": "UNITED CHAMBERS OF COMMERCE OF THE SAN FERNANDO VALLEY",
+          "relationship": "chapter"
+        },
+        {
+          "name": "THE UNITED CHAMBERS OF COMMERCE OF THE SAN FERNANDO VALLEY",
+          "relationship": "chapter"
+        },
+        {
+          "name": "WEST VALLEY WARNER CENTER CHAMBER OF COMMERCE",
+          "relationship": "chapter"
+        },
+        {
+          "name": "West Valley-Warner Center Chamber of Commerce",
+          "relationship": "chapter"
+        },
+        {
+          "name": "YUBA SUTTER CHAMBER OF COMMERCE",
+          "relationship": "chapter"
+        },
+        {
+          "name": "Yuba-Sutter Chamber of Commerce",
+          "relationship": "chapter"
+        },
+        {
+          "name": "Yuba- Sutter Chamber of Commerce",
+          "relationship": "chapter"
+        },
+        {
+          "name": "Simi Valley Chamber of Commerce",
+          "relationship": "chapter"
+        },
+        {
+          "name": "Brea Chamber of Commerce",
+          "relationship": "chapter"
+        },
+        {
+          "name": "Redondo Beach Chamber of Commerce",
+          "relationship": "chapter"
+        },
+        {
+          "name": "Carlsbad Chamber of Commerce",
+          "relationship": "chapter"
+        },
+        {
+          "name": "Oceanside Chamber of Commerce",
+          "relationship": "chapter"
+        },
+        {
+          "name": "Garden Grove Chamber of Commerce",
+          "relationship": "chapter"
+        },
+        {
+          "name": "Camarillo Chamber of Commerce",
+          "relationship": "chapter"
+        },
+        {
+          "name": "Corona Chamber of Commerce",
+          "relationship": "chapter"
+        },
+        {
+          "name": "Chino Valley Chamber of Commerce",
+          "relationship": "chapter"
+        },
+        {
+          "name": "Sacramento Metropolitan Chamber of Commerce",
+          "relationship": "chapter"
+        },
+        {
+          "name": "Santa Clarita Valley Chamber of Commerce",
+          "relationship": "chapter"
+        },
+        {
+          "name": "Fullerton Chamber of Commerce",
+          "relationship": "chapter"
+        },
+        {
+          "name": "Irvine Chamber of Commerce",
+          "relationship": "chapter"
+        },
+        {
+          "name": "Greater Riverside Chamber of Commerce",
+          "relationship": "chapter"
+        },
+        {
+          "name": "Palos Verdes Peninsula Chamber of Commerce",
+          "relationship": "chapter"
+        },
+        {
+          "name": "Pleasanton Chamber of Commerce",
+          "relationship": "chapter"
+        },
+        {
+          "name": "Lodi Chamber of Commerce",
+          "relationship": "chapter"
+        },
+        {
+          "name": "Fontana Chamber of Commerce",
+          "relationship": "chapter"
+        },
+        {
+          "name": "Los Angeles Chamber of Commerce",
+          "relationship": "chapter"
+        },
+        {
+          "name": "Santa Ana Chamber of Commerce",
+          "relationship": "chapter"
+        },
+        {
+          "name": "La Canada Flintridge Chamber of Commerce",
+          "relationship": "chapter"
+        },
+        {
+          "name": "Santee Chamber of Commerce",
+          "relationship": "chapter"
+        },
+        {
+          "name": "El Centro Chamber of Commerce",
+          "relationship": "chapter"
+        },
+        {
+          "name": "Culver City Chamber of Commerce",
+          "relationship": "chapter"
+        },
+        {
+          "name": "Glendora Chamber of Commerce",
+          "relationship": "chapter"
+        },
+        {
+          "name": "Visalia Chamber of Commerce",
+          "relationship": "chapter"
+        },
+        {
+          "name": "Rancho Cordova Area Chamber of Commerce",
+          "relationship": "chapter"
+        },
+        {
+          "name": "Newport Beach Chamber of Commerce",
+          "relationship": "chapter"
+        },
+        {
+          "name": "Milpitas Chamber of Commerce",
+          "relationship": "chapter"
+        },
+        {
+          "name": "Huntington Beach Chamber of Commerce",
+          "relationship": "chapter"
+        },
+        {
+          "name": "Fremont Chamber of Commerce",
+          "relationship": "chapter"
+        },
+        {
+          "name": "Tustin Chamber of Commerce",
+          "relationship": "chapter"
+        },
+        {
+          "name": "Lake Elsinore Valley Chamber of Commerce",
+          "relationship": "chapter"
+        },
+        {
+          "name": "Torrance Chamber of Commerce",
+          "relationship": "chapter"
+        },
+        {
+          "name": "Burbank Chamber of Commerce",
+          "relationship": "chapter"
+        },
+        {
+          "name": "San Juan Capistrano Chamber of Commerce",
+          "relationship": "chapter"
+        },
+        {
+          "name": "Alhambra Chamber of Commerce",
+          "relationship": "chapter"
+        },
+        {
+          "name": "Yorba Linda Chamber of Commerce",
+          "relationship": "chapter"
+        },
+        {
+          "name": "Laguna Niguel Chamber of Commerce",
+          "relationship": "chapter"
+        },
+        {
+          "name": "Livermore Valley Chamber of Commerce",
+          "relationship": "chapter"
+        },
+        {
+          "name": "Long Beach Chamber of Commerce",
+          "relationship": "chapter"
+        },
+        {
+          "name": "Rocklin Area Chamber of Commerce",
+          "relationship": "chapter"
+        },
+        {
+          "name": "El Monte/south El Monte Chamber of Commerce",
+          "relationship": "chapter"
+        },
+        {
+          "name": "Lincoln Area Chamber of Commerce",
+          "relationship": "chapter"
+        },
+        {
+          "name": "San Pedro Chamber of Commerce",
+          "relationship": "chapter"
+        },
+        {
+          "name": "Danville Area Chamber of Commerce",
+          "relationship": "chapter"
+        },
+        {
+          "name": "Rancho Cucamonga Chamber of Commerce",
+          "relationship": "chapter"
+        },
+        {
+          "name": "Cupertino Chamber of Commerce",
+          "relationship": "chapter"
+        },
+        {
+          "name": "Otay Mesa Chamber of Commerce",
+          "relationship": "chapter"
+        },
+        {
+          "name": "Moreno Valley Chamber of Commerce",
+          "relationship": "chapter"
+        },
+        {
+          "name": "San Diego East County Chamber of Commerce",
+          "relationship": "chapter"
+        },
+        {
+          "name": "Carson Chamber of Commerce",
+          "relationship": "chapter"
+        },
+        {
+          "name": "Palm Desert Chamber of Commerce",
+          "relationship": "chapter"
+        },
+        {
+          "name": "Imperial Valley Regional Chamber of Commerce",
+          "relationship": "chapter"
+        },
+        {
+          "name": "Shingle Springs/cameron Park Chamber of Commerce",
+          "relationship": "chapter"
+        },
+        {
+          "name": "Greater Stockton Chamber of Commerce",
+          "relationship": "chapter"
+        },
+        {
+          "name": "Vista Chamber of Commerce",
+          "relationship": "chapter"
+        },
+        {
+          "name": "Norwalk Chamber of Commerce",
+          "relationship": "chapter"
+        },
+        {
+          "name": "Fountain Valley Chamber of Commerce",
+          "relationship": "chapter"
+        },
+        {
+          "name": "Mission Viejo Chamber of Commerce",
+          "relationship": "chapter"
+        },
+        {
+          "name": "Indio Chamber of Commerce",
+          "relationship": "chapter"
+        },
+        {
+          "name": "La Verne Chamber of Commerce",
+          "relationship": "chapter"
+        },
+        {
+          "name": "Beverly Hills Chamber of Commerce",
+          "relationship": "chapter"
+        },
+        {
+          "name": "San Marcos Chamber of Commerce",
+          "relationship": "chapter"
+        },
+        {
+          "name": "Rancho Mirage Chamber of Commerce",
+          "relationship": "chapter"
+        },
+        {
+          "name": "Salinas Valley Chamber of Commerce",
+          "relationship": "chapter"
+        },
+        {
+          "name": "Temecula Valley Chamber of Commerce",
+          "relationship": "chapter"
+        },
+        {
+          "name": "Paso Robles Chamber of Commerce",
+          "relationship": "chapter"
+        },
+        {
+          "name": "Pasadena Chamber of Commerce",
+          "relationship": "chapter"
+        },
+        {
+          "name": "Upland Chamber of Commerce",
+          "relationship": "chapter"
+        },
+        {
+          "name": "San Diego Chamber of Commerce",
+          "relationship": "chapter"
+        },
+        {
+          "name": "Chula Vista Chamber of Commerce",
+          "relationship": "chapter"
+        },
+        {
+          "name": "Gardena Valley Chamber of Commerce",
+          "relationship": "chapter"
+        },
+        {
+          "name": "Roseville Chamber of Commerce",
+          "relationship": "chapter"
+        },
+        {
+          "name": "Manhattan Beach Chamber of Commerce",
+          "relationship": "chapter"
+        },
+        {
+          "name": "Pomona Chamber of Commerce",
+          "relationship": "chapter"
+        },
+        {
+          "name": "El Segundo Chamber of Commerce",
+          "relationship": "chapter"
+        },
+        {
+          "name": "Citrus Heights Chamber of Commerce",
+          "relationship": "chapter"
+        },
+        {
+          "name": "Perris Valley Chamber of Commerce",
+          "relationship": "chapter"
+        },
+        {
+          "name": "Hesperia Chamber of Commerce",
+          "relationship": "chapter"
+        },
+        {
+          "name": "Orange Chamber of Commerce",
+          "relationship": "chapter"
+        },
+        {
+          "name": "Ridgecrest Chamber of Commerce",
+          "relationship": "chapter"
+        },
+        {
+          "name": "Napa Chamber of Commerce",
+          "relationship": "chapter"
+        },
+        {
+          "name": "Mountain View Chamber of Commerce",
+          "relationship": "chapter"
+        },
+        {
+          "name": "Victor Valley Chamber of Commerce",
+          "relationship": "chapter"
+        },
+        {
+          "name": "Costa Mesa Chamber of Commerce",
+          "relationship": "chapter"
+        },
+        {
+          "name": "Ventura Chamber of Commerce",
+          "relationship": "chapter"
+        },
+        {
+          "name": "Templeton Chamber of Commerce",
+          "relationship": "chapter"
+        },
+        {
+          "name": "Azusa Chamber of Commerce",
+          "relationship": "chapter"
+        },
+        {
+          "name": "Highland Area Chamber of Commerce",
+          "relationship": "chapter"
+        },
+        {
+          "name": "Beaumont Chamber of Commerce",
+          "relationship": "chapter"
+        },
+        {
+          "name": "Wildomar Chamber of Commerce",
+          "relationship": "chapter"
+        },
+        {
+          "name": "Irwindale Chamber of Commerce",
+          "relationship": "chapter"
+        },
+        {
+          "name": "San Ysidro Chamber of Commerce",
+          "relationship": "chapter"
+        },
+        {
+          "name": "Monterey Peninsula Chamber of Commerce",
+          "relationship": "chapter"
+        },
+        {
+          "name": "San Jose Metropolitan Chamber of Commerce",
+          "relationship": "chapter"
+        },
+        {
+          "name": "San Rafael Chamber of Commerce",
+          "relationship": "chapter"
+        },
+        {
+          "name": "Menifee Valley Chamber of Commerce",
+          "relationship": "chapter"
+        },
+        {
+          "name": "Claremont Chamber of Commerce",
+          "relationship": "chapter"
+        },
+        {
+          "name": "Santa Clara Chamber of Commerce",
+          "relationship": "chapter"
+        },
+        {
+          "name": "Lakeside Chamber of Commerce",
+          "relationship": "chapter"
+        },
+        {
+          "name": "Turlock Chamber of Commerce",
+          "relationship": "chapter"
+        },
+        {
+          "name": "Downey Chamber of Commerce",
+          "relationship": "chapter"
+        },
+        {
+          "name": "Hemet San Jacinto Valley Chamber of Commerce",
+          "relationship": "chapter"
+        },
+        {
+          "name": "Lake Tahoe South Shore Chamber of Commerce",
+          "relationship": "chapter"
+        },
+        {
+          "name": "San Mateo Area Chamber of Commerce",
+          "relationship": "chapter"
+        },
+        {
+          "name": "Bell Gardens Chamber of Commerce",
+          "relationship": "chapter"
+        },
+        {
+          "name": "Cerritos Chamber of Commerce",
+          "relationship": "chapter"
+        },
+        {
+          "name": "Lancaster Chamber of Commerce",
+          "relationship": "chapter"
+        },
+        {
+          "name": "San Bernardino Area Chamber of Commerce",
+          "relationship": "chapter"
+        },
+        {
+          "name": "Apple Valley Chamber of Commerce",
+          "relationship": "chapter"
+        },
+        {
+          "name": "San Gabriel Valley Regional Chamber of Commerce",
+          "relationship": "chapter"
+        },
+        {
+          "name": "Duarte Chamber of Commerce",
+          "relationship": "chapter"
+        },
+        {
+          "name": "Goleta Valley Chamber of Commerce",
+          "relationship": "chapter"
+        },
+        {
+          "name": "Hermosa Beach Chamber of Commerce",
+          "relationship": "chapter"
+        },
+        {
+          "name": "Port Hueneme Chamber of Commerce",
+          "relationship": "chapter"
+        },
+        {
+          "name": "Berkeley Chamber of Commerce",
+          "relationship": "chapter"
+        },
+        {
+          "name": "Encino Chamber of Commerce",
+          "relationship": "chapter"
+        },
+        {
+          "name": "Fairfield-Suisun Chamber of Commerce",
+          "relationship": "chapter"
+        },
+        {
+          "name": "Half Moon Bay Coastside Chamber of Commerce",
+          "relationship": "chapter"
+        },
+        {
+          "name": "Big Bear Chamber of Commerce",
+          "relationship": "chapter"
+        },
+        {
+          "name": "Clovis Chamber of Commerce",
+          "relationship": "chapter"
+        },
+        {
+          "name": "Orange County Chamber of Commerce",
+          "relationship": "chapter"
+        },
+        {
+          "name": "Lomita Chamber of Commerce",
+          "relationship": "chapter"
+        },
+        {
+          "name": "Morgan Hill Chamber of Commerce",
+          "relationship": "chapter"
+        },
+        {
+          "name": "Tahoe Chamber of Commerce",
+          "relationship": "chapter"
+        },
+        {
+          "name": "North Lake Tahoe Chamber of Commerce",
+          "relationship": "chapter"
+        },
+        {
+          "name": "La Mirada Chamber of Commerce",
+          "relationship": "chapter"
+        },
+        {
+          "name": "Yreka Chamber of Commerce",
+          "relationship": "chapter"
+        },
+        {
+          "name": "Glendale Chamber of Commerce",
+          "relationship": "chapter"
+        },
+        {
+          "name": "Hawthorne Chamber of Commerce",
+          "relationship": "chapter"
+        },
+        {
+          "name": "Pittsburg Chamber of Commerce",
+          "relationship": "chapter"
+        },
+        {
+          "name": "Mid Valley Chamber of Commerce",
+          "relationship": "chapter"
+        },
+        {
+          "name": "Antelope Valley Chamber of Commerce",
+          "relationship": "chapter"
+        },
+        {
+          "name": "Escondido Chamber of Commerce",
+          "relationship": "chapter"
+        },
+        {
+          "name": "Inglewood-Airport Area Chamber of Commerce",
+          "relationship": "chapter"
+        },
+        {
+          "name": "West Covina Chamber of Commerce",
+          "relationship": "chapter"
+        },
+        {
+          "name": "Calexico Chamber of Commerce",
+          "relationship": "chapter"
+        },
+        {
+          "name": "Buena Park Chamber of Commerce",
+          "relationship": "chapter"
+        },
+        {
+          "name": "Encinitas Chamber of Commerce",
+          "relationship": "chapter"
+        },
+        {
+          "name": "Bakersfield Chamber of Commerce",
+          "relationship": "chapter"
+        },
+        {
+          "name": "Lincoln Chamber of Commerce",
+          "relationship": "chapter"
+        },
+        {
+          "name": "Sherman Oaks Chamber of Commerce",
+          "relationship": "chapter"
+        },
+        {
+          "name": "Venice Chamber of Commerce",
+          "relationship": "chapter"
+        },
+        {
+          "name": "San Fernando Chamber of Commerce",
+          "relationship": "chapter"
+        },
+        {
+          "name": "Alameda Chamber of Commerce",
+          "relationship": "chapter"
+        },
+        {
+          "name": "Fresno Area Chamber of Commerce",
+          "relationship": "chapter"
+        },
+        {
+          "name": "Harbor City/Harbor Gateway Chamber of Commerce",
+          "relationship": "chapter"
+        },
+        {
+          "name": "Ontario Chamber of Commerce",
+          "relationship": "chapter"
+        },
+        {
+          "name": "Montclair Chamber of Commerce",
+          "relationship": "chapter"
+        },
+        {
+          "name": "Santa Paula Chamber of Commerce",
+          "relationship": "chapter"
+        },
+        {
+          "name": "San Fernando Valley Chamber of Commerce",
+          "relationship": "chapter"
+        },
+        {
+          "name": "South San Francisco Chamber of Commerce",
+          "relationship": "chapter"
+        },
+        {
+          "name": "Banning Chamber of Commerce",
+          "relationship": "chapter"
+        },
+        {
+          "name": "Arcadia Chamber of Commerce",
+          "relationship": "chapter"
+        },
+        {
+          "name": "Eureka Chamber of Commerce",
+          "relationship": "chapter"
+        },
+        {
+          "name": "East Los Angeles Chamber of Commerce",
+          "relationship": "chapter"
+        },
+        {
+          "name": "Poway Chamber of Commerce",
+          "relationship": "chapter"
+        },
+        {
+          "name": "San Ramon Chamber of Commerce",
+          "relationship": "chapter"
+        },
+        {
+          "name": "San Carlos Chamber of Commerce",
+          "relationship": "chapter"
+        },
+        {
+          "name": "Norco Area Chamber of Commerce",
+          "relationship": "chapter"
+        },
+        {
+          "name": "Moorpark Chamber of Commerce",
+          "relationship": "chapter"
+        },
+        {
+          "name": "Antioch Chamber of Commerce",
+          "relationship": "chapter"
+        },
+        {
+          "name": "Rocklin Chamber of Commerce",
+          "relationship": "chapter"
+        },
+        {
+          "name": "Livermore Chamber of Commerce",
+          "relationship": "chapter"
+        },
+        {
+          "name": "Laguna Hills Chamber of Commerce",
+          "relationship": "chapter"
+        },
+        {
+          "name": "Mammoth Lakes Chamber of Commerce",
+          "relationship": "chapter"
+        },
+        {
+          "name": "Vallejo Chamber of Commerce",
+          "relationship": "chapter"
+        },
+        {
+          "name": "San Leandro Chamber of Commerce",
+          "relationship": "chapter"
+        },
+        {
+          "name": "Granada Hills Chamber of Commerce",
+          "relationship": "chapter"
+        },
+        {
+          "name": "Greater Redding Chamber of Commerce",
+          "relationship": "chapter"
+        },
+        {
+          "name": "Fortuna Chamber of Commerce",
+          "relationship": "chapter"
+        },
+        {
+          "name": "Dublin Chamber of Commerce",
+          "relationship": "chapter"
+        },
+        {
+          "name": "Pacific Grove Chamber of Commerce",
+          "relationship": "chapter"
+        },
+        {
+          "name": "Lake Forest Chamber of Commerce",
+          "relationship": "chapter"
+        },
+        {
+          "name": "Los Altos Chamber of Commerce",
+          "relationship": "chapter"
+        },
+        {
+          "name": "Chatsworth Chamber of Commerce",
+          "relationship": "chapter"
+        },
+        {
+          "name": "Auburn Chamber of Commerce",
+          "relationship": "chapter"
+        },
+        {
+          "name": "Highland Chamber of Commerce",
+          "relationship": "chapter"
+        },
+        {
+          "name": "Compton Chamber of Commerce",
+          "relationship": "chapter"
+        },
+        {
+          "name": "Citrus Heights Regional Chamber of Commerce",
+          "relationship": "chapter"
+        },
+        {
+          "name": "La Habra Area Chamber of Commerce",
+          "relationship": "chapter"
+        },
+        {
+          "name": "Merced Chamber of Commerce",
+          "relationship": "chapter"
+        },
+        {
+          "name": "Monrovia Chamber of Commerce",
+          "relationship": "chapter"
+        },
+        {
+          "name": "Rosemead Chamber of Commerce",
+          "relationship": "chapter"
+        },
+        {
+          "name": "Catalina Island Chamber of Commerce",
+          "relationship": "chapter"
+        },
+        {
+          "name": "Baldwin Park Chamber of Commerce",
+          "relationship": "chapter"
+        },
+        {
+          "name": "Palo Alto Chamber of Commerce",
+          "relationship": "chapter"
+        },
+        {
+          "name": "Ripon Chamber of Commerce",
+          "relationship": "chapter"
+        },
+        {
+          "name": "Pleasant Hill Chamber of Commerce",
+          "relationship": "chapter"
+        },
+        {
+          "name": "Mid San Fernando Valley Chamber of Commerce",
+          "relationship": "chapter"
+        },
+        {
+          "name": "Malibu Chamber of Commerce",
+          "relationship": "chapter"
+        },
+        {
+          "name": "Vernon Chamber of Commerce",
+          "relationship": "chapter"
+        },
+        {
+          "name": "Santa Barbara Chamber of Commerce",
+          "relationship": "chapter"
+        },
+        {
+          "name": "South Pasadena Chamber of Commerce",
+          "relationship": "chapter"
+        },
+        {
+          "name": "Santa Maria Chamber of Commerce",
+          "relationship": "chapter"
+        },
+        {
+          "name": "Bell Chamber of Commerce",
+          "relationship": "chapter"
+        },
+        {
+          "name": "Greater Concord Chamber of Commerce",
+          "relationship": "chapter"
+        },
+        {
+          "name": "Greater Lakewood Chamber of Commerce",
+          "relationship": "chapter"
+        },
+        {
+          "name": "Desert Hot Springs Chamber of Commerce",
+          "relationship": "chapter"
+        },
+        {
+          "name": "La Mesa Chamber of Commerce",
+          "relationship": "chapter"
+        },
+        {
+          "name": "Lake County Chamber of Commerce",
+          "relationship": "chapter"
+        },
+        {
+          "name": "Ojai Valley Chamber of Commerce",
+          "relationship": "chapter"
+        },
+        {
+          "name": "Lawndale Chamber of Commerce",
+          "relationship": "chapter"
+        },
+        {
+          "name": "Lake Arrowhead Communities Chamber of Commerce",
+          "relationship": "chapter"
+        },
+        {
+          "name": "Merced County Chamber of Commerce",
+          "relationship": "chapter"
+        },
+        {
+          "name": "Studio City Chamber of Commerce",
+          "relationship": "chapter"
+        },
+        {
+          "name": "Temecula Chamber of Commerce",
+          "relationship": "chapter"
+        },
+        {
+          "name": "Woodland Hills Chamber of Commerce",
+          "relationship": "chapter"
+        },
+        {
+          "name": "Walnut Creek Chamber of Commerce",
+          "relationship": "chapter"
+        },
+        {
+          "name": "Santa Cruz Area Chamber of Commerce",
+          "relationship": "chapter"
+        },
+        {
+          "name": "Campbell Chamber of Commerce",
+          "relationship": "chapter"
+        },
+        {
+          "name": "Carmel Valley Chamber of Commerce",
+          "relationship": "chapter"
+        },
+        {
+          "name": "Emeryville Chamber of Commerce",
+          "relationship": "chapter"
+        },
+        {
+          "name": "Fallbrook Chamber of Commerce",
+          "relationship": "chapter"
+        },
+        {
+          "name": "Cypress Chamber of Commerce",
+          "relationship": "chapter"
+        },
+        {
+          "name": "Oakley Chamber of Commerce",
+          "relationship": "chapter"
+        },
+        {
+          "name": "Placentia Chamber of Commerce",
+          "relationship": "chapter"
+        },
+        {
+          "name": "Palm Springs Chamber of Commerce",
+          "relationship": "chapter"
+        },
+        {
+          "name": "Lynwood Chamber of Commerce",
+          "relationship": "chapter"
+        },
+        {
+          "name": "Carpinteria Valley Chamber of Commerce",
+          "relationship": "chapter"
+        },
+        {
+          "name": "Century City Chamber of Commerce",
+          "relationship": "chapter"
+        },
+        {
+          "name": "Bishop Area Chamber of Commerce",
+          "relationship": "chapter"
+        },
+        {
+          "name": "Conejo Valley Chamber of Commerce",
+          "relationship": "chapter"
+        },
+        {
+          "name": "Reseda Chamber of Commerce",
+          "relationship": "chapter"
+        },
+        {
+          "name": "Los Gatos Chamber of Commerce",
+          "relationship": "chapter"
+        },
+        {
+          "name": "Lemon Grove Chamber of Commerce",
+          "relationship": "chapter"
+        },
+        {
+          "name": "Lakewood Chamber of Commerce",
+          "relationship": "chapter"
+        },
+        {
+          "name": "Millbrae Chamber of Commerce",
+          "relationship": "chapter"
+        },
+        {
+          "name": "South Lake Tahoe Chamber of Commerce",
+          "relationship": "chapter"
+        },
+        {
+          "name": "Solvang Chamber of Commerce",
+          "relationship": "chapter"
+        },
+        {
+          "name": "Martinez Chamber of Commerce",
+          "relationship": "chapter"
+        },
+        {
+          "name": "Temple City Chamber of Commerce",
+          "relationship": "chapter"
+        },
+        {
+          "name": "Victorville Chamber of Commerce",
+          "relationship": "chapter"
+        },
+        {
+          "name": "San Clemente Chamber of Commerce",
+          "relationship": "chapter"
+        },
+        {
+          "name": "Santa Clarita Chamber of Commerce",
+          "relationship": "chapter"
+        },
+        {
+          "name": "Richmond Chamber of Commerce",
+          "relationship": "chapter"
+        },
+        {
+          "name": "Brentwood Chamber of Commerce",
+          "relationship": "chapter"
+        },
+        {
+          "name": "Hanford Chamber of Commerce",
+          "relationship": "chapter"
+        },
+        {
+          "name": "Concord Chamber of Commerce",
+          "relationship": "chapter"
+        },
+        {
+          "name": "Oroville Area Chamber of Commerce",
+          "relationship": "chapter"
+        },
+        {
+          "name": "Sunnyvale Chamber of Commerce",
+          "relationship": "chapter"
+        },
+        {
+          "name": "West Sacramento Chamber of Commerce",
+          "relationship": "chapter"
+        },
+        {
+          "name": "West Los Angeles Chamber of Commerce",
+          "relationship": "chapter"
+        },
+        {
+          "name": "San Gabriel Chamber of Commerce",
+          "relationship": "chapter"
+        },
+        {
+          "name": "San Dimas Chamber of Commerce",
+          "relationship": "chapter"
+        },
+        {
+          "name": "Salinas Area Chamber of Commerce",
+          "relationship": "chapter"
+        },
+        {
+          "name": "San Bernardino Chamber of Commerce",
+          "relationship": "chapter"
+        },
+        {
+          "name": "Amador County Chamber of Commerce",
+          "relationship": "chapter"
+        },
+        {
+          "name": "Atascadero Chamber of Commerce",
+          "relationship": "chapter"
+        },
+        {
+          "name": "Barstow Area Chamber of Commerce",
+          "relationship": "chapter"
+        },
+        {
+          "name": "Adelanto Chamber of Commerce",
+          "relationship": "chapter"
+        },
+        {
+          "name": "Colusa County Chamber of Commerce",
+          "relationship": "chapter"
+        },
+        {
+          "name": "CA Chamber of Commerce",
+          "relationship": "alternate_spelling"
+        },
+        {
+          "name": "California Chamber",
+          "relationship": "alternate_spelling"
+        },
+        {
+          "name": "Calif. Chamber of Commerce",
+          "relationship": "alternate_spelling"
         }
       ]
-    },
-    {
-      "canonical": "CALIFORNIA CHAMBER OF COMMERCE CITY OF CAMARILLO",
-      "status": "active",
-      "children": []
     },
     {
       "canonical": "CALIFORNIA CHAPARRAL INSTITUTE",
@@ -29159,6 +30451,146 @@
         {
           "name": "California Hispanic Chambers of Commerce (CHDD)",
           "relationship": "alternate_spelling"
+        },
+        {
+          "name": "CA Hispanic Chamber of Commerce",
+          "relationship": "alternate_spelling"
+        },
+        {
+          "name": "California Hispanic Chamber",
+          "relationship": "alternate_spelling"
+        },
+        {
+          "name": "California Hispanic Chambers of Commerce",
+          "relationship": "alternate_spelling"
+        },
+        {
+          "name": "Orange County Hispanic Chamber of Commerce",
+          "relationship": "chapter"
+        },
+        {
+          "name": "Kern County Hispanic Chamber of Commerce",
+          "relationship": "chapter"
+        },
+        {
+          "name": "Sacramento Hispanic Chamber of Commerce",
+          "relationship": "chapter"
+        },
+        {
+          "name": "San Joaquin County Hispanic Chamber of Commerce",
+          "relationship": "chapter"
+        },
+        {
+          "name": "Hispanic Chambers of Commerce of San Francisco",
+          "relationship": "chapter"
+        },
+        {
+          "name": "San Diego County Hispanic Chamber of Commerce",
+          "relationship": "chapter"
+        },
+        {
+          "name": "Greater Riverside Hispanic Chamber of Commerce",
+          "relationship": "chapter"
+        },
+        {
+          "name": "Central California Hispanic Chamber of Commerce",
+          "relationship": "chapter"
+        },
+        {
+          "name": "Central Valley Hispanic Chamber of Commerce",
+          "relationship": "chapter"
+        },
+        {
+          "name": "Antelope Valley Hispanic Chamber of Commerce",
+          "relationship": "chapter"
+        },
+        {
+          "name": "Hispanic Chamber of Commerce of Alameda County",
+          "relationship": "chapter"
+        },
+        {
+          "name": "Hispanic Chamber of Commerce Alameda County",
+          "relationship": "chapter"
+        },
+        {
+          "name": "Hispanic Chamber of Commerce of Stanislaus County",
+          "relationship": "chapter"
+        },
+        {
+          "name": "Gold Coast Hispanic Chamber of Commerce",
+          "relationship": "chapter"
+        },
+        {
+          "name": "Los Angeles Latino Chamber of Commerce",
+          "relationship": "chapter"
+        },
+        {
+          "name": "South Bay Latino Chamber of Commerce",
+          "relationship": "chapter"
+        },
+        {
+          "name": "Greater Corona Hispanic Chamber of Commerce",
+          "relationship": "chapter"
+        },
+        {
+          "name": "Hispanic Chamber of Commerce of Contra Costa County",
+          "relationship": "chapter"
+        },
+        {
+          "name": "Hispanic Chamber of Commerce of Marin",
+          "relationship": "chapter"
+        },
+        {
+          "name": "Hispanic Chamber of Commerce of Orange County",
+          "relationship": "chapter"
+        },
+        {
+          "name": "Hispanic Chamber of Commerce of San Francisco",
+          "relationship": "chapter"
+        },
+        {
+          "name": "Hispanic Chamber of Commerce of Silicon Valley",
+          "relationship": "chapter"
+        },
+        {
+          "name": "Hispanic Chamber of Commerce of Sonoma County",
+          "relationship": "chapter"
+        },
+        {
+          "name": "Hispanic Chamber of Commerce of Ventura County",
+          "relationship": "chapter"
+        },
+        {
+          "name": "Tulare Kings Hispanic Chamber of Commerce",
+          "relationship": "chapter"
+        },
+        {
+          "name": "Hispanic Inland Empire Chamber of Commerce",
+          "relationship": "chapter"
+        },
+        {
+          "name": "Inland Empire Hispanic Chambers of Commerce",
+          "relationship": "chapter"
+        },
+        {
+          "name": "Greater San Jose Hispanic Chamber of Commerce",
+          "relationship": "chapter"
+        },
+        {
+          "name": "Los Angeles Metropolitan Hispanic Chamber of Commerce",
+          "relationship": "chapter"
+        },
+        {
+          "name": "Los Angeles Metro Hispanic Chamber of Commerce",
+          "relationship": "chapter"
+        },
+        {
+          "name": "San Francisco Bay Area Hispanic Chamber of Commerce",
+          "relationship": "chapter"
+        },
+        {
+          "name": "Compton Latino Chamber of Commerce",
+          "relationship": "chapter"
         }
       ]
     },
@@ -40059,40 +41491,6 @@
       "children": [
         {
           "name": "THE CHAMBER OF COMMERCE FOR GREATER BRAWLEY",
-          "relationship": "alternate_spelling"
-        }
-      ]
-    },
-    {
-      "canonical": "CHAMBER OF COMMERCE MOUNTAIN VIEW",
-      "status": "active",
-      "children": [
-        {
-          "name": "THE CHAMBER OF COMMERCE MOUNTAIN VIEW",
-          "relationship": "alternate_spelling"
-        },
-        {
-          "name": "Chamber of Commerce, Mountain View",
-          "relationship": "alternate_spelling"
-        }
-      ]
-    },
-    {
-      "canonical": "CHAMBER OF COMMERCE OF THE SANTA BARBARA REGION",
-      "status": "active",
-      "children": [
-        {
-          "name": "THE CHAMBER OF COMMERCE OF THE SANTA BARBARA REGION",
-          "relationship": "alternate_spelling"
-        }
-      ]
-    },
-    {
-      "canonical": "CHAMBER OF COMMERCE OF WEST COVINA",
-      "status": "active",
-      "children": [
-        {
-          "name": "THE CHAMBER OF COMMERCE OF WEST COVINA",
           "relationship": "alternate_spelling"
         }
       ]
@@ -85969,20 +87367,6 @@
       ]
     },
     {
-      "canonical": "LOS ANGELES AREA CHAMBER OF COMMERCE",
-      "status": "active",
-      "children": [
-        {
-          "name": "THE LOS ANGELES AREA CHAMBER OF COMMERCE",
-          "relationship": "alternate_spelling"
-        },
-        {
-          "name": "Los Angeles Area, Chamber of Commerce",
-          "relationship": "alternate_spelling"
-        }
-      ]
-    },
-    {
       "canonical": "LOS ANGELES AUDUBON SOCIETY",
       "status": "active",
       "children": []
@@ -91817,16 +93201,6 @@
       ]
     },
     {
-      "canonical": "Montebello Chamber of Commerce and Industry",
-      "status": "active",
-      "children": [
-        {
-          "name": "Montebello Chamber of Commerce and Industry, Inc",
-          "relationship": "alternate_spelling"
-        }
-      ]
-    },
-    {
       "canonical": "MONTEBELLO GOLF PLAYERS CLUB",
       "status": "active",
       "children": []
@@ -92821,16 +94195,6 @@
       "canonical": "MURRIETA",
       "status": "active",
       "children": []
-    },
-    {
-      "canonical": "Murrieta Chamber of Commerce",
-      "status": "active",
-      "children": [
-        {
-          "name": "Murrieta Chamber of Commerce, Inc",
-          "relationship": "alternate_spelling"
-        }
-      ]
     },
     {
       "canonical": "MURRIETA TEMECULA GROUP",
@@ -109697,24 +111061,6 @@
       ]
     },
     {
-      "canonical": "REGIONAL CHAMBER OF COMMERCE SAN GABRIEL VALLEY",
-      "status": "active",
-      "children": [
-        {
-          "name": "REGIONAL CHAMBER OF COMMERCE SAN GABRIEL VALLEY (RCCSGV)",
-          "relationship": "alternate_spelling"
-        },
-        {
-          "name": "Regional Chamber of Commerce - San Gabriel Valley",
-          "relationship": "alternate_spelling"
-        },
-        {
-          "name": "Regional Chamber of Commerce-San Gabriel Valley",
-          "relationship": "alternate_spelling"
-        }
-      ]
-    },
-    {
       "canonical": "REGIONAL COUNCIL OF",
       "status": "active",
       "children": [
@@ -115936,16 +117282,6 @@
       "children": [
         {
           "name": "Santa Fe Pacific Pipelines, Inc",
-          "relationship": "alternate_spelling"
-        }
-      ]
-    },
-    {
-      "canonical": "Santa Fe Springs Chamber of Commerce & Industrial League",
-      "status": "active",
-      "children": [
-        {
-          "name": "Santa Fe Springs Chamber of Commerce & Industrial League, Inc",
           "relationship": "alternate_spelling"
         }
       ]
@@ -128136,24 +129472,6 @@
       "children": []
     },
     {
-      "canonical": "THOUSAND OAKS-WESTLAKE VILLAGE REGIONAL CHAMBER OF COMMERCE",
-      "status": "active",
-      "children": [
-        {
-          "name": "THE THOUSAND OAKS-WESTLAKE VILLAGE REGIONAL CHAMBER OF COMMERCE",
-          "relationship": "alternate_spelling"
-        },
-        {
-          "name": "Thousand Oaks Westlake Village Regional Chamber of Commerce",
-          "relationship": "alternate_spelling"
-        },
-        {
-          "name": "Thousand Oaks/Westlake Village Regional Chamber of Commerce",
-          "relationship": "alternate_spelling"
-        }
-      ]
-    },
-    {
       "canonical": "THREE TREES DELIVERY",
       "status": "active",
       "children": [
@@ -131226,16 +132544,6 @@
         {
           "name": "United Chamber Advocacy Network of California",
           "relationship": "chapter"
-        }
-      ]
-    },
-    {
-      "canonical": "UNITED CHAMBERS OF COMMERCE OF THE SAN FERNANDO VALLEY",
-      "status": "active",
-      "children": [
-        {
-          "name": "THE UNITED CHAMBERS OF COMMERCE OF THE SAN FERNANDO VALLEY",
-          "relationship": "alternate_spelling"
         }
       ]
     },
@@ -136353,16 +137661,6 @@
       "children": []
     },
     {
-      "canonical": "WEST VALLEY WARNER CENTER CHAMBER OF COMMERCE",
-      "status": "active",
-      "children": [
-        {
-          "name": "West Valley-Warner Center Chamber of Commerce",
-          "relationship": "alternate_spelling"
-        }
-      ]
-    },
-    {
       "canonical": "WEST WOOD HIGHLANDS NEIGHBORHOOD ASSOCIATION",
       "status": "active",
       "children": []
@@ -137110,7 +138408,12 @@
     {
       "canonical": "WESTSIDE COUNCIL OF CHAMBERS OF COMMERCE",
       "status": "active",
-      "children": []
+      "children": [
+        {
+          "name": "Westside Council of Chambers of Commerce (WC3)",
+          "relationship": "alternate_spelling"
+        }
+      ]
     },
     {
       "canonical": "WESTSIDE FOR EVERYONE",
@@ -139361,20 +140664,6 @@
       "canonical": "YUBA COUNTY BOARD OF SUPERVISORS",
       "status": "active",
       "children": []
-    },
-    {
-      "canonical": "YUBA SUTTER CHAMBER OF COMMERCE",
-      "status": "active",
-      "children": [
-        {
-          "name": "Yuba-Sutter Chamber of Commerce",
-          "relationship": "alternate_spelling"
-        },
-        {
-          "name": "Yuba- Sutter Chamber of Commerce",
-          "relationship": "alternate_spelling"
-        }
-      ]
     },
     {
       "canonical": "Yuba-Sutter Disposal",
@@ -153570,6 +154859,588 @@
         {
           "name": "VFW-Department of California",
           "relationship": "chapter"
+        }
+      ]
+    },
+    {
+      "canonical": "KOREAN AMERICAN CHAMBER OF COMMERCE",
+      "status": "active",
+      "children": [
+        {
+          "name": "Korean American Chamber of Commerce",
+          "relationship": "alternate_spelling"
+        },
+        {
+          "name": "Korean American Chamber of Commerce of Los Angeles",
+          "relationship": "chapter"
+        },
+        {
+          "name": "Korean Chamber of Commerce of Orange County",
+          "relationship": "chapter"
+        },
+        {
+          "name": "Hawaii Korean Chamber of Commerce",
+          "relationship": "chapter"
+        }
+      ]
+    },
+    {
+      "canonical": "CHINESE CHAMBER OF COMMERCE",
+      "status": "active",
+      "children": [
+        {
+          "name": "Chinese Chamber of Commerce",
+          "relationship": "alternate_spelling"
+        },
+        {
+          "name": "Chinese Chamber of Commerce of Los Angeles",
+          "relationship": "chapter"
+        },
+        {
+          "name": "Chinese Chamber of Commerce of San Francisco",
+          "relationship": "chapter"
+        },
+        {
+          "name": "Oakland Chinatown Chamber of Commerce",
+          "relationship": "chapter"
+        }
+      ]
+    },
+    {
+      "canonical": "FILIPINO AMERICAN CHAMBER OF COMMERCE",
+      "status": "active",
+      "children": [
+        {
+          "name": "Filipino American Chamber of Commerce",
+          "relationship": "alternate_spelling"
+        },
+        {
+          "name": "Filipino-American Chamber of Commerce",
+          "relationship": "alternate_spelling"
+        },
+        {
+          "name": "California Filipino Chamber of Commerce",
+          "relationship": "alternate_spelling"
+        },
+        {
+          "name": "Coalition of Filipino American Chamber of Commerce",
+          "relationship": "alternate_spelling"
+        },
+        {
+          "name": "Coalition of Filipino American Chambers of Commerce",
+          "relationship": "alternate_spelling"
+        },
+        {
+          "name": "Coalition of Filipino-American Chambers of Commerce",
+          "relationship": "alternate_spelling"
+        },
+        {
+          "name": "Federation of Philippine American Chamber of Commerce",
+          "relationship": "alternate_spelling"
+        },
+        {
+          "name": "Federation of Philippine American Chambers of Commerce",
+          "relationship": "alternate_spelling"
+        },
+        {
+          "name": "Filipino American Chamber of Commerce of Greater Los Angeles",
+          "relationship": "chapter"
+        },
+        {
+          "name": "Filipino American Chamber of Commerce of Orange County",
+          "relationship": "chapter"
+        },
+        {
+          "name": "Filipino American Chamber of Commerce of Greater San Diego",
+          "relationship": "chapter"
+        },
+        {
+          "name": "San Francisco Filipino American Chamber of Commerce",
+          "relationship": "chapter"
+        },
+        {
+          "name": "Filipino American Chamber of Commerce of Cerritos",
+          "relationship": "chapter"
+        },
+        {
+          "name": "Filipino American Chamber of Commerce of Cerritos (FAC3)",
+          "relationship": "chapter"
+        },
+        {
+          "name": "Filipino American Chamber of Commerce of Solano",
+          "relationship": "chapter"
+        },
+        {
+          "name": "Filipino-American Chamber of Commerce Business Network",
+          "relationship": "chapter"
+        },
+        {
+          "name": "Filipino- American Chamber of Commerce Business Network",
+          "relationship": "chapter"
+        },
+        {
+          "name": "Filipino-American Chamber of Commerce San Diego",
+          "relationship": "chapter"
+        }
+      ]
+    },
+    {
+      "canonical": "VIETNAMESE AMERICAN CHAMBER OF COMMERCE",
+      "status": "active",
+      "children": [
+        {
+          "name": "Vietnamese American Chamber of Commerce",
+          "relationship": "alternate_spelling"
+        },
+        {
+          "name": "Vietnamese-American Chamber of Commerce of Orange County",
+          "relationship": "alternate_spelling"
+        },
+        {
+          "name": "Greater Sacramento Vietnamese American Chamber of Commerce",
+          "relationship": "chapter"
+        }
+      ]
+    },
+    {
+      "canonical": "ARMENIAN AMERICAN CHAMBER OF COMMERCE",
+      "status": "active",
+      "children": [
+        {
+          "name": "Armenian American Chamber of Commerce",
+          "relationship": "alternate_spelling"
+        }
+      ]
+    },
+    {
+      "canonical": "SLAVIC AMERICAN CHAMBER OF COMMERCE",
+      "status": "active",
+      "children": [
+        {
+          "name": "Slavic-American Chamber of Commerce",
+          "relationship": "alternate_spelling"
+        },
+        {
+          "name": "Slavic-american Chamber of Commerce",
+          "relationship": "alternate_spelling"
+        },
+        {
+          "name": "Slavic American Chamber of Commerce",
+          "relationship": "alternate_spelling"
+        }
+      ]
+    },
+    {
+      "canonical": "CAMBODIAN AMERICAN CHAMBER OF COMMERCE",
+      "status": "active",
+      "children": [
+        {
+          "name": "Cambodian American Chamber of Commerce",
+          "relationship": "alternate_spelling"
+        },
+        {
+          "name": "Cambodian\u2010American Chamber of Commerce",
+          "relationship": "alternate_spelling"
+        },
+        {
+          "name": "Cambodian American Chamber of",
+          "relationship": "alternate_spelling"
+        }
+      ]
+    },
+    {
+      "canonical": "CALIFORNIA HMONG CHAMBER OF COMMERCE",
+      "status": "active",
+      "children": [
+        {
+          "name": "California Hmong Chamber of Commerce",
+          "relationship": "alternate_spelling"
+        },
+        {
+          "name": "Hmong California Chamber of Commerce",
+          "relationship": "alternate_spelling"
+        }
+      ]
+    },
+    {
+      "canonical": "CALIFORNIA ISRAEL CHAMBER OF COMMERCE",
+      "status": "active",
+      "children": [
+        {
+          "name": "California Israel Chamber of Commerce",
+          "relationship": "alternate_spelling"
+        }
+      ]
+    },
+    {
+      "canonical": "CALIFORNIA JEWISH CHAMBER OF COMMERCE",
+      "status": "active",
+      "children": [
+        {
+          "name": "California Jewish Chamber of Commerce",
+          "relationship": "alternate_spelling"
+        }
+      ]
+    },
+    {
+      "canonical": "CALIFORNIA MEXICAN AMERICAN CHAMBER OF COMMERCE",
+      "status": "active",
+      "children": [
+        {
+          "name": "California Mexican American Chamber of Commerce",
+          "relationship": "alternate_spelling"
+        },
+        {
+          "name": "California Mexican-American Chamber of Commerce",
+          "relationship": "alternate_spelling"
+        },
+        {
+          "name": "CA Mexican American Chamber of Commerce",
+          "relationship": "alternate_spelling"
+        }
+      ]
+    },
+    {
+      "canonical": "GUATEMALAN AMERICAN CHAMBER OF COMMERCE",
+      "status": "active",
+      "children": [
+        {
+          "name": "Guatemalan American Chamber of Commerce",
+          "relationship": "alternate_spelling"
+        },
+        {
+          "name": "Guatemalan American Chamber of Commerce - San Francisco",
+          "relationship": "alternate_spelling"
+        },
+        {
+          "name": "Guatemalan-American Chamber of Commerce - San Francisco",
+          "relationship": "alternate_spelling"
+        },
+        {
+          "name": "California Guatemalan Chamber of Commerce",
+          "relationship": "alternate_spelling"
+        }
+      ]
+    },
+    {
+      "canonical": "SALVADORAN AMERICAN CHAMBER OF COMMERCE",
+      "status": "active",
+      "children": [
+        {
+          "name": "Bay Area Salvadoran American Chamber of Commerce",
+          "relationship": "alternate_spelling"
+        },
+        {
+          "name": "California El Salvadoran Chamber of Commerce",
+          "relationship": "alternate_spelling"
+        },
+        {
+          "name": "California El Salvadoran Chambers of Commerce",
+          "relationship": "alternate_spelling"
+        }
+      ]
+    },
+    {
+      "canonical": "ECUADORIAN AMERICAN CHAMBER OF COMMERCE",
+      "status": "active",
+      "children": [
+        {
+          "name": "California Ecuadorian Chamber of Commerce",
+          "relationship": "alternate_spelling"
+        },
+        {
+          "name": "Ecuadorian American Chamber of Commerce of Southern California",
+          "relationship": "alternate_spelling"
+        }
+      ]
+    },
+    {
+      "canonical": "NICARAGUAN AMERICAN CHAMBER OF COMMERCE",
+      "status": "active",
+      "children": [
+        {
+          "name": "California Nicaraguan Chamber of Commerce",
+          "relationship": "alternate_spelling"
+        }
+      ]
+    },
+    {
+      "canonical": "BAY AREA CENTRAL AMERICAN CHAMBER OF COMMERCE",
+      "status": "active",
+      "children": [
+        {
+          "name": "Bay Area Central American Chamber of Commerce",
+          "relationship": "alternate_spelling"
+        }
+      ]
+    },
+    {
+      "canonical": "HONDURAN AMERICAN CHAMBER OF COMMERCE",
+      "status": "active",
+      "children": [
+        {
+          "name": "Honduran/American Chamber of Commerce",
+          "relationship": "alternate_spelling"
+        }
+      ]
+    },
+    {
+      "canonical": "IRANIAN AMERICAN CHAMBER OF COMMERCE",
+      "status": "active",
+      "children": [
+        {
+          "name": "Iranian American Chamber of Commerce",
+          "relationship": "alternate_spelling"
+        }
+      ]
+    },
+    {
+      "canonical": "EUROPEAN AMERICAN CHAMBER OF COMMERCE",
+      "status": "active",
+      "children": [
+        {
+          "name": "European American Chamber of Commerce",
+          "relationship": "alternate_spelling"
+        },
+        {
+          "name": "European-American Chamber of Commerce",
+          "relationship": "alternate_spelling"
+        }
+      ]
+    },
+    {
+      "canonical": "AMERICAN VETERANS CHAMBER OF COMMERCE",
+      "status": "active",
+      "children": [
+        {
+          "name": "American Veterans Chamber of Commerce",
+          "relationship": "alternate_spelling"
+        }
+      ]
+    },
+    {
+      "canonical": "LGBTQ CHAMBER OF COMMERCE",
+      "status": "active",
+      "children": [
+        {
+          "name": "Los Angeles LGBTQ Chamber of Commerce",
+          "relationship": "alternate_spelling"
+        },
+        {
+          "name": "Sacramento Rainbow Chamber of Commerce",
+          "relationship": "alternate_spelling"
+        }
+      ]
+    },
+    {
+      "canonical": "GREEN CHAMBER OF COMMERCE",
+      "status": "active",
+      "children": [
+        {
+          "name": "Green Chamber of Commerce",
+          "relationship": "alternate_spelling"
+        },
+        {
+          "name": "Green Chamber of San Diego",
+          "relationship": "alternate_spelling"
+        }
+      ]
+    },
+    {
+      "canonical": "WOMEN'S CHAMBER OF COMMERCE",
+      "status": "active",
+      "children": [
+        {
+          "name": "US Women's Chamber of Commerce",
+          "relationship": "alternate_spelling"
+        }
+      ]
+    },
+    {
+      "canonical": "TRI COUNTY CHAMBER ALLIANCE",
+      "status": "active",
+      "children": [
+        {
+          "name": "Tri County Chamber Alliance",
+          "relationship": "alternate_spelling"
+        },
+        {
+          "name": "Tri-County Chamber Alliance",
+          "relationship": "alternate_spelling"
+        }
+      ]
+    },
+    {
+      "canonical": "CHAMBERS OF COMMERCE ALLIANCE OF VENTURA AND SANTA BARBARA COUNTIES",
+      "status": "active",
+      "children": [
+        {
+          "name": "Chambers of Commerce Alliance of Ventura and Santa Barbara Counties",
+          "relationship": "alternate_spelling"
+        },
+        {
+          "name": "Chambers of Commerce Alliance of Ventura & Santa Barbara Counties",
+          "relationship": "alternate_spelling"
+        },
+        {
+          "name": "Chambers of Commerce Alliance Ventura & Santa Barbara Counties",
+          "relationship": "alternate_spelling"
+        },
+        {
+          "name": "Chambers of Commerce Alliance Ventura and Santa Barbara Counties",
+          "relationship": "alternate_spelling"
+        },
+        {
+          "name": "Chamber of Commerce Alliance of Ventura & Santa Barbara Counties",
+          "relationship": "alternate_spelling"
+        },
+        {
+          "name": "Chamber of Commerce Alliance of Ventura and Santa Barbara",
+          "relationship": "alternate_spelling"
+        },
+        {
+          "name": "Chamber Alliance of Ventura and Santa Barbara Counties",
+          "relationship": "alternate_spelling"
+        },
+        {
+          "name": "Chambers Alliance of Ventura and Santa Barbara Counties",
+          "relationship": "alternate_spelling"
+        },
+        {
+          "name": "Chambers of Commerce of Ventura and Santa Barbara Counties",
+          "relationship": "alternate_spelling"
+        }
+      ]
+    },
+    {
+      "canonical": "GATEWAY CHAMBERS ALLIANCE",
+      "status": "active",
+      "children": [
+        {
+          "name": "Gateway Chambers Alliance",
+          "relationship": "alternate_spelling"
+        },
+        {
+          "name": "Gateway Chamber Alliance",
+          "relationship": "alternate_spelling"
+        },
+        {
+          "name": "Gateway Chambers Alliance - Los Angeles",
+          "relationship": "alternate_spelling"
+        }
+      ]
+    },
+    {
+      "canonical": "SOUTH ORANGE COUNTY REGIONAL CHAMBERS OF COMMERCE",
+      "status": "active",
+      "children": [
+        {
+          "name": "South Orange County Regional Chambers of Commerce",
+          "relationship": "alternate_spelling"
+        },
+        {
+          "name": "South Orange County Regional Chamber of Commerce",
+          "relationship": "alternate_spelling"
+        },
+        {
+          "name": "South Orange County Chambers of Commerce",
+          "relationship": "alternate_spelling"
+        }
+      ]
+    },
+    {
+      "canonical": "UNITED CHAMBERS OF COMMERCE",
+      "status": "active",
+      "children": [
+        {
+          "name": "United Chambers of Commerce",
+          "relationship": "alternate_spelling"
+        }
+      ]
+    },
+    {
+      "canonical": "INLAND EMPIRE CHAMBER ALLIANCE",
+      "status": "active",
+      "children": [
+        {
+          "name": "Inland Empire Chamber Alliance",
+          "relationship": "alternate_spelling"
+        },
+        {
+          "name": "Inland Empire Chamber Legislative Alliance",
+          "relationship": "alternate_spelling"
+        },
+        {
+          "name": "Inland Valley Chamber Alliance",
+          "relationship": "alternate_spelling"
+        }
+      ]
+    },
+    {
+      "canonical": "ANTELOPE VALLEY CHAMBERS OF COMMERCE",
+      "status": "active",
+      "children": [
+        {
+          "name": "Antelope Valley Chambers of Commerce",
+          "relationship": "alternate_spelling"
+        }
+      ]
+    },
+    {
+      "canonical": "SOUTH COUNTY CHAMBERS OF COMMERCE",
+      "status": "active",
+      "children": [
+        {
+          "name": "South County Chambers of Commerce",
+          "relationship": "alternate_spelling"
+        }
+      ]
+    },
+    {
+      "canonical": "GATEWAY REGIONAL CHAMBERS OF COMMERCE",
+      "status": "active",
+      "children": [
+        {
+          "name": "Gateway Regional Chambers of Commerce",
+          "relationship": "alternate_spelling"
+        }
+      ]
+    },
+    {
+      "canonical": "SAN GABRIEL VALLEY LEGISLATIVE COALITION OF CHAMBERS",
+      "status": "active",
+      "children": [
+        {
+          "name": "San Gabriel Valley Legislative Coalition of Chambers",
+          "relationship": "alternate_spelling"
+        }
+      ]
+    },
+    {
+      "canonical": "COALITION OF CALIFORNIA CHAMBERS",
+      "status": "active",
+      "children": [
+        {
+          "name": "Coalition of California Chambers",
+          "relationship": "alternate_spelling"
+        },
+        {
+          "name": "Coalition of California Chambers Orange County",
+          "relationship": "alternate_spelling"
+        }
+      ]
+    },
+    {
+      "canonical": "UCAN CHAMBERS OF COMMERCE",
+      "status": "active",
+      "children": [
+        {
+          "name": "Ucan Chambers of Commerce",
+          "relationship": "alternate_spelling"
+        },
+        {
+          "name": "United Chamber Advocacy Network - UCAN",
+          "relationship": "alternate_spelling"
         }
       ]
     }
