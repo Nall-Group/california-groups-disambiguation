@@ -140140,7 +140140,7 @@
           "relationship": "chapter"
         },
         {
-          "name": "YIMBY DEMOCRATS OF SAN DIEGO COUNTY",
+          "name": "YIMBY DEMOCRATS",
           "relationship": "chapter"
         },
         {
@@ -140148,8 +140148,20 @@
           "relationship": "chapter"
         },
         {
+          "name": "YIMBY NEOLIBERAL",
+          "relationship": "chapter"
+        },
+        {
           "name": "YIMBY VOICE",
           "relationship": "chapter"
+        },
+        {
+          "name": "CA YIMBY",
+          "relationship": "alternate_spelling"
+        },
+        {
+          "name": "CALIFORNIAYIMBY",
+          "relationship": "alternate_spelling"
         }
       ]
     },
@@ -140159,6 +140171,10 @@
       "children": [
         {
           "name": "EAST BAY YIMBY",
+          "relationship": "chapter"
+        },
+        {
+          "name": "GLENDALE YIMBY",
           "relationship": "chapter"
         },
         {
@@ -140186,6 +140202,14 @@
           "relationship": "chapter"
         },
         {
+          "name": "ORANGE COUNTY YIMBY",
+          "relationship": "chapter"
+        },
+        {
+          "name": "REDLANDS YIMBY",
+          "relationship": "chapter"
+        },
+        {
           "name": "SAN FERNANDO VALLEY YIMBY",
           "relationship": "chapter"
         },
@@ -140202,7 +140226,15 @@
           "relationship": "chapter"
         },
         {
+          "name": "SANTA ROSA YIMBY",
+          "relationship": "chapter"
+        },
+        {
           "name": "SOUTH BAY YIMBY",
+          "relationship": "chapter"
+        },
+        {
+          "name": "SOUTHSIDE YIMBY",
           "relationship": "chapter"
         },
         {
@@ -140214,7 +140246,15 @@
           "relationship": "chapter"
         },
         {
+          "name": "YIMBY OCEANSIDE",
+          "relationship": "chapter"
+        },
+        {
           "name": "YIMBYLA",
+          "relationship": "chapter"
+        },
+        {
+          "name": "YOLO YIMBY",
           "relationship": "chapter"
         },
         {
@@ -140226,12 +140266,88 @@
           "relationship": "alternate_spelling"
         },
         {
+          "name": "SAN FRANCISCO YIMBY PARTY",
+          "relationship": "alternate_spelling"
+        },
+        {
           "name": "SLO COUNTY YIMBY",
           "relationship": "alternate_spelling"
         },
         {
           "name": "YIMBY SLO",
           "relationship": "alternate_spelling"
+        },
+        {
+          "name": "YIMBYACTION",
+          "relationship": "alternate_spelling"
+        },
+        {
+          "name": "YIMBY LA",
+          "relationship": "alternate_spelling"
+        },
+        {
+          "name": "YIMBY LOS ANGELES",
+          "relationship": "alternate_spelling"
+        },
+        {
+          "name": "SLOCO YIMBY",
+          "relationship": "alternate_spelling"
+        },
+        {
+          "name": "SLO YIMBY",
+          "relationship": "alternate_spelling"
+        },
+        {
+          "name": "SLO CO YIMBY",
+          "relationship": "alternate_spelling"
+        },
+        {
+          "name": "SAN LUIS OBISPO COUNTY YIMBY",
+          "relationship": "alternate_spelling"
+        },
+        {
+          "name": "YIMBY SAN LUIS OBISPO",
+          "relationship": "alternate_spelling"
+        },
+        {
+          "name": "SANTA ROSA YIMBY",
+          "relationship": "alternate_spelling"
+        },
+        {
+          "name": "REDLANDS YIMBY",
+          "relationship": "alternate_spelling"
+        },
+        {
+          "name": "GLENDALE YIMBY",
+          "relationship": "alternate_spelling"
+        },
+        {
+          "name": "PEOPLE FOR HOUSING - ORANGE COUNTY YIMBY",
+          "relationship": "alternate_spelling"
+        }
+      ]
+    },
+    {
+      "canonical": "YIMBY DEMOCRATS",
+      "status": "active",
+      "children": [
+        {
+          "name": "YIMBY DEMOCRATS OF SAN DIEGO COUNTY",
+          "relationship": "chapter"
+        },
+        {
+          "name": "YIMBY DEMOCRATS SAN DIEGO",
+          "relationship": "alternate_spelling"
+        }
+      ]
+    },
+    {
+      "canonical": "SAN FRANCISCO YIMBY",
+      "status": "active",
+      "children": [
+        {
+          "name": "SOUTHSIDE YIMBY FORWARD",
+          "relationship": "chapter"
         }
       ]
     },
