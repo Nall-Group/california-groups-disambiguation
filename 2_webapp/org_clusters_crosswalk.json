@@ -28260,12 +28260,34 @@
       ]
     },
     {
-      "canonical": "California Council of Police and Sheriffs",
+      "canonical": "Council of Police and Sheriffs",
       "status": "active",
       "children": [
         {
-          "name": "California Council of Police and Sheriffs California",
-          "relationship": "chapter"
+          "name": "California Council of Police and Sheriffs",
+          "relationship": "chapter",
+          "children": [
+            {
+              "name": "California Council of Police and Sheriffs California",
+              "relationship": "alternate_spelling"
+            },
+            {
+              "name": "California Council of Police & Sheriffs",
+              "relationship": "alternate_spelling"
+            },
+            {
+              "name": "CA Council of Police & Sheriffs",
+              "relationship": "alternate_spelling"
+            },
+            {
+              "name": "CA Council of Police and Sheriffs",
+              "relationship": "alternate_spelling"
+            },
+            {
+              "name": "California Council for Police and Sheriffs",
+              "relationship": "alternate_spelling"
+            }
+          ]
         }
       ]
     },
@@ -57870,6 +57892,236 @@
             },
             {
               "name": "Deputy Sheriffs,Inc",
+              "relationship": "alternate_spelling"
+            }
+          ]
+        },
+        {
+          "name": "PLACER COUNTY DEPUTY SHERIFFS ASSOCIATION",
+          "relationship": "chapter",
+          "children": [
+            {
+              "name": "Placer County Deputy Sheriffs Association",
+              "relationship": "alternate_spelling"
+            },
+            {
+              "name": "Placer County Deputy Sheriffs' Assocation",
+              "relationship": "alternate_spelling"
+            },
+            {
+              "name": "Place County Deputy Sheriffs Association",
+              "relationship": "alternate_spelling"
+            }
+          ]
+        },
+        {
+          "name": "DEPUTY SHERIFFS ASSOCIATION OF MONTEREY COUNTY",
+          "relationship": "chapter",
+          "children": [
+            {
+              "name": "Deputy Sheriffs Association of Monterey County",
+              "relationship": "alternate_spelling"
+            }
+          ]
+        },
+        {
+          "name": "DEPUTY SHERIFFS ASSOCIATION OF SAN DIEGO COUNTY",
+          "relationship": "chapter",
+          "children": [
+            {
+              "name": "Deputy Sheriffs Association of San Diego County",
+              "relationship": "alternate_spelling"
+            },
+            {
+              "name": "Deputy Sheriffs Association of San Diego",
+              "relationship": "alternate_spelling"
+            }
+          ]
+        },
+        {
+          "name": "CONTRA COSTA COUNTY DEPUTY SHERIFFS ASSOCIATION",
+          "relationship": "chapter",
+          "children": [
+            {
+              "name": "Contra Costa County Deputy Sheriffs Association",
+              "relationship": "alternate_spelling"
+            }
+          ]
+        },
+        {
+          "name": "VENTURA COUNTY DEPUTY SHERIFFS ASSOCIATION",
+          "relationship": "chapter",
+          "children": [
+            {
+              "name": "Ventura County Deputy Sheriffs Association",
+              "relationship": "alternate_spelling"
+            }
+          ]
+        },
+        {
+          "name": "ORANGE COUNTY DEPUTY SHERIFFS ASSOCIATION",
+          "relationship": "chapter",
+          "children": [
+            {
+              "name": "Orange County Deputy Sheriffs Association",
+              "relationship": "alternate_spelling"
+            },
+            {
+              "name": "Association of Orange County Deputy Sheriffs Association",
+              "relationship": "alternate_spelling"
+            },
+            {
+              "name": "Orange County Deputy Sheriffs",
+              "relationship": "alternate_spelling"
+            }
+          ]
+        },
+        {
+          "name": "LOS ANGELES COUNTY DEPUTY SHERIFFS ASSOCIATION",
+          "relationship": "chapter",
+          "children": [
+            {
+              "name": "Los Angeles County Deputy Sheriffs Association",
+              "relationship": "alternate_spelling"
+            },
+            {
+              "name": "Association for Los Angeles County Deputy Sheriffs",
+              "relationship": "alternate_spelling"
+            },
+            {
+              "name": "Association of Los Angeles County Deputy Sheriffs",
+              "relationship": "alternate_spelling"
+            },
+            {
+              "name": "Los Angeles Deputy Sheriff Association",
+              "relationship": "alternate_spelling"
+            },
+            {
+              "name": "Association for LA Deputy Sheriffs",
+              "relationship": "alternate_spelling"
+            },
+            {
+              "name": "Association for Los Angles Deputy Sheriffs",
+              "relationship": "alternate_spelling"
+            }
+          ]
+        },
+        {
+          "name": "SAN JOAQUIN COUNTY DEPUTY SHERIFFS ASSOCIATION",
+          "relationship": "chapter",
+          "children": [
+            {
+              "name": "San Joaquin County Deputy Sheriffs Association",
+              "relationship": "alternate_spelling"
+            }
+          ]
+        },
+        {
+          "name": "SOLANO COUNTY DEPUTY SHERIFF ASSOCIATION",
+          "relationship": "chapter",
+          "children": [
+            {
+              "name": "Solano County Deputy Sheriff Association",
+              "relationship": "alternate_spelling"
+            }
+          ]
+        },
+        {
+          "name": "ALAMEDA COUNTY DEPUTY SHERIFFS' ASSOCIATION",
+          "relationship": "chapter",
+          "children": [
+            {
+              "name": "Alameda County Deputy Sheriffs' Association",
+              "relationship": "alternate_spelling"
+            },
+            {
+              "name": "Deputy Sheriffs' Association of Alameda County",
+              "relationship": "alternate_spelling"
+            }
+          ]
+        },
+        {
+          "name": "MADERA COUNTY DEPUTY SHERIFF'S ASSOCIATION",
+          "relationship": "chapter",
+          "children": [
+            {
+              "name": "Madera County Deputy Sheriff's Association",
+              "relationship": "alternate_spelling"
+            }
+          ]
+        },
+        {
+          "name": "MARIN COUNTY DEPUTY SHERIFFS ASSOCIATION",
+          "relationship": "chapter",
+          "children": [
+            {
+              "name": "Marin County Deputy Sheriffs Association",
+              "relationship": "alternate_spelling"
+            }
+          ]
+        },
+        {
+          "name": "SANTA BARBARA COUNTY DEPUTY SHERIFFS' ASSOCIATION",
+          "relationship": "chapter",
+          "children": [
+            {
+              "name": "Santa Barbara County Deputy Sheriffs' Association",
+              "relationship": "alternate_spelling"
+            }
+          ]
+        },
+        {
+          "name": "SAN MATEO COUNTY DEPUTY SHERIFF'S ASSOCIATION",
+          "relationship": "chapter",
+          "children": [
+            {
+              "name": "San Mateo County Deputy Sheriff's Association",
+              "relationship": "alternate_spelling"
+            }
+          ]
+        },
+        {
+          "name": "NAPA COUNTY DEPUTY SHERIFFS' ASSOCIATION",
+          "relationship": "chapter",
+          "children": [
+            {
+              "name": "Napa County Deputy Sheriffs' Association",
+              "relationship": "alternate_spelling"
+            }
+          ]
+        },
+        {
+          "name": "DEPUTY SHERIFFS ASSOCIATION OF SANTA CLARA COUNTY",
+          "relationship": "chapter",
+          "children": [
+            {
+              "name": "Deputy Sheriffs Association of Santa Clara County",
+              "relationship": "alternate_spelling"
+            },
+            {
+              "name": "Santa Clara County Deputy Sheriff's Association",
+              "relationship": "alternate_spelling"
+            }
+          ]
+        },
+        {
+          "name": "SACRAMENTO DEPUTY SHERIFFS ASSOCIATION",
+          "relationship": "chapter",
+          "children": [
+            {
+              "name": "Sacramento Deputy Sheriffs Association",
+              "relationship": "alternate_spelling"
+            },
+            {
+              "name": "Sacramento County Deputy Sheriffs Assoc",
+              "relationship": "alternate_spelling"
+            },
+            {
+              "name": "Sacramento County Deputy Sheriffs' Assn",
+              "relationship": "alternate_spelling"
+            },
+            {
+              "name": "Sacramento County Deputy Sheriffs",
               "relationship": "alternate_spelling"
             }
           ]
@@ -107327,6 +107579,384 @@
               "relationship": "alternate_spelling"
             }
           ]
+        },
+        {
+          "name": "PALOS VERDES POLICE OFFICERS ASSOCIATION",
+          "relationship": "chapter",
+          "children": [
+            {
+              "name": "Palos Verdes Police Officers Association",
+              "relationship": "alternate_spelling"
+            }
+          ]
+        },
+        {
+          "name": "NEWPORT BEACH POLICE ASSOCIATION",
+          "relationship": "chapter",
+          "children": [
+            {
+              "name": "Newport Beach Police Association",
+              "relationship": "alternate_spelling"
+            }
+          ]
+        },
+        {
+          "name": "CULVER CITY POLICE OFFICERS ASSOCIATION",
+          "relationship": "chapter",
+          "children": [
+            {
+              "name": "Culver City Police Officers Association",
+              "relationship": "alternate_spelling"
+            }
+          ]
+        },
+        {
+          "name": "FULLERTON POLICE OFFICERS ASSOCIATION",
+          "relationship": "chapter",
+          "children": [
+            {
+              "name": "Fullerton Police Officers Association",
+              "relationship": "alternate_spelling"
+            }
+          ]
+        },
+        {
+          "name": "ARCADIA POLICE OFFICERS ASSOCIATION",
+          "relationship": "chapter",
+          "children": [
+            {
+              "name": "Arcadia Police Officers Association",
+              "relationship": "alternate_spelling"
+            }
+          ]
+        },
+        {
+          "name": "CORONA POLICE OFFICERS ASSOCIATION",
+          "relationship": "chapter",
+          "children": [
+            {
+              "name": "Corona Police Officers Association",
+              "relationship": "alternate_spelling"
+            }
+          ]
+        },
+        {
+          "name": "LOS ANGELES SCHOOL POLICE OFFICERS ASSOCIATION",
+          "relationship": "chapter",
+          "children": [
+            {
+              "name": "Los Angeles School Police Officers Association",
+              "relationship": "alternate_spelling"
+            },
+            {
+              "name": "Los Angeles School Police Association",
+              "relationship": "alternate_spelling"
+            },
+            {
+              "name": "Los Angeles Schools Police Association",
+              "relationship": "alternate_spelling"
+            },
+            {
+              "name": "Los Angeles Unified School District Police Officers Association",
+              "relationship": "alternate_spelling"
+            }
+          ]
+        },
+        {
+          "name": "POMONA POLICE OFFICERS ASSOCIATION",
+          "relationship": "chapter",
+          "children": [
+            {
+              "name": "Pomona Police Officers Association",
+              "relationship": "alternate_spelling"
+            },
+            {
+              "name": "Pomona Police Officer Association",
+              "relationship": "alternate_spelling"
+            }
+          ]
+        },
+        {
+          "name": "MURRIETA POLICE OFFICERS ASSOCIATION",
+          "relationship": "chapter",
+          "children": [
+            {
+              "name": "Murrieta Police Officers Association",
+              "relationship": "alternate_spelling"
+            }
+          ]
+        },
+        {
+          "name": "UPLAND POLICE OFFICERS ASSOCIATION",
+          "relationship": "chapter",
+          "children": [
+            {
+              "name": "Upland Police Officers Association",
+              "relationship": "alternate_spelling"
+            }
+          ]
+        },
+        {
+          "name": "NOVATO POLICE OFFICERS ASSOCIATION",
+          "relationship": "chapter",
+          "children": [
+            {
+              "name": "Novato Police Officers Association",
+              "relationship": "alternate_spelling"
+            }
+          ]
+        },
+        {
+          "name": "BREA POLICE ASSOCIATION",
+          "relationship": "chapter",
+          "children": [
+            {
+              "name": "Brea Police Association",
+              "relationship": "alternate_spelling"
+            }
+          ]
+        },
+        {
+          "name": "INGLEWOOD POLICE OFFICERS ASSOCIATION",
+          "relationship": "chapter",
+          "children": [
+            {
+              "name": "Inglewood Police Officers Association",
+              "relationship": "alternate_spelling"
+            },
+            {
+              "name": "Inglewood Police Association",
+              "relationship": "alternate_spelling"
+            }
+          ]
+        },
+        {
+          "name": "ANAHEIM POLICE ASSOCIATION",
+          "relationship": "chapter",
+          "children": [
+            {
+              "name": "Anaheim Police Association",
+              "relationship": "alternate_spelling"
+            }
+          ]
+        },
+        {
+          "name": "SAN JOSE POLICE OFFICERS ASSOCIATION",
+          "relationship": "chapter",
+          "children": [
+            {
+              "name": "San Jose Police Officers Association",
+              "relationship": "alternate_spelling"
+            }
+          ]
+        },
+        {
+          "name": "TORRANCE POLICE OFFICERS ASSOCIATION",
+          "relationship": "chapter",
+          "children": [
+            {
+              "name": "Torrance Police Officers Association",
+              "relationship": "alternate_spelling"
+            }
+          ]
+        },
+        {
+          "name": "SAN DIEGO SCHOOLS POLICE OFFICERS ASSOCIATION",
+          "relationship": "chapter",
+          "children": [
+            {
+              "name": "San Diego Schools Police Officers Association",
+              "relationship": "alternate_spelling"
+            },
+            {
+              "name": "San Diego City Schools Police Officers Association",
+              "relationship": "alternate_spelling"
+            },
+            {
+              "name": "San Diego School Police Officers Association",
+              "relationship": "alternate_spelling"
+            }
+          ]
+        },
+        {
+          "name": "SACRAMENTO POLICE OFFICERS ASSOCIATION",
+          "relationship": "chapter",
+          "children": [
+            {
+              "name": "Sacramento Police Officers Association",
+              "relationship": "alternate_spelling"
+            }
+          ]
+        },
+        {
+          "name": "SANTA MONICA POLICE OFFICERS ASSOCIATION",
+          "relationship": "chapter",
+          "children": [
+            {
+              "name": "Santa Monica Police Officers Association",
+              "relationship": "alternate_spelling"
+            }
+          ]
+        },
+        {
+          "name": "LOS ANGELES COUNTY POLICE OFFICERS ASSOCIATION",
+          "relationship": "chapter",
+          "children": [
+            {
+              "name": "Los Angeles County Police Officers Association",
+              "relationship": "alternate_spelling"
+            }
+          ]
+        },
+        {
+          "name": "OAKLAND POLICE OFFICERS ASSOCIATION",
+          "relationship": "chapter",
+          "children": [
+            {
+              "name": "Oakland Police Officers Association",
+              "relationship": "alternate_spelling"
+            }
+          ]
+        },
+        {
+          "name": "STATEWIDE UNIVERSITY POLICE ASSOCIATION",
+          "relationship": "chapter",
+          "children": [
+            {
+              "name": "Statewide University Police Association",
+              "relationship": "alternate_spelling"
+            }
+          ]
+        },
+        {
+          "name": "FONTANA POLICE OFFICERS ASSOCIATION",
+          "relationship": "chapter",
+          "children": [
+            {
+              "name": "Fontana Police Officers Association",
+              "relationship": "alternate_spelling"
+            }
+          ]
+        },
+        {
+          "name": "HAWTHORNE POLICE OFFICERS ASSOCIATION",
+          "relationship": "chapter",
+          "children": [
+            {
+              "name": "Hawthorne Police Officers Association",
+              "relationship": "alternate_spelling"
+            }
+          ]
+        },
+        {
+          "name": "CHULA VISTA POLICE OFFICERS ASSOCIATION",
+          "relationship": "chapter",
+          "children": [
+            {
+              "name": "Chula Vista Police Officers Association",
+              "relationship": "alternate_spelling"
+            }
+          ]
+        },
+        {
+          "name": "GLENDALE POLICE OFFICERS ASSOCIATION",
+          "relationship": "chapter",
+          "children": [
+            {
+              "name": "Glendale Police Officers Association",
+              "relationship": "alternate_spelling"
+            }
+          ]
+        },
+        {
+          "name": "SAN BERNARDINO POLICE OFFICERS ASSOCIATION",
+          "relationship": "chapter",
+          "children": [
+            {
+              "name": "San Bernardino Police Officers Association",
+              "relationship": "alternate_spelling"
+            }
+          ]
+        },
+        {
+          "name": "BALDWIN PARK POLICE ASSOCIATION",
+          "relationship": "chapter",
+          "children": [
+            {
+              "name": "Baldwin Park Police Association",
+              "relationship": "alternate_spelling"
+            }
+          ]
+        },
+        {
+          "name": "HUNTINGTON BEACH POLICE OFFICERS ASSOCIATION",
+          "relationship": "chapter",
+          "children": [
+            {
+              "name": "Huntington Beach Police Officers Association",
+              "relationship": "alternate_spelling"
+            }
+          ]
+        },
+        {
+          "name": "IRVINE POLICE ASSOCIATION",
+          "relationship": "chapter",
+          "children": [
+            {
+              "name": "Irvine Police Association",
+              "relationship": "alternate_spelling"
+            }
+          ]
+        },
+        {
+          "name": "HEMET POLICE OFFICERS ASSOCIATION",
+          "relationship": "chapter",
+          "children": [
+            {
+              "name": "Hemet Police Officers Association",
+              "relationship": "alternate_spelling"
+            }
+          ]
+        },
+        {
+          "name": "LIVERMORE POLICE OFFICERS ASSOCIATION",
+          "relationship": "chapter",
+          "children": [
+            {
+              "name": "Livermore Police Officers Association",
+              "relationship": "alternate_spelling"
+            }
+          ]
+        },
+        {
+          "name": "CHINO POLICE ASSOCIATION",
+          "relationship": "chapter",
+          "children": [
+            {
+              "name": "Chino Police Association",
+              "relationship": "alternate_spelling"
+            }
+          ]
+        },
+        {
+          "name": "STOCKTON POLICE OFFICERS ASSOCIATION",
+          "relationship": "chapter",
+          "children": [
+            {
+              "name": "Stockton Police Officers Association",
+              "relationship": "alternate_spelling"
+            }
+          ]
+        },
+        {
+          "name": "NATIONAL CITY POLICE OFFICERS ASSOCIATION",
+          "relationship": "chapter",
+          "children": [
+            {
+              "name": "National City Police Officers Association",
+              "relationship": "alternate_spelling"
+            }
+          ]
         }
       ]
     },
@@ -107532,6 +108162,1062 @@
             },
             {
               "name": "THE LOS ANGELES POLICE",
+              "relationship": "alternate_spelling"
+            },
+            {
+              "name": "City of Los Angeles Police Department",
+              "relationship": "alternate_spelling"
+            },
+            {
+              "name": "Los Angeles Police Department Chief Charlie Beck",
+              "relationship": "alternate_spelling"
+            }
+          ]
+        },
+        {
+          "name": "SACRAMENTO POLICE DEPARTMENT",
+          "relationship": "chapter",
+          "children": [
+            {
+              "name": "Sacramento Police Department",
+              "relationship": "alternate_spelling"
+            },
+            {
+              "name": "City of Sacramento Police Department",
+              "relationship": "alternate_spelling"
+            }
+          ]
+        },
+        {
+          "name": "FRESNO POLICE DEPARTMENT",
+          "relationship": "chapter",
+          "children": [
+            {
+              "name": "Fresno Police Department",
+              "relationship": "alternate_spelling"
+            },
+            {
+              "name": "City of Fresno Police Department",
+              "relationship": "alternate_spelling"
+            }
+          ]
+        },
+        {
+          "name": "SANTA ANA POLICE DEPARTMENT",
+          "relationship": "chapter",
+          "children": [
+            {
+              "name": "City of Santa Ana Police Department",
+              "relationship": "alternate_spelling"
+            },
+            {
+              "name": "Santa Ana Police Department",
+              "relationship": "alternate_spelling"
+            }
+          ]
+        },
+        {
+          "name": "SAN DIEGO POLICE DEPARTMENT",
+          "relationship": "chapter",
+          "children": [
+            {
+              "name": "San Diego Police Department",
+              "relationship": "alternate_spelling"
+            },
+            {
+              "name": "City of San Diego Police Department",
+              "relationship": "alternate_spelling"
+            }
+          ]
+        },
+        {
+          "name": "OXNARD POLICE DEPARTMENT",
+          "relationship": "chapter",
+          "children": [
+            {
+              "name": "Oxnard Police Department",
+              "relationship": "alternate_spelling"
+            },
+            {
+              "name": "City of Oxnard Police Department",
+              "relationship": "alternate_spelling"
+            }
+          ]
+        },
+        {
+          "name": "ALAMEDA POLICE DEPARTMENT",
+          "relationship": "chapter",
+          "children": [
+            {
+              "name": "Alameda Police Department",
+              "relationship": "alternate_spelling"
+            }
+          ]
+        },
+        {
+          "name": "FULLERTON POLICE DEPARTMENT",
+          "relationship": "chapter",
+          "children": [
+            {
+              "name": "Fullerton Police Department",
+              "relationship": "alternate_spelling"
+            },
+            {
+              "name": "City of Fullerton Police Department",
+              "relationship": "alternate_spelling"
+            }
+          ]
+        },
+        {
+          "name": "SAN FRANCISCO POLICE DEPARTMENT",
+          "relationship": "chapter",
+          "children": [
+            {
+              "name": "San Francisco Police Department",
+              "relationship": "alternate_spelling"
+            },
+            {
+              "name": "City and County of San Francisco Police Department",
+              "relationship": "alternate_spelling"
+            }
+          ]
+        },
+        {
+          "name": "FREMONT POLICE DEPARTMENT",
+          "relationship": "chapter",
+          "children": [
+            {
+              "name": "City of Fremont Police Department",
+              "relationship": "alternate_spelling"
+            },
+            {
+              "name": "City of Fremont Police Department, Animal Services Unit",
+              "relationship": "alternate_spelling"
+            }
+          ]
+        },
+        {
+          "name": "OAKLAND POLICE DEPARTMENT",
+          "relationship": "chapter",
+          "children": [
+            {
+              "name": "Oakland Police Department",
+              "relationship": "alternate_spelling"
+            }
+          ]
+        },
+        {
+          "name": "INGLEWOOD POLICE DEPARTMENT",
+          "relationship": "chapter",
+          "children": [
+            {
+              "name": "Inglewood Police Department",
+              "relationship": "alternate_spelling"
+            }
+          ]
+        },
+        {
+          "name": "STOCKTON POLICE DEPARTMENT",
+          "relationship": "chapter",
+          "children": [
+            {
+              "name": "City of Stockton Police Department",
+              "relationship": "alternate_spelling"
+            },
+            {
+              "name": "Stockton Police Department",
+              "relationship": "alternate_spelling"
+            }
+          ]
+        },
+        {
+          "name": "IRVINE POLICE DEPARTMENT",
+          "relationship": "chapter",
+          "children": [
+            {
+              "name": "City of Irvine Police Department",
+              "relationship": "alternate_spelling"
+            }
+          ]
+        },
+        {
+          "name": "SCOTTS VALLEY POLICE DEPARTMENT",
+          "relationship": "chapter",
+          "children": [
+            {
+              "name": "Scotts Valley Police Department",
+              "relationship": "alternate_spelling"
+            }
+          ]
+        },
+        {
+          "name": "MONROVIA POLICE DEPARTMENT",
+          "relationship": "chapter",
+          "children": [
+            {
+              "name": "City of Monrovia Police Department",
+              "relationship": "alternate_spelling"
+            },
+            {
+              "name": "Monrovia Police Department",
+              "relationship": "alternate_spelling"
+            }
+          ]
+        },
+        {
+          "name": "LOS GATOS POLICE DEPARTMENT",
+          "relationship": "chapter",
+          "children": [
+            {
+              "name": "Los Gatos Police Department",
+              "relationship": "alternate_spelling"
+            }
+          ]
+        },
+        {
+          "name": "SIGNAL HILL POLICE DEPARTMENT",
+          "relationship": "chapter",
+          "children": [
+            {
+              "name": "Signal Hill Police Department",
+              "relationship": "alternate_spelling"
+            },
+            {
+              "name": "City of Signal Hill Police Department",
+              "relationship": "alternate_spelling"
+            }
+          ]
+        },
+        {
+          "name": "ONTARIO POLICE DEPARTMENT",
+          "relationship": "chapter",
+          "children": [
+            {
+              "name": "Ontario Police Department",
+              "relationship": "alternate_spelling"
+            },
+            {
+              "name": "City of Ontario Police Department",
+              "relationship": "alternate_spelling"
+            }
+          ]
+        },
+        {
+          "name": "SANTA BARBARA POLICE DEPARTMENT",
+          "relationship": "chapter",
+          "children": [
+            {
+              "name": "Santa Barbara Police Department",
+              "relationship": "alternate_spelling"
+            },
+            {
+              "name": "City of Santa Barbara Police Department",
+              "relationship": "alternate_spelling"
+            }
+          ]
+        },
+        {
+          "name": "BAKERSFIELD POLICE DEPARTMENT",
+          "relationship": "chapter",
+          "children": [
+            {
+              "name": "Bakersfield Police Department",
+              "relationship": "alternate_spelling"
+            }
+          ]
+        },
+        {
+          "name": "BELL GARDENS POLICE DEPARTMENT",
+          "relationship": "chapter",
+          "children": [
+            {
+              "name": "Bell Gardens Police Department",
+              "relationship": "alternate_spelling"
+            }
+          ]
+        },
+        {
+          "name": "BURBANK POLICE DEPARTMENT",
+          "relationship": "chapter",
+          "children": [
+            {
+              "name": "City of Burbank Police Department",
+              "relationship": "alternate_spelling"
+            },
+            {
+              "name": "Burbank Police Department",
+              "relationship": "alternate_spelling"
+            }
+          ]
+        },
+        {
+          "name": "ANAHEIM POLICE DEPARTMENT",
+          "relationship": "chapter",
+          "children": [
+            {
+              "name": "City of Anaheim Police Department",
+              "relationship": "alternate_spelling"
+            },
+            {
+              "name": "Anaheim Police Department",
+              "relationship": "alternate_spelling"
+            }
+          ]
+        },
+        {
+          "name": "WHITTIER POLICE DEPARTMENT",
+          "relationship": "chapter",
+          "children": [
+            {
+              "name": "Whittier Police Department",
+              "relationship": "alternate_spelling"
+            }
+          ]
+        },
+        {
+          "name": "SAN JOSE POLICE DEPARTMENT",
+          "relationship": "chapter",
+          "children": [
+            {
+              "name": "San Jose Police Department",
+              "relationship": "alternate_spelling"
+            }
+          ]
+        },
+        {
+          "name": "BUENA PARK POLICE DEPARTMENT",
+          "relationship": "chapter",
+          "children": [
+            {
+              "name": "City of Buena Park Police Department",
+              "relationship": "alternate_spelling"
+            }
+          ]
+        },
+        {
+          "name": "VISALIA POLICE DEPARTMENT",
+          "relationship": "chapter",
+          "children": [
+            {
+              "name": "Visalia Police Department",
+              "relationship": "alternate_spelling"
+            }
+          ]
+        },
+        {
+          "name": "SAN MATEO POLICE DEPARTMENT",
+          "relationship": "chapter",
+          "children": [
+            {
+              "name": "San Mateo Police Department",
+              "relationship": "alternate_spelling"
+            }
+          ]
+        },
+        {
+          "name": "CONCORD POLICE DEPARTMENT",
+          "relationship": "chapter",
+          "children": [
+            {
+              "name": "Concord Police Department",
+              "relationship": "alternate_spelling"
+            }
+          ]
+        },
+        {
+          "name": "SONORA POLICE DEPARTMENT",
+          "relationship": "chapter",
+          "children": [
+            {
+              "name": "Sonora Police Department",
+              "relationship": "alternate_spelling"
+            }
+          ]
+        },
+        {
+          "name": "LOMPOC POLICE DEPARTMENT",
+          "relationship": "chapter",
+          "children": [
+            {
+              "name": "City of Lompoc Police Department",
+              "relationship": "alternate_spelling"
+            }
+          ]
+        },
+        {
+          "name": "RIALTO POLICE DEPARTMENT",
+          "relationship": "chapter",
+          "children": [
+            {
+              "name": "City of Rialto Police Department",
+              "relationship": "alternate_spelling"
+            },
+            {
+              "name": "Rialto Police Department",
+              "relationship": "alternate_spelling"
+            }
+          ]
+        },
+        {
+          "name": "SAN FERNANDO POLICE DEPARTMENT",
+          "relationship": "chapter",
+          "children": [
+            {
+              "name": "City of San Fernando Police Department",
+              "relationship": "alternate_spelling"
+            }
+          ]
+        },
+        {
+          "name": "PASADENA POLICE DEPARTMENT",
+          "relationship": "chapter",
+          "children": [
+            {
+              "name": "Pasadena Police Department",
+              "relationship": "alternate_spelling"
+            }
+          ]
+        },
+        {
+          "name": "MODESTO POLICE DEPARTMENT",
+          "relationship": "chapter",
+          "children": [
+            {
+              "name": "Modesto Police Department",
+              "relationship": "alternate_spelling"
+            }
+          ]
+        },
+        {
+          "name": "EMERYVILLE POLICE DEPARTMENT",
+          "relationship": "chapter",
+          "children": [
+            {
+              "name": "Emeryville Police Department",
+              "relationship": "alternate_spelling"
+            }
+          ]
+        },
+        {
+          "name": "CHINO POLICE DEPARTMENT",
+          "relationship": "chapter",
+          "children": [
+            {
+              "name": "Chino Police Department",
+              "relationship": "alternate_spelling"
+            }
+          ]
+        },
+        {
+          "name": "MONTEBELLO POLICE DEPARTMENT",
+          "relationship": "chapter",
+          "children": [
+            {
+              "name": "City of Montebello Police Department",
+              "relationship": "alternate_spelling"
+            }
+          ]
+        },
+        {
+          "name": "REDDING POLICE DEPARTMENT",
+          "relationship": "chapter",
+          "children": [
+            {
+              "name": "City of Redding Police Department",
+              "relationship": "alternate_spelling"
+            },
+            {
+              "name": "Redding Police Department",
+              "relationship": "alternate_spelling"
+            }
+          ]
+        },
+        {
+          "name": "LODI POLICE DEPARTMENT",
+          "relationship": "chapter",
+          "children": [
+            {
+              "name": "Lodi Police Department",
+              "relationship": "alternate_spelling"
+            }
+          ]
+        },
+        {
+          "name": "BREA POLICE DEPARTMENT",
+          "relationship": "chapter",
+          "children": [
+            {
+              "name": "City of Brea Police Department",
+              "relationship": "alternate_spelling"
+            }
+          ]
+        },
+        {
+          "name": "WEST COVINA POLICE DEPARTMENT",
+          "relationship": "chapter",
+          "children": [
+            {
+              "name": "West Covina Police Department",
+              "relationship": "alternate_spelling"
+            }
+          ]
+        },
+        {
+          "name": "SAN JACINTO POLICE DEPARTMENT",
+          "relationship": "chapter",
+          "children": [
+            {
+              "name": "San Jacinto Police Department",
+              "relationship": "alternate_spelling"
+            }
+          ]
+        },
+        {
+          "name": "HUNTINGTON BEACH POLICE DEPARTMENT",
+          "relationship": "chapter",
+          "children": [
+            {
+              "name": "Huntington Beach Police Department",
+              "relationship": "alternate_spelling"
+            }
+          ]
+        },
+        {
+          "name": "ROSEVILLE POLICE DEPARTMENT",
+          "relationship": "chapter",
+          "children": [
+            {
+              "name": "City of Roseville Police Department",
+              "relationship": "alternate_spelling"
+            },
+            {
+              "name": "Roseville Police Department",
+              "relationship": "alternate_spelling"
+            }
+          ]
+        },
+        {
+          "name": "RICHMOND POLICE DEPARTMENT",
+          "relationship": "chapter",
+          "children": [
+            {
+              "name": "City of Richmond Police Department",
+              "relationship": "alternate_spelling"
+            }
+          ]
+        },
+        {
+          "name": "MAYWOOD POLICE DEPARTMENT",
+          "relationship": "chapter",
+          "children": [
+            {
+              "name": "Maywood Police Department",
+              "relationship": "alternate_spelling"
+            }
+          ]
+        },
+        {
+          "name": "WATSONVILLE POLICE DEPARTMENT",
+          "relationship": "chapter",
+          "children": [
+            {
+              "name": "Watsonville Police Department",
+              "relationship": "alternate_spelling"
+            }
+          ]
+        },
+        {
+          "name": "CLOVIS POLICE DEPARTMENT",
+          "relationship": "chapter",
+          "children": [
+            {
+              "name": "Clovis Police Department",
+              "relationship": "alternate_spelling"
+            }
+          ]
+        },
+        {
+          "name": "CHICO POLICE DEPARTMENT",
+          "relationship": "chapter",
+          "children": [
+            {
+              "name": "Chico Police Department",
+              "relationship": "alternate_spelling"
+            }
+          ]
+        },
+        {
+          "name": "CHULA VISTA POLICE DEPARTMENT",
+          "relationship": "chapter",
+          "children": [
+            {
+              "name": "Chula Vista Police Department",
+              "relationship": "alternate_spelling"
+            }
+          ]
+        },
+        {
+          "name": "TORRANCE POLICE DEPARTMENT",
+          "relationship": "chapter",
+          "children": [
+            {
+              "name": "City of Torrance Police Department",
+              "relationship": "alternate_spelling"
+            }
+          ]
+        },
+        {
+          "name": "LIVERMORE POLICE DEPARTMENT",
+          "relationship": "chapter",
+          "children": [
+            {
+              "name": "Livermore Police Department",
+              "relationship": "alternate_spelling"
+            }
+          ]
+        },
+        {
+          "name": "MONTCLAIR POLICE DEPARTMENT",
+          "relationship": "chapter",
+          "children": [
+            {
+              "name": "Montclair Police Department",
+              "relationship": "alternate_spelling"
+            }
+          ]
+        },
+        {
+          "name": "SAN BERNARDINO POLICE DEPARTMENT",
+          "relationship": "chapter",
+          "children": [
+            {
+              "name": "San Bernardino Police Department",
+              "relationship": "alternate_spelling"
+            }
+          ]
+        },
+        {
+          "name": "BEVERLY HILLS POLICE DEPARTMENT",
+          "relationship": "chapter",
+          "children": [
+            {
+              "name": "Beverly Hills Police Department",
+              "relationship": "alternate_spelling"
+            },
+            {
+              "name": "City of Beverly Hills Police Department",
+              "relationship": "alternate_spelling"
+            }
+          ]
+        },
+        {
+          "name": "BARSTOW POLICE DEPARTMENT",
+          "relationship": "chapter",
+          "children": [
+            {
+              "name": "Barstow Police Department",
+              "relationship": "alternate_spelling"
+            }
+          ]
+        },
+        {
+          "name": "GILROY POLICE DEPARTMENT",
+          "relationship": "chapter",
+          "children": [
+            {
+              "name": "Gilroy Police Department",
+              "relationship": "alternate_spelling"
+            }
+          ]
+        },
+        {
+          "name": "FONTANA POLICE DEPARTMENT",
+          "relationship": "chapter",
+          "children": [
+            {
+              "name": "Fontana Police Department",
+              "relationship": "alternate_spelling"
+            },
+            {
+              "name": "City of Fontana Police Department",
+              "relationship": "alternate_spelling"
+            }
+          ]
+        },
+        {
+          "name": "CLEARLAKE POLICE DEPARTMENT",
+          "relationship": "chapter",
+          "children": [
+            {
+              "name": "Clearlake Police Department",
+              "relationship": "alternate_spelling"
+            }
+          ]
+        },
+        {
+          "name": "CORONA POLICE DEPARTMENT",
+          "relationship": "chapter",
+          "children": [
+            {
+              "name": "Corona Police Department",
+              "relationship": "alternate_spelling"
+            }
+          ]
+        },
+        {
+          "name": "AZUSA POLICE DEPARTMENT",
+          "relationship": "chapter",
+          "children": [
+            {
+              "name": "City of Azusa Police Department",
+              "relationship": "alternate_spelling"
+            }
+          ]
+        },
+        {
+          "name": "FOLSOM POLICE DEPARTMENT",
+          "relationship": "chapter",
+          "children": [
+            {
+              "name": "City of Folsom Police Department",
+              "relationship": "alternate_spelling"
+            }
+          ]
+        },
+        {
+          "name": "SOUTH PASADENA POLICE DEPARTMENT",
+          "relationship": "chapter",
+          "children": [
+            {
+              "name": "City of South Pasadena Police Department",
+              "relationship": "alternate_spelling"
+            }
+          ]
+        },
+        {
+          "name": "EL SEGUNDO POLICE DEPARTMENT",
+          "relationship": "chapter",
+          "children": [
+            {
+              "name": "City of El Segundo Police Department",
+              "relationship": "alternate_spelling"
+            }
+          ]
+        },
+        {
+          "name": "DAVIS POLICE DEPARTMENT",
+          "relationship": "chapter",
+          "children": [
+            {
+              "name": "Davis Police Department",
+              "relationship": "alternate_spelling"
+            }
+          ]
+        },
+        {
+          "name": "SAN LEANDRO POLICE DEPARTMENT",
+          "relationship": "chapter",
+          "children": [
+            {
+              "name": "San Leandro Police Department",
+              "relationship": "alternate_spelling"
+            },
+            {
+              "name": "City of San Leandro Police Department",
+              "relationship": "alternate_spelling"
+            }
+          ]
+        },
+        {
+          "name": "SAN RAFAEL POLICE DEPARTMENT",
+          "relationship": "chapter",
+          "children": [
+            {
+              "name": "San Rafael Police Department",
+              "relationship": "alternate_spelling"
+            }
+          ]
+        },
+        {
+          "name": "SANTA MARIA POLICE DEPARTMENT",
+          "relationship": "chapter",
+          "children": [
+            {
+              "name": "Santa Maria Police Department",
+              "relationship": "alternate_spelling"
+            }
+          ]
+        },
+        {
+          "name": "SAN RAMON POLICE DEPARTMENT",
+          "relationship": "chapter",
+          "children": [
+            {
+              "name": "San Ramon Police Department",
+              "relationship": "alternate_spelling"
+            }
+          ]
+        },
+        {
+          "name": "SAN BRUNO POLICE DEPARTMENT",
+          "relationship": "chapter",
+          "children": [
+            {
+              "name": "San Bruno Police Department",
+              "relationship": "alternate_spelling"
+            }
+          ]
+        },
+        {
+          "name": "EL CAJON POLICE DEPARTMENT",
+          "relationship": "chapter",
+          "children": [
+            {
+              "name": "El Cajon Police Department",
+              "relationship": "alternate_spelling"
+            }
+          ]
+        },
+        {
+          "name": "CLAREMONT POLICE DEPARTMENT",
+          "relationship": "chapter",
+          "children": [
+            {
+              "name": "City of Claremont Police Department",
+              "relationship": "alternate_spelling"
+            }
+          ]
+        },
+        {
+          "name": "CAPITOLA POLICE DEPARTMENT",
+          "relationship": "chapter",
+          "children": [
+            {
+              "name": "City of Capitola Police Department",
+              "relationship": "alternate_spelling"
+            }
+          ]
+        },
+        {
+          "name": "CORNING POLICE DEPARTMENT",
+          "relationship": "chapter",
+          "children": [
+            {
+              "name": "City of Corning Police Department",
+              "relationship": "alternate_spelling"
+            }
+          ]
+        },
+        {
+          "name": "DOWNEY POLICE DEPARTMENT",
+          "relationship": "chapter",
+          "children": [
+            {
+              "name": "City of Downey Police Department",
+              "relationship": "alternate_spelling"
+            }
+          ]
+        },
+        {
+          "name": "EUREKA POLICE DEPARTMENT",
+          "relationship": "chapter",
+          "children": [
+            {
+              "name": "City of Eureka Police Department",
+              "relationship": "alternate_spelling"
+            }
+          ]
+        },
+        {
+          "name": "IRWINDALE POLICE DEPARTMENT",
+          "relationship": "chapter",
+          "children": [
+            {
+              "name": "City of Irwindale Police Department",
+              "relationship": "alternate_spelling"
+            }
+          ]
+        },
+        {
+          "name": "LA HABRA POLICE DEPARTMENT",
+          "relationship": "chapter",
+          "children": [
+            {
+              "name": "City of La Habra Police Department",
+              "relationship": "alternate_spelling"
+            }
+          ]
+        },
+        {
+          "name": "MADERA POLICE DEPARTMENT",
+          "relationship": "chapter",
+          "children": [
+            {
+              "name": "City of Madera Police Dept",
+              "relationship": "alternate_spelling"
+            }
+          ]
+        },
+        {
+          "name": "CULVER CITY POLICE DEPARTMENT",
+          "relationship": "chapter",
+          "children": [
+            {
+              "name": "City of Culver City Police Department",
+              "relationship": "alternate_spelling"
+            }
+          ]
+        },
+        {
+          "name": "SANTA MONICA POLICE DEPARTMENT",
+          "relationship": "chapter",
+          "children": [
+            {
+              "name": "City of Santa Monica Police Department",
+              "relationship": "alternate_spelling"
+            }
+          ]
+        },
+        {
+          "name": "RIVERSIDE POLICE DEPARTMENT",
+          "relationship": "chapter",
+          "children": [
+            {
+              "name": "City of Riverside Police Department",
+              "relationship": "alternate_spelling"
+            }
+          ]
+        },
+        {
+          "name": "MORGAN HILL POLICE DEPARTMENT",
+          "relationship": "chapter",
+          "children": [
+            {
+              "name": "City of Morgan Hill Police Department",
+              "relationship": "alternate_spelling"
+            }
+          ]
+        },
+        {
+          "name": "PALM SPRINGS POLICE DEPARTMENT",
+          "relationship": "chapter",
+          "children": [
+            {
+              "name": "City of Palm Springs Police Department",
+              "relationship": "alternate_spelling"
+            }
+          ]
+        },
+        {
+          "name": "FOUNTAIN VALLEY POLICE DEPARTMENT",
+          "relationship": "chapter",
+          "children": [
+            {
+              "name": "Fountain Valley Police Department",
+              "relationship": "alternate_spelling"
+            },
+            {
+              "name": "City of Fountain Valley Police Department",
+              "relationship": "alternate_spelling"
+            }
+          ]
+        },
+        {
+          "name": "INDIO POLICE DEPARTMENT",
+          "relationship": "chapter",
+          "children": [
+            {
+              "name": "Indio Police Department",
+              "relationship": "alternate_spelling"
+            }
+          ]
+        },
+        {
+          "name": "SELMA POLICE DEPARTMENT",
+          "relationship": "chapter",
+          "children": [
+            {
+              "name": "Selma Police Department",
+              "relationship": "alternate_spelling"
+            }
+          ]
+        },
+        {
+          "name": "BELMONT POLICE DEPARTMENT",
+          "relationship": "chapter",
+          "children": [
+            {
+              "name": "Belmont Police Department",
+              "relationship": "alternate_spelling"
+            }
+          ]
+        },
+        {
+          "name": "BEAR VALLEY POLICE DEPARTMENT",
+          "relationship": "chapter",
+          "children": [
+            {
+              "name": "Bear Valley Police Department",
+              "relationship": "alternate_spelling"
+            }
+          ]
+        },
+        {
+          "name": "BLYTHE POLICE DEPARTMENT",
+          "relationship": "chapter",
+          "children": [
+            {
+              "name": "Blythe Police Department",
+              "relationship": "alternate_spelling"
+            }
+          ]
+        },
+        {
+          "name": "CORCORAN POLICE DEPARTMENT",
+          "relationship": "chapter",
+          "children": [
+            {
+              "name": "Corcoran Police Department",
+              "relationship": "alternate_spelling"
+            }
+          ]
+        },
+        {
+          "name": "LINCOLN POLICE DEPARTMENT",
+          "relationship": "chapter",
+          "children": [
+            {
+              "name": "Lincoln Police Department",
+              "relationship": "alternate_spelling"
+            }
+          ]
+        },
+        {
+          "name": "PITTSBURG POLICE DEPARTMENT",
+          "relationship": "chapter",
+          "children": [
+            {
+              "name": "Pittsburg Police Department",
+              "relationship": "alternate_spelling"
+            }
+          ]
+        },
+        {
+          "name": "NEWARK POLICE DEPARTMENT",
+          "relationship": "chapter",
+          "children": [
+            {
+              "name": "Newark Police Department",
+              "relationship": "alternate_spelling"
+            }
+          ]
+        },
+        {
+          "name": "BISHOP POLICE DEPARTMENT",
+          "relationship": "chapter",
+          "children": [
+            {
+              "name": "Bishop Police Department",
               "relationship": "alternate_spelling"
             }
           ]
@@ -119908,6 +121594,802 @@
             {
               "name": "THE SAN BERNARDINO COUNTY SHERIFF",
               "relationship": "alternate_spelling"
+            },
+            {
+              "name": "San Bernardino County Sheriffs Office",
+              "relationship": "alternate_spelling"
+            },
+            {
+              "name": "Sheriff, San Bernardino County",
+              "relationship": "alternate_spelling"
+            },
+            {
+              "name": "Office of the San Bernardino County Sheriff",
+              "relationship": "alternate_spelling"
+            },
+            {
+              "name": "San Bernardino County Office of the Sheriff",
+              "relationship": "alternate_spelling"
+            },
+            {
+              "name": "Bernardino County Sheriff",
+              "relationship": "alternate_spelling"
+            },
+            {
+              "name": "San Bernardino County Sheriff-Coroner",
+              "relationship": "alternate_spelling"
+            },
+            {
+              "name": "Sheriff of San Bernardino County",
+              "relationship": "alternate_spelling"
+            },
+            {
+              "name": "Office of the Sheriff San Bernardino County",
+              "relationship": "alternate_spelling"
+            },
+            {
+              "name": "San Bernadino County Sheriff",
+              "relationship": "alternate_spelling"
+            },
+            {
+              "name": "San Bernardino County Sheriffs",
+              "relationship": "alternate_spelling"
+            },
+            {
+              "name": "San Bernadino County Sheriffs Department",
+              "relationship": "alternate_spelling"
+            },
+            {
+              "name": "Sheriff-Coroner of San Bernardino County",
+              "relationship": "alternate_spelling"
+            },
+            {
+              "name": "Office of the Sheriff of San Bernardino County",
+              "relationship": "alternate_spelling"
+            }
+          ]
+        },
+        {
+          "name": "SAN DIEGO COUNTY SHERIFF",
+          "relationship": "chapter",
+          "children": [
+            {
+              "name": "San Diego County Sheriffs Department",
+              "relationship": "alternate_spelling"
+            },
+            {
+              "name": "San Diego County Sheriff's Office",
+              "relationship": "alternate_spelling"
+            },
+            {
+              "name": "San Diego County Sheriff's Department",
+              "relationship": "alternate_spelling"
+            },
+            {
+              "name": "San Diego County Sheriff's",
+              "relationship": "alternate_spelling"
+            }
+          ]
+        },
+        {
+          "name": "ORANGE COUNTY SHERIFF",
+          "relationship": "chapter",
+          "children": [
+            {
+              "name": "Orange County Sheriffs Department",
+              "relationship": "alternate_spelling"
+            },
+            {
+              "name": "Orange County Sheriff's Office",
+              "relationship": "alternate_spelling"
+            },
+            {
+              "name": "Orange County Sheriff-coroner",
+              "relationship": "alternate_spelling"
+            }
+          ]
+        },
+        {
+          "name": "RIVERSIDE COUNTY SHERIFF",
+          "relationship": "chapter",
+          "children": [
+            {
+              "name": "Riverside County Sheriffs Office",
+              "relationship": "alternate_spelling"
+            },
+            {
+              "name": "Riverside County Sheriff",
+              "relationship": "alternate_spelling"
+            },
+            {
+              "name": "Riverside County Sheriffs Department",
+              "relationship": "alternate_spelling"
+            },
+            {
+              "name": "Riverside Sheriff's",
+              "relationship": "alternate_spelling"
+            },
+            {
+              "name": "Riverside County Sheriff's Department",
+              "relationship": "alternate_spelling"
+            }
+          ]
+        },
+        {
+          "name": "SACRAMENTO COUNTY SHERIFF",
+          "relationship": "chapter",
+          "children": [
+            {
+              "name": "Sacramento County Sheriff",
+              "relationship": "alternate_spelling"
+            },
+            {
+              "name": "Sacramento County Sheriffs",
+              "relationship": "alternate_spelling"
+            },
+            {
+              "name": "Sheriff, Sacramento County",
+              "relationship": "alternate_spelling"
+            },
+            {
+              "name": "Sacramento County Sheriff's Office",
+              "relationship": "alternate_spelling"
+            }
+          ]
+        },
+        {
+          "name": "ALAMEDA COUNTY SHERIFF",
+          "relationship": "chapter",
+          "children": [
+            {
+              "name": "Alameda County Sheriffs Office",
+              "relationship": "alternate_spelling"
+            },
+            {
+              "name": "Alameda County Sheriffs Department",
+              "relationship": "alternate_spelling"
+            },
+            {
+              "name": "Alameda County Sheriff-Coroner",
+              "relationship": "alternate_spelling"
+            }
+          ]
+        },
+        {
+          "name": "FRESNO COUNTY SHERIFF",
+          "relationship": "chapter",
+          "children": [
+            {
+              "name": "Fresno County Sheriff",
+              "relationship": "alternate_spelling"
+            },
+            {
+              "name": "Fresno County Sheriff's Office",
+              "relationship": "alternate_spelling"
+            },
+            {
+              "name": "Fresno County Sheriffs Department",
+              "relationship": "alternate_spelling"
+            }
+          ]
+        },
+        {
+          "name": "YOLO COUNTY SHERIFF",
+          "relationship": "chapter",
+          "children": [
+            {
+              "name": "Yolo County Sheriffs Department",
+              "relationship": "alternate_spelling"
+            },
+            {
+              "name": "Yolo County Sheriff",
+              "relationship": "alternate_spelling"
+            },
+            {
+              "name": "Yolo County Sheriffs Office",
+              "relationship": "alternate_spelling"
+            }
+          ]
+        },
+        {
+          "name": "BUTTE COUNTY SHERIFF",
+          "relationship": "chapter",
+          "children": [
+            {
+              "name": "Butte County Sheriff",
+              "relationship": "alternate_spelling"
+            },
+            {
+              "name": "Butte County Sheriff's Office",
+              "relationship": "alternate_spelling"
+            },
+            {
+              "name": "Butte County Sheriff's Department",
+              "relationship": "alternate_spelling"
+            },
+            {
+              "name": "Butte County Sheriff-Coroner",
+              "relationship": "alternate_spelling"
+            }
+          ]
+        },
+        {
+          "name": "CONTRA COSTA COUNTY SHERIFF",
+          "relationship": "chapter",
+          "children": [
+            {
+              "name": "Contra Costa County Sheriff",
+              "relationship": "alternate_spelling"
+            },
+            {
+              "name": "Contra Costa County Sheriffs Department",
+              "relationship": "alternate_spelling"
+            },
+            {
+              "name": "County of Contra Costa Office of the Sheriff",
+              "relationship": "alternate_spelling"
+            },
+            {
+              "name": "Contra Costa County Sheriffs Office",
+              "relationship": "alternate_spelling"
+            }
+          ]
+        },
+        {
+          "name": "STANISLAUS COUNTY SHERIFF",
+          "relationship": "chapter",
+          "children": [
+            {
+              "name": "Stanislaus County Sheriff",
+              "relationship": "alternate_spelling"
+            },
+            {
+              "name": "Stanislaus County Sheriff's Department",
+              "relationship": "alternate_spelling"
+            }
+          ]
+        },
+        {
+          "name": "MARIN COUNTY SHERIFF",
+          "relationship": "chapter",
+          "children": [
+            {
+              "name": "Marin County Sheriff's Office",
+              "relationship": "alternate_spelling"
+            },
+            {
+              "name": "Marin County Sheriff",
+              "relationship": "alternate_spelling"
+            }
+          ]
+        },
+        {
+          "name": "EL DORADO COUNTY SHERIFF",
+          "relationship": "chapter",
+          "children": [
+            {
+              "name": "El Dorado County Sheriff",
+              "relationship": "alternate_spelling"
+            },
+            {
+              "name": "El Dorado County Sheriff-Coroner",
+              "relationship": "alternate_spelling"
+            },
+            {
+              "name": "El Dorado County Sheriffs Office",
+              "relationship": "alternate_spelling"
+            },
+            {
+              "name": "El Dorado County Sheriff's Department",
+              "relationship": "alternate_spelling"
+            }
+          ]
+        },
+        {
+          "name": "KINGS COUNTY SHERIFF",
+          "relationship": "chapter",
+          "children": [
+            {
+              "name": "Kings County Sheriff",
+              "relationship": "alternate_spelling"
+            },
+            {
+              "name": "Kings County Sheriff's Office",
+              "relationship": "alternate_spelling"
+            }
+          ]
+        },
+        {
+          "name": "SANTA BARBARA COUNTY SHERIFF",
+          "relationship": "chapter",
+          "children": [
+            {
+              "name": "Santa Barbara County Sheriff",
+              "relationship": "alternate_spelling"
+            },
+            {
+              "name": "Santa Barbara County Sheriff's Department",
+              "relationship": "alternate_spelling"
+            },
+            {
+              "name": "Santa Barbara County Sheriff's Office",
+              "relationship": "alternate_spelling"
+            },
+            {
+              "name": "Santa Barbara County Sheriff-Coroner",
+              "relationship": "alternate_spelling"
+            }
+          ]
+        },
+        {
+          "name": "MARIPOSA COUNTY SHERIFF",
+          "relationship": "chapter",
+          "children": [
+            {
+              "name": "Mariposa County Sheriff",
+              "relationship": "alternate_spelling"
+            },
+            {
+              "name": "Mariposa County Sheriff's Office",
+              "relationship": "alternate_spelling"
+            },
+            {
+              "name": "Mariposa County Sheriff-Coroner",
+              "relationship": "alternate_spelling"
+            }
+          ]
+        },
+        {
+          "name": "SAN JOAQUIN COUNTY SHERIFF",
+          "relationship": "chapter",
+          "children": [
+            {
+              "name": "San Joaquin County Sheriff",
+              "relationship": "alternate_spelling"
+            },
+            {
+              "name": "San Joaquin County Sheriff-Coroner",
+              "relationship": "alternate_spelling"
+            }
+          ]
+        },
+        {
+          "name": "TUOLUMNE COUNTY SHERIFF",
+          "relationship": "chapter",
+          "children": [
+            {
+              "name": "Tuolumne County Sheriff",
+              "relationship": "alternate_spelling"
+            },
+            {
+              "name": "Tuolumne County Sheriff's Department",
+              "relationship": "alternate_spelling"
+            },
+            {
+              "name": "Tuolumne County Sheriffs Office",
+              "relationship": "alternate_spelling"
+            },
+            {
+              "name": "Tuolumne County Undersheriff",
+              "relationship": "alternate_spelling"
+            }
+          ]
+        },
+        {
+          "name": "MONO COUNTY SHERIFF",
+          "relationship": "chapter",
+          "children": [
+            {
+              "name": "Mono County Sheriff",
+              "relationship": "alternate_spelling"
+            },
+            {
+              "name": "Mono County Sheriff's Office",
+              "relationship": "alternate_spelling"
+            }
+          ]
+        },
+        {
+          "name": "SONOMA COUNTY SHERIFF",
+          "relationship": "chapter",
+          "children": [
+            {
+              "name": "Sonoma County Sheriff",
+              "relationship": "alternate_spelling"
+            },
+            {
+              "name": "Sonoma County Sheriff's Department",
+              "relationship": "alternate_spelling"
+            },
+            {
+              "name": "Sonoma County Sheriff's Office",
+              "relationship": "alternate_spelling"
+            }
+          ]
+        },
+        {
+          "name": "SAN MATEO COUNTY SHERIFF",
+          "relationship": "chapter",
+          "children": [
+            {
+              "name": "San Mateo County Sheriff",
+              "relationship": "alternate_spelling"
+            },
+            {
+              "name": "San Mateo County Sheriff's Department",
+              "relationship": "alternate_spelling"
+            },
+            {
+              "name": "County of San Mateo Office of the Sheriff",
+              "relationship": "alternate_spelling"
+            }
+          ]
+        },
+        {
+          "name": "MONTEREY COUNTY SHERIFF",
+          "relationship": "chapter",
+          "children": [
+            {
+              "name": "Monterey County Sheriff",
+              "relationship": "alternate_spelling"
+            },
+            {
+              "name": "Monterey County Sheriff's Office",
+              "relationship": "alternate_spelling"
+            },
+            {
+              "name": "Monterey County Sheriff's Department",
+              "relationship": "alternate_spelling"
+            }
+          ]
+        },
+        {
+          "name": "DEL NORTE COUNTY SHERIFF",
+          "relationship": "chapter",
+          "children": [
+            {
+              "name": "Del Norte County Sheriff",
+              "relationship": "alternate_spelling"
+            }
+          ]
+        },
+        {
+          "name": "NEVADA COUNTY SHERIFF",
+          "relationship": "chapter",
+          "children": [
+            {
+              "name": "Nevada County Sheriff",
+              "relationship": "alternate_spelling"
+            },
+            {
+              "name": "Nevada County Sheriffs Office",
+              "relationship": "alternate_spelling"
+            }
+          ]
+        },
+        {
+          "name": "SUTTER COUNTY SHERIFF",
+          "relationship": "chapter",
+          "children": [
+            {
+              "name": "Sutter County Sheriff",
+              "relationship": "alternate_spelling"
+            }
+          ]
+        },
+        {
+          "name": "SAN BENITO COUNTY SHERIFF",
+          "relationship": "chapter",
+          "children": [
+            {
+              "name": "San Benito County Sheriff",
+              "relationship": "alternate_spelling"
+            },
+            {
+              "name": "San Benito County Sheriff's Department",
+              "relationship": "alternate_spelling"
+            },
+            {
+              "name": "San Benito County Sheriff's Office",
+              "relationship": "alternate_spelling"
+            }
+          ]
+        },
+        {
+          "name": "IMPERIAL COUNTY SHERIFF",
+          "relationship": "chapter",
+          "children": [
+            {
+              "name": "Imperial County Sheriff",
+              "relationship": "alternate_spelling"
+            }
+          ]
+        },
+        {
+          "name": "HUMBOLDT COUNTY SHERIFF",
+          "relationship": "chapter",
+          "children": [
+            {
+              "name": "Humboldt County Sheriff",
+              "relationship": "alternate_spelling"
+            },
+            {
+              "name": "Humboldt County Sheriff's Office",
+              "relationship": "alternate_spelling"
+            }
+          ]
+        },
+        {
+          "name": "LAKE COUNTY SHERIFF",
+          "relationship": "chapter",
+          "children": [
+            {
+              "name": "Lake County Sheriff",
+              "relationship": "alternate_spelling"
+            },
+            {
+              "name": "Lake County Sheriff's Department",
+              "relationship": "alternate_spelling"
+            },
+            {
+              "name": "Lake County Sheriff's Office",
+              "relationship": "alternate_spelling"
+            }
+          ]
+        },
+        {
+          "name": "CALAVERAS COUNTY SHERIFF",
+          "relationship": "chapter",
+          "children": [
+            {
+              "name": "Calaveras County Sheriff",
+              "relationship": "alternate_spelling"
+            },
+            {
+              "name": "Calaveras County Sheriff's Department",
+              "relationship": "alternate_spelling"
+            }
+          ]
+        },
+        {
+          "name": "LASSEN COUNTY SHERIFF",
+          "relationship": "chapter",
+          "children": [
+            {
+              "name": "Lassen County Sheriff",
+              "relationship": "alternate_spelling"
+            },
+            {
+              "name": "Lassen County Sheriff's Office",
+              "relationship": "alternate_spelling"
+            }
+          ]
+        },
+        {
+          "name": "SAN LUIS OBISPO COUNTY SHERIFF",
+          "relationship": "chapter",
+          "children": [
+            {
+              "name": "San Luis Obispo County Sheriff's Department",
+              "relationship": "alternate_spelling"
+            },
+            {
+              "name": "San Luis Obispo County Sheriff's Office",
+              "relationship": "alternate_spelling"
+            }
+          ]
+        },
+        {
+          "name": "PLUMAS COUNTY SHERIFF",
+          "relationship": "chapter",
+          "children": [
+            {
+              "name": "Plumas County Sheriff",
+              "relationship": "alternate_spelling"
+            }
+          ]
+        },
+        {
+          "name": "SOLANO COUNTY SHERIFF",
+          "relationship": "chapter",
+          "children": [
+            {
+              "name": "Solano County Sheriff's Office",
+              "relationship": "alternate_spelling"
+            }
+          ]
+        },
+        {
+          "name": "TULARE COUNTY SHERIFF",
+          "relationship": "chapter",
+          "children": [
+            {
+              "name": "Tulare County Sheriff",
+              "relationship": "alternate_spelling"
+            },
+            {
+              "name": "Tulare County Sheriff's Office",
+              "relationship": "alternate_spelling"
+            },
+            {
+              "name": "Tulare County Sheriffs Department",
+              "relationship": "alternate_spelling"
+            }
+          ]
+        },
+        {
+          "name": "TEHAMA COUNTY SHERIFF",
+          "relationship": "chapter",
+          "children": [
+            {
+              "name": "Tehama County Sheriff",
+              "relationship": "alternate_spelling"
+            },
+            {
+              "name": "Tehama County Sheriff's Department",
+              "relationship": "alternate_spelling"
+            }
+          ]
+        },
+        {
+          "name": "MERCED COUNTY SHERIFF",
+          "relationship": "chapter",
+          "children": [
+            {
+              "name": "Merced County Sheriff",
+              "relationship": "alternate_spelling"
+            },
+            {
+              "name": "Merced County Sheriff's Department",
+              "relationship": "alternate_spelling"
+            },
+            {
+              "name": "Merced County Sheriff's Office",
+              "relationship": "alternate_spelling"
+            }
+          ]
+        },
+        {
+          "name": "SANTA CLARA COUNTY SHERIFF",
+          "relationship": "chapter",
+          "children": [
+            {
+              "name": "Santa Clara County Sheriff",
+              "relationship": "alternate_spelling"
+            },
+            {
+              "name": "Santa Clara County Sheriff's Office",
+              "relationship": "alternate_spelling"
+            },
+            {
+              "name": "County of Santa Clara Office of the Sheriff",
+              "relationship": "alternate_spelling"
+            }
+          ]
+        },
+        {
+          "name": "GLENN COUNTY SHERIFF",
+          "relationship": "chapter",
+          "children": [
+            {
+              "name": "Glenn County Sheriff",
+              "relationship": "alternate_spelling"
+            },
+            {
+              "name": "Glenn County Sheriff's Office",
+              "relationship": "alternate_spelling"
+            }
+          ]
+        },
+        {
+          "name": "COLUSA COUNTY SHERIFF",
+          "relationship": "chapter",
+          "children": [
+            {
+              "name": "Colusa County Sheriff",
+              "relationship": "alternate_spelling"
+            }
+          ]
+        },
+        {
+          "name": "SISKIYOU COUNTY SHERIFF",
+          "relationship": "chapter",
+          "children": [
+            {
+              "name": "Siskiyou County Sheriff",
+              "relationship": "alternate_spelling"
+            },
+            {
+              "name": "Siskiyou County Sheriff's Department",
+              "relationship": "alternate_spelling"
+            }
+          ]
+        },
+        {
+          "name": "MENDOCINO COUNTY SHERIFF",
+          "relationship": "chapter",
+          "children": [
+            {
+              "name": "County of Mendocino Office of the Sheriff-Coroner",
+              "relationship": "alternate_spelling"
+            }
+          ]
+        },
+        {
+          "name": "MADERA COUNTY SHERIFF",
+          "relationship": "chapter",
+          "children": [
+            {
+              "name": "Madera County Sheriff's Office",
+              "relationship": "alternate_spelling"
+            },
+            {
+              "name": "Madera County Sheriff's Department",
+              "relationship": "alternate_spelling"
+            }
+          ]
+        },
+        {
+          "name": "LOS ANGELES COUNTY SHERIFF",
+          "relationship": "chapter",
+          "children": [
+            {
+              "name": "County of Los Angeles Sheriffs Department",
+              "relationship": "alternate_spelling"
+            },
+            {
+              "name": "Los Angeles County Sheriffs",
+              "relationship": "alternate_spelling"
+            },
+            {
+              "name": "Sheriff, Los Angeles County",
+              "relationship": "alternate_spelling"
+            },
+            {
+              "name": "Los Angeles Sheriff",
+              "relationship": "alternate_spelling"
+            },
+            {
+              "name": "Angeles County Sheriff's Department",
+              "relationship": "alternate_spelling"
+            },
+            {
+              "name": "Los Angeles County Sheriff Lee Baca",
+              "relationship": "alternate_spelling"
+            },
+            {
+              "name": "Los Angeles County Sheriff Leroy Baca",
+              "relationship": "alternate_spelling"
+            },
+            {
+              "name": "Los Angeles County Sheriff Sherman Block",
+              "relationship": "alternate_spelling"
+            },
+            {
+              "name": "Sherman Block, Sheriff of Los Angeles County",
+              "relationship": "alternate_spelling"
+            },
+            {
+              "name": "Sheriff Lee Baca, Los Angeles County",
+              "relationship": "alternate_spelling"
+            },
+            {
+              "name": "Los Angeles County Sheriff Leroy D. Baca",
+              "relationship": "alternate_spelling"
+            },
+            {
+              "name": "Sherman Block, Los Angeles County Sheriff",
+              "relationship": "alternate_spelling"
+            }
+          ]
+        },
+        {
+          "name": "SAN FRANCISCO SHERIFF",
+          "relationship": "chapter",
+          "children": [
+            {
+              "name": "San Francisco Sheriff's Department",
+              "relationship": "alternate_spelling"
             }
           ]
         }
@@ -120027,6 +122509,24 @@
           "children": [
             {
               "name": "THE ALAMEDA COUNTY CHIEFS OF POLICE AND SHERIFF'S ASSOCIATION",
+              "relationship": "alternate_spelling"
+            }
+          ]
+        },
+        {
+          "name": "California Sheriff's Association",
+          "relationship": "chapter",
+          "children": [
+            {
+              "name": "California Sheriffs Association",
+              "relationship": "alternate_spelling"
+            },
+            {
+              "name": "State Sheriffs Association",
+              "relationship": "alternate_spelling"
+            },
+            {
+              "name": "California State Sheriffs",
               "relationship": "alternate_spelling"
             }
           ]
