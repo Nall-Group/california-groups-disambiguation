@@ -119760,6 +119760,74 @@
           "relationship": "alternate_spelling"
         },
         {
+          "name": "SHERIFF'S OFFICE",
+          "relationship": "alternate_spelling"
+        },
+        {
+          "name": "SHERIFF'S DEPARTMENT",
+          "relationship": "alternate_spelling",
+          "children": [
+            {
+              "name": "LOS ANGELES COUNTY SHERIFF'S DEPARTMENT",
+              "relationship": "chapter",
+              "children": [
+                {
+                  "name": "THE LOS ANGELES COUNTY SHERIFF'S DEPARTMENT",
+                  "relationship": "alternate_spelling"
+                },
+                {
+                  "name": "Los Angeles County Sheriff 's Department",
+                  "relationship": "alternate_spelling"
+                },
+                {
+                  "name": "Los Angeles County Sheriff's Department,",
+                  "relationship": "alternate_spelling"
+                },
+                {
+                  "name": "LOS ANGELES COUNTY SHERIFF'S OFFICE",
+                  "relationship": "alternate_spelling"
+                },
+                {
+                  "name": "THE LOS ANGELES COUNTY SHERIFF'S OFFICE",
+                  "relationship": "alternate_spelling"
+                }
+              ]
+            },
+            {
+              "name": "SACRAMENTO COUNTY SHERIFF'S DEPARTMENT",
+              "relationship": "chapter",
+              "children": [
+                {
+                  "name": "SACRAMENTO COUNTY SHERIFF'S DEPARTMENT (SCSD)",
+                  "relationship": "alternate_spelling"
+                }
+              ]
+            },
+            {
+              "name": "SAN BERNARDINO COUNTY SHERIFF'S DEPARTMENT",
+              "relationship": "chapter",
+              "children": [
+                {
+                  "name": "THE SAN BERNARDINO COUNTY SHERIFF'S DEPARTMENT",
+                  "relationship": "alternate_spelling"
+                },
+                {
+                  "name": "Bernardino County Sheriff's Department",
+                  "relationship": "alternate_spelling"
+                },
+                {
+                  "name": "Bernardino County Sheriff's Department, California",
+                  "relationship": "alternate_spelling"
+                }
+              ]
+            },
+            {
+              "name": "VENTURA COUNTY SHERIFF'S OFFICE",
+              "relationship": "chapter"
+            }
+          ]
+        },
+        {
           "name": "SHERIFF OF ALAMEDA COUNTY",
           "relationship": "chapter",
           "children": [
@@ -119842,74 +119910,6 @@
               "relationship": "alternate_spelling"
             }
           ]
-        }
-      ]
-    },
-    {
-      "canonical": "SHERIFF'S DEPARTMENT",
-      "status": "active",
-      "children": [
-        {
-          "name": "SHERIFF'S OFFICE",
-          "relationship": "alternate_spelling"
-        },
-        {
-          "name": "LOS ANGELES COUNTY SHERIFF'S DEPARTMENT",
-          "relationship": "chapter",
-          "children": [
-            {
-              "name": "THE LOS ANGELES COUNTY SHERIFF'S DEPARTMENT",
-              "relationship": "alternate_spelling"
-            },
-            {
-              "name": "Los Angeles County Sheriff 's Department",
-              "relationship": "alternate_spelling"
-            },
-            {
-              "name": "Los Angeles County Sheriff's Department,",
-              "relationship": "alternate_spelling"
-            },
-            {
-              "name": "LOS ANGELES COUNTY SHERIFF'S OFFICE",
-              "relationship": "alternate_spelling"
-            },
-            {
-              "name": "THE LOS ANGELES COUNTY SHERIFF'S OFFICE",
-              "relationship": "alternate_spelling"
-            }
-          ]
-        },
-        {
-          "name": "SACRAMENTO COUNTY SHERIFF'S DEPARTMENT",
-          "relationship": "chapter",
-          "children": [
-            {
-              "name": "SACRAMENTO COUNTY SHERIFF'S DEPARTMENT (SCSD)",
-              "relationship": "alternate_spelling"
-            }
-          ]
-        },
-        {
-          "name": "SAN BERNARDINO COUNTY SHERIFF'S DEPARTMENT",
-          "relationship": "chapter",
-          "children": [
-            {
-              "name": "THE SAN BERNARDINO COUNTY SHERIFF'S DEPARTMENT",
-              "relationship": "alternate_spelling"
-            },
-            {
-              "name": "Bernardino County Sheriff's Department",
-              "relationship": "alternate_spelling"
-            },
-            {
-              "name": "Bernardino County Sheriff's Department, California",
-              "relationship": "alternate_spelling"
-            }
-          ]
-        },
-        {
-          "name": "VENTURA COUNTY SHERIFF'S OFFICE",
-          "relationship": "chapter"
         }
       ]
     },
