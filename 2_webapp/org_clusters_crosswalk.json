@@ -19944,6 +19944,10 @@
         {
           "name": "CA State Firefighters Association",
           "relationship": "alternate_spelling"
+        },
+        {
+          "name": "STATE FIREFIGHTERS ASSOCIATION",
+          "relationship": "alternate_spelling"
         }
       ]
     },
@@ -151302,7 +151306,13 @@
         },
         {
           "name": "CAL FIRE Local 2881, IAFF, AFL-CIO",
-          "relationship": "chapter"
+          "relationship": "chapter",
+          "children": [
+            {
+              "name": "CAL FIRE LOCAL 2881",
+              "relationship": "alternate_spelling"
+            }
+          ]
         },
         {
           "name": "CAL FIRE Local 2881 (Section 2 of the bill)",
