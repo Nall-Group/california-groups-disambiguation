@@ -86,7 +86,7 @@ SHERIFF'S EMPLOYEE BENEFITS ASSOCIATION
 
 Also add Sheriff and Police organizations that are not in the crosswalk, to the crosswalk.
 
-21. Remove CO-SPONSOR prefix or suffix from org names and merge duplicates
+21. Remove CO-SPONSOR prefix or suffix from org names and merge duplicates. Also remove SPONSOR in the same way. Afterwards, consolidate resulting duplicate organizations.
 
 22. Consolidate YIMBY orgs in crosswalk to one org. Add YIMBY orgs to the crosswalk that are not there yet.
 

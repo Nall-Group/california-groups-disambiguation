@@ -856,6 +856,7 @@ San Mateo County Board of Supervisors,310
 CALIFORNIA RELEAF,309
 CALIFORNIA ASSOCIATION OF LOCAL AGENCY FORMATION COMMISSIONS,309
 American,309
+PUBLIC INTEREST LAW PROJECT,309
 Angeles,308
 California Student Aid Commission,308
 United Transportation Union,308
@@ -867,7 +868,6 @@ GLIDE FOUNDATION,306
 FOUNDATION FOR TAXPAYER AND CONSUMER RIGHTS,305
 California Agricultural Commissioners and Sealers Association,305
 Osteopathic Physicians and Surgeons of California,304
-PUBLIC INTEREST LAW PROJECT,304
 California Association of Alcohol and Drug Program Executives,304
 American Diabetes Association,303
 City of Whittier,303
@@ -1650,8 +1650,8 @@ Palmdale Water District,148
 Association of American Publishers,148
 ORANGE COUNTY SANITATION DISTRICT,148
 CITY OF DAVIS,148
+California Alliance for Pride and Equality,148
 Blue Cross,147
-California Alliance for Pride and Equality,147
 Professional Fiduciary Association of California,147
 Hispanic Association of Colleges and Universities,147
 City of Stanton,147
@@ -1995,6 +1995,7 @@ CALIFORNIA ASSOCIATION FOR MEDICAL LABORATORY TECHNOLOGY,116
 INTERNATIONAL BROTHERHOOD OF ELECTRICAL WORKERS,116
 Association of Independent California Colleges & Universities,116
 Frontier Communications,116
+California Bail Agents Association,116
 United Public Employees,115
 Coalition to Stop Gun Violence,115
 Fresno,115
@@ -2006,7 +2007,6 @@ DOCTOR'S COMPANY,115
 Independent Insurance Agents & Brokers of California,115
 Toward Utility Rate Normalization,115
 Board of Governors of the California Community Colleges,115
-California Bail Agents Association,115
 Independent Insurance Agents and Brokers of California,114
 Venice Community Housing Corporation,114
 Veterans of Foreign Wars,114
@@ -2602,6 +2602,7 @@ CALIFORNIA ASSOCIATION OF HOMES FOR THE AGING,77
 East Bay Developmental Disabilities Legislative Coalition,77
 Association of California Car Clubs,77
 Orange County District Attorney's Office,77
+The Public Interest Law Project,77
 Tribal Alliance of Sovereign Indian Nations,76
 Inland Congregations United for Change,76
 Wellstone Democratic Renewal Club,76
@@ -2614,7 +2615,6 @@ Kirsch Foundation,76
 City of Brisbane,76
 City of Redlands,76
 "Golden State Mobilehome Owners League, Inc",76
-The Public Interest Law Project,76
 CITY OF LAKE ELSINORE,76
 "Service Employees International Union AFL-CIO, CLC",76
 Independent Roofing Contractors of California,76
@@ -8793,7 +8793,7 @@ Professional Peace Officers' Association,8
 California Association of Physicians Groups,8
 CALRHA,8
 Non-Profit Housing Association of Northern,8
-Non-profit Housing Association of Northern California [SPONSOR,8
+Non-profit Housing Association of Northern California,8
 California Contractor's Network,8
 Californians United for Redevelopment Education,8
 Northern California Golf Association,7
@@ -11073,7 +11073,6 @@ Sunchiller,5
 ReJoule,5
 Driscoll'S,5
 Pdc Machines,5
-PUBLIC INTEREST LAW PROJECT [SPONSOR,5
 PLACER COUNTY CONTRACTORS ASSOCIATION,5
 ENCINITAS4EQUALITY,5
 HOMEAID AMERICA,5
@@ -14867,7 +14866,7 @@ California School Transportation Coalition,2
 California State University Employees Union (CSUEU/SEIU),2
 California State Treasurer Phil Angelides,2
 California State Parent Teachers Association (PTA),2
-California State Association of Counties (CSAC - Sponsor),2
+California State Association of Counties,2
 California State Bar (Trusts and Estate Law Section),2
 California State Bar (Board of Tax Appeals part),2
 Evans Management Services,2
@@ -18123,7 +18122,6 @@ California Pan-Ethnic Health Network (CPEHN),1
 Western Regional Advocacy Program,1
 California AMVETS,1
 California Advocates for Nursing Home Reform (CAHNR),1
-California Alliance for Pride and Equality (Co Sponsor),1
 California Alternative Program Payment Association (CAPPA),1
 California (CVUC),1
 California (NCJW CA),1
@@ -18174,7 +18172,6 @@ California Center for Employment Opportunities,1
 California Brain Injury Association (CALBIA),1
 California Automotive Repair Coalition,1
 California Bankers Association (As Amended),1
-"California Bail Agents Association (Sponsor, Section 1)",1
 California Children,1
 California Clean Power Campaign,1
 California Coalition to Fight Hardcore Drunk Driving,1
@@ -18230,7 +18227,7 @@ California Board of Architectural Examiners,1
 California Board of Accountancy (the CBA),1
 California Association of Student Councils (22 High Schools),1
 California Association of LAFCOS (CALAFCO),1
-California Association of Licensed Investigators (CALI - Sponsor),1
+California Association of Licensed Investigators,1
 California Association of HMOs (Concern),1
 California Association of General Contractors,1
 California Association of Health Care Services At Home (CAHSAH),1
@@ -18280,7 +18277,7 @@ California Fire Chiefs Association (Fire Prevention Officers' Section),1
 California Fire Chiefs Association (CalChiefs),1
 California Financial Services Association (3),1
 California Federation of Teachers (Sections 17 and 25),1
-"California Federation of Teachers (CFT, Sponsor)",1
+California Federation of Teachers,1
 California Health Care Association (CHA),1
 California Health Advocates (HICAP Association),1
 California Glass,1
@@ -23385,7 +23382,7 @@ The Z-Best Products,1
 The Yucca Corridor Coalition,1
 The Women's Foundation of California Solis Policy Institute,1
 "The Willie L. Brown, Jr. Institute",1
-The Women's Foundation of California - Sponsor,1
+The Women's Foundation of California,1
 The Women's Foundation of California (WFC),1
 The Wireless Association,1
 The Wilson Group,1
@@ -23716,7 +23713,7 @@ Woodland Park Mobile Estates,1
 Women's International League for Peace & Freedom (WILPF),1
 Western Manufactured Housing Communities Association (WMHCA),1
 Women's Foundation of California Solis Policy Institute,1
-Women's Foundation of California - Sponsor,1
+Women's Foundation of California,1
 Women's Employment Rights Clinic of Golden,1
 Women's Economic Ventures (WEV),1
 Women's Council,1
@@ -24172,7 +24169,7 @@ The Northern California Guides and Sportsmen's Association,1
 The Northern California Association of Counsel for Children,1
 The Northern California,1
 The North San Diego Business Chamber,1
-The Nonprofit Housing Association of Northern California [SPONSOR,1
+The Nonprofit Housing Association of Northern California,1
 The Non-Profit Housing Association of California,1
 The Non Toxic Revolution,1
 The Off Road Vehicle Legislative Coalition,1
@@ -24256,7 +24253,6 @@ The Punk Rock Therapist,1
 The Public Sector Marketing Group,1
 The Professional Insurance Agents of California,1
 The Public Investors Arbitration Bar Association (PIABA),1
-The Public Interest Law Project [SPONSOR,1
 The Public Interest,1
 The Public Health Justice Collective,1
 The Prudential,1
