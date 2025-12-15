@@ -92,6 +92,8 @@ Also add Sheriff and Police organizations that are not in the crosswalk, to the 
 
 23. Conslidate place-based Chambers of Commerce as chapters of the California Chamber of Commerce (CALCHAMBER). Add Chambers of Commerce to the crosswalk that are not there yet.
 
+24. Separate from the Industry-specific labor organizations make an AFL-CIO canonical that has just one chapter: the California Federation of Labor 
+
 XX. Move things that are obviously not organization names (like sponsor or SB) to invalid organization names list 
 
 
