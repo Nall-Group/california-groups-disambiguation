@@ -22,32 +22,38 @@
       ]
     },
     {
-      "canonical": "100 Black Men of Long Beach",
+      "canonical": "100 Black Men",
       "status": "active",
       "children": [
         {
-          "name": "100 Black Men of Long Beach Inc",
-          "relationship": "alternate_spelling"
-        }
-      ]
-    },
-    {
-      "canonical": "100 Black Men of Sacramento",
-      "status": "active",
-      "children": [
+          "name": "100 Black Men of Long Beach",
+          "relationship": "chapter",
+          "children": [
+            {
+              "name": "100 Black Men of Long Beach Inc",
+              "relationship": "alternate_spelling"
+            }
+          ]
+        },
         {
-          "name": "100 Black Men of Sacramento, Inc",
-          "relationship": "alternate_spelling"
-        }
-      ]
-    },
-    {
-      "canonical": "100 BLACK MEN OF THE BAY AREA, INC",
-      "status": "active",
-      "children": [
+          "name": "100 Black Men of Sacramento",
+          "relationship": "chapter",
+          "children": [
+            {
+              "name": "100 Black Men of Sacramento, Inc",
+              "relationship": "alternate_spelling"
+            }
+          ]
+        },
         {
-          "name": "THE 100 BLACK MEN OF THE BAY AREA, INC",
-          "relationship": "alternate_spelling"
+          "name": "100 BLACK MEN OF THE BAY AREA, INC",
+          "relationship": "chapter",
+          "children": [
+            {
+              "name": "THE 100 BLACK MEN OF THE BAY AREA, INC",
+              "relationship": "alternate_spelling"
+            }
+          ]
         }
       ]
     },

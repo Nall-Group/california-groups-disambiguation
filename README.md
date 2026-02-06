@@ -94,6 +94,8 @@ Also add Sheriff and Police organizations that are not in the crosswalk, to the 
 
 24. Separate from the Industry-specific labor organizations make an AFL-CIO canonical that has just one chapter: the California Federation of Labor 
 
+25. Consolidate "100 Black Men" organizations
+
 XX. Move things that are obviously not organization names (like sponsor or SB) to invalid organization names list 
 
 
