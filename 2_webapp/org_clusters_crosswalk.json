@@ -19912,24 +19912,6 @@
       ]
     },
     {
-      "canonical": "CA State Firefighters' Association",
-      "status": "active",
-      "children": [
-        {
-          "name": "CA State Firefighters' Association, Inc",
-          "relationship": "alternate_spelling"
-        },
-        {
-          "name": "CA State Firefighters Association",
-          "relationship": "alternate_spelling"
-        },
-        {
-          "name": "STATE FIREFIGHTERS ASSOCIATION",
-          "relationship": "alternate_spelling"
-        }
-      ]
-    },
-    {
       "canonical": "CA STATE HORSEMEN'S ASSOCIATION",
       "status": "active",
       "children": [
@@ -28647,11 +28629,19 @@
       ]
     },
     {
-      "canonical": "CALIFORNIA DEPARTMENT OF FORESTRY",
+      "canonical": "CALIFORNIA DEPARTMENT OF FORESTRY AND FIRE PROTECTION",
       "status": "active",
       "children": [
         {
+          "name": "CALIFORNIA DEPARTMENT OF FORESTRY",
+          "relationship": "alternate_spelling"
+        },
+        {
           "name": "THE CALIFORNIA DEPARTMENT OF FORESTRY",
+          "relationship": "alternate_spelling"
+        },
+        {
+          "name": "THE CALIFORNIA DEPARTMENT OF FORESTRY AND FIRE PROTECTION",
           "relationship": "alternate_spelling"
         },
         {
@@ -28663,33 +28653,11 @@
           "relationship": "alternate_spelling"
         },
         {
-          "name": "California Department of Forestry Firefighters (CDF",
+          "name": "California Department of Forestry Firefighters (CDF)",
           "relationship": "alternate_spelling"
         },
         {
           "name": "California Department of Forestry and Fire Protection (CDF)",
-          "relationship": "chapter"
-        },
-        {
-          "name": "California Department of Forestry Fire Fighters (CDF)",
-          "relationship": "chapter"
-        },
-        {
-          "name": "California Division of Forestry Firefighters (CDF)",
-          "relationship": "chapter"
-        },
-        {
-          "name": "California Dept. of Forestry & Fire Protection (CDF)",
-          "relationship": "chapter"
-        }
-      ]
-    },
-    {
-      "canonical": "CALIFORNIA DEPARTMENT OF FORESTRY AND FIRE PROTECTION",
-      "status": "active",
-      "children": [
-        {
-          "name": "THE CALIFORNIA DEPARTMENT OF FORESTRY AND FIRE PROTECTION",
           "relationship": "alternate_spelling"
         },
         {
@@ -28698,6 +28666,18 @@
         },
         {
           "name": "California Department of Forestry and Fire Protection",
+          "relationship": "alternate_spelling"
+        },
+        {
+          "name": "California Department of Forestry Fire Fighters (CDF)",
+          "relationship": "alternate_spelling"
+        },
+        {
+          "name": "California Division of Forestry Firefighters (CDF)",
+          "relationship": "alternate_spelling"
+        },
+        {
+          "name": "California Dept. of Forestry & Fire Protection (CDF)",
           "relationship": "alternate_spelling"
         }
       ]
@@ -29651,16 +29631,6 @@
         {
           "name": "California Fire Chiefs' Association",
           "relationship": "alternate_spelling"
-        }
-      ]
-    },
-    {
-      "canonical": "California Fire Districts Association",
-      "status": "active",
-      "children": [
-        {
-          "name": "California Fire Districts Association of California",
-          "relationship": "chapter"
         }
       ]
     },
@@ -36266,9 +36236,29 @@
       ]
     },
     {
-      "canonical": "California State Firefighter's Association",
+      "canonical": "California State Firefighters' Association",
       "status": "active",
       "children": [
+        {
+          "name": "CA State Firefighters' Association",
+          "relationship": "alternate_spelling"
+        },
+        {
+          "name": "CA State Firefighters' Association, Inc",
+          "relationship": "alternate_spelling"
+        },
+        {
+          "name": "CA State Firefighters Association",
+          "relationship": "alternate_spelling"
+        },
+        {
+          "name": "STATE FIREFIGHTERS ASSOCIATION",
+          "relationship": "alternate_spelling"
+        },
+        {
+          "name": "California State Firefighter's Association",
+          "relationship": "alternate_spelling"
+        },
         {
           "name": "California State Firefighter's Association, Inc",
           "relationship": "alternate_spelling"
@@ -36288,13 +36278,11 @@
         {
           "name": "California State Firefighters' Association, Inc. (CSFA)",
           "relationship": "alternate_spelling"
-        }
-      ]
-    },
-    {
-      "canonical": "California State Firefighterso Association",
-      "status": "active",
-      "children": [
+        },
+        {
+          "name": "California State Firefighterso Association",
+          "relationship": "alternate_spelling"
+        },
         {
           "name": "California State Firefighterso Association, Inc",
           "relationship": "alternate_spelling"
@@ -65940,65 +65928,63 @@
       "children": []
     },
     {
-      "canonical": "FIRE DISTRICT ASSOCIATION OF CALIFORNIA",
+      "canonical": "FIRE DISTRICTS ASSOCIATION OF CALIFORNIA",
       "status": "active",
       "children": [
+        {
+          "name": "FIRE DISTRICT ASSOCIATION OF CALIFORNIA",
+          "relationship": "alternate_spelling"
+        },
         {
           "name": "FIRE DISTRICT ASSOCIATION OF CALIFORNIA (FDAC)",
           "relationship": "alternate_spelling"
         },
         {
-          "name": "California Fire District Association of California",
+          "name": "FIRE DISTRICTS ASSOCIATION OF CALIFORNIA (FDAC)",
           "relationship": "alternate_spelling"
-        }
-      ]
-    },
-    {
-      "canonical": "Fire District Associations of",
-      "status": "active",
-      "children": [
+        },
         {
-          "name": "Fire District Associations of California",
-          "relationship": "chapter"
-        }
-      ]
-    },
-    {
-      "canonical": "Fire Districts",
-      "status": "active",
-      "children": [
-        {
-          "name": "Fire Districts of California",
-          "relationship": "chapter"
-        }
-      ]
-    },
-    {
-      "canonical": "Fire Districts Association",
-      "status": "active",
-      "children": [
-        {
-          "name": "Fire Districts Association of CA",
-          "relationship": "chapter"
-        }
-      ]
-    },
-    {
-      "canonical": "FIRE DISTRICTS ASSOCIATION OF",
-      "status": "active",
-      "children": [
+          "name": "FIRE DISTRICTS ASSOCIATION OF",
+          "relationship": "alternate_spelling"
+        },
         {
           "name": "THE FIRE DISTRICTS ASSOCIATION OF",
           "relationship": "alternate_spelling"
-        }
-      ]
-    },
-    {
-      "canonical": "FIRE DISTRICTS ASSOCIATION OF CALIFORNIA",
-      "status": "active",
-      "children": [
+        },
         {
-          "name": "FIRE DISTRICTS ASSOCIATION OF CALIFORNIA (FDAC)",
+          "name": "California Fire District Association of California",
+          "relationship": "alternate_spelling"
+        },
+        {
+          "name": "California Fire Districts Association",
+          "relationship": "alternate_spelling"
+        },
+        {
+          "name": "California Fire Districts Association of California",
+          "relationship": "alternate_spelling"
+        },
+        {
+          "name": "Fire District Associations of",
+          "relationship": "alternate_spelling"
+        },
+        {
+          "name": "Fire District Associations of California",
+          "relationship": "alternate_spelling"
+        },
+        {
+          "name": "Fire Districts",
+          "relationship": "alternate_spelling"
+        },
+        {
+          "name": "Fire Districts of California",
+          "relationship": "alternate_spelling"
+        },
+        {
+          "name": "Fire Districts Association",
+          "relationship": "alternate_spelling"
+        },
+        {
+          "name": "Fire Districts Association of CA",
           "relationship": "alternate_spelling"
         }
       ]

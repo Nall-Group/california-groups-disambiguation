@@ -96,6 +96,8 @@ Also add Sheriff and Police organizations that are not in the crosswalk, to the 
 
 25. Consolidate "100 Black Men" organizations
 
+26. Merge CAL Fire/CDF entries into "CALIFORNIA DEPARTMENT OF FORESTRY AND FIRE PROTECTION" canonical. Merge California State Firefighters' Association entries into that canonical. Merge FIRE DISTRICTS ASSOCIATION OF CALIFORNIA into that canonical.
+
 XX. Move things that are obviously not organization names (like sponsor or SB) to invalid organization names list 
 
 
