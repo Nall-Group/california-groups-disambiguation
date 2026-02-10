@@ -68,6 +68,8 @@
 (?i)^\s*\(prior to latest amendments\)\s*
 (?i)^\s*\(per\s[^)]*\)\s*
 (?i)^\s*\(as of\s[^)]*\)\s*
+(?i)^\s*According to the\s+
+(?i)^\s*According to\s+
 
 # Square brackets - BEGINNING
 (?i)^\s*\[co-sponsor\]\s*

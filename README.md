@@ -98,6 +98,8 @@ Also add Sheriff and Police organizations that are not in the crosswalk, to the 
 
 26. Merge CAL Fire/CDF entries into "CALIFORNIA DEPARTMENT OF FORESTRY AND FIRE PROTECTION" canonical. Merge California State Firefighters' Association entries into that canonical. Merge FIRE DISTRICTS ASSOCIATION OF CALIFORNIA into that canonical.
 
+27. Strip "According to the" from org names and consolidate any resulting duplicates
+
 XX. Move things that are obviously not organization names (like sponsor or SB) to invalid organization names list 
 
 
