@@ -100,6 +100,8 @@ Also add Sheriff and Police organizations that are not in the crosswalk, to the 
 
 27. Strip "According to the" from org names and consolidate any resulting duplicates
 
+28. Consolidate PEACE OFFICER STANDARDS AND TRAINING, Peace Officers' Association, PEACE OFFICER'S RESEARCH ASSOCIATION OF CALIFORNIA, CALFIORNIA CORRECTIONAL PEACE OFFICERS ASSOCIATION
+
 XX. Move things that are obviously not organization names (like sponsor or SB) to invalid organization names list 
 
 

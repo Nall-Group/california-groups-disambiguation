@@ -19646,16 +19646,6 @@
       ]
     },
     {
-      "canonical": "CA ASSOCIATION OF HIGHWAY PATROLMEN",
-      "status": "active",
-      "children": [
-        {
-          "name": "CA ASSOCIATION OF HIGHWAY PATROLMEN (CAHP)",
-          "relationship": "alternate_spelling"
-        }
-      ]
-    },
-    {
       "canonical": "CA ASSOCIATION OF REALTORS",
       "status": "active",
       "children": [
@@ -20236,16 +20226,6 @@
       "children": [
         {
           "name": "THE CALEXICO NEW RIVER COMMITTEE",
-          "relationship": "alternate_spelling"
-        }
-      ]
-    },
-    {
-      "canonical": "CALFIORNIA CORRECTIONAL PEACE OFFICERS ASSOCIATION",
-      "status": "active",
-      "children": [
-        {
-          "name": "CALFIORNIA CORRECTIONAL PEACE OFFICERS ASSOCIATION (CCPOA)",
           "relationship": "alternate_spelling"
         }
       ]
@@ -22711,16 +22691,6 @@
       ]
     },
     {
-      "canonical": "CALIFORNIA ASSOCIATION OF HIGHWAY PATROLMAN",
-      "status": "active",
-      "children": [
-        {
-          "name": "THE CALIFORNIA ASSOCIATION OF HIGHWAY PATROLMAN",
-          "relationship": "alternate_spelling"
-        }
-      ]
-    },
-    {
       "canonical": "CALIFORNIA ASSOCIATION OF HIGHWAY PATROLMEN",
       "status": "active",
       "children": [
@@ -22734,6 +22704,22 @@
         },
         {
           "name": "THE CALIFORNIA ASSOCIATION OF HIGHWAY PATROLMEN (CAHP)",
+          "relationship": "alternate_spelling"
+        },
+        {
+          "name": "CA ASSOCIATION OF HIGHWAY PATROLMEN",
+          "relationship": "alternate_spelling"
+        },
+        {
+          "name": "CA ASSOCIATION OF HIGHWAY PATROLMEN (CAHP)",
+          "relationship": "alternate_spelling"
+        },
+        {
+          "name": "CALIFORNIA ASSOCIATION OF HIGHWAY PATROLMAN",
+          "relationship": "alternate_spelling"
+        },
+        {
+          "name": "THE CALIFORNIA ASSOCIATION OF HIGHWAY PATROLMAN",
           "relationship": "alternate_spelling"
         }
       ]
@@ -27904,26 +27890,6 @@
       ]
     },
     {
-      "canonical": "CALIFORNIA CORRECTIONAL PEACE OFFICER ASSOCIATION",
-      "status": "active",
-      "children": [
-        {
-          "name": "CALIFORNIA CORRECTIONAL PEACE OFFICER ASSOCIATION (CCPOA)",
-          "relationship": "alternate_spelling"
-        }
-      ]
-    },
-    {
-      "canonical": "CALIFORNIA CORRECTIONAL PEACE OFFICERS",
-      "status": "active",
-      "children": [
-        {
-          "name": "THE CALIFORNIA CORRECTIONAL PEACE OFFICERS",
-          "relationship": "alternate_spelling"
-        }
-      ]
-    },
-    {
       "canonical": "CALIFORNIA CORRECTIONAL PEACE OFFICERS' ASSOCIATION",
       "status": "active",
       "children": [
@@ -27937,6 +27903,30 @@
         },
         {
           "name": "CALIFORNIA CORRECTIONAL PEACE OFFICERS ASSOCIATION",
+          "relationship": "alternate_spelling"
+        },
+        {
+          "name": "CALFIORNIA CORRECTIONAL PEACE OFFICERS ASSOCIATION",
+          "relationship": "alternate_spelling"
+        },
+        {
+          "name": "CALFIORNIA CORRECTIONAL PEACE OFFICERS ASSOCIATION (CCPOA)",
+          "relationship": "alternate_spelling"
+        },
+        {
+          "name": "CALIFORNIA CORRECTIONAL PEACE OFFICER ASSOCIATION",
+          "relationship": "alternate_spelling"
+        },
+        {
+          "name": "CALIFORNIA CORRECTIONAL PEACE OFFICER ASSOCIATION (CCPOA)",
+          "relationship": "alternate_spelling"
+        },
+        {
+          "name": "CALIFORNIA CORRECTIONAL PEACE OFFICERS",
+          "relationship": "alternate_spelling"
+        },
+        {
+          "name": "THE CALIFORNIA CORRECTIONAL PEACE OFFICERS",
           "relationship": "alternate_spelling"
         }
       ]
@@ -33387,30 +33377,6 @@
       ]
     },
     {
-      "canonical": "CALIFORNIA PEACE OFFICER' ASSOCIATION",
-      "status": "active",
-      "children": [
-        {
-          "name": "THE CALIFORNIA PEACE OFFICER' ASSOCIATION",
-          "relationship": "alternate_spelling"
-        },
-        {
-          "name": "California Peace Officer Association",
-          "relationship": "alternate_spelling"
-        }
-      ]
-    },
-    {
-      "canonical": "CALIFORNIA PEACE OFFICERS",
-      "status": "active",
-      "children": [
-        {
-          "name": "THE CALIFORNIA PEACE OFFICERS",
-          "relationship": "alternate_spelling"
-        }
-      ]
-    },
-    {
       "canonical": "CALIFORNIA PEACE OFFICERS' ASSOCIATION",
       "status": "active",
       "children": [
@@ -33437,19 +33403,49 @@
         {
           "name": "THE CALIFORNIA PEACE OFFICERS' ASSOCIATION (CPOA)",
           "relationship": "alternate_spelling"
-        }
-      ]
-    },
-    {
-      "canonical": "California Peace Officers Research Association",
-      "status": "active",
-      "children": [
+        },
         {
-          "name": "California Peace Officers Research Association of California",
+          "name": "CALIFORNIA PEACE OFFICER' ASSOCIATION",
+          "relationship": "alternate_spelling"
+        },
+        {
+          "name": "THE CALIFORNIA PEACE OFFICER' ASSOCIATION",
+          "relationship": "alternate_spelling"
+        },
+        {
+          "name": "California Peace Officer Association",
+          "relationship": "alternate_spelling"
+        },
+        {
+          "name": "CALIFORNIA PEACE OFFICERS",
+          "relationship": "alternate_spelling"
+        },
+        {
+          "name": "THE CALIFORNIA PEACE OFFICERS",
+          "relationship": "alternate_spelling"
+        },
+        {
+          "name": "Peace Officers",
+          "relationship": "alternate_spelling"
+        },
+        {
+          "name": "Peace Officers of California",
+          "relationship": "alternate_spelling"
+        },
+        {
+          "name": "Peace Officers' Association",
+          "relationship": "alternate_spelling"
+        },
+        {
+          "name": "Peace Officers' Association of California",
+          "relationship": "alternate_spelling"
+        },
+        {
+          "name": "California Peace Officers' Association (AFSCME)",
           "relationship": "chapter"
         },
         {
-          "name": "California Peace Officers Research Association (PORAC)",
+          "name": "Peace Officers Association",
           "relationship": "alternate_spelling"
         }
       ]
@@ -49059,6 +49055,14 @@
         {
           "name": "California Commission on Peace Officer Standards and Training (POST)",
           "relationship": "chapter"
+        },
+        {
+          "name": "PEACE OFFICER STANDARDS AND TRAINING",
+          "relationship": "alternate_spelling"
+        },
+        {
+          "name": "PEACE OFFICER STANDARDS AND TRAINING (POST)",
+          "relationship": "alternate_spelling"
         }
       ]
     },
@@ -87931,16 +87935,6 @@
       ]
     },
     {
-      "canonical": "LOS ANGELES COUNTY PROFESSIONAL PEACE OFFICERS",
-      "status": "active",
-      "children": [
-        {
-          "name": "THE LOS ANGELES COUNTY PROFESSIONAL PEACE OFFICERS",
-          "relationship": "alternate_spelling"
-        }
-      ]
-    },
-    {
       "canonical": "LOS ANGELES COUNTY PROFESSIONAL PEACE OFFICERS ASSOCIATION",
       "status": "active",
       "children": [
@@ -87958,6 +87952,14 @@
         },
         {
           "name": "Los Angeles County Professional Peace Officers' Association",
+          "relationship": "alternate_spelling"
+        },
+        {
+          "name": "LOS ANGELES COUNTY PROFESSIONAL PEACE OFFICERS",
+          "relationship": "alternate_spelling"
+        },
+        {
+          "name": "THE LOS ANGELES COUNTY PROFESSIONAL PEACE OFFICERS",
           "relationship": "alternate_spelling"
         }
       ]
@@ -104718,36 +104720,6 @@
       "children": []
     },
     {
-      "canonical": "Peace Office Research Association",
-      "status": "active",
-      "children": [
-        {
-          "name": "Peace Office Research Association of California",
-          "relationship": "chapter"
-        }
-      ]
-    },
-    {
-      "canonical": "PEACE OFFICER RESEARCH ASSOCIATION OF CALIFORNIA",
-      "status": "active",
-      "children": [
-        {
-          "name": "PEACE OFFICER RESEARCH ASSOCIATION OF CALIFORNIA (PORAC)",
-          "relationship": "alternate_spelling"
-        }
-      ]
-    },
-    {
-      "canonical": "PEACE OFFICER STANDARDS AND TRAINING",
-      "status": "active",
-      "children": [
-        {
-          "name": "PEACE OFFICER STANDARDS AND TRAINING (POST)",
-          "relationship": "alternate_spelling"
-        }
-      ]
-    },
-    {
       "canonical": "PEACE OFFICER'S RESEARCH ASSOCIATION OF CALIFORNIA",
       "status": "active",
       "children": [
@@ -104778,85 +104750,75 @@
         {
           "name": "According to the Peace Officers Research Association of California",
           "relationship": "alternate_spelling"
-        }
-      ]
-    },
-    {
-      "canonical": "Peace Officers",
-      "status": "active",
-      "children": [
-        {
-          "name": "Peace Officers of California",
-          "relationship": "chapter"
-        }
-      ]
-    },
-    {
-      "canonical": "Peace Officers' Association",
-      "status": "active",
-      "children": [
-        {
-          "name": "Peace Officers' Association of California",
-          "relationship": "chapter"
         },
         {
-          "name": "California Peace Officers' Association (AFSCME)",
-          "relationship": "chapter"
-        },
-        {
-          "name": "Peace Officers Association",
+          "name": "California Peace Officers Research Association",
           "relationship": "alternate_spelling"
-        }
-      ]
-    },
-    {
-      "canonical": "Peace Officers Research",
-      "status": "active",
-      "children": [
+        },
+        {
+          "name": "California Peace Officers Research Association of California",
+          "relationship": "alternate_spelling"
+        },
+        {
+          "name": "California Peace Officers Research Association (PORAC)",
+          "relationship": "alternate_spelling"
+        },
+        {
+          "name": "Peace Office Research Association",
+          "relationship": "alternate_spelling"
+        },
+        {
+          "name": "Peace Office Research Association of California",
+          "relationship": "alternate_spelling"
+        },
+        {
+          "name": "PEACE OFFICER RESEARCH ASSOCIATION OF CALIFORNIA",
+          "relationship": "alternate_spelling"
+        },
+        {
+          "name": "PEACE OFFICER RESEARCH ASSOCIATION OF CALIFORNIA (PORAC)",
+          "relationship": "alternate_spelling"
+        },
+        {
+          "name": "Peace Officers Research",
+          "relationship": "alternate_spelling"
+        },
         {
           "name": "Peace Officers Research of California",
-          "relationship": "chapter"
-        }
-      ]
-    },
-    {
-      "canonical": "PEACE OFFICERS RESEARCH ASSN. OF CA",
-      "status": "active",
-      "children": [
+          "relationship": "alternate_spelling"
+        },
+        {
+          "name": "PEACE OFFICERS RESEARCH ASSN. OF CA",
+          "relationship": "alternate_spelling"
+        },
         {
           "name": "PEACE OFFICERS RESEARCH ASSN. OF CA (PORAC)",
           "relationship": "alternate_spelling"
-        }
-      ]
-    },
-    {
-      "canonical": "PEACE OFFICERS RESEARCH ASSN. OF CALIFORNIA",
-      "status": "active",
-      "children": [
+        },
+        {
+          "name": "PEACE OFFICERS RESEARCH ASSN. OF CALIFORNIA",
+          "relationship": "alternate_spelling"
+        },
         {
           "name": "PEACE OFFICERS RESEARCH ASSN. OF CALIFORNIA (PORAC)",
           "relationship": "alternate_spelling"
-        }
-      ]
-    },
-    {
-      "canonical": "Peace Officers Research Assoc. of",
-      "status": "active",
-      "children": [
+        },
+        {
+          "name": "Peace Officers Research Assoc. of",
+          "relationship": "alternate_spelling"
+        },
         {
           "name": "Peace Officers Research Assoc. of CA",
-          "relationship": "chapter"
+          "relationship": "alternate_spelling"
         },
         {
           "name": "Peace Officers Research Assoc. of California",
-          "relationship": "chapter"
-        }
-      ]
-    },
-    {
-      "canonical": "PEACE OFFICERS RESEARCH ASSOCIATION OF CA",
-      "status": "active",
-      "children": [
+          "relationship": "alternate_spelling"
+        },
+        {
+          "name": "PEACE OFFICERS RESEARCH ASSOCIATION OF CA",
+          "relationship": "alternate_spelling"
+        },
         {
           "name": "PEACE OFFICERS RESEARCH ASSOCIATION OF CA (PORAC)",
           "relationship": "alternate_spelling"
