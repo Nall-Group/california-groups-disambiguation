@@ -37,7 +37,7 @@ A Voice for Choice Advocacy,354
 United Food and Commercial Workers Union Western States Council,354
 California Bean Shippers Association,345
 California State Board of Pharmacy,345
-California School-based Health Alliance,342
+California School-based Health Alliance,345
 Hotel Employees Restaurant Employees International Union,341
 Children's Specialty Care Coalition,339
 Santa Rosa Yimby,339
@@ -72,7 +72,7 @@ City of Victorville,277
 California Women for Agriculture,275
 Los Angeles County Sanitation Districts,273
 Orange County Coastkeeper,272
-Environmental Defense,269
+Environmental Defense,270
 Calleguas Municipal Water District,266
 Attorneys for Criminal Justice,265
 TechAmerica,262
@@ -175,8 +175,8 @@ City of Vernon,185
 Mesa Water District,185
 Kern County Taxpayers Association,183
 California Nurses for Environmental Health and Justice,183
+Monterey County,183
 California Coalition of United Cerebral Palsy Associations,182
-Monterey County,182
 Sacramento Regional Transit District,181
 California Association of Sheet Metal and Air Conditioning,180
 California Apple Commission,179
@@ -197,7 +197,7 @@ Maldef,173
 Capitol Resource Family Impact,172
 Novato Police Officers Association,171
 Venice Family Clinic,169
-Homeboy Industries,168
+Homeboy Industries,169
 San Francisco Bay Area Physicians for Social Responsibility,168
 State Building and Construction Trades Council of,167
 Clovis Unified School District,166
@@ -211,20 +211,20 @@ Santa Barbara,162
 Greenpeace Usa,162
 Access Women's Health Justice,162
 Bioenergy Association of California,162
+Orange County Sheriffs Department,162
 California Food Producers,161
 Charter Schools Development Center,161
 San Bernardino Associated Governments,161
 Professionals,161
 Peace over Violence,161
-Orange County Sheriffs Department,161
 Region 8 States Council of the United Food and Commercial,161
 Electric Vehicle Charging Association,160
+California Attorneys for,159
 West Ventura County Business Alliance,158
 Foothill-de Anza Community College District,158
 San Diego Gas & Electric Company,158
 Consumer,157
 City of Montebello,157
-California Attorneys for,157
 Scripps Health,157
 Del Mar Thoroughbred Club,156
 Yolo County Board of Supervisors,156
@@ -344,7 +344,7 @@ Asian Americans Advancing Justice Los Angeles,130
 Humboldt Baykeeper,129
 Cawa - Representing the Automotive Parts Industry,129
 State Superintendent of Public Instruction Tom Torlakson,129
-Los Angeles Chamber of Commerce,128
+Los Angeles Chamber of Commerce,129
 California Public Securities Association,128
 CA Conference of Machinists,128
 Rancho California Water District,128
@@ -378,10 +378,10 @@ California Chapter of the American College of Cardiology,123
 Santa Ana Chamber of Commerce,123
 La Canada Flintridge Chamber of Commerce,123
 Santa Clara,123
+National Notary Association,123
 Coalition Against Gun Violence,122
 for Criminal Justice,122
 Santee Chamber of Commerce,122
-National Notary Association,122
 CompTia,122
 Friends of the Inyo,122
 City of Pacific Grove,121
@@ -398,6 +398,7 @@ Breastfeedla,119
 California Legislative Lgbtq Caucus,119
 Global Green USA,119
 United Steelworkers District 12,119
+State Sheriffs Association,119
 California Cotton Ginners & Growers Association,118
 California Conference Board of Amalgamated Transit Union,118
 San Bernardino County Superintendent of Schools,118
@@ -406,7 +407,6 @@ California Association of Sheet Metal & Air Conditioning Contractors National As
 Planned Parenthood Advocacy Project Los Angeles County,118
 Freedom 4 Youth,117
 Oak tree Racing Association,117
-State Sheriffs Association,117
 Elders Climate Action Socal Chapter,117
 San Joaquin County,117
 Self-help Counties Coalition,117
@@ -525,6 +525,7 @@ Office of the Riverside County Superintendent of Schools,102
 Californians for Juvenile Justice Reform,102
 Software Information Industry Association,102
 Attorneys Office,102
+Giffords,102
 Wells Fargo Bank,101
 Santa,101
 Hmong Innovating Politics,101
@@ -533,7 +534,6 @@ AB,101
 Contra Costa County Office of Education,101
 Capistrano Unified School District,101
 Planned Parenthood Action Fund of the Pacific Southwest,101
-Giffords,101
 If/when/how: Lawyering for Reproductive Justice,101
 Antelope Valley Board of Trade,101
 Asian Pacific Islander Forward Movement,100
@@ -605,6 +605,8 @@ Santa Clara County District Attorneys Office,95
 Brightline Defense Project,95
 San Mateo County Transportation Authority,95
 ASSOC OF CA WATER AGENCIES,95
+Sacramento County District Attorney,95
+California Attorneys for Criminal,95
 Recolte Energy,94
 San Juan Capistrano Chamber of Commerce,94
 Westlands Water District,94
@@ -619,12 +621,10 @@ Southern California Public Health Association,94
 Orange County Hispanic Chamber of Commerce,94
 Indivisible Sonoma County,94
 Employees (AFSCME) AFL-CIO,94
-Sacramento County District Attorney,94
 Downtown Sacramento Partnership,94
 Foothill Conservancy,93
 Elk Grove Unified School District,93
 Almond Alliance,93
-California Attorneys for Criminal,93
 American Federation of,93
 Suisun Resource Conservation District,93
 California Fisheries and Seafood Institute,93
@@ -743,6 +743,7 @@ District Attorneys Office,85
 Orange County Professional Firefighters Association,85
 San Luis Obispo County,85
 California Conference of the Amalgamated Transit Union,85
+Empower Family California,85
 County of Yuba,84
 Tenet Healthcare,84
 Susanville Indian Rancheria,84
@@ -751,7 +752,6 @@ Los Alamitos Race Course,84
 Advocates for Responsible Treatment,84
 Fresno County Office of Education,84
 League for Coastal Protection,84
-Empower Family California,84
 Insure the Uninsured Project,84
 Jcrc Bay Area,84
 City of Hope National Medical Center,84
@@ -785,10 +785,10 @@ San Diego Baykeeper,82
 Acterra Action for a Healthy Planet,82
 CalPirg California Public Interest Research Group,82
 Residential Contractors Association,82
+Alchemist CDC,82
 San Pedro Chamber of Commerce,81
 Napa County Office of Education,81
 California Water Service Company,81
-Alchemist CDC,81
 Danville Area Chamber of Commerce,81
 Napa Recycling and Waste Services,81
 Cmg/caliva,81
@@ -825,13 +825,13 @@ Perk Advocacy,79
 San Francisco Bay Conservation and Development Commission,79
 Monterey-salinas Transit,79
 Golden Gate Bridge Highway and Transportation District,79
+San Diego District Attorneys Office,79
 California Commission on Uniform State Laws,78
 School District,78
 Santa Cruz,78
 American Sustainable Business Council,78
 Jvs Socal,78
 Pathpoint,78
-San Diego District Attorneys Office,78
 Riverside County Sheriffs Department,78
 Democrats for Israel Los Angeles,78
 March of Dimes California Chapter,78
@@ -859,13 +859,14 @@ National Association of Social Workers CA Chapter (NASW-CA),77
 "American Federation of State County and Municipal Employees, AFL",77
 Fence Contractors Association,77
 Butte County,77
+Antioch Unified School District,77
+California Innocence Coalition,77
 YMCA of San Diego County,76
 Santa Clara County School Boards Association,76
 City of Cudahy,76
 California State Conference of the National Association for the Advancement,76
 Youth Alliance,76
 Del Norte County Board of Supervisors,76
-Antioch Unified School District,76
 Coachella Valley Waterkeeper,76
 Employee Rights Center,76
 Calbike,76
@@ -886,6 +887,7 @@ Providence St Joseph Health,75
 Nontoxic Neighborhoods,75
 CA Municipal Utilities Association,75
 Humboldt County,75
+Brady California United Against Gun Violence,75
 Identity Theft Resource Center,74
 David Felderstein,74
 Harbor Association of Industry & Commerce,74
@@ -898,10 +900,8 @@ North County Watch,74
 Seamless Bay Area,74
 Critical Resistance,74
 University of San Diego,74
-California Innocence Coalition,74
 California Association of Orthodontists,74
 Cerritos College,74
-Brady California United Against Gun Violence,74
 California Primary Care Association Advocates,74
 California Chapter,74
 Antelope Valley Community College District,74
@@ -1009,6 +1009,7 @@ San Luis Obispo County Integrated Waste Management Authority,70
 San Bernardino County Office of the Sheriff,70
 Contra Costa,70
 SmithKline Beecham,70
+California School Employees,70
 Stanislaus,69
 Mendocino County Office of Education,69
 Modesto,69
@@ -1088,7 +1089,6 @@ Kaweah Delta Health Care District,66
 Santa Rosa Junior College,66
 Center for Community Solutions,66
 California State Council,66
-California School Employees,66
 Democratic Party of Contra Costa County,66
 Community Nature Connection,66
 Contra Costa County Advisory Council on Aging,66
@@ -1290,6 +1290,7 @@ Emergency Nurses Association California State Council,61
 American Jewish Committee Los Angeles,61
 Santa Clara County Cities Association,61
 Sonoma County District Attorney,61
+Neveragainca,61
 Fresh Approach,60
 STRS Board of Administration,60
 Rising Communities,60
@@ -1326,7 +1327,6 @@ California Partnership for the San Joaquin Valley,60
 Change Begins With Me,60
 San Diego Deputy District Attorneys Association,60
 Next Door Solutions to Domestic Violence,60
-Neveragainca,60
 Corporation for Supportive Housing Oakland,60
 Napa Recycling & Waste Services,60
 First 5 Fresno County,60
@@ -1369,6 +1369,7 @@ Worksite Wellness LA,59
 National Lawyers Guild San Francisco Bay Area Chapter,59
 CA League of Conservation Voters,59
 County Welfare Directors Association of CA (CWDA),59
+Attorney General Xavier Becerra,59
 Nationwide Insurance Company,58
 San Mateo County Harbor District,58
 Paramedics Plus,58
@@ -1461,7 +1462,6 @@ Long Beach Alliance for Children with Asthma,56
 Redlands Yimby,56
 Associated General Contractors-san Diego Chapter,56
 Stopwaste.org,56
-Attorney General Xavier Becerra,56
 Indivisible Santa Barbara,56
 San Francisco Labor Council AFL-CIO,56
 Lieutenant Governor Gavin Newsom,56
@@ -1472,6 +1472,8 @@ Veterans Legal Clinic,56
 Caltash,56
 Physicians for Social Responsibility San Francisco Bay,56
 Sweetwater Authority,56
+Nurse-Family Partnership,56
+County Welfare Directors Association of,56
 Jurupa Unified School District,55
 Mayor Antonio Villaraigosa,55
 IBM,55
@@ -1486,8 +1488,6 @@ State Association of Counties,55
 San Francisco Building and Construction Trades Council,55
 Sacramento Police Department,55
 Raising California Together,55
-Nurse-Family Partnership,55
-County Welfare Directors Association of,55
 California Correctional,55
 California Capital Financial Development Corporation,55
 Antelope Valley Hospital,55
@@ -1766,6 +1766,7 @@ Sacramento Transportation Authority,50
 San Gabriel Basin Water Quality Authority,50
 CA Public Securities Association,50
 City of San Joaquin,50
+California Correctional Peace,50
 Palomar Health,49
 Moreno Valley Unified School District,49
 Palo Verde Community College District,49
@@ -1782,7 +1783,6 @@ Sacramento Suburban Water District,49
 Surface Technology Association,49
 Wu Yee Children's Services,49
 Association for Los,49
-California Correctional Peace,49
 Morgan Hill Unified School District,49
 "Community Resource Associates, Clayton",49
 California Association of Treasurers and Tax Collectors,49
@@ -2017,6 +2017,7 @@ Stradling Yocca Carlson & Rauth,46
 CA Apartment Association,46
 Alameda Health System,46
 Beach Cities Health District,46
+National Action Network,46
 North Valley Labor Federation,45
 North County Fire Protection District,45
 Monrovia,45
@@ -2024,7 +2025,6 @@ Governor's Office of Emergency Services,45
 Perris Valley Chamber of Commerce,45
 Laguna Canyon Foundation,45
 Interfaith Coalition for Immigrant Rights,45
-National Action Network,45
 Santa Monica Commission on Older Americans,45
 Solano,45
 Sierra Nevada Brewing Company,45
@@ -2099,6 +2099,7 @@ Tule River Tribal Council,45
 Fort Ord Reuse Authority,45
 Port of San Francisco,45
 American Clean Power Association,45
+CalSTRs,45
 Northern California Grocers Association,44
 Pleasanton Unified School District,44
 Palo Alto,44
@@ -2146,7 +2147,6 @@ Rialto Unified School District,44
 Smith River Alliance,44
 Independent Maintenance Contractors Association,44
 California Plant Health Association,44
-CalSTRs,44
 Center for Sierra Nevada Conservation,44
 Office of the Secretary for Education,44
 California Consortium for Urban Indian Health,44
@@ -2173,6 +2173,7 @@ San Jose Water Company,44
 San Joaquin Regional Transit District,44
 CA Police Chiefs Association,44
 Pajaro Valley Water Management Agency,44
+Los Angeles Sheriffs Department,44
 Palo Alto Unified School District,43
 Orchard Dale Water District,43
 Oracle Corporation,43
@@ -2232,7 +2233,6 @@ Showing Up for Racial Justice (SURJ) San Diego,43
 of Los Angeles,43
 Indivisible Suffragists,43
 Engineering & Utility Contractors Association dba United Contractors,43
-Los Angeles Sheriffs Department,43
 Good Farmers Great Neighbors,43
 Association for Los Angeles County Deputy Sheriffs,43
 Indivisible Colusa County,43
@@ -2631,6 +2631,7 @@ State Superintendent of Public Instruction Jack O'Connell,38
 Mountains Restoration Trust,38
 Alta Irrigation District,38
 Board of Optometry,38
+Los Angeles Worker Center Network,38
 North Coast County Water District,37
 Protective League,37
 Positive Women's Network,37
@@ -2644,7 +2645,6 @@ Rancho Simi Recreation and Park District,37
 Irwindale Chamber of Commerce,37
 Mid Peninsula Housing Coalition,37
 Mercy General Hospital,37
-Los Angeles Worker Center Network,37
 Los Angeles Metropolitan Transportation Authority,37
 Long Beach Fire Fighters,37
 Rocklin Unified School District,37
@@ -2942,6 +2942,7 @@ Fraternal Order of Police Los Angeles,35
 University of California Los Angeles,35
 AFL-CIO American Federation of State,35
 AFL-CIO California Labor Federation,35
+3strands Global Foundation,35
 Paramount,34
 Physician Assistant Board,34
 Sacramento Metro Chamber,34
@@ -3041,7 +3042,6 @@ End Hep C Sf,34
 Citizens for a Better Environment,34
 Californians for a Healthy and Green Economy,34
 Coleman Advocates for Children & Youth,34
-3strands Global Foundation,34
 Healthnet,34
 Memorialcare Health System,34
 Naleo Educational Fund,34
@@ -3067,6 +3067,8 @@ Laborers International Union of North America Locals 777 and 792,34
 Fresno County Transportation Authority,34
 Bear Valley Community Services District,34
 CALAFCO,34
+End Violence Against Women International,34
+CA District Attorneys Association,34
 Ocean Defenders Alliance,33
 People Organizing to Demand Environmental and Economic Rights,33
 Pacific Power,33
@@ -3145,7 +3147,6 @@ Kings County Sheriff,33
 California Asian Pacific American Bar Association,33
 Global Medical Response,33
 Hathaway-Sycamores Child and Family Services,33
-End Violence Against Women International,33
 "Emergency Housing Consortium, San Jose",33
 City and County of San,33
 City of Santa,33
@@ -3193,7 +3194,10 @@ San Joaquin River Exchange Contractors Water Authority,33
 Gold Ridge Resource Conservation District,33
 Omnitrans,33
 Water Foundation,33
-CA District Attorneys Association,33
+Alliance for Constitutional Sex Offense Laws,33
+California District Attorneys Office,33
+Kern County Office of Education,33
+San Francisco Giants,33
 Mission Impact Philanthropy,32
 Ocean Conservation Society,32
 Open Door Legal,32
@@ -3295,7 +3299,6 @@ Democratic Woman's Club of San Diego County,32
 Las Gallinas Valley Sanitary District,32
 Placer County Office of Education,32
 California Chapter of the National Electrical Contractors Association,32
-Alliance for Constitutional Sex Offense Laws,32
 Leap,32
 Southern California Regional Rail Authority (Metrolink),32
 Usc Schwarzenegger Institute,32
@@ -3327,15 +3330,14 @@ Associated Builders and Contractors Central California Chapter,32
 Individual - 1,32
 PhD,32
 Su Casa Ending Domestic Violence,32
-California District Attorneys Office,32
 Alameda County District Attorney Nancy O'Malley,32
 Golden State Water Company,32
 Self Help Counties Coalition,32
 California Climate & Agriculture Network (CalCAN),32
-Kern County Office of Education,32
 Greater Los Angeles County Vector Control District,32
 Disabled American Veterans,32
 Streets for all,32
+CSLB,32
 Glendale Adventist Medical Center,31
 Merced/Mariposa County Asthma Coalition,31
 Medicine,31
@@ -3380,7 +3382,6 @@ Sojourn,31
 Raley's Supermarkets and Drug Centers,31
 SMH:dm,31
 Senior Medi-Benefits,31
-San Francisco Giants,31
 San Francisco Tomorrow,31
 Santa Clara County Housing Action Coalition,31
 "Senior Housing Action Collaborative, San Francisco",31
@@ -3520,7 +3521,6 @@ Sequoia Community Corps,30
 Home Instead Senior Care,30
 Encinitas Union School District,30
 California Canning Peach Association,30
-CSLB,30
 California Rental Association,30
 California Association of Suburban Schools,30
 California Prostate Cancer Coalition,30
@@ -3599,6 +3599,7 @@ Bernardino,30
 Office of the State Treasurer,30
 Governor Wilson,30
 Crown Castle,30
+Mayor of Los Angeles,30
 Planned,29
 Oberon Fuels,29
 Northern California Floor Covering Association,29
@@ -3964,7 +3965,6 @@ Labor and Workforce Development Agency,27
 Marin Center for Independent Living,27
 Just Detention International,27
 Pacifica Hospital of the Valley,27
-Mayor of Los Angeles,27
 Planned Parenthood Advocacy Project of Los Angeles County,27
 International Formula Council,27
 International Union of Elevator Contractors,27
@@ -4124,6 +4124,7 @@ Shelter Inc of Contra Costa County,27
 Victor Valley Wastewater Reclamation Authority,27
 Glenn County,27
 Counselors,27
+Coltura,27
 Returning Home Foundation,26
 "Opus Health, LLC",26
 Neighborhood Housing Services of Los Angeles County,26
@@ -4272,7 +4273,6 @@ City of Holtville,26
 City of Larkspur,26
 City of Stockton Police Department,26
 Coalition of Trial Court Clerk Associations,26
-Coltura,26
 Colusa County Board of Supervisors,26
 Colusa Indian Community Council,26
 Fresno West Coalition for Economic Development,26
@@ -4588,6 +4588,7 @@ City of Irvine Police Department,25
 "Communications Workers of America, AFL-CIO District 9",25
 Chambers of Commerce Alliance Ventura & Santa Barbara Counties,25
 Cucamonga County Water District,25
+Families Inspiring Reentry Reunification 4 Everyone,25
 Placentia Library District,24
 Perris Union High School District,24
 PageE,24
@@ -4848,6 +4849,8 @@ Sheriff of San Bernardino County,24
 Department of Rehabilitation,24
 San Diego Water Authority,24
 CA School Boards Assoc,24
+Last Prisoner Project,24
+Californians for Consumer Privacy,24
 Planned Parenthood Affiliates of,23
 Salinas Union High School District,23
 Phoenix Casino,23
@@ -4875,7 +4878,6 @@ Recreational Fishing Alliance,23
 Purissima Hills Water District,23
 SOS,23
 Latino Urban Forum,23
-Last Prisoner Project,23
 Neighborhood Parks Council,23
 Los Gatos Police Department,23
 Los Angeles Protective League,23
@@ -5049,7 +5051,6 @@ Ca School Boards Association,23
 Californians for,23
 California League of park Associations,23
 Aids Community Research Consortium,23
-Californians for Consumer Privacy,23
 "Certified Grocers of California, Ltd",23
 Feminists in Action (formerly Indivisible CA 34 Womens),23
 Onegeneration,23
@@ -5075,7 +5076,6 @@ Tesla Road Residents Alliance,23
 Bend the Arc: Jewish Partnership for Justice,23
 Fireman's Fund Insurance Company,23
 Indivisible Claremont / Inland Valley,23
-Families Inspiring Reentry Reunification 4 Everyone,23
 Giffords Law Center,23
 Plant-based Advocates - Los Gatos,23
 Desert Aids Project dba. DAP Health,23
@@ -5107,6 +5107,8 @@ CA League of Food Processors,23
 Casitas Municipal Water District,23
 Chapter,23
 Orrick Herrington & Sutcliffe LLP,23
+CDE,23
+DOJ,23
 Office of the Mayor,22
 Oro Loma Sanitary District,22
 Ontario Police Department,22
@@ -5230,7 +5232,6 @@ California Chapters of the National Electrical Contractors Association (co,22
 California Association of Rural Health Clinics,22
 California Association of Judgment Professionals,22
 California Alliance to Protect Private Property Rights,22
-CDE,22
 Frontier,22
 California Educational Technology Professionals Association,22
 California State Council of the Service Employees International,22
@@ -5403,6 +5404,8 @@ CA Retailers Association,22
 California Gambling Control Commission,22
 CA Farm Bureau,22
 CA State Sheriffs Assoc,22
+California Rifle and Pistol,22
+Crohn's & Colitis Foundation,22
 Northern California Youth Policy Coalition,21
 Olive Oil Commission of California,21
 Operation Care,21
@@ -5572,7 +5575,6 @@ Antelope Valley College,21
 Brooktrails Township Community Services District,21
 Association of California Urban School Districts,21
 California Mobile Resource Action Association,21
-California Rifle and Pistol,21
 California Museum of Science and Industry,21
 Escuela Popular,21
 Equitas Academy Charter Schools,21
@@ -5590,7 +5592,6 @@ Frederick Douglass Foundation of California,21
 Fremont Union High School District,21
 Fresno Irrigation District,21
 Green Valley Community Farm,21
-Crohn's & Colitis Foundation,21
 Governor Davis,21
 Gorman Learning Charter Network,21
 Goodwill Industries,21
@@ -5620,7 +5621,6 @@ Claremont McKenna College,21
 First 5 San Benito,21
 DES Action,21
 "California State Polytechnic University, Pomona",21
-DOJ,21
 Imperial County Farm Bureau,21
 County of Valley Industry,21
 County Probation Officers Union,21
@@ -6419,6 +6419,7 @@ Affordable Housing Advocates,19
 Cruise,19
 Mercury Casualty Company,19
 CA Bankers Association,19
+"Los Angeles County Probation Officers Union, AFSCME Local",19
 North Fork Rancheria,18
 Oakland Food Policy Council,18
 National Coalition Against Legalized Gambling,18
@@ -6889,6 +6890,8 @@ Santa Clara County Transit District,18
 California Municipal Treasurers Association,18
 Metro Gold Line Foothill Extension Construction Authority,18
 Mercury Insurance,18
+Lawyers Committee for Civil Rights of the San,18
+Prosecutors Alliance,18
 "People Assisting the Homeless, Los Angeles",17
 Pearson Education,17
 Online Lenders Alliance,17
@@ -7332,7 +7335,6 @@ City of Ontario Police Department,17
 South Bayside Waste Management Authority dba Rethinkwaste,17
 National Football League Players Association,17
 NeighborWorks HomeOwnership Center Sacramento,17
-Lawyers Committee for Civil Rights of the San,17
 Mudge Rose Guthrie Alexander & Ferdon,17
 United States Senator Dianne Feinstein,17
 Silicon Valley Taxpayers Association,17
@@ -7350,7 +7352,6 @@ County of Sonoma Department of Health Services,17
 Physicians for Social Responsibility San Francisco,17
 Midpeninsula Citizens for Fair Housing,17
 California State University Channel Islands,17
-"Los Angeles County Probation Officers Union, AFSCME Local",17
 "Los Angeles County Fair Association, Fairplex",17
 "Multicultural Education Training and Advocacy, Inc",17
 Sacramento County Sheriffs Association,17
@@ -7379,6 +7380,7 @@ Orange County District Attorney Tony Rackauckas,17
 Rancho Cordova Incorporation Committee,17
 Ventura Port District,17
 CA Transit Association,17
+the,17
 Ojai Wildlife League,16
 Jackson Rancheria Band of Miwuk Indians,16
 Our City San Francisco,16
@@ -7412,7 +7414,6 @@ Protect Wild Petaluma,16
 Pathways,16
 Patrolmen,16
 Progressives for Democracy in America,16
-Prosecutors Alliance,16
 Public Trust Alliance,16
 Rainbow Community Center of Contra Costa County,16
 Redwood Memorial Hospital,16
@@ -7807,7 +7808,6 @@ Lyon-martin Health Services,16
 Marborg Industries,16
 Upte-cwa 9119,16
 Unicare Community Health Center,16
-the,16
 Ywca Golden Gate Silicon Valley,16
 Tahoe-truckee Sanitation Agency,16
 Spin,16
@@ -7913,6 +7913,7 @@ National Steel and Shipbuilding Company,16
 Los Angeles Convention and Visitors Bureau,16
 CA Landscape Contractors Association,16
 Altasea at the Port of Los Angeles,16
+Pasadena Police Department,16
 Solano County Transportation Authority,15
 Pacific Coast Federation of Fisherman's Association,15
 Pacific Rim Drywall Association,15
@@ -7962,7 +7963,6 @@ Private School Advocacy Center,15
 Riverside County Workforce Development Board,15
 Pet Advocacy Network,15
 Parks Now,15
-Pasadena Police Department,15
 Pitzer College,15
 Passive House California,15
 Pediatric & Family Medical Center,15
@@ -8598,6 +8598,10 @@ Los Osos Community Services District,15
 Orange County Deputy Sheriffs Association,15
 Fairfield-suisun Sewer District,15
 Apartment Association CA Southern Cities,15
+San Diego County District Attorney,15
+California Partnership to End Domestic,15
+Pacific Juvenile Defender Center,15
+Cameo,15
 "Katrina Bergen Associates, Oakland",14
 Official Police Garages Association of Los Angeles,14
 Orange County Transportation Agency,14
@@ -9251,7 +9255,6 @@ The Charter School of San Diego,14
 Sutter Lafco,14
 Waabi Innovation US Inc,14
 Zoe International,14
-Cameo,14
 "General Steamship Corporation, Ltd",14
 Healthcare Association,14
 Congregation Kol Ami,14
@@ -10276,7 +10279,6 @@ Legal Aid Society of San Francisco Employment Law Center,13
 Santa Clara County Central Fire Protection District,13
 CalEnergy,13
 Central Valley Rail Working Group,13
-San Diego County District Attorney,13
 "Jack O'Connell, Superintendent of Public Instruction",13
 Marine Corps Installations West,13
 Charlie Guild Foundation,13
@@ -10284,6 +10286,7 @@ Cottonwood Cemetery District,13
 Antelope Valley Air Pollution Control District,13
 Governor's Office of Criminal Justice Planning,13
 Bay Area Water Users Association,13
+CCPOA,13
 Office of the State Chief Information Officer,12
 Nosotros,12
 Open Arms Network,12
@@ -10753,9 +10756,7 @@ California Alliance for Families and Children,12
 California Alliance of African American Educators,12
 California Alliance of Information and Referral Services,12
 California Association of Bicycling,12
-CCPOA,12
 California Association of Zoos & Aquariums,12
-California Partnership to End Domestic,12
 "California Gold Jack Russell Terrier Club, Inc",12
 California Grange,12
 Camino Medical Group,12
@@ -10847,7 +10848,7 @@ AAA,12
 AVID,12
 Abrazo Foster Family Agency,12
 American Society of Cataract and Refractive Surgery,12
-According to the California District Attorneys Association,12
+California District Attorneys Association,12
 Act of 1931,12
 Advanced Lab Concepts,12
 Advisor,12
@@ -11405,6 +11406,8 @@ CenCal Health,12
 California Senior Housing Coalition,12
 Contra Costa County Board of Supervisors,12
 Water Collaborative Delivery Association,12
+California State Law Enforcement Association,12
+Alameda County District Attorney's Office,12
 Organization for Justice and Equality,11
 Organization for International Investment,11
 Organization and Economy,11
@@ -12045,7 +12048,6 @@ California Online Public School,11
 California Organics Recycling Council,11
 "California Immigrant Welfare Collaborative, San Francisco",11
 California Peace Officers' Association and California,11
-California State Law Enforcement Association,11
 California State Council on Vocational Education,11
 California State Council of the Service Employees,11
 "Burke, Williams, Sorenson & Garr",11
@@ -12441,13 +12443,11 @@ Citizens Take Action,11
 Communities United for Restorative Justice,11
 Yuhaaviatam of San Manuel Nation,11
 California Federation of Labor Unions,11
-Pacific Juvenile Defender Center,11
 Mira Costa Community College District,11
 Bay 101 Club,11
 Evercare,11
 Congresswoman Maxine Waters,11
 Delta Airlines,11
-Alameda County District Attorney's Office,11
 National Organization for,11
 Project Race,11
 La Mesa Chamber of Commerce,11
@@ -12732,6 +12732,9 @@ Oakley Redevelopment Agency,11
 Association of CA Healthcare Districts,11
 Southern CA Association of Governments,11
 "California Labor Federation, AFL-CIO",11
+Giffords Law Center to Prevent Gun Violence,11
+Prison from the Inside Out,11
+LA County Board of Supervisors,11
 Ojai Valley Fire Safe Council,10
 Obispo County,10
 Olive Crest,10
@@ -14302,7 +14305,6 @@ Casa de la Cultura Maya,10
 Academia de Trafico en Espanol,10
 Everylife Foundation for Rare Diseases,10
 Environment in the Public Interest,10
-Prison from the Inside Out,10
 "Rainbow Grocery Cooperative, Inc",10
 Workforce Alliance of the North Bay,10
 Calmac Manufacturing Corporation,10
@@ -14350,7 +14352,7 @@ California Public Defenders Office,10
 Americans United for Life,10
 "American Nurses Association, California Chapter",10
 Blue Zones Project Upper Napa Valley,10
-According to the California Public Defenders Association,10
+California Public Defenders Association,10
 Bay Area Birthmothers Association,10
 Big Brothers Big Sisters,10
 Glenn County Human Resource Agency,10
@@ -14504,6 +14506,8 @@ Ca Grocers Association,10
 Orange County Clerk-Recorder,10
 Tulare County Sheriffs Department,10
 EnergySource Minerals LLC,10
+Statewide Law Enforcement Association,10
+Santa Barbara County District Attorney's Office,10
 Zenith Insurance,9
 Northern California Association of Commuter Transportation,9
 NorthCoast Animal Welfare Advocacy Center - Eureka,9
@@ -15094,7 +15098,6 @@ Starlight Stepping Stones Cat Rescue - Long Beach,9
 Sunrise Santa Barbara,9
 True Sunshine Preschool Center,9
 Western MHP Conversions,9
-Statewide Law Enforcement Association,9
 State Public Affairs Committee of the Junior League of,9
 Sunny Cal Adult Day Health Center,9
 Susan G. Komen California Collaborative,9
@@ -15460,7 +15463,6 @@ Santa Cruz County Regional Transportation,9
 Santa Cruz Olive Tree Nursery,9
 San Joaquin Valley Regional Transportation Planning Agencies,9
 Santa Maria Police Department,9
-Santa Barbara County District Attorney's Office,9
 Santa Ana Peace Officers Association,9
 Santa Ana Mayor Miguel Pulido,9
 "Sanford-Lussier, Inc",9
@@ -16725,7 +16727,6 @@ Prima Frutta Packing Inc,9
 Princeton Wood Preservers Ltd,9
 Peace Officers Research Assoc,9
 "Precision Air Balance Co, Inc",9
-LA County Board of Supervisors,9
 "Laborers International Union of North America, AFL-CIO",9
 Interagency on Child Abuse and Neglect,9
 Interest Research Group,9
@@ -16829,7 +16830,6 @@ American Academy of Pediatrics California Chapter 1,9
 "American Fire Sprinkler Association, California Chapters",9
 Board of Supervisors Ventura County,9
 Giroux Glass Inc,9
-Giffords Law Center to Prevent Gun Violence,9
 Federal Home Loan Mortgage Corporation (Freddie Mac,9
 "Estate Planning, Trust and Probate Section of the State Bar",9
 Industry CLC,9
@@ -16873,6 +16873,7 @@ Human Rights Watch,9
 Coalition of Vehicle Registration Services,9
 North San Joaquin Water Conservation District,9
 Cytyc Corporation,9
+Association of California Life,9
 Pacific Racing Association (Golden Gate Fields),8
 Pacific Plastics & Engineering,8
 Paint Council Network,8
@@ -18498,7 +18499,6 @@ Atascadero High School Athletic Department,8
 Atheists United Los Angeles,8
 Atlantic Recovery Services,8
 Association of California State Attorneys and Administrative,8
-Association of California Life,8
 Association of California Administrators,8
 California Task Force on Youth and Workplace Wellness,8
 Association of California (CJAC),8
@@ -19570,6 +19570,9 @@ Castaic Lake Water Agency,8
 CalCOG,8
 Amarok LLC,8
 London Breed - Mayor of City & County of San Francisco,8
+SLC,8
+Public Health Advocates,8
+Human Rights for Kids,8
 Old Adobe Union School District,7
 Office of Mayor Antonio Villaraigosa,7
 Olympic Valley Public Service District,7
@@ -20798,7 +20801,6 @@ Sacramento Credit Union,7
 "SCD Coatings, Inc",7
 SEIU-United Healthcare Workers West,7
 SF Urban Riders,7
-SLC,7
 SLV Redemption/Recycling Centers,7
 Santa Cruz County Coalition for a Living Wage,7
 Santa Cruz County Democratic Party,7
@@ -21428,7 +21430,7 @@ A Purposeful Rescue,7
 1000 Friends of Fresno,7
 "1,000",7
 Institutional Child Abuse Prevention & Advocacy Network,7
-According to Californians for Safety and Justice,7
+Californians for Safety and Justice,7
 A-One Delivery Service,7
 Access California Services,7
 Acalanes Union High School District,7
@@ -22422,7 +22424,6 @@ Hazardous Waste Treatment Council,7
 Comite Civico,7
 Epilepsy Society of San Diego County,7
 Against Women,7
-Public Health Advocates,7
 Riverside County Regional Medical Center,7
 ACHLIC,7
 Association of California Life and Health Insurers,7
@@ -23024,6 +23025,13 @@ Bergey Windpower Company,7
 Los Angeles Mayor Karen Bass,7
 Ventura Reader's Book Group,7
 CA Land Surveyors Assoc,7
+American Association of State Counseling Boards,7
+Children's Advocacy Institute at the University of San Diego School of Law,7
+Consumer Watchdog,7
+Ventura County District Attorney,7
+Stanislaus County,7
+s,7
+District,7
 Crime Survivors for Safety and Justice,6
 Orange County Taxpayer Association,6
 Orange County Herald Center,6
@@ -25788,7 +25796,6 @@ American College of Surgeons Northern California,6
 Alliance of Automobile,6
 American Solar Energy Society,6
 American Baptist Churches of the West,6
-American Association of State Counseling Boards,6
 "American College of Physicians, California Service Chapter",6
 "American Federation of State, Local and Municipal Employees",6
 "American Association of University Women, Santa Barbara",6
@@ -25894,8 +25901,8 @@ Activas,6
 Action Council of Monterey County,6
 Act of 1919,6
 Accurate Auto Body,6
-According to the Los Angeles County District Attorney's Office,6
-According to the American Civil Liberties Union of California,6
+Los Angeles County District Attorney's Office,6
+American Civil Liberties Union of California,6
 Access Network,6
 Access Center of San Diego,6
 Academy of Model Aeronautics,6
@@ -27480,7 +27487,6 @@ Technology Industry Association of California (TechCA),6
 "Temple Beth El, Aptos, Ca",6
 Techfreedom,6
 The Action Lab at Northeastern University,6
-s,6
 i-5 Freedom Network,6
 Uxo Architects,6
 "Volkswagen Group of America, Inc",6
@@ -27908,7 +27914,6 @@ Cranston Steel Structures Inc,6
 Crown Sheet Metal & Skylights Inc,6
 DiBuduo & DeFendis Insurance Brokers LLC,6
 only,6
-Children's Advocacy Institute at the University of San Diego School of Law,6
 "Center on Race, Poverty and Environment",6
 Associated Students Inc. at Sacramento State,6
 Horizon Services Inc,6
@@ -27970,7 +27975,7 @@ Aaaj- Asian Law Caucus,6
 A Dogs Life Rescue,6
 AeA Advancing the Business of Technology,6
 Acupuncture Weight Control Center,6
-According to the Riverside Sheriffs Association,6
+Riverside Sheriffs Association,6
 Berney-Karp Inc,6
 Association for LA Deputy Sheriffs,6
 Farms,6
@@ -28026,7 +28031,6 @@ American Radio Relay League,6
 Bear Valley CSD,6
 Board of Control,6
 Happy Homestead Cemetery District,6
-Consumer Watchdog,6
 Napa Valley Exposition,6
 CA Association of Clerks and Elections Officials,6
 Pajaro Valley Healthcare District Project,6
@@ -28039,6 +28043,11 @@ CA Council of Land Trusts,6
 Program Beta,6
 Flo EV Charging,6
 Ca Building Officials,6
+Live Nation,6
+State Water Board,6
+Attorney General Becerra,6
+Vera Institute of Justice,6
+California State Sheriffs Association,6
 Essential Access Health,5
 Community Works,5
 Official Police Garage of Los Angeles,5
@@ -28950,7 +28959,6 @@ Livermore Harley-Davidson,5
 "Livermore Chief of Police, Randy Sonnenberg",5
 Live Oak School District,5
 Live Oak Adult Day Services,5
-Live Nation,5
 Livable Cities,5
 Littorai Wines,5
 "LittleFootprint Lighting, Inc",5
@@ -32491,7 +32499,6 @@ Agromillora,5
 AUVSI,5
 Academy of Latino Leaders in Action,5
 Accountability,5
-According to the Ventura County District Attorney,5
 Acclaimed Driving School,5
 Acción San Diego,5
 Access to Linguistically Appropriate Services,5
@@ -33470,7 +33477,6 @@ Humboldt County Probation Department,5
 Humans Against Trafficking,5
 Humanist Association of the Greater Sacramento Area,5
 Human Services Agency of San Joaquin County,5
-Human Rights for Kids,5
 Human Rights Defense Center,5
 "Human Concerns Commission, Catholic Diocese of San Jose",5
 Hull Professionals,5
@@ -35525,7 +35531,6 @@ Women VIPS,5
 California State Council Service Employees International Union,5
 American Motorcyclist Association District 37 Off-Road,5
 "American Federation of State, County and Municipal Employees (AFSCME) Local",5
-According to the California State Sheriffs Association,5
 Abriendo Puertas - Opening Doors,5
 Area Agency on Aging Advisory Council Los Angeles County,5
 Gay and Lesbian Adolescent Social Services Inc. (GLASS),5
@@ -35564,6 +35569,12 @@ Tulelake Irrigation District,5
 San Francisco Bay Area Water Users Association,5
 California Association of Mutual Water Companies,5
 California Department of Human Resources (CalHR),5
+Westlake Village,5
+Southern California Contractors,5
+California Association of Psychiatric,5
+Alameda District Attorney's Office,5
+Consumer Reports,5
+Drug Policy Alliance,5
 Economic Security Project Action,4
 International Mass Retail Association,4
 League of Placer County Taxpayers,4
@@ -39246,7 +39257,6 @@ USC Verdugo Hills Hospital,4
 USCS Internationa,4
 USF Reddaway,4
 Westminister Chamber of Commerce,4
-Westlake Village,4
 "Tarrell Kullaway, Vice Mayor, San Anselmo",4
 Taking Care of Business International,4
 Taking it to the Streets,4
@@ -40993,7 +41003,6 @@ St. Johns United Methodist Church,4
 "State Bar of California, Committee",4
 State Bar Litigation Section,4
 "State University, Stanislaus",4
-State Water Board,4
 State of California Auto Dismantler Association,4
 "States Recovery Systems, Inc",4
 Statewide Coalition for Battered Women,4
@@ -41078,7 +41087,6 @@ Southern California Coastal Ocean Observing System,4
 Southern California College of Optometry,4
 Southern California Consortium of WIC Program Directors,4
 Southern California Contractor Associations,4
-Southern California Contractors,4
 Southern California Council for Soviet Jews,4
 Southwest Center for Biological Diversity,4
 Southern California Environmental Contractors Association,4
@@ -41649,7 +41657,6 @@ California Federation for,4
 California Association of Chiefs of Police,4
 California Association of Physician Group,4
 California Association of Public Health Systems,4
-California Association of Psychiatric,4
 California Association of Law Enforcement Employees,4
 California Association of Health Facilities Developmental Services Conference,4
 California Association of Health Underwriters (With,4
@@ -43071,7 +43078,6 @@ Alameda County School Nurse Network,4
 Alameda County Small Business Development Center,4
 Alameda County Solid Waste Management Authority,4
 Alameda County Supervisor,4
-Alameda District Attorney's Office,4
 "Alana's Cafe, Burlingame",4
 Alameda Family Services,4
 Alliance of Los Angeles Inner-City,4
@@ -43615,10 +43621,9 @@ Access Youth Academy,4
 Access to Healthcare Momentum Team,4
 Accessories Council,4
 Accion,4
-According to Save the Bay,4
-According to the California Hospital Association,4
-According to the California Judges Association,4
-According to the California School Employees,4
+Save the Bay,4
+California Hospital Association,4
+California Judges Association,4
 Accountancy,4
 Accreditation Commission of Acupuncture and Oriental,4
 Acterra-South Bay,4
@@ -44267,7 +44272,6 @@ Avalon Schools,4
 Auto Medics,4
 Autistic Self Advocacy Network of Los Angeles,4
 Auburn Director of Public Works,4
-Attorney General Becerra,4
 "Automedia 2000, Inc",4
 Automated Vendtech DBA Grasshopper,4
 Association of Los Angeles Deputy,4
@@ -47398,7 +47402,6 @@ Hepatitis C Action & Advocacy Coalition,4
 Sincere Orient Food Company,4
 End Citizens United Action Fund,4
 Foundation Health,4
-Consumer Reports,4
 Origins Council,4
 Western Center on Law & Poverty Department of Consumer Affairs,4
 St. Luke's Medical Center in Pasadena,4
@@ -47406,7 +47409,6 @@ California Urban Forestry Council,4
 "Alan Uke, President, Underwater Kinetics",4
 Freedom United,4
 Farmworker Justice,4
-Vera Institute of Justice,4
 Power CA Action,4
 Regional Center,4
 Valley Auto Dismantlers Association,4
@@ -47883,7 +47885,7 @@ Afa Specialty Pharmacy Association,4
 Attachment A,4
 Avco Financial,4
 Aon,4
-According to the California-Nevada Conference of Operating Engineers,4
+California-Nevada Conference of Operating Engineers,4
 Accucheck Investigations,4
 Be.group,4
 Bay Area Plan,4
@@ -48619,7 +48621,6 @@ CalVet,4
 Otay Water District,4
 Naples Improvement Association,4
 CA Assoc. of County Treasurers and Tax Collectors,4
-Stanislaus County,4
 CA Department of Real Estate,4
 California Restaurant Association American Society of,4
 California Ground Water Association,4
@@ -48627,12 +48628,16 @@ California Judges Association Unknown,4
 County of Stanislaus,4
 The East Los Angeles Community Union (TELACU),4
 Equality California (EQCA,4
-District),4
 Tri-valley San Joaquin Valley Regional Rail Authority,4
 CA Healthcare Assoc,4
 Alara Inc,4
 "City of San Jose, Mayor Matt Mahan",4
-Alameda County District Attorney,3
+Alameda County District Attorney,4
+Peace Officer Research Association of,4
+American Society for the Prevention of Cruelty,4
+California Attorneys for Criminal Justice,4
+Children's Advocacy Institute,4
+California Chapters of the Brady Campaign to Prevent Gun Violence,4
 Pacific Coast Renderers Association,3
 Joyful Heart Foundation,3
 Vote Hemp,3
@@ -50857,7 +50862,6 @@ Paul Robeson Chapter of the American Civil Liberties Union of Northern,3
 "Paul Koretz, Los Angeles City Council, 5th District",3
 Paul Hastings,3
 Peace Lutheran Church,3
-Peace Officer Research Association of,3
 Patterns,3
 Peace Creations,3
 Pearson Ford,3
@@ -61095,7 +61099,6 @@ Calwise Spirits Co - Paso Robles,3
 Camp Kinneret Summer Day Camp,3
 Capistrano California Connections Academy,3
 Capistrano Beach Sanitary District,3
-According to the California Innocence Coalition,3
 Capistrano Animal Rescue Effort,3
 Cape II Homeowners Association,3
 "Capacity Builders, Inc",3
@@ -61479,7 +61482,6 @@ American Statistical Association,3
 American Standard Companies,3
 American Society of the Prevention of Cruelty to Animals,3
 American Society of Human Genetics,3
-American Society for the Prevention of Cruelty,3
 American Society for the Prevention of,3
 American Society for Civil Engineers,3
 American Society for Parenteral and Enteral Nutrition,3
@@ -61502,8 +61504,7 @@ Apartment Association of California - Orange County,3
 Apartment Association California Southern Cities - Long,3
 Apartment Assoc. of,3
 "Arab American Caucus, California Democratic Party",3
-According to the California Chamber of Commerce,3
-According to the California Partnership to End Domestic,3
+California Chamber of Commerce,3
 American Veterans-Department of California,3
 American Suntanning Association,3
 "American Veterans of World War II, Korean and Vietnam (AMVETS)",3
@@ -61729,7 +61730,7 @@ American Jewish Congress Western Region,3
 American Institute of Architects Council,3
 American General Corporation,3
 American Innovators Network,3
-According to California Psychological Association,3
+California Psychological Association,3
 AB 2479,3
 American Indian Health Project Bakersfield,3
 American Indian Council of Central CA,3
@@ -62160,17 +62161,14 @@ Abolitionist Mom,3
 Acalanes High School,3
 Access College Foundation,3
 Acceleration Behavioral Therapies,3
-According to CDI,3
-According to Stanislaus County,3
-According to Santa Barbara County,3
-According to SFCTA,3
-According to Legal Aid at Work,3
-According to Human Rights for Kids,3
-According to Health Access California,3
+CDI,3
+Santa Barbara County,3
+SFCTA,3
+Legal Aid at Work,3
+Health Access California,3
 "5,044",3
-According to Disability Rights California,3
-According to CSAC,3
-According to Attorney General Xavier Becerra,3
+Disability Rights California,3
+CSAC,3
 Accord Network,3
 Acclamation Insurance,3
 Acción Latina,3
@@ -62180,7 +62178,7 @@ Access to Justice,3
 Abolish Slavery National Network,3
 Able Beverage,3
 ASPIRE After School Program,3
-According to the California Association of Environmental Health Administrators (CAEHA),3
+California Association of Environmental Health Administrators (CAEHA),3
 "ASEA Holdings, LLC",3
 ATAS Soft Coated Wheaten Terriers,3
 "AT&T Wireless Services, Inc",3
@@ -62200,7 +62198,6 @@ AREE International Corporation,3
 Action Committee to Incorporate Oakhurst Now,3
 African American Policy Forum,3
 Acupuncture in Yan Clinic,3
-According to the California Attorneys for Criminal Justice,3
 Ability NOWBay Area,3
 "Aaron Myers, Attorney at Law",3
 Abibinsroma Foundation,3
@@ -62235,7 +62232,7 @@ ActiveSVG,3
 "Active West/Mar Vista Bowl, Los Angeles",3
 Active SVG,3
 Action Sales & Metal Company,3
-According to the ACLU and California Attorneys for,3
+ACLU and California Attorneys for,3
 Adobe Services,3
 "ATWATER ELEMENTARY 4,400",3
 Adacta Labs,3
@@ -62257,26 +62254,20 @@ Addiction Recovery Communities of California,3
 Addiction Medicine,3
 Adasina Social Capital,3
 Action Committee on Organization of and for the Visually,3
-According to the California Bankers Association,3
-According to the California Public Defenders,3
-According to the National Association of Social Workers - California,3
+California Bankers Association,3
+California Public Defenders,3
+National Association of Social Workers - California,3
 Adidas-Salomon,3
-According to the Drug Policy Alliance,3
 Accreditation Council for Continuing Medical Education,3
 Accountech,3
 Accountable Develop,3
 Accountability Counsel,3
-According to the Pacific Juvenile Defender Center,3
-According to the Mayor of Los Angeles,3
-According to the California School-Based Health Alliance,3
-According to the Los Angeles County Sheriff's Department,3
-According to the District,3
+Los Angeles County Sheriff's Department,3
 Accredited Surety and Casualty,3
-According to the Conference of California Bar Associations,3
-According to the Coalition for Humane Immigrant Rights,3
-According to the Children's Law Center of California,3
+Conference of California Bar Associations,3
+Coalition for Humane Immigrant Rights,3
+Children's Law Center of California,3
 American Nostalgia Racing Association,3
-According to the Children's Advocacy Institute,3
 Arab Cultural and Community Center in the San Francisco Bay Are,3
 "Assist Consulting Catalysts for Social Transformation, LLC",3
 Bellicitti & Fellicciotti Constructio Co. Inc,3
@@ -70233,6 +70224,13 @@ Humane World for Animals,3
 New America Foundation,3
 Unknown,3
 "Allied Council, Veterans Home of CA, Yountville",3
+California Chapters of the Brady Campaign to,3
+California Chapters of the Safari Club,3
+LAUSD,3
+ABM Industries,3
+Anti-Recidivism Coalition,3
+Los Angeles County Sheriff,3
+CALIFORNIA APPLICANTS ATTORNEYS' ASSOCIATION,3
 Bluewater Network,2
 Pacific Bell,2
 Riverside County District Attorney,2
@@ -86280,7 +86278,7 @@ Spirit Home Health Care,2
 Spirit Life Apple Valley Church,2
 Spirit Motorcycles San Jose,2
 "Spiveco, Inc",2
-"(per ): Counties of San Joaquin, Yuba, San",2
+": Counties of San Joaquin, Yuba, San",2
 "Sport & Arms Show Producers of America, Inc",2
 Southgate Police Department,2
 Southland Business Group,2
@@ -89249,7 +89247,6 @@ California Disaster Medical Services Association,2
 California Dispute Resolution Council Community Board Program,2
 California Correctional Police Officers Association,2
 California Correctional Peace Officers Assn. (CCPOA),2
-California Chapters of the Brady Campaign to,2
 California Employment Law Concil,2
 California Employment Law CouncilConsumer Attorneys of California,2
 California Employment Lawyers Assn,2
@@ -89305,7 +89302,6 @@ California Center Credit Union,2
 California Cement Producers,2
 California Chapters of the National Association of Industrial and Office Parks,2
 California Chapters of the National Electrical Contractors Associations,2
-California Chapters of the Safari Club,2
 California Chapter of the America Fence Contractors' Association,2
 California Chapters of the Safari Club International,2
 California Chapters of the Solid Waste Association of North America (SWANA),2
@@ -92901,7 +92897,7 @@ California State Council of Laborors,2
 California State Council of Services Employees International Union,2
 Book Tree,2
 "Childrenos Hospital and Health Center, San Diego",2
-According to NextGen California,2
+NextGen California,2
 California State Council AMVETS,2
 "American Boxer Club, Inc",2
 California State Controller Malia Cohen,2
@@ -93629,9 +93625,8 @@ American Women in Radio and Television Golden Gate Chapter,2
 "American Window Tinting Services, Inc",2
 American TeleNetworks,2
 American Teledentistry Association,2
-According to LAUSD,2
 Area Developmental Disabilities Board X,2
-According to Orange County,2
+Orange County,2
 Anchor Capitol,2
 Anchored Life Recovery Services LLC,2
 Anderson Union High School District (Shasta County),2
@@ -94283,7 +94278,6 @@ ACA 14 (DeVore,2
 ACEP,2
 ABI P&O INC,2
 ABLED,2
-ABM Industries,2
 ACA 22 (Dutra,2
 ACE Clearwater Enterprises (Torrance),2
 ACA 43 - ATTACHMENT 1,2
@@ -94905,7 +94899,7 @@ ANC Rental Corp. (Alamo and National),2
 "ANDA Networks, Inc",2
 APS Travel Inc,2
 Advancment Project California,2
-According to the California Protective Parents Association,2
+California Protective Parents Association,2
 APABA of Los Angeles County,2
 AMIT,2
 ALERT (Adult Liberties & Erotic Rights are Threatened),2
@@ -94914,62 +94908,56 @@ ALLDATA Corporation,2
 ALOR,2
 "ALS Association of Great Sacramento, Greater Orange County and Greater San",2
 "ALW Enterprises, Inc",2
-According to the Prosecutors Alliance of California,2
-According to the Youth Law Center,2
-According to the SPI,2
+Prosecutors Alliance of California,2
+Youth Law Center,2
+SPI,2
 AP Moller Maersk,2
 AP Goodyear Construction,2
-According to the Gun Owners of California,2
+Gun Owners of California,2
 AMCAL Development,2
 AMFAC Resorts,2
 AboutHOPE,2
-According to the Chief Probation Officers of California,2
-According to the Chief Probation Officers of California (CPOC),2
-According to the City of Alameda,2
-According to the L.A. County Board of Supervisors,2
-According to the Los Angeles County District Attorney,2
-"According to the Los Angeles County Probation Officers Union, AFSCME Local",2
-According to the National Association of Social Workers,2
+Chief Probation Officers of California,2
+Chief Probation Officers of California (CPOC),2
+City of Alameda,2
+Los Angeles County District Attorney,2
+National Association of Social Workers,2
 "AMASSI, AIDS Community Research Consortium",2
 AM1 Properties,2
 Aclaria Partners,2
 AM Green Construction,2
-"According to the California Professional Firefighters (CPF), ""AB 537",2
-According to the California Solar and Storage Association,2
+"California Professional Firefighters (CPF), ""AB 537",2
+California Solar and Storage Association,2
 AMBAC Equipment Company,2
-According to the California Special Districts Association,2
-"According to the Southeast Area Animal Control Authority, this",2
-According to the State Sheriffs' Association,2
-According to the State Water Board,2
-"According to the California Teachers Association, this",2
-According to the California Labor Federation,2
-According to the California Teachers Association,2
-According to the California Conference of Carpenters,2
-According to the California District Attorneys,2
-"According to the California District Attorneys Association, ""By",2
-According to the California Farm Bureau,2
-According to the California Hospital Association (CHA),2
-According to the California Housing Partnership,2
+California Special Districts Association,2
+"Southeast Area Animal Control Authority, this",2
+"California Teachers Association, this",2
+California Labor Federation,2
+California Teachers Association,2
+California Conference of Carpenters,2
+California District Attorneys,2
+"California District Attorneys Association, ""By",2
+California Farm Bureau,2
+California Hospital Association (CHA),2
+California Housing Partnership,2
 "Advocates for Wild, Healthy Oceans",2
 Advocates for Citizens' Rights,2
 Advancing Steps,2
-According to the San Francisco Giants,2
-According to the San Diego County District Attorney,2
-According to the San Diego County Board of Supervisors,2
+San Diego County Board of Supervisors,2
 Aces Driving School - Murrieta,2
-According to the University of California,2
+University of California,2
 Accountability Project,2
-According to the California Catholic Conference,2
+California Catholic Conference,2
 Aclara,2
 Ace of California Bail Bonds,2
 Achasi's Mini Market,2
-According to the California Teamsters Public Affairs Council,2
+California Teamsters Public Affairs Council,2
 Achieve Charter School,2
 AchieveKids,2
 "Achilles Prosthetics and Orthotics, Inc",2
-According to the California Podiatric Medical Association,2
-According to the California News Publishers Association,2
-According to the California New Car Dealers Association,2
+California Podiatric Medical Association,2
+California News Publishers Association,2
+California New Car Dealers Association,2
 "AMCAL Communities, Inc",2
 "AMASSI, Inc",2
 AON Hewitt,2
@@ -94989,14 +94977,12 @@ Accu-Bore Directional Drilling,2
 Accurate Metering Products & Services,2
 Ace Building Maintenance,2
 Academic Senate of the California Community Colleges,2
-According to the California Attorneys for,2
 Ace Beverage LLC,2
 Ace Electric,2
 Ace Fishing Tackle,2
 Ace Hardware,2
 Ace Hardware Waterford Farm Supply,2
 "Ace Hardware, Long",2
-According to the California Chapters of the Brady Campaign to Prevent Gun Violence,2
 Above/Below,2
 Academic Senate of the Cal State University,2
 Academic Senate of the Compton Community College District,2
@@ -95025,20 +95011,16 @@ Accountancy Corporation,2
 AON Insurance Services,2
 Academy of Alameda Middle School,2
 "Abuse, San Joaquin County Chapter",2
-According to the California Advisory Commission on,2
+California Advisory Commission on,2
 Abundant Housing Sunset,2
 Abundant Life,2
 Abuse Center (Northridge),2
 Abuse Counselors,2
 Academy of Chinese Culture and Health Sciences,2
 Academy of Leonardo's Apprentice,2
-According to Planned Parenthood Affiliates of California,2
-According to DOJ,2
-According to Drug Policy Alliance,2
+Planned Parenthood Affiliates of California,2
 American Congress of Obstetricians and Gynecologist (California),2
-According to Families Inspiring Reentry & Reunification 4 Everyone,2
-According to Giffords Law Center to Prevent Gun Violence,2
-According to Initiate Justice,2
+Initiate Justice,2
 "Anderson Appraisal Service, Inc",2
 Anderson Cemetery District,2
 Anderson Homes,2
@@ -95060,23 +95042,19 @@ Bay Area Open Space,2
 Bay Area Intactivists,2
 "AccentCare, Irvine",2
 Acalances Union High School,2
-According to Attorney General Becerra,2
 Bay Area & Western Paralyzed Veterans,2
 Access Psychology Foundation,2
 Access Impact,2
 Bay Area Nonpartisan,2
 Access Dental Services,2
 Academy on Violence and Abuse,2
-According to Social Compassion in Legislation,2
-According to The Prosecutor's Alliance,2
-According to Vera Institute of Justice,2
-According to the American College of Obstetricians and Gynecologists District IX,2
-According to the Anti-Recidivism Coalition,2
-According to the Bay Area Air Quality Management District,2
-"According to the Brady Campaign to Prevent Gun Violence, ""Data",2
-According to California Health Coalition Advocacy (CHCA),2
-According to CACASA,2
-According to CA Attorneys for Criminal Justice (CACJ),2
+Social Compassion in Legislation,2
+American College of Obstetricians and Gynecologists District IX,2
+Bay Area Air Quality Management District,2
+"Brady Campaign to Prevent Gun Violence, ""Data",2
+California Health Coalition Advocacy (CHCA),2
+CACASA,2
+CA Attorneys for Criminal Justice (CACJ),2
 Bay Area Legal Aid Society Employment Law Center,2
 Bay Area Maintenance Inc,2
 Bay Area Metropolitan Transportation Commission,2
@@ -95161,7 +95139,7 @@ Access Smart,2
 Access to Independence of San Diego,2
 Acción Océanos,2
 Acclamation Insurance Management,2
-According to AFSCME,2
+AFSCME,2
 Amy's Purpose,2
 Boo2bullying,2
 "Bay Area Addiction Research & Treatment, Inc",2
@@ -96953,7 +96931,7 @@ Auburn Area Animal Rescue Foundation,2
 Auburn Christian School,2
 Beverly Hills Judicial District,2
 Beverly Hills Convention & Visitors Bureau,2
-According to SEIU California,2
+SEIU California,2
 Azul MSI,2
 Azure Acres,2
 Azusa California Alliance for Consumer Protection,2
@@ -106802,7 +106780,6 @@ Wishtoyo Chumash Foundation,2
 California Department of Justice,2
 California State Conference of the NAACP,2
 Office,2
-Ventura County District Attorney,2
 American Medical Group Association,2
 Forward Together,2
 California Growers Association,2
@@ -106901,7 +106878,6 @@ Cruise Line International Association,2
 Department of Developmental Disabilities,2
 County of Santa Clara Office of the County Counsel,2
 "The American Institute of Architects (AIA), California",2
-Los Angeles County Sheriff,2
 City of Compton,2
 San Diego Teachers Association,2
 Rural Coalition of Southern Monterey County,2
@@ -106918,7 +106894,6 @@ Food Processors WORKSAFE,2
 Many (unaccredited) Law Schools,2
 National LEP (limited English proficient) Advocacy Task Force,2
 Standards and Training (training mandate only) (SEE COMMENT 9 FOR AN ADAPTATION OF THE DETAILED SENATE,2
-California Chapters of the Brady Campaign to Prevent Gun Violence,2
 Commonweal,2
 Zero Waste Sonoma,2
 California Automotive Business Coalition,2
@@ -107855,7 +107830,6 @@ Sixth Region Association of the United States Army,2
 Calif. Ass'n of Sanitation Agencies,2
 CALACEP,2
 CalACT,2
-California Applicants Attorneys Association (CAAA,2
 California Academy of PAs (CAPA),2
 Comment 2,2
 California - Stop Terrorism and Oppression by Police Coalition,2
@@ -107969,10 +107943,10 @@ Affordable Housing Subcommittee Saratoga,2
 Air Conditioning Contractors National Association,2
 Agencies on Aging,2
 "Airport Council International, North America",2
-"According to the California State Sheriffs Association, ""The CSSA",2
-"According to the California State Sheriffs Association, SB",2
-"According to the California Public Defenders Association, ""This",2
-"According to the Howard Jarvis Taxpayers Association, this",2
+"California State Sheriffs Association, ""The CSSA",2
+"California State Sheriffs Association, SB",2
+"California Public Defenders Association, ""This",2
+"Howard Jarvis Taxpayers Association, this",2
 Adventist Health Clear Lake,2
 Adventist Health Lodi Memorial,2
 Administrative Fire Services Section- North,2
@@ -108358,6 +108332,16 @@ Sacramento District Attorney Jan Scully,2
 CA Water Assoc,2
 American Legion Chinatown Post 628,2
 "American Subcontractors Association CA, Inc",2
+California Manufacturing and Technology Association,2
+MTS,2
+SLOCOG,2
+SACOG,2
+State Building and Construction Trades Council of California,2
+Escrow Institute of,2
+Consulate General of the Republic of,2
+Ella Baker Center for Human Rights,2
+Immigrant Legal Resources Center,2
+AG Xavier Becerra,2
 Industrial Environmental Association,1
 Department of Justice,1
 Seventh Generation Advisors,1
@@ -108380,7 +108364,6 @@ Plastic Oceans International,1
 Harm Reduction Coalition,1
 California Society of Dermatology and Dermatologic Surgery,1
 Outdoor Outreach,1
-California Manufacturing and Technology Association,1
 South Central Family Health Center,1
 Alzheimer's Greater Los Angeles,1
 Golden State Opportunity,1
@@ -129627,7 +129610,6 @@ MPA - Association of Magazine Media,1
 MPA-The Association of Magazine Media,1
 "Mague Calanche, Graphic Artist of San Francisco",1
 MRW & Associates,1
-MTS,1
 MTA Technical Advisory Committee,1
 "MR Bracey Construction Co., Inc. (Ontario)",1
 "MSM Global Ventures, LLC",1
@@ -145470,7 +145452,6 @@ SUBMIT IN COMMITTEE.),1
 "SUBA MFG., Inc",1
 "STS Venture, LLC",1
 "STRS, Oppose",1
-SLOCOG,1
 SME,1
 SOUTHERN ALAMEDA COUNTY DENTAL SOCIETY,1
 SLO Hep C Project,1
@@ -146292,7 +146273,6 @@ SB 1023,1
 "Ryan McCreary, President, Gamma Chi Lambda Chapter, Alpha Phi Alpha",1
 SB 17 X2,1
 "Ryan Jackson, Chairman, Hoopa Valley Tribe",1
-SACOG,1
 SAB,1
 "S/S Vending Equipment (New Hyde Park, New York)",1
 S Corp Association,1
@@ -149114,7 +149094,6 @@ Stockton Professional Firefighters IAFF,1
 "State Board of Equalization, California Association of County",1
 Steton Construction Group's,1
 Stepping Into His Image,1
-State Building and Construction Trades Council of California,1
 "State Building and Construction Trades Council of California, AFL",1
 State Building and Construction Trades Council of CC,1
 State Board of Guide,1
@@ -162439,7 +162418,6 @@ Air-Conditioning and Sheet Metal Association,1
 Air Methods Corporation,1
 "Affairs, Community Collaboration",1
 Affairs and Navigation Conference,1
-According to Westlake Village,1
 Affordable Housing Services Pasadena,1
 Aioli Restaurant,1
 "Air Adventures Skydiving, inc",1
@@ -163004,14 +162982,11 @@ Ace Hardware Corporation,1
 Adult and Agency Network of Santa Barbara County,1
 Acupuncture Association of America,1
 Acupressure Acupuncture at PANC,1
-According to the Southern California Contractors,1
-According to the Southern California Association of Nonprofit Housing,1
-According to the South Coast Air Quality Management District (SCAQMD),1
-"According to the Secretary of State, ""AB 2134",1
-According to the Escrow Institute of,1
-According to the Santa Barbara County District Attorney's Office,1
-According to the San Francisco Public Defender's Office,1
-According to the San Francisco District Attorney,1
+Southern California Association of Nonprofit Housing,1
+South Coast Air Quality Management District (SCAQMD),1
+"Secretary of State, ""AB 2134",1
+San Francisco Public Defender's Office,1
+San Francisco District Attorney,1
 Action Partnership of Orange County,1
 "Action Point, Inc",1
 Action Project,1
@@ -163123,41 +163098,35 @@ Adams Streeter Civer Engineers,1
 Adams Service,1
 Adams Press,1
 Adams Middle School,1
-According to the San Francisco Bay Area Rapid Transit District (BART),1
-"According to the State Association of County Retirement Systems, ""This",1
-According to the San Diego District Attorney's Office,1
-According to the California Applicants' Attorneys Association (CAAA),1
+San Francisco Bay Area Rapid Transit District (BART),1
+"State Association of County Retirement Systems, ""This",1
 Activism,1
 Activision,1
 Actives San Gabriel Valley,1
 Accredited Out-of-State Colleges and Universities (AOCUC),1
 Accredited Out-of-State Colleges & Universities in California,1
 Addicks Engineering and Product Development Co,1
-According to the California State University (CSU),1
-According to the County Welfare Directors Association of,1
-"According to the County Superintendents of Schools, ""this",1
-According to the County Health Executives Association of California,1
-According to the Contractor's State Licensing Board,1
-According to the California Association of Psychiatric Technicians,1
-According to the California Association of Psychiatric,1
-According to the California Association of Professional,1
-According to the California Association of Dental,1
-According to the California Association of Code Enforcement Officers,1
-According to the California Narcotic Officers' Association,1
-According to the California Association of Certified Family Law Specialists (ACFLS),1
+California State University (CSU),1
+"County Superintendents of Schools, ""this",1
+County Health Executives Association of California,1
+Contractor's State Licensing Board,1
+California Association of Psychiatric Technicians,1
+California Association of Professional,1
+California Association of Dental,1
+California Association of Code Enforcement Officers,1
+California Narcotic Officers' Association,1
+California Association of Certified Family Law Specialists (ACFLS),1
 Activists for Animal Rights,1
 Activists for Protective,1
 Activists for Women Now,1
-"According to the California Probation, Parole and Correctional Association",1
-"According to the California Police Chiefs Association, ""This",1
-"According to the California Police Chiefs Association, ""It",1
-According to the California Statewide Law Enforcement Association,1
-"According to the California Teachers Association (CTA), this bill",1
-According to the California Tribal Business Alliance,1
-According to the California and Cable Telecommunications,1
-According to the Crohn's & Colitis Foundation,1
-According to the County Welfare Directors Association of California (CWDA),1
-According to the California State Law Enforcement Association,1
+"California Probation, Parole and Correctional Association",1
+"California Police Chiefs Association, ""This",1
+"California Police Chiefs Association, ""It",1
+California Statewide Law Enforcement Association,1
+"California Teachers Association (CTA), this bill",1
+California Tribal Business Alliance,1
+California and Cable Telecommunications,1
+County Welfare Directors Association of California (CWDA),1
 Acton-Agua Dulce Unified SD,1
 "Acuna, Regli & Klein, LLP",1
 Acuerdos,1
@@ -163165,136 +163134,112 @@ Acua GEN Engineers LLC,1
 Actors and Others for Animal,1
 Actors Guild,1
 Actor and Others for Animals,1
-According to the California Association of,1
-"According to the California Apartment Association, ""It is",1
-According to the Sacramento County District Attorney,1
-According to the CalChamber,1
-According to the Children's Advocacy Institute at the University of San Diego School of Law,1
-"According to the Child and Family Protection Association, ""AB",1
-"According to the Child Abuse Prevention Center, "" Millions of",1
-"According to the Chief Probation Officers of California, this",1
-According to the Center on Juvenile and Criminal Justice,1
-According to the California Police Chiefs Association,1
-"According to the California New Car Dealers Association, ""AB",1
-According to the California Association of Collectors,1
-According to the California Cannabis Industry Association,1
-According to the California Building Industry Association,1
-According to the California Attorneys for Criminal,1
+California Association of,1
+"California Apartment Association, ""It is",1
+CalChamber,1
+"Child and Family Protection Association, ""AB",1
+"Child Abuse Prevention Center, "" Millions of",1
+"Chief Probation Officers of California, this",1
+Center on Juvenile and Criminal Justice,1
+California Police Chiefs Association,1
+"California New Car Dealers Association, ""AB",1
+California Association of Collectors,1
+California Cannabis Industry Association,1
+California Building Industry Association,1
 Alpha Omega Acupuncture and Herbal Clinic,1
 Alameda Health Consotrium,1
 Alpha Fund Joint Powers Authority,1
-According to Bet Tzedek Legal Services and Coalition to Abolish Slavery and Trafficking,1
-According to Brady California United Against Gun Violence,1
-According to The California Chapters of the Brady Campaign to,1
-According to the ACLU of California,1
-According to the ACLU and California Public Defenders,1
-"According to the A.G., ""the Attorney General's Mortgage Fraud",1
-According to the City,1
-According to the City and County of San Francisco,1
-"According to the City and County of San Francisco, ""San",1
-According to the California Municipal Utilities Association and California Special Districts Association,1
-According to the CSLB,1
-According to the CPUC,1
-According to the CDE,1
-According to the CCPOA,1
-"According to the CCC Chancellor's Office, this bill",1
-"According to the California Catholic Conference, this bill",1
-According to the California Certified Organic Farmers (CCOF),1
-According to the California Chapter of the Brady Campaign to Prevent Gun,1
-According to the California Chapters of the Safari Club,1
-According to the California Association of Resource Conservation Districts (CARCD),1
-According to the City of Maywood,1
-According to the California League of Cities who,1
-"According to the California Attorney General's Office, ""Under",1
-"According to the California Bankers Association, the bill",1
-"According to the Consumers for Auto Reliability and Safety, ""[This bill",1
-"According to the Consumer Healthcare Products Association, ""With NPLEx in",1
-According to the Consumer Federation of California (CFC),1
-According to the Consumer Federation of California,1
-According to the Consulate General of the Republic of,1
-According to the Coalition for Elder & Disability Rights,1
-According to the California State Association of Counties,1
-"According to the California Public Defenders Association, ""A",1
-"According to the California Public Defenders Association, ""The County",1
-According to the California Correctional Peace Officer Association,1
-According to the California Correctional Peace,1
-According to the DOC,1
-"According to the Drug Policy Alliance, ""This bill is",1
-According to the Ella Baker Center for Human Rights,1
-According to the South Coast Air Quality Management District,1
-"According to the Turkish American Legal Defense Fund (TALDF), this bill",1
-"According to the Tenth Amendment Center, ""While California",1
-According to the Statewide Law Enforcement Association,1
+Bet Tzedek Legal Services and Coalition to Abolish Slavery and Trafficking,1
+ACLU of California,1
+ACLU and California Public Defenders,1
+"A.G., ""the Attorney General's Mortgage Fraud",1
+City,1
+City and County of San Francisco,1
+"City and County of San Francisco, ""San",1
+California Municipal Utilities Association and California Special Districts Association,1
+CPUC,1
+"CCC Chancellor's Office, this bill",1
+"California Catholic Conference, this bill",1
+California Certified Organic Farmers (CCOF),1
+California Chapter of the Brady Campaign to Prevent Gun,1
+California Association of Resource Conservation Districts (CARCD),1
+City of Maywood,1
+California League of Cities who,1
+"California Attorney General's Office, ""Under",1
+"California Bankers Association, the bill",1
+"Consumers for Auto Reliability and Safety, ""[This bill",1
+"Consumer Healthcare Products Association, ""With NPLEx in",1
+Consumer Federation of California (CFC),1
+Consumer Federation of California,1
+Coalition for Elder & Disability Rights,1
+California State Association of Counties,1
+"California Public Defenders Association, ""A",1
+"California Public Defenders Association, ""The County",1
+California Correctional Peace Officer Association,1
+DOC,1
+"Drug Policy Alliance, ""This bill is",1
+South Coast Air Quality Management District,1
+"Turkish American Legal Defense Fund (TALDF), this bill",1
+"Tenth Amendment Center, ""While California",1
 "Accredited Nursing Care, Woodland Hills, CA",1
 Accredited Home Health Services,1
 Accredited Family of Homecare Services,1
 "Accreditation of Healthcare Organizations, and have been",1
-According to the L.A. District Attorney's Office and the L.A,1
-"According to the L.A. County Sheriff's Department, ""It is",1
-"According to the L.A. County Board of Supervisors, ""Los",1
-According to the Kern County Office of Education,1
-According to the Jewish Public Affairs Committee of California,1
-According to the Institute for Justice,1
-According to the Independent Hospitality Coalition (IHC),1
-According to the Immigrant Legal Resources Center,1
-"According to the California Correctional Peace Officers Association, ""AB",1
-"According to the California Correctional Supervisor's Organization, ""The California Correctional Supervisors",1
-According to the California Dental Association (CDA),1
-According to the State Building and Construction Trades Council of California,1
-According to the Sacramento Bay Area Rapid Transit District,1
-According to the SLC,1
-According to the Rural County Representatives of California,1
-According to the United Trustees Association,1
-According to the University of California Berkeley Law School's Center on Reproductive Rights and Justice,1
-According to the Western Electrical Contractors Association and the Southern California,1
-According to the Yurok Tribe,1
-According to the San Diego County District Attorney's Association,1
-According to the State Coalition of Probation Organizations,1
-According to the California Department of Insurance,1
-"According to the State Coalition of Probation Organizations, ""Two",1
-"According to the California Innocence Projects, this bill will",1
-According to the California Innocence Project,1
-According to the California Immigrant Policy Center,1
-According to the California Grocers Association (CGA),1
-According to the California Employment Lawyers Association,1
-According to the California Emerging Technology Fund,1
-According to the California District Attorneys Office,1
-"According to the California District Attorneys Association, ''In People v. Nguyen (2009) 46 Cal.4th1007, the California Supreme Court",1
-According to the Humane Society,1
-"According to the Howard Jarvis Taxpayers Association, ""We",1
-According to the LAUSD,1
+L.A. District Attorney's Office and the L.A,1
+"L.A. County Sheriff's Department, ""It is",1
+"L.A. County Board of Supervisors, ""Los",1
+Jewish Public Affairs Committee of California,1
+Institute for Justice,1
+Independent Hospitality Coalition (IHC),1
+"California Correctional Peace Officers Association, ""AB",1
+"California Correctional Supervisor's Organization, ""The California Correctional Supervisors",1
+California Dental Association (CDA),1
+Sacramento Bay Area Rapid Transit District,1
+Rural County Representatives of California,1
+United Trustees Association,1
+University of California Berkeley Law School's Center on Reproductive Rights and Justice,1
+Western Electrical Contractors Association and the Southern California,1
+Yurok Tribe,1
+San Diego County District Attorney's Association,1
+State Coalition of Probation Organizations,1
+California Department of Insurance,1
+"State Coalition of Probation Organizations, ""Two",1
+"California Innocence Projects, this bill will",1
+California Innocence Project,1
+California Immigrant Policy Center,1
+California Grocers Association (CGA),1
+California Employment Lawyers Association,1
+California Emerging Technology Fund,1
+"California District Attorneys Association, ''In People v. Nguyen (2009) 46 Cal.4th1007, the California Supreme Court",1
+Humane Society,1
+"Howard Jarvis Taxpayers Association, ""We",1
 Accountability Associates,1
 Accornero-Figoni & Associates,1
-"According to the, California Association of Federal Firearms",1
-According to the bill's,1
-According to the Public Health Advocates,1
-"According to the Public Defenders Association, ""When a",1
-According to the League of Women Voters,1
-"According to the League of California Cities, this bill",1
+"the, California Association of Federal Firearms",1
+bill's,1
+"Public Defenders Association, ""When a",1
+League of Women Voters,1
+"League of California Cities, this bill",1
 Acupuncture,1
-"According to the California Labor Federation, ""Almost one",1
-According to the California Manufacturing and Technology Association,1
-According to the California Special District Association,1
-According to the California Society of Certified Public Accountants,1
-According to the California Rifle and Pistol,1
-According to the California Police Chiefs,1
-According to the California Retailers Association,1
-According to the California Refuse Recycling Council - Northern Division,1
+"California Labor Federation, ""Almost one",1
+California Special District Association,1
+California Society of Certified Public Accountants,1
+California Police Chiefs,1
+California Retailers Association,1
+California Refuse Recycling Council - Northern Division,1
 "Accountable Health Care, IPA",1
 Accountants (CSCPA),1
-According to the California Judges Association (CJA),1
-According to the Hindu American Foundation,1
-According to the Golden State Manufactured-home Owners League (GSMOL),1
-According to the Family Assistance Program,1
-According to the Executive Committee of the Trusts & Estates Section of the State Bar of California,1
-According to the League of Cities and the California Special,1
-"According to the Los Angeles (L.A.) County Probation Officers Union, AFSCME Local",1
-"According to the Public Defenders Association, ""This",1
-According to the Los Angeles Chamber of Commerce,1
-"According to the L.A. District Attorney's Office, ""AB 1607",1
-"According to the L.A. Sheriff's Department, ""If a law",1
+California Judges Association (CJA),1
+Hindu American Foundation,1
+Golden State Manufactured-home Owners League (GSMOL),1
+Family Assistance Program,1
+Executive Committee of the Trusts & Estates Section of the State Bar of California,1
+League of Cities and the California Special,1
+"Los Angeles (L.A.) County Probation Officers Union, AFSCME Local",1
+"Public Defenders Association, ""This",1
+"L.A. District Attorney's Office, ""AB 1607",1
+"L.A. Sheriff's Department, ""If a law",1
 Accountants Overload,1
-According to the Lawyers' Committee for Civil Rights of the San,1
 Accreditation Commission of Acupuncture and Oriental Medicine,1
 Accreditation Commission for Acupuncture and Oriental Medicine (ACAOM),1
 Accra Pac Group,1
@@ -163305,10 +163250,7 @@ Accountants and Attorneys San,1
 Ad Dharm Brotherhood USA,1
 Advocates for Permanent Planning,1
 "Advanced Wall Systems, Inc",1
-According to the Los Angeles Worker Center Network,1
-According to the Los Angeles Sheriff's Department,1
-According to the Los Angeles District Attorney's Office,1
-According to the Los Angeles County Sheriff,1
+Los Angeles District Attorney's Office,1
 "Add a Cabana, Los Alamitos",1
 Addict Evaluation Authority,1
 Aeronautical Industrial District Lodge,1
@@ -163325,9 +163267,8 @@ Advancing Business of Technology,1
 "Advancement, Los Angeles Chapter",1
 Advancement Via Individual Determination,1
 Advancement Foundation (HOAF),1
-"According to the Marin County Board of Supervisors, ""San",1
-According to the National Action Network,1
-According to the National Association of Driving Safety,1
+"Marin County Board of Supervisors, ""San",1
+National Association of Driving Safety,1
 Advisory Committee of the Maternal and Child Health Network for,1
 Adventist Health Community Personal Care,1
 Adventist Health Care Coalition,1
@@ -163337,16 +163278,14 @@ Adventist Health Alameda Hospital,1
 "Adventist Health, Roseville",1
 "Adventist Health, San Joaquin Community Hospital",1
 "Adventist Health, Selma Community Hospital",1
-According to the National Notary Association,1
 Adventist Health and Loma Linda University,1
 Adventist Health and Rideout,1
 "Adventist Health, Alliance of Catholic Health Care",1
-According to the Office of the Orange County District Attorney,1
-According to the Office of the Attorney General who,1
-According to the Nurse-Family Partnership,1
-"According to the Natural Resources Defense Council, when RDAs",1
-"According to the National Rifle Association, this bill does",1
-According to the National Rifle Association,1
+Office of the Orange County District Attorney,1
+Office of the Attorney General who,1
+"Natural Resources Defense Council, when RDAs",1
+"National Rifle Association, this bill does",1
+National Rifle Association,1
 Advanced Veterinary Specialists,1
 Adventist Health Howard Memorial,1
 "Advanced Transit Vehicle Consortium, Los Angeles County MTA",1
@@ -163536,9 +163475,6 @@ Administratively Consolidated,1
 Advanced Prosthetics & Orthotic Designs,1
 Adelphi Communications,1
 "Adjutant General, California National Guard",1
-According to the Orange County Sheriff's Department,1
-According to the Pasadena Police Department,1
-According to the Peace Officer Research Association of,1
 "Adam Bros. Farming, Inc",1
 "Adam & Brooks, Inc",1
 Adadptec,1
@@ -163626,7 +163562,7 @@ Adriel Designs,1
 Adriana Ramirez,1
 Adrian Dominican Sisters,1
 "Advanced Instruments, Concord, CA",1
-"According to the Orange County Employees Association (OCEA), ""SB 1232",1
+"Orange County Employees Association (OCEA), ""SB 1232",1
 "Administrative Services, Inc",1
 "Administrators' Association, National Electrical Contractors",1
 Administrators of Los Angeles County: California,1
@@ -164923,8 +164859,7 @@ Also Leopold Society,1
 Alsco American Linen,1
 Alsace Block Club,1
 "Alredge Quarter Horses, Inc",1
-According to the,1
-According to Western Center on Law & Poverty,1
+Western Center on Law & Poverty,1
 Black Association of California Community Colleges,1
 75+ Individual Letters,1
 9)Restaurant Employees International Union,1
@@ -164938,15 +164873,15 @@ Black Association of California Community Colleges,1
 9510 in Orange,1
 7California District Attorneys Association,1
 9 to 5 Working Women,1
-"According to the CA Public Defenders Association, ""AB 2590",1
-"According to the CA Public Defenders Association, ""This bill will help",1
+"CA Public Defenders Association, ""AB 2590",1
+"CA Public Defenders Association, ""This bill will help",1
 99 cent Only Stores,1
 99 Rootz,1
 99 Corridor DVBE Network,1
 "99 Cents Only Stores, LLC",1
 95th CST-WMD Soldiers and Airmen's Association,1
 "9 to 5 National Association of Working Women, Bay",1
-"According to the CA State Sheriffs Association, ""Existing law",1
+"CA State Sheriffs Association, ""Existing law",1
 "9 to 5 National Association of Working Women, Bay Area",1
 Alpha Construction,1
 Alpha Charter High School,1
@@ -165059,7 +164994,7 @@ A New PATH (Parents,1
 A New Hope Animal Foundation,1
 7 Graham Solutions,1
 7 R.N.s,1
-According to BREATHE LA,1
+BREATHE LA,1
 54 Constituents,1
 "535, SEIU",1
 53 Individual Doctors of Chiropractic,1
@@ -166100,7 +166035,7 @@ AB 1930 (Stone),1
 3 Geology Professionals,1
 3 Fold Communications,1
 "AMENDED IN ASSEMBLY APRIL 10, 2007",1
-"According to the CA District Attorneys Association, ""In the era of",1
+"CA District Attorneys Association, ""In the era of",1
 AMVETS California Service Foundation,1
 "AMENDED IN ASSEMBLY APRIL 30, 2015",1
 AP Equality-LA,1
@@ -166297,7 +166232,6 @@ AIDS Healthcare Foundaton,1
 AIDS Project Los Angeles Health,1
 AGAPE Design,1
 AG-Seeds Unlimited,1
-AG Xavier Becerra,1
 AIR Commercial Real Estate,1
 AIMPRO,1
 AIM at Melanona,1
@@ -166372,26 +166306,19 @@ AIA Los Angeles,1
 Academics & Technologies,1
 Academic Uprise,1
 "Access Services Inc., Los Angeles",1
-According to According to Crime Victims United of California,1
-"According to AMVETS-Department of California, ""We this",1
-According to AG Xavier Becerra,1
-According to ABM Industries,1
-According to 3Strands Global Foundation,1
-According to 's,1
+According to Crime Victims United of California,1
+"AMVETS-Department of California, ""We this",1
 "Acclamation Insurance Management Services, Allied Managed Care, California Chapter of the American Fence Association",1
 Acclaim Autobody,1
 Accessories,1
 Accessing Health Services for California's Children in Foster Care Task Force,1
 Accessing Health Services for California's Children in Foster,1
-According to CalHR,1
-According to CSLB,1
-According to CPhA,1
+CalHR,1
+CPhA,1
 Aarowhead pond of Anaheim,1
 Abraza INC,1
 "Absolute Repair, Inc",1
-According to Airbnb,1
-According to Alchemist CDC,1
-According to Anti-Recidivism Coalition,1
+Airbnb,1
 Academic Senate CSU,1
 Academic Services Department in the Alum Rock Union School District,1
 "Academic Senate, Los Angeles Community College District",1
@@ -166402,8 +166329,6 @@ Acapulco Mexican Restaurant y Cantina,1
 Academic Senate for the California Community Colleges,1
 Academic Senate at Foothill College,1
 Academic Senate California State University (ASCSU),1
-According to Antioch Unified School District,1
-According to CalSTRS,1
 Accessing Health Services for California's,1
 "Accenture, LLP",1
 Access and Medi-Cal Program (CHAMP),1
@@ -166412,7 +166337,6 @@ Access of Specialty Care Coalition,1
 Access to Alcohol,1
 Access Services Incorporated 07/05/95,1
 ARC-Long Beach,1
-According to California State Sheriffs' Association,1
 Academy of Our Lady of Peace,1
 Academy of Orthopaedic Physical Therapy-Animal Physical Therapy SIG,1
 Academy of Medical Psychology,1
@@ -166423,30 +166347,24 @@ Academy of Defensive,1
 Academy of Chinese Culture & Health Sciences,1
 Academy of California Professional Adoption,1
 Academy of California Adoption of Lawyers,1
-"According to Secretary of State Debra Bowen, ""There is",1
+"Secretary of State Debra Bowen, ""There is",1
 Academic Council of the Academic Senate of the AB 992 (Spitzer),1
-According to SLOCOG,1
-According to SACOG,1
-According to the Alliance for Constitutional Sex Offense Laws,1
-According to Pacific Juvenile Defender Center,1
-"According to Oceana, CALPIRG, and Environment California",1
-According to NeverAgainCA,1
-According to Children's Advocacy Institute,1
-According to California Youth Connection (CYC),1
+"Oceana, CALPIRG, and Environment California",1
+California Youth Connection (CYC),1
 Academy of Pediatrics (AAP),1
 Academy of Pediatrics- California,1
 Academy of Preventive Medicine,1
-According to Senate Toxics and Public Safety Management Committee,1
-According to WSD,1
-"According to Uber Technologies, Inc. and Lyft, Inc",1
-"According to UC, ""The Roman Reed Spinal Cord Injury Research",1
-According to SunPoint Public Adjusters,1
-According to Brady United Against Gun Violence,1
-According to StubHub,1
-According to Sonoma County,1
-According to Smart Approaches to Marijuana California,1
-"According to Service Employees International Union, the bill's",1
-According to United Contractors,1
+Senate Toxics and Public Safety Management Committee,1
+WSD,1
+"Uber Technologies, Inc. and Lyft, Inc",1
+"UC, ""The Roman Reed Spinal Cord Injury Research",1
+SunPoint Public Adjusters,1
+Brady United Against Gun Violence,1
+StubHub,1
+Sonoma County,1
+Smart Approaches to Marijuana California,1
+"Service Employees International Union, the bill's",1
+United Contractors,1
 Academy of Television Arts & Science,1
 Academy of California Adoption Lawyers (ACAL) and,1
 Academy of California Adoption Lawyers (if,1
@@ -166456,79 +166374,59 @@ Academy of Adoption and Assisted Reproduction Attorneys,1
 Academy of Arts and Economics,1
 Academy of Arts and Sciences,1
 Academy of the Redwoods,1
-According to California YIMBY,1
-According to California State Association of Psychiatrists,1
+California YIMBY,1
+California State Association of Psychiatrists,1
 "Access Services, Inc. California Transit",1
-According to the Alzheimer's Association,1
-According to the Association of Legal Document Assistants,1
-"According to the Association of Healthcare Districts, 13",1
-According to the Association of California Life,1
-According to the Association for L.A. Deputy,1
-According to the Apartment Association of Greater Los Angeles,1
-According to the Anti-Defamation League,1
-According to the Animal Legal Defense Fund,1
-According to the American Society for the Prevention of Cruelty to Animals and the California Partnership to End Domestic Violence,1
-According to the American Society for the Prevention of Cruelty,1
-According to the American Diabetes Association,1
-"According to the American Civil Liberties Union, SB 661 is",1
-"According to SFO, ""This bill is",1
+Alzheimer's Association,1
+Association of Legal Document Assistants,1
+"Association of Healthcare Districts, 13",1
+Association for L.A. Deputy,1
+Apartment Association of Greater Los Angeles,1
+Anti-Defamation League,1
+Animal Legal Defense Fund,1
+American Society for the Prevention of Cruelty to Animals and the California Partnership to End Domestic Violence,1
+American Diabetes Association,1
+"American Civil Liberties Union, SB 661 is",1
+"SFO, ""This bill is",1
 Academic Institutions,1
 ASAP Auto Insurance Services,1
 AFL-CIO San Diego County Taxpayers Association Bill Schwandt,1
 Access Manage Care,1
 "Access Uniforms (Burlingame, CA)",1
 "Access Technology, Inc",1
-According to the Association of Los Angeles Deputy Sheriffs,1
-According to the Attorney General's Office,1
-According to the Bail Project,1
-According to California Association Apartment who,1
-According to California Sportsman's Lobby,1
-According to California Municipal Utilities Association (CMUA),1
-According to California Latinas for Reproductive Justice,1
-According to California Insurance Commissioner Ricardo Lara,1
-According to California Brady United Against Gun Violence,1
-According to California Attorneys for Criminal Justice,1
-According to California Attorneys for Criminal,1
-According to California Attorney General Becerra,1
-According to California Association of Life Safety and Fire,1
-According to California Rural Legal Assistance Foundation,1
-According to the Board,1
-According to the American Association of State Counseling Boards,1
-"According to the American Civil Liberties Union, ""In",1
-"According to the American Civil Liberties Union, ""SB 888 is",1
-According to Prison From the Inside Out,1
-According to the Air Resources Board,1
-According to the Alameda County District Attorney,1
-According to the Alameda County District Attorney's Office,1
-According to the Alameda District Attorney's Office,1
-According to the CA District Attorneys Association,1
+Association of Los Angeles Deputy Sheriffs,1
+Attorney General's Office,1
+Bail Project,1
+California Association Apartment who,1
+California Sportsman's Lobby,1
+California Municipal Utilities Association (CMUA),1
+California Latinas for Reproductive Justice,1
+California Insurance Commissioner Ricardo Lara,1
+California Brady United Against Gun Violence,1
+California Attorney General Becerra,1
+California Association of Life Safety and Fire,1
+California Rural Legal Assistance Foundation,1
+Board,1
+"American Civil Liberties Union, ""In",1
+"American Civil Liberties Union, ""SB 888 is",1
+Air Resources Board,1
 Absolute Post,1
 Absolute Health Care,1
 Absolute Board Company,1
-According to Los Angeles County,1
-According to Live Nation,1
-"According to Legal Services for Prisoners with Children, ""AB",1
-According to Latino Coalition for a Healthy California,1
-According to Last Prisoner Project,1
-According to Insurance Commissioner Ricardo Lara,1
-According to Homeboy Industries,1
-According to HomeServe USA,1
-According to Giffords,1
-According to Environmental Defense,1
-According to Environment California,1
-According to End Violence Against Women International,1
-According to Empower Family California,1
+Los Angeles County,1
+"Legal Services for Prisoners with Children, ""AB",1
+Latino Coalition for a Healthy California,1
+Insurance Commissioner Ricardo Lara,1
+HomeServe USA,1
+Environment California,1
 AV Votes Members,1
 AV Kidney Institute,1
 AXE Restaurant,1
 AUTHOR: Alquist,1
 Acacia Center for Justice,1
-"According to MALDEF, ""The Supreme Court held that the Supremacy Clause",1
-According to MTS,1
-According to Coltura,1
+"MALDEF, ""The Supreme Court held that the Supremacy Clause",1
 AVANCE Human,1
 AVRP,1
-According to Consumer Watchdog,1
 "AVREP (Fresno, CA)",1
 "AVISA HOME CARE, INC",1
 AVID - Delta Sierra Region VI,1
@@ -166537,16 +166435,12 @@ AVID (Advancement Via Individual Determination),1
 "AVCON Advanced Controls Tech.,Inc",1
 AUTHOR: Vasconcellos,1
 AVANCE,1
-According to Monterey County,1
 AV-East Kern Second Chance,1
 AVR Van Rental,1
-"According to Councilmember Greg Smith, ""Los Angeles Mayor Antonio",1
-According to Electronic Frontier Foundation,1
-According to Ella Baker Center for Human Rights,1
-According to CAMEO,1
-According to Brady United Against Gun Violence - California,1
-According to Californians for Consumer Privacy,1
-According to Co-Part,1
+"Councilmember Greg Smith, ""Los Angeles Mayor Antonio",1
+Electronic Frontier Foundation,1
+Brady United Against Gun Violence - California,1
+Co-Part,1
 Absher Land and Livestock Company,1
 ASU,1
 "Aaron Peskin, President, San Francisco Board of Supervisors",1
@@ -166640,8 +166534,7 @@ Abundant Life Assemblies,1
 AGC Chemicals America,1
 ASCRIBE,1
 "ASHA Environmental, Inc",1
-According to Consumer Reports,1
-According to Common Sense Kids Action,1
+Common Sense Kids Action,1
 Abused by Priest (SNAP),1
 Abyssinian Cat Club,1
 Abatement Jt. Powers Auth,1
@@ -177598,7 +177491,6 @@ Erma Padgett,1
 Estate Planning and Probate Section of the State Bar,1
 Erlinda Anne Estrada,1
 "Estate Planning, Trust and Probate Law Section of the California State",1
-Escrow Institute of,1
 "Estate Planning, Trust and Probate Law Section of the California",1
 "Estate Planning, Trust & Probate Law Section of the",1
 "Estate Planning, Probate and Trust Section of the Santa Clara County Bar Association",1
@@ -179998,7 +179890,6 @@ Indivisible East Contra Costa County,1
 In a Heartbeat,1
 ImMODO Energy,1
 Immigration Law Offices of Mahoney & Tomlinson,1
-Immigrant Legal Resources Center,1
 Immigrant Reform,1
 Immigrant Resource Center,1
 Immigration Section of the Ventura County Bar Association,1
@@ -193206,7 +193097,6 @@ Congressman Juan Vargas,1
 Congress of Obstetricians and Gynecologists - District IX,1
 Consulate General of the Republic of Hungary in Los Angeles,1
 Consulate General of the Republic of Cyprus,1
-Consulate General of the Republic of,1
 Consulate General of the Philippines in San Francisco,1
 Consulate General of Ukraine Sergiy Aloshyn (San Francisco),1
 "Consulate General of Pakistan, Los Angeles",1
@@ -196631,7 +196521,7 @@ The Construction Employers' Association (CEA),1
 (prior to author's amendments) California,1
 (prior to author's amendments) Privacy Rights,1
 YourVoterGuide,1
-"(submitted on earlier version) Ellen R. Peck, Esq",1
+"Ellen R. Peck, Esq",1
 (to previous version) Association of,1
 (to previous version) County Recorders,1
 (to prior version) California Attorneys for Criminal Justice,1

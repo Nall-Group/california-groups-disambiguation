@@ -123,6 +123,15 @@ Patterns include:
 - ("In Concept")
 - (Principal Co-Sponsor), (Co-Sponsors)
 
+## Cleaning Pipeline
+
+To apply cleaning patterns from `cleaning_patterns.txt` to the org name CSVs:
+
+1. **Apply cleaning patterns**: Write a script that imports `load_cleaning_patterns()` and `clean_org_name()` from `org_matching_utils.py`, applies them to each `org_name` in the CSV files under `org_name_subsets_for_cleaning/`, and merges any resulting duplicate rows by summing their counts.
+2. **Deduplicate spacing/punctuation variants**: Run `python3 merge_spacing_punctuation_duplicates.py` to merge entries that differ only in spacing or punctuation.
+
+Both steps should be re-run whenever `cleaning_patterns.txt` is updated.
+
 ## Invalid Organization Names
 
 `org_names_invalid.csv` contains placeholder values and metadata fragments that are not actual organization names. These include:
