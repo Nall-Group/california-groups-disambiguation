@@ -142696,15 +142696,203 @@
       "children": [
         {
           "name": "CALIFORNIA YIMBY",
-          "relationship": "chapter"
+          "relationship": "chapter",
+          "children": [
+            {
+              "name": "CA YIMBY",
+              "relationship": "alternate_spelling"
+            },
+            {
+              "name": "CALIFORNIAYIMBY",
+              "relationship": "alternate_spelling"
+            }
+          ]
         },
         {
           "name": "YIMBY ACTION",
-          "relationship": "chapter"
+          "relationship": "chapter",
+          "children": [
+            {
+              "name": "YIMBYACTION",
+              "relationship": "alternate_spelling"
+            },
+            {
+              "name": "EAST BAY YIMBY",
+              "relationship": "chapter"
+            },
+            {
+              "name": "GLENDALE YIMBY",
+              "relationship": "chapter"
+            },
+            {
+              "name": "HOLLYWOOD YIMBY",
+              "relationship": "chapter"
+            },
+            {
+              "name": "LAGUNA WOODS VILLAGE YIMBY",
+              "relationship": "chapter"
+            },
+            {
+              "name": "LONG BEACH YIMBY",
+              "relationship": "chapter"
+            },
+            {
+              "name": "MONTEREY PENINSULA YIMBY",
+              "relationship": "chapter"
+            },
+            {
+              "name": "MOUNTAIN VIEW YIMBY",
+              "relationship": "chapter"
+            },
+            {
+              "name": "NORTH COUNTY YIMBY",
+              "relationship": "chapter"
+            },
+            {
+              "name": "ORANGE COUNTY YIMBY",
+              "relationship": "chapter",
+              "children": [
+                {
+                  "name": "PEOPLE FOR HOUSING - ORANGE COUNTY YIMBY",
+                  "relationship": "alternate_spelling"
+                }
+              ]
+            },
+            {
+              "name": "REDLANDS YIMBY",
+              "relationship": "chapter"
+            },
+            {
+              "name": "SAN FERNANDO VALLEY YIMBY",
+              "relationship": "chapter"
+            },
+            {
+              "name": "SAN FRANCISCO YIMBY",
+              "relationship": "chapter",
+              "children": [
+                {
+                  "name": "SF YIMBY",
+                  "relationship": "alternate_spelling"
+                },
+                {
+                  "name": "SAN FRANCISCO YIMBY PARTY",
+                  "relationship": "previously_known_as",
+                  "children": [
+                    {
+                      "name": "SAN FRANCISCO YES-IN-MY-BACK-YARD PARTY",
+                      "relationship": "alternate_spelling"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "SAN LUIS OBISPO YIMBY",
+              "relationship": "chapter",
+              "children": [
+                {
+                  "name": "SLO COUNTY YIMBY",
+                  "relationship": "alternate_spelling"
+                },
+                {
+                  "name": "YIMBY SLO",
+                  "relationship": "alternate_spelling"
+                },
+                {
+                  "name": "SLOCO YIMBY",
+                  "relationship": "alternate_spelling"
+                },
+                {
+                  "name": "SLO YIMBY",
+                  "relationship": "alternate_spelling"
+                },
+                {
+                  "name": "SLO CO YIMBY",
+                  "relationship": "alternate_spelling"
+                },
+                {
+                  "name": "SAN LUIS OBISPO COUNTY YIMBY",
+                  "relationship": "alternate_spelling"
+                },
+                {
+                  "name": "YIMBY SAN LUIS OBISPO",
+                  "relationship": "alternate_spelling"
+                }
+              ]
+            },
+            {
+              "name": "SANTA CRUZ YIMBY",
+              "relationship": "chapter"
+            },
+            {
+              "name": "SANTA ROSA YIMBY",
+              "relationship": "chapter"
+            },
+            {
+              "name": "SOUTH BAY YIMBY",
+              "relationship": "chapter"
+            },
+            {
+              "name": "SOUTHSIDE YIMBY",
+              "relationship": "chapter",
+              "children": [
+                {
+                  "name": "SOUTHSIDE FORWARD YIMBY",
+                  "relationship": "chapter",
+                  "children": [
+                    {
+                      "name": "SOUTHSIDE YIMBY FORWARD",
+                      "relationship": "alternate_spelling"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "VENTURA COUNTY YIMBY",
+              "relationship": "chapter"
+            },
+            {
+              "name": "YIMBY INLAND EMPIRE",
+              "relationship": "chapter"
+            },
+            {
+              "name": "YIMBY OCEANSIDE",
+              "relationship": "chapter"
+            },
+            {
+              "name": "YIMBY LOS ANGELES",
+              "relationship": "chapter",
+              "children": [
+                {
+                  "name": "YIMBYLA",
+                  "relationship": "alternate_spelling"
+                },
+                {
+                  "name": "YIMBY LA",
+                  "relationship": "alternate_spelling"
+                }
+              ]
+            },
+            {
+              "name": "YOLO YIMBY",
+              "relationship": "chapter"
+            }
+          ]
         },
         {
           "name": "YIMBY DEMOCRATS",
-          "relationship": "chapter"
+          "relationship": "chapter",
+          "children": [
+            {
+              "name": "YIMBY DEMOCRATS OF SAN DIEGO COUNTY",
+              "relationship": "chapter"
+            },
+            {
+              "name": "YIMBY DEMOCRATS SAN DIEGO",
+              "relationship": "alternate_spelling"
+            }
+          ]
         },
         {
           "name": "YIMBY LAW",
@@ -142716,188 +142904,6 @@
         },
         {
           "name": "YIMBY VOICE",
-          "relationship": "chapter"
-        },
-        {
-          "name": "CA YIMBY",
-          "relationship": "alternate_spelling"
-        },
-        {
-          "name": "CALIFORNIAYIMBY",
-          "relationship": "alternate_spelling"
-        }
-      ]
-    },
-    {
-      "canonical": "YIMBY ACTION",
-      "status": "active",
-      "children": [
-        {
-          "name": "EAST BAY YIMBY",
-          "relationship": "chapter"
-        },
-        {
-          "name": "GLENDALE YIMBY",
-          "relationship": "chapter"
-        },
-        {
-          "name": "HOLLYWOOD YIMBY",
-          "relationship": "chapter"
-        },
-        {
-          "name": "LAGUNA WOODS VILLAGE YIMBY",
-          "relationship": "chapter"
-        },
-        {
-          "name": "LONG BEACH YIMBY",
-          "relationship": "chapter"
-        },
-        {
-          "name": "MONTEREY PENINSULA YIMBY",
-          "relationship": "chapter"
-        },
-        {
-          "name": "MOUNTAIN VIEW YIMBY",
-          "relationship": "chapter"
-        },
-        {
-          "name": "NORTH COUNTY YIMBY",
-          "relationship": "chapter"
-        },
-        {
-          "name": "ORANGE COUNTY YIMBY",
-          "relationship": "chapter"
-        },
-        {
-          "name": "REDLANDS YIMBY",
-          "relationship": "chapter"
-        },
-        {
-          "name": "SAN FERNANDO VALLEY YIMBY",
-          "relationship": "chapter"
-        },
-        {
-          "name": "SAN FRANCISCO YIMBY",
-          "relationship": "chapter"
-        },
-        {
-          "name": "SAN LUIS OBISPO YIMBY",
-          "relationship": "chapter"
-        },
-        {
-          "name": "SANTA CRUZ YIMBY",
-          "relationship": "chapter"
-        },
-        {
-          "name": "SANTA ROSA YIMBY",
-          "relationship": "chapter"
-        },
-        {
-          "name": "SOUTH BAY YIMBY",
-          "relationship": "chapter"
-        },
-        {
-          "name": "SOUTHSIDE YIMBY",
-          "relationship": "chapter"
-        },
-        {
-          "name": "VENTURA COUNTY YIMBY",
-          "relationship": "chapter"
-        },
-        {
-          "name": "YIMBY INLAND EMPIRE",
-          "relationship": "chapter"
-        },
-        {
-          "name": "YIMBY OCEANSIDE",
-          "relationship": "chapter"
-        },
-        {
-          "name": "YIMBYLA",
-          "relationship": "chapter"
-        },
-        {
-          "name": "YOLO YIMBY",
-          "relationship": "chapter"
-        },
-        {
-          "name": "SF YIMBY",
-          "relationship": "alternate_spelling"
-        },
-        {
-          "name": "SAN FRANCISCO YES-IN-MY-BACK-YARD PARTY",
-          "relationship": "alternate_spelling"
-        },
-        {
-          "name": "SAN FRANCISCO YIMBY PARTY",
-          "relationship": "alternate_spelling"
-        },
-        {
-          "name": "SLO COUNTY YIMBY",
-          "relationship": "alternate_spelling"
-        },
-        {
-          "name": "YIMBY SLO",
-          "relationship": "alternate_spelling"
-        },
-        {
-          "name": "YIMBYACTION",
-          "relationship": "alternate_spelling"
-        },
-        {
-          "name": "YIMBY LA",
-          "relationship": "alternate_spelling"
-        },
-        {
-          "name": "YIMBY LOS ANGELES",
-          "relationship": "alternate_spelling"
-        },
-        {
-          "name": "SLOCO YIMBY",
-          "relationship": "alternate_spelling"
-        },
-        {
-          "name": "SLO YIMBY",
-          "relationship": "alternate_spelling"
-        },
-        {
-          "name": "SLO CO YIMBY",
-          "relationship": "alternate_spelling"
-        },
-        {
-          "name": "SAN LUIS OBISPO COUNTY YIMBY",
-          "relationship": "alternate_spelling"
-        },
-        {
-          "name": "YIMBY SAN LUIS OBISPO",
-          "relationship": "alternate_spelling"
-        },
-        {
-          "name": "PEOPLE FOR HOUSING - ORANGE COUNTY YIMBY",
-          "relationship": "alternate_spelling"
-        }
-      ]
-    },
-    {
-      "canonical": "YIMBY DEMOCRATS",
-      "status": "active",
-      "children": [
-        {
-          "name": "YIMBY DEMOCRATS OF SAN DIEGO COUNTY",
-          "relationship": "chapter"
-        },
-        {
-          "name": "YIMBY DEMOCRATS SAN DIEGO",
-          "relationship": "alternate_spelling"
-        }
-      ]
-    },
-    {
-      "canonical": "SAN FRANCISCO YIMBY",
-      "status": "active",
-      "children": [
-        {
-          "name": "SOUTHSIDE YIMBY FORWARD",
           "relationship": "chapter"
         }
       ]
