@@ -102,6 +102,8 @@ Also add Sheriff and Police organizations that are not in the crosswalk, to the 
 
 28. Consolidate PEACE OFFICER STANDARDS AND TRAINING, Peace Officers' Association, PEACE OFFICER'S RESEARCH ASSOCIATION OF CALIFORNIA, CALFIORNIA CORRECTIONAL PEACE OFFICERS ASSOCIATION
 
+29. Consolidate all the climate orgs under "350" in crosswalk
+
 XX. Move things that are obviously not organization names (like sponsor or SB) to invalid organization names list 
 
 

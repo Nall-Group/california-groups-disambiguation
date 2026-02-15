@@ -142,29 +142,452 @@
       ]
     },
     {
-      "canonical": "350 BAY AREA ACTION",
+      "canonical": "350",
       "status": "active",
-      "children": []
-    },
-    {
-      "canonical": "350 SACRAMENTO",
-      "status": "active",
-      "children": []
-    },
-    {
-      "canonical": "350 SANTA BARBARA",
-      "status": "active",
-      "children": []
-    },
-    {
-      "canonical": "350 SILICON VALLEY",
-      "status": "active",
-      "children": []
-    },
-    {
-      "canonical": "350: BAY AREA ACTION, CONEJO SAN FERNANDO VALLEY, AND SOCAL",
-      "status": "active",
-      "children": []
+      "children": [
+        {
+          "name": "350.ORG",
+          "relationship": "alternate_spelling"
+        },
+        {
+          "name": "350 ACTION",
+          "relationship": "chapter",
+          "children": [
+            {
+              "name": "350 BAY AREA ACTION",
+              "relationship": "chapter"
+            },
+            {
+              "name": "SOCAL 350 CLIMATE ACTION",
+              "relationship": "chapter",
+              "children": [
+                {
+                  "name": "SO CAL 350 CLIMATE ACTION",
+                  "relationship": "alternate_spelling"
+                },
+                {
+                  "name": "SOCAL350 CLIMATE ACTION",
+                  "relationship": "alternate_spelling"
+                },
+                {
+                  "name": "350 SOCAL CLIMATE ACTION",
+                  "relationship": "alternate_spelling"
+                },
+                {
+                  "name": "SOCAL 350 ACTION",
+                  "relationship": "alternate_spelling"
+                }
+              ]
+            },
+            {
+              "name": "SAN DIEGO 350 CLIMATE ACTION",
+              "relationship": "chapter",
+              "children": [
+                {
+                  "name": "SAN DIEGO 350 CLIMATE CHANGE ACTION",
+                  "relationship": "alternate_spelling"
+                },
+                {
+                  "name": "350 SAN DIEGO ACTION",
+                  "relationship": "alternate_spelling"
+                }
+              ]
+            },
+            {
+              "name": "350 HUMBOLDT ACTION",
+              "relationship": "chapter",
+              "children": [
+                {
+                  "name": "350 HUMBOLDT GRASS ROOTS CLIMATE ACTION",
+                  "relationship": "alternate_spelling"
+                },
+                {
+                  "name": "350 HUMBOLDT GRASSROOTS CLIMATE ACTION",
+                  "relationship": "alternate_spelling"
+                },
+                {
+                  "name": "350 HUMBOLDT: GRASS ROOTS CLIMATE ACTION",
+                  "relationship": "alternate_spelling"
+                }
+              ]
+            },
+            {
+              "name": "350 CONTRA COSTA ACTION",
+              "relationship": "chapter",
+              "children": [
+                {
+                  "name": "350 CONTRA COSTA ACTION (350 CCA)",
+                  "relationship": "alternate_spelling"
+                }
+              ]
+            },
+            {
+              "name": "350 MARIN ACTION",
+              "relationship": "chapter"
+            },
+            {
+              "name": "SOUTH BAY 350 CLIMATE ACTION GROUP",
+              "relationship": "chapter"
+            }
+          ]
+        },
+        {
+          "name": "350 CONEJO SAN FERNANDO VALLEY",
+          "relationship": "chapter",
+          "children": [
+            {
+              "name": "350 CONEJO/SAN FERNANDO VALLEY",
+              "relationship": "alternate_spelling"
+            },
+            {
+              "name": "350 CONEJO",
+              "relationship": "alternate_spelling"
+            },
+            {
+              "name": "CONEJO 350 SAN FERNANDO VALLEY",
+              "relationship": "alternate_spelling"
+            },
+            {
+              "name": "350 CONEJO/SAN FERNANDO BALLEY",
+              "relationship": "alternate_spelling"
+            },
+            {
+              "name": "350 CANEJO-SAN FERNANDO VALLEY",
+              "relationship": "alternate_spelling"
+            },
+            {
+              "name": "SOCAL350 SAN FERNANDO VALLEY HUB",
+              "relationship": "alternate_spelling"
+            },
+            {
+              "name": "350 CONEJO / SAN FERNANDO VALLEY",
+              "relationship": "alternate_spelling"
+            },
+            {
+              "name": "350 SAN FERNANDO VALLEY",
+              "relationship": "alternate_spelling"
+            }
+          ]
+        },
+        {
+          "name": "350 SACRAMENTO",
+          "relationship": "chapter",
+          "children": [
+            {
+              "name": "350 SACRAMENTO LEGISLATIVE TEAM",
+              "relationship": "chapter",
+              "children": [
+                {
+                  "name": "350 SACRAMENTO LEGISLATION TEAM",
+                  "relationship": "alternate_spelling"
+                }
+              ]
+            },
+            {
+              "name": "350 SACRAMENTO TRANSPORTATION TEAM",
+              "relationship": "chapter",
+              "children": [
+                {
+                  "name": "350 SACRAMENTO'S TRANSPORTATION TEAM",
+                  "relationship": "alternate_spelling"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "350 SANTA BARBARA",
+          "relationship": "chapter"
+        },
+        {
+          "name": "350 SILICON VALLEY",
+          "relationship": "chapter"
+        },
+        {
+          "name": "350 SOCAL",
+          "relationship": "chapter",
+          "children": [
+            {
+              "name": "SOCAL 350",
+              "relationship": "alternate_spelling"
+            },
+            {
+              "name": "SO CAL 350",
+              "relationship": "alternate_spelling"
+            }
+          ]
+        },
+        {
+          "name": "SAN DIEGO 350",
+          "relationship": "chapter",
+          "children": [
+            {
+              "name": "SANDIEGO350",
+              "relationship": "alternate_spelling"
+            },
+            {
+              "name": "SAN DIEGO350",
+              "relationship": "alternate_spelling"
+            },
+            {
+              "name": "SANDIEGO 350",
+              "relationship": "alternate_spelling"
+            },
+            {
+              "name": "350 SAN DIEGO",
+              "relationship": "alternate_spelling"
+            },
+            {
+              "name": "SD350.ORG",
+              "relationship": "alternate_spelling"
+            },
+            {
+              "name": "SAN DIEGO 350.ORG",
+              "relationship": "alternate_spelling"
+            },
+            {
+              "name": "SANDIEGO350.ORG",
+              "relationship": "alternate_spelling"
+            }
+          ]
+        },
+        {
+          "name": "350 PALO ALTO",
+          "relationship": "chapter",
+          "children": [
+            {
+              "name": "350 PALO ALTO CLIMATE TEAM",
+              "relationship": "chapter",
+              "children": [
+                {
+                  "name": "350SV PALO ALTO CLIMATE TEAM",
+                  "relationship": "alternate_spelling"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "350 BAY AREA",
+          "relationship": "chapter",
+          "children": [
+            {
+              "name": "350 BAY AREA GROUP",
+              "relationship": "alternate_spelling"
+            },
+            {
+              "name": "350 BAYAREA",
+              "relationship": "alternate_spelling"
+            },
+            {
+              "name": "350 BAY AREA/MARIN",
+              "relationship": "alternate_spelling"
+            },
+            {
+              "name": "350 BAY AREA LEGISLATIVE BILL REVIEW COMMITTEE",
+              "relationship": "alternate_spelling"
+            }
+          ]
+        },
+        {
+          "name": "350 HUMBOLDT",
+          "relationship": "chapter",
+          "children": [
+            {
+              "name": "350 HUMBOLDT COUNTY",
+              "relationship": "alternate_spelling"
+            },
+            {
+              "name": "350 HUMBOLT",
+              "relationship": "alternate_spelling"
+            },
+            {
+              "name": "350 HUMBOLDT STEERING COMMITTEE",
+              "relationship": "alternate_spelling"
+            }
+          ]
+        },
+        {
+          "name": "350 VENTURA COUNTY CLIMATE HUB",
+          "relationship": "chapter",
+          "children": [
+            {
+              "name": "350 VENTURE COUNTY CLIMATE HUB",
+              "relationship": "alternate_spelling"
+            },
+            {
+              "name": "350 VENTURA",
+              "relationship": "alternate_spelling"
+            },
+            {
+              "name": "350 VENTURA COUNTY",
+              "relationship": "alternate_spelling"
+            }
+          ]
+        },
+        {
+          "name": "350 SOUTH BAY LOS ANGELES",
+          "relationship": "chapter",
+          "children": [
+            {
+              "name": "350 SOUTH BAY LA",
+              "relationship": "alternate_spelling"
+            },
+            {
+              "name": "SOUTH BAY 350 LOS ANGELES",
+              "relationship": "alternate_spelling"
+            },
+            {
+              "name": "SOUTH BAY LOS ANGELES 350",
+              "relationship": "alternate_spelling"
+            },
+            {
+              "name": "350 SOUTH BAY",
+              "relationship": "alternate_spelling"
+            },
+            {
+              "name": "350 SOUTH BAY LOS",
+              "relationship": "alternate_spelling"
+            }
+          ]
+        },
+        {
+          "name": "350 SOUTHLAND LEGISLATIVE ALLIANCE",
+          "relationship": "chapter",
+          "children": [
+            {
+              "name": "350 SOUTHLAND LEGISLATIVE COMMITTEE",
+              "relationship": "alternate_spelling"
+            },
+            {
+              "name": "350 SOUTHLAND",
+              "relationship": "alternate_spelling"
+            }
+          ]
+        },
+        {
+          "name": "350 RIVERSIDE",
+          "relationship": "chapter"
+        },
+        {
+          "name": "350 BUTTE COUNTY",
+          "relationship": "chapter",
+          "children": [
+            {
+              "name": "CHICO 350/NEW 350 BUTTE COUNTY",
+              "relationship": "alternate_spelling"
+            }
+          ]
+        },
+        {
+          "name": "350 CHICO",
+          "relationship": "chapter",
+          "children": [
+            {
+              "name": "CHICO 350",
+              "relationship": "alternate_spelling"
+            }
+          ]
+        },
+        {
+          "name": "350 MARIN",
+          "relationship": "chapter",
+          "children": [
+            {
+              "name": "350MARIN.ORG",
+              "relationship": "alternate_spelling"
+            }
+          ]
+        },
+        {
+          "name": "LONG BEACH 350",
+          "relationship": "chapter",
+          "children": [
+            {
+              "name": "350 LONG BEACH",
+              "relationship": "alternate_spelling"
+            }
+          ]
+        },
+        {
+          "name": "350 CONTRA COSTA",
+          "relationship": "chapter",
+          "children": [
+            {
+              "name": "350 CONTRA COSTA COUNTY",
+              "relationship": "alternate_spelling"
+            }
+          ]
+        },
+        {
+          "name": "350 PETALUMA",
+          "relationship": "chapter"
+        },
+        {
+          "name": "350 SONOMA",
+          "relationship": "chapter",
+          "children": [
+            {
+              "name": "350 SONOMA COUNTY",
+              "relationship": "alternate_spelling"
+            },
+            {
+              "name": "350.ORG SONOMA COUNTY",
+              "relationship": "alternate_spelling"
+            }
+          ]
+        },
+        {
+          "name": "350 EAST BAY",
+          "relationship": "chapter",
+          "children": [
+            {
+              "name": "350 EAST BAY, LEGISLATIVE COMMITTEE",
+              "relationship": "alternate_spelling"
+            }
+          ]
+        },
+        {
+          "name": "350 SAN FRANCISCO",
+          "relationship": "chapter"
+        },
+        {
+          "name": "350 SANTA CRUZ",
+          "relationship": "chapter"
+        },
+        {
+          "name": "350 INYO",
+          "relationship": "chapter"
+        },
+        {
+          "name": "SAN LUIS OBISPO 350",
+          "relationship": "chapter"
+        },
+        {
+          "name": "350 JUNEAU",
+          "relationship": "chapter"
+        },
+        {
+          "name": "350 HAWAII",
+          "relationship": "chapter"
+        },
+        {
+          "name": "350 NEW ORLEANS",
+          "relationship": "chapter"
+        },
+        {
+          "name": "350 SEATTLE",
+          "relationship": "chapter"
+        },
+        {
+          "name": "350 PDX (PORTLAND, OR)",
+          "relationship": "chapter"
+        },
+        {
+          "name": "CLIMATE ACTION RHODE ISLAND-350",
+          "relationship": "chapter"
+        }
+      ]
     },
     {
       "canonical": "3Core",
@@ -116180,11 +116603,6 @@
       ]
     },
     {
-      "canonical": "SAN DIEGO 350",
-      "status": "active",
-      "children": []
-    },
-    {
       "canonical": "SAN DIEGO AND IMPERIAL COUNTIES COMMUNITY COLLEGES ASSOCIATION",
       "status": "active",
       "children": [
@@ -118194,11 +118612,6 @@
     },
     {
       "canonical": "SANDALWOOD ESTATES MOBILE HOME PARK HOMEOWNERS' ASSOCIATION, PETALUMA",
-      "status": "active",
-      "children": []
-    },
-    {
-      "canonical": "SANDIEGO350",
       "status": "active",
       "children": []
     },
@@ -123711,11 +124124,6 @@
           "relationship": "alternate_spelling"
         }
       ]
-    },
-    {
-      "canonical": "SOCAL 350 CLIMATE ACTION",
-      "status": "active",
-      "children": []
     },
     {
       "canonical": "SOCAL CAN",
