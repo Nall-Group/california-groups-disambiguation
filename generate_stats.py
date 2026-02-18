@@ -15,10 +15,16 @@ def generate_stats():
         data = json.load(f)
         stats['canonical_orgs'] = len(data['clusters'])
 
-        # Total names in crosswalk (canonicals + children)
+        # Total names in crosswalk (canonicals + all nested children)
+        def count_children(children):
+            n = len(children)
+            for child in children:
+                n += count_children(child.get('children', []))
+            return n
+
         total = len(data['clusters'])
         for cluster in data['clusters']:
-            total += len(cluster.get('children', []))
+            total += count_children(cluster.get('children', []))
         stats['total_in_crosswalk'] = total
 
     # 2. Org names not in crosswalk
@@ -34,7 +40,8 @@ def generate_stats():
         'org_names_that_are_dates_or_phone_numbers.csv',
         'org_names_that_start_with_parens.csv',
         'org_names_partial.csv',
-        'org_names_that_are_actually_individuals.csv'
+        'org_names_that_are_actually_individuals.csv',
+        'org_names_conjoined.csv'
     ]
 
     invalid_count = 0
