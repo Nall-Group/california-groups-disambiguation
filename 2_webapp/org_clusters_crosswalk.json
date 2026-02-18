@@ -1624,6 +1624,14 @@
         {
           "name": "ACLU-California Action",
           "relationship": "alternate_spelling"
+        },
+        {
+          "name": "AMERICAN CIVIL LIBERTIES UNION OF CALIFORNIA",
+          "relationship": "alternate_spelling"
+        },
+        {
+          "name": "American Civil Liberties Union of California",
+          "relationship": "alternate_spelling"
         }
       ]
     },
@@ -6156,20 +6164,6 @@
       "children": [
         {
           "name": "THE AMERICAN CIVIL LIBERTIES COALITION",
-          "relationship": "alternate_spelling"
-        }
-      ]
-    },
-    {
-      "canonical": "AMERICAN CIVIL LIBERTIES UNION OF CALIFORNIA",
-      "status": "active",
-      "children": [
-        {
-          "name": "THE AMERICAN CIVIL LIBERTIES UNION OF CALIFORNIA",
-          "relationship": "alternate_spelling"
-        },
-        {
-          "name": "American Civil Liberties Union of California",
           "relationship": "alternate_spelling"
         }
       ]
@@ -19131,10 +19125,6 @@
         {
           "name": "California Building Industry Association (LA Co. Public Works)",
           "relationship": "chapter"
-        },
-        {
-          "name": "California Building Industry Association",
-          "relationship": "chapter"
         }
       ]
     },
@@ -20787,10 +20777,6 @@
         },
         {
           "name": "California (AKAMAC)",
-          "relationship": "chapter"
-        },
-        {
-          "name": "California",
           "relationship": "chapter"
         },
         {
@@ -24073,10 +24059,6 @@
         {
           "name": "THE CALIFORNIA ASSOCIATION OF REALTORS (C.A.R.)",
           "relationship": "alternate_spelling"
-        },
-        {
-          "name": "California Association of Realtors",
-          "relationship": "chapter"
         }
       ]
     },
@@ -34358,10 +34340,6 @@
             {
               "name": "Ucan Chambers of Commerce",
               "relationship": "alternate_spelling"
-            },
-            {
-              "name": "United Chamber Advocacy Network - UCAN",
-              "relationship": "alternate_spelling"
             }
           ]
         },
@@ -35770,6 +35748,26 @@
         },
         {
           "name": "California Farm Bureau Federation, California",
+          "relationship": "chapter"
+        },
+        {
+          "name": "Farm Bureau Federation",
+          "relationship": "alternate_spelling"
+        },
+        {
+          "name": "Farm Bureau Federation of California",
+          "relationship": "chapter"
+        },
+        {
+          "name": "California Farm Bureau Federation (\"In Concept\")",
+          "relationship": "chapter"
+        },
+        {
+          "name": "California Farm Bureau Federation",
+          "relationship": "chapter"
+        },
+        {
+          "name": "California Farm Bureau Federation (Farm Bureau)",
           "relationship": "chapter"
         }
       ]
@@ -41761,6 +41759,30 @@
         {
           "name": "California State Association of Electrical Workers,",
           "relationship": "alternate_spelling"
+        },
+        {
+          "name": "STATE ASSOCIATION OF ELECTRICAL WORKERS",
+          "relationship": "alternate_spelling"
+        },
+        {
+          "name": "THE STATE ASSOCIATION OF ELECTRICAL WORKERS",
+          "relationship": "alternate_spelling"
+        },
+        {
+          "name": "California State Association of Electrical Workers (IBEW)",
+          "relationship": "chapter"
+        },
+        {
+          "name": "California State Association Of Electrical Workers(IBEW)",
+          "relationship": "chapter"
+        },
+        {
+          "name": "California State Association of Electrical Workers",
+          "relationship": "chapter"
+        },
+        {
+          "name": "California State Association of Electrical Workers/IBEW Local 11",
+          "relationship": "chapter"
         }
       ]
     },
@@ -43787,10 +43809,6 @@
         {
           "name": "THE CALIFORNIA-NEVADA CONFERENCE OF OPERATING ENGINEERS",
           "relationship": "alternate_spelling"
-        },
-        {
-          "name": "California-Nevada Conference of Operating Engineers",
-          "relationship": "chapter"
         },
         {
           "name": "California-Nevada Conference of Operating Engineers (Co-Source)",
@@ -63510,10 +63528,6 @@
           "relationship": "alternate_spelling"
         },
         {
-          "name": "California Department of Veterans Affairs",
-          "relationship": "chapter"
-        },
-        {
           "name": "Department of Veterans' Affairs",
           "relationship": "alternate_spelling"
         }
@@ -71178,28 +71192,6 @@
         {
           "name": "FARM ANIMAL REFORM MOVEMENT (FARM)",
           "relationship": "alternate_spelling"
-        }
-      ]
-    },
-    {
-      "canonical": "Farm Bureau Federation",
-      "status": "active",
-      "children": [
-        {
-          "name": "Farm Bureau Federation of California",
-          "relationship": "chapter"
-        },
-        {
-          "name": "California Farm Bureau Federation (\"In Concept\")",
-          "relationship": "chapter"
-        },
-        {
-          "name": "California Farm Bureau Federation",
-          "relationship": "chapter"
-        },
-        {
-          "name": "California Farm Bureau Federation (Farm Bureau)",
-          "relationship": "chapter"
         }
       ]
     },
@@ -132806,32 +132798,6 @@
       ]
     },
     {
-      "canonical": "STATE ASSOCIATION OF ELECTRICAL WORKERS",
-      "status": "active",
-      "children": [
-        {
-          "name": "THE STATE ASSOCIATION OF ELECTRICAL WORKERS",
-          "relationship": "alternate_spelling"
-        },
-        {
-          "name": "California State Association of Electrical Workers (IBEW)",
-          "relationship": "chapter"
-        },
-        {
-          "name": "California State Association Of Electrical Workers(IBEW)",
-          "relationship": "chapter"
-        },
-        {
-          "name": "California State Association of Electrical Workers",
-          "relationship": "chapter"
-        },
-        {
-          "name": "California State Association of Electrical Workers/IBEW Local 11",
-          "relationship": "chapter"
-        }
-      ]
-    },
-    {
       "canonical": "STATE ATHLETIC COMMISSION",
       "status": "active",
       "children": [
@@ -137069,16 +137035,6 @@
       "children": [
         {
           "name": "The Willows Foundation, Inc",
-          "relationship": "alternate_spelling"
-        }
-      ]
-    },
-    {
-      "canonical": "THE WOMEN'S FOUNDATION OF CALIFORNIA",
-      "status": "active",
-      "children": [
-        {
-          "name": "THE WOMEN'S FOUNDATION OF CALIFORNIA (WFC)",
           "relationship": "alternate_spelling"
         }
       ]
@@ -147120,6 +147076,10 @@
         {
           "name": "THE WOMEN'S FOUNDATION OF CALIFORNIA",
           "relationship": "alternate_spelling"
+        },
+        {
+          "name": "THE WOMEN'S FOUNDATION OF CALIFORNIA (WFC)",
+          "relationship": "alternate_spelling"
         }
       ]
     },
@@ -153302,6 +153262,10 @@
         },
         {
           "name": "UDWAFSCME Local 3930, Warehouse Worker Resource Center, Inland Empire",
+          "relationship": "chapter"
+        },
+        {
+          "name": "UDW/AFSCME Local 3930",
           "relationship": "chapter"
         }
       ]
@@ -162102,16 +162066,6 @@
       "children": [
         {
           "name": "County IAFF Local 1230",
-          "relationship": "chapter"
-        }
-      ]
-    },
-    {
-      "canonical": "UDW/AFSCME",
-      "status": "active",
-      "children": [
-        {
-          "name": "UDW/AFSCME Local 3930",
           "relationship": "chapter"
         }
       ]
