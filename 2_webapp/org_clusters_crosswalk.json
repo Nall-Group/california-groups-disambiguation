@@ -40863,16 +40863,6 @@
       ]
     },
     {
-      "canonical": "California State Council of Service Employees International Union",
-      "status": "active",
-      "children": [
-        {
-          "name": "California State Council of Service Employees International Union - California",
-          "relationship": "alternate_spelling"
-        }
-      ]
-    },
-    {
       "canonical": "CALIFORNIA STATE COUNCIL OF SHRM",
       "status": "active",
       "children": [
@@ -40882,336 +40872,6 @@
         },
         {
           "name": "California State Council of Shrm (CALSHRM)",
-          "relationship": "alternate_spelling"
-        }
-      ]
-    },
-    {
-      "canonical": "CALIFORNIA STATE COUNCIL OF THE SERVICE EMPLOYEES INTERNATIONAL UNION (SEIU CALIFORNIA)",
-      "status": "active",
-      "children": [
-        {
-          "name": "THE CALIFORNIA STATE COUNCIL OF THE SERVICE EMPLOYEES INTERNATIONAL UNION (SEIU CALIFORNIA)",
-          "relationship": "alternate_spelling"
-        }
-      ]
-    },
-    {
-      "canonical": "CALIFORNIA STATE COUNCIL OF THE SERVICE EMPLOYEES INTERNATIONAL UNION (SEIU)",
-      "status": "active",
-      "children": [
-        {
-          "name": "THE CALIFORNIA STATE COUNCIL OF THE SERVICE EMPLOYEES INTERNATIONAL UNION (SEIU)",
-          "relationship": "alternate_spelling"
-        }
-      ]
-    },
-    {
-      "canonical": "CALIFORNIA STATE COUNCIL, SEIU",
-      "status": "active",
-      "children": [
-        {
-          "name": "CALIFORNIA STATE COUNCIL OF SERVICE EMPLOYEES",
-          "relationship": "alternate_spelling"
-        },
-        {
-          "name": "CALIFORNIA STATE COUNCIL OF SERVICE EMPLOYEES INTERNATIONAL UNION (SEIU CALIFORNIA)",
-          "relationship": "alternate_spelling"
-        },
-        {
-          "name": "California State Council of Service Employees International Union (SEIU)",
-          "relationship": "alternate_spelling"
-        },
-        {
-          "name": "CALIFORNIA STATE COUNCIL OF THE SERVICE EMPLOYEES INTERNATIONAL UNION",
-          "relationship": "alternate_spelling"
-        },
-        {
-          "name": "SEIU - California",
-          "relationship": "alternate_spelling"
-        },
-        {
-          "name": "California State Council of Service Employees, SEIU",
-          "relationship": "alternate_spelling"
-        },
-        {
-          "name": "California State Council, Service Employees International Union (SEIU)",
-          "relationship": "chapter"
-        },
-        {
-          "name": "California Council of the Service Employees International Union (SEIU)",
-          "relationship": "chapter"
-        },
-        {
-          "name": "California Council of Service Employees International Union (SEIU)",
-          "relationship": "chapter"
-        },
-        {
-          "name": "SEIU-California",
-          "relationship": "alternate_spelling"
-        },
-        {
-          "name": "SEIU, Local 1000",
-          "relationship": "chapter"
-        },
-        {
-          "name": "SEIU Local 660",
-          "relationship": "chapter"
-        },
-        {
-          "name": "SEIU Local 1877",
-          "relationship": "chapter"
-        },
-        {
-          "name": "SEIU Local 2015",
-          "relationship": "chapter"
-        },
-        {
-          "name": "SEIU Local 721",
-          "relationship": "chapter"
-        },
-        {
-          "name": "SEIU Local 535",
-          "relationship": "chapter"
-        },
-        {
-          "name": "SEIU Local 721 - Los Angeles, Orange, Riverside, and Ventura Counties",
-          "relationship": "chapter"
-        },
-        {
-          "name": "SEIU Local 817",
-          "relationship": "chapter"
-        },
-        {
-          "name": "SEIU Local 99",
-          "relationship": "chapter"
-        },
-        {
-          "name": "SEIU Local 415",
-          "relationship": "chapter"
-        },
-        {
-          "name": "SEIU, Local 99, 247, 250, 347, 399, 415, 434B, 535, 614, 616, 620, 660, 707, 715, 790, 817, 1280, 1877",
-          "relationship": "chapter"
-        },
-        {
-          "name": "SEIU Local 715",
-          "relationship": "chapter"
-        },
-        {
-          "name": "SEIU Local 347",
-          "relationship": "chapter"
-        },
-        {
-          "name": "SEIU Local 399",
-          "relationship": "chapter"
-        },
-        {
-          "name": "SEIU Local 620",
-          "relationship": "chapter"
-        },
-        {
-          "name": "SEIU Local 6434 - United Long Term Care Workers",
-          "relationship": "chapter"
-        },
-        {
-          "name": "SEIU Local 715 Retirees Committee",
-          "relationship": "chapter"
-        },
-        {
-          "name": "SEIU Local 87",
-          "relationship": "chapter"
-        },
-        {
-          "name": "SEIU Local 535, Senior And Retired Members",
-          "relationship": "chapter"
-        },
-        {
-          "name": "SEIU Local 521",
-          "relationship": "chapter"
-        },
-        {
-          "name": "SEIU Local 250",
-          "relationship": "chapter"
-        },
-        {
-          "name": "SEIU, Local 1000, Lavender Committee",
-          "relationship": "chapter"
-        },
-        {
-          "name": "SEIU Local 790",
-          "relationship": "chapter"
-        },
-        {
-          "name": "SEIU Local 715 and Local 1877",
-          "relationship": "chapter"
-        },
-        {
-          "name": "SEIU, Local 434B and Local 250",
-          "relationship": "chapter"
-        },
-        {
-          "name": "SEIU, Local 66",
-          "relationship": "chapter"
-        },
-        {
-          "name": "SEIU Local 6434-United Long Term Care Workers",
-          "relationship": "chapter"
-        },
-        {
-          "name": "SEIU Local 1877, Northern California",
-          "relationship": "chapter"
-        },
-        {
-          "name": "SEIU Local 5000",
-          "relationship": "chapter"
-        },
-        {
-          "name": "SEIU Local 616 Service Employees International Union",
-          "relationship": "chapter"
-        },
-        {
-          "name": "SEIU Local 6434 - ULTCW",
-          "relationship": "chapter"
-        },
-        {
-          "name": "SEIU Local 721 (85,000 members)",
-          "relationship": "chapter"
-        },
-        {
-          "name": "SEIU Local 434B",
-          "relationship": "chapter"
-        },
-        {
-          "name": "SEIU, Local 434B and Local",
-          "relationship": "chapter"
-        },
-        {
-          "name": "SEIU Local 6434 -ULTCW (United Long Term Care Workers)",
-          "relationship": "chapter"
-        },
-        {
-          "name": "SEIU Local 6434-ULTCW",
-          "relationship": "chapter"
-        },
-        {
-          "name": "SEIU, Local 616",
-          "relationship": "chapter"
-        },
-        {
-          "name": "SEIU, Local 660 (Los Angeles)",
-          "relationship": "chapter"
-        },
-        {
-          "name": "SEIU Local 660, Los Angeles, CA",
-          "relationship": "chapter"
-        },
-        {
-          "name": "SEIU Local 715 Western Region Latino Caucus",
-          "relationship": "chapter"
-        },
-        {
-          "name": "SEIU Local 721 - Association of Probation Supervisors of Los Angeles County",
-          "relationship": "chapter"
-        },
-        {
-          "name": "SEIU Local 521 Retired Chapter",
-          "relationship": "chapter"
-        },
-        {
-          "name": "SEIU Local 39",
-          "relationship": "chapter"
-        },
-        {
-          "name": "SEIU Local 1997",
-          "relationship": "chapter"
-        },
-        {
-          "name": "SEIU Local 1280",
-          "relationship": "chapter"
-        },
-        {
-          "name": "SEIU Local 1021 Service Line Supervisors",
-          "relationship": "chapter"
-        },
-        {
-          "name": "SEIU Local 535 (Pasadena)",
-          "relationship": "chapter"
-        },
-        {
-          "name": "SEIU Local 6434 - United Long-Term Care Workers",
-          "relationship": "chapter"
-        },
-        {
-          "name": "SEIU Local 435B",
-          "relationship": "chapter"
-        },
-        {
-          "name": "SEIU, Local 949",
-          "relationship": "chapter"
-        },
-        {
-          "name": "SEIU Local 1000, CSEA",
-          "relationship": "chapter"
-        },
-        {
-          "name": "SEIU Local 1000 Women's Committee",
-          "relationship": "chapter"
-        },
-        {
-          "name": "Local 535 SEIU",
-          "relationship": "chapter"
-        },
-        {
-          "name": "SEIU/Local 535",
-          "relationship": "alternate_spelling"
-        },
-        {
-          "name": "S.E.I.U., Local 614",
-          "relationship": "chapter"
-        },
-        {
-          "name": "SEIU California Local 221",
-          "relationship": "chapter"
-        },
-        {
-          "name": "Service Employees International Union California",
-          "relationship": "chapter"
-        },
-        {
-          "name": "Service Employees International Union of California",
-          "relationship": "chapter"
-        },
-        {
-          "name": "SEIU of California",
-          "relationship": "chapter"
-        },
-        {
-          "name": "California Service Employees International Union",
-          "relationship": "chapter"
-        },
-        {
-          "name": "California SEIU",
-          "relationship": "chapter"
-        },
-        {
-          "name": "Service Employees International Union (SEIU) California",
-          "relationship": "chapter"
-        },
-        {
-          "name": "California State Council of Service Employees International Union (SEIU CA)",
-          "relationship": "chapter"
-        },
-        {
-          "name": "California State Council of Service Employees (SEIU CA)",
-          "relationship": "chapter"
-        },
-        {
-          "name": "Service Employees International Union Local 1000 CA State",
-          "relationship": "chapter"
-        },
-        {
-          "name": "Service Employees International Union-California",
           "relationship": "alternate_spelling"
         }
       ]
@@ -120129,20 +119789,26 @@
       ]
     },
     {
-      "canonical": "SEIU LOCAL 1021",
-      "status": "active"
-    },
-    {
-      "canonical": "SEIU LOCAL 221",
-      "status": "active"
-    },
-    {
       "canonical": "SEIU Nurse Alliance",
       "status": "active",
       "children": [
         {
           "name": "SEIU Nurse Alliance of California",
           "relationship": "chapter"
+        },
+        {
+          "name": "Service Employees International Union-Nurses Alliance of",
+          "relationship": "alternate_spelling",
+          "children": [
+            {
+              "name": "Service Employees International Union-Nurses Alliance of California",
+              "relationship": "chapter"
+            },
+            {
+              "name": "Service Employees International Union - Nurses Alliance of California",
+              "relationship": "alternate_spelling"
+            }
+          ]
         }
       ]
     },
@@ -120568,367 +120234,6 @@
         },
         {
           "name": "Service Employee International Union, Local 1000",
-          "relationship": "chapter"
-        }
-      ]
-    },
-    {
-      "canonical": "Service Employees",
-      "status": "active",
-      "children": [
-        {
-          "name": "Service Employees of CA",
-          "relationship": "chapter"
-        },
-        {
-          "name": "Service Employees of California",
-          "relationship": "chapter"
-        }
-      ]
-    },
-    {
-      "canonical": "SERVICE EMPLOYEES INTERNATIONAL",
-      "status": "active",
-      "children": [
-        {
-          "name": "THE SERVICE EMPLOYEES INTERNATIONAL",
-          "relationship": "alternate_spelling"
-        },
-        {
-          "name": "Service Employees International Local 1000",
-          "relationship": "chapter"
-        },
-        {
-          "name": "Service Employees International Local 535",
-          "relationship": "chapter"
-        },
-        {
-          "name": "Service Employees International Local 535 434B",
-          "relationship": "chapter"
-        },
-        {
-          "name": "SEI",
-          "relationship": "alternate_spelling"
-        }
-      ]
-    },
-    {
-      "canonical": "SERVICE EMPLOYEES' INTERNATIONAL UNION",
-      "status": "active",
-      "children": [
-        {
-          "name": "THE SERVICE EMPLOYEES INTERNATIONAL UNION",
-          "relationship": "alternate_spelling"
-        },
-        {
-          "name": "Service Employees International Union (SEIU)",
-          "relationship": "alternate_spelling"
-        },
-        {
-          "name": "SEIU CA",
-          "relationship": "chapter"
-        },
-        {
-          "name": "THE SERVICE EMPLOYEES INTERNATIONAL UNION (SEIU)",
-          "relationship": "alternate_spelling"
-        },
-        {
-          "name": "Service Employees International Union Local 1021",
-          "relationship": "chapter"
-        },
-        {
-          "name": "Service Employees International Union Local 535",
-          "relationship": "chapter"
-        },
-        {
-          "name": "Service Employees International Union Local 99",
-          "relationship": "chapter"
-        },
-        {
-          "name": "Service Employees International Union Local 347",
-          "relationship": "chapter"
-        },
-        {
-          "name": "Service Employees International Union Local 6434-ULTCW",
-          "relationship": "chapter"
-        },
-        {
-          "name": "Service Employees International Union Local 399",
-          "relationship": "chapter"
-        },
-        {
-          "name": "Service Employees International Union Local 250",
-          "relationship": "chapter"
-        },
-        {
-          "name": "Service Employees International Union Local 1280",
-          "relationship": "chapter"
-        },
-        {
-          "name": "Service Employees' International Union, Local 1000",
-          "relationship": "chapter"
-        },
-        {
-          "name": "Service Employees International Union Local 660 Board of",
-          "relationship": "chapter"
-        },
-        {
-          "name": "Service Employees International Union Local 790",
-          "relationship": "chapter"
-        },
-        {
-          "name": "Service Employees International Union Local 521",
-          "relationship": "chapter"
-        },
-        {
-          "name": "Service Employees International Union Local 721",
-          "relationship": "chapter"
-        },
-        {
-          "name": "Service Employees International Union Local 660, SEIU",
-          "relationship": "chapter"
-        },
-        {
-          "name": "Service Employees International Union Local 660 Continued",
-          "relationship": "chapter"
-        },
-        {
-          "name": "Service Employees International Union Local 660",
-          "relationship": "chapter"
-        },
-        {
-          "name": "Service Employees International Union Local 435B",
-          "relationship": "chapter"
-        },
-        {
-          "name": "Service Employees International Union Local 100",
-          "relationship": "chapter"
-        },
-        {
-          "name": "Service Employees International Union Local 1000 (January 4, 2006 version)",
-          "relationship": "chapter"
-        },
-        {
-          "name": "Service Employees International Union, Local 1000 (SEIU)",
-          "relationship": "chapter"
-        },
-        {
-          "name": "Service Employees International Union, Local 1877",
-          "relationship": "chapter"
-        },
-        {
-          "name": "Service Employees International Union, Local 6434 - United Long Term Care",
-          "relationship": "chapter"
-        },
-        {
-          "name": "Service Employees International Union, Local 715",
-          "relationship": "chapter"
-        },
-        {
-          "name": "Service Employees International Union, Local 1277",
-          "relationship": "chapter"
-        },
-        {
-          "name": "Service Employees International Union, Local 2028",
-          "relationship": "chapter"
-        },
-        {
-          "name": "Service Employees International Union, Local 280",
-          "relationship": "chapter"
-        },
-        {
-          "name": "Service Employees International Union, Local 1000 (SEIU 1000)",
-          "relationship": "chapter"
-        },
-        {
-          "name": "Service Employees International Union, Local 949",
-          "relationship": "chapter"
-        },
-        {
-          "name": "Service Employees International Union, Local 415",
-          "relationship": "chapter"
-        },
-        {
-          "name": "Service Employees International Union, Local 221",
-          "relationship": "chapter"
-        },
-        {
-          "name": "Service Employees International Union, Local 616",
-          "relationship": "chapter"
-        },
-        {
-          "name": "Service Employees International Union, Local 707",
-          "relationship": "chapter"
-        },
-        {
-          "name": "Service Employees International Union, Local 721 (seiu Local 721)",
-          "relationship": "chapter"
-        },
-        {
-          "name": "Service Employees International Union, Local 1000 (SEIU Local 1000)",
-          "relationship": "chapter"
-        },
-        {
-          "name": "Service Employees International Union, Local 1000 & 1877",
-          "relationship": "chapter"
-        },
-        {
-          "name": "Service Employees International Union, Local 620 (SEIU)",
-          "relationship": "chapter"
-        },
-        {
-          "name": "Service Employees International Union, Local 6434 - ULTCW (United Long Term)",
-          "relationship": "chapter"
-        },
-        {
-          "name": "Service Employees International Union, Local 660, Los Angeles",
-          "relationship": "chapter"
-        },
-        {
-          "name": "Service Employees International Union, Local 1000, CSEA",
-          "relationship": "chapter"
-        },
-        {
-          "name": "Service Employees International Union, Local 1021 & Local 1877",
-          "relationship": "chapter"
-        },
-        {
-          "name": "Service Employees International Union, Local 434-B",
-          "relationship": "chapter"
-        },
-        {
-          "name": "Service Employees International Union, Local 620",
-          "relationship": "chapter"
-        },
-        {
-          "name": "Service Employees International Union, Local 998",
-          "relationship": "chapter"
-        },
-        {
-          "name": "Service Employees International Union, Local 87",
-          "relationship": "chapter"
-        },
-        {
-          "name": "Service Employees International Union, Local 660 (Los)",
-          "relationship": "chapter"
-        },
-        {
-          "name": "Local 521 Service Employees International Union",
-          "relationship": "chapter"
-        },
-        {
-          "name": "Local 21 Service Employees International Union",
-          "relationship": "chapter"
-        },
-        {
-          "name": "Local 1165 Service Employees International Union",
-          "relationship": "chapter"
-        },
-        {
-          "name": "Service Employees International Union (SEIU) Local 1000",
-          "relationship": "chapter"
-        },
-        {
-          "name": "Service Employees International Union (SEIU), Local 707",
-          "relationship": "chapter"
-        },
-        {
-          "name": "Service Employees International Union (SEIU), Local 1021",
-          "relationship": "chapter"
-        },
-        {
-          "name": "Service Employees International Union (SEIU), Local 1021 & Local 1877",
-          "relationship": "chapter"
-        },
-        {
-          "name": "Service Employees International Union (SEIU), Local 434B",
-          "relationship": "chapter"
-        },
-        {
-          "name": "Service Employees International Union (SEIU), Local 1877",
-          "relationship": "chapter"
-        },
-        {
-          "name": "Service Employees International Union (SEIU) Local 660 (Los)",
-          "relationship": "chapter"
-        },
-        {
-          "name": "Service Employees International Union (SEIU) Local 347 (Los)",
-          "relationship": "chapter"
-        },
-        {
-          "name": "Service Employees International Union (SEIU) Local 221",
-          "relationship": "chapter"
-        },
-        {
-          "name": "Service Employees International Union (SEIU) Local 721",
-          "relationship": "chapter"
-        },
-        {
-          "name": "Service Employees International Union, SEIU Local 660",
-          "relationship": "chapter"
-        },
-        {
-          "name": "THE SERVICE EMPLOYEES INTERNATIONAL UNION, LOCAL 1000",
-          "relationship": "alternate_spelling"
-        },
-        {
-          "name": "SEIU"
-        }
-      ]
-    },
-    {
-      "canonical": "SERVICE EMPLOYEES INTERNATIONAL UNION - CALIFORNIA STATE COUNCIL",
-      "status": "active",
-      "children": [
-        {
-          "name": "THE SERVICE EMPLOYEES INTERNATIONAL UNION - CALIFORNIA STATE COUNCIL",
-          "relationship": "alternate_spelling"
-        },
-        {
-          "name": "Service Employees International Union-California State Council",
-          "relationship": "alternate_spelling"
-        }
-      ]
-    },
-    {
-      "canonical": "Service Employees International Union AFL-CIO, CLC",
-      "status": "active",
-      "children": [
-        {
-          "name": "Service Employees International Union AFL-CIO, CLC, California",
-          "relationship": "chapter"
-        },
-        {
-          "name": "Service Employees International Union, AFL-CIO,CLC",
-          "relationship": "alternate_spelling"
-        }
-      ]
-    },
-    {
-      "canonical": "Service Employees International Union-Nurses Alliance of",
-      "status": "active",
-      "children": [
-        {
-          "name": "Service Employees International Union-Nurses Alliance of California",
-          "relationship": "chapter"
-        },
-        {
-          "name": "Service Employees International Union - Nurses Alliance of California",
-          "relationship": "alternate_spelling"
-        }
-      ]
-    },
-    {
-      "canonical": "Service Employees Union",
-      "status": "active",
-      "children": [
-        {
-          "name": "Service Employees Union of California",
-          "relationship": "chapter"
-        },
-        {
-          "name": "California Service Employees Union",
           "relationship": "chapter"
         }
       ]
@@ -146387,6 +145692,36 @@
         {
           "name": "United Long Term Care Workers, SEIU Local 6434",
           "relationship": "chapter"
+        },
+        {
+          "name": "SEIU-ULTCW",
+          "relationship": "alternate_spelling",
+          "children": [
+            {
+              "name": "SEIU-ULTCW Local 6434",
+              "relationship": "chapter"
+            }
+          ]
+        },
+        {
+          "name": "United Long Term Care Workers Union (SEIU)",
+          "relationship": "alternate_spelling",
+          "children": [
+            {
+              "name": "United Long Term Care Workers Union (SEIU) Local 6434",
+              "relationship": "chapter"
+            }
+          ]
+        },
+        {
+          "name": "Long Term Care Workers, Southern California, SEIU",
+          "relationship": "chapter",
+          "children": [
+            {
+              "name": "Long Term Care Workers, Southern California, SEIU, Local 434B",
+              "relationship": "chapter"
+            }
+          ]
         }
       ]
     },
@@ -146458,20 +145793,6 @@
       "children": [
         {
           "name": "San Mateo Adult School Federation of Teachers - CFT Local 4681",
-          "relationship": "chapter"
-        }
-      ]
-    },
-    {
-      "canonical": "SEIU (Service Employees International Union)",
-      "status": "active",
-      "children": [
-        {
-          "name": "SEIU (Service Employees International Union), Local 660 and Local 1877",
-          "relationship": "chapter"
-        },
-        {
-          "name": "SEIU (Service Employees International Union), Local 660 and Southern Christian Leadership Conference",
           "relationship": "chapter"
         }
       ]
@@ -148539,26 +147860,6 @@
       ]
     },
     {
-      "canonical": "SEIU-ULTCW",
-      "status": "active",
-      "children": [
-        {
-          "name": "SEIU-ULTCW Local 6434",
-          "relationship": "chapter"
-        }
-      ]
-    },
-    {
-      "canonical": "Sacramento SEIU",
-      "status": "active",
-      "children": [
-        {
-          "name": "Sacramento SEIU Local 535",
-          "relationship": "chapter"
-        }
-      ]
-    },
-    {
       "canonical": "Specialists Guild",
       "status": "active",
       "children": [
@@ -148599,20 +147900,6 @@
         {
           "name": "Ship Clerks' Association -ILWU Local 34",
           "relationship": "chapter"
-        }
-      ]
-    },
-    {
-      "canonical": "Service Employees International Union - AFL-CIO",
-      "status": "active",
-      "children": [
-        {
-          "name": "Service Employees International Union - AFL-CIO, Local 660",
-          "relationship": "chapter"
-        },
-        {
-          "name": "Service Employees International Union,AFL-CIO",
-          "relationship": "alternate_spelling"
         }
       ]
     },
@@ -148661,6 +147948,16 @@
         {
           "name": "California State University Employees Union, SEIU, Local 2579",
           "relationship": "chapter"
+        },
+        {
+          "name": "California State University Employees Union/SEIU",
+          "relationship": "alternate_spelling",
+          "children": [
+            {
+              "name": "California State University Employees Union/SEIU Local 2579",
+              "relationship": "chapter"
+            }
+          ]
         }
       ]
     },
@@ -148671,6 +147968,30 @@
         {
           "name": "California State Employees Association, SEIU, Local 1,000",
           "relationship": "chapter"
+        },
+        {
+          "name": "SEIU, CSEA",
+          "relationship": "alternate_spelling",
+          "children": [
+            {
+              "name": "SEIU, CSEA, Local 1000",
+              "relationship": "chapter"
+            }
+          ]
+        },
+        {
+          "name": "California State Employees, SEIU",
+          "relationship": "alternate_spelling",
+          "children": [
+            {
+              "name": "California State Employees, SEIU, Local 1,000, Civil",
+              "relationship": "chapter"
+            },
+            {
+              "name": "California State Employees, SEIU, Local 1,000, Civil Service",
+              "relationship": "chapter"
+            }
+          ]
         }
       ]
     },
@@ -149859,16 +149180,6 @@
       ]
     },
     {
-      "canonical": "United Long Term Care Workers Union (SEIU)",
-      "status": "active",
-      "children": [
-        {
-          "name": "United Long Term Care Workers Union (SEIU) Local 6434",
-          "relationship": "chapter"
-        }
-      ]
-    },
-    {
       "canonical": "United Association of Journeymen and Apprentices of the Plumbing and Pipe Fitting Industry of the United States and Canada",
       "status": "active",
       "children": [
@@ -150245,16 +149556,6 @@
       ]
     },
     {
-      "canonical": "Service Employees Union International",
-      "status": "active",
-      "children": [
-        {
-          "name": "Service Employees Union International, Local 1000",
-          "relationship": "chapter"
-        }
-      ]
-    },
-    {
       "canonical": "Service Employer's International Union",
       "status": "active",
       "children": [
@@ -150440,16 +149741,6 @@
       "children": [
         {
           "name": "Assist Technicians Local 695",
-          "relationship": "chapter"
-        }
-      ]
-    },
-    {
-      "canonical": "Asian Pacific Islander Caucus SEIU",
-      "status": "active",
-      "children": [
-        {
-          "name": "Asian Pacific Islander Caucus SEIU, Local 721",
           "relationship": "chapter"
         }
       ]
@@ -151463,20 +150754,6 @@
       ]
     },
     {
-      "canonical": "International Union (SEIU)",
-      "status": "active",
-      "children": [
-        {
-          "name": "International Union (SEIU), Local 1877",
-          "relationship": "chapter"
-        },
-        {
-          "name": "International Union (SEIU), Local 1021",
-          "relationship": "chapter"
-        }
-      ]
-    },
-    {
       "canonical": "Iron Workers Union",
       "status": "active",
       "children": [
@@ -151560,16 +150837,6 @@
       "children": [
         {
           "name": "Ironworkers Local Local 118",
-          "relationship": "chapter"
-        }
-      ]
-    },
-    {
-      "canonical": "Islander Caucus SEIU",
-      "status": "active",
-      "children": [
-        {
-          "name": "Islander Caucus SEIU, Local 721",
           "relationship": "chapter"
         }
       ]
@@ -151778,16 +151045,6 @@
       "children": [
         {
           "name": "Marin Association of Public Employees, SEIU, Local 949",
-          "relationship": "chapter"
-        }
-      ]
-    },
-    {
-      "canonical": "Long Term Care Workers, Southern California, SEIU",
-      "status": "active",
-      "children": [
-        {
-          "name": "Long Term Care Workers, Southern California, SEIU, Local 434B",
           "relationship": "chapter"
         }
       ]
@@ -152184,20 +151441,6 @@
       "children": [
         {
           "name": "Union (UFCW) Local 126",
-          "relationship": "chapter"
-        }
-      ]
-    },
-    {
-      "canonical": "Union (SEIU)",
-      "status": "active",
-      "children": [
-        {
-          "name": "Union (SEIU) Local 1000",
-          "relationship": "chapter"
-        },
-        {
-          "name": "Union (SEIU) Local 100",
           "relationship": "chapter"
         }
       ]
@@ -152625,16 +151868,6 @@
       ]
     },
     {
-      "canonical": "SEIU, CSEA",
-      "status": "active",
-      "children": [
-        {
-          "name": "SEIU, CSEA, Local 1000",
-          "relationship": "chapter"
-        }
-      ]
-    },
-    {
       "canonical": "SMART, Sheet Metal Workers'",
       "status": "active",
       "children": [
@@ -152651,16 +151884,16 @@
         {
           "name": "SEIU United Domestic Workers/AFSCME Local 3930",
           "relationship": "chapter"
-        }
-      ]
-    },
-    {
-      "canonical": "SEIUUnited Domestic Workers/AFSCME",
-      "status": "active",
-      "children": [
+        },
         {
-          "name": "SEIUUnited Domestic Workers/AFSCME Local 3930",
-          "relationship": "chapter"
+          "name": "SEIUUnited Domestic Workers/AFSCME",
+          "relationship": "alternate_spelling",
+          "children": [
+            {
+              "name": "SEIUUnited Domestic Workers/AFSCME Local 3930",
+              "relationship": "chapter"
+            }
+          ]
         }
       ]
     },
@@ -152794,26 +152027,6 @@
       "children": [
         {
           "name": "Steelworkers of America, Local 1304",
-          "relationship": "chapter"
-        }
-      ]
-    },
-    {
-      "canonical": "Service Employees International Union plus",
-      "status": "active",
-      "children": [
-        {
-          "name": "Service Employees International Union plus Local 2028",
-          "relationship": "chapter"
-        }
-      ]
-    },
-    {
-      "canonical": "Service Employees International Union, AFL-CIO, CA State Council and",
-      "status": "active",
-      "children": [
-        {
-          "name": "Service Employees International Union, AFL-CIO, CA State Council and Local 660",
           "relationship": "chapter"
         }
       ]
@@ -152981,16 +152194,6 @@
       ]
     },
     {
-      "canonical": "Board of Equalization, SEIU",
-      "status": "active",
-      "children": [
-        {
-          "name": "Board of Equalization, SEIU Local 1000",
-          "relationship": "chapter"
-        }
-      ]
-    },
-    {
       "canonical": "CA State Council CA Assoc. of Counties",
       "status": "active",
       "children": [
@@ -153011,16 +152214,6 @@
       ]
     },
     {
-      "canonical": "California State University Employees Union/SEIU",
-      "status": "active",
-      "children": [
-        {
-          "name": "California State University Employees Union/SEIU Local 2579",
-          "relationship": "chapter"
-        }
-      ]
-    },
-    {
       "canonical": "California State Legislative Board SMART-Transportation Division",
       "status": "active",
       "children": [
@@ -153031,20 +152224,6 @@
         {
           "name": "California State Legislative Board SMART - Transportation Division",
           "relationship": "alternate_spelling"
-        }
-      ]
-    },
-    {
-      "canonical": "California State Employees, SEIU",
-      "status": "active",
-      "children": [
-        {
-          "name": "California State Employees, SEIU, Local 1,000, Civil",
-          "relationship": "chapter"
-        },
-        {
-          "name": "California State Employees, SEIU, Local 1,000, Civil Service",
-          "relationship": "chapter"
         }
       ]
     },
@@ -153545,6 +152724,792 @@
               "relationship": "chapter"
             }
           ]
+        },
+        {
+          "name": "SERVICE EMPLOYEES' INTERNATIONAL UNION",
+          "relationship": "pre-merge",
+          "children": [
+            {
+              "name": "THE SERVICE EMPLOYEES INTERNATIONAL UNION",
+              "relationship": "alternate_spelling"
+            },
+            {
+              "name": "Service Employees International Union (SEIU)",
+              "relationship": "alternate_spelling"
+            },
+            {
+              "name": "SEIU CA",
+              "relationship": "chapter"
+            },
+            {
+              "name": "THE SERVICE EMPLOYEES INTERNATIONAL UNION (SEIU)",
+              "relationship": "alternate_spelling"
+            },
+            {
+              "name": "Service Employees International Union Local 1021",
+              "relationship": "chapter"
+            },
+            {
+              "name": "Service Employees International Union Local 535",
+              "relationship": "chapter"
+            },
+            {
+              "name": "Service Employees International Union Local 99",
+              "relationship": "chapter"
+            },
+            {
+              "name": "Service Employees International Union Local 347",
+              "relationship": "chapter"
+            },
+            {
+              "name": "Service Employees International Union Local 6434-ULTCW",
+              "relationship": "chapter"
+            },
+            {
+              "name": "Service Employees International Union Local 399",
+              "relationship": "chapter"
+            },
+            {
+              "name": "Service Employees International Union Local 250",
+              "relationship": "chapter"
+            },
+            {
+              "name": "Service Employees International Union Local 1280",
+              "relationship": "chapter"
+            },
+            {
+              "name": "Service Employees' International Union, Local 1000",
+              "relationship": "chapter"
+            },
+            {
+              "name": "Service Employees International Union Local 660 Board of",
+              "relationship": "chapter"
+            },
+            {
+              "name": "Service Employees International Union Local 790",
+              "relationship": "chapter"
+            },
+            {
+              "name": "Service Employees International Union Local 521",
+              "relationship": "chapter"
+            },
+            {
+              "name": "Service Employees International Union Local 721",
+              "relationship": "chapter"
+            },
+            {
+              "name": "Service Employees International Union Local 660, SEIU",
+              "relationship": "chapter"
+            },
+            {
+              "name": "Service Employees International Union Local 660 Continued",
+              "relationship": "chapter"
+            },
+            {
+              "name": "Service Employees International Union Local 660",
+              "relationship": "chapter"
+            },
+            {
+              "name": "Service Employees International Union Local 435B",
+              "relationship": "chapter"
+            },
+            {
+              "name": "Service Employees International Union Local 100",
+              "relationship": "chapter"
+            },
+            {
+              "name": "Service Employees International Union Local 1000 (January 4, 2006 version)",
+              "relationship": "chapter"
+            },
+            {
+              "name": "Service Employees International Union, Local 1000 (SEIU)",
+              "relationship": "chapter"
+            },
+            {
+              "name": "Service Employees International Union, Local 1877",
+              "relationship": "chapter"
+            },
+            {
+              "name": "Service Employees International Union, Local 6434 - United Long Term Care",
+              "relationship": "chapter"
+            },
+            {
+              "name": "Service Employees International Union, Local 715",
+              "relationship": "chapter"
+            },
+            {
+              "name": "Service Employees International Union, Local 1277",
+              "relationship": "chapter"
+            },
+            {
+              "name": "Service Employees International Union, Local 2028",
+              "relationship": "chapter"
+            },
+            {
+              "name": "Service Employees International Union, Local 280",
+              "relationship": "chapter"
+            },
+            {
+              "name": "Service Employees International Union, Local 1000 (SEIU 1000)",
+              "relationship": "chapter"
+            },
+            {
+              "name": "Service Employees International Union, Local 949",
+              "relationship": "chapter"
+            },
+            {
+              "name": "Service Employees International Union, Local 415",
+              "relationship": "chapter"
+            },
+            {
+              "name": "Service Employees International Union, Local 221",
+              "relationship": "chapter"
+            },
+            {
+              "name": "Service Employees International Union, Local 616",
+              "relationship": "chapter"
+            },
+            {
+              "name": "Service Employees International Union, Local 707",
+              "relationship": "chapter"
+            },
+            {
+              "name": "Service Employees International Union, Local 721 (seiu Local 721)",
+              "relationship": "chapter"
+            },
+            {
+              "name": "Service Employees International Union, Local 1000 (SEIU Local 1000)",
+              "relationship": "chapter"
+            },
+            {
+              "name": "Service Employees International Union, Local 1000 & 1877",
+              "relationship": "chapter"
+            },
+            {
+              "name": "Service Employees International Union, Local 620 (SEIU)",
+              "relationship": "chapter"
+            },
+            {
+              "name": "Service Employees International Union, Local 6434 - ULTCW (United Long Term)",
+              "relationship": "chapter"
+            },
+            {
+              "name": "Service Employees International Union, Local 660, Los Angeles",
+              "relationship": "chapter"
+            },
+            {
+              "name": "Service Employees International Union, Local 1000, CSEA",
+              "relationship": "chapter"
+            },
+            {
+              "name": "Service Employees International Union, Local 1021 & Local 1877",
+              "relationship": "chapter"
+            },
+            {
+              "name": "Service Employees International Union, Local 434-B",
+              "relationship": "chapter"
+            },
+            {
+              "name": "Service Employees International Union, Local 620",
+              "relationship": "chapter"
+            },
+            {
+              "name": "Service Employees International Union, Local 998",
+              "relationship": "chapter"
+            },
+            {
+              "name": "Service Employees International Union, Local 87",
+              "relationship": "chapter"
+            },
+            {
+              "name": "Service Employees International Union, Local 660 (Los)",
+              "relationship": "chapter"
+            },
+            {
+              "name": "Local 521 Service Employees International Union",
+              "relationship": "chapter"
+            },
+            {
+              "name": "Local 21 Service Employees International Union",
+              "relationship": "chapter"
+            },
+            {
+              "name": "Local 1165 Service Employees International Union",
+              "relationship": "chapter"
+            },
+            {
+              "name": "Service Employees International Union (SEIU) Local 1000",
+              "relationship": "chapter"
+            },
+            {
+              "name": "Service Employees International Union (SEIU), Local 707",
+              "relationship": "chapter"
+            },
+            {
+              "name": "Service Employees International Union (SEIU), Local 1021",
+              "relationship": "chapter"
+            },
+            {
+              "name": "Service Employees International Union (SEIU), Local 1021 & Local 1877",
+              "relationship": "chapter"
+            },
+            {
+              "name": "Service Employees International Union (SEIU), Local 434B",
+              "relationship": "chapter"
+            },
+            {
+              "name": "Service Employees International Union (SEIU), Local 1877",
+              "relationship": "chapter"
+            },
+            {
+              "name": "Service Employees International Union (SEIU) Local 660 (Los)",
+              "relationship": "chapter"
+            },
+            {
+              "name": "Service Employees International Union (SEIU) Local 347 (Los)",
+              "relationship": "chapter"
+            },
+            {
+              "name": "Service Employees International Union (SEIU) Local 221",
+              "relationship": "chapter"
+            },
+            {
+              "name": "Service Employees International Union (SEIU) Local 721",
+              "relationship": "chapter"
+            },
+            {
+              "name": "Service Employees International Union, SEIU Local 660",
+              "relationship": "chapter"
+            },
+            {
+              "name": "THE SERVICE EMPLOYEES INTERNATIONAL UNION, LOCAL 1000",
+              "relationship": "alternate_spelling"
+            },
+            {
+              "name": "SEIU",
+              "relationship": "alternate_spelling"
+            },
+            {
+              "name": "Service Employees",
+              "relationship": "alternate_spelling",
+              "children": [
+                {
+                  "name": "Service Employees of CA",
+                  "relationship": "chapter"
+                },
+                {
+                  "name": "Service Employees of California",
+                  "relationship": "chapter"
+                }
+              ]
+            },
+            {
+              "name": "SERVICE EMPLOYEES INTERNATIONAL",
+              "relationship": "alternate_spelling",
+              "children": [
+                {
+                  "name": "THE SERVICE EMPLOYEES INTERNATIONAL",
+                  "relationship": "alternate_spelling"
+                },
+                {
+                  "name": "Service Employees International Local 1000",
+                  "relationship": "chapter"
+                },
+                {
+                  "name": "Service Employees International Local 535",
+                  "relationship": "chapter"
+                },
+                {
+                  "name": "Service Employees International Local 535 434B",
+                  "relationship": "chapter"
+                },
+                {
+                  "name": "SEI",
+                  "relationship": "alternate_spelling"
+                }
+              ]
+            },
+            {
+              "name": "Service Employees International Union AFL-CIO, CLC",
+              "relationship": "alternate_spelling",
+              "children": [
+                {
+                  "name": "Service Employees International Union AFL-CIO, CLC, California",
+                  "relationship": "chapter"
+                },
+                {
+                  "name": "Service Employees International Union, AFL-CIO,CLC",
+                  "relationship": "alternate_spelling"
+                }
+              ]
+            },
+            {
+              "name": "Service Employees Union",
+              "relationship": "alternate_spelling",
+              "children": [
+                {
+                  "name": "Service Employees Union of California",
+                  "relationship": "chapter"
+                },
+                {
+                  "name": "California Service Employees Union",
+                  "relationship": "chapter"
+                }
+              ]
+            },
+            {
+              "name": "SEIU (Service Employees International Union)",
+              "relationship": "alternate_spelling",
+              "children": [
+                {
+                  "name": "SEIU (Service Employees International Union), Local 660 and Local 1877",
+                  "relationship": "chapter"
+                },
+                {
+                  "name": "SEIU (Service Employees International Union), Local 660 and Southern Christian Leadership Conference",
+                  "relationship": "chapter"
+                }
+              ]
+            },
+            {
+              "name": "Service Employees International Union - AFL-CIO",
+              "relationship": "alternate_spelling",
+              "children": [
+                {
+                  "name": "Service Employees International Union - AFL-CIO, Local 660",
+                  "relationship": "chapter"
+                },
+                {
+                  "name": "Service Employees International Union,AFL-CIO",
+                  "relationship": "alternate_spelling"
+                }
+              ]
+            },
+            {
+              "name": "Service Employees Union International",
+              "relationship": "alternate_spelling",
+              "children": [
+                {
+                  "name": "Service Employees Union International, Local 1000",
+                  "relationship": "chapter"
+                }
+              ]
+            },
+            {
+              "name": "Service Employees International Union plus",
+              "relationship": "alternate_spelling",
+              "children": [
+                {
+                  "name": "Service Employees International Union plus Local 2028",
+                  "relationship": "chapter"
+                }
+              ]
+            },
+            {
+              "name": "CALIFORNIA STATE COUNCIL, SEIU",
+              "relationship": "chapter",
+              "children": [
+                {
+                  "name": "CALIFORNIA STATE COUNCIL OF SERVICE EMPLOYEES",
+                  "relationship": "alternate_spelling"
+                },
+                {
+                  "name": "CALIFORNIA STATE COUNCIL OF SERVICE EMPLOYEES INTERNATIONAL UNION (SEIU CALIFORNIA)",
+                  "relationship": "alternate_spelling"
+                },
+                {
+                  "name": "California State Council of Service Employees International Union (SEIU)",
+                  "relationship": "alternate_spelling"
+                },
+                {
+                  "name": "CALIFORNIA STATE COUNCIL OF THE SERVICE EMPLOYEES INTERNATIONAL UNION",
+                  "relationship": "alternate_spelling"
+                },
+                {
+                  "name": "SEIU - California",
+                  "relationship": "alternate_spelling"
+                },
+                {
+                  "name": "California State Council of Service Employees, SEIU",
+                  "relationship": "alternate_spelling"
+                },
+                {
+                  "name": "California State Council, Service Employees International Union (SEIU)",
+                  "relationship": "chapter"
+                },
+                {
+                  "name": "California Council of the Service Employees International Union (SEIU)",
+                  "relationship": "chapter"
+                },
+                {
+                  "name": "California Council of Service Employees International Union (SEIU)",
+                  "relationship": "chapter"
+                },
+                {
+                  "name": "SEIU-California",
+                  "relationship": "alternate_spelling"
+                },
+                {
+                  "name": "SEIU, Local 1000",
+                  "relationship": "chapter"
+                },
+                {
+                  "name": "SEIU Local 660",
+                  "relationship": "chapter"
+                },
+                {
+                  "name": "SEIU Local 1877",
+                  "relationship": "chapter"
+                },
+                {
+                  "name": "SEIU Local 2015",
+                  "relationship": "chapter"
+                },
+                {
+                  "name": "SEIU Local 721",
+                  "relationship": "chapter"
+                },
+                {
+                  "name": "SEIU Local 535",
+                  "relationship": "chapter"
+                },
+                {
+                  "name": "SEIU Local 721 - Los Angeles, Orange, Riverside, and Ventura Counties",
+                  "relationship": "chapter"
+                },
+                {
+                  "name": "SEIU Local 817",
+                  "relationship": "chapter"
+                },
+                {
+                  "name": "SEIU Local 99",
+                  "relationship": "chapter"
+                },
+                {
+                  "name": "SEIU Local 415",
+                  "relationship": "chapter"
+                },
+                {
+                  "name": "SEIU, Local 99, 247, 250, 347, 399, 415, 434B, 535, 614, 616, 620, 660, 707, 715, 790, 817, 1280, 1877",
+                  "relationship": "chapter"
+                },
+                {
+                  "name": "SEIU Local 715",
+                  "relationship": "chapter"
+                },
+                {
+                  "name": "SEIU Local 347",
+                  "relationship": "chapter"
+                },
+                {
+                  "name": "SEIU Local 399",
+                  "relationship": "chapter"
+                },
+                {
+                  "name": "SEIU Local 620",
+                  "relationship": "chapter"
+                },
+                {
+                  "name": "SEIU Local 6434 - United Long Term Care Workers",
+                  "relationship": "chapter"
+                },
+                {
+                  "name": "SEIU Local 715 Retirees Committee",
+                  "relationship": "chapter"
+                },
+                {
+                  "name": "SEIU Local 87",
+                  "relationship": "chapter"
+                },
+                {
+                  "name": "SEIU Local 535, Senior And Retired Members",
+                  "relationship": "chapter"
+                },
+                {
+                  "name": "SEIU Local 521",
+                  "relationship": "chapter"
+                },
+                {
+                  "name": "SEIU Local 250",
+                  "relationship": "chapter"
+                },
+                {
+                  "name": "SEIU, Local 1000, Lavender Committee",
+                  "relationship": "chapter"
+                },
+                {
+                  "name": "SEIU Local 790",
+                  "relationship": "chapter"
+                },
+                {
+                  "name": "SEIU Local 715 and Local 1877",
+                  "relationship": "chapter"
+                },
+                {
+                  "name": "SEIU, Local 434B and Local 250",
+                  "relationship": "chapter"
+                },
+                {
+                  "name": "SEIU, Local 66",
+                  "relationship": "chapter"
+                },
+                {
+                  "name": "SEIU Local 6434-United Long Term Care Workers",
+                  "relationship": "chapter"
+                },
+                {
+                  "name": "SEIU Local 1877, Northern California",
+                  "relationship": "chapter"
+                },
+                {
+                  "name": "SEIU Local 5000",
+                  "relationship": "chapter"
+                },
+                {
+                  "name": "SEIU Local 616 Service Employees International Union",
+                  "relationship": "chapter"
+                },
+                {
+                  "name": "SEIU Local 6434 - ULTCW",
+                  "relationship": "chapter"
+                },
+                {
+                  "name": "SEIU Local 721 (85,000 members)",
+                  "relationship": "chapter"
+                },
+                {
+                  "name": "SEIU Local 434B",
+                  "relationship": "chapter"
+                },
+                {
+                  "name": "SEIU, Local 434B and Local",
+                  "relationship": "chapter"
+                },
+                {
+                  "name": "SEIU Local 6434 -ULTCW (United Long Term Care Workers)",
+                  "relationship": "chapter"
+                },
+                {
+                  "name": "SEIU Local 6434-ULTCW",
+                  "relationship": "chapter"
+                },
+                {
+                  "name": "SEIU, Local 616",
+                  "relationship": "chapter"
+                },
+                {
+                  "name": "SEIU, Local 660 (Los Angeles)",
+                  "relationship": "chapter"
+                },
+                {
+                  "name": "SEIU Local 660, Los Angeles, CA",
+                  "relationship": "chapter"
+                },
+                {
+                  "name": "SEIU Local 715 Western Region Latino Caucus",
+                  "relationship": "chapter"
+                },
+                {
+                  "name": "SEIU Local 721 - Association of Probation Supervisors of Los Angeles County",
+                  "relationship": "chapter"
+                },
+                {
+                  "name": "SEIU Local 521 Retired Chapter",
+                  "relationship": "chapter"
+                },
+                {
+                  "name": "SEIU Local 39",
+                  "relationship": "chapter"
+                },
+                {
+                  "name": "SEIU Local 1997",
+                  "relationship": "chapter"
+                },
+                {
+                  "name": "SEIU Local 1280",
+                  "relationship": "chapter"
+                },
+                {
+                  "name": "SEIU Local 1021 Service Line Supervisors",
+                  "relationship": "chapter"
+                },
+                {
+                  "name": "SEIU Local 535 (Pasadena)",
+                  "relationship": "chapter"
+                },
+                {
+                  "name": "SEIU Local 6434 - United Long-Term Care Workers",
+                  "relationship": "chapter"
+                },
+                {
+                  "name": "SEIU Local 435B",
+                  "relationship": "chapter"
+                },
+                {
+                  "name": "SEIU, Local 949",
+                  "relationship": "chapter"
+                },
+                {
+                  "name": "SEIU Local 1000, CSEA",
+                  "relationship": "chapter"
+                },
+                {
+                  "name": "SEIU Local 1000 Women's Committee",
+                  "relationship": "chapter"
+                },
+                {
+                  "name": "Local 535 SEIU",
+                  "relationship": "chapter"
+                },
+                {
+                  "name": "SEIU/Local 535",
+                  "relationship": "alternate_spelling"
+                },
+                {
+                  "name": "S.E.I.U., Local 614",
+                  "relationship": "chapter"
+                },
+                {
+                  "name": "SEIU California Local 221",
+                  "relationship": "chapter"
+                },
+                {
+                  "name": "Service Employees International Union California",
+                  "relationship": "chapter"
+                },
+                {
+                  "name": "Service Employees International Union of California",
+                  "relationship": "chapter"
+                },
+                {
+                  "name": "SEIU of California",
+                  "relationship": "chapter"
+                },
+                {
+                  "name": "California Service Employees International Union",
+                  "relationship": "chapter"
+                },
+                {
+                  "name": "California SEIU",
+                  "relationship": "chapter"
+                },
+                {
+                  "name": "Service Employees International Union (SEIU) California",
+                  "relationship": "chapter"
+                },
+                {
+                  "name": "California State Council of Service Employees International Union (SEIU CA)",
+                  "relationship": "chapter"
+                },
+                {
+                  "name": "California State Council of Service Employees (SEIU CA)",
+                  "relationship": "chapter"
+                },
+                {
+                  "name": "Service Employees International Union Local 1000 CA State",
+                  "relationship": "chapter"
+                },
+                {
+                  "name": "Service Employees International Union-California",
+                  "relationship": "alternate_spelling"
+                },
+                {
+                  "name": "California State Council of Service Employees International Union",
+                  "relationship": "alternate_spelling",
+                  "children": [
+                    {
+                      "name": "California State Council of Service Employees International Union - California",
+                      "relationship": "alternate_spelling"
+                    }
+                  ]
+                },
+                {
+                  "name": "CALIFORNIA STATE COUNCIL OF THE SERVICE EMPLOYEES INTERNATIONAL UNION (SEIU CALIFORNIA)",
+                  "relationship": "alternate_spelling",
+                  "children": [
+                    {
+                      "name": "THE CALIFORNIA STATE COUNCIL OF THE SERVICE EMPLOYEES INTERNATIONAL UNION (SEIU CALIFORNIA)",
+                      "relationship": "alternate_spelling"
+                    }
+                  ]
+                },
+                {
+                  "name": "CALIFORNIA STATE COUNCIL OF THE SERVICE EMPLOYEES INTERNATIONAL UNION (SEIU)",
+                  "relationship": "alternate_spelling",
+                  "children": [
+                    {
+                      "name": "THE CALIFORNIA STATE COUNCIL OF THE SERVICE EMPLOYEES INTERNATIONAL UNION (SEIU)",
+                      "relationship": "alternate_spelling"
+                    }
+                  ]
+                },
+                {
+                  "name": "SERVICE EMPLOYEES INTERNATIONAL UNION - CALIFORNIA STATE COUNCIL",
+                  "relationship": "alternate_spelling",
+                  "children": [
+                    {
+                      "name": "THE SERVICE EMPLOYEES INTERNATIONAL UNION - CALIFORNIA STATE COUNCIL",
+                      "relationship": "alternate_spelling"
+                    },
+                    {
+                      "name": "Service Employees International Union-California State Council",
+                      "relationship": "alternate_spelling"
+                    }
+                  ]
+                },
+                {
+                  "name": "Service Employees International Union, AFL-CIO, CA State Council and",
+                  "relationship": "alternate_spelling",
+                  "children": [
+                    {
+                      "name": "Service Employees International Union, AFL-CIO, CA State Council and Local 660",
+                      "relationship": "chapter"
+                    }
+                  ]
+                },
+                {
+                  "name": "SEIU LOCAL 1021",
+                  "relationship": "chapter"
+                },
+                {
+                  "name": "SEIU LOCAL 221",
+                  "relationship": "chapter"
+                },
+                {
+                  "name": "Asian Pacific Islander Caucus SEIU",
+                  "relationship": "chapter",
+                  "children": [
+                    {
+                      "name": "Asian Pacific Islander Caucus SEIU, Local 721",
+                      "relationship": "chapter"
+                    }
+                  ]
+                },
+                {
+                  "name": "Sacramento SEIU",
+                  "relationship": "chapter",
+                  "children": [
+                    {
+                      "name": "Sacramento SEIU Local 535",
+                      "relationship": "chapter"
+                    }
+                  ]
+                },
+                {
+                  "name": "Board of Equalization, SEIU",
+                  "relationship": "chapter",
+                  "children": [
+                    {
+                      "name": "Board of Equalization, SEIU Local 1000",
+                      "relationship": "chapter"
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "merge_year": 2015,
+          "note": "SEIU split from AFL-CIO in 2005 and rejoined in 2015."
         }
       ]
     },
@@ -153822,16 +153787,6 @@
       "children": [
         {
           "name": "Employees Union, Local 1",
-          "relationship": "chapter"
-        }
-      ]
-    },
-    {
-      "canonical": "Employees International Union (SEIU)",
-      "status": "active",
-      "children": [
-        {
-          "name": "Employees International Union (SEIU) Local 1000",
           "relationship": "chapter"
         }
       ]
