@@ -92,7 +92,7 @@ Also add Sheriff and Police organizations that are not in the crosswalk, to the 
 
 23. Conslidate place-based Chambers of Commerce as chapters of the California Chamber of Commerce (CALCHAMBER). Add Chambers of Commerce to the crosswalk that are not there yet.
 
-24. Separate from the Industry-specific labor organizations make an AFL-CIO canonical that has just one chapter: the California Federation of Labor 
+24. Separate from the Industry-specific labor organizations make an AFL-CIO canonical that has just one chapter: the California Federation of Labor. Put place (but not industry) specific federations of labor as children. and AFL as a pre-merge child
 
 25. Consolidate "100 Black Men" organizations
 

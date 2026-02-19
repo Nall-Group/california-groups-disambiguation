@@ -6706,30 +6706,6 @@
       ]
     },
     {
-      "canonical": "AMERICAN FEDERATION OF LABOR",
-      "status": "active",
-      "children": [
-        {
-          "name": "AMERICAN FEDERATION OF LABOR (AFL)",
-          "relationship": "alternate_spelling"
-        },
-        {
-          "name": "AFL",
-          "relationship": "alternate_spelling"
-        }
-      ]
-    },
-    {
-      "canonical": "AMERICAN FEDERATION OF LABOR AND CONGRESS OF INDUSTRIAL ORGANIZATIONS",
-      "status": "active",
-      "children": [
-        {
-          "name": "THE AMERICAN FEDERATION OF LABOR AND CONGRESS OF INDUSTRIAL ORGANIZATIONS",
-          "relationship": "alternate_spelling"
-        }
-      ]
-    },
-    {
       "canonical": "AMERICAN FEDERATION OF STATE",
       "status": "active",
       "children": [
@@ -45619,16 +45595,6 @@
       ]
     },
     {
-      "canonical": "CENTRAL LABOR COUNCIL OF CONTRA COSTA COUNTY, AFL-CIO",
-      "status": "active",
-      "children": [
-        {
-          "name": "THE CENTRAL LABOR COUNCIL OF CONTRA COSTA COUNTY, AFL-CIO",
-          "relationship": "alternate_spelling"
-        }
-      ]
-    },
-    {
       "canonical": "Central Oregon & Pacific Railroad",
       "status": "active",
       "children": [
@@ -56339,10 +56305,6 @@
           "relationship": "alternate_spelling"
         }
       ]
-    },
-    {
-      "canonical": "CONTRA COSTA AFL-CIO LABOR COUNCIL",
-      "status": "active"
     },
     {
       "canonical": "CONTRA COSTA ASSOCIATION OF REALTORS",
@@ -84939,16 +84901,6 @@
       ]
     },
     {
-      "canonical": "KERN, INYO, AND MONO COUNTIES CENTRAL LABOR COUNCIL",
-      "status": "active",
-      "children": [
-        {
-          "name": "THE KERN, INYO, AND MONO COUNTIES CENTRAL LABOR COUNCIL",
-          "relationship": "alternate_spelling"
-        }
-      ]
-    },
-    {
       "canonical": "KERNTAX",
       "status": "active"
     },
@@ -85926,16 +85878,6 @@
         },
         {
           "name": "Labor Community/Strategy Center",
-          "relationship": "alternate_spelling"
-        }
-      ]
-    },
-    {
-      "canonical": "LABOR COUNCIL FOR LATIN AMERICAN ADVANCEMENT",
-      "status": "active",
-      "children": [
-        {
-          "name": "LABOR COUNCIL FOR LATIN AMERICAN ADVANCEMENT (LCLAA)",
           "relationship": "alternate_spelling"
         }
       ]
@@ -89907,20 +89849,6 @@
         },
         {
           "name": "THE LOS ANGELES COUNTY EMPLOYEES RETIREMENT ASSOCIATION (LACERA)",
-          "relationship": "alternate_spelling"
-        }
-      ]
-    },
-    {
-      "canonical": "LOS ANGELES COUNTY FEDERATION OF LABOR",
-      "status": "active"
-    },
-    {
-      "canonical": "LOS ANGELES COUNTY FEDERATION OF LABOR, AFL-CIO",
-      "status": "active",
-      "children": [
-        {
-          "name": "THE LOS ANGELES COUNTY FEDERATION OF LABOR, AFL-CIO",
           "relationship": "alternate_spelling"
         }
       ]
@@ -103401,16 +103329,6 @@
       "status": "active"
     },
     {
-      "canonical": "ORANGE COUNTY LABOR FEDERATION",
-      "status": "active",
-      "children": [
-        {
-          "name": "ORANGE COUNTY LABOR FEDERATION (OCLF)",
-          "relationship": "alternate_spelling"
-        }
-      ]
-    },
-    {
       "canonical": "ORANGE COUNTY LOCAL AGENCY FORMATION COMMISSION",
       "status": "active"
     },
@@ -115905,26 +115823,6 @@
       ]
     },
     {
-      "canonical": "SACRAMENTO CENTRAL LABOR COUNCIL",
-      "status": "active",
-      "children": [
-        {
-          "name": "THE SACRAMENTO CENTRAL LABOR COUNCIL",
-          "relationship": "alternate_spelling"
-        }
-      ]
-    },
-    {
-      "canonical": "SACRAMENTO CENTRAL LABOR COUNCIL, AFL-CIO",
-      "status": "active",
-      "children": [
-        {
-          "name": "THE SACRAMENTO CENTRAL LABOR COUNCIL, AFL-CIO",
-          "relationship": "alternate_spelling"
-        }
-      ]
-    },
-    {
       "canonical": "Sacramento Child Advocates",
       "status": "active",
       "children": [
@@ -116905,16 +116803,6 @@
       ]
     },
     {
-      "canonical": "SAN DIEGO & IMPERIAL COUNTIES LABOR COUNCIL",
-      "status": "active",
-      "children": [
-        {
-          "name": "San-Diego-Imperial Counties Labor Council",
-          "relationship": "alternate_spelling"
-        }
-      ]
-    },
-    {
       "canonical": "San Diego & Imperial Valley Railroad Company",
       "status": "active",
       "children": [
@@ -116933,10 +116821,6 @@
           "relationship": "alternate_spelling"
         }
       ]
-    },
-    {
-      "canonical": "SAN DIEGO AND IMPERIAL COUNTIES LABOR COUNCIL",
-      "status": "active"
     },
     {
       "canonical": "SAN DIEGO ASSOCIATION OF GOVERNMENTS",
@@ -117465,10 +117349,6 @@
       ]
     },
     {
-      "canonical": "SAN DIEGO-IMPERIAL COUNTIES LABOR COUNCIL",
-      "status": "active"
-    },
-    {
       "canonical": "SAN DIEGUITO INTERFAITH MINISTERIAL ASSOCIATION, LA JOLLA",
       "status": "active"
     },
@@ -117942,10 +117822,6 @@
     },
     {
       "canonical": "SAN FRANCISCO INTERFAITH COUNCIL",
-      "status": "active"
-    },
-    {
-      "canonical": "SAN FRANCISCO LABOR COUNCIL",
       "status": "active"
     },
     {
@@ -118526,10 +118402,6 @@
     },
     {
       "canonical": "SAN MATEO COUNTY ASSOCIATION OF REALTORS",
-      "status": "active"
-    },
-    {
-      "canonical": "SAN MATEO COUNTY CENTRAL LABOR COUNCIL",
       "status": "active"
     },
     {
@@ -125108,16 +124980,6 @@
       ]
     },
     {
-      "canonical": "SOUTH BAY AFL-CIO LABOR COUNCIL",
-      "status": "active",
-      "children": [
-        {
-          "name": "THE SOUTH BAY AFL-CIO LABOR COUNCIL",
-          "relationship": "alternate_spelling"
-        }
-      ]
-    },
-    {
       "canonical": "SOUTH BAY ASSOCIATION OF REALTORS",
       "status": "active"
     },
@@ -125178,20 +125040,6 @@
           "relationship": "alternate_spelling"
         }
       ]
-    },
-    {
-      "canonical": "SOUTH BAY LABOR COUNCIL",
-      "status": "active",
-      "children": [
-        {
-          "name": "California South Bay Labor Council",
-          "relationship": "chapter"
-        }
-      ]
-    },
-    {
-      "canonical": "SOUTH BAY LABOR COUNCIL (SAN JOSE)",
-      "status": "active"
     },
     {
       "canonical": "SOUTH BAY MOBILEHOME RESIDENTS' ALLIANCE",
@@ -142539,6 +142387,14 @@
         {
           "name": "U.A.W. Local 148, Representing McDonnell Douglas Employees, Long",
           "relationship": "chapter"
+        },
+        {
+          "name": "AFL-CIO United Auto Workers",
+          "relationship": "alternate_spelling"
+        },
+        {
+          "name": "AFL-CIO United Auto Workers Local 2865",
+          "relationship": "chapter"
         }
       ]
     },
@@ -145862,6 +145718,14 @@
         },
         {
           "name": "Hotel Employees & Restaurant Employees, Union Local 483, AFL-CIO",
+          "relationship": "chapter"
+        },
+        {
+          "name": "AFL-CIO, Hotel Employees & Restaurant Employees Union",
+          "relationship": "alternate_spelling"
+        },
+        {
+          "name": "AFL-CIO, Hotel Employees & Restaurant Employees Union, Local 11",
           "relationship": "chapter"
         }
       ]
@@ -149357,16 +149221,6 @@
       ]
     },
     {
-      "canonical": "Orange County Central Labor Council, UFCW",
-      "status": "active",
-      "children": [
-        {
-          "name": "Orange County Central Labor Council, UFCW Local 324",
-          "relationship": "chapter"
-        }
-      ]
-    },
-    {
       "canonical": "Operative Plasterers and Cement Masons",
       "status": "active",
       "children": [
@@ -152463,61 +152317,11 @@
       ]
     },
     {
-      "canonical": "Workers of America, AFL-CIO, CLC",
-      "status": "active",
-      "children": [
-        {
-          "name": "Workers of America, AFL-CIO, CLC Local 9003",
-          "relationship": "chapter"
-        }
-      ]
-    },
-    {
-      "canonical": "of CA, IFPTE",
-      "status": "active",
-      "children": [
-        {
-          "name": "of CA, IFPTE Local 20, AFL-CIO",
-          "relationship": "chapter"
-        }
-      ]
-    },
-    {
-      "canonical": "of Electrical Workers",
-      "status": "active",
-      "children": [
-        {
-          "name": "of Electrical Workers, Local 47",
-          "relationship": "chapter"
-        }
-      ]
-    },
-    {
-      "canonical": "of America, AFL-CIO",
-      "status": "active",
-      "children": [
-        {
-          "name": "of America, AFL-CIO, Local 9000",
-          "relationship": "chapter"
-        }
-      ]
-    },
-    {
       "canonical": "the U.S. and Canada",
       "status": "active",
       "children": [
         {
           "name": "the U.S. and Canada, Local 250",
-          "relationship": "chapter"
-        }
-      ]
-    },
-    {
-      "canonical": "of Roofers, Waterproofers, and Allied Workers",
-      "status": "active",
-      "children": [
-        {
-          "name": "of Roofers, Waterproofers, and Allied Workers Local 220",
           "relationship": "chapter"
         }
       ]
@@ -152970,16 +152774,6 @@
       "children": [
         {
           "name": "Steam Refrigeration Air Conditioning Pipe Fitters and Apprentices of the United Association of the U.S. and Canada, Local 250",
-          "relationship": "chapter"
-        }
-      ]
-    },
-    {
-      "canonical": "States, AFL-CIO (IATSE)",
-      "status": "active",
-      "children": [
-        {
-          "name": "States, AFL-CIO (IATSE) Local 80, Local 729",
           "relationship": "chapter"
         }
       ]
@@ -153459,40 +153253,6 @@
       ]
     },
     {
-      "canonical": "AFL-CIO-CLC",
-      "status": "active",
-      "children": [
-        {
-          "name": "AFL-CIO-CLC, Local 535",
-          "relationship": "chapter"
-        },
-        {
-          "name": "AFL-CIO-CLC, Local 1442",
-          "relationship": "chapter"
-        }
-      ]
-    },
-    {
-      "canonical": "AFL-CIO, Hotel Employees & Restaurant Employees Union",
-      "status": "active",
-      "children": [
-        {
-          "name": "AFL-CIO, Hotel Employees & Restaurant Employees Union, Local 11",
-          "relationship": "chapter"
-        }
-      ]
-    },
-    {
-      "canonical": "AFL-CIO United Auto Workers",
-      "status": "active",
-      "children": [
-        {
-          "name": "AFL-CIO United Auto Workers Local 2865",
-          "relationship": "chapter"
-        }
-      ]
-    },
-    {
       "canonical": "AFSCME Union of American Physicians & Dentists",
       "status": "active",
       "children": [
@@ -153567,16 +153327,44 @@
       ]
     },
     {
-      "canonical": "AFL-CIO",
+      "canonical": "AMERICAN FEDERATION OF LABOR AND CONGRESS OF INDUSTRIAL ORGANIZATIONS",
       "status": "active",
       "children": [
         {
-          "name": "AFL-CIO Local 11",
-          "relationship": "chapter"
+          "name": "AFL-CIO",
+          "relationship": "alternate_spelling"
         },
         {
           "name": "AFL- CIO",
           "relationship": "alternate_spelling"
+        },
+        {
+          "name": "THE AMERICAN FEDERATION OF LABOR AND CONGRESS OF INDUSTRIAL ORGANIZATIONS",
+          "relationship": "alternate_spelling"
+        },
+        {
+          "name": "LABOR COUNCIL FOR LATIN AMERICAN ADVANCEMENT",
+          "relationship": "chapter",
+          "children": [
+            {
+              "name": "LABOR COUNCIL FOR LATIN AMERICAN ADVANCEMENT (LCLAA)",
+              "relationship": "alternate_spelling"
+            }
+          ]
+        },
+        {
+          "name": "AMERICAN FEDERATION OF LABOR",
+          "relationship": "pre-merge",
+          "children": [
+            {
+              "name": "AMERICAN FEDERATION OF LABOR (AFL)",
+              "relationship": "alternate_spelling"
+            },
+            {
+              "name": "AFL",
+              "relationship": "alternate_spelling"
+            }
+          ]
         },
         {
           "name": "CALIFORNIA LABOR FEDERATION",
@@ -153629,6 +153417,132 @@
             {
               "name": "The California Labor Federation (AFL CIO)",
               "relationship": "alternate_spelling"
+            },
+            {
+              "name": "CENTRAL LABOR COUNCIL OF CONTRA COSTA COUNTY, AFL-CIO",
+              "relationship": "chapter",
+              "children": [
+                {
+                  "name": "THE CENTRAL LABOR COUNCIL OF CONTRA COSTA COUNTY, AFL-CIO",
+                  "relationship": "alternate_spelling"
+                },
+                {
+                  "name": "CONTRA COSTA AFL-CIO LABOR COUNCIL",
+                  "relationship": "alternate_spelling"
+                }
+              ]
+            },
+            {
+              "name": "LOS ANGELES COUNTY FEDERATION OF LABOR, AFL-CIO",
+              "relationship": "chapter",
+              "children": [
+                {
+                  "name": "THE LOS ANGELES COUNTY FEDERATION OF LABOR, AFL-CIO",
+                  "relationship": "alternate_spelling"
+                },
+                {
+                  "name": "LOS ANGELES COUNTY FEDERATION OF LABOR",
+                  "relationship": "alternate_spelling"
+                }
+              ]
+            },
+            {
+              "name": "SACRAMENTO CENTRAL LABOR COUNCIL, AFL-CIO",
+              "relationship": "chapter",
+              "children": [
+                {
+                  "name": "THE SACRAMENTO CENTRAL LABOR COUNCIL, AFL-CIO",
+                  "relationship": "alternate_spelling"
+                },
+                {
+                  "name": "SACRAMENTO CENTRAL LABOR COUNCIL",
+                  "relationship": "alternate_spelling"
+                },
+                {
+                  "name": "THE SACRAMENTO CENTRAL LABOR COUNCIL",
+                  "relationship": "alternate_spelling"
+                }
+              ]
+            },
+            {
+              "name": "SAN DIEGO & IMPERIAL COUNTIES LABOR COUNCIL",
+              "relationship": "chapter",
+              "children": [
+                {
+                  "name": "San-Diego-Imperial Counties Labor Council",
+                  "relationship": "alternate_spelling"
+                },
+                {
+                  "name": "SAN DIEGO AND IMPERIAL COUNTIES LABOR COUNCIL",
+                  "relationship": "alternate_spelling"
+                },
+                {
+                  "name": "SAN DIEGO-IMPERIAL COUNTIES LABOR COUNCIL",
+                  "relationship": "alternate_spelling"
+                }
+              ]
+            },
+            {
+              "name": "SAN FRANCISCO LABOR COUNCIL",
+              "relationship": "chapter"
+            },
+            {
+              "name": "SAN MATEO COUNTY CENTRAL LABOR COUNCIL",
+              "relationship": "chapter"
+            },
+            {
+              "name": "SOUTH BAY AFL-CIO LABOR COUNCIL",
+              "relationship": "chapter",
+              "children": [
+                {
+                  "name": "THE SOUTH BAY AFL-CIO LABOR COUNCIL",
+                  "relationship": "alternate_spelling"
+                },
+                {
+                  "name": "SOUTH BAY LABOR COUNCIL",
+                  "relationship": "alternate_spelling"
+                },
+                {
+                  "name": "California South Bay Labor Council",
+                  "relationship": "chapter"
+                },
+                {
+                  "name": "SOUTH BAY LABOR COUNCIL (SAN JOSE)",
+                  "relationship": "alternate_spelling"
+                }
+              ]
+            },
+            {
+              "name": "KERN, INYO, AND MONO COUNTIES CENTRAL LABOR COUNCIL",
+              "relationship": "chapter",
+              "children": [
+                {
+                  "name": "THE KERN, INYO, AND MONO COUNTIES CENTRAL LABOR COUNCIL",
+                  "relationship": "alternate_spelling"
+                }
+              ]
+            },
+            {
+              "name": "ORANGE COUNTY LABOR FEDERATION",
+              "relationship": "chapter",
+              "children": [
+                {
+                  "name": "ORANGE COUNTY LABOR FEDERATION (OCLF)",
+                  "relationship": "alternate_spelling"
+                }
+              ]
+            },
+            {
+              "name": "AFL-CIO-CLC",
+              "relationship": "alternate_spelling"
+            },
+            {
+              "name": "AFL-CIO-CLC, Local 535",
+              "relationship": "chapter"
+            },
+            {
+              "name": "AFL-CIO-CLC, Local 1442",
+              "relationship": "chapter"
             }
           ]
         }
@@ -153640,16 +153554,6 @@
       "children": [
         {
           "name": "BAC Local 3",
-          "relationship": "chapter"
-        }
-      ]
-    },
-    {
-      "canonical": "Beth Chayim Chadashim Congregation |AFL-CIO",
-      "status": "active",
-      "children": [
-        {
-          "name": "Beth Chayim Chadashim Congregation |AFL-CIO, Local 9000",
           "relationship": "chapter"
         }
       ]
@@ -153899,24 +153803,6 @@
         {
           "name": "Engineer & Scientists of California, IFPTE Local 20",
           "relationship": "chapter"
-        }
-      ]
-    },
-    {
-      "canonical": "Employees, AFL-CIO",
-      "status": "active",
-      "children": [
-        {
-          "name": "Employees, AFL-CIO, Local 3930",
-          "relationship": "chapter"
-        },
-        {
-          "name": "Employees,AFL-CIO",
-          "relationship": "alternate_spelling"
-        },
-        {
-          "name": "Employees, AFL - CIO",
-          "relationship": "alternate_spelling"
         }
       ]
     },
