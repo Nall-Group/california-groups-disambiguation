@@ -45,6 +45,20 @@ CSV_FILES = {
     "conjoined":      "org_names_conjoined.csv",
 }
 
+# Priority order for cross-file deduplication: when a normalized name appears
+# in multiple buckets, the highest-priority (lowest index) bucket keeps it.
+BUCKET_PRIORITY = [
+    "in_crosswalk",
+    "not_in_crosswalk",
+    "not_capitalized",
+    "individuals",
+    "conjoined",
+    "partial",
+    "parens",
+    "dates_phones",
+    "invalid",
+]
+
 
 # ---------------------------------------------------------------------------
 # 1. Load crosswalk — full recursive walk
@@ -135,6 +149,76 @@ def deduplicate(rows):
     return deduped
 
 
+def deduplicate_across_buckets(buckets):
+    """Remove names that appear in multiple buckets.
+
+    When a normalized name exists in more than one bucket, the
+    highest-priority bucket (per BUCKET_PRIORITY) keeps the entry.
+    The spelling from the winning bucket is kept and counts from all
+    buckets are summed.
+
+    Mutates *buckets* in place and returns a dict of
+    {label: number_of_entries_removed}.
+    """
+    priority = {label: i for i, label in enumerate(BUCKET_PRIORITY)}
+
+    # Build global map: normalized -> [(bucket_label, index, org_name, count)]
+    norm_map = defaultdict(list)
+    for label, rows in buckets.items():
+        for idx, (name, count) in enumerate(rows):
+            norm = normalize_for_matching(name)
+            norm_map[norm].append((label, idx, name, count))
+
+    # Find entries to remove from losing buckets
+    # removals[label] = set of indices to drop
+    removals = defaultdict(set)
+
+    for norm, entries in norm_map.items():
+        # Only care about names in multiple buckets
+        unique_buckets = {label for label, _, _, _ in entries}
+        if len(unique_buckets) <= 1:
+            continue
+
+        # Winner = bucket with lowest priority index
+        winner_label = min(unique_buckets, key=lambda b: priority[b])
+
+        # Sum counts from all buckets
+        total_count = sum(count for _, _, _, count in entries)
+
+        # Find the winner's entry (first one in winner bucket)
+        winner_entries = [(idx, name, count) for label, idx, name, count in entries
+                         if label == winner_label]
+        winner_idx = winner_entries[0][0]
+        winner_name = winner_entries[0][1]
+
+        # Update winner entry with summed count
+        buckets[winner_label][winner_idx] = (winner_name, total_count)
+
+        # Mark all other entries for removal (including extra winner-bucket dupes)
+        for label, idx, name, count in entries:
+            if label == winner_label and idx == winner_idx:
+                continue
+            removals[label].add(idx)
+
+    # Apply removals (rebuild each affected list, skipping removed indices)
+    removed_counts = {}
+    for label in buckets:
+        if label in removals and removals[label]:
+            to_remove = removals[label]
+            buckets[label] = [row for i, row in enumerate(buckets[label])
+                              if i not in to_remove]
+            removed_counts[label] = len(to_remove)
+        else:
+            removed_counts[label] = 0
+
+    # Re-sort affected buckets by count descending
+    for label in buckets:
+        if removed_counts.get(label, 0) > 0:
+            buckets[label].sort(key=lambda x: x[1], reverse=True)
+
+    return removed_counts
+
+
 # ---------------------------------------------------------------------------
 # 4. Write CSV
 # ---------------------------------------------------------------------------
@@ -222,7 +306,19 @@ def main():
 
     total_dedup = sum(dedup_removed.values())
     if total_dedup == 0:
-        print("  No duplicates found.")
+        print("  No within-file duplicates found.")
+    print()
+
+    # ----- Deduplicate across buckets -----
+    print("Cross-file deduplication...")
+    cross_removed = deduplicate_across_buckets(new_buckets)
+    total_cross = sum(cross_removed.values())
+    if total_cross > 0:
+        for label in CSV_FILES:
+            if cross_removed[label]:
+                print(f"  {CSV_FILES[label]}: removed {cross_removed[label]} cross-file duplicate(s)")
+    else:
+        print("  No cross-file duplicates found.")
     print()
 
     # ----- Write all CSVs -----
@@ -253,16 +349,18 @@ def main():
 
     print(f"\nMoved to in_crosswalk (from other categories):  {moved_to_crosswalk:,}")
     print(f"Moved from in_crosswalk (to not_in_crosswalk):  {moved_from_crosswalk:,}")
-    print(f"Duplicates merged (across all files):           {total_dedup:,}")
+    print(f"Within-file duplicates merged:                  {total_dedup:,}")
+    print(f"Cross-file duplicates removed:                  {total_cross:,}")
 
-    if total_dedup == 0 and total_after != total_before:
+    total_removed = total_dedup + total_cross
+    if total_removed == 0 and total_after != total_before:
         print(f"\nWARNING: total names changed from {total_before:,} to {total_after:,} without dedup!")
-    elif total_dedup > 0:
-        expected = total_before - total_dedup
+    elif total_removed > 0:
+        expected = total_before - total_removed
         if total_after != expected:
             print(f"\nWARNING: expected {expected:,} after dedup, got {total_after:,}")
         else:
-            print(f"\nVerified: {total_before:,} - {total_dedup:,} merged = {total_after:,} (correct)")
+            print(f"\nVerified: {total_before:,} - {total_dedup:,} within-file - {total_cross:,} cross-file = {total_after:,} (correct)")
     else:
         print(f"\nVerified: {total_after:,} names total (unchanged)")
 

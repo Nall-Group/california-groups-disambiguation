@@ -104,6 +104,8 @@ Also add Sheriff and Police organizations that are not in the crosswalk, to the 
 
 29. Consolidate all the climate orgs under "350" in crosswalk
 
+30. clean org names with malformed brackets e.g. "blah) org name" or "org name (blah". Let AI decide if it's an acronym in the brackets where the matching bracket should be added, or if it's an artifact like support/oppose or the date or soenthign where the bracket and the stuff in it should be removed.
+
 XX. Move things that are obviously not organization names (like sponsor or SB) to invalid organization names list 
 
 

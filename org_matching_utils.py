@@ -58,19 +58,123 @@ def load_cleaning_patterns(path: Path = DEFAULT_CLEANING_PATTERNS_PATH) -> List[
     return patterns
 
 
+def fix_mismatched_brackets(name: str) -> str:
+    """
+    Fix mismatched brackets in an org name.
+
+    Handles five categories:
+    - Category 5: Leading fragment like "2007) IFPTE" or "10)Professional..." -> strip leading garbage
+    - Category 2: Metadata remnants like "Org (Oppose" -> strip from unclosed bracket to end
+    - Category 1: Missing closing bracket like "Org (ACRONYM" -> add closing bracket
+    - Category 3: Stray closing bracket with acronym like "Org ACRONYM)" -> insert opening bracket
+    - Category 4: Stray closing bracket other like "Org)" -> remove stray bracket
+    """
+    # Quick check: are brackets already balanced?
+    if (name.count('(') == name.count(')') and
+            name.count('[') == name.count(']')):
+        return name
+
+    # Category 5: Leading fragment — starts with optional digits then )
+    # e.g. "2007) IFPTE", "10)Professional and Technical Engineers"
+    m = re.match(r'^[^(]*?\d*\)\s*', name)
+    if m and name.count(')') > name.count('('):
+        stripped = name[m.end():]
+        if stripped:
+            return fix_mismatched_brackets(stripped)
+
+    # --- More opening parens than closing: unclosed ( or [ ---
+    if name.count('(') > name.count(')'):
+        # Category 2: Metadata remnants — unclosed bracket contains metadata keywords
+        # Check from the LAST unclosed ( to end of string
+        metadata_pattern = re.compile(
+            r'\s*\('
+            r'(?:'
+            r'oppose'
+            r'|co\b'
+            r'|per\s'
+            r'|["\u201c]'
+            r'|but\b'
+            r'|(?:january|february|march|april|may|june|july|august|september|october|november|december)\b'
+            r'|sponsor'
+            r'|source'
+            r'|\d{4}'
+            r')',
+            re.IGNORECASE
+        )
+        if metadata_pattern.search(name):
+            # Strip from the unclosed ( that matches metadata to end of string
+            # Find the position of the metadata match
+            match = metadata_pattern.search(name)
+            cleaned = name[:match.start()].strip()
+            if cleaned:
+                return cleaned
+
+        # Category 1: Missing closing bracket — add it
+        # e.g. "Org (ACRONYM" -> "Org (ACRONYM)"
+        return name + ')'
+
+    if name.count('[') > name.count(']'):
+        # Category 1 for square brackets
+        return name + ']'
+
+    # --- More closing parens than opening: stray ) ---
+    if name.count(')') > name.count('('):
+        # Category 3: Missing opening bracket before acronym
+        # e.g. "California Senior Legislature CSL)" -> "California Senior Legislature (CSL)"
+        # Only match when preceding text has lowercase letters (mixed-case name + acronym)
+        # to avoid false positives on all-caps text like "AND SIMI VALLEY)"
+        m = re.search(r'\b([A-Z]{2,})\)\s*$', name)
+        if m:
+            prefix = name[:m.start()].rstrip()
+            if re.search(r'[a-z]', prefix):
+                acronym = m.group(1)
+                return f"{prefix} ({acronym})"
+
+        # Category 4: Stray closing bracket — just remove it
+        # Remove the last unmatched )
+        # Find and remove one stray )
+        result = []
+        extra_closes = name.count(')') - name.count('(')
+        for ch in reversed(name):
+            if ch == ')' and extra_closes > 0:
+                extra_closes -= 1
+                continue
+            result.append(ch)
+        cleaned = ''.join(reversed(result)).strip()
+        return re.sub(r'\s+', ' ', cleaned)
+
+    if name.count(']') > name.count('['):
+        # Remove stray ]
+        result = []
+        extra_closes = name.count(']') - name.count('[')
+        for ch in reversed(name):
+            if ch == ']' and extra_closes > 0:
+                extra_closes -= 1
+                continue
+            result.append(ch)
+        cleaned = ''.join(reversed(result)).strip()
+        return re.sub(r'\s+', ' ', cleaned)
+
+    return name
+
+
 def clean_org_name(name: str, patterns: List[re.Pattern]) -> str:
     """
-    Apply cleaning patterns to remove metadata annotations from org name.
+    Apply cleaning patterns to remove metadata annotations from org name,
+    then fix any mismatched brackets.
 
     Examples:
         "Sierra Club (co-sponsor)" -> "Sierra Club"
         "(sponsor) ACLU" -> "ACLU"
+        "Association of Bay Area Governments (ABAG" -> "Association of Bay Area Governments (ABAG)"
     """
     cleaned = name
     for pattern in patterns:
         cleaned = pattern.sub(' ', cleaned)
     # Collapse multiple spaces and strip
     cleaned = re.sub(r'\s+', ' ', cleaned).strip()
+    # Fix mismatched brackets
+    cleaned = fix_mismatched_brackets(cleaned)
     return cleaned
 
 
