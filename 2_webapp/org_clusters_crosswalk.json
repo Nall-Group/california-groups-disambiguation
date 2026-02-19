@@ -54,6 +54,14 @@
               "relationship": "alternate_spelling"
             }
           ]
+        },
+        {
+          "name": "100 Black Men of Sacramento, Incorporated",
+          "relationship": "alternate_spelling"
+        },
+        {
+          "name": "100 Black Men of the Bay Area",
+          "relationship": "alternate_spelling"
         }
       ]
     },
@@ -103,7 +111,13 @@
     },
     {
       "canonical": "1HWY1",
-      "status": "active"
+      "status": "active",
+      "children": [
+        {
+          "name": "1HWY1, LLC",
+          "relationship": "alternate_spelling"
+        }
+      ]
     },
     {
       "canonical": "2 Kings Gaming",
@@ -844,6 +858,10 @@
         {
           "name": "A-Z Bus Sales, Inc",
           "relationship": "alternate_spelling"
+        },
+        {
+          "name": "A-Z Bus Sales Incorporated",
+          "relationship": "alternate_spelling"
         }
       ]
     },
@@ -1356,6 +1374,10 @@
         {
           "name": "Access Services Inc",
           "relationship": "alternate_spelling"
+        },
+        {
+          "name": "Access Services Incorporated",
+          "relationship": "alternate_spelling"
         }
       ]
     },
@@ -1505,6 +1527,10 @@
       "children": [
         {
           "name": "Achievement House, Inc",
+          "relationship": "alternate_spelling"
+        },
+        {
+          "name": "Achievement House, Incorporated",
           "relationship": "alternate_spelling"
         }
       ]
@@ -1855,6 +1881,10 @@
       "children": [
         {
           "name": "Adaptec, Inc",
+          "relationship": "alternate_spelling"
+        },
+        {
+          "name": "Adaptec Incorporated",
           "relationship": "alternate_spelling"
         }
       ]
@@ -2448,6 +2478,10 @@
         {
           "name": "Aerojet General, Inc",
           "relationship": "alternate_spelling"
+        },
+        {
+          "name": "Aerojet General Corporation",
+          "relationship": "alternate_spelling"
         }
       ]
     },
@@ -2911,7 +2945,13 @@
     },
     {
       "canonical": "AGEE GLOBAL SOLUTIONS, LLC",
-      "status": "active"
+      "status": "active",
+      "children": [
+        {
+          "name": "Agee Global Solutions",
+          "relationship": "alternate_spelling"
+        }
+      ]
     },
     {
       "canonical": "Agencies",
@@ -3173,6 +3213,10 @@
         },
         {
           "name": "AHF",
+          "relationship": "alternate_spelling"
+        },
+        {
+          "name": "The Aids Healthcare Foundation",
           "relationship": "alternate_spelling"
         }
       ]
@@ -3916,6 +3960,10 @@
         {
           "name": "Alfigen, Inc",
           "relationship": "alternate_spelling"
+        },
+        {
+          "name": "Alfigen Incorporated",
+          "relationship": "alternate_spelling"
         }
       ]
     },
@@ -4526,6 +4574,10 @@
         {
           "name": "THE ALLIANCE OF SPECIAL EFFECTS AND PYROTECHNIC OPERATORS, INC",
           "relationship": "alternate_spelling"
+        },
+        {
+          "name": "Alliance of Special Effects and Pyrotechnic Operators",
+          "relationship": "alternate_spelling"
         }
       ]
     },
@@ -4569,6 +4621,10 @@
       "children": [
         {
           "name": "The Alliance - Supporting People with Intellectual and Developmental",
+          "relationship": "alternate_spelling"
+        },
+        {
+          "name": "The Alliance Supporting People with Intellectual and Developmental",
           "relationship": "alternate_spelling"
         }
       ]
@@ -4614,6 +4670,10 @@
         {
           "name": "Allianz of America, Inc",
           "relationship": "alternate_spelling"
+        },
+        {
+          "name": "Allianz of America Corporation",
+          "relationship": "alternate_spelling"
         }
       ]
     },
@@ -4647,6 +4707,10 @@
         },
         {
           "name": "Allied Managed Care, Inc",
+          "relationship": "alternate_spelling"
+        },
+        {
+          "name": "Allied Managed Care Incorporated",
           "relationship": "alternate_spelling"
         }
       ]
@@ -4727,7 +4791,13 @@
     },
     {
       "canonical": "ALLSTATE INSURANCE COMPANY",
-      "status": "active"
+      "status": "active",
+      "children": [
+        {
+          "name": "Allstate Insurance",
+          "relationship": "alternate_spelling"
+        }
+      ]
     },
     {
       "canonical": "ALLY FOUNDATION",
@@ -4759,6 +4829,10 @@
       "children": [
         {
           "name": "Alpha Construction Co., Inc",
+          "relationship": "alternate_spelling"
+        },
+        {
+          "name": "Alpha Construction",
           "relationship": "alternate_spelling"
         }
       ]
@@ -4844,6 +4918,10 @@
         {
           "name": "AltaMed Health Services, Inc",
           "relationship": "alternate_spelling"
+        },
+        {
+          "name": "Altamed Health Services Corporation",
+          "relationship": "alternate_spelling"
         }
       ]
     },
@@ -4857,6 +4935,10 @@
       "children": [
         {
           "name": "Alternatives, Inc",
+          "relationship": "alternate_spelling"
+        },
+        {
+          "name": "Alternatives Ltd",
           "relationship": "alternate_spelling"
         }
       ]
@@ -5721,6 +5803,10 @@
       "children": [
         {
           "name": "THE AMERICAN BRITTANY CLUB, INC",
+          "relationship": "alternate_spelling"
+        },
+        {
+          "name": "American Brittany Club",
           "relationship": "alternate_spelling"
         }
       ]
@@ -7106,6 +7192,10 @@
         {
           "name": "American Federation of State, County and Municipal Employees, AFL-CIO, Local 3299 (AFSCME)",
           "relationship": "chapter"
+        },
+        {
+          "name": "The American Federation of State, County and Municipal Employees (AFSCME)",
+          "relationship": "alternate_spelling"
         }
       ]
     },
@@ -7496,6 +7586,14 @@
         {
           "name": "American Home Products, Inc",
           "relationship": "alternate_spelling"
+        },
+        {
+          "name": "American Home Products Corporation",
+          "relationship": "alternate_spelling"
+        },
+        {
+          "name": "American Home Products Corp",
+          "relationship": "alternate_spelling"
         }
       ]
     },
@@ -7608,6 +7706,10 @@
         {
           "name": "American Institute of Architects, California Council California",
           "relationship": "chapter"
+        },
+        {
+          "name": "The American Institute of Architects, California Council (AIACC)",
+          "relationship": "alternate_spelling"
         }
       ]
     },
@@ -8017,16 +8119,16 @@
         {
           "name": "AMERICAN OCCUPATIONAL THERAPY ASSOCIATION (AOTA)",
           "relationship": "alternate_spelling"
-        }
-      ]
-    },
-    {
-      "canonical": "AMERICAN OCCUPATIONAL THERAPY ASSOCIATION, INC",
-      "status": "active",
-      "children": [
+        },
         {
-          "name": "THE AMERICAN OCCUPATIONAL THERAPY ASSOCIATION, INC",
-          "relationship": "alternate_spelling"
+          "name": "AMERICAN OCCUPATIONAL THERAPY ASSOCIATION, INC",
+          "relationship": "alternate_spelling",
+          "children": [
+            {
+              "name": "THE AMERICAN OCCUPATIONAL THERAPY ASSOCIATION, INC",
+              "relationship": "alternate_spelling"
+            }
+          ]
         }
       ]
     },
@@ -8066,6 +8168,10 @@
       "children": [
         {
           "name": "THE AMERICAN PARKINSON DISEASE ASSOCIATION, INC",
+          "relationship": "alternate_spelling"
+        },
+        {
+          "name": "American Parkinson Disease Association",
           "relationship": "alternate_spelling"
         }
       ]
@@ -8218,6 +8324,14 @@
         },
         {
           "name": "APL",
+          "relationship": "alternate_spelling"
+        },
+        {
+          "name": "APL Limited",
+          "relationship": "alternate_spelling"
+        },
+        {
+          "name": "APL, Ltd",
           "relationship": "alternate_spelling"
         }
       ]
@@ -8421,16 +8535,16 @@
         {
           "name": "THE AMERICAN SHOOTING SPORTS COUNCIL",
           "relationship": "alternate_spelling"
-        }
-      ]
-    },
-    {
-      "canonical": "AMERICAN SHOOTING SPORTS COUNCIL, INC",
-      "status": "active",
-      "children": [
+        },
         {
-          "name": "THE AMERICAN SHOOTING SPORTS COUNCIL, INC",
-          "relationship": "alternate_spelling"
+          "name": "AMERICAN SHOOTING SPORTS COUNCIL, INC",
+          "relationship": "alternate_spelling",
+          "children": [
+            {
+              "name": "THE AMERICAN SHOOTING SPORTS COUNCIL, INC",
+              "relationship": "alternate_spelling"
+            }
+          ]
         }
       ]
     },
@@ -8659,6 +8773,14 @@
         {
           "name": "American Stores Inc",
           "relationship": "alternate_spelling"
+        },
+        {
+          "name": "American Stores Company",
+          "relationship": "alternate_spelling"
+        },
+        {
+          "name": "American Stores Corporation",
+          "relationship": "alternate_spelling"
         }
       ]
     },
@@ -8823,12 +8945,22 @@
         {
           "name": "Amerigon Inc",
           "relationship": "alternate_spelling"
+        },
+        {
+          "name": "Amerigon Company",
+          "relationship": "alternate_spelling"
         }
       ]
     },
     {
       "canonical": "AMG & ASSOCIATES, LLC",
-      "status": "active"
+      "status": "active",
+      "children": [
+        {
+          "name": "AMG & Associates",
+          "relationship": "alternate_spelling"
+        }
+      ]
     },
     {
       "canonical": "AMGEN",
@@ -8836,6 +8968,10 @@
       "children": [
         {
           "name": "Amgen Inc",
+          "relationship": "alternate_spelling"
+        },
+        {
+          "name": "Amgen Corporation",
           "relationship": "alternate_spelling"
         }
       ]
@@ -9265,6 +9401,20 @@
         {
           "name": "Anheuser Busch",
           "relationship": "alternate_spelling"
+        },
+        {
+          "name": "Anheuser-Busch Company",
+          "relationship": "alternate_spelling",
+          "children": [
+            {
+              "name": "Anheuser-Busch Company, Inc",
+              "relationship": "alternate_spelling"
+            }
+          ]
+        },
+        {
+          "name": "Anheuser Busch Co",
+          "relationship": "alternate_spelling"
         }
       ]
     },
@@ -9278,16 +9428,6 @@
         },
         {
           "name": "Anheuser Busch Companies Inc",
-          "relationship": "alternate_spelling"
-        }
-      ]
-    },
-    {
-      "canonical": "Anheuser-Busch Company",
-      "status": "active",
-      "children": [
-        {
-          "name": "Anheuser-Busch Company, Inc",
           "relationship": "alternate_spelling"
         }
       ]
@@ -9352,6 +9492,10 @@
       "children": [
         {
           "name": "Animal Emancipation, Inc",
+          "relationship": "alternate_spelling"
+        },
+        {
+          "name": "Animal Emancipation, Incorporated",
           "relationship": "alternate_spelling"
         }
       ]
@@ -10351,6 +10495,10 @@
         {
           "name": "Architects, Inc",
           "relationship": "alternate_spelling"
+        },
+        {
+          "name": "Architects LLP",
+          "relationship": "alternate_spelling"
         }
       ]
     },
@@ -10428,6 +10576,10 @@
       "children": [
         {
           "name": "Arevalo Tortilleria Inc",
+          "relationship": "alternate_spelling"
+        },
+        {
+          "name": "Arevalo Tortilleria, Incorporated",
           "relationship": "alternate_spelling"
         }
       ]
@@ -11033,6 +11185,10 @@
         {
           "name": "Asian Pacific American Legal Center of Southern CA",
           "relationship": "chapter"
+        },
+        {
+          "name": "The Asian Pacific American Legal Center of Southern California",
+          "relationship": "alternate_spelling"
         }
       ]
     },
@@ -11719,6 +11875,10 @@
         {
           "name": "Associated Students, Inc",
           "relationship": "alternate_spelling"
+        },
+        {
+          "name": "Associated Students, Incorporated",
+          "relationship": "alternate_spelling"
         }
       ]
     },
@@ -11772,6 +11932,10 @@
       "children": [
         {
           "name": "Associated Students, California State University Northridge Inc",
+          "relationship": "alternate_spelling"
+        },
+        {
+          "name": "Associated Students, California State University, Northridge, Inc",
           "relationship": "alternate_spelling"
         }
       ]
@@ -12401,6 +12565,10 @@
         {
           "name": "THE ASSOCIATION OF CALIFORNIA INSURANCE",
           "relationship": "alternate_spelling"
+        },
+        {
+          "name": "Association of California Insurance Co",
+          "relationship": "alternate_spelling"
         }
       ]
     },
@@ -12460,6 +12628,18 @@
       "children": [
         {
           "name": "The Association of California, Life and Health Insurance",
+          "relationship": "alternate_spelling"
+        },
+        {
+          "name": "Association of California Life and Health Insurance Co",
+          "relationship": "alternate_spelling"
+        },
+        {
+          "name": "Association of California Life and Health Insurance Company",
+          "relationship": "alternate_spelling"
+        },
+        {
+          "name": "The Association of California Life and Health Insurance",
           "relationship": "alternate_spelling"
         }
       ]
@@ -14203,6 +14383,10 @@
         {
           "name": "Automotive Service Councils of CA",
           "relationship": "chapter"
+        },
+        {
+          "name": "The Automotive Service Councils of California",
+          "relationship": "alternate_spelling"
         }
       ]
     },
@@ -14414,6 +14598,10 @@
       "children": [
         {
           "name": "AVON Products, Inc",
+          "relationship": "alternate_spelling"
+        },
+        {
+          "name": "Avon Products, Incorporated",
           "relationship": "alternate_spelling"
         }
       ]
@@ -14642,6 +14830,10 @@
       "children": [
         {
           "name": "Baker Furnace Inc",
+          "relationship": "alternate_spelling"
+        },
+        {
+          "name": "Baker Furnace, Incorporated",
           "relationship": "alternate_spelling"
         }
       ]
@@ -14896,6 +15088,10 @@
       "children": [
         {
           "name": "Barrio Planners, Inc",
+          "relationship": "alternate_spelling"
+        },
+        {
+          "name": "Barrio Planners Incorporated",
           "relationship": "alternate_spelling"
         }
       ]
@@ -17501,19 +17697,27 @@
         {
           "name": "THE BOEING",
           "relationship": "alternate_spelling"
-        }
-      ]
-    },
-    {
-      "canonical": "BOEING COMPANY",
-      "status": "active",
-      "children": [
+        },
         {
-          "name": "THE BOEING COMPANY",
+          "name": "BOEING COMPANY",
+          "relationship": "alternate_spelling",
+          "children": [
+            {
+              "name": "THE BOEING COMPANY",
+              "relationship": "alternate_spelling"
+            },
+            {
+              "name": "Boeing Company, Inc",
+              "relationship": "alternate_spelling"
+            }
+          ]
+        },
+        {
+          "name": "Boeing Corporation",
           "relationship": "alternate_spelling"
         },
         {
-          "name": "Boeing Company, Inc",
+          "name": "The Boeing Co",
           "relationship": "alternate_spelling"
         }
       ]
@@ -18118,6 +18322,10 @@
       "children": [
         {
           "name": "BRIDGE HOUSING",
+          "relationship": "alternate_spelling"
+        },
+        {
+          "name": "BRIDGE Housing Corp",
           "relationship": "alternate_spelling"
         }
       ]
@@ -18939,6 +19147,10 @@
         {
           "name": "BURBANK HOUSING DEVELOPMENT CORPORATION CENTER",
           "relationship": "alternate_spelling"
+        },
+        {
+          "name": "Burbank Housing Development Corp",
+          "relationship": "alternate_spelling"
         }
       ]
     },
@@ -18982,6 +19194,10 @@
       "children": [
         {
           "name": "THE BUREAU OF MISSING HEIRS, INC",
+          "relationship": "alternate_spelling"
+        },
+        {
+          "name": "Bureau of Missing Heirs",
           "relationship": "alternate_spelling"
         }
       ]
@@ -19261,6 +19477,10 @@
         {
           "name": "C T Finishing Inc",
           "relationship": "alternate_spelling"
+        },
+        {
+          "name": "C T Finishing, Incorporated",
+          "relationship": "alternate_spelling"
         }
       ]
     },
@@ -19274,6 +19494,18 @@
         },
         {
           "name": "C & C Development",
+          "relationship": "alternate_spelling"
+        },
+        {
+          "name": "C&C Development Co",
+          "relationship": "alternate_spelling"
+        },
+        {
+          "name": "C & C Development Co",
+          "relationship": "alternate_spelling"
+        },
+        {
+          "name": "C&C Development Company",
           "relationship": "alternate_spelling"
         }
       ]
@@ -19298,6 +19530,10 @@
       "children": [
         {
           "name": "The C.O.O.K Alliance",
+          "relationship": "alternate_spelling"
+        },
+        {
+          "name": "The C.O.O.K. Alliance",
           "relationship": "alternate_spelling"
         }
       ]
@@ -19701,6 +19937,10 @@
         {
           "name": "CABRILLO ECONOMIC DEVELOPMENT CORPORATION (CEDC)",
           "relationship": "alternate_spelling"
+        },
+        {
+          "name": "Cabrillo Economic Development",
+          "relationship": "alternate_spelling"
         }
       ]
     },
@@ -19716,7 +19956,13 @@
     },
     {
       "canonical": "CABRILLO MANAGEMENT CORPORATION",
-      "status": "active"
+      "status": "active",
+      "children": [
+        {
+          "name": "Cabrillo Management",
+          "relationship": "alternate_spelling"
+        }
+      ]
     },
     {
       "canonical": "CABRILLO MOBILEHOME ESTATES HOMEOWNERS ASSOCIATION, CAPITOLA",
@@ -19831,6 +20077,10 @@
         {
           "name": "Caithness Energy Inc",
           "relationship": "alternate_spelling"
+        },
+        {
+          "name": "Caithness Energy, LLC",
+          "relationship": "alternate_spelling"
         }
       ]
     },
@@ -19944,6 +20194,10 @@
       "children": [
         {
           "name": "Calenergy Company, Inc",
+          "relationship": "alternate_spelling"
+        },
+        {
+          "name": "CalEnergy",
           "relationship": "alternate_spelling"
         }
       ]
@@ -20450,6 +20704,10 @@
       "children": [
         {
           "name": "California Advocates, Inc",
+          "relationship": "alternate_spelling"
+        },
+        {
+          "name": "California Advocates, Incorporated",
           "relationship": "alternate_spelling"
         }
       ]
@@ -22173,6 +22431,10 @@
         {
           "name": "California Association of Harbor Masters and Port Captains, Inc",
           "relationship": "alternate_spelling"
+        },
+        {
+          "name": "California Association of Harbor Masters and Port Captains, Incorporated",
+          "relationship": "alternate_spelling"
         }
       ]
     },
@@ -23223,6 +23485,10 @@
         {
           "name": "CAPS",
           "relationship": "alternate_spelling"
+        },
+        {
+          "name": "CAPS, Incorporated",
+          "relationship": "alternate_spelling"
         }
       ]
     },
@@ -23521,6 +23787,10 @@
         {
           "name": "CASBO",
           "relationship": "alternate_spelling"
+        },
+        {
+          "name": "California Association of School Business Officials (CASBO),",
+          "relationship": "alternate_spelling"
         }
       ]
     },
@@ -23659,16 +23929,16 @@
         {
           "name": "CALIFORNIA ASSOCIATION OF THE DEAF (CAD)",
           "relationship": "alternate_spelling"
-        }
-      ]
-    },
-    {
-      "canonical": "CALIFORNIA ASSOCIATION OF THE DEAF, INC",
-      "status": "active",
-      "children": [
+        },
         {
-          "name": "THE CALIFORNIA ASSOCIATION OF THE DEAF, INC",
-          "relationship": "alternate_spelling"
+          "name": "CALIFORNIA ASSOCIATION OF THE DEAF, INC",
+          "relationship": "alternate_spelling",
+          "children": [
+            {
+              "name": "THE CALIFORNIA ASSOCIATION OF THE DEAF, INC",
+              "relationship": "alternate_spelling"
+            }
+          ]
         }
       ]
     },
@@ -23909,6 +24179,10 @@
         {
           "name": "California Auto Dismantlers' And Recyclers' Alliance, Inc",
           "relationship": "alternate_spelling"
+        },
+        {
+          "name": "California Auto Dismantlers and Recyclers Alliance, Inc",
+          "relationship": "alternate_spelling"
         }
       ]
     },
@@ -23918,6 +24192,10 @@
       "children": [
         {
           "name": "CALIFORNIA AUTOBODY ASSOCIATION (CAA)",
+          "relationship": "alternate_spelling"
+        },
+        {
+          "name": "The California Autobody Association",
           "relationship": "alternate_spelling"
         }
       ]
@@ -24076,6 +24354,10 @@
       "children": [
         {
           "name": "California Beet Growers Association, Inc",
+          "relationship": "alternate_spelling"
+        },
+        {
+          "name": "California Beet Growers Association, Ltd",
           "relationship": "alternate_spelling"
         }
       ]
@@ -24606,6 +24888,10 @@
       "children": [
         {
           "name": "CALIFORNIA CENTRAL VALLEY ECONOMIC DEVELOPMENT CORPORATION (CCVEDC)",
+          "relationship": "alternate_spelling"
+        },
+        {
+          "name": "California Central Valley Economic Development",
           "relationship": "alternate_spelling"
         }
       ]
@@ -34053,6 +34339,10 @@
         {
           "name": "CDHA",
           "relationship": "alternate_spelling"
+        },
+        {
+          "name": "The California Dental Hygienists' Association (CDHA)",
+          "relationship": "alternate_spelling"
         }
       ]
     },
@@ -34641,6 +34931,10 @@
         {
           "name": "California Energy Company, Inc",
           "relationship": "alternate_spelling"
+        },
+        {
+          "name": "California Energy",
+          "relationship": "alternate_spelling"
         }
       ]
     },
@@ -34759,6 +35053,24 @@
         {
           "name": "CALIFORNIA FACULTY ASSOCIATION (CFA)",
           "relationship": "alternate_spelling"
+        },
+        {
+          "name": "Faculty Association",
+          "relationship": "alternate_spelling",
+          "children": [
+            {
+              "name": "Faculty Association of California",
+              "relationship": "chapter"
+            },
+            {
+              "name": "Faculty Association, California",
+              "relationship": "chapter"
+            },
+            {
+              "name": "California Faculty Association",
+              "relationship": "chapter"
+            }
+          ]
         }
       ]
     },
@@ -35535,56 +35847,6 @@
       ]
     },
     {
-      "canonical": "CALIFORNIA HAWAII STATE CONFERENCE OF THE NAACP",
-      "status": "active",
-      "children": [
-        {
-          "name": "CALIFORNIA HAWAII STATE CONFERENCE OF NAACP",
-          "relationship": "alternate_spelling"
-        },
-        {
-          "name": "CALIFORNIA HAWAII STATE NAACP",
-          "relationship": "alternate_spelling"
-        },
-        {
-          "name": "CALIFORNIA NAACP",
-          "relationship": "alternate_spelling"
-        },
-        {
-          "name": "CALIFORNIA STATE CONFERENCE OF THE NATIONAL ASSOCIATION FOR THE ADVANCEMENT OF COLORED PEOPLE",
-          "relationship": "alternate_spelling"
-        },
-        {
-          "name": "CALIFORNIA-HAWAII STATE CONFERENCE OF THE NAACP",
-          "relationship": "alternate_spelling"
-        },
-        {
-          "name": "NAACP",
-          "relationship": "alternate_spelling"
-        },
-        {
-          "name": "California Hawaii State Conference of the National Association for the Advancement of Colored People (NAACP)",
-          "relationship": "chapter"
-        },
-        {
-          "name": "California-Hawaii State Conference of the National Association for the Advancement of Colored People (NAACP)",
-          "relationship": "chapter"
-        },
-        {
-          "name": "California State Conference Of The National Association For The Advancement Of Colored People (NAACP)",
-          "relationship": "chapter"
-        },
-        {
-          "name": "California Sate Conference of the National Association for the Advancement of Colored People (NAACP)",
-          "relationship": "chapter"
-        },
-        {
-          "name": "California State Conference of the National Association for the Advancement of Colored People (California NAACP)",
-          "relationship": "chapter"
-        }
-      ]
-    },
-    {
       "canonical": "CALIFORNIA HAWAIIAN MOBILE HOME PARK HOMEOWNERS ASSOCIATION, SAN JOSE",
       "status": "active"
     },
@@ -36079,6 +36341,10 @@
         {
           "name": "CALIFORNIA HOUSING PARTNERSHIP CORPORATION (CHPC)",
           "relationship": "alternate_spelling"
+        },
+        {
+          "name": "California Housing Partnership Corp",
+          "relationship": "alternate_spelling"
         }
       ]
     },
@@ -36088,6 +36354,14 @@
       "children": [
         {
           "name": "CALIFORNIA HUMAN DEVELOPMENT (CHD)",
+          "relationship": "alternate_spelling"
+        },
+        {
+          "name": "California Human Development Corporation",
+          "relationship": "alternate_spelling"
+        },
+        {
+          "name": "California Human Development Corp",
           "relationship": "alternate_spelling"
         }
       ]
@@ -37422,6 +37696,10 @@
       "children": [
         {
           "name": "CALIFORNIA MENTAL HEALTH ADVOCATES FOR CHILDREN AND YOUTH (CMHACY)",
+          "relationship": "alternate_spelling"
+        },
+        {
+          "name": "California Mental Health Advocates for Children and Youth (CMHACY), co",
           "relationship": "alternate_spelling"
         }
       ]
@@ -39194,6 +39472,10 @@
         {
           "name": "California Reading Association, Inc",
           "relationship": "alternate_spelling"
+        },
+        {
+          "name": "California Reading Association Incorporated",
+          "relationship": "alternate_spelling"
         }
       ]
     },
@@ -39470,6 +39752,10 @@
         {
           "name": "California Rifle & Pistol Association of California",
           "relationship": "chapter"
+        },
+        {
+          "name": "California Rifle & Pistol Association Incorporated",
+          "relationship": "alternate_spelling"
         }
       ]
     },
@@ -39501,6 +39787,14 @@
         },
         {
           "name": "THE CALIFORNIA RIFLE AND PISTOL ASSOCIATION, INC",
+          "relationship": "alternate_spelling"
+        },
+        {
+          "name": "California Rifle and Pistol Association, Inc",
+          "relationship": "alternate_spelling"
+        },
+        {
+          "name": "California Rifle and Pistol Association, Incorporated",
           "relationship": "alternate_spelling"
         }
       ]
@@ -39603,6 +39897,10 @@
         {
           "name": "California Rural Legal Assistance Foundation (CRLSF)",
           "relationship": "chapter"
+        },
+        {
+          "name": "California Rural Legal Assistance Corporation",
+          "relationship": "alternate_spelling"
         }
       ]
     },
@@ -40341,6 +40639,10 @@
         {
           "name": "THE CALIFORNIA SPORTMAN'S LOBBY, INC",
           "relationship": "alternate_spelling"
+        },
+        {
+          "name": "California Sportman's Lobby",
+          "relationship": "alternate_spelling"
         }
       ]
     },
@@ -40387,6 +40689,10 @@
         {
           "name": "THE CALIFORNIA SPORTSMAN'S LOBBY, INC",
           "relationship": "alternate_spelling"
+        },
+        {
+          "name": "California Sportsman's Lobby, Incorporated",
+          "relationship": "alternate_spelling"
         }
       ]
     },
@@ -40397,16 +40703,16 @@
         {
           "name": "THE CALIFORNIA SPORTSMANOS LOBBY",
           "relationship": "alternate_spelling"
-        }
-      ]
-    },
-    {
-      "canonical": "CALIFORNIA SPORTSMANOS LOBBY, INC",
-      "status": "active",
-      "children": [
+        },
         {
-          "name": "THE CALIFORNIA SPORTSMANOS LOBBY, INC",
-          "relationship": "alternate_spelling"
+          "name": "CALIFORNIA SPORTSMANOS LOBBY, INC",
+          "relationship": "alternate_spelling",
+          "children": [
+            {
+              "name": "THE CALIFORNIA SPORTSMANOS LOBBY, INC",
+              "relationship": "alternate_spelling"
+            }
+          ]
         }
       ]
     },
@@ -40945,6 +41251,10 @@
         {
           "name": "California State Firefighterso Association, Inc",
           "relationship": "alternate_spelling"
+        },
+        {
+          "name": "California State Firefighter's Association",
+          "relationship": "alternate_spelling"
         }
       ]
     },
@@ -41036,6 +41346,10 @@
       "children": [
         {
           "name": "The California State Park Rangers' Association",
+          "relationship": "alternate_spelling"
+        },
+        {
+          "name": "The California State Park Rangers Association",
           "relationship": "alternate_spelling"
         }
       ]
@@ -41238,6 +41552,10 @@
         },
         {
           "name": "CSI",
+          "relationship": "alternate_spelling"
+        },
+        {
+          "name": "California Steel Industries, Incorporated",
           "relationship": "alternate_spelling"
         }
       ]
@@ -42983,6 +43301,10 @@
         {
           "name": "Capitol Racing Inc",
           "relationship": "alternate_spelling"
+        },
+        {
+          "name": "Capitol Racing LLC",
+          "relationship": "alternate_spelling"
         }
       ]
     },
@@ -43180,6 +43502,10 @@
       "children": [
         {
           "name": "Cargill, Inc",
+          "relationship": "alternate_spelling"
+        },
+        {
+          "name": "Cargill, Incorporated",
           "relationship": "alternate_spelling"
         }
       ]
@@ -43479,21 +43805,25 @@
       ]
     },
     {
-      "canonical": "CAT FANCIERS' ASSOCIATION, INC",
-      "status": "active",
-      "children": [
-        {
-          "name": "THE CAT FANCIERS' ASSOCIATION, INC",
-          "relationship": "alternate_spelling"
-        }
-      ]
-    },
-    {
       "canonical": "CAT FANCIERS' ASSOCIATION",
       "status": "active",
       "children": [
         {
           "name": "The Cat Fanciers Association",
+          "relationship": "alternate_spelling"
+        },
+        {
+          "name": "CAT FANCIERS' ASSOCIATION, INC",
+          "relationship": "alternate_spelling",
+          "children": [
+            {
+              "name": "THE CAT FANCIERS' ASSOCIATION, INC",
+              "relationship": "alternate_spelling"
+            }
+          ]
+        },
+        {
+          "name": "The Cat Fanciers' Association",
           "relationship": "alternate_spelling"
         }
       ]
@@ -44401,16 +44731,16 @@
         {
           "name": "THE CENTER FOR INDEPENDENT LIVING",
           "relationship": "alternate_spelling"
-        }
-      ]
-    },
-    {
-      "canonical": "CENTER FOR INDEPENDENT LIVING, INC",
-      "status": "active",
-      "children": [
+        },
         {
-          "name": "THE CENTER FOR INDEPENDENT LIVING, INC",
-          "relationship": "alternate_spelling"
+          "name": "CENTER FOR INDEPENDENT LIVING, INC",
+          "relationship": "alternate_spelling",
+          "children": [
+            {
+              "name": "THE CENTER FOR INDEPENDENT LIVING, INC",
+              "relationship": "alternate_spelling"
+            }
+          ]
         }
       ]
     },
@@ -44952,6 +45282,10 @@
       "children": [
         {
           "name": "The Center - Orange County",
+          "relationship": "alternate_spelling"
+        },
+        {
+          "name": "The Center, Orange County",
           "relationship": "alternate_spelling"
         }
       ]
@@ -45591,6 +45925,10 @@
         {
           "name": "Century Housing, Culver City",
           "relationship": "alternate_spelling"
+        },
+        {
+          "name": "Century Housing Corporation",
+          "relationship": "alternate_spelling"
         }
       ]
     },
@@ -45959,6 +46297,10 @@
         {
           "name": "Chemco, Inc",
           "relationship": "alternate_spelling"
+        },
+        {
+          "name": "Chemco Corporation",
+          "relationship": "alternate_spelling"
         }
       ]
     },
@@ -46066,6 +46408,14 @@
       "children": [
         {
           "name": "Chevron, Inc",
+          "relationship": "alternate_spelling"
+        },
+        {
+          "name": "Chevron Corporation",
+          "relationship": "alternate_spelling"
+        },
+        {
+          "name": "Chevron Corp",
           "relationship": "alternate_spelling"
         }
       ]
@@ -46728,6 +47078,10 @@
       "children": [
         {
           "name": "THE CHILDREN'S COLLECTIVE, INC",
+          "relationship": "alternate_spelling"
+        },
+        {
+          "name": "The Children's Collective",
           "relationship": "alternate_spelling"
         }
       ]
@@ -47448,6 +47802,10 @@
         {
           "name": "Cisco Systems Inc",
           "relationship": "alternate_spelling"
+        },
+        {
+          "name": "Cisco Systems Limited",
+          "relationship": "alternate_spelling"
         }
       ]
     },
@@ -47457,6 +47815,10 @@
       "children": [
         {
           "name": "Citation Northern Inc",
+          "relationship": "alternate_spelling"
+        },
+        {
+          "name": "Citation Northern Corporation",
           "relationship": "alternate_spelling"
         }
       ]
@@ -48077,7 +48439,13 @@
     },
     {
       "canonical": "CITY OF CARLSBAD",
-      "status": "active"
+      "status": "active",
+      "children": [
+        {
+          "name": "The City of Carlsbad",
+          "relationship": "alternate_spelling"
+        }
+      ]
     },
     {
       "canonical": "CITY OF CARPINTERIA",
@@ -50330,6 +50698,10 @@
         {
           "name": "Clean Air Partners, Inc",
           "relationship": "alternate_spelling"
+        },
+        {
+          "name": "Clean Air Partners, Incorporated",
+          "relationship": "alternate_spelling"
         }
       ]
     },
@@ -50534,6 +50906,10 @@
         {
           "name": "Clif Bar Inc",
           "relationship": "alternate_spelling"
+        },
+        {
+          "name": "Clif Bar Incorporated",
+          "relationship": "alternate_spelling"
         }
       ]
     },
@@ -50684,6 +51060,10 @@
         {
           "name": "The Climate Reality Project, San Francisco Bay Area",
           "relationship": "alternate_spelling"
+        },
+        {
+          "name": "The Climate Reality Project - San Francisco Bay Area",
+          "relationship": "alternate_spelling"
         }
       ]
     },
@@ -50751,6 +51131,10 @@
         {
           "name": "The Climate Reality Project: California Coalition",
           "relationship": "alternate_spelling"
+        },
+        {
+          "name": "The Climate Reality Project, California Coalition",
+          "relationship": "alternate_spelling"
         }
       ]
     },
@@ -50780,6 +51164,10 @@
       "children": [
         {
           "name": "The Climate Reality Project - Orange County",
+          "relationship": "alternate_spelling"
+        },
+        {
+          "name": "The Climate Reality Project, Orange County",
           "relationship": "alternate_spelling"
         }
       ]
@@ -50811,6 +51199,10 @@
         {
           "name": "The Climate Reality Project - San Diego",
           "relationship": "alternate_spelling"
+        },
+        {
+          "name": "The Climate Reality Project, San Diego",
+          "relationship": "alternate_spelling"
         }
       ]
     },
@@ -50821,6 +51213,10 @@
         {
           "name": "The Climate Reality Project San Diego Chapter",
           "relationship": "alternate_spelling"
+        },
+        {
+          "name": "The Climate Reality Project, San Diego Chapter",
+          "relationship": "alternate_spelling"
         }
       ]
     },
@@ -50830,6 +51226,10 @@
       "children": [
         {
           "name": "The Climate Reality Project - San Fernando Valley",
+          "relationship": "alternate_spelling"
+        },
+        {
+          "name": "The Climate Reality Project, San Fernando Valley",
           "relationship": "alternate_spelling"
         }
       ]
@@ -50850,6 +51250,10 @@
       "children": [
         {
           "name": "The Climate Reality Project South Central Coast",
+          "relationship": "alternate_spelling"
+        },
+        {
+          "name": "The Climate Reality Project, South Central Coast",
           "relationship": "alternate_spelling"
         }
       ]
@@ -50929,6 +51333,10 @@
         {
           "name": "Clinicas del Camino Real, Inc",
           "relationship": "alternate_spelling"
+        },
+        {
+          "name": "Clinicas del Camino Real Incorporated",
+          "relationship": "alternate_spelling"
         }
       ]
     },
@@ -50968,6 +51376,10 @@
       "children": [
         {
           "name": "THE CLOROX CORPORATION",
+          "relationship": "alternate_spelling"
+        },
+        {
+          "name": "Clorox",
           "relationship": "alternate_spelling"
         }
       ]
@@ -51815,6 +52227,10 @@
         {
           "name": "The Coalition of Labor, Agriculture, and Business",
           "relationship": "alternate_spelling"
+        },
+        {
+          "name": "The Coalition of Labor, Agriculture and Business",
+          "relationship": "alternate_spelling"
         }
       ]
     },
@@ -52012,6 +52428,10 @@
         },
         {
           "name": "CATER",
+          "relationship": "alternate_spelling"
+        },
+        {
+          "name": "The Coalition to Actively Treat and Educate for Recovery (CATER)",
           "relationship": "alternate_spelling"
         }
       ]
@@ -52449,6 +52869,10 @@
         {
           "name": "THE COLLIE CLUB OF AMERICA, INC",
           "relationship": "alternate_spelling"
+        },
+        {
+          "name": "Collie Club of America",
+          "relationship": "alternate_spelling"
         }
       ]
     },
@@ -52482,6 +52906,10 @@
       "children": [
         {
           "name": "Colmac Energy, Inc",
+          "relationship": "alternate_spelling"
+        },
+        {
+          "name": "Colmac Energy Corporation",
           "relationship": "alternate_spelling"
         }
       ]
@@ -54023,6 +54451,14 @@
         {
           "name": "Community Housing Inc",
           "relationship": "alternate_spelling"
+        },
+        {
+          "name": "Community Housing Corporation",
+          "relationship": "alternate_spelling"
+        },
+        {
+          "name": "Community Housing Corp",
+          "relationship": "alternate_spelling"
         }
       ]
     },
@@ -54070,6 +54506,10 @@
         },
         {
           "name": "COMMUNITY HOUSING OPPORTUNITIES CORPORATION (CHOC)",
+          "relationship": "alternate_spelling"
+        },
+        {
+          "name": "Community Housing Opportunities",
           "relationship": "alternate_spelling"
         }
       ]
@@ -54729,6 +55169,10 @@
         {
           "name": "Concentra Inc",
           "relationship": "alternate_spelling"
+        },
+        {
+          "name": "Concentra Incorporated",
+          "relationship": "alternate_spelling"
         }
       ]
     },
@@ -55320,6 +55764,10 @@
       "children": [
         {
           "name": "Constellation Newenergy, Inc",
+          "relationship": "alternate_spelling"
+        },
+        {
+          "name": "Constellation NewEnergy, Incorporated",
           "relationship": "alternate_spelling"
         }
       ]
@@ -55952,6 +56400,10 @@
       "children": [
         {
           "name": "Continental Plastic Containers, Inc",
+          "relationship": "alternate_spelling"
+        },
+        {
+          "name": "Continental Plastic Containers, Incorporated",
           "relationship": "alternate_spelling"
         }
       ]
@@ -57835,6 +58287,10 @@
         {
           "name": "THE COUNTY OF SANTA CLARA",
           "relationship": "alternate_spelling"
+        },
+        {
+          "name": "County of Santa Clara, Incorporated",
+          "relationship": "alternate_spelling"
         }
       ]
     },
@@ -58213,16 +58669,16 @@
         {
           "name": "THE COVELLO GROUP",
           "relationship": "alternate_spelling"
-        }
-      ]
-    },
-    {
-      "canonical": "COVELLO GROUP, INC",
-      "status": "active",
-      "children": [
+        },
         {
-          "name": "THE COVELLO GROUP, INC",
-          "relationship": "alternate_spelling"
+          "name": "COVELLO GROUP, INC",
+          "relationship": "alternate_spelling",
+          "children": [
+            {
+              "name": "THE COVELLO GROUP, INC",
+              "relationship": "alternate_spelling"
+            }
+          ]
         }
       ]
     },
@@ -58302,6 +58758,14 @@
         },
         {
           "name": "CR & R",
+          "relationship": "alternate_spelling"
+        },
+        {
+          "name": "CR&R Incorporated",
+          "relationship": "alternate_spelling"
+        },
+        {
+          "name": "CR & R Incorporated",
           "relationship": "alternate_spelling"
         }
       ]
@@ -58675,6 +59139,10 @@
         {
           "name": "Crown Imports, Inc",
           "relationship": "alternate_spelling"
+        },
+        {
+          "name": "Crown Imports LLC",
+          "relationship": "alternate_spelling"
         }
       ]
     },
@@ -58792,6 +59260,10 @@
         },
         {
           "name": "CSAC-Excess Insurance Authority",
+          "relationship": "alternate_spelling"
+        },
+        {
+          "name": "The CSAC Excess Insurance Authority",
           "relationship": "alternate_spelling"
         }
       ]
@@ -59139,6 +59611,10 @@
         {
           "name": "THE DAHM TEAM REAL ESTATE COMPANY, INC",
           "relationship": "alternate_spelling"
+        },
+        {
+          "name": "The Dahm Team Real Estate Company",
+          "relationship": "alternate_spelling"
         }
       ]
     },
@@ -59465,6 +59941,14 @@
         {
           "name": "Davis Waste Removal, Inc",
           "relationship": "alternate_spelling"
+        },
+        {
+          "name": "Davis Waste Removal Co",
+          "relationship": "alternate_spelling"
+        },
+        {
+          "name": "Davis Waste Removal Company, Inc",
+          "relationship": "alternate_spelling"
         }
       ]
     },
@@ -59534,7 +60018,13 @@
     },
     {
       "canonical": "DE LUZ FAMILY HOUSING",
-      "status": "active"
+      "status": "active",
+      "children": [
+        {
+          "name": "De Luz Family Housing, LLC",
+          "relationship": "alternate_spelling"
+        }
+      ]
     },
     {
       "canonical": "DE Solutions",
@@ -59709,6 +60199,10 @@
         {
           "name": "Deinhard Electric Company Inc",
           "relationship": "alternate_spelling"
+        },
+        {
+          "name": "Deinhard Electric",
+          "relationship": "alternate_spelling"
         }
       ]
     },
@@ -59845,6 +60339,10 @@
         {
           "name": "Delta Dental of California",
           "relationship": "chapter"
+        },
+        {
+          "name": "Delta Dental Corporation",
+          "relationship": "alternate_spelling"
         }
       ]
     },
@@ -60016,6 +60514,10 @@
       "children": [
         {
           "name": "THE DENNEHEY GROUP, INC",
+          "relationship": "alternate_spelling"
+        },
+        {
+          "name": "The Dennehey Group",
           "relationship": "alternate_spelling"
         }
       ]
@@ -61209,6 +61711,30 @@
         {
           "name": "DSA",
           "relationship": "alternate_spelling"
+        },
+        {
+          "name": "Association for Los Angeles Deputy Sheriffs, Incorporated",
+          "relationship": "alternate_spelling"
+        },
+        {
+          "name": "Association for Los Angeles Deputy Sheriff's",
+          "relationship": "alternate_spelling"
+        },
+        {
+          "name": "Los Angeles Deputy Sheriffs Association",
+          "relationship": "alternate_spelling"
+        },
+        {
+          "name": "San Francisco Deputy Sheriff's Association",
+          "relationship": "alternate_spelling"
+        },
+        {
+          "name": "Association for Los Angeles Deputy Sheriff",
+          "relationship": "alternate_spelling"
+        },
+        {
+          "name": "Association for the Los Angeles Deputy Sheriffs",
+          "relationship": "alternate_spelling"
         }
       ]
     },
@@ -61249,16 +61775,16 @@
         {
           "name": "THE DESERT PROTECTIVE COUNCIL",
           "relationship": "alternate_spelling"
-        }
-      ]
-    },
-    {
-      "canonical": "DESERT PROTECTIVE COUNCIL, INC",
-      "status": "active",
-      "children": [
+        },
         {
-          "name": "THE DESERT PROTECTIVE COUNCIL, INC",
-          "relationship": "alternate_spelling"
+          "name": "DESERT PROTECTIVE COUNCIL, INC",
+          "relationship": "alternate_spelling",
+          "children": [
+            {
+              "name": "THE DESERT PROTECTIVE COUNCIL, INC",
+              "relationship": "alternate_spelling"
+            }
+          ]
         }
       ]
     },
@@ -61480,6 +62006,10 @@
       "children": [
         {
           "name": "THE DIAL CORPORATION",
+          "relationship": "alternate_spelling"
+        },
+        {
+          "name": "The Dial",
           "relationship": "alternate_spelling"
         }
       ]
@@ -62113,6 +62643,10 @@
         {
           "name": "THE DIXIE GROUP, INC",
           "relationship": "alternate_spelling"
+        },
+        {
+          "name": "Dixie Group",
+          "relationship": "alternate_spelling"
         }
       ]
     },
@@ -62122,6 +62656,10 @@
       "children": [
         {
           "name": "DJI, Inc",
+          "relationship": "alternate_spelling"
+        },
+        {
+          "name": "DJI Incorporated",
           "relationship": "alternate_spelling"
         }
       ]
@@ -62423,6 +62961,10 @@
         {
           "name": "THE DOW CHEMICAL COMPANY",
           "relationship": "alternate_spelling"
+        },
+        {
+          "name": "Dow Chemical",
+          "relationship": "alternate_spelling"
         }
       ]
     },
@@ -62575,6 +63117,14 @@
         {
           "name": "Driving School Association of California Inc",
           "relationship": "alternate_spelling"
+        },
+        {
+          "name": "Driving School Association of California, Incorporated",
+          "relationship": "alternate_spelling"
+        },
+        {
+          "name": "Driving School association of California, Inc",
+          "relationship": "alternate_spelling"
         }
       ]
     },
@@ -62585,16 +63135,16 @@
         {
           "name": "THE DRIVING SCHOOL ASSOCIATION OF THE AMERICAS",
           "relationship": "alternate_spelling"
-        }
-      ]
-    },
-    {
-      "canonical": "DRIVING SCHOOL ASSOCIATION OF THE AMERICAS, INC",
-      "status": "active",
-      "children": [
+        },
         {
-          "name": "THE DRIVING SCHOOL ASSOCIATION OF THE AMERICAS, INC",
-          "relationship": "alternate_spelling"
+          "name": "DRIVING SCHOOL ASSOCIATION OF THE AMERICAS, INC",
+          "relationship": "alternate_spelling",
+          "children": [
+            {
+              "name": "THE DRIVING SCHOOL ASSOCIATION OF THE AMERICAS, INC",
+              "relationship": "alternate_spelling"
+            }
+          ]
         }
       ]
     },
@@ -62762,6 +63312,10 @@
       "children": [
         {
           "name": "Dynegy Inc",
+          "relationship": "alternate_spelling"
+        },
+        {
+          "name": "Dynegy, Incorporated",
           "relationship": "alternate_spelling"
         }
       ]
@@ -63067,6 +63621,10 @@
         {
           "name": "EAST BAY ASIAN LOCAL DEVELOPMENT CORPORATION (EBALDC)",
           "relationship": "alternate_spelling"
+        },
+        {
+          "name": "East Bay Asian Local Development",
+          "relationship": "alternate_spelling"
         }
       ]
     },
@@ -63142,6 +63700,10 @@
       "children": [
         {
           "name": "THE EAST BAY CONSORTIUM OF EDUCATIONAL INSTITUTIONS, INC",
+          "relationship": "alternate_spelling"
+        },
+        {
+          "name": "East Bay Consortium of Educational Institutions",
           "relationship": "alternate_spelling"
         }
       ]
@@ -63338,7 +63900,13 @@
     },
     {
       "canonical": "EAST LA COMMUNITY CORPORATION",
-      "status": "active"
+      "status": "active",
+      "children": [
+        {
+          "name": "East LA Community",
+          "relationship": "alternate_spelling"
+        }
+      ]
     },
     {
       "canonical": "EAST LOS ANGELES COMMUNITY CORPORATION",
@@ -63346,6 +63914,10 @@
       "children": [
         {
           "name": "EAST LOS ANGELES COMMUNITY CORPORATION (ELACC)",
+          "relationship": "alternate_spelling"
+        },
+        {
+          "name": "East Los Angeles Community",
           "relationship": "alternate_spelling"
         }
       ]
@@ -63508,6 +64080,14 @@
       "children": [
         {
           "name": "Eastman Chemical, Inc",
+          "relationship": "alternate_spelling"
+        },
+        {
+          "name": "Eastman Chemical Company",
+          "relationship": "alternate_spelling"
+        },
+        {
+          "name": "Eastman Chemical Co",
           "relationship": "alternate_spelling"
         }
       ]
@@ -64355,6 +64935,18 @@
         {
           "name": "EDS",
           "relationship": "alternate_spelling"
+        },
+        {
+          "name": "EDS Corporation",
+          "relationship": "alternate_spelling"
+        },
+        {
+          "name": "EDS Corp",
+          "relationship": "alternate_spelling"
+        },
+        {
+          "name": "Electronic Data Systems Corp",
+          "relationship": "alternate_spelling"
         }
       ]
     },
@@ -64676,6 +65268,10 @@
       "children": [
         {
           "name": "EMBEE Inc",
+          "relationship": "alternate_spelling"
+        },
+        {
+          "name": "Embee Incorporated",
           "relationship": "alternate_spelling"
         }
       ]
@@ -65348,6 +65944,10 @@
       "children": [
         {
           "name": "ENGEO, Inc",
+          "relationship": "alternate_spelling"
+        },
+        {
+          "name": "ENGEO Incorporated",
           "relationship": "alternate_spelling"
         }
       ]
@@ -66081,6 +66681,10 @@
         {
           "name": "EDF",
           "relationship": "alternate_spelling"
+        },
+        {
+          "name": "Environmental Defense Fund, Incorporated",
+          "relationship": "alternate_spelling"
         }
       ]
     },
@@ -66455,6 +67059,10 @@
         {
           "name": "Equestrian Trails Inc",
           "relationship": "alternate_spelling"
+        },
+        {
+          "name": "Equestrian Trails Incorporated",
+          "relationship": "alternate_spelling"
         }
       ]
     },
@@ -66625,12 +67233,16 @@
         {
           "name": "Esperanza Community Housing Inc",
           "relationship": "alternate_spelling"
+        },
+        {
+          "name": "ESPERANZA COMMUNITY HOUSING CORPORATION",
+          "relationship": "alternate_spelling"
+        },
+        {
+          "name": "Esperanza Community Housing Corp",
+          "relationship": "alternate_spelling"
         }
       ]
-    },
-    {
-      "canonical": "ESPERANZA COMMUNITY HOUSING CORPORATION",
-      "status": "active"
     },
     {
       "canonical": "Esperanza Immigrant Rights Project, Catholic Charities of Los Angeles",
@@ -66830,6 +67442,10 @@
       "children": [
         {
           "name": "Evergreen Oil Inc",
+          "relationship": "alternate_spelling"
+        },
+        {
+          "name": "Evergreen Oil Company",
           "relationship": "alternate_spelling"
         }
       ]
@@ -67109,16 +67725,16 @@
         {
           "name": "Express Scripts Inc",
           "relationship": "alternate_spelling"
-        }
-      ]
-    },
-    {
-      "canonical": "EXPRESS SCRIPTS INCORPORATED",
-      "status": "active",
-      "children": [
+        },
         {
-          "name": "EXPRESS SCRIPTS INCORPORATED (ESI)",
-          "relationship": "alternate_spelling"
+          "name": "EXPRESS SCRIPTS INCORPORATED",
+          "relationship": "alternate_spelling",
+          "children": [
+            {
+              "name": "EXPRESS SCRIPTS INCORPORATED (ESI)",
+              "relationship": "alternate_spelling"
+            }
+          ]
         }
       ]
     },
@@ -67193,24 +67809,6 @@
         {
           "name": "FACTS AND LOGIC ABOUT THE MIDDLE EAST (FLAME)",
           "relationship": "alternate_spelling"
-        }
-      ]
-    },
-    {
-      "canonical": "Faculty Association",
-      "status": "active",
-      "children": [
-        {
-          "name": "Faculty Association of California",
-          "relationship": "chapter"
-        },
-        {
-          "name": "Faculty Association, California",
-          "relationship": "chapter"
-        },
-        {
-          "name": "California Faculty Association",
-          "relationship": "chapter"
         }
       ]
     },
@@ -67343,6 +67941,10 @@
         {
           "name": "Fair Housing Council of Riverside, California",
           "relationship": "chapter"
+        },
+        {
+          "name": "Fair Housing Council of Riverside Co",
+          "relationship": "alternate_spelling"
         }
       ]
     },
@@ -68077,6 +68679,10 @@
         {
           "name": "Farmers Insurance, Inc",
           "relationship": "alternate_spelling"
+        },
+        {
+          "name": "Farmers Insurance Company",
+          "relationship": "alternate_spelling"
         }
       ]
     },
@@ -68315,16 +68921,16 @@
         {
           "name": "THE FEDERATION OF CALIFORNIA RACING ASSOCIATIONS",
           "relationship": "alternate_spelling"
-        }
-      ]
-    },
-    {
-      "canonical": "FEDERATION OF CALIFORNIA RACING ASSOCIATIONS, INC",
-      "status": "active",
-      "children": [
+        },
         {
-          "name": "THE FEDERATION OF CALIFORNIA RACING ASSOCIATIONS, INC",
-          "relationship": "alternate_spelling"
+          "name": "FEDERATION OF CALIFORNIA RACING ASSOCIATIONS, INC",
+          "relationship": "alternate_spelling",
+          "children": [
+            {
+              "name": "THE FEDERATION OF CALIFORNIA RACING ASSOCIATIONS, INC",
+              "relationship": "alternate_spelling"
+            }
+          ]
         }
       ]
     },
@@ -68355,16 +68961,16 @@
         {
           "name": "THE FEDERATION OF HILLSIDE AND CANYON ASSOCIATIONS",
           "relationship": "alternate_spelling"
-        }
-      ]
-    },
-    {
-      "canonical": "FEDERATION OF HILLSIDE AND CANYON ASSOCIATIONS, INC",
-      "status": "active",
-      "children": [
+        },
         {
-          "name": "THE FEDERATION OF HILLSIDE AND CANYON ASSOCIATIONS, INC",
-          "relationship": "alternate_spelling"
+          "name": "FEDERATION OF HILLSIDE AND CANYON ASSOCIATIONS, INC",
+          "relationship": "alternate_spelling",
+          "children": [
+            {
+              "name": "THE FEDERATION OF HILLSIDE AND CANYON ASSOCIATIONS, INC",
+              "relationship": "alternate_spelling"
+            }
+          ]
         }
       ]
     },
@@ -68501,6 +69107,10 @@
         {
           "name": "THE FERVO ENERGY",
           "relationship": "alternate_spelling"
+        },
+        {
+          "name": "Fervo Energy Company",
+          "relationship": "alternate_spelling"
         }
       ]
     },
@@ -68520,6 +69130,14 @@
       "children": [
         {
           "name": "FHP Inc",
+          "relationship": "alternate_spelling"
+        },
+        {
+          "name": "FHP, Incorporated",
+          "relationship": "alternate_spelling"
+        },
+        {
+          "name": "FHP Corporation",
           "relationship": "alternate_spelling"
         }
       ]
@@ -69047,15 +69665,19 @@
         {
           "name": "THE FIRST AMERICAN",
           "relationship": "alternate_spelling"
-        }
-      ]
-    },
-    {
-      "canonical": "FIRST AMERICAN CORPORATION",
-      "status": "active",
-      "children": [
+        },
         {
-          "name": "THE FIRST AMERICAN CORPORATION",
+          "name": "FIRST AMERICAN CORPORATION",
+          "relationship": "alternate_spelling",
+          "children": [
+            {
+              "name": "THE FIRST AMERICAN CORPORATION",
+              "relationship": "alternate_spelling"
+            }
+          ]
+        },
+        {
+          "name": "First American Corp",
           "relationship": "alternate_spelling"
         }
       ]
@@ -69402,6 +70024,10 @@
       "children": [
         {
           "name": "The Flea Market, Inc",
+          "relationship": "alternate_spelling"
+        },
+        {
+          "name": "The Flea Market Inc",
           "relationship": "alternate_spelling"
         }
       ]
@@ -69781,6 +70407,14 @@
         {
           "name": "Foodmaker Inc",
           "relationship": "alternate_spelling"
+        },
+        {
+          "name": "Foodmaker Company",
+          "relationship": "alternate_spelling"
+        },
+        {
+          "name": "Foodmaker, Incorporated",
+          "relationship": "alternate_spelling"
         }
       ]
     },
@@ -69856,6 +70490,10 @@
       "children": [
         {
           "name": "THE FOR ANIMALS, INC",
+          "relationship": "alternate_spelling"
+        },
+        {
+          "name": "for Animals",
           "relationship": "alternate_spelling"
         }
       ]
@@ -70233,6 +70871,10 @@
         {
           "name": "The Foundation for Taxpayer Consumer Rights",
           "relationship": "alternate_spelling"
+        },
+        {
+          "name": "The Foundation for Taxpayer & Consumer Rights",
+          "relationship": "alternate_spelling"
         }
       ]
     },
@@ -70334,6 +70976,10 @@
       "children": [
         {
           "name": "Fowler Packing Company, INC",
+          "relationship": "alternate_spelling"
+        },
+        {
+          "name": "Fowler Packing",
           "relationship": "alternate_spelling"
         }
       ]
@@ -70969,6 +71615,10 @@
         {
           "name": "Frontier Communications of California",
           "relationship": "chapter"
+        },
+        {
+          "name": "Frontier Communications Corporation",
+          "relationship": "alternate_spelling"
         }
       ]
     },
@@ -71135,16 +71785,16 @@
         {
           "name": "THE FUND FOR ANIMALS",
           "relationship": "alternate_spelling"
-        }
-      ]
-    },
-    {
-      "canonical": "FUND FOR ANIMALS INC",
-      "status": "active",
-      "children": [
+        },
         {
-          "name": "THE FUND FOR ANIMALS INC",
-          "relationship": "alternate_spelling"
+          "name": "FUND FOR ANIMALS INC",
+          "relationship": "alternate_spelling",
+          "children": [
+            {
+              "name": "THE FUND FOR ANIMALS INC",
+              "relationship": "alternate_spelling"
+            }
+          ]
         }
       ]
     },
@@ -71238,6 +71888,10 @@
       "children": [
         {
           "name": "The G.R.E.E.N. Foundation",
+          "relationship": "alternate_spelling"
+        },
+        {
+          "name": "The G.R.E.E.N Foundation",
           "relationship": "alternate_spelling"
         }
       ]
@@ -71515,16 +72169,16 @@
         {
           "name": "GAY AND LESBIAN ADOLESCENT SOCIAL SERVICES (GLASS)",
           "relationship": "alternate_spelling"
-        }
-      ]
-    },
-    {
-      "canonical": "GAY AND LESBIAN ADOLESCENT SOCIAL SERVICES INC",
-      "status": "active",
-      "children": [
+        },
         {
-          "name": "THE GAY AND LESBIAN ADOLESCENT SOCIAL SERVICES INC",
-          "relationship": "alternate_spelling"
+          "name": "GAY AND LESBIAN ADOLESCENT SOCIAL SERVICES INC",
+          "relationship": "alternate_spelling",
+          "children": [
+            {
+              "name": "THE GAY AND LESBIAN ADOLESCENT SOCIAL SERVICES INC",
+              "relationship": "alternate_spelling"
+            }
+          ]
         }
       ]
     },
@@ -71617,6 +72271,10 @@
         {
           "name": "Gen-Probe, Inc",
           "relationship": "alternate_spelling"
+        },
+        {
+          "name": "Gen-Probe Incorporated",
+          "relationship": "alternate_spelling"
         }
       ]
     },
@@ -71644,6 +72302,10 @@
       "children": [
         {
           "name": "Genentech Inc",
+          "relationship": "alternate_spelling"
+        },
+        {
+          "name": "Genentech Co",
           "relationship": "alternate_spelling"
         }
       ]
@@ -71824,6 +72486,10 @@
       "children": [
         {
           "name": "THE GEORGE G. GLENNER ALZHEIMER'S FAMILY CENTERS, INC",
+          "relationship": "alternate_spelling"
+        },
+        {
+          "name": "George G. Glenner Alzheimer's Family Centers",
           "relationship": "alternate_spelling"
         }
       ]
@@ -72190,6 +72856,10 @@
       "children": [
         {
           "name": "Glaxo Inc",
+          "relationship": "alternate_spelling"
+        },
+        {
+          "name": "Glaxo, Incorporated",
           "relationship": "alternate_spelling"
         }
       ]
@@ -72727,6 +73397,10 @@
         {
           "name": "Golden State Manufactured Home-Owners League (GSMOL)",
           "relationship": "alternate_spelling"
+        },
+        {
+          "name": "Golden State Manufactured Home Owners League, Inc",
+          "relationship": "alternate_spelling"
         }
       ]
     },
@@ -72873,6 +73547,10 @@
         {
           "name": "GOLDFARB LIPMAN ATTORNEYS",
           "relationship": "alternate_spelling"
+        },
+        {
+          "name": "Goldfarb & Lipman",
+          "relationship": "alternate_spelling"
         }
       ]
     },
@@ -72926,7 +73604,13 @@
     },
     {
       "canonical": "GOLFTEC ENTERPRISES LLC",
-      "status": "active"
+      "status": "active",
+      "children": [
+        {
+          "name": "GOLFTEC Enterprises",
+          "relationship": "alternate_spelling"
+        }
+      ]
     },
     {
       "canonical": "GONZALES UNIFIED SCHOOLDISTRICT",
@@ -73256,6 +73940,18 @@
       "children": [
         {
           "name": "Granite Construction Inc",
+          "relationship": "alternate_spelling"
+        },
+        {
+          "name": "Granite Construction Company",
+          "relationship": "alternate_spelling"
+        },
+        {
+          "name": "Granite Construction Incorporated",
+          "relationship": "alternate_spelling"
+        },
+        {
+          "name": "Granite Construction Co",
           "relationship": "alternate_spelling"
         }
       ]
@@ -73943,6 +74639,10 @@
         {
           "name": "Greyhound Lines Inc",
           "relationship": "alternate_spelling"
+        },
+        {
+          "name": "Greyhound Lines Incorporated",
+          "relationship": "alternate_spelling"
         }
       ]
     },
@@ -74215,6 +74915,10 @@
         {
           "name": "GTE-California",
           "relationship": "alternate_spelling"
+        },
+        {
+          "name": "GTE California Incorporated",
+          "relationship": "alternate_spelling"
         }
       ]
     },
@@ -74294,7 +74998,13 @@
     },
     {
       "canonical": "GUBB & BARSHAY, LLP",
-      "status": "active"
+      "status": "active",
+      "children": [
+        {
+          "name": "Gubb & Barshay",
+          "relationship": "alternate_spelling"
+        }
+      ]
     },
     {
       "canonical": "GUBBIO PROJECT",
@@ -74391,6 +75101,10 @@
         {
           "name": "Gun Owners of California Inc",
           "relationship": "alternate_spelling"
+        },
+        {
+          "name": "Gun Owners of California Incorporated",
+          "relationship": "alternate_spelling"
         }
       ]
     },
@@ -74431,6 +75145,10 @@
         {
           "name": "GWF Power Systems Company, Inc",
           "relationship": "alternate_spelling"
+        },
+        {
+          "name": "GWF Power Systems",
+          "relationship": "alternate_spelling"
         }
       ]
     },
@@ -74444,6 +75162,10 @@
       "children": [
         {
           "name": "H2Safe, Inc",
+          "relationship": "alternate_spelling"
+        },
+        {
+          "name": "H2Safe, LLC",
           "relationship": "alternate_spelling"
         }
       ]
@@ -74633,6 +75355,10 @@
         {
           "name": "Half Moon Bay Brewing Co",
           "relationship": "alternate_spelling"
+        },
+        {
+          "name": "Half Moon Bay Brewing",
+          "relationship": "alternate_spelling"
         }
       ]
     },
@@ -74642,6 +75368,10 @@
       "children": [
         {
           "name": "Hall Ambulance Service, Inc",
+          "relationship": "alternate_spelling"
+        },
+        {
+          "name": "Hall Ambulance Service Incorporated",
           "relationship": "alternate_spelling"
         }
       ]
@@ -74743,6 +75473,10 @@
         {
           "name": "Hanjin Shipping Company, Inc",
           "relationship": "alternate_spelling"
+        },
+        {
+          "name": "Hanjin Shipping",
+          "relationship": "alternate_spelling"
         }
       ]
     },
@@ -74762,7 +75496,13 @@
     },
     {
       "canonical": "HANSON BRIDGETT",
-      "status": "active"
+      "status": "active",
+      "children": [
+        {
+          "name": "Hanson Bridgett LLP",
+          "relationship": "alternate_spelling"
+        }
+      ]
     },
     {
       "canonical": "Hanson Permanente Cement",
@@ -74967,6 +75707,10 @@
         {
           "name": "Harris Construction Company, Inc",
           "relationship": "alternate_spelling"
+        },
+        {
+          "name": "Harris Construction",
+          "relationship": "alternate_spelling"
         }
       ]
     },
@@ -75035,6 +75779,10 @@
         {
           "name": "Harvest Power California",
           "relationship": "chapter"
+        },
+        {
+          "name": "Harvest Power California, LLC",
+          "relationship": "alternate_spelling"
         }
       ]
     },
@@ -75108,6 +75856,10 @@
       "children": [
         {
           "name": "The \"Having Our Say\" Coalition",
+          "relationship": "alternate_spelling"
+        },
+        {
+          "name": "The Having Our Say Coalition",
           "relationship": "alternate_spelling"
         }
       ]
@@ -76015,26 +76767,26 @@
         {
           "name": "THE HERTZ",
           "relationship": "alternate_spelling"
-        }
-      ]
-    },
-    {
-      "canonical": "HERTZ CORP",
-      "status": "active",
-      "children": [
+        },
         {
-          "name": "THE HERTZ CORP",
-          "relationship": "alternate_spelling"
-        }
-      ]
-    },
-    {
-      "canonical": "HERTZ CORPORATION",
-      "status": "active",
-      "children": [
+          "name": "HERTZ CORP",
+          "relationship": "alternate_spelling",
+          "children": [
+            {
+              "name": "THE HERTZ CORP",
+              "relationship": "alternate_spelling"
+            }
+          ]
+        },
         {
-          "name": "THE HERTZ CORPORATION",
-          "relationship": "alternate_spelling"
+          "name": "HERTZ CORPORATION",
+          "relationship": "alternate_spelling",
+          "children": [
+            {
+              "name": "THE HERTZ CORPORATION",
+              "relationship": "alternate_spelling"
+            }
+          ]
         }
       ]
     },
@@ -76110,6 +76862,10 @@
       "children": [
         {
           "name": "Highland Plastics, Inc",
+          "relationship": "alternate_spelling"
+        },
+        {
+          "name": "Highland Plastics, Incorporated",
           "relationship": "alternate_spelling"
         }
       ]
@@ -76382,7 +77138,13 @@
     },
     {
       "canonical": "HITZKE DEVELOPMENT CORPORATION",
-      "status": "active"
+      "status": "active",
+      "children": [
+        {
+          "name": "Hitzke Development",
+          "relationship": "alternate_spelling"
+        }
+      ]
     },
     {
       "canonical": "HIV and AIDS Legal Services Alliance",
@@ -76500,6 +77262,10 @@
       "children": [
         {
           "name": "Holliday Rock Company INC",
+          "relationship": "alternate_spelling"
+        },
+        {
+          "name": "Holliday Rock",
           "relationship": "alternate_spelling"
         }
       ]
@@ -76792,6 +77558,10 @@
       "children": [
         {
           "name": "HomeGuard Inc",
+          "relationship": "alternate_spelling"
+        },
+        {
+          "name": "Homeguard Incorporated",
           "relationship": "alternate_spelling"
         }
       ]
@@ -77411,6 +78181,10 @@
         {
           "name": "Household Financial Group, Inc",
           "relationship": "alternate_spelling"
+        },
+        {
+          "name": "Household Financial Group, Ltd",
+          "relationship": "alternate_spelling"
         }
       ]
     },
@@ -77706,6 +78480,10 @@
       "children": [
         {
           "name": "Housing Rights Inc",
+          "relationship": "alternate_spelling"
+        },
+        {
+          "name": "Housing Rights, Incorporated",
           "relationship": "alternate_spelling"
         }
       ]
@@ -78047,16 +78825,16 @@
         {
           "name": "THE HUMANE SOCIETY OF SAN BERNARDINO VALLEY",
           "relationship": "alternate_spelling"
-        }
-      ]
-    },
-    {
-      "canonical": "HUMANE SOCIETY OF SAN BERNARDINO VALLEY, INC",
-      "status": "active",
-      "children": [
+        },
         {
-          "name": "THE HUMANE SOCIETY OF SAN BERNARDINO VALLEY, INC",
-          "relationship": "alternate_spelling"
+          "name": "HUMANE SOCIETY OF SAN BERNARDINO VALLEY, INC",
+          "relationship": "alternate_spelling",
+          "children": [
+            {
+              "name": "THE HUMANE SOCIETY OF SAN BERNARDINO VALLEY, INC",
+              "relationship": "alternate_spelling"
+            }
+          ]
         }
       ]
     },
@@ -78260,6 +79038,10 @@
       "children": [
         {
           "name": "THE HUMBOLDT REDWOOD COMPANY LLC",
+          "relationship": "alternate_spelling"
+        },
+        {
+          "name": "Humboldt Redwood Company",
           "relationship": "alternate_spelling"
         }
       ]
@@ -78846,6 +79628,10 @@
       "children": [
         {
           "name": "IMS Health, Inc",
+          "relationship": "alternate_spelling"
+        },
+        {
+          "name": "IMS Health Incorporated",
           "relationship": "alternate_spelling"
         }
       ]
@@ -79520,6 +80306,10 @@
       "children": [
         {
           "name": "THE INDUSTRIAL BANK OF JAPAN, LTD",
+          "relationship": "alternate_spelling"
+        },
+        {
+          "name": "Industrial Bank of Japan",
           "relationship": "alternate_spelling"
         }
       ]
@@ -80553,6 +81343,10 @@
         {
           "name": "Integrated Resource Management Inc",
           "relationship": "alternate_spelling"
+        },
+        {
+          "name": "Integrated Resource Management, LLC",
+          "relationship": "alternate_spelling"
         }
       ]
     },
@@ -81271,6 +82065,10 @@
         {
           "name": "THE INTERNATIONAL ANTICOUNTERFEITING COALITION, INC",
           "relationship": "alternate_spelling"
+        },
+        {
+          "name": "International Anticounterfeiting Coalition",
+          "relationship": "alternate_spelling"
         }
       ]
     },
@@ -81796,6 +82594,10 @@
       "children": [
         {
           "name": "THE INTERNATIONAL CAT ASSOCIATION, INC",
+          "relationship": "alternate_spelling"
+        },
+        {
+          "name": "The International Cat Association",
           "relationship": "alternate_spelling"
         }
       ]
@@ -82821,6 +83623,10 @@
         {
           "name": "Jamboree Housing Corporation, Irvine",
           "relationship": "alternate_spelling"
+        },
+        {
+          "name": "Jamboree Housing",
+          "relationship": "alternate_spelling"
         }
       ]
     },
@@ -83633,6 +84439,10 @@
         {
           "name": "Junior League of Oakland-East Bay, Inc",
           "relationship": "alternate_spelling"
+        },
+        {
+          "name": "Junior League of Oakland-East Bay",
+          "relationship": "alternate_spelling"
         }
       ]
     },
@@ -83709,16 +84519,16 @@
         {
           "name": "THE JUNIOR LEAGUE OF SAN FRANCISCO",
           "relationship": "alternate_spelling"
-        }
-      ]
-    },
-    {
-      "canonical": "JUNIOR LEAGUE OF SAN FRANCISCO, INC",
-      "status": "active",
-      "children": [
+        },
         {
-          "name": "THE JUNIOR LEAGUE OF SAN FRANCISCO, INC",
-          "relationship": "alternate_spelling"
+          "name": "JUNIOR LEAGUE OF SAN FRANCISCO, INC",
+          "relationship": "alternate_spelling",
+          "children": [
+            {
+              "name": "THE JUNIOR LEAGUE OF SAN FRANCISCO, INC",
+              "relationship": "alternate_spelling"
+            }
+          ]
         }
       ]
     },
@@ -84070,6 +84880,10 @@
       "children": [
         {
           "name": "K Line America, Inc",
+          "relationship": "alternate_spelling"
+        },
+        {
+          "name": "K\" Line America, Inc",
           "relationship": "alternate_spelling"
         }
       ]
@@ -84918,7 +85732,13 @@
     },
     {
       "canonical": "KNOLL FARMS",
-      "status": "active"
+      "status": "active",
+      "children": [
+        {
+          "name": "Knoll Farms LLC",
+          "relationship": "alternate_spelling"
+        }
+      ]
     },
     {
       "canonical": "KNOX COMPANY",
@@ -84926,6 +85746,10 @@
       "children": [
         {
           "name": "THE KNOX COMPANY",
+          "relationship": "alternate_spelling"
+        },
+        {
+          "name": "The Knox",
           "relationship": "alternate_spelling"
         }
       ]
@@ -85291,6 +86115,10 @@
         {
           "name": "LA Community Legal Center and Educational Inc",
           "relationship": "alternate_spelling"
+        },
+        {
+          "name": "LA Community Legal Center and Educational Incorporated",
+          "relationship": "alternate_spelling"
         }
       ]
     },
@@ -85649,16 +86477,16 @@
         {
           "name": "THE LAGUNA GREENBELT",
           "relationship": "alternate_spelling"
-        }
-      ]
-    },
-    {
-      "canonical": "LAGUNA GREENBELT INC",
-      "status": "active",
-      "children": [
+        },
         {
-          "name": "THE LAGUNA GREENBELT INC",
-          "relationship": "alternate_spelling"
+          "name": "LAGUNA GREENBELT INC",
+          "relationship": "alternate_spelling",
+          "children": [
+            {
+              "name": "THE LAGUNA GREENBELT INC",
+              "relationship": "alternate_spelling"
+            }
+          ]
         }
       ]
     },
@@ -85924,6 +86752,10 @@
       "children": [
         {
           "name": "THE LAND CONSERVANCY OF SAN LUIS OBISPO",
+          "relationship": "alternate_spelling"
+        },
+        {
+          "name": "Land Conservancy of San Luis Obispo Co",
           "relationship": "alternate_spelling"
         }
       ]
@@ -87265,6 +88097,10 @@
         {
           "name": "THE LEARNING EXPERIENCE CORP",
           "relationship": "alternate_spelling"
+        },
+        {
+          "name": "The Learning Experience",
+          "relationship": "alternate_spelling"
         }
       ]
     },
@@ -87778,6 +88614,10 @@
         {
           "name": "Lehigh Hanson, Inc",
           "relationship": "alternate_spelling"
+        },
+        {
+          "name": "Lehigh Hanson, Incorporated",
+          "relationship": "alternate_spelling"
         }
       ]
     },
@@ -88208,6 +89048,10 @@
         {
           "name": "Ligand Pharmaceuticals Inc",
           "relationship": "alternate_spelling"
+        },
+        {
+          "name": "Ligand Pharmaceuticals Incorporated",
+          "relationship": "alternate_spelling"
         }
       ]
     },
@@ -88227,6 +89071,10 @@
       "children": [
         {
           "name": "THE LIGHTER ASSOCIATION, INC",
+          "relationship": "alternate_spelling"
+        },
+        {
+          "name": "Lighter Association",
           "relationship": "alternate_spelling"
         }
       ]
@@ -88267,7 +89115,13 @@
     },
     {
       "canonical": "LINC HOUSING",
-      "status": "active"
+      "status": "active",
+      "children": [
+        {
+          "name": "LINC Housing Corporation",
+          "relationship": "alternate_spelling"
+        }
+      ]
     },
     {
       "canonical": "LINCOLN AVE CHRISTIAN CHURCH, MILL VALLEY",
@@ -88335,6 +89189,10 @@
       "children": [
         {
           "name": "THE LION ELECTRIC CO",
+          "relationship": "alternate_spelling"
+        },
+        {
+          "name": "The Lion Electric",
           "relationship": "alternate_spelling"
         }
       ]
@@ -88746,25 +89604,29 @@
         {
           "name": "THE LOFTIN FIRM",
           "relationship": "alternate_spelling"
-        }
-      ]
-    },
-    {
-      "canonical": "LOFTIN FIRM LLP",
-      "status": "active",
-      "children": [
+        },
         {
-          "name": "The Loftin Firm, LLP",
-          "relationship": "alternate_spelling"
-        }
-      ]
-    },
-    {
-      "canonical": "LOFTIN FIRM, P.C",
-      "status": "active",
-      "children": [
+          "name": "LOFTIN FIRM LLP",
+          "relationship": "alternate_spelling",
+          "children": [
+            {
+              "name": "The Loftin Firm, LLP",
+              "relationship": "alternate_spelling"
+            }
+          ]
+        },
         {
-          "name": "THE LOFTIN FIRM, P.C",
+          "name": "LOFTIN FIRM, P.C",
+          "relationship": "alternate_spelling",
+          "children": [
+            {
+              "name": "THE LOFTIN FIRM, P.C",
+              "relationship": "alternate_spelling"
+            }
+          ]
+        },
+        {
+          "name": "The Loftin Firm LLP",
           "relationship": "alternate_spelling"
         }
       ]
@@ -89483,7 +90345,13 @@
     },
     {
       "canonical": "LOS ANGELES COUNTY ECONOMIC DEVELOPMENT CORPORATION",
-      "status": "active"
+      "status": "active",
+      "children": [
+        {
+          "name": "Los Angeles County Economic Development",
+          "relationship": "alternate_spelling"
+        }
+      ]
     },
     {
       "canonical": "LOS ANGELES COUNTY EDUCATION FOUNDATION",
@@ -89681,6 +90549,10 @@
         },
         {
           "name": "Los Angeles Dodgers, Inc",
+          "relationship": "alternate_spelling"
+        },
+        {
+          "name": "Los Angeles Dodgers LLC",
           "relationship": "alternate_spelling"
         }
       ]
@@ -90021,6 +90893,10 @@
       "children": [
         {
           "name": "Los Angeles Turf Club, Inc",
+          "relationship": "alternate_spelling"
+        },
+        {
+          "name": "Los Angeles Turf Club, Incorporated",
           "relationship": "alternate_spelling"
         }
       ]
@@ -90626,6 +91502,10 @@
         {
           "name": "Macy's Inc",
           "relationship": "alternate_spelling"
+        },
+        {
+          "name": "Macy's, Incorporated",
+          "relationship": "alternate_spelling"
         }
       ]
     },
@@ -90909,7 +91789,8 @@
     },
     {
       "canonical": "MANATT",
-      "status": "active"
+      "status": "active",
+      "children": []
     },
     {
       "canonical": "MANGAN PARK NEIGHBORHOOD ASSOCIATION",
@@ -91750,6 +92631,10 @@
         {
           "name": "Mathews Readymix, Inc",
           "relationship": "alternate_spelling"
+        },
+        {
+          "name": "Mathews Readymix LLC",
+          "relationship": "alternate_spelling"
         }
       ]
     },
@@ -91769,6 +92654,10 @@
       "children": [
         {
           "name": "Matson Navigation Company, Inc",
+          "relationship": "alternate_spelling"
+        },
+        {
+          "name": "Matson Navigation",
           "relationship": "alternate_spelling"
         }
       ]
@@ -91827,6 +92716,10 @@
       "children": [
         {
           "name": "Maximus, Inc",
+          "relationship": "alternate_spelling"
+        },
+        {
+          "name": "MAXIMUS Corporation",
           "relationship": "alternate_spelling"
         }
       ]
@@ -92116,6 +93009,10 @@
         {
           "name": "MCA Inc",
           "relationship": "alternate_spelling"
+        },
+        {
+          "name": "MCA Incorporated",
+          "relationship": "alternate_spelling"
         }
       ]
     },
@@ -92198,6 +93095,10 @@
         {
           "name": "California McDonald's",
           "relationship": "chapter"
+        },
+        {
+          "name": "McDonald's Corporation",
+          "relationship": "alternate_spelling"
         }
       ]
     },
@@ -92980,6 +93881,10 @@
         {
           "name": "THE MERCURY INSURANCE COMPANY",
           "relationship": "alternate_spelling"
+        },
+        {
+          "name": "Mercury Insurance",
+          "relationship": "alternate_spelling"
         }
       ]
     },
@@ -93051,7 +93956,13 @@
     },
     {
       "canonical": "MERRITT COMMUNITY CAPITAL CORPORATION",
-      "status": "active"
+      "status": "active",
+      "children": [
+        {
+          "name": "Merritt Community Capital",
+          "relationship": "alternate_spelling"
+        }
+      ]
     },
     {
       "canonical": "Mervyns",
@@ -93298,16 +94209,16 @@
         {
           "name": "MEXICAN AMERICAN COMMUNITY SERVICES AGENCY (MACSA)",
           "relationship": "alternate_spelling"
-        }
-      ]
-    },
-    {
-      "canonical": "MEXICAN AMERICAN COMMUNITY SERVICES AGENCY, INC",
-      "status": "active",
-      "children": [
+        },
         {
-          "name": "THE MEXICAN AMERICAN COMMUNITY SERVICES AGENCY, INC",
-          "relationship": "alternate_spelling"
+          "name": "MEXICAN AMERICAN COMMUNITY SERVICES AGENCY, INC",
+          "relationship": "alternate_spelling",
+          "children": [
+            {
+              "name": "THE MEXICAN AMERICAN COMMUNITY SERVICES AGENCY, INC",
+              "relationship": "alternate_spelling"
+            }
+          ]
         }
       ]
     },
@@ -93490,6 +94401,14 @@
         {
           "name": "MIDPEN HOUSING CORPORATION",
           "relationship": "alternate_spelling"
+        },
+        {
+          "name": "MidPen Housing Corp",
+          "relationship": "alternate_spelling"
+        },
+        {
+          "name": "Mid-Peninsula Housing",
+          "relationship": "alternate_spelling"
         }
       ]
     },
@@ -93657,6 +94576,10 @@
         },
         {
           "name": "Military Officers Association of America, California-Council",
+          "relationship": "alternate_spelling"
+        },
+        {
+          "name": "The Military Officers Association of America, California Council",
           "relationship": "alternate_spelling"
         }
       ]
@@ -93942,6 +94865,10 @@
         {
           "name": "MEDA",
           "relationship": "alternate_spelling"
+        },
+        {
+          "name": "Mission Economic Development",
+          "relationship": "alternate_spelling"
         }
       ]
     },
@@ -93997,7 +94924,13 @@
     },
     {
       "canonical": "MISSION HOUSING DEVELOPMENT CORPORATION",
-      "status": "active"
+      "status": "active",
+      "children": [
+        {
+          "name": "Mission Housing Development",
+          "relationship": "alternate_spelling"
+        }
+      ]
     },
     {
       "canonical": "MISSION MOBILE MANOR",
@@ -94075,6 +95008,10 @@
         },
         {
           "name": "Mitsui & Co (U.S.A.)",
+          "relationship": "alternate_spelling"
+        },
+        {
+          "name": "Mitsui & Co. (U.S.A.)",
           "relationship": "alternate_spelling"
         }
       ]
@@ -94444,16 +95381,16 @@
         {
           "name": "THE MONEY STORE",
           "relationship": "alternate_spelling"
-        }
-      ]
-    },
-    {
-      "canonical": "MONEY STORE, INC",
-      "status": "active",
-      "children": [
+        },
         {
-          "name": "THE MONEY STORE, INC",
-          "relationship": "alternate_spelling"
+          "name": "MONEY STORE, INC",
+          "relationship": "alternate_spelling",
+          "children": [
+            {
+              "name": "THE MONEY STORE, INC",
+              "relationship": "alternate_spelling"
+            }
+          ]
         }
       ]
     },
@@ -94488,6 +95425,14 @@
         {
           "name": "Monsanto, Inc",
           "relationship": "alternate_spelling"
+        },
+        {
+          "name": "Monsanto Company",
+          "relationship": "alternate_spelling"
+        },
+        {
+          "name": "Monsanto Corporation",
+          "relationship": "alternate_spelling"
         }
       ]
     },
@@ -94511,6 +95456,10 @@
       "children": [
         {
           "name": "MONTEBELLO HOUSING DEVELOPMENT CORPORATION (MHDC)",
+          "relationship": "alternate_spelling"
+        },
+        {
+          "name": "Montebello Housing Development",
           "relationship": "alternate_spelling"
         }
       ]
@@ -95421,7 +96370,17 @@
     },
     {
       "canonical": "MUNISERVICES",
-      "status": "active"
+      "status": "active",
+      "children": [
+        {
+          "name": "MuniServices, LLC",
+          "relationship": "alternate_spelling"
+        },
+        {
+          "name": "Muniservices Company",
+          "relationship": "alternate_spelling"
+        }
+      ]
     },
     {
       "canonical": "Murder Victims",
@@ -96332,6 +97291,56 @@
         {
           "name": "NAACP-California",
           "relationship": "alternate_spelling"
+        },
+        {
+          "name": "CALIFORNIA HAWAII STATE CONFERENCE OF THE NAACP",
+          "relationship": "alternate_spelling",
+          "children": [
+            {
+              "name": "CALIFORNIA HAWAII STATE CONFERENCE OF NAACP",
+              "relationship": "alternate_spelling"
+            },
+            {
+              "name": "CALIFORNIA HAWAII STATE NAACP",
+              "relationship": "alternate_spelling"
+            },
+            {
+              "name": "CALIFORNIA NAACP",
+              "relationship": "alternate_spelling"
+            },
+            {
+              "name": "CALIFORNIA STATE CONFERENCE OF THE NATIONAL ASSOCIATION FOR THE ADVANCEMENT OF COLORED PEOPLE",
+              "relationship": "alternate_spelling"
+            },
+            {
+              "name": "CALIFORNIA-HAWAII STATE CONFERENCE OF THE NAACP",
+              "relationship": "alternate_spelling"
+            },
+            {
+              "name": "NAACP",
+              "relationship": "alternate_spelling"
+            },
+            {
+              "name": "California Hawaii State Conference of the National Association for the Advancement of Colored People (NAACP)",
+              "relationship": "chapter"
+            },
+            {
+              "name": "California-Hawaii State Conference of the National Association for the Advancement of Colored People (NAACP)",
+              "relationship": "chapter"
+            },
+            {
+              "name": "California State Conference Of The National Association For The Advancement Of Colored People (NAACP)",
+              "relationship": "chapter"
+            },
+            {
+              "name": "California Sate Conference of the National Association for the Advancement of Colored People (NAACP)",
+              "relationship": "chapter"
+            },
+            {
+              "name": "California State Conference of the National Association for the Advancement of Colored People (California NAACP)",
+              "relationship": "chapter"
+            }
+          ]
         }
       ]
     },
@@ -96611,6 +97620,10 @@
         },
         {
           "name": "National Association of Insurance and Financial Advisors, California (NAIFA)",
+          "relationship": "alternate_spelling"
+        },
+        {
+          "name": "The National Association of Insurance and Financial Advisors-California",
           "relationship": "alternate_spelling"
         }
       ]
@@ -97098,6 +98111,18 @@
         {
           "name": "National Cement of California",
           "relationship": "chapter"
+        },
+        {
+          "name": "National Cement Company",
+          "relationship": "alternate_spelling"
+        },
+        {
+          "name": "National Cement Company Corporation",
+          "relationship": "alternate_spelling"
+        },
+        {
+          "name": "National Cement Corporation",
+          "relationship": "alternate_spelling"
         }
       ]
     },
@@ -97938,16 +98963,16 @@
         {
           "name": "NATIONAL GAY AND LESBIAN TASK FORCE (NGLTF)",
           "relationship": "alternate_spelling"
-        }
-      ]
-    },
-    {
-      "canonical": "NATIONAL GAY AND LESBIAN TASK FORCE, INC",
-      "status": "active",
-      "children": [
+        },
         {
-          "name": "THE NATIONAL GAY AND LESBIAN TASK FORCE, INC",
-          "relationship": "alternate_spelling"
+          "name": "NATIONAL GAY AND LESBIAN TASK FORCE, INC",
+          "relationship": "alternate_spelling",
+          "children": [
+            {
+              "name": "THE NATIONAL GAY AND LESBIAN TASK FORCE, INC",
+              "relationship": "alternate_spelling"
+            }
+          ]
         }
       ]
     },
@@ -98019,6 +99044,10 @@
       "children": [
         {
           "name": "National Health Services, Inc",
+          "relationship": "alternate_spelling"
+        },
+        {
+          "name": "National Health Services, Incorporated",
           "relationship": "alternate_spelling"
         }
       ]
@@ -98111,6 +99140,10 @@
         },
         {
           "name": "NILC",
+          "relationship": "alternate_spelling"
+        },
+        {
+          "name": "The National Immigration Law Center",
           "relationship": "alternate_spelling"
         }
       ]
@@ -98637,6 +99670,10 @@
         },
         {
           "name": "National Shooting Sports Foundation Inc",
+          "relationship": "alternate_spelling"
+        },
+        {
+          "name": "National Shooting Sports Foundation, Inc",
           "relationship": "alternate_spelling"
         }
       ]
@@ -99484,6 +100521,10 @@
         {
           "name": "New Alternatives, Inc",
           "relationship": "alternate_spelling"
+        },
+        {
+          "name": "New Alternatives, Incorporated",
+          "relationship": "alternate_spelling"
         }
       ]
     },
@@ -99658,6 +100699,10 @@
         {
           "name": "New United Motor Manufacturing Inc",
           "relationship": "alternate_spelling"
+        },
+        {
+          "name": "New United Motor Manufacturing Incorporated",
+          "relationship": "alternate_spelling"
         }
       ]
     },
@@ -99829,6 +100874,10 @@
       "children": [
         {
           "name": "NEXTracker, Inc",
+          "relationship": "alternate_spelling"
+        },
+        {
+          "name": "NexTracker Incorporated",
           "relationship": "alternate_spelling"
         }
       ]
@@ -100145,6 +101194,10 @@
         {
           "name": "Nor-Cal Beverage Co, INC",
           "relationship": "alternate_spelling"
+        },
+        {
+          "name": "Nor-Cal Beverage",
+          "relationship": "alternate_spelling"
         }
       ]
     },
@@ -100202,6 +101255,10 @@
       "children": [
         {
           "name": "Norcal Waste Systems Inc",
+          "relationship": "alternate_spelling"
+        },
+        {
+          "name": "Norcal Waste Systems, Incorporated",
           "relationship": "alternate_spelling"
         }
       ]
@@ -100316,6 +101373,10 @@
       "children": [
         {
           "name": "North Coast Builders' Exchange, Inc",
+          "relationship": "alternate_spelling"
+        },
+        {
+          "name": "North Coast Builders Exchange, Inc",
           "relationship": "alternate_spelling"
         }
       ]
@@ -100550,6 +101611,10 @@
       "children": [
         {
           "name": "Northeastern Rural Health Clinics Inc",
+          "relationship": "alternate_spelling"
+        },
+        {
+          "name": "Northeastern Rural Health Clinics, Incorporated",
           "relationship": "alternate_spelling"
         }
       ]
@@ -101409,6 +102474,10 @@
         {
           "name": "Oakley, Inc",
           "relationship": "alternate_spelling"
+        },
+        {
+          "name": "Oakley, Incorporated",
+          "relationship": "alternate_spelling"
         }
       ]
     },
@@ -102217,6 +103286,10 @@
         {
           "name": "Ohmconnect, INC",
           "relationship": "alternate_spelling"
+        },
+        {
+          "name": "Ohmconnect Incorporated",
+          "relationship": "alternate_spelling"
         }
       ]
     },
@@ -102499,6 +103572,10 @@
         {
           "name": "THE ON-LINE TRAFFIC SCHOOL, INC",
           "relationship": "alternate_spelling"
+        },
+        {
+          "name": "The On-Line Traffic School",
+          "relationship": "alternate_spelling"
         }
       ]
     },
@@ -102594,6 +103671,14 @@
         },
         {
           "name": "OOCL USA",
+          "relationship": "alternate_spelling"
+        },
+        {
+          "name": "OOCL Inc",
+          "relationship": "alternate_spelling"
+        },
+        {
+          "name": "OOCL (USA)",
           "relationship": "alternate_spelling"
         }
       ]
@@ -103505,6 +104590,10 @@
         {
           "name": "Outback Power Technologies, Inc",
           "relationship": "alternate_spelling"
+        },
+        {
+          "name": "Outback Power Technologies Incorporated",
+          "relationship": "alternate_spelling"
         }
       ]
     },
@@ -103694,6 +104783,14 @@
         },
         {
           "name": "Owens Illinois",
+          "relationship": "alternate_spelling"
+        },
+        {
+          "name": "Owens Illinois Corp",
+          "relationship": "alternate_spelling"
+        },
+        {
+          "name": "Owens-Illinois Corporation",
           "relationship": "alternate_spelling"
         }
       ]
@@ -103995,6 +105092,10 @@
         {
           "name": "PCFFA",
           "relationship": "alternate_spelling"
+        },
+        {
+          "name": "Pacific Coast Federation of Fishermen's Associations, Incorporated",
+          "relationship": "alternate_spelling"
         }
       ]
     },
@@ -104206,6 +105307,10 @@
         },
         {
           "name": "THE PACIFIC LUMBER COMPANY (PALCO)",
+          "relationship": "alternate_spelling"
+        },
+        {
+          "name": "Pacific Lumber",
           "relationship": "alternate_spelling"
         }
       ]
@@ -104509,6 +105614,10 @@
         {
           "name": "Palestro Distribution Centers Inc",
           "relationship": "alternate_spelling"
+        },
+        {
+          "name": "Palestro Distribution Centers Incorporated",
+          "relationship": "alternate_spelling"
         }
       ]
     },
@@ -104582,7 +105691,13 @@
     },
     {
       "canonical": "PALO ALTO HOUSING CORPORATION",
-      "status": "active"
+      "status": "active",
+      "children": [
+        {
+          "name": "Palo Alto Housing",
+          "relationship": "alternate_spelling"
+        }
+      ]
     },
     {
       "canonical": "PALO ALTO MAYOR ADRIAN FINE",
@@ -105759,16 +106874,16 @@
         {
           "name": "Pena's Disposal Inc",
           "relationship": "alternate_spelling"
-        }
-      ]
-    },
-    {
-      "canonical": "Pena's Disposal Company",
-      "status": "active",
-      "children": [
+        },
         {
-          "name": "Pena's Disposal Company, Inc",
-          "relationship": "alternate_spelling"
+          "name": "Pena's Disposal Company",
+          "relationship": "alternate_spelling",
+          "children": [
+            {
+              "name": "Pena's Disposal Company, Inc",
+              "relationship": "alternate_spelling"
+            }
+          ]
         }
       ]
     },
@@ -106064,6 +107179,18 @@
         },
         {
           "name": "PEOPLES' SELF-HELP HOUSING",
+          "relationship": "alternate_spelling"
+        },
+        {
+          "name": "Peoples' Self-Help Housing Corp",
+          "relationship": "alternate_spelling"
+        },
+        {
+          "name": "People's Self-help Housing",
+          "relationship": "alternate_spelling"
+        },
+        {
+          "name": "Peoples' Self Help Housing",
           "relationship": "alternate_spelling"
         }
       ]
@@ -106561,6 +107688,10 @@
         {
           "name": "Peña's Disposal Inc",
           "relationship": "alternate_spelling"
+        },
+        {
+          "name": "Peña's Disposal Company",
+          "relationship": "alternate_spelling"
         }
       ]
     },
@@ -106570,6 +107701,10 @@
       "children": [
         {
           "name": "Pfizer Inc",
+          "relationship": "alternate_spelling"
+        },
+        {
+          "name": "Pfizer Incorporated",
           "relationship": "alternate_spelling"
         }
       ]
@@ -106701,6 +107836,10 @@
         {
           "name": "PHI Air Medical California",
           "relationship": "chapter"
+        },
+        {
+          "name": "PHI Air Medical LLC",
+          "relationship": "alternate_spelling"
         }
       ]
     },
@@ -108425,12 +109564,12 @@
         {
           "name": "Political Solutions Inc",
           "relationship": "alternate_spelling"
+        },
+        {
+          "name": "POLITICAL SOLUTIONS, LLC",
+          "relationship": "alternate_spelling"
         }
       ]
-    },
-    {
-      "canonical": "POLITICAL SOLUTIONS, LLC",
-      "status": "active"
     },
     {
       "canonical": "Politics Beauty",
@@ -109637,6 +110776,10 @@
         {
           "name": "THE PONDEROSA TELEPHONE COMPANY",
           "relationship": "alternate_spelling"
+        },
+        {
+          "name": "Ponderosa Telephone",
+          "relationship": "alternate_spelling"
         }
       ]
     },
@@ -110017,6 +111160,10 @@
         {
           "name": "Presto Products, Inc",
           "relationship": "alternate_spelling"
+        },
+        {
+          "name": "Presto Products Company",
+          "relationship": "alternate_spelling"
         }
       ]
     },
@@ -110313,16 +111460,16 @@
         {
           "name": "Procter & Gamble, Inc",
           "relationship": "alternate_spelling"
-        }
-      ]
-    },
-    {
-      "canonical": "PROCTER & GAMBLE COMPANY",
-      "status": "active",
-      "children": [
+        },
         {
-          "name": "THE PROCTER & GAMBLE COMPANY",
-          "relationship": "alternate_spelling"
+          "name": "PROCTER & GAMBLE COMPANY",
+          "relationship": "alternate_spelling",
+          "children": [
+            {
+              "name": "THE PROCTER & GAMBLE COMPANY",
+              "relationship": "alternate_spelling"
+            }
+          ]
         }
       ]
     },
@@ -110333,6 +111480,10 @@
         {
           "name": "THE PROCTER AND GAMBLE COMPANY",
           "relationship": "alternate_spelling"
+        },
+        {
+          "name": "Procter and Gamble",
+          "relationship": "alternate_spelling"
         }
       ]
     },
@@ -110342,6 +111493,10 @@
       "children": [
         {
           "name": "THE PROCTOR & GAMBLE COMPANY",
+          "relationship": "alternate_spelling"
+        },
+        {
+          "name": "Proctor & Gamble",
           "relationship": "alternate_spelling"
         }
       ]
@@ -111165,6 +112320,10 @@
         {
           "name": "Protection & Advocacy, Inc. (PAI)",
           "relationship": "alternate_spelling"
+        },
+        {
+          "name": "Protection & Advocacy Incorporated",
+          "relationship": "alternate_spelling"
         }
       ]
     },
@@ -111178,6 +112337,10 @@
         },
         {
           "name": "Protection and Advocacy, Inc. (PAI)",
+          "relationship": "alternate_spelling"
+        },
+        {
+          "name": "Protection and Advocacy Incorporated",
           "relationship": "alternate_spelling"
         }
       ]
@@ -111651,16 +112814,16 @@
         {
           "name": "THE PUBLIC SECTOR MARKETING GROUP",
           "relationship": "alternate_spelling"
-        }
-      ]
-    },
-    {
-      "canonical": "PUBLIC SECTOR MARKETING GROUP, INC",
-      "status": "active",
-      "children": [
+        },
         {
-          "name": "THE PUBLIC SECTOR MARKETING GROUP, INC",
-          "relationship": "alternate_spelling"
+          "name": "PUBLIC SECTOR MARKETING GROUP, INC",
+          "relationship": "alternate_spelling",
+          "children": [
+            {
+              "name": "THE PUBLIC SECTOR MARKETING GROUP, INC",
+              "relationship": "alternate_spelling"
+            }
+          ]
         }
       ]
     },
@@ -111861,6 +113024,14 @@
         {
           "name": "Qualcomm Inc",
           "relationship": "alternate_spelling"
+        },
+        {
+          "name": "Qualcomm Incorporated",
+          "relationship": "alternate_spelling"
+        },
+        {
+          "name": "Qualcomm Corp",
+          "relationship": "alternate_spelling"
         }
       ]
     },
@@ -111915,6 +113086,10 @@
         {
           "name": "Quest Diagnostics, Inc",
           "relationship": "alternate_spelling"
+        },
+        {
+          "name": "Quest Diagnostics Incorporated",
+          "relationship": "alternate_spelling"
         }
       ]
     },
@@ -111964,6 +113139,10 @@
       "children": [
         {
           "name": "The R. Street Institute",
+          "relationship": "alternate_spelling"
+        },
+        {
+          "name": "The R Street Institute",
           "relationship": "alternate_spelling"
         }
       ]
@@ -112361,6 +113540,10 @@
         {
           "name": "Real Energy Inc",
           "relationship": "alternate_spelling"
+        },
+        {
+          "name": "Real Energy LLC",
+          "relationship": "alternate_spelling"
         }
       ]
     },
@@ -112594,7 +113777,13 @@
     },
     {
       "canonical": "RECURRENT ENERGY",
-      "status": "active"
+      "status": "active",
+      "children": [
+        {
+          "name": "Recurrent Energy, Llc",
+          "relationship": "alternate_spelling"
+        }
+      ]
     },
     {
       "canonical": "RECYCLED MATERIALS ASSOCIATION - WEST COAST CHAPTER",
@@ -114461,6 +115650,10 @@
         {
           "name": "Rite Aid Corporation, Inc",
           "relationship": "alternate_spelling"
+        },
+        {
+          "name": "Rite Aid",
+          "relationship": "alternate_spelling"
         }
       ]
     },
@@ -114680,6 +115873,10 @@
       "children": [
         {
           "name": "Rivian Automotive, Inc",
+          "relationship": "alternate_spelling"
+        },
+        {
+          "name": "Rivian Automotive, LLC",
           "relationship": "alternate_spelling"
         }
       ]
@@ -114985,6 +116182,10 @@
         {
           "name": "Roof Structures Inc",
           "relationship": "alternate_spelling"
+        },
+        {
+          "name": "Roof Structures Incorporated",
+          "relationship": "alternate_spelling"
         }
       ]
     },
@@ -115219,6 +116420,10 @@
         {
           "name": "RURAL COMMUNITIES HOUSING DEVELOPMENT CORPORATION (RCHDC)",
           "relationship": "alternate_spelling"
+        },
+        {
+          "name": "Rural Communities Housing Development",
+          "relationship": "alternate_spelling"
         }
       ]
     },
@@ -115228,6 +116433,10 @@
       "children": [
         {
           "name": "RURAL COMMUNITY ASSISTANCE CORPORATION (RCAC)",
+          "relationship": "alternate_spelling"
+        },
+        {
+          "name": "Rural Community Assistance",
           "relationship": "alternate_spelling"
         }
       ]
@@ -115336,6 +116545,10 @@
       "children": [
         {
           "name": "Ryan Snyder Associates, Inc",
+          "relationship": "alternate_spelling"
+        },
+        {
+          "name": "Ryan Snyder Associates, LLC",
           "relationship": "alternate_spelling"
         }
       ]
@@ -116003,6 +117216,10 @@
         {
           "name": "Safety Center, Inc",
           "relationship": "alternate_spelling"
+        },
+        {
+          "name": "Safety Center Incorporated",
+          "relationship": "alternate_spelling"
         }
       ]
     },
@@ -116036,6 +117253,18 @@
         },
         {
           "name": "Safety Kleen",
+          "relationship": "alternate_spelling"
+        },
+        {
+          "name": "Safety-Kleen Corporation",
+          "relationship": "alternate_spelling"
+        },
+        {
+          "name": "Safety-Kleen Corp",
+          "relationship": "alternate_spelling"
+        },
+        {
+          "name": "Safety Kleen Corporation",
           "relationship": "alternate_spelling"
         }
       ]
@@ -116469,6 +117698,10 @@
         {
           "name": "San Diego & Imperial Valley Railroad Company, INC",
           "relationship": "alternate_spelling"
+        },
+        {
+          "name": "San Diego & Imperial Valley Railroad",
+          "relationship": "alternate_spelling"
         }
       ]
     },
@@ -116713,6 +117946,22 @@
         {
           "name": "SAN DIEGO GAS & ELECTRIC",
           "relationship": "alternate_spelling"
+        },
+        {
+          "name": "San Diego Gas and Electric Company",
+          "relationship": "alternate_spelling"
+        },
+        {
+          "name": "San Diego Gas & Electric Company",
+          "relationship": "alternate_spelling"
+        },
+        {
+          "name": "San Diego Gas and Electric Co",
+          "relationship": "alternate_spelling"
+        },
+        {
+          "name": "San Diego Gas & Electric Co",
+          "relationship": "alternate_spelling"
         }
       ]
     },
@@ -116896,7 +118145,13 @@
     },
     {
       "canonical": "SAN DIEGO REGIONAL ECONOMIC DEVELOPMENT CORPORATION",
-      "status": "active"
+      "status": "active",
+      "children": [
+        {
+          "name": "San Diego Regional Economic Development",
+          "relationship": "alternate_spelling"
+        }
+      ]
     },
     {
       "canonical": "SAN DIEGO REGIONAL TASK FORCE ON HOMELESSNESS",
@@ -117464,11 +118719,17 @@
     },
     {
       "canonical": "SAN FRANCISCO HOUSING DEVELOPMENT",
-      "status": "active"
-    },
-    {
-      "canonical": "SAN FRANCISCO HOUSING DEVELOPMENT CORPORATION",
-      "status": "active"
+      "status": "active",
+      "children": [
+        {
+          "name": "SAN FRANCISCO HOUSING DEVELOPMENT CORPORATION",
+          "relationship": "alternate_spelling"
+        },
+        {
+          "name": "San Francisco Housing Development Corp",
+          "relationship": "alternate_spelling"
+        }
+      ]
     },
     {
       "canonical": "SAN FRANCISCO HUMAN SERVICES AGENCY",
@@ -118395,6 +119656,10 @@
         {
           "name": "SBCTA",
           "relationship": "alternate_spelling"
+        },
+        {
+          "name": "The Santa Barbara County Taxpayers Association",
+          "relationship": "alternate_spelling"
         }
       ]
     },
@@ -119008,6 +120273,10 @@
       "children": [
         {
           "name": "THE SCHABER COMPANY, LTD",
+          "relationship": "alternate_spelling"
+        },
+        {
+          "name": "Schaber Company",
           "relationship": "alternate_spelling"
         }
       ]
@@ -119767,6 +121036,10 @@
         {
           "name": "Segway, Inc",
           "relationship": "alternate_spelling"
+        },
+        {
+          "name": "Segway LLC",
+          "relationship": "alternate_spelling"
         }
       ]
     },
@@ -119822,6 +121095,10 @@
       "children": [
         {
           "name": "Selective Genetics, Inc",
+          "relationship": "alternate_spelling"
+        },
+        {
+          "name": "Selective Genetics Incorporated",
           "relationship": "alternate_spelling"
         }
       ]
@@ -120514,6 +121791,10 @@
       "children": [
         {
           "name": "Shapell Industries Inc",
+          "relationship": "alternate_spelling"
+        },
+        {
+          "name": "Shapell Industries, Incorporated",
           "relationship": "alternate_spelling"
         }
       ]
@@ -122013,6 +123294,10 @@
         {
           "name": "Siemens, Inc",
           "relationship": "alternate_spelling"
+        },
+        {
+          "name": "Siemens Corporation",
+          "relationship": "alternate_spelling"
         }
       ]
     },
@@ -122291,6 +123576,10 @@
         {
           "name": "Sierra Telephone Company, Inc",
           "relationship": "alternate_spelling"
+        },
+        {
+          "name": "Sierra Telephone",
+          "relationship": "alternate_spelling"
         }
       ]
     },
@@ -122410,6 +123699,10 @@
       "children": [
         {
           "name": "Silicon Graphics, Inc",
+          "relationship": "alternate_spelling"
+        },
+        {
+          "name": "Silicon Graphics, Incorporated",
           "relationship": "alternate_spelling"
         }
       ]
@@ -123537,16 +124830,16 @@
         {
           "name": "THE SOCIETY OF THE PLASTICS INDUSTRY",
           "relationship": "alternate_spelling"
-        }
-      ]
-    },
-    {
-      "canonical": "SOCIETY OF THE PLASTICS INDUSTRY, INC",
-      "status": "active",
-      "children": [
+        },
         {
-          "name": "THE SOCIETY OF THE PLASTICS INDUSTRY, INC",
-          "relationship": "alternate_spelling"
+          "name": "SOCIETY OF THE PLASTICS INDUSTRY, INC",
+          "relationship": "alternate_spelling",
+          "children": [
+            {
+              "name": "THE SOCIETY OF THE PLASTICS INDUSTRY, INC",
+              "relationship": "alternate_spelling"
+            }
+          ]
         }
       ]
     },
@@ -123727,6 +125020,14 @@
         {
           "name": "Solar Turbines Inc",
           "relationship": "alternate_spelling"
+        },
+        {
+          "name": "Solar Turbines Incorporated",
+          "relationship": "alternate_spelling"
+        },
+        {
+          "name": "Solar Turbines Company",
+          "relationship": "alternate_spelling"
         }
       ]
     },
@@ -123819,6 +125120,10 @@
         {
           "name": "Solectron, Inc",
           "relationship": "alternate_spelling"
+        },
+        {
+          "name": "Solectron Corporation",
+          "relationship": "alternate_spelling"
         }
       ]
     },
@@ -123834,7 +125139,13 @@
     },
     {
       "canonical": "SOLEX",
-      "status": "active"
+      "status": "active",
+      "children": [
+        {
+          "name": "Solex Corporation",
+          "relationship": "alternate_spelling"
+        }
+      ]
     },
     {
       "canonical": "Solid",
@@ -124493,6 +125804,10 @@
         {
           "name": "South San Francisco Scavenger Company Inc",
           "relationship": "alternate_spelling"
+        },
+        {
+          "name": "South San Francisco Scavenger",
+          "relationship": "alternate_spelling"
         }
       ]
     },
@@ -124879,6 +126194,14 @@
         {
           "name": "SCE",
           "relationship": "alternate_spelling"
+        },
+        {
+          "name": "Southern California Edison Company",
+          "relationship": "alternate_spelling"
+        },
+        {
+          "name": "Southern California Edison Co",
+          "relationship": "alternate_spelling"
         }
       ]
     },
@@ -124898,6 +126221,10 @@
       "children": [
         {
           "name": "THE SOUTHERN CALIFORNIA GAS COMPANY",
+          "relationship": "alternate_spelling"
+        },
+        {
+          "name": "Southern California Gas",
           "relationship": "alternate_spelling"
         }
       ]
@@ -125708,6 +127035,10 @@
       "children": [
         {
           "name": "Spidell Publishing Inc",
+          "relationship": "alternate_spelling"
+        },
+        {
+          "name": "Spidell Publishing Corporation",
           "relationship": "alternate_spelling"
         }
       ]
@@ -127929,6 +129260,10 @@
         {
           "name": "Strategic Materials Inc",
           "relationship": "alternate_spelling"
+        },
+        {
+          "name": "Strategic Materials Corporation",
+          "relationship": "alternate_spelling"
         }
       ]
     },
@@ -128292,7 +129627,13 @@
     },
     {
       "canonical": "SUCCESSFUL REENTRY",
-      "status": "active"
+      "status": "active",
+      "children": [
+        {
+          "name": "Successful Reentry, LLC",
+          "relationship": "alternate_spelling"
+        }
+      ]
     },
     {
       "canonical": "Sudberry Properties",
@@ -128672,6 +130013,10 @@
       "children": [
         {
           "name": "Sunverge Energy Inc",
+          "relationship": "alternate_spelling"
+        },
+        {
+          "name": "Sunverge Energy, LLC",
           "relationship": "alternate_spelling"
         }
       ]
@@ -129923,6 +131268,10 @@
         {
           "name": "Teamsters Union Local 856",
           "relationship": "chapter"
+        },
+        {
+          "name": "The Teamsters Union",
+          "relationship": "alternate_spelling"
         }
       ]
     },
@@ -130197,6 +131546,10 @@
         {
           "name": "THE TENDERLOIN HOUSING CLINIC",
           "relationship": "alternate_spelling"
+        },
+        {
+          "name": "Tenderloin Housing Clinic, Incorporated",
+          "relationship": "alternate_spelling"
         }
       ]
     },
@@ -130214,6 +131567,10 @@
         },
         {
           "name": "TENDERLOIN NEIGHBORHOOD DEVELOPMENT CORPORATION (TNDC)",
+          "relationship": "alternate_spelling"
+        },
+        {
+          "name": "Tenderloin Neighborhood Development Corp",
           "relationship": "alternate_spelling"
         }
       ]
@@ -130238,6 +131595,10 @@
       "children": [
         {
           "name": "Teresi Trucking, Inc",
+          "relationship": "alternate_spelling"
+        },
+        {
+          "name": "Teresi Trucking Incorporated",
           "relationship": "alternate_spelling"
         }
       ]
@@ -130472,26 +131833,6 @@
       "children": [
         {
           "name": "The Towbes Group, Inc",
-          "relationship": "alternate_spelling"
-        }
-      ]
-    },
-    {
-      "canonical": "THE VOICE OF CITIZENS TOGETHER",
-      "status": "active",
-      "children": [
-        {
-          "name": "THE VOICE OF CITIZENS TOGETHER (VCT)",
-          "relationship": "alternate_spelling"
-        }
-      ]
-    },
-    {
-      "canonical": "THE WESTERN INSURANCE AGENTS ASSOCIATION",
-      "status": "active",
-      "children": [
-        {
-          "name": "THE WESTERN INSURANCE AGENTS ASSOCIATION (WIAA)",
           "relationship": "alternate_spelling"
         }
       ]
@@ -131063,6 +132404,10 @@
         {
           "name": "Total Transportation Services, Inc",
           "relationship": "alternate_spelling"
+        },
+        {
+          "name": "Total Transportation Services Incorporated",
+          "relationship": "alternate_spelling"
         }
       ]
     },
@@ -131437,6 +132782,14 @@
         {
           "name": "TransUnion, Inc",
           "relationship": "alternate_spelling"
+        },
+        {
+          "name": "Trans Union Corporation",
+          "relationship": "alternate_spelling"
+        },
+        {
+          "name": "Trans Union, LLC",
+          "relationship": "alternate_spelling"
         }
       ]
     },
@@ -131710,6 +133063,10 @@
         },
         {
           "name": "TEC",
+          "relationship": "alternate_spelling"
+        },
+        {
+          "name": "Travelers Express",
           "relationship": "alternate_spelling"
         }
       ]
@@ -132067,6 +133424,10 @@
         {
           "name": "Trio Petroleum, Inc",
           "relationship": "alternate_spelling"
+        },
+        {
+          "name": "Trio Petroleum LLC",
+          "relationship": "alternate_spelling"
         }
       ]
     },
@@ -132356,6 +133717,10 @@
         {
           "name": "Tulare County Alcoholism Council, Inc",
           "relationship": "alternate_spelling"
+        },
+        {
+          "name": "Tulare County Alcoholism Council, Incorporated",
+          "relationship": "alternate_spelling"
         }
       ]
     },
@@ -132408,6 +133773,10 @@
         {
           "name": "Tule River Indian Tribe of California",
           "relationship": "chapter"
+        },
+        {
+          "name": "The Tule River Indian Tribe of California",
+          "relationship": "alternate_spelling"
         }
       ]
     },
@@ -132848,6 +134217,10 @@
         {
           "name": "UltiMed Inc",
           "relationship": "alternate_spelling"
+        },
+        {
+          "name": "Ultimed Incorporated",
+          "relationship": "alternate_spelling"
         }
       ]
     },
@@ -132957,6 +134330,10 @@
       "children": [
         {
           "name": "UNILAB Inc",
+          "relationship": "alternate_spelling"
+        },
+        {
+          "name": "Unilab Corporation",
           "relationship": "alternate_spelling"
         }
       ]
@@ -134216,6 +135593,10 @@
         {
           "name": "United Organizations of Taxpayers Inc",
           "relationship": "alternate_spelling"
+        },
+        {
+          "name": "United Organizations of Taxpayers Incorporated",
+          "relationship": "alternate_spelling"
         }
       ]
     },
@@ -135072,16 +136453,16 @@
         {
           "name": "THE URBAN WILDLANDS GROUP",
           "relationship": "alternate_spelling"
-        }
-      ]
-    },
-    {
-      "canonical": "URBAN WILDLANDS GROUP, INC",
-      "status": "active",
-      "children": [
+        },
         {
-          "name": "THE URBAN WILDLANDS GROUP, INC",
-          "relationship": "alternate_spelling"
+          "name": "URBAN WILDLANDS GROUP, INC",
+          "relationship": "alternate_spelling",
+          "children": [
+            {
+              "name": "THE URBAN WILDLANDS GROUP, INC",
+              "relationship": "alternate_spelling"
+            }
+          ]
         }
       ]
     },
@@ -135898,6 +137279,10 @@
         {
           "name": "VENICE COMMUNITY HOUSING CORPORATION (VENICE)",
           "relationship": "alternate_spelling"
+        },
+        {
+          "name": "Venice Community Housing Corp",
+          "relationship": "alternate_spelling"
         }
       ]
     },
@@ -135999,7 +137384,13 @@
     },
     {
       "canonical": "VENTURA COUNTY COMMUNITY DEVELOPMENT CORPORATION",
-      "status": "active"
+      "status": "active",
+      "children": [
+        {
+          "name": "Ventura County Community Development",
+          "relationship": "alternate_spelling"
+        }
+      ]
     },
     {
       "canonical": "VENTURA COUNTY CONTRACTORS ASSOCIATION",
@@ -136548,6 +137939,10 @@
         {
           "name": "THE VIETNAM VETERANS OF AMERICA-CALIFORNIA STATE COUNCIL",
           "relationship": "alternate_spelling"
+        },
+        {
+          "name": "Vietnam Veterans of California, Incorporated",
+          "relationship": "alternate_spelling"
         }
       ]
     },
@@ -136616,16 +138011,16 @@
         {
           "name": "THE VILLA CENTER",
           "relationship": "alternate_spelling"
-        }
-      ]
-    },
-    {
-      "canonical": "VILLA CENTER, INC",
-      "status": "active",
-      "children": [
+        },
         {
-          "name": "THE VILLA CENTER, INC",
-          "relationship": "alternate_spelling"
+          "name": "VILLA CENTER, INC",
+          "relationship": "alternate_spelling",
+          "children": [
+            {
+              "name": "THE VILLA CENTER, INC",
+              "relationship": "alternate_spelling"
+            }
+          ]
         }
       ]
     },
@@ -136700,12 +138095,22 @@
         {
           "name": "THE VILLAGE PROJECT, INC",
           "relationship": "alternate_spelling"
+        },
+        {
+          "name": "The Village Project",
+          "relationship": "alternate_spelling"
         }
       ]
     },
     {
       "canonical": "VILLINES GROUP, LLC",
-      "status": "active"
+      "status": "active",
+      "children": [
+        {
+          "name": "Villines Group",
+          "relationship": "alternate_spelling"
+        }
+      ]
     },
     {
       "canonical": "Viloria Construction",
@@ -136902,6 +138307,10 @@
         {
           "name": "VIDAS",
           "relationship": "alternate_spelling"
+        },
+        {
+          "name": "Vital Immigrant Defense Advocacy and Services Incorporated",
+          "relationship": "alternate_spelling"
         }
       ]
     },
@@ -136921,6 +138330,10 @@
       "children": [
         {
           "name": "Viterra Energy Services, Inc",
+          "relationship": "alternate_spelling"
+        },
+        {
+          "name": "Viterra Energy Services Incorporated",
           "relationship": "alternate_spelling"
         }
       ]
@@ -136987,7 +138400,19 @@
     },
     {
       "canonical": "VOICE OF CITIZENS TOGETHER",
-      "status": "active"
+      "status": "active",
+      "children": [
+        {
+          "name": "THE VOICE OF CITIZENS TOGETHER",
+          "relationship": "alternate_spelling",
+          "children": [
+            {
+              "name": "THE VOICE OF CITIZENS TOGETHER (VCT)",
+              "relationship": "alternate_spelling"
+            }
+          ]
+        }
+      ]
     },
     {
       "canonical": "VOICED COALITION",
@@ -137098,16 +138523,16 @@
         {
           "name": "THE VONS COMPANIES",
           "relationship": "alternate_spelling"
-        }
-      ]
-    },
-    {
-      "canonical": "VONS COMPANIES, INC",
-      "status": "active",
-      "children": [
+        },
         {
-          "name": "THE VONS COMPANIES, INC",
-          "relationship": "alternate_spelling"
+          "name": "VONS COMPANIES, INC",
+          "relationship": "alternate_spelling",
+          "children": [
+            {
+              "name": "THE VONS COMPANIES, INC",
+              "relationship": "alternate_spelling"
+            }
+          ]
         }
       ]
     },
@@ -137315,7 +138740,13 @@
     },
     {
       "canonical": "WAKELAND HOUSING AND DEVELOPMENT CORPORATION",
-      "status": "active"
+      "status": "active",
+      "children": [
+        {
+          "name": "Wakeland Housing and Development",
+          "relationship": "alternate_spelling"
+        }
+      ]
     },
     {
       "canonical": "Wal-Mart Stores",
@@ -137341,6 +138772,10 @@
       "children": [
         {
           "name": "Walden House, Inc",
+          "relationship": "alternate_spelling"
+        },
+        {
+          "name": "Walden House Incorporated",
           "relationship": "alternate_spelling"
         }
       ]
@@ -137381,6 +138816,10 @@
         },
         {
           "name": "The Wall-Las Memorias Project",
+          "relationship": "alternate_spelling"
+        },
+        {
+          "name": "The Wall Las Memorias Project",
           "relationship": "alternate_spelling"
         }
       ]
@@ -137424,15 +138863,19 @@
         {
           "name": "THE WALT DISNEY",
           "relationship": "alternate_spelling"
-        }
-      ]
-    },
-    {
-      "canonical": "WALT DISNEY COMPANY",
-      "status": "active",
-      "children": [
+        },
         {
-          "name": "THE WALT DISNEY COMPANY",
+          "name": "WALT DISNEY COMPANY",
+          "relationship": "alternate_spelling",
+          "children": [
+            {
+              "name": "THE WALT DISNEY COMPANY",
+              "relationship": "alternate_spelling"
+            }
+          ]
+        },
+        {
+          "name": "Walt Disney Corporation",
           "relationship": "alternate_spelling"
         }
       ]
@@ -137652,6 +139095,10 @@
         {
           "name": "THE WATER AND POWER ASSOCIATES, INC",
           "relationship": "alternate_spelling"
+        },
+        {
+          "name": "Water and Power Associates",
+          "relationship": "alternate_spelling"
         }
       ]
     },
@@ -137838,6 +139285,10 @@
         {
           "name": "THE WATTS HEALTH FOUNDATION, INC",
           "relationship": "alternate_spelling"
+        },
+        {
+          "name": "Watts Health Foundation",
+          "relationship": "alternate_spelling"
         }
       ]
     },
@@ -138021,6 +139472,10 @@
       "children": [
         {
           "name": "THE WELLHEAD ELECTRIC COMPANY, INC",
+          "relationship": "alternate_spelling"
+        },
+        {
+          "name": "Wellhead Electric Company",
           "relationship": "alternate_spelling"
         }
       ]
@@ -138263,7 +139718,13 @@
     },
     {
       "canonical": "WEST HOLLYWOOD COMMUNITY HOUSING CORPORATION",
-      "status": "active"
+      "status": "active",
+      "children": [
+        {
+          "name": "West Hollywood Community Housing",
+          "relationship": "alternate_spelling"
+        }
+      ]
     },
     {
       "canonical": "WEST HOLLYWOOD PROJECT",
@@ -138472,6 +139933,10 @@
         {
           "name": "Western Care Construction Company, Inc",
           "relationship": "alternate_spelling"
+        },
+        {
+          "name": "Western Care Construction",
+          "relationship": "alternate_spelling"
         }
       ]
     },
@@ -138594,6 +140059,10 @@
         {
           "name": "THE WESTERN ELECTRICAL CONTRACTORS ASSOCIATION INC",
           "relationship": "alternate_spelling"
+        },
+        {
+          "name": "Western Electrical Contractors Association Incorporated",
+          "relationship": "alternate_spelling"
         }
       ]
     },
@@ -138647,7 +140116,19 @@
     },
     {
       "canonical": "WESTERN INSURANCE AGENTS ASSOCIATION",
-      "status": "active"
+      "status": "active",
+      "children": [
+        {
+          "name": "THE WESTERN INSURANCE AGENTS ASSOCIATION",
+          "relationship": "alternate_spelling",
+          "children": [
+            {
+              "name": "THE WESTERN INSURANCE AGENTS ASSOCIATION (WIAA)",
+              "relationship": "alternate_spelling"
+            }
+          ]
+        }
+      ]
     },
     {
       "canonical": "Western Line Constructors Chapter",
@@ -138985,7 +140466,13 @@
     },
     {
       "canonical": "WESTFIELD",
-      "status": "active"
+      "status": "active",
+      "children": [
+        {
+          "name": "Westfield Corporation Inc",
+          "relationship": "alternate_spelling"
+        }
+      ]
     },
     {
       "canonical": "WESTLAKE VILLAGE MOBILE HOME PARK HOMEOWNERS' ASSOCIATION, VISALIA",
@@ -139047,6 +140534,10 @@
       "children": [
         {
           "name": "Westside Waste Management Co, Inc",
+          "relationship": "alternate_spelling"
+        },
+        {
+          "name": "Westside Waste Management",
           "relationship": "alternate_spelling"
         }
       ]
@@ -139220,6 +140711,10 @@
         {
           "name": "Wild Goose Storage, Inc",
           "relationship": "alternate_spelling"
+        },
+        {
+          "name": "Wild Goose Storage, LLC",
+          "relationship": "alternate_spelling"
         }
       ]
     },
@@ -139306,16 +140801,16 @@
         {
           "name": "THE WILLIAM S. GRAHAM FOUNDATION FOR MELANOMA RESEARCH",
           "relationship": "alternate_spelling"
-        }
-      ]
-    },
-    {
-      "canonical": "WILLIAM S. GRAHAM FOUNDATION FOR MELANOMA RESEARCH, INC",
-      "status": "active",
-      "children": [
+        },
         {
-          "name": "THE WILLIAM S. GRAHAM FOUNDATION FOR MELANOMA RESEARCH, INC",
-          "relationship": "alternate_spelling"
+          "name": "WILLIAM S. GRAHAM FOUNDATION FOR MELANOMA RESEARCH, INC",
+          "relationship": "alternate_spelling",
+          "children": [
+            {
+              "name": "THE WILLIAM S. GRAHAM FOUNDATION FOR MELANOMA RESEARCH, INC",
+              "relationship": "alternate_spelling"
+            }
+          ]
         }
       ]
     },
@@ -139448,16 +140943,16 @@
         {
           "name": "THE WILSON GROUP",
           "relationship": "alternate_spelling"
-        }
-      ]
-    },
-    {
-      "canonical": "WILSON GROUP, LLC",
-      "status": "active",
-      "children": [
+        },
         {
-          "name": "THE WILSON GROUP, LLC",
-          "relationship": "alternate_spelling"
+          "name": "WILSON GROUP, LLC",
+          "relationship": "alternate_spelling",
+          "children": [
+            {
+              "name": "THE WILSON GROUP, LLC",
+              "relationship": "alternate_spelling"
+            }
+          ]
         }
       ]
     },
@@ -140178,6 +141673,10 @@
         {
           "name": "THE WOMEN'S ZIONIST ORGANIZATION OF AMERICA, INC",
           "relationship": "alternate_spelling"
+        },
+        {
+          "name": "Women's Zionist Organization of America",
+          "relationship": "alternate_spelling"
         }
       ]
     },
@@ -140207,6 +141706,10 @@
       "children": [
         {
           "name": "Wong Family Benevolent Association, Inc",
+          "relationship": "alternate_spelling"
+        },
+        {
+          "name": "Wong Family Benevolent Association Incorporated",
           "relationship": "alternate_spelling"
         }
       ]
@@ -140585,6 +142088,10 @@
       "children": [
         {
           "name": "Yahoo! Inc",
+          "relationship": "alternate_spelling"
+        },
+        {
+          "name": "Yahoo, Inc",
           "relationship": "alternate_spelling"
         }
       ]
@@ -141018,6 +142525,10 @@
         {
           "name": "Young's Market Company, Inc",
           "relationship": "alternate_spelling"
+        },
+        {
+          "name": "Young's Market",
+          "relationship": "alternate_spelling"
         }
       ]
     },
@@ -141312,6 +142823,10 @@
         {
           "name": "Zanker Road Resource Management, Inc",
           "relationship": "alternate_spelling"
+        },
+        {
+          "name": "Zanker Road Resource Management Ltd",
+          "relationship": "alternate_spelling"
         }
       ]
     },
@@ -141341,6 +142856,10 @@
       "children": [
         {
           "name": "THE ZENITH INSURANCE COMPANY",
+          "relationship": "alternate_spelling"
+        },
+        {
+          "name": "Zenith Insurance",
           "relationship": "alternate_spelling"
         }
       ]

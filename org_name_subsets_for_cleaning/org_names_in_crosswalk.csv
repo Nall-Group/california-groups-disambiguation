@@ -952,6 +952,7 @@ City of Downey,286
 GREATER CONEJO VALLEY CHAMBER OF COMMERCE,285
 NATIONAL ORGANIZATION FOR WOMEN,285
 City of Corona,285
+Southern California Edison Company,285
 California Association of Port Authorities,284
 Transgender Law Center,284
 "Service Employees International Union, Local 1000",284
@@ -1262,6 +1263,7 @@ ELK GROVE CHAMBER OF COMMERCE,215
 County of Placer,215
 City of Brea,215
 San Diego County Sheriffs Department,215
+San Diego Gas and Electric Company,215
 Teamsters,214
 State Treasurer Bill Lockyer,214
 The 5 Gyres Institute,214
@@ -1619,6 +1621,7 @@ California Coalition for Children's Safety and Health,159
 Department of Toxic Substances Control,158
 WATEREUSE ASSOCIATION,158
 Mothers Against Drunk Driving,158
+San Diego Gas & Electric Company,158
 California Opioid Maintenance Providers,157
 California Tow Truck Association,157
 Olivenhain Municipal Water District,157
@@ -1802,6 +1805,7 @@ Children,136
 350 Bay Area,136
 San Joaquin Valley Air Pollution Control District,136
 State Personnel Board,136
+Altamed Health Services Corporation,136
 Del Amo Action Committee,135
 City of Redondo Beach,135
 Save Mount Diablo,135
@@ -2133,6 +2137,7 @@ City of Selma,110
 CITY OF HALF MOON BAY,110
 Newport Beach Chamber of Commerce,110
 CA,110
+Rite Aid,110
 Independent Employees of Merced County,109
 Golden Gate Audubon Society,109
 California Association of Mortgage Brokers,109
@@ -3727,6 +3732,7 @@ El Segundo Chamber of Commerce,46
 Citrus Heights Chamber of Commerce,46
 California Special Districts Association (CSDA),46
 "Board for Professional Engineers, Land Surveyors, and Geologists",46
+American Stores Company,46
 Cigar Association of America,45
 Health Access of California,45
 Head Start California,45
@@ -3779,6 +3785,7 @@ Bernardino County Sheriff,45
 Hesperia Chamber of Commerce,45
 Redondo Beach Chamber of Commerce and Visitors Bureau,45
 County Welfare Directors,45
+Granite Construction Company,45
 Organize Sacramento,44
 Anheuser-Busch,44
 First Day Foundation,44
@@ -3834,6 +3841,7 @@ Orange Chamber of Commerce,44
 Ridgecrest Chamber of Commerce,44
 Antelope Valley Chambers of Commerce,44
 Fair Political Practices Commission (FPPC),44
+Humboldt Redwood Company,44
 Indivisibles of Sherman Oaks,43
 Advancement Project California,43
 Journey House,43
@@ -3931,6 +3939,7 @@ Black Chamber of Orange County,42
 Victor Valley Chamber of Commerce,42
 Sacramento Metro Chamber of Commerce,42
 Equifax,42
+Esperanza Community Housing Corp,42
 California Church,41
 Justice Teams Network,41
 Central Valley Opportunity Center,41
@@ -4027,6 +4036,7 @@ Southeast Community Development Corporation,40
 Ventura Chamber of Commerce,40
 California Taxpayer's Association,40
 BART,40
+Southern California Gas,40
 California Seismic Safety Commission,39
 California Federation,39
 Marin County Commission on Aging,39
@@ -4197,6 +4207,8 @@ Irwindale Chamber of Commerce,37
 Long Beach Fire Fighters,37
 Yolo County Sheriff,37
 Stanislaus County Sheriff's Department,37
+Clorox,37
+GTE California Incorporated,37
 Bay Area Partnership,36
 California Medical Transportation Association,36
 Rights,36
@@ -4321,6 +4333,8 @@ South County Chambers of Commerce,35
 San Rafael Chamber of Commerce,35
 American Council of Life Insurance,35
 Western Manufactured Housing Communities Association (WMA),35
+Burbank Housing Development Corp,35
+Chevron Corporation,35
 Consumer Federation,34
 Emergency Nurses Association of California,34
 California Labor Federation (CLF),34
@@ -4729,6 +4743,7 @@ San Mateo Area Chamber of Commerce,30
 Department of Consumer Affairs (DCA),30
 Mechoopda Indian Tribe of Chico Rancheria,30
 International Council of Cruise Lines,30
+Capitol Racing LLC,30
 California Business,29
 Interfaith Council of Contra Costa County,29
 National Collegiate Athletic Association,29
@@ -5307,6 +5322,8 @@ California Black Chamber of Commerce Foundation,24
 Sheriff of San Bernardino County,24
 John Burton Foundation for Children without Homes,24
 Control,24
+Peoples' Self-Help Housing Corp,24
+Quest Diagnostics Incorporated,24
 California Society,23
 California Conservation Corps,23
 Cruise Lines International Association,23
@@ -5573,6 +5590,8 @@ United Way Monterey County,22
 Wine and Spirits Wholesalers of California,22
 LANDWATCH MONTEREY COUNTY,22
 "Affordable Housing Management Association, Pacific Southwest",22
+Hall Ambulance Service Incorporated,22
+Proctor & Gamble,22
 California Association of Local Agency Formation Commissions (CALAFCO),21
 California Climate Action,21
 California Law,21
@@ -5863,6 +5882,8 @@ Ventura County Deputy Sheriffs Association,20
 Los Angeles County Sheriff Leroy Baca,20
 Region 8 States Council of the United Food and Commercial Workers,20
 ACWA,20
+California Human Development Corporation,20
+Century Housing Corporation,20
 California Department of Fish and Game,19
 California Attorney,19
 California Gray Panthers,19
@@ -6022,6 +6043,10 @@ City of Anaheim Police Department,19
 County of Contra Costa Office of the Sheriff,19
 DFG,19
 CFT,19
+Allstate Insurance,19
+CR&R Incorporated,19
+Frontier Communications Corporation,19
+Los Angeles Dodgers LLC,19
 California Financial Services,18
 California Builders Exchanges,18
 California Association of American Physicians and Surgeons,18
@@ -6198,6 +6223,9 @@ City of Signal Hill Police Department,18
 Deputy Sheriffs Association of San Diego,18
 City of Fullerton Police Department,18
 City of Buena Park Police Department,18
+International Anticounterfeiting Coalition,18
+Mercury Insurance,18
+Safety-Kleen Corporation,18
 Women's Health Specialists of California,17
 Wilderness Society,17
 "Service Employees International Union (SEIU), Local 1000",17
@@ -6610,6 +6638,7 @@ Central California Regional Obesity Prevention Program,16
 Southern California Association of Law Libraries,16
 Disability Rights California,16
 ACIC,16
+Clinicas del Camino Real Incorporated,16
 California (PORAC),15
 California National Organization for Women (CA NOW),15
 California State Association of County Auditors,15
@@ -7088,6 +7117,11 @@ City of Brea Police Department,14
 United Professional Fire Fighters of Contra Costa County,14
 SWRCB,14
 GSMOL,14
+"Environmental Defense Fund, Incorporated",14
+Granite Construction Incorporated,14
+"Household Financial Group, Ltd",14
+Qualcomm Incorporated,14
+Southern California Edison Co,14
 California Foundation,13
 California Office of the Attorney General,13
 California AARP,13
@@ -7374,6 +7408,8 @@ El Dorado County Sheriffs Office,13
 AT&T California,13
 CDFA,13
 CCPOA,13
+CalEnergy,13
+The International Cat Association,13
 California Association of Nonprofits (CalNonprofits),12
 California County Superintendents of Schools,12
 California Managed Risk Medical Insurance Board (MRMIB),12
@@ -7701,6 +7737,9 @@ California State Council of the Service Employees International Union,12
 American Civil liberties Union,12
 AAA,12
 DMH,12
+EDS Corporation,12
+Protection and Advocacy Incorporated,12
+Solar Turbines Incorporated,12
 California Department,11
 California Court Appointed Special Advocates (CASA),11
 California Coalition Against Gambling Expansion (CAGE),11
@@ -8091,6 +8130,8 @@ League of women Voters of California,11
 CMUA,11
 CPOA,11
 FMC,11
+Community Housing Corporation,11
+Qualcomm Corp,11
 California Asian Pacific Chamber of Commerce (CalAsian),10
 California Board of Chiropractic Examiners,10
 California City,10
@@ -8548,6 +8589,9 @@ California Naturopathic Association,10
 CDA,10
 CAPG,10
 AMD,10
+Crown Imports LLC,10
+Lighter Association,10
+Sierra Telephone,10
 California Association of Homes and Services for the Aging (CAHA),9
 "California Association of HMOs, Inc. (CAHMO)",9
 California Chapter National Emergency Number Association (CALNENA),9
@@ -9032,6 +9076,11 @@ CALIFORNIA ASSOCIATION FOR BILINGUAL EDUCATION,9
 State Building and construction Trades Council of California,9
 CDAA,9
 CHIRLA,9
+Access Services Incorporated,9
+Half Moon Bay Brewing,9
+Monsanto Company,9
+"Successful Reentry, LLC",9
+Zenith Insurance,9
 California Association of Independent,8
 California Court Reporters Board,8
 California Department of Corporations,8
@@ -9609,6 +9658,15 @@ Greenbridge Corporate Counsel,8
 State Association of County Auditors (SACA),8
 SCO,8
 MOL,8
+American Home Products Corporation,8
+Dixie Group,8
+Greyhound Lines Incorporated,8
+IMS Health Incorporated,8
+Pacific Lumber,8
+Safety-Kleen Corp,8
+Segway LLC,8
+The National Association of Insurance and Financial Advisors-California,8
+Zanker Road Resource Management Ltd,8
 Northern California Golf Association,7
 California Association of Community Organizations for Reform Now,7
 California Association of Counties (CSAC),7
@@ -10275,6 +10333,14 @@ EBMUD,7
 PSR,7
 CSI,7
 CAR,7
+Association for Los Angeles Deputy Sheriff,7
+East Bay Asian Local Development,7
+Eastman Chemical Company,7
+Gubb & Barshay,7
+"MuniServices, LLC",7
+"Northeastern Rural Health Clinics, Incorporated",7
+Solectron Corporation,7
+Venice Community Housing Corp,7
 California Community,6
 California Chief Probation Officers Association,6
 California Coalition for Youth (CCYFC),6
@@ -11042,6 +11108,20 @@ CAHSA,6
 CAMHPRO,6
 BOCA,6
 FACTS,6
+AMG & Associates,6
+Agee Global Solutions,6
+American Parkinson Disease Association,6
+"Driving School Association of California, Incorporated",6
+Goldfarb & Lipman,6
+Granite Construction Co,6
+Gun Owners of California Incorporated,6
+Homeguard Incorporated,6
+Matson Navigation,6
+"National Health Services, Incorporated",6
+Ponderosa Telephone,6
+Procter and Gamble,6
+The Village Project,6
+Walt Disney Corporation,6
 California Center,5
 California Board of Equalization,5
 California Board,5
@@ -12225,6 +12305,16 @@ BARC,5
 NORML,5
 CAHF,5
 GLAAD,5
+Amerigon Company,5
+Bureau of Missing Heirs,5
+"FHP, Incorporated",5
+MCA Incorporated,5
+National Cement Company,5
+Owens Illinois Corp,5
+PHI Air Medical LLC,5
+The On-Line Traffic School,5
+Trans Union Corporation,5
+Young's Market,5
 California Brady Campaign to Prevent Gun Violence,4
 California Building Owners and Managers Association,4
 California Bureau of State Audits (State Auditor),4
@@ -13938,6 +14028,26 @@ CASHPCR,4
 CSDA,4
 CCBA,4
 CCEEB,4
+Alliance of Special Effects and Pyrotechnic Operators,4
+Allied Managed Care Incorporated,4
+C&C Development Co,4
+CR & R Incorporated,4
+Cabrillo Economic Development,4
+"California Sportsman's Lobby, Incorporated",4
+Chevron Corp,4
+"Harvest Power California, LLC",4
+Merritt Community Capital,4
+"New Alternatives, Incorporated",4
+Presto Products Company,4
+"Ryan Snyder Associates, LLC",4
+Safety Center Incorporated,4
+South San Francisco Scavenger,4
+Strategic Materials Corporation,4
+"Sunverge Energy, LLC",4
+The Dahm Team Real Estate Company,4
+Travelers Express,4
+Trio Petroleum LLC,4
+Water and Power Associates,4
 California Clean Power,3
 California Civil Liberties Union,3
 California Contractors Association,3
@@ -16175,6 +16285,44 @@ BIC,3
 ISSA,3
 ISE,3
 CTIA,3
+100 Black Men of the Bay Area,3
+"1HWY1, LLC",3
+APL Limited,3
+"Achievement House, Incorporated",3
+Adaptec Incorporated,3
+Alfigen Incorporated,3
+Allianz of America Corporation,3
+American Home Products Corp,3
+Amgen Corporation,3
+"Association for Los Angeles Deputy Sheriffs, Incorporated",3
+California Energy,3
+"Cargill, Incorporated",3
+Cisco Systems Limited,3
+Community Housing Corp,3
+Evergreen Oil Company,3
+Fervo Energy Company,3
+First American Corp,3
+GWF Power Systems,3
+George G. Glenner Alzheimer's Family Centers,3
+Hitzke Development,3
+"Integrated Resource Management, LLC",3
+Jamboree Housing,3
+Knoll Farms LLC,3
+Los Angeles County Economic Development,3
+"Los Angeles Turf Club, Incorporated",3
+Mid-Peninsula Housing,3
+New United Motor Manufacturing Incorporated,3
+Protection & Advocacy Incorporated,3
+San Diego & Imperial Valley Railroad,3
+San Diego Regional Economic Development,3
+The Dial,3
+United Organizations of Taxpayers Incorporated,3
+Vital Immigrant Defense Advocacy and Services Incorporated,3
+Viterra Energy Services Incorporated,3
+Walden House Incorporated,3
+Watts Health Foundation,3
+Westfield Corporation Inc,3
+Wong Family Benevolent Association Incorporated,3
 California Building Industry Association of Southern California,2
 California Association of Health Maintenance Organizations (California HMO),2
 California Association of Environmental Professionals,2
@@ -19856,6 +20004,67 @@ DMAA,2
 DBA,2
 DSA,2
 CIPELC,2
+A-Z Bus Sales Incorporated,2
+American Stores Corporation,2
+"Associated Students, Incorporated",2
+Boeing Corporation,2
+C & C Development Co,2
+C&C Development Company,2
+Cabrillo Management,2
+"Caithness Energy, LLC",2
+"California Association of Harbor Masters and Port Captains, Incorporated",2
+"California Beet Growers Association, Ltd",2
+California Housing Partnership Corp,2
+California Rifle & Pistol Association Incorporated,2
+California Sportman's Lobby,2
+Clif Bar Incorporated,2
+Colmac Energy Corporation,2
+Community Housing Opportunities,2
+"Constellation NewEnergy, Incorporated",2
+"Dynegy, Incorporated",2
+EDS Corp,2
+East Bay Consortium of Educational Institutions,2
+East LA Community,2
+Electronic Data Systems Corp,2
+Fair Housing Council of Riverside Co,2
+Foodmaker Company,2
+Fowler Packing,2
+Gen-Probe Incorporated,2
+Genentech Co,2
+"Glaxo, Incorporated",2
+Holliday Rock,2
+Industrial Bank of Japan,2
+Ligand Pharmaceuticals Incorporated,2
+"Macy's, Incorporated",2
+Mathews Readymix LLC,2
+Mission Economic Development,2
+Monsanto Corporation,2
+Nor-Cal Beverage,2
+OOCL Inc,2
+"Oakley, Incorporated",2
+Ohmconnect Incorporated,2
+"Pacific Coast Federation of Fishermen's Associations, Incorporated",2
+Peña's Disposal Company,2
+"Recurrent Energy, Llc",2
+"Rivian Automotive, LLC",2
+Roof Structures Incorporated,2
+Rural Communities Housing Development,2
+Rural Community Assistance,2
+San Diego Gas and Electric Co,2
+"Shapell Industries, Incorporated",2
+Siemens Corporation,2
+Solex Corporation,2
+Spidell Publishing Corporation,2
+The Asian Pacific American Legal Center of Southern California,2
+The Dennehey Group,2
+The Learning Experience,2
+The National Immigration Law Center,2
+Total Transportation Services Incorporated,2
+"Tulare County Alcoholism Council, Incorporated",2
+Ultimed Incorporated,2
+Unilab Corporation,2
+Western Electrical Contractors Association Incorporated,2
+for Animals,2
 California Pan-Ethnic Health Network (CPEHN),1
 Western Regional Advocacy Program,1
 California AMVETS,1
@@ -26848,3 +27057,115 @@ FIDM,1
 ITAA,1
 GAN,1
 DBW,1
+"100 Black Men of Sacramento, Incorporated",1
+"APL, Ltd",1
+Aerojet General Corporation,1
+Alpha Construction,1
+Alternatives Ltd,1
+American Brittany Club,1
+Anheuser Busch Co,1
+"Animal Emancipation, Incorporated",1
+Architects LLP,1
+"Arevalo Tortilleria, Incorporated",1
+Association for the Los Angeles Deputy Sheriffs,1
+Association of California Insurance Co,1
+Association of California Life and Health Insurance Co,1
+Association of California Life and Health Insurance Company,1
+"Avon Products, Incorporated",1
+BRIDGE Housing Corp,1
+"Baker Furnace, Incorporated",1
+Barrio Planners Incorporated,1
+"C T Finishing, Incorporated",1
+"CAPS, Incorporated",1
+"California Advocates, Incorporated",1
+California Central Valley Economic Development,1
+California Human Development Corp,1
+"California Mental Health Advocates for Children and Youth (CMHACY), co",1
+California Reading Association Incorporated,1
+"California Rifle and Pistol Association, Incorporated",1
+California Rural Legal Assistance Corporation,1
+"California Steel Industries, Incorporated",1
+Chemco Corporation,1
+Citation Northern Corporation,1
+"Clean Air Partners, Incorporated",1
+Collie Club of America,1
+Concentra Incorporated,1
+"Continental Plastic Containers, Incorporated",1
+"County of Santa Clara, Incorporated",1
+DJI Incorporated,1
+Davis Waste Removal Co,1
+"Davis Waste Removal Company, Inc",1
+"De Luz Family Housing, LLC",1
+Deinhard Electric,1
+Delta Dental Corporation,1
+Dow Chemical,1
+ENGEO Incorporated,1
+East Los Angeles Community,1
+Eastman Chemical Co,1
+Embee Incorporated,1
+Equestrian Trails Incorporated,1
+FHP Corporation,1
+Farmers Insurance Company,1
+"Foodmaker, Incorporated",1
+GOLFTEC Enterprises,1
+"H2Safe, LLC",1
+Hanjin Shipping,1
+Hanson Bridgett LLP,1
+Harris Construction,1
+"Highland Plastics, Incorporated",1
+"Housing Rights, Incorporated",1
+LA Community Legal Center and Educational Incorporated,1
+LINC Housing Corporation,1
+Land Conservancy of San Luis Obispo Co,1
+"Lehigh Hanson, Incorporated",1
+MAXIMUS Corporation,1
+McDonald's Corporation,1
+MidPen Housing Corp,1
+Mission Housing Development,1
+Montebello Housing Development,1
+Muniservices Company,1
+National Cement Company Corporation,1
+National Cement Corporation,1
+NexTracker Incorporated,1
+"Norcal Waste Systems, Incorporated",1
+Outback Power Technologies Incorporated,1
+Owens-Illinois Corporation,1
+Palestro Distribution Centers Incorporated,1
+Palo Alto Housing,1
+Pfizer Incorporated,1
+Real Energy LLC,1
+Safety Kleen Corporation,1
+San Diego Gas & Electric Co,1
+San Francisco Housing Development Corp,1
+Schaber Company,1
+Selective Genetics Incorporated,1
+"Silicon Graphics, Incorporated",1
+Solar Turbines Company,1
+"Tenderloin Housing Clinic, Incorporated",1
+Tenderloin Neighborhood Development Corp,1
+Teresi Trucking Incorporated,1
+The Aids Healthcare Foundation,1
+"The American Institute of Architects, California Council (AIACC)",1
+The Automotive Service Councils of California,1
+The Boeing Co,1
+The CSAC Excess Insurance Authority,1
+The California Autobody Association,1
+The California Dental Hygienists' Association (CDHA),1
+The Children's Collective,1
+The City of Carlsbad,1
+The Coalition to Actively Treat and Educate for Recovery (CATER),1
+The Knox,1
+The Lion Electric,1
+The Santa Barbara County Taxpayers Association,1
+The Tule River Indian Tribe of California,1
+"Trans Union, LLC",1
+Ventura County Community Development,1
+"Vietnam Veterans of California, Incorporated",1
+Villines Group,1
+Wakeland Housing and Development,1
+Wellhead Electric Company,1
+West Hollywood Community Housing,1
+Western Care Construction,1
+Westside Waste Management,1
+"Wild Goose Storage, LLC",1
+Women's Zionist Organization of America,1

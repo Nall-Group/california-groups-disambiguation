@@ -37,7 +37,7 @@ directory: org_name_subsets_for_cleaning/
 
 8. Separate org_names_capitalized.csv into org_names_in_crosswalk.csv and org_names_not_in_crosswalk.csv so we can work on getting them all into the crosswalk
 
-9. Add orgs that have "Inc" at the end of the name where the same org without "Inc" also exists in the dataset, to the crosswalk
+9. Add orgs that have "Inc" at the end of the name where the same org without "Inc" also exists in the dataset, to the crosswalk. Do the same for Corp and LLC
 
 10. Add orgs that are the same as another org except for the addition of ' California" or ' of California' or ' of CA' or ' CA' at teh end as orgs with a chapter relationship to the base name
 
