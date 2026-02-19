@@ -89962,20 +89962,6 @@
       ]
     },
     {
-      "canonical": "Los Angeles County Probation Officers' Union",
-      "status": "active",
-      "children": [
-        {
-          "name": "Los Angeles County Probation Officers' Union, Local 685",
-          "relationship": "chapter"
-        },
-        {
-          "name": "Los Angeles County Probation Officers Union, Local 685, AFSCME",
-          "relationship": "chapter"
-        }
-      ]
-    },
-    {
       "canonical": "LOS ANGELES COUNTY PROFESSIONAL PEACE OFFICERS ASSOCIATION",
       "status": "active",
       "children": [
@@ -90352,38 +90338,6 @@
         {
           "name": "LOS ANGELES POVERTY DEPARTMENT (LAPD)",
           "relationship": "alternate_spelling"
-        }
-      ]
-    },
-    {
-      "canonical": "LOS ANGELES PROBATION DEPARTMENT UNION",
-      "status": "active",
-      "children": [
-        {
-          "name": "THE LOS ANGELES PROBATION DEPARTMENT UNION",
-          "relationship": "alternate_spelling"
-        },
-        {
-          "name": "Los Angeles Probation Department Union Local 685",
-          "relationship": "chapter"
-        }
-      ]
-    },
-    {
-      "canonical": "Los Angeles Probation Department Union AFSCME",
-      "status": "active",
-      "children": [
-        {
-          "name": "THE LOS ANGELES PROBATION DEPARTMENT UNION, AFSCME",
-          "relationship": "alternate_spelling"
-        },
-        {
-          "name": "Los Angeles Probation Department Union, AFSCME, Local 685",
-          "relationship": "chapter"
-        },
-        {
-          "name": "Los Angeles Probation Department Union, AFSCME, Local 685 (original version)",
-          "relationship": "chapter"
         }
       ]
     },
@@ -142589,20 +142543,6 @@
       ]
     },
     {
-      "canonical": "Los Angeles Probation Officer's Union, AFSCME",
-      "status": "active",
-      "children": [
-        {
-          "name": "Los Angeles Probation Officers' Union, AFSCME, Local 685",
-          "relationship": "chapter"
-        },
-        {
-          "name": "THE LOS ANGELES PROBATION OFFICERS' UNION, AFSCME LOCAL 685",
-          "relationship": "alternate_spelling"
-        }
-      ]
-    },
-    {
       "canonical": "Engineers and Scientists of CA, IFPTE",
       "status": "active",
       "children": [
@@ -142722,30 +142662,6 @@
         },
         {
           "name": "United Steelworkers Local 418G",
-          "relationship": "chapter"
-        }
-      ]
-    },
-    {
-      "canonical": "Los Angeles County Probation Officer's Union, AFSCME",
-      "status": "active",
-      "children": [
-        {
-          "name": "Los Angeles County Probation Officers' Union, AFSCME, Local 685",
-          "relationship": "chapter"
-        },
-        {
-          "name": "THE LOS ANGELES COUNTY PROBATION OFFICERS UNION AFSCME LOCAL 685",
-          "relationship": "alternate_spelling"
-        }
-      ]
-    },
-    {
-      "canonical": "Los Angeles County Probation Department Union",
-      "status": "active",
-      "children": [
-        {
-          "name": "Los Angeles County Probation Department Union Local 685",
           "relationship": "chapter"
         }
       ]
@@ -145257,16 +145173,6 @@
       ]
     },
     {
-      "canonical": "Los Angeles County Probation Union, AFSCME",
-      "status": "active",
-      "children": [
-        {
-          "name": "Los Angeles County Probation Union, AFSCME, Local 685",
-          "relationship": "chapter"
-        }
-      ]
-    },
-    {
       "canonical": "UNITE HERE",
       "status": "active",
       "children": [
@@ -145353,20 +145259,6 @@
         {
           "name": "Sprinkler Fitters and Apprentices Local 483",
           "relationship": "chapter"
-        }
-      ]
-    },
-    {
-      "canonical": "Los Angeles County Probation Department Union, AFSCME",
-      "status": "active",
-      "children": [
-        {
-          "name": "Los Angeles County Probation Department Union, AFSCME, Local 685",
-          "relationship": "chapter"
-        },
-        {
-          "name": "Los Angeles County Probation Department Union/AFSCME",
-          "relationship": "alternate_spelling"
         }
       ]
     },
@@ -146105,16 +145997,6 @@
       ]
     },
     {
-      "canonical": "Los Angeles County Probation Managers Association AFSCME",
-      "status": "active",
-      "children": [
-        {
-          "name": "Los Angeles County Probation Managers Association AFSCME Local 1967",
-          "relationship": "chapter"
-        }
-      ]
-    },
-    {
       "canonical": "Bricklayers and Allied Crafts",
       "status": "active",
       "children": [
@@ -146839,28 +146721,6 @@
       ]
     },
     {
-      "canonical": "Los Angeles County Deputy Probation Officers' Union, AFSCME",
-      "status": "active",
-      "children": [
-        {
-          "name": "Los Angeles County Deputy Probation Officers' Union, AFSCME, Local 685",
-          "relationship": "chapter"
-        },
-        {
-          "name": "Los Angeles County Deputy Probation Officers Union, AFSCME, Local 865",
-          "relationship": "chapter"
-        },
-        {
-          "name": "Los Angeles County Deputy Probation Officers Union, AFSCME Local 658",
-          "relationship": "chapter"
-        },
-        {
-          "name": "THE LOS ANGELES COUNTY DEPUTY PROBATION OFFICERS UNION, AFSCME, LOCAL 685",
-          "relationship": "alternate_spelling"
-        }
-      ]
-    },
-    {
       "canonical": "Make-Up Artists and Hair Stylist Guild",
       "status": "active",
       "children": [
@@ -147098,26 +146958,6 @@
       "children": [
         {
           "name": "Painters, Tapers, Floorcoverers and Glaziers District Council 16 Local 294",
-          "relationship": "chapter"
-        }
-      ]
-    },
-    {
-      "canonical": "Los Angeles Deputy Probation Officers' Union, AFSCME",
-      "status": "active",
-      "children": [
-        {
-          "name": "Los Angeles Deputy Probation Officers' Union, AFSCME, Local 685",
-          "relationship": "chapter"
-        }
-      ]
-    },
-    {
-      "canonical": "Los Angeles County Deputy Probation Officers, AFSCME",
-      "status": "active",
-      "children": [
-        {
-          "name": "Los Angeles County Deputy Probation Officers, AFSCME Local 685",
           "relationship": "chapter"
         }
       ]
@@ -147455,16 +147295,6 @@
       ]
     },
     {
-      "canonical": "Probation Department Union, AFSCME",
-      "status": "active",
-      "children": [
-        {
-          "name": "Probation Department Union, AFSCME, Local 685",
-          "relationship": "chapter"
-        }
-      ]
-    },
-    {
       "canonical": "Plumbers and Steamfitters UA",
       "status": "active",
       "children": [
@@ -147546,26 +147376,6 @@
       "children": [
         {
           "name": "Motion Picture Studio First Aid Employees Local 767 IATSE",
-          "relationship": "chapter"
-        }
-      ]
-    },
-    {
-      "canonical": "Los Angeles Probation Officers' Union",
-      "status": "active",
-      "children": [
-        {
-          "name": "Los Angeles Probation Officers' Union, Local 685",
-          "relationship": "chapter"
-        }
-      ]
-    },
-    {
-      "canonical": "Los Angeles County Probation California Peace Officers Union AFSCME",
-      "status": "active",
-      "children": [
-        {
-          "name": "Los Angeles County Probation California Peace Officers Union AFSCME Local 685",
           "relationship": "chapter"
         }
       ]
@@ -148119,16 +147929,6 @@
       ]
     },
     {
-      "canonical": "Angeles Probation Officers' Union, AFSCME",
-      "status": "active",
-      "children": [
-        {
-          "name": "Angeles Probation Officers' Union, AFSCME, Local 685",
-          "relationship": "chapter"
-        }
-      ]
-    },
-    {
       "canonical": "Glazers, Architectural Metal and Glass Workers",
       "status": "active",
       "children": [
@@ -148493,31 +148293,11 @@
       ]
     },
     {
-      "canonical": "Los Angeles County Probation Officers Union AFSCEME",
-      "status": "active",
-      "children": [
-        {
-          "name": "Los Angeles County Probation Officers Union AFSCEME Local 685",
-          "relationship": "chapter"
-        }
-      ]
-    },
-    {
       "canonical": "Laborers Asbestos and Toxic Abatement",
       "status": "active",
       "children": [
         {
           "name": "Laborers Asbestos and Toxic Abatement, Local 882",
-          "relationship": "chapter"
-        }
-      ]
-    },
-    {
-      "canonical": "L.A. County Probation Officers Union, AFSCME",
-      "status": "active",
-      "children": [
-        {
-          "name": "L.A. County Probation Officers Union, AFSCME, Local 685",
           "relationship": "chapter"
         }
       ]
@@ -149409,16 +149189,6 @@
       ]
     },
     {
-      "canonical": "County Probation Department Union, AFSCME",
-      "status": "active",
-      "children": [
-        {
-          "name": "County Probation Department Union, AFSCME, Local 685",
-          "relationship": "chapter"
-        }
-      ]
-    },
-    {
       "canonical": "Costume Designers Guild, IATSE",
       "status": "active",
       "children": [
@@ -149563,16 +149333,6 @@
       ]
     },
     {
-      "canonical": "Los Angeles Probation Union AFSCME",
-      "status": "active",
-      "children": [
-        {
-          "name": "Los Angeles Probation Union, AFSCME, Local 685",
-          "relationship": "chapter"
-        }
-      ]
-    },
-    {
       "canonical": "Office & Professional Employees",
       "status": "active",
       "children": [
@@ -149641,16 +149401,6 @@
       ]
     },
     {
-      "canonical": "Probation Department Union",
-      "status": "active",
-      "children": [
-        {
-          "name": "Probation Department Union Local 685",
-          "relationship": "chapter"
-        }
-      ]
-    },
-    {
       "canonical": "Professional & Technical Engineers, IFTPE",
       "status": "active",
       "children": [
@@ -149660,16 +149410,6 @@
         },
         {
           "name": "Professional & Technical Engineers, IFTPE Local 21, AFL-CIO",
-          "relationship": "chapter"
-        }
-      ]
-    },
-    {
-      "canonical": "Probation Union, AFSCME",
-      "status": "active",
-      "children": [
-        {
-          "name": "Probation Union, AFSCME, Local 685",
           "relationship": "chapter"
         }
       ]
@@ -149893,41 +149633,11 @@
       ]
     },
     {
-      "canonical": "LA Probation Union, AFSCME",
-      "status": "active",
-      "children": [
-        {
-          "name": "LA Probation Union, AFSCME, Local 685",
-          "relationship": "chapter"
-        }
-      ]
-    },
-    {
       "canonical": "L.I.U. of N.A.",
       "status": "active",
       "children": [
         {
           "name": "L.I.U. of N.A. Local 724",
-          "relationship": "chapter"
-        }
-      ]
-    },
-    {
-      "canonical": "LA County Probation Dept Union",
-      "status": "active",
-      "children": [
-        {
-          "name": "LA County Probation Dept Union, Local 685",
-          "relationship": "chapter"
-        }
-      ]
-    },
-    {
-      "canonical": "L.A. County Probation Department Union",
-      "status": "active",
-      "children": [
-        {
-          "name": "L.A. County Probation Department Union Local 685",
           "relationship": "chapter"
         }
       ]
@@ -150069,16 +149779,6 @@
       ]
     },
     {
-      "canonical": "Joint Council of Supervising Deputy Probation Officers, SEIU",
-      "status": "active",
-      "children": [
-        {
-          "name": "Joint Council of Supervising Deputy Probation Officers, SEIU Local 721",
-          "relationship": "chapter"
-        }
-      ]
-    },
-    {
       "canonical": "Motion Picture Studio Grips, Crafts Service & First Aid, IATSE",
       "status": "active",
       "children": [
@@ -150104,56 +149804,6 @@
       "children": [
         {
           "name": "Motion Picture Costumers I.A.T.S.E. Local 705",
-          "relationship": "chapter"
-        }
-      ]
-    },
-    {
-      "canonical": "Los Angeles County Probation Officers Union AFSME",
-      "status": "active",
-      "children": [
-        {
-          "name": "Los Angeles County Probation Officers Union AFSME Local 685",
-          "relationship": "chapter"
-        }
-      ]
-    },
-    {
-      "canonical": "Los Angeles County Probation Officers' Union AFCSME",
-      "status": "active",
-      "children": [
-        {
-          "name": "Los Angeles County Probation Officers' Union AFCSME, Local 685",
-          "relationship": "chapter"
-        }
-      ]
-    },
-    {
-      "canonical": "Los Angeles County Probation Union",
-      "status": "active",
-      "children": [
-        {
-          "name": "Los Angeles County Probation Union, Local 685",
-          "relationship": "chapter"
-        }
-      ]
-    },
-    {
-      "canonical": "Los Angeles Deputy Probation Officers, AFSCME",
-      "status": "active",
-      "children": [
-        {
-          "name": "Los Angeles Deputy Probation Officers, AFSCME Local 685",
-          "relationship": "chapter"
-        }
-      ]
-    },
-    {
-      "canonical": "Los Angeles Probation Department Union, AFSCMA",
-      "status": "active",
-      "children": [
-        {
-          "name": "Los Angeles Probation Department Union, AFSCMA, Local 685",
           "relationship": "chapter"
         }
       ]
@@ -150637,16 +150287,6 @@
       ]
     },
     {
-      "canonical": "SFSCME",
-      "status": "active",
-      "children": [
-        {
-          "name": "SFSCME, Local 685",
-          "relationship": "chapter"
-        }
-      ]
-    },
-    {
       "canonical": "Stage Hands, IATSE",
       "status": "active",
       "children": [
@@ -150917,41 +150557,11 @@
       ]
     },
     {
-      "canonical": "Angeles County Probation Department Union",
-      "status": "active",
-      "children": [
-        {
-          "name": "Angeles County Probation Department Union Local 685",
-          "relationship": "chapter"
-        }
-      ]
-    },
-    {
-      "canonical": "Angeles County Probation Department Union, AFSCME",
-      "status": "active",
-      "children": [
-        {
-          "name": "Angeles County Probation Department Union, AFSCME, Local 685",
-          "relationship": "chapter"
-        }
-      ]
-    },
-    {
       "canonical": "Animation Guild, IATSE",
       "status": "active",
       "children": [
         {
           "name": "Animation Guild, IATSE Local 839",
-          "relationship": "chapter"
-        }
-      ]
-    },
-    {
-      "canonical": "Association of Probation Supervisors of Los Angeles County, SEIU",
-      "status": "active",
-      "children": [
-        {
-          "name": "Association of Probation Supervisors of Los Angeles County, SEIU Local 721",
           "relationship": "chapter"
         }
       ]
@@ -151327,16 +150937,6 @@
       ]
     },
     {
-      "canonical": "County Probation Department Union",
-      "status": "active",
-      "children": [
-        {
-          "name": "County Probation Department Union Local 685",
-          "relationship": "chapter"
-        }
-      ]
-    },
-    {
       "canonical": "UWD and AFSCME",
       "status": "active",
       "children": [
@@ -151602,26 +151202,6 @@
       "children": [
         {
           "name": "Public Banking Alliance , 350 Bay Area Action, 350 Chico, 350 Conejo San Fernando Valley, 350 Riverside, 350 Santa Cruz, 350 Silicon Valley, 350 Sonoma, 350 South Bay Los Angeles, Act LA, Active San Gabriel Valley, AFSCME California, AFSCME Council 57, Alliance for Community Transit - Los Angeles, Alliance for Democracy, Alliance of Californians for Community Empowerment Action, American Federation of Teachers Guild Local 1931, American Federation of Teachers Local 2121, American Indian Movement SoCal, American Postal Workers Union, AFL-CIO, Asian Pacific Environmental Network, Backbone Campaign, Beneficial State Foundation, Beverly-Vermont Community Land Trust, California American Postal Workers Union, AFL-CIO, California Association for Micro Enterprise Opportunity, California Community Land Trust Network, California Environmental Justice Alliance, California Faculty Association - San Francisco State University, California Labor Federation, California Nurses Association/National Nurses United AFL-CIO, California Progressive Alliance, California Reinvestment Coalition, California State Board of Education, Campaign for Sustainable Transportation - Santa Cruz, Center for Community Action and Environmental Justice, Center for Farmworker Families, City and County of San Francisco",
-          "relationship": "chapter"
-        }
-      ]
-    },
-    {
-      "canonical": "Probation Officers' Union, AFSCME",
-      "status": "active",
-      "children": [
-        {
-          "name": "Probation Officers' Union, AFSCME, Local 685",
-          "relationship": "chapter"
-        }
-      ]
-    },
-    {
-      "canonical": "Probation Officers Union",
-      "status": "active",
-      "children": [
-        {
-          "name": "Probation Officers Union, Local 685",
           "relationship": "chapter"
         }
       ]
@@ -151925,80 +151505,6 @@
         {
           "name": "Peace Officers Union, Local 1587",
           "relationship": "chapter"
-        }
-      ]
-    },
-    {
-      "canonical": "L.A. County Deputy Probation Officers Union, AFSCME",
-      "status": "active",
-      "children": [
-        {
-          "name": "L.A. County Deputy Probation Officers Union, AFSCME Local 685",
-          "relationship": "chapter"
-        }
-      ]
-    },
-    {
-      "canonical": "LA Probation Dept. Union, AFSCME",
-      "status": "active",
-      "children": [
-        {
-          "name": "LA Probation Dept. Union, AFSCME Local 685",
-          "relationship": "chapter"
-        }
-      ]
-    },
-    {
-      "canonical": "LA County Deputy Probation Officers Union",
-      "status": "active",
-      "children": [
-        {
-          "name": "LA County Deputy Probation Officers Union, Local 685",
-          "relationship": "chapter"
-        }
-      ]
-    },
-    {
-      "canonical": "LA County Probation Department Union/AFSCME",
-      "status": "active",
-      "children": [
-        {
-          "name": "LA County Probation Department Union/AFSCME Local 685",
-          "relationship": "chapter"
-        }
-      ]
-    },
-    {
-      "canonical": "LA County Probation Officers Union/AFSCME",
-      "status": "active",
-      "children": [
-        {
-          "name": "LA County Probation Officers Union/AFSCME Local 685",
-          "relationship": "chapter"
-        }
-      ]
-    },
-    {
-      "canonical": "LA County Probation Professional Managers Assoc. AFSCME",
-      "status": "active",
-      "children": [
-        {
-          "name": "LA County Probation Professional Managers Assoc. AFSCME Local 1967",
-          "relationship": "chapter"
-        }
-      ]
-    },
-    {
-      "canonical": "L.A. County Probation Officers Union",
-      "status": "active",
-      "children": [
-        {
-          "name": "L.A. County Probation Officers Union, Local 685",
-          "relationship": "chapter"
-        },
-        {
-          "name": "L. A. County Probation Officers Union",
-          "relationship": "alternate_spelling"
         }
       ]
     },
@@ -152463,46 +151969,6 @@
       ]
     },
     {
-      "canonical": "Los Angeles County Probation Department Union, AFSME",
-      "status": "active",
-      "children": [
-        {
-          "name": "Los Angeles County Probation Department Union, AFSME, Local 685",
-          "relationship": "chapter"
-        }
-      ]
-    },
-    {
-      "canonical": "Los Angeles County Probation Department",
-      "status": "active",
-      "children": [
-        {
-          "name": "Los Angeles County Probation Department, Local 685",
-          "relationship": "chapter"
-        }
-      ]
-    },
-    {
-      "canonical": "Los Angeles County Probation Officers Union/AFSCME",
-      "status": "active",
-      "children": [
-        {
-          "name": "Los Angeles County Probation Officers Union/AFSCME Local 685",
-          "relationship": "chapter"
-        }
-      ]
-    },
-    {
-      "canonical": "Los Angeles County Probation Officers Union-AFSME-",
-      "status": "active",
-      "children": [
-        {
-          "name": "Los Angeles County Probation Officers Union-AFSME- Local 685",
-          "relationship": "chapter"
-        }
-      ]
-    },
-    {
       "canonical": "Librarians' Guild, AFSCME District Council 36",
       "status": "active",
       "children": [
@@ -152538,66 +152004,6 @@
       "children": [
         {
           "name": "Los Angeles Department Union, AFSCME, Local 685",
-          "relationship": "chapter"
-        }
-      ]
-    },
-    {
-      "canonical": "Los Angeles Deputy Probation Offices Union, AFSCME",
-      "status": "active",
-      "children": [
-        {
-          "name": "Los Angeles Deputy Probation Offices Union, AFSCME Local 685",
-          "relationship": "chapter"
-        }
-      ]
-    },
-    {
-      "canonical": "Los Angeles Deputy Probation Officers Union",
-      "status": "active",
-      "children": [
-        {
-          "name": "Los Angeles Deputy Probation Officers Union, Local 685",
-          "relationship": "chapter"
-        }
-      ]
-    },
-    {
-      "canonical": "Los Angeles Probation Officers' Unions, AFSCME",
-      "status": "active",
-      "children": [
-        {
-          "name": "Los Angeles Probation Officers' Unions, AFSCME, Local 685",
-          "relationship": "chapter"
-        }
-      ]
-    },
-    {
-      "canonical": "Los Angeles County Deputy Probations Officers Union, AFSCME",
-      "status": "active",
-      "children": [
-        {
-          "name": "Los Angeles County Deputy Probations Officers Union, AFSCME Local 685",
-          "relationship": "chapter"
-        }
-      ]
-    },
-    {
-      "canonical": "Los Angeles Probation Officers Union, AFSMC",
-      "status": "active",
-      "children": [
-        {
-          "name": "Los Angeles Probation Officers Union, AFSMC Local 685",
-          "relationship": "chapter"
-        }
-      ]
-    },
-    {
-      "canonical": "Los Angeles Probation Officer's Union, ACFSME",
-      "status": "active",
-      "children": [
-        {
-          "name": "Los Angeles Probation Officer's Union, ACFSME, Local 685",
           "relationship": "chapter"
         }
       ]
@@ -152786,26 +152192,6 @@
       "children": [
         {
           "name": "Union of North America Local 777 & 792",
-          "relationship": "chapter"
-        }
-      ]
-    },
-    {
-      "canonical": "Union, AFSCME",
-      "status": "active",
-      "children": [
-        {
-          "name": "Union, AFSCME Local 685",
-          "relationship": "chapter"
-        }
-      ]
-    },
-    {
-      "canonical": "Union, AFCME",
-      "status": "active",
-      "children": [
-        {
-          "name": "Union, AFCME, Local 685",
           "relationship": "chapter"
         }
       ]
@@ -153032,16 +152418,6 @@
         },
         {
           "name": "Teamsters Local Union no. 572, Local no. 481, Local 853, Local",
-          "relationship": "chapter"
-        }
-      ]
-    },
-    {
-      "canonical": "The Los Angeles Probation Officers' Union, AFSME",
-      "status": "active",
-      "children": [
-        {
-          "name": "The Los Angeles Probation Officers' Union, AFSME, Local 685",
           "relationship": "chapter"
         }
       ]
@@ -154191,16 +153567,6 @@
       ]
     },
     {
-      "canonical": "AB 2788 - 06/01/94 Los Angeles County Probation Department Union",
-      "status": "active",
-      "children": [
-        {
-          "name": "AB 2788 - 06/01/94 Los Angeles County Probation Department Union Local 685",
-          "relationship": "chapter"
-        }
-      ]
-    },
-    {
       "canonical": "AFL-CIO",
       "status": "active",
       "children": [
@@ -154314,26 +153680,6 @@
       "children": [
         {
           "name": "Bakers Local 119",
-          "relationship": "chapter"
-        }
-      ]
-    },
-    {
-      "canonical": "Angeles County Probation Union. AFSCME",
-      "status": "active",
-      "children": [
-        {
-          "name": "Angeles County Probation Union. AFSCME Local 685",
-          "relationship": "chapter"
-        }
-      ]
-    },
-    {
-      "canonical": "Angeles County Probation Officers Union",
-      "status": "active",
-      "children": [
-        {
-          "name": "Angeles County Probation Officers Union, Local 685",
           "relationship": "chapter"
         }
       ]
@@ -154843,16 +154189,6 @@
       ]
     },
     {
-      "canonical": "Department Union",
-      "status": "active",
-      "children": [
-        {
-          "name": "Department Union Local 685",
-          "relationship": "chapter"
-        }
-      ]
-    },
-    {
       "canonical": "Council of Prisoner",
       "status": "active",
       "children": [
@@ -155005,6 +154341,730 @@
         {
           "name": "VFW-Department of California",
           "relationship": "chapter"
+        }
+      ]
+    },
+    {
+      "canonical": "Los Angeles County Probation Officers' Union, AFSCME",
+      "status": "active",
+      "children": [
+        {
+          "name": "Los Angeles County Probation Officers' Union",
+          "relationship": "alternate_spelling"
+        },
+        {
+          "name": "Los Angeles County Probation Officers' Union, Local 685",
+          "relationship": "chapter"
+        },
+        {
+          "name": "Los Angeles County Probation Officers Union, Local 685, AFSCME",
+          "relationship": "chapter"
+        },
+        {
+          "name": "LOS ANGELES PROBATION DEPARTMENT UNION",
+          "relationship": "alternate_spelling"
+        },
+        {
+          "name": "THE LOS ANGELES PROBATION DEPARTMENT UNION",
+          "relationship": "alternate_spelling"
+        },
+        {
+          "name": "Los Angeles Probation Department Union Local 685",
+          "relationship": "chapter"
+        },
+        {
+          "name": "Los Angeles Probation Department Union AFSCME",
+          "relationship": "alternate_spelling"
+        },
+        {
+          "name": "THE LOS ANGELES PROBATION DEPARTMENT UNION, AFSCME",
+          "relationship": "alternate_spelling"
+        },
+        {
+          "name": "Los Angeles Probation Department Union, AFSCME, Local 685",
+          "relationship": "chapter"
+        },
+        {
+          "name": "Los Angeles Probation Department Union, AFSCME, Local 685 (original version)",
+          "relationship": "chapter"
+        },
+        {
+          "name": "Los Angeles Probation Officer's Union, AFSCME",
+          "relationship": "alternate_spelling"
+        },
+        {
+          "name": "Los Angeles Probation Officers' Union, AFSCME, Local 685",
+          "relationship": "chapter"
+        },
+        {
+          "name": "THE LOS ANGELES PROBATION OFFICERS' UNION, AFSCME LOCAL 685",
+          "relationship": "alternate_spelling"
+        },
+        {
+          "name": "Los Angeles County Probation Officers' Union, AFSCME, Local 685",
+          "relationship": "chapter"
+        },
+        {
+          "name": "THE LOS ANGELES COUNTY PROBATION OFFICERS UNION AFSCME LOCAL 685",
+          "relationship": "alternate_spelling"
+        },
+        {
+          "name": "Los Angeles County Probation Department Union",
+          "relationship": "alternate_spelling"
+        },
+        {
+          "name": "Los Angeles County Probation Department Union Local 685",
+          "relationship": "chapter"
+        },
+        {
+          "name": "Los Angeles County Probation Union, AFSCME",
+          "relationship": "alternate_spelling"
+        },
+        {
+          "name": "Los Angeles County Probation Union, AFSCME, Local 685",
+          "relationship": "chapter"
+        },
+        {
+          "name": "Los Angeles County Probation Department Union, AFSCME",
+          "relationship": "alternate_spelling"
+        },
+        {
+          "name": "Los Angeles County Probation Department Union, AFSCME, Local 685",
+          "relationship": "chapter"
+        },
+        {
+          "name": "Los Angeles County Probation Department Union/AFSCME",
+          "relationship": "alternate_spelling"
+        },
+        {
+          "name": "Los Angeles County Deputy Probation Officers' Union, AFSCME",
+          "relationship": "alternate_spelling"
+        },
+        {
+          "name": "Los Angeles County Deputy Probation Officers' Union, AFSCME, Local 685",
+          "relationship": "chapter"
+        },
+        {
+          "name": "Los Angeles County Deputy Probation Officers Union, AFSCME, Local 865",
+          "relationship": "chapter"
+        },
+        {
+          "name": "Los Angeles County Deputy Probation Officers Union, AFSCME Local 658",
+          "relationship": "chapter"
+        },
+        {
+          "name": "THE LOS ANGELES COUNTY DEPUTY PROBATION OFFICERS UNION, AFSCME, LOCAL 685",
+          "relationship": "alternate_spelling"
+        },
+        {
+          "name": "Los Angeles Deputy Probation Officers' Union, AFSCME",
+          "relationship": "alternate_spelling"
+        },
+        {
+          "name": "Los Angeles Deputy Probation Officers' Union, AFSCME, Local 685",
+          "relationship": "chapter"
+        },
+        {
+          "name": "Los Angeles County Deputy Probation Officers, AFSCME",
+          "relationship": "alternate_spelling"
+        },
+        {
+          "name": "Los Angeles County Deputy Probation Officers, AFSCME Local 685",
+          "relationship": "chapter"
+        },
+        {
+          "name": "Probation Department Union, AFSCME",
+          "relationship": "alternate_spelling"
+        },
+        {
+          "name": "Probation Department Union, AFSCME, Local 685",
+          "relationship": "chapter"
+        },
+        {
+          "name": "Los Angeles Probation Officers' Union",
+          "relationship": "alternate_spelling"
+        },
+        {
+          "name": "Los Angeles Probation Officers' Union, Local 685",
+          "relationship": "chapter"
+        },
+        {
+          "name": "Los Angeles County Probation California Peace Officers Union AFSCME",
+          "relationship": "alternate_spelling"
+        },
+        {
+          "name": "Los Angeles County Probation California Peace Officers Union AFSCME Local 685",
+          "relationship": "chapter"
+        },
+        {
+          "name": "Angeles Probation Officers' Union, AFSCME",
+          "relationship": "alternate_spelling"
+        },
+        {
+          "name": "Angeles Probation Officers' Union, AFSCME, Local 685",
+          "relationship": "chapter"
+        },
+        {
+          "name": "Los Angeles County Probation Officers Union AFSCEME",
+          "relationship": "alternate_spelling"
+        },
+        {
+          "name": "Los Angeles County Probation Officers Union AFSCEME Local 685",
+          "relationship": "chapter"
+        },
+        {
+          "name": "L.A. County Probation Officers Union, AFSCME",
+          "relationship": "alternate_spelling"
+        },
+        {
+          "name": "L.A. County Probation Officers Union, AFSCME, Local 685",
+          "relationship": "chapter"
+        },
+        {
+          "name": "County Probation Department Union, AFSCME",
+          "relationship": "alternate_spelling"
+        },
+        {
+          "name": "County Probation Department Union, AFSCME, Local 685",
+          "relationship": "chapter"
+        },
+        {
+          "name": "Los Angeles Probation Union AFSCME",
+          "relationship": "alternate_spelling"
+        },
+        {
+          "name": "Los Angeles Probation Union, AFSCME, Local 685",
+          "relationship": "chapter"
+        },
+        {
+          "name": "Probation Department Union",
+          "relationship": "alternate_spelling"
+        },
+        {
+          "name": "Probation Department Union Local 685",
+          "relationship": "chapter"
+        },
+        {
+          "name": "Probation Union, AFSCME",
+          "relationship": "alternate_spelling"
+        },
+        {
+          "name": "Probation Union, AFSCME, Local 685",
+          "relationship": "chapter"
+        },
+        {
+          "name": "LA Probation Union, AFSCME",
+          "relationship": "alternate_spelling"
+        },
+        {
+          "name": "LA Probation Union, AFSCME, Local 685",
+          "relationship": "chapter"
+        },
+        {
+          "name": "LA County Probation Dept Union",
+          "relationship": "alternate_spelling"
+        },
+        {
+          "name": "LA County Probation Dept Union, Local 685",
+          "relationship": "chapter"
+        },
+        {
+          "name": "L.A. County Probation Department Union",
+          "relationship": "alternate_spelling"
+        },
+        {
+          "name": "L.A. County Probation Department Union Local 685",
+          "relationship": "chapter"
+        },
+        {
+          "name": "Los Angeles County Probation Officers Union AFSME",
+          "relationship": "alternate_spelling"
+        },
+        {
+          "name": "Los Angeles County Probation Officers Union AFSME Local 685",
+          "relationship": "chapter"
+        },
+        {
+          "name": "Los Angeles County Probation Officers' Union AFCSME",
+          "relationship": "alternate_spelling"
+        },
+        {
+          "name": "Los Angeles County Probation Officers' Union AFCSME, Local 685",
+          "relationship": "chapter"
+        },
+        {
+          "name": "Los Angeles County Probation Union",
+          "relationship": "alternate_spelling"
+        },
+        {
+          "name": "Los Angeles County Probation Union, Local 685",
+          "relationship": "chapter"
+        },
+        {
+          "name": "Los Angeles Deputy Probation Officers, AFSCME",
+          "relationship": "alternate_spelling"
+        },
+        {
+          "name": "Los Angeles Deputy Probation Officers, AFSCME Local 685",
+          "relationship": "chapter"
+        },
+        {
+          "name": "Los Angeles Probation Department Union, AFSCMA",
+          "relationship": "alternate_spelling"
+        },
+        {
+          "name": "Los Angeles Probation Department Union, AFSCMA, Local 685",
+          "relationship": "chapter"
+        },
+        {
+          "name": "SFSCME",
+          "relationship": "alternate_spelling"
+        },
+        {
+          "name": "SFSCME, Local 685",
+          "relationship": "chapter"
+        },
+        {
+          "name": "Angeles County Probation Department Union",
+          "relationship": "alternate_spelling"
+        },
+        {
+          "name": "Angeles County Probation Department Union Local 685",
+          "relationship": "chapter"
+        },
+        {
+          "name": "Angeles County Probation Department Union, AFSCME",
+          "relationship": "alternate_spelling"
+        },
+        {
+          "name": "Angeles County Probation Department Union, AFSCME, Local 685",
+          "relationship": "chapter"
+        },
+        {
+          "name": "County Probation Department Union",
+          "relationship": "alternate_spelling"
+        },
+        {
+          "name": "County Probation Department Union Local 685",
+          "relationship": "chapter"
+        },
+        {
+          "name": "Probation Officers' Union, AFSCME",
+          "relationship": "alternate_spelling"
+        },
+        {
+          "name": "Probation Officers' Union, AFSCME, Local 685",
+          "relationship": "chapter"
+        },
+        {
+          "name": "Probation Officers Union",
+          "relationship": "alternate_spelling"
+        },
+        {
+          "name": "Probation Officers Union, Local 685",
+          "relationship": "chapter"
+        },
+        {
+          "name": "L.A. County Deputy Probation Officers Union, AFSCME",
+          "relationship": "alternate_spelling"
+        },
+        {
+          "name": "L.A. County Deputy Probation Officers Union, AFSCME Local 685",
+          "relationship": "chapter"
+        },
+        {
+          "name": "LA Probation Dept. Union, AFSCME",
+          "relationship": "alternate_spelling"
+        },
+        {
+          "name": "LA Probation Dept. Union, AFSCME Local 685",
+          "relationship": "chapter"
+        },
+        {
+          "name": "LA County Deputy Probation Officers Union",
+          "relationship": "alternate_spelling"
+        },
+        {
+          "name": "LA County Deputy Probation Officers Union, Local 685",
+          "relationship": "chapter"
+        },
+        {
+          "name": "LA County Probation Department Union/AFSCME",
+          "relationship": "alternate_spelling"
+        },
+        {
+          "name": "LA County Probation Department Union/AFSCME Local 685",
+          "relationship": "chapter"
+        },
+        {
+          "name": "LA County Probation Officers Union/AFSCME",
+          "relationship": "alternate_spelling"
+        },
+        {
+          "name": "LA County Probation Officers Union/AFSCME Local 685",
+          "relationship": "chapter"
+        },
+        {
+          "name": "L.A. County Probation Officers Union",
+          "relationship": "alternate_spelling"
+        },
+        {
+          "name": "L.A. County Probation Officers Union, Local 685",
+          "relationship": "chapter"
+        },
+        {
+          "name": "L. A. County Probation Officers Union",
+          "relationship": "alternate_spelling"
+        },
+        {
+          "name": "Los Angeles County Probation Department Union, AFSME",
+          "relationship": "alternate_spelling"
+        },
+        {
+          "name": "Los Angeles County Probation Department Union, AFSME, Local 685",
+          "relationship": "chapter"
+        },
+        {
+          "name": "Los Angeles County Probation Department",
+          "relationship": "alternate_spelling"
+        },
+        {
+          "name": "Los Angeles County Probation Department, Local 685",
+          "relationship": "chapter"
+        },
+        {
+          "name": "Los Angeles County Probation Officers Union/AFSCME",
+          "relationship": "alternate_spelling"
+        },
+        {
+          "name": "Los Angeles County Probation Officers Union/AFSCME Local 685",
+          "relationship": "chapter"
+        },
+        {
+          "name": "Los Angeles County Probation Officers Union-AFSME-",
+          "relationship": "alternate_spelling"
+        },
+        {
+          "name": "Los Angeles County Probation Officers Union-AFSME- Local 685",
+          "relationship": "chapter"
+        },
+        {
+          "name": "Los Angeles Deputy Probation Offices Union, AFSCME",
+          "relationship": "alternate_spelling"
+        },
+        {
+          "name": "Los Angeles Deputy Probation Offices Union, AFSCME Local 685",
+          "relationship": "chapter"
+        },
+        {
+          "name": "Los Angeles Deputy Probation Officers Union",
+          "relationship": "alternate_spelling"
+        },
+        {
+          "name": "Los Angeles Deputy Probation Officers Union, Local 685",
+          "relationship": "chapter"
+        },
+        {
+          "name": "Los Angeles Probation Officers' Unions, AFSCME",
+          "relationship": "alternate_spelling"
+        },
+        {
+          "name": "Los Angeles Probation Officers' Unions, AFSCME, Local 685",
+          "relationship": "chapter"
+        },
+        {
+          "name": "Los Angeles County Deputy Probations Officers Union, AFSCME",
+          "relationship": "alternate_spelling"
+        },
+        {
+          "name": "Los Angeles County Deputy Probations Officers Union, AFSCME Local 685",
+          "relationship": "chapter"
+        },
+        {
+          "name": "Los Angeles Probation Officers Union, AFSMC",
+          "relationship": "alternate_spelling"
+        },
+        {
+          "name": "Los Angeles Probation Officers Union, AFSMC Local 685",
+          "relationship": "chapter"
+        },
+        {
+          "name": "Los Angeles Probation Officer's Union, ACFSME",
+          "relationship": "alternate_spelling"
+        },
+        {
+          "name": "Los Angeles Probation Officer's Union, ACFSME, Local 685",
+          "relationship": "chapter"
+        },
+        {
+          "name": "Union, AFSCME",
+          "relationship": "alternate_spelling"
+        },
+        {
+          "name": "Union, AFSCME Local 685",
+          "relationship": "chapter"
+        },
+        {
+          "name": "Union, AFCME",
+          "relationship": "alternate_spelling"
+        },
+        {
+          "name": "Union, AFCME, Local 685",
+          "relationship": "chapter"
+        },
+        {
+          "name": "The Los Angeles Probation Officers' Union, AFSME",
+          "relationship": "alternate_spelling"
+        },
+        {
+          "name": "The Los Angeles Probation Officers' Union, AFSME, Local 685",
+          "relationship": "chapter"
+        },
+        {
+          "name": "AB 2788 - 06/01/94 Los Angeles County Probation Department Union",
+          "relationship": "alternate_spelling"
+        },
+        {
+          "name": "AB 2788 - 06/01/94 Los Angeles County Probation Department Union Local 685",
+          "relationship": "chapter"
+        },
+        {
+          "name": "Angeles County Probation Union. AFSCME",
+          "relationship": "alternate_spelling"
+        },
+        {
+          "name": "Angeles County Probation Union. AFSCME Local 685",
+          "relationship": "chapter"
+        },
+        {
+          "name": "Angeles County Probation Officers Union",
+          "relationship": "alternate_spelling"
+        },
+        {
+          "name": "Angeles County Probation Officers Union, Local 685",
+          "relationship": "chapter"
+        },
+        {
+          "name": "Department Union",
+          "relationship": "alternate_spelling"
+        },
+        {
+          "name": "Department Union Local 685",
+          "relationship": "chapter"
+        },
+        {
+          "name": "Los Angeles County Probation Officers Union, AFSCME Local",
+          "relationship": "alternate_spelling"
+        },
+        {
+          "name": "Los Angeles County Deputy Probation Officers Union",
+          "relationship": "alternate_spelling"
+        },
+        {
+          "name": "Los Angeles County Probation Department Union Local",
+          "relationship": "alternate_spelling"
+        },
+        {
+          "name": "L.A. County Probation Officers",
+          "relationship": "alternate_spelling"
+        },
+        {
+          "name": "Los Angeles County Probation Officers Association",
+          "relationship": "alternate_spelling"
+        },
+        {
+          "name": "Los Angeles Probation Officers",
+          "relationship": "alternate_spelling"
+        },
+        {
+          "name": "Los Angeles County Probation Union AFSCME Local",
+          "relationship": "alternate_spelling"
+        },
+        {
+          "name": "Los Angeles Deputy Probation Officers",
+          "relationship": "alternate_spelling"
+        },
+        {
+          "name": "Los Angeles County Probation Department Union, AFSCME Local",
+          "relationship": "alternate_spelling"
+        },
+        {
+          "name": "Los Angeles County Probation Department Union Otis Walker",
+          "relationship": "alternate_spelling"
+        },
+        {
+          "name": "Los Angeles County Deputy Probation Officers",
+          "relationship": "alternate_spelling"
+        },
+        {
+          "name": "Los Angeles Probation Union",
+          "relationship": "alternate_spelling"
+        },
+        {
+          "name": "Association for Los Angeles County Probation Officers Union",
+          "relationship": "alternate_spelling"
+        },
+        {
+          "name": "Los Angeles County Probation Officers Union, AFSCME Locals 685, 1587, and 1967",
+          "relationship": "alternate_spelling"
+        },
+        {
+          "name": "County of Los Angeles Probation Officers Union",
+          "relationship": "alternate_spelling"
+        },
+        {
+          "name": "Los Angeles County Probation Officers",
+          "relationship": "alternate_spelling"
+        },
+        {
+          "name": "Los Angeles County Probation Union AFSCME Loal 685",
+          "relationship": "alternate_spelling"
+        },
+        {
+          "name": "Los Angeles County Probation Offices Union, AFSME, Local",
+          "relationship": "alternate_spelling"
+        },
+        {
+          "name": "Los Angeles County Probation Officers Union, AFSCME, Location 685",
+          "relationship": "alternate_spelling"
+        },
+        {
+          "name": "Los Angeles County Probation Officers Union, AFCME, Local",
+          "relationship": "alternate_spelling"
+        },
+        {
+          "name": "Los Angeles County of Probation Officers Union",
+          "relationship": "alternate_spelling"
+        },
+        {
+          "name": "Los Angeles Deputy Probation Association",
+          "relationship": "alternate_spelling"
+        },
+        {
+          "name": "Los Angeles Deputy Probation Officers Association",
+          "relationship": "alternate_spelling"
+        },
+        {
+          "name": "Los Angeles Probation Department Union, AFSCME and",
+          "relationship": "alternate_spelling"
+        },
+        {
+          "name": "The Los Angeles Probation Department Union, FSCME",
+          "relationship": "alternate_spelling"
+        },
+        {
+          "name": "Los Angeles (L.A.) County Probation Officers Union, AFSCME Local",
+          "relationship": "alternate_spelling"
+        },
+        {
+          "name": "LA Probation Union, AFSCME, Local",
+          "relationship": "alternate_spelling"
+        },
+        {
+          "name": "LA County Probation Officers Union, AFSCME, Local",
+          "relationship": "alternate_spelling"
+        },
+        {
+          "name": "Inc. Los Angeles Co. Probation Dept. Union",
+          "relationship": "alternate_spelling"
+        },
+        {
+          "name": "Los Angeles Probation Officers Union (4/9/15 version)",
+          "relationship": "alternate_spelling"
+        }
+      ]
+    },
+    {
+      "canonical": "Los Angeles County Probation Managers Association, AFSCME",
+      "status": "active",
+      "children": [
+        {
+          "name": "Los Angeles County Probation Managers Association AFSCME Local 1967",
+          "relationship": "chapter"
+        },
+        {
+          "name": "LA County Probation Professional Managers Assoc. AFSCME",
+          "relationship": "alternate_spelling"
+        },
+        {
+          "name": "LA County Probation Professional Managers Assoc. AFSCME Local 1967",
+          "relationship": "chapter"
+        },
+        {
+          "name": "Los Angeles County Probation Managers Association, AFSCME Local",
+          "relationship": "alternate_spelling"
+        }
+      ]
+    },
+    {
+      "canonical": "Association of Probation Supervisors of Los Angeles County, SEIU",
+      "status": "active",
+      "children": [
+        {
+          "name": "Joint Council of Supervising Deputy Probation Officers, SEIU",
+          "relationship": "alternate_spelling"
+        },
+        {
+          "name": "Joint Council of Supervising Deputy Probation Officers, SEIU Local 721",
+          "relationship": "chapter"
+        },
+        {
+          "name": "Association of Probation Supervisors of Los Angeles County, SEIU Local 721",
+          "relationship": "chapter"
+        },
+        {
+          "name": "Association of Probation Supervisors of Los Angeles County",
+          "relationship": "alternate_spelling"
+        },
+        {
+          "name": "Association of Probation Supervisors of LA County",
+          "relationship": "alternate_spelling"
+        },
+        {
+          "name": "Assoc. Probation Supervisors LA County",
+          "relationship": "alternate_spelling"
+        }
+      ]
+    },
+    {
+      "canonical": "Los Angeles County Probation Department",
+      "status": "active",
+      "children": [
+        {
+          "name": "Los Angeles County Probation",
+          "relationship": "alternate_spelling"
+        },
+        {
+          "name": "County of Los Angeles Probation Department",
+          "relationship": "alternate_spelling"
+        },
+        {
+          "name": "LA County Probation",
+          "relationship": "alternate_spelling"
+        },
+        {
+          "name": "Los Angeles Probation",
+          "relationship": "alternate_spelling"
+        },
+        {
+          "name": "Los Angeles Probation Department",
+          "relationship": "alternate_spelling"
+        },
+        {
+          "name": "City of Los Angeles Probation Department",
+          "relationship": "alternate_spelling"
+        },
+        {
+          "name": "LA Probation",
+          "relationship": "alternate_spelling"
+        },
+        {
+          "name": "L.A. Co. Probation",
+          "relationship": "alternate_spelling"
+        },
+        {
+          "name": "Los Angeles County Probation Dept",
+          "relationship": "alternate_spelling"
         }
       ]
     }
