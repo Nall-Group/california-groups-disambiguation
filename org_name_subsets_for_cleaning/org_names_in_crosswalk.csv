@@ -5,7 +5,7 @@ Sierra Club,9394
 California Labor Federation,9008
 CALIFORNIA STATE ASSOCIATION OF COUNTIES,8967
 LEAGUE OF CALIFORNIA CITIES,7729
-CALIFORNIA TEACHER'S ASSOCIATION,7685
+CALIFORNIA TEACHER'S ASSOCIATION,7686
 CALIFORNIA MEDICAL ASSOCIATION,7013
 CALIFORNIA DISTRICT ATTORNEY'S ASSOCIATION,6859
 CALIFORNIA STATE SHERIFF'S ASSOCIATION,6408
@@ -26,7 +26,7 @@ Department of Finance,4454
 California Teamsters Public Affairs Council,4401
 NATURAL RESOURCES DEFENSE COUNCIL,4127
 CALIFORNIA ASSOCIATION OF REALTORS,4090
-California Rural Legal Assistance Foundation,4054
+California Rural Legal Assistance Foundation,4055
 California Retailers Association,4041
 CONGRESS OF CALIFORNIA SENIORS,3817
 California Catholic Conference,3816
@@ -92,7 +92,7 @@ LOS ANGELES COUNTY OFFICE OF EDUCATION,1865
 CALIFORNIA STATE ASSOCIATION OF ELECTRICAL WORKERS,1856
 ELLA BAKER CENTER FOR HUMAN RIGHTS,1835
 CALIFORNIA STATE EMPLOYEES' ASSOCIATION,1798
-One individual,1778
+One individual,1783
 CALIFORNIANS AGAINST WASTE,1773
 CALIFORNIA STATE PIPE TRADES COUNCIL,1767
 California Tax Reform Association,1746
@@ -152,7 +152,7 @@ Initiate Justice,1296
 CALIFORNIA ASSOCIATION OF HEALTH FACILITIES,1286
 CHIEF PROBATION OFFICERS' OF CALIFORNIA,1279
 Southern California Edison,1278
-CALIFORNIA EMPLOYMENT LAWYER'S ASSOCIATION,1272
+CALIFORNIA EMPLOYMENT LAWYER'S ASSOCIATION,1273
 CALIFORNIA PROBATION PAROLE AND CORRECTIONAL ASSOCIATION,1262
 CALIFORNIA NARCOTIC OFFICERS' ASSOCIATION,1257
 SECRETARY OF STATE,1254
@@ -677,10 +677,10 @@ EAST BAY REGIONAL PARK DISTRICT,388
 County of San Mateo,387
 GREATER COACHELLA VALLEY CHAMBER OF COMMERCE,386
 RETIRED PUBLIC EMPLOYEES' ASSOCIATION,386
+Legal Community Against Violence,384
 CENTER FOR PUBLIC INTEREST LAW,383
 CALIFORNIA ASSOCIATION FOR LOCAL ECONOMIC DEVELOPMENT,383
 ASIAN AMERICANS FOR CIVIL RIGHTS AND EQUALITY,383
-Legal Community Against Violence,383
 Western United Dairymen,382
 California Broadcasters Association,382
 Plastic Pollution Coalition,382
@@ -821,7 +821,7 @@ Northern California Water Association,330
 COUNTY OF KERN,330
 California Association of Catholic Hospitals,330
 Inland Empire Economic Partnership,330
-Department,329
+Department,330
 American Nurses Association of California,327
 Fresno Unified School District,327
 EAST BAY HOUSING ORGANIZATIONS,327
@@ -913,11 +913,11 @@ City of Paramount,299
 GREATER BAKERSFIELD CHAMBER OF COMMERCE,299
 FOLSOM CHAMBER OF COMMERCE,299
 CITY OF LA MIRADA,299
+OPPOSE UNLESS AMENDED,299
 Santa Barbara Rental Property Association,298
 City of Bakersfield,298
 UNIVERSITY OF SOUTHERN CALIFORNIA,298
 California Central Valley Flood Control Association,298
-OPPOSE UNLESS AMENDED,298
 California Society of Plastic Surgeons,297
 City of Claremont,296
 Working Partnerships USA,295
@@ -981,6 +981,7 @@ California Radiological Society,278
 California Seniors Coalition,277
 Los Angeles Waterkeeper,277
 Peninsula Open Space Trust,277
+Author,277
 California Life Sciences Association,276
 City of Redding,276
 Progress Noe Valley,276
@@ -1024,7 +1025,6 @@ City of Costa Mesa,265
 Junior Leagues of California,265
 California Nurse Midwives Association,265
 COMMISSION ON TEACHER CREDENTIALING,265
-Author,265
 Pacoima Beautiful,264
 Air Conditioning Trade Association,264
 CALIFORNIA ASSOCIATION FOR NURSE PRACTITIONERS,264
@@ -2273,6 +2273,7 @@ Social Justice Learning Institute,101
 United Food & Commercial Workers Western States Council,101
 Project,101
 California Public Defenders,101
+Board,101
 California Watershed Network,100
 Mojave Desert Land Trust,100
 Pomona Economic Opportunity Center,100
@@ -2285,7 +2286,6 @@ REDWOOD EMPIRE FOOD BANK,100
 PODER,100
 Legal Aid Society of San Diego,100
 Sheriffs Department,100
-Board,100
 Solar Turbines,100
 Tustin Chamber of Commerce,100
 Grassland Water District,99
@@ -5294,6 +5294,7 @@ City of Monrovia Police Department,24
 California Black Chamber of Commerce Foundation,24
 Sheriff of San Bernardino County,24
 John Burton Foundation for Children without Homes,24
+"American Federation of State, county and Municipal Employees, AFL-CIO",24
 California Society,23
 California Conservation Corps,23
 Cruise Lines International Association,23
@@ -5393,7 +5394,6 @@ California Senior Legislature (CSL),23
 Bay Area Water Supply and Conservation Agency,23
 Golden State Manufactured-Home Owners League (GSMOL),23
 First,23
-"American Federation of State, county and Municipal Employees, AFL-CIO",23
 Los Gatos Police Department,23
 Monterey County Sheriff,23
 Mono County Sheriff's Office,23
@@ -7670,6 +7670,7 @@ County of San Mateo Office of the Sheriff,12
 Inglewood Airport Area Chamber of Commerce,12
 Chambers of Commerce Alliance Ventura and Santa Barbara Counties,12
 Simi Valley Chamber of Commerce and Visitor Center,12
+Disability Rights California,12
 California Department,11
 California Court Appointed Special Advocates (CASA),11
 California Coalition Against Gambling Expansion (CAGE),11
@@ -8000,7 +8001,6 @@ Legal Assistance Foundation,11
 CA Communities Against Toxics,11
 PREFABADU,11
 Attorneys,11
-Disability Rights California,11
 Palo Alto Chamber of Commerce,11
 Orange County Chamber of Commerce and Industry,11
 Orange County Sheriff's Office,11
@@ -10222,6 +10222,7 @@ Santa Barbara County Deputy Sheriffs' Association,7
 Hemet Police Officers Association,7
 Livermore Police Officers Association,7
 Ventura County Professional Firefighters Association,7
+California Veterans,7
 California Community,6
 California Chief Probation Officers Association,6
 California Coalition for Youth (CCYFC),6
@@ -10236,7 +10237,6 @@ California Sierra Club,6
 California Senior,6
 "California School Employees Association, AFL-CIO (CSEA)",6
 California Women's Foundation,6
-California Veterans,6
 Communities Association,6
 Anti-Recidivism Coalition (ARC),6
 California Victims of Crime Committee,6
@@ -26574,11 +26574,9 @@ NEUTRAL (No longer opposed) : California Chamber of Commerce,1
 "American Federation of State, County and Municipal Employees - local 3299",1
 Armenian national Committee of America-Western Region,1
 California Communities United institute (CalComUI),1
-California Federation of Teachers  (prior version,1
 California Partnership to End Domestic violence (The Partnership),1
 "California Right to Life committee, Inc",1
 California Society of Health system Pharmacists,1
-California State Association of Counties [in concept,1
 California State Conference of the national Association for the Advancement of Colored People,1
 California office of the State Long-Term Care Ombudsman,1
 Children's defense Fund - California,1
@@ -26590,7 +26588,6 @@ Health Net and its affiliated companies,1
 IATSE local 706,1
 International Association of Fire fighters,1
 "International Association of Fire fighters, Local 55",1
-Judicial Council of California (oppose,1
 LiUNA local 724,1
 "Los Angeles County Probation Officers Union, AFSCME local 685",1
 "Los Angeles Faculty guild, Local 1521",1
@@ -26611,3 +26608,4 @@ Ventura County Plumbers and Pipefitters local 484,1
 laane (Los Angeles Alliance for A New Economy),1
 labor,1
 the state,1
+United Domestic Workers of America-Afscme Local 3930/Afl-Cio,1

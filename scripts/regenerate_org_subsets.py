@@ -24,7 +24,7 @@ from pathlib import Path
 PROJECT_ROOT = Path(__file__).resolve().parent.parent
 sys.path.insert(0, str(PROJECT_ROOT))
 
-from org_matching_utils import normalize_for_matching
+from org_matching_utils import normalize_for_matching, clean_org_name, load_cleaning_patterns
 
 # ---------------------------------------------------------------------------
 # Paths
@@ -167,6 +167,23 @@ def main():
 
     total_before = sum(before_counts.values())
     print(f"\n  Total names across all files: {total_before:,}\n")
+
+    # ----- Clean metadata suffixes like (Co-Source), (Co-Sponsor), etc. -----
+    print("Cleaning metadata suffixes from org names...")
+    cleaning_patterns = load_cleaning_patterns()
+    names_cleaned = 0
+    for label, rows in category_rows.items():
+        cleaned_rows = []
+        for name, count in rows:
+            cleaned = clean_org_name(name, cleaning_patterns)
+            if cleaned != name:
+                names_cleaned += 1
+            cleaned_rows.append((cleaned, count))
+        category_rows[label] = cleaned_rows
+    if names_cleaned:
+        print(f"  Cleaned {names_cleaned} name(s)\n")
+    else:
+        print("  No names needed cleaning\n")
 
     # ----- Redistribute -----
     # Buckets after redistribution (lists of (name, count))
