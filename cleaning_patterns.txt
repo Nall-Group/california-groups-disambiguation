@@ -19,10 +19,27 @@
 (?i)\s*\(unable to re-verify at time of writing\)\s*$
 (?i)\s*\(none received[^)]*\)\s*$
 (?i)\s*\(reflects[^)]*\)\s*$
-(?i)\s*\([^)]*\sversion\s[^)]*\)\s*$
+(?i)\s*\([^)]*\sversion[^)]*\)\s*$
 (?i)\s*\(prior to latest amendments\)\s*$
 (?i)\s*\(per\s[^)]*\)\s*$
 (?i)\s*\(as of\s[^)]*\)\s*$
+
+# General: trailing round brackets containing metadata keywords - END
+(?i)\s*\([^)]*(?:\bversion\b|\bamend|\boppose|\bsponsor|\bsource\b|\bcommittee\b|\bletter\b|\bbill\b|\bintroduced\b|\bconcept\b|\bprior\b|\bverified|\breceived\b|\bsubmitted\b|\breflects|\bunable\b|\bper\s|\bas\sof\b|\bnone\s|\bsection\s*\d)[^)]*\)\s*$
+
+# General: trailing square brackets containing metadata keywords - END
+(?i)\s*\[[^\]]*(?:\bversion\b|\bamend|\boppose|\bsponsor|\bsource\b|\bcommittee\b|\bletter\b|\bbill\b|\bintroduced\b|\bconcept\b|\bprior\b|\bverified|\breceived\b|\bsubmitted\b|\breflects|\bunable\b|\bper\s|\bas\sof\b|\bnone\s|\bsection\s*\d)[^\]]*\]\s*$
+
+# Trailing bare date stamps with year component - END
+\s+-\s*\d{1,2}/\d{1,2}/\d{2,4}\s*$
+(?<=\D)\s+\d{1,2}/\d{1,2}/\d{2,4}\s*$
+
+# Trailing "None Received" - END
+(?i)\s+None Received\s*$
+
+# Trailing bare position words - END
+(?i),?\s+oppose\s*$
+(?i)\s+OPPOSED\s*$
 
 # Square brackets - END
 (?i)\s*\[co-sponsor\]\s*$
@@ -40,7 +57,7 @@
 (?i)\s*\[unable to re-verify at time of writing\]\s*$
 (?i)\s*\[none received[^\]]*\]\s*$
 (?i)\s*\[reflects[^\]]*\]\s*$
-(?i)\s*\[[^\]]*\sversion\s[^\]]*\]\s*$
+(?i)\s*\[[^\]]*\sversion[^\]]*\]\s*$
 (?i)\s*\[prior to latest amendments\]\s*$
 (?i)\s*\[per\s[^\]]*\]\s*$
 (?i)\s*\[as of\s[^\]]*\]\s*$
@@ -64,12 +81,18 @@
 (?i)^\s*\(unable to re-verify at time of writing\)\s*
 (?i)^\s*\(none received[^)]*\)\s*
 (?i)^\s*\(reflects[^)]*\)\s*
-(?i)^\s*\([^)]*\sversion\s[^)]*\)\s*
+(?i)^\s*\([^)]*\sversion[^)]*\)\s*
 (?i)^\s*\(prior to latest amendments\)\s*
 (?i)^\s*\(per\s[^)]*\)\s*
 (?i)^\s*\(as of\s[^)]*\)\s*
 (?i)^\s*According to the\s+
 (?i)^\s*According to\s+
+
+# General: leading round brackets containing metadata keywords - BEGINNING
+(?i)^\s*\([^)]*(?:\bversion\b|\bamend|\boppose|\bsponsor|\bsource\b|\bcommittee\b|\bletter\b|\bbill\b|\bintroduced\b|\bconcept\b|\bprior\b|\bverified|\breceived\b|\bsubmitted\b|\breflects|\bunable\b|\bper\s|\bas\sof\b|\bnone\s|\bsection\s*\d)[^)]*\)\s*
+
+# General: leading square brackets containing metadata keywords - BEGINNING
+(?i)^\s*\[[^\]]*(?:\bversion\b|\bamend|\boppose|\bsponsor|\bsource\b|\bcommittee\b|\bletter\b|\bbill\b|\bintroduced\b|\bconcept\b|\bprior\b|\bverified|\breceived\b|\bsubmitted\b|\breflects|\bunable\b|\bper\s|\bas\sof\b|\bnone\s|\bsection\s*\d)[^\]]*\]\s*
 
 # Square brackets - BEGINNING
 (?i)^\s*\[co-sponsor\]\s*
@@ -87,13 +110,16 @@
 (?i)^\s*\[unable to re-verify at time of writing\]\s*
 (?i)^\s*\[none received[^\]]*\]\s*
 (?i)^\s*\[reflects[^\]]*\]\s*
-(?i)^\s*\[[^\]]*\sversion\s[^\]]*\]\s*
+(?i)^\s*\[[^\]]*\sversion[^\]]*\]\s*
 (?i)^\s*\[prior to latest amendments\]\s*
 (?i)^\s*\[per\s[^\]]*\]\s*
 (?i)^\s*\[as of\s[^\]]*\]\s*
 
 # Patterns to remove from ANYWHERE in organization names
 # These phrases can appear in the middle of strings and should be removed
+
+# [pic] image placeholder artifacts - ANYWHERE
+(?i)\[pic\]
 
 # Round brackets - ANYWHERE
 (?i)\s*\(submitted on earlier version\)\s*

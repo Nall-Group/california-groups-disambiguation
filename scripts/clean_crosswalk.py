@@ -77,6 +77,35 @@ def clean_children(children, canonical_norm, patterns, stats):
     return cleaned_children
 
 
+def merge_clusters(target, source):
+    """Merge source cluster's children into target cluster."""
+    target_children = target.get("children", [])
+    source_children = source.get("children", [])
+
+    # Build set of normalized names already in target
+    existing_norms = set()
+    canonical_norm = normalize_for_matching(target["canonical"])
+    existing_norms.add(canonical_norm)
+
+    def collect_norms(children):
+        for child in children:
+            existing_norms.add(normalize_for_matching(child["name"]))
+            if "children" in child:
+                collect_norms(child["children"])
+
+    collect_norms(target_children)
+
+    # Add source children that aren't duplicates
+    for child in source_children:
+        norm = normalize_for_matching(child["name"])
+        if norm not in existing_norms:
+            target_children.append(child)
+            existing_norms.add(norm)
+
+    if target_children:
+        target["children"] = target_children
+
+
 def main():
     print("Loading cleaning patterns...")
     patterns = load_cleaning_patterns()
@@ -92,11 +121,15 @@ def main():
         "removed_redundant": 0,
         "removed_duplicate": 0,
         "canonicals_cleaned": 0,
+        "clusters_merged": 0,
         "details": [],
     }
 
-    for cluster in data["clusters"]:
-        # Clean canonical name
+    # First pass: clean canonical names and detect collisions
+    canonical_norm_map = {}  # normalized -> index of first cluster with that norm
+    merge_targets = {}  # index -> target index (for clusters that should be merged)
+
+    for i, cluster in enumerate(data["clusters"]):
         orig_canonical = cluster["canonical"]
         cleaned_canonical = clean_org_name(orig_canonical, patterns)
         if cleaned_canonical != orig_canonical:
@@ -106,9 +139,30 @@ def main():
             )
             cluster["canonical"] = cleaned_canonical
 
-        canonical_norm = normalize_for_matching(cleaned_canonical)
+        norm = normalize_for_matching(cleaned_canonical)
 
-        # Clean and deduplicate children
+        if norm in canonical_norm_map:
+            # This cluster's canonical now matches an existing one — mark for merge
+            merge_targets[i] = canonical_norm_map[norm]
+            stats["clusters_merged"] += 1
+            stats["details"].append(
+                f"  Cluster merge: \"{cleaned_canonical}\" (was \"{orig_canonical}\") "
+                f"-> merging into \"{data['clusters'][canonical_norm_map[norm]]['canonical']}\""
+            )
+        else:
+            canonical_norm_map[norm] = i
+
+    # Merge duplicate clusters (in reverse order to preserve indices)
+    if merge_targets:
+        for source_idx in sorted(merge_targets.keys(), reverse=True):
+            target_idx = merge_targets[source_idx]
+            merge_clusters(data["clusters"][target_idx], data["clusters"][source_idx])
+            del data["clusters"][source_idx]
+
+    # Second pass: clean and deduplicate children
+    for cluster in data["clusters"]:
+        canonical_norm = normalize_for_matching(cluster["canonical"])
+
         if "children" in cluster:
             cluster["children"] = clean_children(
                 cluster["children"], canonical_norm, patterns, stats
@@ -125,6 +179,7 @@ def main():
     print("SUMMARY")
     print("=" * 60)
     print(f"  Canonical names cleaned:       {stats['canonicals_cleaned']}")
+    print(f"  Clusters merged:               {stats['clusters_merged']}")
     print(f"  Child names cleaned:           {stats['names_cleaned']}")
     print(f"  Children removed (redundant):  {stats['removed_redundant']}")
     print(f"  Children removed (duplicate):  {stats['removed_duplicate']}")
