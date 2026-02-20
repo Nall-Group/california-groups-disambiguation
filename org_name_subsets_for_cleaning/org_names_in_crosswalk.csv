@@ -264,6 +264,7 @@ COALITION OF CALIFORNIA WELFARE RIGHTS ORGANIZATIONS,867
 CALIFORNIA COUNCIL FOR ENVIRONMENTAL AND ECONOMIC BALANCE,866
 SANTA CLARA VALLEY WATER DISTRICT,866
 Metropolitan Transportation Commission,865
+Pacific Gas and Electric Company,860
 CONSTRUCTION EMPLOYERS ASSOCIATION,858
 American Heart Association,856
 Endangered Habitats League,853
@@ -1509,6 +1510,7 @@ Hillsides,174
 California Asphalt Pavement Association,174
 Officers Association,174
 California State Sheriffs,174
+State Farm Insurance,174
 San Francisco Board of Supervisors,173
 City of Agoura Hills,173
 LEGAL AID SOCIETY - EMPLOYMENT LAW CENTER,173
@@ -1661,6 +1663,7 @@ America,152
 City of Fontana,152
 American Association of Retired Persons (AARP),152
 ORANGE COUNTY SANITATION DISTRICT,152
+Pacific Gas and Electric,152
 San Diego Gas and Electric,151
 CITY OF LAKEPORT,151
 Community Residential Care Association of California,151
@@ -1718,6 +1721,7 @@ Esperanza Community Housing Corporation,145
 Mental Health Advocacy Services,145
 "Communications Workers of America, District 9",145
 CALIFORNIA AUTOBODY ASSOCIATION,145
+Ford Motor Company,145
 Dependency Legal Services,144
 Cal Voices,144
 Biocom California,144
@@ -1828,6 +1832,7 @@ CITY OF ORANGE,134
 ALTAMED HEALTH SERVICES,134
 School Energy Coalition,134
 Lodi Chamber of Commerce,134
+General Motors Corporation,134
 California Association of Joint Powers Authorities (CAJPA),133
 California Attorneys for Criminal Justice (CACJ),133
 CA Conference Board of the Amalgamated Transit Union,133
@@ -1952,6 +1957,7 @@ LOS ANGELES REGIONAL REENTRY PARTNERSHIP,124
 Larkin Street Youth Services,124
 Gateway Chambers Alliance,124
 Sacramento County Sheriff,124
+Miller Brewing Company,124
 Cal State Student Association,123
 Poison Free Malibu,123
 Ventura County,123
@@ -1982,6 +1988,7 @@ California Hydrogen Coalition,122
 Santee Chamber of Commerce,122
 California Coalition of Nurse Practitioners,122
 Network,122
+Pacific Gas & Electric,122
 City of Lomita,121
 Finishing Contractors Association of Southern California,121
 San Diego County Wildlife Federation,121
@@ -2064,6 +2071,7 @@ Independent Insurance Agents and Brokers of California,116
 ALL SAINTS CHURCH FOSTER CARE PROJECT,116
 Culver City Chamber of Commerce,116
 Inglewood Police Officers Association,116
+PG&E,116
 United Public Employees,115
 Coalition to Stop Gun Violence,115
 Fresno,115
@@ -2116,6 +2124,7 @@ Glendora Chamber of Commerce,112
 Securities Industry Association,112
 Farmers Insurance Group,112
 PORAC,112
+Intel Corporation,112
 Central Valley Immigrant Integration Collaborative,111
 Menlo Spark,111
 Dolores Street Community Services,111
@@ -2130,6 +2139,7 @@ California Society of Physical Medicine and Rehabilitation,111
 California Aquaculture Association,111
 Visalia Chamber of Commerce,111
 Rancho Cordova Area Chamber of Commerce,111
+Bloom Energy,111
 Think Dignity,110
 Kern County Fire Fighters Union Inc,110
 Community Economics,110
@@ -2145,6 +2155,7 @@ CITY OF IRWINDALE,109
 California Agricultural Teachers' Association,109
 California Emergency Nurses Association,109
 Santa Cruz County Regional Transportation Commission,109
+Pacific Life Insurance Company,109
 Black Business Association,108
 Eagle Forum of California,108
 Team Justice,108
@@ -2211,6 +2222,7 @@ Inter-Agency Council on Child Abuse and Neglect,105
 Investment Company Institute,105
 International,105
 American International Group,105
+San Luis Obispo,105
 Community Housing Partnership,104
 San Diego Audubon Society,104
 City of Brentwood,104
@@ -2294,6 +2306,7 @@ Legal Aid Society of San Diego,100
 Sheriffs Department,100
 Solar Turbines,100
 Tustin Chamber of Commerce,100
+Pacific Gas & Electric Company,100
 Grassland Water District,99
 Sacramento Tree Foundation,99
 Greater California Livery Association,99
@@ -2360,6 +2373,7 @@ Citizens Against Lawsuit Abuse,96
 Agencies,96
 Fresno Metro Black Chamber of Commerce,96
 State Controller's Office,96
+Coors Brewing Company,96
 California Department of Forestry Firefighters,95
 Ducks Unlimited,95
 City of Manhattan Beach,95
@@ -2379,6 +2393,7 @@ California Dental Hygienists Association,95
 Home Ownership Advancement Foundation,95
 Peace Officers,95
 Burbank Chamber of Commerce,95
+Tenet Healthcare Corporation,95
 California Hispanic Health Care Association,94
 California Council for Environmental & Economic Balance,94
 Western Riverside Council of Governments,94
@@ -2427,6 +2442,7 @@ TRANSLATIN@ COALITION,92
 Ochin,92
 South San Joaquin Irrigation District,92
 Alhambra Chamber of Commerce,92
+Orange County Community Housing Corporation,92
 City of San Buenaventura,91
 Engineers & Scientists of California,91
 Legal Aid of Sonoma County,91
@@ -2562,6 +2578,8 @@ Household International,85
 John Stewart Company,85
 California Union of Safety Employees (CAUSE),85
 Kern County Hispanic Chamber of Commerce,85
+Microsoft Corporation,85
+Tenet Healthcare,85
 California Association of Dental Plans,84
 Matson Navigation Company,84
 Sierra Club CA,84
@@ -2598,6 +2616,7 @@ California Energy Efficiency Industry Council,83
 California Department of Veterans Affairs,83
 California Coalition Against Gambling Expansion,83
 Lincoln Area Chamber of Commerce,83
+California Water Service,83
 San Joaquin River Parkway and Conservation Trust,82
 Attorney General of California,82
 Murrieta/Wildomar Chamber of Commerce,82
@@ -2636,6 +2655,8 @@ San Pedro Chamber of Commerce,81
 Danville Area Chamber of Commerce,81
 California Association of School Transportation Officials,81
 California Association of Addiction Recovery Resources,81
+California Water Service Company,81
+Napa Recycling and Waste Services,81
 City of Upland,80
 California Association of Federal Firearms Licensees,80
 Black Women Organized for Political Action,80
@@ -2774,6 +2795,7 @@ City of Rancho Santa Margarita,74
 Association of California Health Care Districts,74
 California State Foster Parent Association,74
 Natural Resource Defense Council,74
+General Motors,74
 California Wool Growers Association,73
 and,73
 Elk Valley Rancheria,73
@@ -2820,6 +2842,8 @@ State,72
 Organization,72
 California Academy of Ophthalmology,72
 California School Board Association,72
+Microsoft,72
+Walgreens,72
 California Insurance Wholesalers Association,71
 California Judicial Council,71
 City of Beaumont,71
@@ -2845,6 +2869,8 @@ Aircraft Owners and Pilots Association,71
 Housing,71
 Sacramento Asian Pacific Chamber of Commerce,71
 Sacramento Hispanic Chamber of Commerce,71
+Hewlett-Packard Company,71
+Rainbow Services,71
 Brady Campaign California,70
 California Retired County Employees Association,70
 Santa Clara Board of Supervisors,70
@@ -2874,6 +2900,7 @@ California Emerging Technology Fund,70
 Palm Desert Chamber of Commerce,70
 San Bernardino County Office of the Sheriff,70
 California Naturopathic Doctors Association,70
+Johnson & Johnson,70
 Managed Risk Medical Insurance Board,69
 Pet Industry Joint Advisory Council,69
 Marin Humane Society,69
@@ -2954,6 +2981,7 @@ CPUC,67
 Community,67
 Fresno County Sheriff,67
 Executive Committee of the Family Law Section of the State Bar,67
+Pardee Construction Company,67
 California League of Cities,66
 Biotechnology Industry Organization,66
 SCI California Funeral Services,66
@@ -3021,6 +3049,8 @@ Asian Pacific Islander Legal Outreach,65
 Greater Stockton Chamber of Commerce,65
 Yolo County Sheriffs Department,65
 California Public Utilities Commission (CPUC),65
+American Express,65
+Union Pacific Railroad Company,65
 California School Nutrition Association,64
 Diego,64
 Planned Parenthood of California,64
@@ -3083,6 +3113,8 @@ Norwalk Chamber of Commerce,63
 Fountain Valley Chamber of Commerce,63
 California Sheriffs Association,63
 AREA,63
+Ernst & Young LLP,63
+State Farm Insurance Company,63
 Disability Voices United,62
 National Asian American Coalition,62
 Association of California Airports,62
@@ -3111,6 +3143,8 @@ American Society of Civil Engineers,62
 California Department of Forestry and Fire Protection,62
 Deputy Sheriffs Association of San Diego County,62
 United Food and Commercial Workers Union,62
+Altamed,62
+Deloitte & Touche LLP,62
 Consumer Attorneys of CA,61
 California Association of Nurse Practitioners,61
 San Francisco Living Wage Coalition,61
@@ -3175,6 +3209,8 @@ PEOPLE'S SELF-HELP HOUSING CORPORATION,60
 United Cerebral Palsy,60
 California Housing Finance Agency,60
 Independent Living Center of Southern California,60
+Intel,60
+Napa Recycling & Waste Services,60
 California Small Business Alliance,59
 Directors,59
 Paskenta Band of Nomlaki Indians,59
@@ -3223,6 +3259,8 @@ Judges,58
 Coalition of California Chambers Orange County,58
 Coalition of California Insurance Professionals,58
 CALIFORNIA COALITION OF TRAVEL ORGANIZATIONS,58
+Civic Center Barrio Housing Corporation,58
+Nationwide Insurance Company,58
 Commerce Casino,57
 San Diego Domestic Violence Council,57
 The Pacific Companies,57
@@ -3297,6 +3335,7 @@ Beverly Hills Chamber of Commerce,56
 Redlands Yimby,56
 California Council for the Blind,56
 "American Federation of State, County and Municipal Employees, AFL-CIO",56
+Capstone Turbine Corporation,56
 California First Amendment Coalition,55
 United Way,55
 City of South Lake Tahoe,55
@@ -3337,6 +3376,8 @@ Sacramento Police Department,55
 San Marcos Chamber of Commerce,55
 Sloco Yimby,55
 ACTR,55
+IBM,55
+Orrick Herrington & Sutcliffe,55
 Center for Employment Training,54
 Libertarian Party of California,54
 EDS,54
@@ -3423,6 +3464,9 @@ Grandparents As Parents,53
 Rancho Mirage Chamber of Commerce,53
 Salinas Valley Chamber of Commerce,53
 Temecula Valley Chamber of Commerce,53
+California American Water,53
+Calpine,53
+Novartis Pharmaceuticals Corporation,53
 California Council,52
 California Secretary of State,52
 Conference of Delegates of California Bar Associations,52
@@ -3458,6 +3502,8 @@ California Assisted Living Facilities Association,52
 Paso Robles Chamber of Commerce,52
 San Gabriel Valley Legislative Coalition of Chambers,52
 California Board of Pharmacy,52
+BKK Corporation,52
+Vulcan Materials Company,52
 California State Board of Equalization,51
 Mountain Progressives,51
 California Air Resources Board,51
@@ -3499,6 +3545,9 @@ Los Angeles Latino Chamber of Commerce,51
 Yimby LA,51
 City of Santa Ana Police Department,51
 California Bankers Association (CBA),51
+Novartis Pharmaceuticals,51
+PricewaterhouseCoopers LLP,51
+Union Pacific Railroad,51
 Association of Retired Teachers,50
 California State Parent Teachers Association,50
 Humboldt Redwood Company LLC,50
@@ -3581,6 +3630,8 @@ California Hospital Association (CHA),49
 Forest Products Industry National Labor Management Committee,49
 San Diego Chamber of Commerce,49
 Alameda County Sheriffs Department,49
+Enterprise Rent-a-Car,49
+Southern California Water Company,49
 California Coalition,48
 Black Organizing Project,48
 "International Brotherhood of Boilermakers, Western States Section",48
@@ -3636,6 +3687,7 @@ Chula Vista Chamber of Commerce,48
 Gardena Valley Chamber of Commerce,48
 Roseville Chamber of Commerce,48
 Contractors Association,48
+Rural California Housing Corporation,48
 Federation of California,47
 The Women's Building,47
 Amnesty International USA,47
@@ -3687,6 +3739,8 @@ Engineers,47
 Manhattan Beach Chamber of Commerce,47
 Pomona Chamber of Commerce,47
 Western States Council,47
+California Portland Cement Company,47
+Paramount Pictures,47
 Los Angeles Regional Reentry Partnership (LARRP),46
 Agudath Israel of California,46
 California Council of Chapters,46
@@ -3733,6 +3787,8 @@ Citrus Heights Chamber of Commerce,46
 California Special Districts Association (CSDA),46
 "Board for Professional Engineers, Land Surveyors, and Geologists",46
 American Stores Company,46
+Baxter Healthcare,46
+Rainbow Services Ltd,46
 Cigar Association of America,45
 Health Access of California,45
 Head Start California,45
@@ -3786,6 +3842,8 @@ Hesperia Chamber of Commerce,45
 Redondo Beach Chamber of Commerce and Visitors Bureau,45
 County Welfare Directors,45
 Granite Construction Company,45
+Sierra Nevada Brewing Company,45
+Transformative Wealth Management LLC,45
 Organize Sacramento,44
 Anheuser-Busch,44
 First Day Foundation,44
@@ -3842,6 +3900,7 @@ Ridgecrest Chamber of Commerce,44
 Antelope Valley Chambers of Commerce,44
 Fair Political Practices Commission (FPPC),44
 Humboldt Redwood Company,44
+GE Capital,44
 Indivisibles of Sherman Oaks,43
 Advancement Project California,43
 Journey House,43
@@ -3883,6 +3942,8 @@ Palos Verdes Peninsula Unified School District,43
 California Chamber,43
 Association for Los Angeles County Deputy Sheriffs,43
 CACJ,43
+MillerCoors,43
+Oracle Corporation,43
 California Congress of Seniors,42
 Faith in Action Bay Area,42
 Indivisible Auburn CA,42
@@ -4037,6 +4098,7 @@ Ventura Chamber of Commerce,40
 California Taxpayer's Association,40
 BART,40
 Southern California Gas,40
+McKesson Corporation,40
 California Seismic Safety Commission,39
 California Federation,39
 Marin County Commission on Aging,39
@@ -4102,6 +4164,7 @@ Highland Area Chamber of Commerce,39
 Beaumont Chamber of Commerce,39
 Los Angeles County Sheriffs,39
 "North Coast Builders Exchange, Inc",39
+Hewlett Packard,39
 Groundwater Resources Association,38
 Institute of Governmental Advocates,38
 Southwest Voter Registration Education Project,38
@@ -4149,6 +4212,8 @@ Wildomar Chamber of Commerce,38
 El Dorado County Sheriff,38
 La Cañada Flintridge Chamber of Commerce,38
 Union of American Physicians and Dentists (UAPD),38
+KPMG LLP,38
+Liberty Mutual Insurance,38
 California Association for the Retarded,37
 Our City Forest,37
 Planning for Elders in the Central City,37
@@ -4209,6 +4274,8 @@ Yolo County Sheriff,37
 Stanislaus County Sheriff's Department,37
 Clorox,37
 GTE California Incorporated,37
+Baxter Healthcare Corporation,37
+Calportland Company,37
 Bay Area Partnership,36
 California Medical Transportation Association,36
 Rights,36
@@ -4264,6 +4331,7 @@ San Ysidro Chamber of Commerce,36
 350 Conejo/San Fernando Valley,36
 Association of Claims Professionals,36
 California Special District Association,36
+McDonnell Douglas,36
 American Economic Liberties Project,35
 Peers Envisioning and Engaging in Recovery Services,35
 Golden Gate Business Association,35
@@ -4335,6 +4403,7 @@ American Council of Life Insurance,35
 Western Manufactured Housing Communities Association (WMA),35
 Burbank Housing Development Corp,35
 Chevron Corporation,35
+International Paper,35
 Consumer Federation,34
 Emergency Nurses Association of California,34
 California Labor Federation (CLF),34
@@ -4411,6 +4480,9 @@ Yimby Los Angeles,34
 Santa Clara Chamber of Commerce and Convention-Visitors Bureau,34
 Domestic Abuse Center,34
 Child and Family Protection Association,34
+MBNA,34
+San Diego Economic Development Corporation,34
+Terraverde Energy,34
 California Association of Certified Family Law Specialists,33
 Center for Public Environmental Oversight,33
 California Sportfishing League,33
@@ -4494,6 +4566,7 @@ Kern County Fire Fighters Union,33
 Santa Clara Chamber of Commerce,33
 Kings County Sheriff,33
 San Jose Police Officers Association,33
+MCI Telecommunications Corporation,33
 California National,32
 Center for Independent Living,32
 Collision Repair Association of California,32
@@ -4573,6 +4646,8 @@ Paso Robles Templeton Chamber of Commerce,32
 California State Personnel Board,32
 CSU,32
 CSLB,32
+Bristol-Myers Squibb Company,32
+Sunpower Corporation,32
 California National Organization for Women (NOW),31
 California Partnership for Working Families,31
 Judicial Council of CA,31
@@ -4666,6 +4741,11 @@ Downey Chamber of Commerce,31
 Hemet San Jacinto Valley Chamber of Commerce,31
 Los Angeles County Sheriff Lee Baca,31
 Transportation Solutions Defense and Education Fund,31
+First Union Corporation,31
+Hewlett-Packard,31
+O'Melveny & Myers,31
+Pacific Mutual Life Insurance Company,31
+Tulare County Economic Development Corporation,31
 California Judges,30
 "Traffic Safety Center, Inc",30
 Valley Humane Society,30
@@ -4744,6 +4824,10 @@ Department of Consumer Affairs (DCA),30
 Mechoopda Indian Tribe of Chico Rancheria,30
 International Council of Cruise Lines,30
 Capitol Racing LLC,30
+Bernardino,30
+Civic Center Barrio Housing Corp,30
+Fremont Compensation Insurance Company,30
+Further the Work,30
 California Business,29
 Interfaith Council of Contra Costa County,29
 National Collegiate Athletic Association,29
@@ -4837,6 +4921,8 @@ Cerritos Chamber of Commerce,29
 National Independent Venue Association of California,29
 California Association of Public Health Laboratory Directors,29
 California Adoption Alliance,29
+Chico Bag,29
+KPMG Peat Marwick LLP,29
 California State Treasurer Bill Lockyer,28
 American Specialty Health Plans,28
 West Coast Chapter of the Institute of Scrap Recycling Industries,28
@@ -4932,6 +5018,12 @@ City of Fremont Police Department,28
 Sacramento County Sheriffs,28
 Torrance Police Officers Association,28
 CMA,28
+Astrazeneca,28
+BNSF Railway Company,28
+Bayer,28
+Best Best & Krieger,28
+Fresno County Economic Development Corporation,28
+Georgia-Pacific Corporation,28
 California League of,27
 Women's Policy Institute,27
 Associated Builders and Contractors - Southern California Chapter,27
@@ -5025,6 +5117,10 @@ El Centro Chamber of Commerce & Visitors Bureau,27
 Office of the Sheriff San Bernardino County,27
 Contra Costa County Deputy Sheriffs Association,27
 California Community College Association for Occupational Education,27
+Economic Development Corporation,27
+Liberty Mutual Insurance Company,27
+National Semiconductor,27
+Tosco Refining Company,27
 California Conference,26
 Black Women Organized for Political Action (BWOPA),26
 Daughters of Charity Health System,26
@@ -5117,6 +5213,11 @@ City of Stockton Police Department,26
 Santa Maria Valley Chamber of Commerce Visitor and Convention Bureau,26
 PUC,26
 BOP,26
+Costco Wholesale,26
+"Opus Health, LLC",26
+Price Waterhouse LLP,26
+Renewable Funding,26
+Western States Petroleum,26
 Trusts and Estates Section of the State Bar,25
 California Million Mom March,25
 California Fair Political Practices Commission,25
@@ -5222,6 +5323,14 @@ Chambers of Commerce Alliance Ventura & Santa Barbara Counties,25
 Trust,25
 UCAN,25
 STRS,25
+3m,25
+Bayer Healthcare,25
+Kimberly-clark Corporation,25
+Orange County Community Housing Corp,25
+RePlanet,25
+Solaria,25
+South Bay Expressway,25
+Stone & Youngberg,25
 California Board of Behavioral Sciences,24
 California Brain Injury Association,24
 Association of California State Attorneys,24
@@ -5324,6 +5433,11 @@ John Burton Foundation for Children without Homes,24
 Control,24
 Peoples' Self-Help Housing Corp,24
 Quest Diagnostics Incorporated,24
+Nationwide Insurance,24
+Public Policy Advocates,24
+Rutan & Tucker,24
+Santa Fe Railway Company,24
+Target,24
 California Society,23
 California Conservation Corps,23
 Cruise Lines International Association,23
@@ -5436,6 +5550,14 @@ Center for Public Interest Law (CPIL),23
 "California Labor Federation, AFL-CIO",23
 SOS,23
 CDE,23
+"Certified Grocers of California, Ltd",23
+Fruit Growers Supply Company,23
+Golden State Warriors,23
+Invenergy LLC,23
+Orrick Herrington & Sutcliffe LLP,23
+Planned Parenthood Advocacy Project Los Angeles,23
+Target Corporation,23
+Zero Waste Company,23
 Los Angeles County Assessor Jeffrey Prang,22
 Junior League of San Jose,22
 Associates,22
@@ -5592,6 +5714,8 @@ LANDWATCH MONTEREY COUNTY,22
 "Affordable Housing Management Association, Pacific Southwest",22
 Hall Ambulance Service Incorporated,22
 Proctor & Gamble,22
+Allan Company,22
+Cigna,22
 California Association of Local Agency Formation Commissions (CALAFCO),21
 California Climate Action,21
 California Law,21
@@ -5735,6 +5859,11 @@ Inglewood-Airport Area Chamber of Commerce,21
 The Big Fresno Fair,21
 PERS,21
 CSEA,21
+CarbonLite Industries,21
+Electrochaea Corporation,21
+Lockheed Martin Space Systems,21
+Symantec,21
+West Coast Leasing LLC,21
 California Retired Teachers Association (CalRTA),20
 California National Organization for Women (California NOW),20
 California Therapeutic Communities,20
@@ -5884,6 +6013,22 @@ Region 8 States Council of the United Food and Commercial Workers,20
 ACWA,20
 California Human Development Corporation,20
 Century Housing Corporation,20
+Castillo Animal Veterinary Corp,20
+Hermandad Los Angeles Economic and Community Development,20
+Kutak Rock,20
+Mercury Casualty Company,20
+Mission Viejo,20
+Northrop Grumman,20
+Northrop Grumman Corporation,20
+Novartis,20
+Pepsico,20
+Shaklee Corporation,20
+Simpson Timber Company,20
+Smurfit-Stone Container Corporation,20
+Sonoma Compost,20
+Symantec Corporation,20
+Tejon Ranch,20
+Xerox Corporation,20
 California Department of Fish and Game,19
 California Attorney,19
 California Gray Panthers,19
@@ -6047,6 +6192,19 @@ Allstate Insurance,19
 CR&R Incorporated,19
 Frontier Communications Corporation,19
 Los Angeles Dodgers LLC,19
+Acxiom,19
+Bayer Corporation,19
+Beneficial Management Corporation,19
+Bristol-Myers Squibb,19
+Chicobag Company,19
+Cruise,19
+HemaCare Corporation,19
+IBM Corporation,19
+Little Kamper LP,19
+Pardee Construction,19
+Rio Bravo Fresno,19
+US Hybrid Corporation,19
+Waymo,19
 California Financial Services,18
 California Builders Exchanges,18
 California Association of American Physicians and Surgeons,18
@@ -6226,6 +6384,16 @@ City of Buena Park Police Department,18
 International Anticounterfeiting Coalition,18
 Mercury Insurance,18
 Safety-Kleen Corporation,18
+Allweather Wood LLC,18
+Consolidated Fabricators Corp,18
+Coopers & Lybrand LLP,18
+Ducor Telephone Company,18
+Edco Disposal Corporation,18
+Mobil Oil Corporation,18
+Nikola Corporation,18
+Plumas,18
+Rancho Mission Viejo,18
+Soper-Wheeler Company,18
 Women's Health Specialists of California,17
 Wilderness Society,17
 "Service Employees International Union (SEIU), Local 1000",17
@@ -6426,6 +6594,25 @@ Concord Police Department,17
 City of Ontario Police Department,17
 Los Angeles County Sheriff Sherman Block,17
 CASBO,17
+Alza Corporation,17
+Bayer Healthcare Corporation,17
+Bnsf Railway,17
+Clearway Energy Group LLC,17
+Cruise LLC,17
+Crusader Insurance Company,17
+Food Finders,17
+Heritage Bag Company,17
+Pactiv Corporation,17
+"Pearlx Infrastructure, LLC",17
+SA Recycling,17
+Sierra Nevada Brewing Co,17
+Sierra Pacific Power Company,17
+Star Milling Co,17
+Sunpower,17
+Transamerica Occidental Life Insurance Company,17
+Valley Water,17
+Vermont Slauson Economic Development Corporation,17
+Xerox,17
 California Attorney General Kamala Harris,16
 California Independent,16
 California National Guard Association,16
@@ -6639,6 +6826,20 @@ Southern California Association of Law Libraries,16
 Disability Rights California,16
 ACIC,16
 Clinicas del Camino Real Incorporated,16
+21st Century Insurance,16
+"Advanced Consulting, LLC",16
+Astrazeneca Pharmaceuticals,16
+Burbank-glendale-pasadena Airport Authority,16
+Covanta Energy,16
+"Esquire Deposition Services, LLC",16
+First Data,16
+Hntb Corporation,16
+Lam Research,16
+Marriott,16
+National Steel and Shipbuilding Company,16
+Unisys,16
+Western Exterminator Company,16
+Zacky Farms,16
 California (PORAC),15
 California National Organization for Women (CA NOW),15
 California State Association of County Auditors,15
@@ -6869,6 +7070,21 @@ Orange County Deputy Sheriffs Association,15
 San Joaquin County Deputy Sheriffs Association,15
 CDC,15
 Coalition of California Welfare Rights Organizations (CCWRO),15
+Aes Corporation,15
+Berry Petroleum Company,15
+Best Best & Krieger LLP,15
+Chrysler,15
+Hilmar Cheese Company,15
+Lake Alpine Water Company,15
+Lockheed Martin Space Systems Company,15
+Mainstream Energy Corp,15
+Northrop Corporation,15
+"Odyne Systems, LLC",15
+Pacific Gas & Electric Co,15
+US Hybrid,15
+Wadham Energy LP,15
+Werner Corporation,15
+Weyerhaeuser Company,15
 California Department of Industrial Relations,14
 California Mosquito and Vector Control Association,14
 California Parent Teachers Association,14
@@ -7122,6 +7338,25 @@ Granite Construction Incorporated,14
 "Household Financial Group, Ltd",14
 Qualcomm Incorporated,14
 Southern California Edison Co,14
+Allied Insurance,14
+Big Creek Lumber Company,14
+BoDean Company,14
+California Airedale Terrier Club Incorporated,14
+California Credits Group,14
+Covina Irrigating Company,14
+Electric Vehicles International,14
+Louisiana Pacific Corporation,14
+Napa Recycling and Waste Services LLC,14
+Norcal Cannabis,14
+Pacific Coast Regional Small Business Development Corporation,14
+Precision Dynamics,14
+Rio Bravo Rocklin,14
+Riverside Cement Company,14
+Simpson Paper Company,14
+Sprint Communications,14
+Sprint Communications Company,14
+Toyota,14
+Turlock Scavenger Company,14
 California Foundation,13
 California Office of the Attorney General,13
 California AARP,13
@@ -7410,6 +7645,23 @@ CDFA,13
 CCPOA,13
 CalEnergy,13
 The International Cat Association,13
+Aerojet,13
+Alliance Pharmaceutical Corp,13
+American Express Company,13
+California Land Title,13
+Canopy Growth Corporation,13
+General Electric,13
+Hobbs Trucking Company,13
+Jungmaven Ltd,13
+Kimberly-Clark,13
+McKesson Water Products Company,13
+Mead Corporation,13
+National Semiconductor Corporation,13
+Norcal Cannabis Company,13
+Pacific Gas and Electric Co,13
+Rockwell International,13
+Sunbridge Healthcare Corporation,13
+Vermont Slauson Economic Development Corp,13
 California Association of Nonprofits (CalNonprofits),12
 California County Superintendents of Schools,12
 California Managed Risk Medical Insurance Board (MRMIB),12
@@ -7740,6 +7992,31 @@ DMH,12
 EDS Corporation,12
 Protection and Advocacy Incorporated,12
 Solar Turbines Incorporated,12
+Alliance Pharmaceutical Corporation,12
+Anaheim Ducks Hockey Club,12
+Applegate Drayage Company,12
+Association of Engineering Geologists,12
+California Chapter of the American Fence,12
+Chrysler Corporation,12
+Clean World Partners,12
+Debenham Energy LLC,12
+Diligencias,12
+Gan-Trans Ltd,12
+HNTB,12
+Hewlett Packard Company,12
+Housing Leadership Council of San Mateo,12
+InCom Corp,12
+Majestic Realty Co,12
+Mercury Casualty,12
+Mercury Casualty Insurance,12
+"Prologis Management, LLC",12
+Raytheon,12
+Rural California Housing Corp,12
+Sacred Purpose LLC,12
+Schnitzer Steel Products,12
+Tejon Ranch Company,12
+Terraverde Renewable Partners,12
+Virgin Galactic,12
 California Department,11
 California Court Appointed Special Advocates (CASA),11
 California Coalition Against Gambling Expansion (CAGE),11
@@ -8132,6 +8409,34 @@ CPOA,11
 FMC,11
 Community Housing Corporation,11
 Qualcomm Corp,11
+Advance Beverage Company,11
+American Contractors Indemnity Company,11
+Anew Climate LLC,11
+California Municipal Utilities,11
+Californians Against,11
+Cendant Corporation,11
+Certified Grocers of California,11
+ClearEdge Power,11
+Collins Electrical Company Inc,11
+Cornerstone Environmental Group,11
+Dow Kokam,11
+Granite Rock Company,11
+Grant Thornton LLP,11
+Industrial Asphalt,11
+Jameson Ranch Camp,11
+Kerman Telephone Company,11
+Montgomery Watson,11
+Nuremberg 2.0 Ltd,11
+Redlands,11
+Romic Environmental Technologies Corporation,11
+"Roxborough, Pomerance, Nye & Adreani LLP",11
+"San Joaquin Renewables, LLC",11
+Sierra Pacific,11
+Tenaska,11
+Trillium Asset Management,11
+Unocal,11
+"Viance, LLC",11
+Yosemite Clean Energy,11
 California Asian Pacific Chamber of Commerce (CalAsian),10
 California Board of Chiropractic Examiners,10
 California City,10
@@ -8592,6 +8897,45 @@ AMD,10
 Crown Imports LLC,10
 Lighter Association,10
 Sierra Telephone,10
+American Insurance,10
+Andersen Consulting,10
+Cat Clark Consulting Services LLC,10
+Compass,10
+"Coresgb, LLC",10
+Coventry First LLC,10
+Deloitte and Touche LLP,10
+Eagle Distributing Company,10
+EnergySource Minerals LLC,10
+Enron,10
+First American Title Insurance Company,10
+Hershey Foods Corporation,10
+Invitae Corporation,10
+JC Penney,10
+Lockheed Martin,10
+Los Angeles Family Housing,10
+MCI Telecommunications,10
+Mammoth Mountain Ski Area,10
+Merck-Medco Managed Care,10
+Mercury Casualty Insurance Company,10
+"NGV Ecotrans Group, LLC",10
+Nationwide Insurance Corporation,10
+Nickel Family LLC,10
+Options for Youth,10
+Oracle,10
+Paramount Farming Company,10
+Providian Financial Corp,10
+Quallion LLC,10
+"Refill Madness, LLC",10
+Royal Electric,10
+Santa Barbara Hemp Company,10
+Shell Oil Company,10
+Southern California Disposal and Recycling Co Inc,10
+State Farm Insurance Co,10
+"TDC Environmental, LLC",10
+Truform Construction Corp,10
+Unocal Corporation,10
+Valley Farm Transport,10
+Valley Water Company,10
 California Association of Homes and Services for the Aging (CAHA),9
 "California Association of HMOs, Inc. (CAHMO)",9
 California Chapter National Emergency Number Association (CALNENA),9
@@ -9081,6 +9425,49 @@ Half Moon Bay Brewing,9
 Monsanto Company,9
 "Successful Reentry, LLC",9
 Zenith Insurance,9
+AKT Development,9
+Allweather Wood,9
+American Capital Management Corporation,9
+American Capitol Management,9
+AmerisourceBergen,9
+Amway Corporation,9
+Aypa Power Development LLC,9
+Biofuels Energy,9
+Boston Common Asset Management,9
+Bullet Guard Corp,9
+California-Oregon Telephone Company,9
+Celgene,9
+ChicoBag,9
+Cytyc Corporation,9
+Deloitte LLP,9
+Design Avenues LLC,9
+Ecoplast Corporation,9
+Esquire Deposition Services,9
+Fuller Electric,9
+Green Mountain Energy,9
+H Cycle LLC,9
+Hathaway LLC,9
+IDEC Pharmaceuticals Corp,9
+IHI Power Services Corp,9
+"JMA Ventures, LLC",9
+LSI Logic,9
+La Jolla Pharmaceutical,9
+Lockheed Martin Corporation,9
+Magma Power Company,9
+Majestic Realty,9
+National Ready Mixed Concrete Company,9
+Pactiv,9
+Pajaro Valley Housing Corporation,9
+Pillsbury,9
+Providian Financial Corporation,9
+Rick Engineering Company,9
+Robertson's Ready Mix,9
+"Robertson's Ready Mix, Ltd",9
+Smurfit-Stone Container,9
+Straub Distributing Company,9
+Sustaina,9
+Terrahome,9
+Tickpick,9
 California Association of Independent,8
 California Court Reporters Board,8
 California Department of Corporations,8
@@ -9667,6 +10054,56 @@ Safety-Kleen Corp,8
 Segway LLC,8
 The National Association of Insurance and Financial Advisors-California,8
 Zanker Road Resource Management Ltd,8
+Agra Trading,8
+Alliance of Chief Executives,8
+Arco Products Company,8
+Astrazeneca Pharmaceuticals LP,8
+Beehive Technology Solutions,8
+Beneficial Management Corp,8
+Blink Charging Company,8
+Compline LLC,8
+Creative Housing Associates,8
+Daughters of Charity Ministry Services Corporation,8
+EnergySource LLC,8
+Enron Corporation,8
+Ernst & Young,8
+Ernst and Young LLP,8
+Foss Maritime,8
+Foss Maritime Company,8
+Fremont General,8
+Fremont Insurance Company,8
+Golden Oak Cooperative Corporation,8
+Harbor Distributing LLC,8
+Hobbs Trucking,8
+"Input 1, LLC",8
+International Paper Company,8
+JC Penney Co,8
+Jay Dee Transport Company,8
+Lam Research Corp,8
+Lescure Company Inc,8
+Milestone Consulting LLC,8
+Natural Hydrogen Energy LLC,8
+NatureWorks,8
+Northern Recycling and Waste Services,8
+Octel Communications,8
+Opus Health,8
+Pacific Life Insurance,8
+Pacifica,8
+Performance Nursery,8
+"Rex Halverson & Associates, LLC",8
+"Roxborough, Pomerance, Nye & Adreani",8
+SA Recycling LLC,8
+Schering-Plough,8
+Sherwin-Williams Company,8
+Simpson Timber,8
+Solar Millennium,8
+Solaria Corporation,8
+"South Bay Expressway, L.P",8
+Synergex International Corporation,8
+Transamerica,8
+"USAgain, LLC",8
+Westlands Solar Park,8
+"Zevin Asset Management, LLC",8
 Northern California Golf Association,7
 California Association of Community Organizations for Reform Now,7
 California Association of Counties (CSAC),7
@@ -10341,6 +10778,67 @@ Gubb & Barshay,7
 "Northeastern Rural Health Clinics, Incorporated",7
 Solectron Corporation,7
 Venice Community Housing Corp,7
+Aaron Read & Associates LLC,7
+Adapt Construction,7
+Advance Disposal Co,7
+Air Methods,7
+Amerispec Company,7
+Bayer Healthcare LLC,7
+Bayer US LLC,7
+Bergey Windpower Company,7
+Boston Scientific,7
+California American Water Company,7
+Calistoga Mountain Spring Water,7
+"Cambridge Healthcare Management Services, LLC",7
+Carniceria Mi Mercadito LLC,7
+Champion Lumber Company,7
+Chula Vista Electric Co,7
+City Manager,7
+Coast Roof Company Inc,7
+Coresgb,7
+Crowley Maritime Corporation,7
+"Duende Consulting, LLC",7
+Dunn-Edwards Corporation,7
+Ecoplast,7
+"Educational Field Studies, Inc",7
+Edwards Lifesciences,7
+EnerVault Corporation,7
+Enterprise Rent A Car Company,7
+Firefighters' Association,7
+First American Title Company,7
+First Data Corporation,7
+Fruit Growers Supply,7
+Global Steel Products Corp,7
+Justice First,7
+Justice First LLP,7
+KPA Realty LLC,7
+Linkedin,7
+Lockheed,7
+Majestic Insurance,7
+Michael Sullivan & Associates,7
+Millennium Reign Energy,7
+Muni Services,7
+Nationwide Insurance Co,7
+Orient Overseas Container Line Ltd,7
+"Orrick Herrington and Sutcliffe, LLP",7
+Pacific Coast Roofing,7
+Pardee Construction Co,7
+Plumas Corporation,7
+Powerlight,7
+Productive Finance,7
+Progressive Insurance Company,7
+Public Policy Advocates LLC,7
+Raychem,7
+Romic Environmental Technologies Corp,7
+Sherwin Williams Company,7
+"Sitos Group, LLC",7
+Sonoco Products Company,7
+Sprint,7
+Terra Tech,7
+Tosco Refining,7
+Vivid Seats LLC,7
+"Waste to Energy, LLC",7
+Weiss Sheet Metal,7
 California Community,6
 California Chief Probation Officers Association,6
 California Coalition for Youth (CCYFC),6
@@ -11122,6 +11620,90 @@ Ponderosa Telephone,6
 Procter and Gamble,6
 The Village Project,6
 Walt Disney Corporation,6
+3Com,6
+3M Corporation,6
+A.O. Smith Corporation,6
+ASL Presents LLC,6
+ASYRS Bridge,6
+Agile Turbine Technology LLC,6
+Alta Med Health Services Corporation,6
+Applegate Drayage Co,6
+Arrowhead Mountain Spring Water,6
+Association of California Life & Health Insurance,6
+Atlas Heating and Air Conditioning Company,6
+Bergey Windpower Corp,6
+"Boston Common Asset Management, LLC",6
+California Southern Small Business Development Corporation,6
+Carrier Corporation,6
+Case Pacific Co,6
+Celgene Corporation,6
+Coast Oil Company,6
+Cook Erectors Cordova Glass Co,6
+Coopers & Lybrand,6
+Del Webb California Corporation,6
+Direct Air Conditioning Corporation,6
+Edco Disposal,6
+El Camino Surgery Center,6
+Enterprise Rent-A-Car Company,6
+Evgo Services Llc,6
+Fender Musical Instruments,6
+Fluor Corporation,6
+Frank Schipper Construction Co,6
+Fremont General Corporation,6
+Fuller Electric Corporation,6
+General Motors LLC,6
+Harbor Masters and Port Captains,6
+Hewlett-Packard Co,6
+Hobbs Trucking Co,6
+Holdfast Aquaculture,6
+Hydrogenics Corporation,6
+I Drive Safely,6
+Ingersoll-Rand,6
+Invenergy,6
+Kesar and Cardi LLC,6
+Lamar Advertising,6
+Macleod Ale Brewing Co,6
+Midtown Spirits,6
+Ming's Recycling,6
+Mission Oil Company,6
+Mobile Modular Corporation,6
+Murphy's Bowl,6
+NTT Software Corporation,6
+"Natureworks, LLC",6
+North American Chemical Company,6
+"Nossaman, Guthner, Knox & Elliott, LLP",6
+Oakland Commerce Corporation,6
+POM Wonderful LLC,6
+Paul Hastings LLP,6
+"Paul, Hastings, Janofsky & Walker",6
+Precision Dynamics Corporation,6
+Rand,6
+Ringgold Distilling,6
+River Distributing Company,6
+Roll International Corporation,6
+Royal Service A/C Corp,6
+Roycroft Funding LLC,6
+S.J. Amoroso Construction Co,6
+Sierra Pine,6
+Siskiyou Telephone,6
+Sister-to-sister 2,6
+Sonoma Compost Co,6
+Star Milling Company,6
+"Sun World International, LLC",6
+Sunset Publishing,6
+Superior Ready Mix Concrete,6
+The Campbell Group LLC,6
+Turlock Scavenger,6
+USAA Insurance,6
+UTC Power,6
+Union Oil,6
+Unwired,6
+Usagain,6
+Walters Management,6
+Warner-Lambert Company,6
+West Coast Leasing,6
+Wintec Energy,6
+Xerox Corp,6
 California Center,5
 California Board of Equalization,5
 California Board,5
@@ -12315,6 +12897,127 @@ PHI Air Medical LLC,5
 The On-Line Traffic School,5
 Trans Union Corporation,5
 Young's Market,5
+AES,5
+Advanced Consulting,5
+AmSurg Corp,5
+Ambika Law,5
+American Contractors Indemnity Corporation,5
+"Apex, LLC",5
+Auto Supply Company,5
+Beaumont,5
+Bradley Corporation,5
+"Bulletin Displays, LLC",5
+CNA Insurance Company,5
+California Casualty Management,5
+California Portland Cement Co,5
+California Tile Company,5
+California Water Service Co,5
+Callaway Golf Company,5
+"Chandler Farms, LP",5
+Chicago Title Company,5
+Cholestech,5
+Ciba-Geigy Corporation,5
+City/County Association of Governments of San Mateo,5
+Civic Center Barrio Housing,5
+Clearway Energy Group,5
+"Coast Oil Company, LLC",5
+Coastal Corporation,5
+Common Sense Media,5
+Covanta Energy Corporation,5
+Coventry First,5
+Cpi,5
+Crimson Renewable Energy,5
+Crowley Maritime,5
+Dean Foods Company,5
+Del Taco,5
+Deloitte,5
+Deloitte & Touche,5
+Dynalectric,5
+Dynalectric Company,5
+Eaton Corporation,5
+Economic Development,5
+"Educating Marissa, LLC",5
+"Electric Vehicles International, LLC",5
+Electrify America,5
+EnerVault,5
+EnergySource,5
+Enron Corp,5
+Enterprise Rent a Car,5
+FedEx Corporation,5
+First American Title Corporation,5
+Found Oyster LLC,5
+Fremont Compensation Insurance,5
+Fremont Insurance,5
+Frey Vineyards,5
+General Motors Corp,5
+"Gibson, Dunn & Crutcher",5
+Golden State Clean Energy LLC,5
+Great Western Financial Corporation,5
+Gregory Canyon Landfill,5
+Heritage Bag,5
+Hi-Grade Materials Company,5
+Hydrogenics,5
+Invitae,5
+"Jameson Ranch Camp, LLC",5
+Kern Oil & Refining Co,5
+Kimberly Clark,5
+"Land Utilization Trust, Incorporated",5
+Larson & Gaston,5
+Lockheed Corporation,5
+"Loeb & Loeb, LLP",5
+Los Angeles Cold Storage Company,5
+Magma Power,5
+Mainstream Energy,5
+Market Value Partners,5
+McCuen Properties,5
+Mission Motors Company,5
+Modesto Junk,5
+Moss Adams LLP,5
+Mountain Valley Express Co,5
+"Munger, Tolles & Olson LLP",5
+National Gypsum,5
+New York Life Insurance,5
+Noble Americas Energy Solutions LLC,5
+Novartis Pharmaceuticals Corp,5
+Octel Communications Corporation,5
+OneSun,5
+"Pacifica, LLC",5
+Panthera,5
+Paradigm Tax Group,5
+Paramount Petroleum,5
+Phoenix Accounting Corporation,5
+Price Waterhouse,5
+Pro Elections LLC,5
+Prudent Energy Corporation,5
+Quallion,5
+Rand Corporation,5
+Redlands Corporation,5
+Regreen,5
+Republic Indemnity Company,5
+Roche Diagnostics,5
+Roll International,5
+Roseville Telephone Company,5
+Royal Electric Co,5
+San Diego Economic Development,5
+San Fernando Gardens Resident Management Corporation,5
+"San Joaquin Valley Energy Partners, L.P",5
+Santa Barbara Hemp,5
+Sheppard Mullin Richter & Hampton,5
+Siskiyou Telephone Company,5
+"Skadden, Arps, Slate, Meagher & Flom",5
+"Skadden, Arps, Slate, Meagher & Flom LLP",5
+Stone & Youngberg LLC,5
+"Summit Alliance Executive Benefits, LLC",5
+TDC Environmental,5
+The First American Corporation and Nationwide Insurance,5
+Toyota Motor Company,5
+Tricor Refining LLC,5
+Trillium Asset Management Corporation,5
+Vivid Seats,5
+Walgreens Co,5
+Werner,5
+"Yosemite Clean Energy, LLC",5
+Yuba-Sutter Economic Development Corporation,5
 California Brady Campaign to Prevent Gun Violence,4
 California Building Owners and Managers Association,4
 California Bureau of State Audits (State Auditor),4
@@ -14048,6 +14751,194 @@ The Dahm Team Real Estate Company,4
 Travelers Express,4
 Trio Petroleum LLC,4
 Water and Power Associates,4
+3m Company,4
+ABM Industries Incorporated,4
+AKT Development Corporation,4
+AON Corporation,4
+Accenture,4
+Alta Hospitals System,4
+Alta Med Health Services,4
+American Licorice Company,4
+American National Can,4
+American Rat Terrier Rescue Corp,4
+American Water,4
+Amway,4
+"Anaergia Services, LLC",4
+"Andersen Consulting, LLP",4
+Angelica,4
+Angelica Corporation,4
+Aon,4
+"Appallicious, LLC",4
+Arrowhead Mountain Spring Water Co,4
+Artemis Water Strategy,4
+Asyrs Bridge LLC,4
+Atlas Corporation,4
+Atlas Heating and Air Conditioning,4
+Barney & Barney,4
+"Barney & Barney, LLC",4
+Baxter Health Care Corporation,4
+Bay Alarm,4
+Bloom Energy Corporation,4
+"Blue Font Recycling, Co",4
+"Boundless Boat Charters, LLC",4
+"Bridge Back Limited, Inc",4
+"Brokaw Nursery, LLC",4
+Burnett & Sons Planing Mill and Lumber Co,4
+CIGNA Corp,4
+CalPortland,4
+CalPortland Construction Company,4
+California Bioenergy,4
+California Casualty Management Co,4
+"California Credits Group, LLC",4
+Calportland Construction,4
+Cambridge Credit Counseling,4
+Cambridge Healthcare Management Services,4
+Cell Crete Corporation,4
+CertainTeed Corporation,4
+Champion Lumber,4
+Charles Schwab Co,4
+Charles Schwab Company,4
+Chevron Chemical Company,4
+Ciba-Geigy Corp,4
+Clark Neubert LLP,4
+Clean Fund LLC,4
+Climate Ready Solutions,4
+Climate Ready Solutions LLC,4
+Comcast Cable,4
+Complete Building Maintenance Company,4
+"Cosm Films, LLC",4
+"Del Mar Law Group, LLP",4
+Del Taco LLC,4
+Design Avenues,4
+Diligencias Corporation,4
+Direct Marketing,4
+Direct Network Access,4
+East Bay Sanitary Co,4
+Eastman Kodak,4
+Eisenmann Corp,4
+Electrical Services Co,4
+Electrochaea,4
+Elizabeth Arden,4
+Evans Roofing Company Inc,4
+"Exatec, LLC",4
+Falcon Cable Systems Company,4
+Figshare LLP,4
+Fluor Corp,4
+Flying U Rodeo,4
+Forward Dining Solutions LLC,4
+"Forward Financing, LLC",4
+Foundation Health,4
+Georgia Pacific Corporation,4
+Georgia-Pacific,4
+Green Diamond Resources,4
+Green Rush Consulting LLC,4
+Greenberg Traurig,4
+"Greensmith Energy Management Systems, LLC",4
+Greenwell Group LLC,4
+Greyhound,4
+Grubb & Ellis,4
+Harbor Masters and Port Captains Incorporated,4
+Hathaway,4
+Hazard Construction Company,4
+Hillwood,4
+"Holdfast Aquaculture, LLC",4
+"Homeland Security Management, LLC",4
+Horizon Construction,4
+Hughes Electronics Corporation,4
+Humane Society of Napa County,4
+Humboldt Sun Growers Guild,4
+Hydrex Pest Control,4
+Impco Technologies,4
+"Investigative Lead, LLC",4
+JCPenney,4
+Jefferson Smurfit Corporation and Container Corporation,4
+"Justice at Work Law Group, LLP",4
+"Kinder Morgan Energy Partners, LLP",4
+Kohler Co,4
+LSI Logic Corporation,4
+Lapolt Law,4
+Larwin,4
+Lilly USA,4
+Little Kamper,4
+Los Angeles Family Housing Corp,4
+Louisiana Pacific,4
+Louisiana-Pacific,4
+Louisiana-Pacific Corp,4
+"Lvdsdca, LLC",4
+MBNA Corp,4
+MSG Forum LLC,4
+Macerich Company,4
+Magna Entertainment,4
+McDermott & Clawson,4
+"McDermott & Clawson, LLP",4
+"Mead Johnson Nutritionals, a Bristol-Myers Squibb Company",4
+"Merck-Medco Managed Care, LLC",4
+Metalclad Insulation Corporation,4
+"Midtown Spirits, LLC",4
+Miller Brewing Co,4
+Ming's Recycling Corp,4
+Mirant,4
+Mirant Corporation,4
+Mission Viejo Company,4
+Morrow Renewables,4
+Multifamily Utility Company,4
+NTT Software,4
+New York Life Insurance Company,4
+Noble Realty Company,4
+Northrop,4
+Northrop Corp,4
+"Nossaman, Guthner, Knox & Elliot",4
+"Open Canopy, LLC",4
+Orrick Herrington and Sutcliffe,4
+Pabco Paper Company,4
+Pacific Solar Company,4
+Paulson Manufacturing Corporation,4
+Peace Action of San Mateo Co,4
+Phillips Petroleum,4
+Phillips Petroleum Company,4
+Physicians Mutual Insurance Company,4
+Pillsbury Company,4
+Pionetics,4
+Plant Construction,4
+Plomero Corporation,4
+PricewaterhouseCoopers,4
+Progressive Insurance,4
+Progressive Surface Solutions,4
+Prologis Management,4
+"Prometheus Fire Consulting, LLC",4
+Raychem Corporation,4
+Raytheon Company,4
+Republic Indemnity,4
+Ringgold Distilling LLC,4
+Rockwell International Corporation,4
+Rural California Housing,4
+SOS Recycling LLC,4
+San Diego Regional Economic Corporation,4
+Solar Wind Storage,4
+Solyndra,4
+"State Bird Provisions, LLC",4
+Sunita Jain Anti-Trafficking Initiative at Loyola Law School,4
+Syar Concrete LLC,4
+Synergex International,4
+Sysco Corporation,4
+Temperature Equipment Corporation,4
+Terra Tech Corp,4
+"Tickpick, LLC",4
+"Tostie Productions, LLC",4
+Ultramar Diamond Shamrock Corp,4
+UnionBanCal Corporation,4
+United Oil,4
+United Oil Company,4
+"United Wholesale Mortgage, LLC",4
+"Valley Oak Partners, LLC",4
+Valta Energy,4
+Vulcan Materials,4
+Werner Co,4
+Western Pacific Housing,4
+Western States Oil Co,4
+Wheelhouse,4
+"Woodland Biomass Power, Ltd",4
+uTax Software,4
 California Clean Power,3
 California Civil Liberties Union,3
 California Contractors Association,3
@@ -16323,6 +17214,203 @@ Walden House Incorporated,3
 Watts Health Foundation,3
 Westfield Corporation Inc,3
 Wong Family Benevolent Association Incorporated,3
+3Com Corporation,3
+ABM Industries,3
+AES Southland,3
+Aaron Read & Associates,3
+Advance Disposal,3
+"Agra Trading, LLC",3
+Ahola Clinic,3
+Ahola Clinic Corp,3
+Airport Working Group of Orange County Incorporated,3
+Alameda County Bar Association Volunteer Legal Services,3
+Allied Insurance Company,3
+Alza,3
+American Vanadium Corp,3
+Angels Baseball LP,3
+Arizona & California Railroad Company,3
+"AstraZeneca, LP",3
+Automobile Club of Southern California (concern),3
+Axiom,3
+Axiom Corporation,3
+Baxter Healthcare Corp,3
+Bechtel,3
+Bechtel Corporation,3
+Bergey Windpower,3
+Bergey Windpower Corporation,3
+Big Creek Lumber,3
+Blackstone Gaming,3
+Boston Scientific Corp,3
+Breathe WEHO Treatment Services,3
+Bridge Back,3
+Brokaw Nursery,3
+CASTCO,3
+California Bail Agents Corporation,3
+California Bioenergy LLC,3
+California Chapter of American Fence,3
+California Northern Railroad Company,3
+California State Automobile Association (concern),3
+California Water Services,3
+Calistoga Mountain Spring Water Co,3
+Calpine Corp,3
+Capital Vision Equities LLC,3
+Capitol Advocacy,3
+Capstone Turbine,3
+CareCounsel,3
+Carniceria Mi Mercadito,3
+Carrier,3
+Cendant,3
+Chandler Farms,3
+Coastal,3
+Collins Electrical,3
+Comcast Cable Corporation,3
+Consolidated Fabricators Corporation,3
+Consolidated Transportation Service Agency of Placer,3
+Coors Brewing Co,3
+Costa,3
+Crenshaw Die and Manufacturing,3
+Crenshaw Die and Manufacturing Corporation,3
+Currie Tech,3
+Currie Tech Corporation,3
+Del Mar Law Group,3
+Del Webb California Corp,3
+Dish Network,3
+Domini Impact Investments,3
+Don Celillo Electric Company,3
+East Bay Sanitary,3
+Eisenmann,3
+Enova,3
+Evensol LLC,3
+FedEx,3
+Figshare,3
+FileNet,3
+Ford Motor Co,3
+Forward Financing,3
+GE Capital Corporation,3
+GTECH Corporation,3
+Gan-Trans,3
+General Motors Co,3
+General Motors Company,3
+Georgia-Pacific Corp,3
+Golden Oak Cooperative,3
+H Cycle,3
+HemaCare,3
+Hermandad Los Angeles Economic and Community Development Corporation,3
+Hi-Grade Materials Co,3
+Hi-grade Materials,3
+Hilex Poly,3
+Hydrex Pest Control Company,3
+IBM Corp,3
+IMP Electrical & Automation Solutions,3
+IMPCO Technologies Incorporated,3
+InCom Corporation,3
+JCPenney Company,3
+JMA Ventures,3
+Jefferson Smurfit Corporation and Container,3
+Jungmaven,3
+KYA Services,3
+KYA Services LLC,3
+Kern Oil & Refining Company,3
+Kimberly Clark Corporation,3
+Kohler Company,3
+Kraft Heinz Company,3
+Kyoto Fusioneering America,3
+Lamar Advertising Company,3
+Land Utilization Trust,3
+Leyline Renewable Energy LLC,3
+"Lilly USA, LLC",3
+Lorillard Tobacco Company,3
+Louisiana Pacific Company,3
+MacLeod Ale Brewing Company,3
+Mainstream Energy Corporation,3
+Master Financial Incorporated,3
+McDonnell Douglas Corporation,3
+McKesson Water Products,3
+Meta Housing,3
+Mission Motors,3
+"Murphy's Bowl, LLC",3
+NEAL Electric,3
+"Napa Recycling & Waste Services, LLC",3
+National Day of the Cowboy Corporation,3
+National Ready Mixed Concrete Co,3
+Neal Electric Corp,3
+"Nettleton Strategies, LLC",3
+Nikola,3
+Noble Americas Energy Solutions,3
+Northrup Grumman,3
+"Nossaman, Guthner, Knox & Elliot, LLP",3
+Nuremberg 2.0,3
+O'Melveny & Myers LLP,3
+Onsite Energy,3
+Onsite Energy Company,3
+Orient Overseas Container Line,3
+PABCO Paper,3
+Pacific Coast Regional Small Business Development,3
+Pacific Solar,3
+Pacific World,3
+Paramount Farming,3
+Paramount Pictures Corporation,3
+Parker Hannifin Corporation,3
+Paul Hastings,3
+"Paul, Hastings, Janofsky & Walker LLP",3
+Pearlx Infrastructure,3
+Pepsico Corporation,3
+Philips Lighting,3
+Pionetics Corporation,3
+Polaroid Corporation,3
+PowerLight Corp,3
+Progressive Surface Solutions LLC,3
+"Rancho Mission Viejo, LLC",3
+Redman Equipment and Manufacturing Co,3
+Renewable Natural Gas,3
+Riverside Cement,3
+Rutan & Tucker LLP,3
+"SDi, LLC",3
+Sacred Purpose,3
+San Diego Regional Economic,3
+San Joaquin Renewables,3
+Sanmina,3
+Schering-Plough Corporation,3
+Scholl Canyon Organics Recovery to Energy,3
+Shell Oil Co,3
+Sherwin Williams,3
+"Shute, Mihaly and Weinberger LLP",3
+"Sister-to-sister 2, Incorporated",3
+Sitos Group,3
+Somerford Corporation,3
+Sony,3
+Southern CA Edison Co,3
+Southern California Disposal and Recycling,3
+Sprint Corp,3
+Standard Iron & Metals,3
+Stewart Title,3
+Stewart Title Co,3
+Stewart Title Company,3
+Sustainable Capital LLC,3
+"TerraVerde Renewable Partners, LLC",3
+The First American Corporation and Nationwide Insurance Company,3
+Tosco,3
+Tosco Refining Co,3
+Toyota Motor Corporation,3
+Transamerica Corporation,3
+Ultramar Diamond Shamrock,3
+United Infrastructure,3
+United Rock Products,3
+United Rock Products Corporation,3
+Unwired Ltd,3
+VT Accounting Associates,3
+Valencia Corporation,3
+Vanguard Concepts,3
+Ventura County Railroad Company,3
+Vulcan Materials Co,3
+W.E. Lyons Construction Co,3
+Warner-Lambert,3
+Waste Recovery West,3
+Western Air Limbach,3
+Winning Strategies,3
+"Yuba Bicycles, LLC",3
+Zevin Asset Management,3
+"uTax Software, LLC",3
 California Building Industry Association of Southern California,2
 California Association of Health Maintenance Organizations (California HMO),2
 California Association of Environmental Professionals,2
@@ -20065,6 +21153,241 @@ Ultimed Incorporated,2
 Unilab Corporation,2
 Western Electrical Contractors Association Incorporated,2
 for Animals,2
+21st Century Insurance Company,2
+A.O. Smith,2
+"AES Southland, LLC",2
+Advance Beverage,2
+Advance Beverage Co,2
+Agile Turbine Technology,2
+Airport Working Group of Orange County,2
+Alameda County Bar Association Volunteer Legal Services Corporation,2
+Allan,2
+"Alta Hospitals System, LLC",2
+"Ambika Law, PC",2
+American Capital Management,2
+American Capitol Management Corporation,2
+American Insurance Corporation,2
+American Vanadium,2
+AmerisourceBergen Corporation,2
+Amway Corp,2
+Anchor Brewing Co,2
+Anchor Brewing Company,2
+Angels Baseball,2
+Apex,2
+Appallicious,2
+Applegate Drayage,2
+Arizona & California Railroad,2
+"Artemis Water Strategy, LLC",2
+Association of California Life & Health Insurance Co,2
+Atlas,2
+Beaumont Company,2
+Beneficial Management,2
+Berry Petroleum,2
+"Berry Petroleum Company, LLC",2
+"Blackstone Gaming, LLC",2
+Boundless Boat Charters,2
+"Breathe Weho Treatment Services, LLC",2
+CASTCO Corporation,2
+CNA Insurance,2
+California Bail Agents,2
+California Casualty Management Company,2
+California Chapter of American Fence Corporation,2
+California Northern Railroad,2
+California Water Service Corporation,2
+California Water Services Company,2
+Callaway Golf,2
+Calpine Corporation,2
+Cambridge Credit Counseling Corporation,2
+Capital Vision Equities,2
+"Capitol Advocacy, LLC",2
+"CareCounsel, LLC",2
+Case Pacific Company,2
+Castillo Animal Veterinary,2
+Charles Schwab,2
+Charles Schwab Corporation,2
+Chevron Oil,2
+Chevron Oil Company,2
+Chicago Title,2
+Chula Vista Electric Company,2
+Clean Fund,2
+Coast Oil,2
+Complete Building Maintenance,2
+Consolidated Transportation Service Agency of Placer Co,2
+Coors Brewing,2
+Costa Co,2
+"Crimson Renewable Energy, LP",2
+Cytyc,2
+DOW KOKAM LLC,2
+Dean Foods,2
+Deloitte and Touche,2
+"Dish Network, LLC",2
+Domini Impact Investments LLC,2
+Don Celillo Electric,2
+Ducor Telephone Co,2
+Duende Consulting,2
+Eagle Distributing Co,2
+Eastman Kodak Company,2
+Eaton,2
+Edwards Lifesciences LLC,2
+Eisenmann Corporation,2
+Electrical Services Company,2
+"Electrify America, LLC",2
+Enterprise Rent-a-Car Co,2
+Evensol,2
+Falcon Cable Systems,2
+FileNet Corporation,2
+"Firefighters' Association, Inc",2
+First American Title,2
+First American Title Insurance,2
+Fluor,2
+Foss Maritime Co,2
+Fresno County Economic Development Corp,2
+Fuller Electric Co,2
+"Further the Work, LLC",2
+GTECH,2
+General Electric Company,2
+Georgia Pacific,2
+Granite Rock,2
+Great Western Financial,2
+Great Western Financial Corp,2
+Green Rush Consulting,2
+Grubb & Ellis Company,2
+Hazard Construction,2
+Hermandad Los Angeles Economic and Community Development Corp,2
+Hilex Poly Co,2
+Hoffman,2
+Hoffman Company,2
+Hoffman Corporation,2
+Hughes Electronics,2
+"Humboldt Sun Growers Guild, LLC",2
+IDEC Pharmaceuticals,2
+IHI Power Services,2
+"Imp Electrical & Automation Solutions, LLC",2
+Input 1,2
+Investigative Lead,2
+"JC Penney Corporation, Inc",2
+Jay Dee Transport,2
+Jay Dee Transport Co,2
+Jefferson Smurfit Corporation and Container Company,2
+Johnson & Johnson Company,2
+Justice at Work Law Group,2
+KPA Realty,2
+KPMG,2
+KPMG Peat Marwick,2
+Kern Oil & Refining,2
+Kesar and Cardi,2
+Kohler,2
+Kraft Heinz,2
+Kyoto Fusioneering America Ltd,2
+La Jolla Pharmaceutical Company,2
+"Larson & Gaston, LLP",2
+Larwin Company,2
+Leyline Renewable Energy,2
+Liberty Mutual Insurance Corporation,2
+Linkedin Corporation,2
+Lockheed Corp,2
+MCI Telecommunications Corp,2
+Macerich,2
+Magna Entertainment Corporation,2
+Majestic Realty Company,2
+Marriott Corporation,2
+Master Financial,2
+McCuen Properties LLC,2
+McKesson,2
+McKesson Corp,2
+Mead,2
+Meta Housing Corporation,2
+Microsoft Corp,2
+Millennium Reign Energy LLC,2
+Mobil Oil,2
+Mobile Modular,2
+"Morrow Renewables, LLC",2
+Multifamily Utility,2
+National Day of the Cowboy,2
+National Steel and Shipbuilding,2
+Nettleton Strategies,2
+"Nossaman, Guthner, Knox & Elliott",2
+Oakland Commerce,2
+Odyne Systems,2
+Open Canopy,2
+PG&E Corporation,2
+Pacific Life Insurance Co,2
+Pacific Mutual Life Insurance,2
+Pacific World Corporation,2
+"Paradigm Tax Group, LLC",2
+Parker Hannifin,2
+Peace Action of San Mateo,2
+Philips Lighting Company,2
+Polaroid,2
+Pro Elections,2
+Prometheus Fire Consulting,2
+Providian Financial,2
+Prudent Energy,2
+ReGreen Corp,2
+Redman Equipment and Manufacturing,2
+Refill Madness,2
+"Renewable Funding, LLC",2
+"Renewable Natural Gas Company, LLC",2
+Rio Bravo Fresno L.P,2
+Rio Bravo Rocklin L.P,2
+Robinson Helicopter,2
+Robinson Helicopter Company,2
+Roche Diagnostics Corporation,2
+Roseville Telephone,2
+S.J. Amoroso Construction,2
+SDI,2
+San Joaquin Valley Energy Partners,2
+Sanmina Corporation,2
+Santa Fe Railway,2
+"Scholl Canyon Organics Recovery to Energy, LLC",2
+Shaklee Corp,2
+Sheppard Mullin Richter & Hampton LLP,2
+"Shute, Mihaly and Weinberger",2
+Sierra Pine Ltd,2
+Smurfit-Stone Container Company,2
+Smurfit-Stone Container Corp,2
+"Solar Wind Storage, LLC",2
+Solyndra LLC,2
+Somerford Corp,2
+Sonoma Compost Company,2
+Sony Corporation,2
+Soper-Wheeler,2
+Southern CA Edison,2
+Straub Distributing,2
+Straub Distributing Co,2
+SunBridge Healthcare,2
+Sunset Publishing Corporation,2
+Superior Ready Mix Concrete LP,2
+Sustainable Capital,2
+Sysco,2
+Tejon Ranch Corp,2
+"Tenaska, Incorporated",2
+The California State Automobile Association (concern),2
+Tosco Corporation,2
+Tostie Productions,2
+Toyota Corporation,2
+Toyota Motor,2
+Transamerica Corp,2
+Transformative Wealth Management,2
+US Hybrid Corp,2
+UTC Power Corporation,2
+United Infrastructure Company,2
+"VT Accounting Associates, LLP",2
+Valencia,2
+"Vanguard Concepts, LLC",2
+Ventura County Railroad,2
+W.E. Lyons Construction,2
+Wadham Energy,2
+Walters Management Company,2
+"Waste Recovery West, LLC",2
+Western Air Limbach LP,2
+Western States Oil,2
+Western States Petroleum Corp,2
+Winning Strategies LLC,2
+"Wintec Energy, Ltd",2
+Woodland Biomass Power,2
+Yuba Bicycles,2
+the Automobile Club of Southern California (concern),2
 California Pan-Ethnic Health Network (CPEHN),1
 Western Regional Advocacy Program,1
 California AMVETS,1
@@ -27169,3 +28492,306 @@ Western Care Construction,1
 Westside Waste Management,1
 "Wild Goose Storage, LLC",1
 Women's Zionist Organization of America,1
+ALZA Corp,1
+ARCO Products,1
+ASL Presents,1
+"Accenture, LLP",1
+Acxiom Corporation,1
+Adapt Construction Company,1
+Advance Disposal Company,1
+Aerojet Corporation,1
+Air Methods Corporation,1
+Alliance Pharmaceutical,1
+"Alliance of Chief Executives, LLC",1
+AltaMed Corporation,1
+AmeriSpec,1
+American Capitol Management Corp,1
+American Contractors Indemnity,1
+American Express Co,1
+American Insurance Company,1
+American Licorice,1
+American National Can Company,1
+American Rat Terrier Rescue,1
+American Water Company,1
+Amsurg,1
+Anaergia Services,1
+"Anaheim Ducks Hockey Club, LLC",1
+Anchor Brewing,1
+Anew Climate,1
+Auto Supply,1
+Aypa Power Development,1
+BKK,1
+Baxter Health Care,1
+Baxter Health Care Corp,1
+Bay Alarm Company,1
+Bayer HealthCare Corp,1
+Bayer US,1
+Beehive Technology Solutions LLC,1
+Bernardino Co,1
+Berry Petroleum Co,1
+"Big Creek Lumber, Co",1
+"BioFuels Energy, LLC",1
+Blink Charging,1
+Blue Font Recycling,1
+BoDean,1
+Bradley,1
+Bullet Guard,1
+Bullet Guard Corporation,1
+Bulletin Displays,1
+Burnett & Sons Planing Mill and Lumber,1
+CIBA-GEIGY,1
+CNA Insurance Co,1
+COSM Films,1
+COSTCO Wholesale Corporation,1
+CPI Corporation,1
+California Airedale Terrier Club,1
+California Chapter of the American Fence Corporation,1
+California Land Title Company,1
+California Municipal Utilities Company,1
+California Portland Cement,1
+California Southern Small Business Development,1
+California Tile,1
+California-Oregon Telephone,1
+Californians Against Corporation,1
+Canopy Growth,1
+Capstone Turbine Corp,1
+"CarbonLITE Industries, LLC",1
+Case Pacific,1
+Cat Clark Consulting Services,1
+Celgene Corp,1
+Cell Crete,1
+CertainTeed,1
+Champion Lumber Co,1
+Chevron Chemical,1
+Chevron Oil Corporation,1
+Chico Bag Company,1
+Cholestech Corporation,1
+Chula Vista Electric,1
+City/County Association of Governments of San Mateo Co,1
+Clark Neubert,1
+"Clean World Partners, LLC",1
+"ClearEdge Power, LLC",1
+Coast Roof,1
+Common Sense Media co,1
+Compass LLC,1
+Compline,1
+Consolidated Fabricators,1
+Cook Erectors Cordova Glass,1
+"Cornerstone Environmental Group, LLC",1
+Covina Irrigating,1
+Creative Housing Associates LLC,1
+Crusader Insurance,1
+DISH Network Corporation,1
+Daughters of Charity Ministry Services,1
+Debenham Energy,1
+Del Webb California,1
+Direct Air Conditioning,1
+Direct Marketing Corporation,1
+"Direct Network Access, Ltd",1
+Ducor Telephone,1
+Dunn-Edwards,1
+ENOVA Corp,1
+Eagle Distributing,1
+"East Bay Sanitary Company, Inc",1
+Educating Marissa,1
+Educational Field Studies,1
+"El Camino Surgery Center, LLC",1
+Electrical Services,1
+Elizabeth Arden Company,1
+EnergySource Minerals,1
+Enova Corporation,1
+Ernst and Young,1
+Evans Roofing,1
+Evgo Services,1
+Exatec,1
+Fender Musical Instruments Corporation,1
+First Data Corp,1
+First Union,1
+Flying U Rodeo Company,1
+"Food Finders, Incorporated",1
+Ford Motor,1
+Forward Dining Solutions,1
+Found Oyster,1
+Foundation Health Corp,1
+Frank Schipper Construction,1
+Fresno County Economic Development,1
+"Frey Vineyards, Ltd",1
+General Electric Corp,1
+General Electric Corporation,1
+Georgia Pacific Corp,1
+"Gibson, Dunn & Crutcher LLP",1
+Global Steel Products,1
+Golden State Clean Energy,1
+"Golden State Warriors, LLC",1
+Grant Thornton,1
+Green Diamond Resources Company,1
+Green Mountain Energy Company,1
+Greenberg Traurig LLP,1
+Greensmith Energy Management Systems,1
+Greenwell Group,1
+"Gregory Canyon Landfill, LLC",1
+Greyhound Corporation,1
+Harbor Distributing,1
+Hershey Foods,1
+Hewlett Packard Co,1
+Hillwood Corporation,1
+Hilmar Cheese,1
+Homeland Security Management,1
+Horizon Construction Company,1
+Housing Leadership Council of San Mateo Co,1
+"Humane Society of Napa County, Incorporated",1
+"I Drive Safely, L.L.C",1
+IDEC Pharmaceuticals Corporation,1
+InCom,1
+Industrial Asphalt Company,1
+Ingersoll-Rand Corporation,1
+Intel Corp,1
+Kerman Telephone,1
+Kerman Telephone Co,1
+Kinder Morgan Energy Partners,1
+Kutak Rock LLP,1
+LVDSDCA,1
+"LaPolt Law, P.C",1
+Lake Alpine Water,1
+Lam Research Corporation,1
+Lescure,1
+Liberty Mutual Insurance Co,1
+Liberty Mutual Insurance Company Limited,1
+Loeb & Loeb,1
+Lorillard Tobacco,1
+Lorillard Tobacco Corporation,1
+Los Angeles Cold Storage,1
+Los Angeles Cold Storage Co,1
+Los Angeles Family Housing Corporation,1
+Louisiana-Pacific Company,1
+Louisiana-Pacific Corporation,1
+MSG Forum,1
+MacLeod Ale Brewing,1
+Magma Power Co,1
+Majestic Insurance Company,1
+"Mammoth Mountain Ski Area, LLC",1
+Market Value Partners Company,1
+"Mead Johnson Nutritionals, a Bristol-Myers Squibb",1
+Mercury Casualty Co,1
+Metalclad Insulation,1
+"Michael Sullivan & Associates, LLC",1
+Milestone Consulting,1
+Miller Brewing,1
+MillerCoors LLC,1
+Mission Oil,1
+Mission Oil Co,1
+Mobil Oil Company,1
+Modesto Junk Co,1
+"Modesto Junk Company, Inc",1
+Montgomery Watson Co,1
+Moss Adams,1
+Mountain Valley Express,1
+"Munger, Tolles & Olson",1
+"Muni Services, LLC",1
+NGV Ecotrans Group,1
+National Gypsum Company,1
+National Ready Mixed Concrete,1
+National Semiconductor Corp,1
+Natural Hydrogen Energy,1
+Nickel Family,1
+Noble Realty,1
+North American Chemical,1
+North American Chemical Co,1
+"Northern Recycling and Waste Services, LLC",1
+Northrop Grumman Company,1
+Northrup Grumman Corp,1
+Northrup Grumman Corporation,1
+Novartis Corporation,1
+OneSun LLC,1
+"Options for Youth, Incorporated",1
+Oracle Corp,1
+Orange County Community Housing,1
+"PLANT Construction Company, L.P",1
+POM Wonderful,1
+Pacific Coast Roofing Corp,1
+Pajaro Valley Housing,1
+Panthera Corporation,1
+Paramount Petroleum Company,1
+Paulson Manufacturing,1
+Performance Nursery Corp,1
+Phoenix Accounting,1
+Physicians Mutual Insurance,1
+Planned Parenthood Advocacy Project Los Angeles Co,1
+Plomero,1
+PowerLight Corporation,1
+PricewaterhouseCoopers LLC,1
+Productive Finance Co,1
+Renewable Natural Gas Company,1
+Replanet LLC,1
+Rex Halverson & Associates,1
+Rick Engineering,1
+River Distributing,1
+Robinson Helicopter Co,1
+Romic Environmental Technologies,1
+Royal Service A/C,1
+Roycroft Funding,1
+SOS Recycling,1
+SYAR Concrete,1
+San Fernando Gardens Resident Management,1
+San Luis Obispo Co,1
+Schnitzer Steel Products Co,1
+Shaklee,1
+Shell Oil,1
+Sherwin-Williams,1
+Sierra Nevada Brewing,1
+Sierra Pacific Company,1
+Sierra Pacific Power,1
+Simpson Paper,1
+Simpson Paper Co,1
+"Solar Millennium, LLC",1
+Somerford,1
+Sonoco Products,1
+Southern CA Edison Company,1
+"Southern California Disposal and Recycling Company, Inc",1
+Southern California Water,1
+Standard Iron & Metals Co,1
+Standard Iron & Metals Company,1
+Star Milling,1
+State Bird Provisions,1
+Summit Alliance Executive Benefits,1
+Sun World International,1
+Sustaina Company,1
+Temperature Equipment,1
+Tenet Healthcare Corp,1
+"TerraVerde Energy, LLC",1
+"Terrahome, LLC",1
+The Association of Engineering Geologists,1
+The Campbell Group,1
+"The Service Employees International Union (SEIU), Local 1000",1
+The Sunita Jain Anti-trafficking Initiative at Loyola Law School,1
+Transamerica Occidental Life Insurance,1
+Tricor Refining,1
+Trillium Asset Management Co,1
+Truform Construction,1
+Tulare County Economic Development,1
+USAA Insurance Co,1
+Union Oil Company,1
+Union Pacific Railroad Co,1
+UnionBanCal,1
+Unisys Corporation,1
+United Wholesale Mortgage,1
+Valley Farm Transport Corp,1
+Valley Oak Partners,1
+Valta Energy LLC,1
+Vermont Slauson Economic Development,1
+Viance,1
+"Virgin Galactic, LLC",1
+Warner-Lambert Co,1
+Waste to Energy,1
+Waymo LLC,1
+Weiss Sheet Metal Co,1
+Western Exterminator,1
+Western Pacific Housing Company,1
+"Westlands Solar Park, LLC",1
+Weyerhaeuser,1
+Wheelhouse Corporation,1
+Yuba-Sutter Economic Development,1
+"Zacky Farms, LLC",1
+Zero Waste,1
+the Burbank-glendale-pasadena Airport Authority,1
+the City Manager,1

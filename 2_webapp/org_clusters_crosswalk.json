@@ -156427,6 +156427,7249 @@
           "relationship": "alternate_spelling"
         }
       ]
+    },
+    {
+      "canonical": "Pacific Gas and Electric",
+      "children": [
+        {
+          "name": "Pacific Gas and Electric Company",
+          "relationship": "alternate_spelling"
+        },
+        {
+          "name": "Pacific Gas and Electric Co",
+          "relationship": "alternate_spelling"
+        }
+      ]
+    },
+    {
+      "canonical": "State Farm Insurance",
+      "children": [
+        {
+          "name": "State Farm Insurance Company",
+          "relationship": "alternate_spelling"
+        },
+        {
+          "name": "State Farm Insurance Co",
+          "relationship": "alternate_spelling"
+        }
+      ]
+    },
+    {
+      "canonical": "Pacific Gas & Electric",
+      "children": [
+        {
+          "name": "Pacific Gas & Electric Company",
+          "relationship": "alternate_spelling"
+        },
+        {
+          "name": "Pacific Gas & Electric Co",
+          "relationship": "alternate_spelling"
+        }
+      ]
+    },
+    {
+      "canonical": "General Motors",
+      "children": [
+        {
+          "name": "General Motors Corporation",
+          "relationship": "alternate_spelling"
+        },
+        {
+          "name": "General Motors LLC",
+          "relationship": "alternate_spelling"
+        },
+        {
+          "name": "General Motors Corp",
+          "relationship": "alternate_spelling"
+        },
+        {
+          "name": "General Motors Co",
+          "relationship": "alternate_spelling"
+        },
+        {
+          "name": "General Motors Company",
+          "relationship": "alternate_spelling"
+        }
+      ]
+    },
+    {
+      "canonical": "Tenet Healthcare",
+      "children": [
+        {
+          "name": "Tenet Healthcare Corporation",
+          "relationship": "alternate_spelling"
+        },
+        {
+          "name": "Tenet Healthcare Corp",
+          "relationship": "alternate_spelling"
+        }
+      ]
+    },
+    {
+      "canonical": "Intel",
+      "children": [
+        {
+          "name": "Intel Corporation",
+          "relationship": "alternate_spelling"
+        },
+        {
+          "name": "Intel Corp",
+          "relationship": "alternate_spelling"
+        }
+      ]
+    },
+    {
+      "canonical": "California Water Service",
+      "children": [
+        {
+          "name": "California Water Service Company",
+          "relationship": "alternate_spelling"
+        },
+        {
+          "name": "California Water Service Co",
+          "relationship": "alternate_spelling"
+        },
+        {
+          "name": "California Water Service Corporation",
+          "relationship": "alternate_spelling"
+        }
+      ]
+    },
+    {
+      "canonical": "Microsoft",
+      "children": [
+        {
+          "name": "Microsoft Corporation",
+          "relationship": "alternate_spelling"
+        },
+        {
+          "name": "Microsoft Corp",
+          "relationship": "alternate_spelling"
+        }
+      ]
+    },
+    {
+      "canonical": "Ford Motor",
+      "children": [
+        {
+          "name": "Ford Motor Company",
+          "relationship": "alternate_spelling"
+        },
+        {
+          "name": "Ford Motor Co",
+          "relationship": "alternate_spelling"
+        }
+      ]
+    },
+    {
+      "canonical": "Miller Brewing",
+      "children": [
+        {
+          "name": "Miller Brewing Company",
+          "relationship": "alternate_spelling"
+        },
+        {
+          "name": "Miller Brewing Co",
+          "relationship": "alternate_spelling"
+        }
+      ]
+    },
+    {
+      "canonical": "Pacific Life Insurance",
+      "children": [
+        {
+          "name": "Pacific Life Insurance Company",
+          "relationship": "alternate_spelling"
+        },
+        {
+          "name": "Pacific Life Insurance Co",
+          "relationship": "alternate_spelling"
+        }
+      ]
+    },
+    {
+      "canonical": "Orange County Community Housing",
+      "children": [
+        {
+          "name": "Orange County Community Housing Corporation",
+          "relationship": "alternate_spelling"
+        },
+        {
+          "name": "Orange County Community Housing Corp",
+          "relationship": "alternate_spelling"
+        }
+      ]
+    },
+    {
+      "canonical": "PG&E",
+      "children": [
+        {
+          "name": "PG&E Corporation",
+          "relationship": "alternate_spelling"
+        }
+      ]
+    },
+    {
+      "canonical": "Rainbow Services",
+      "children": [
+        {
+          "name": "Rainbow Services Ltd",
+          "relationship": "alternate_spelling"
+        }
+      ]
+    },
+    {
+      "canonical": "Union Pacific Railroad",
+      "children": [
+        {
+          "name": "Union Pacific Railroad Company",
+          "relationship": "alternate_spelling"
+        },
+        {
+          "name": "Union Pacific Railroad Co",
+          "relationship": "alternate_spelling"
+        }
+      ]
+    },
+    {
+      "canonical": "Bloom Energy",
+      "children": [
+        {
+          "name": "Bloom Energy Corporation",
+          "relationship": "alternate_spelling"
+        }
+      ]
+    },
+    {
+      "canonical": "Novartis Pharmaceuticals",
+      "children": [
+        {
+          "name": "Novartis Pharmaceuticals Corporation",
+          "relationship": "alternate_spelling"
+        },
+        {
+          "name": "Novartis Pharmaceuticals Corp",
+          "relationship": "alternate_spelling"
+        }
+      ]
+    },
+    {
+      "canonical": "Hewlett-Packard",
+      "children": [
+        {
+          "name": "Hewlett-Packard Company",
+          "relationship": "alternate_spelling"
+        },
+        {
+          "name": "Hewlett-Packard Co",
+          "relationship": "alternate_spelling"
+        }
+      ]
+    },
+    {
+      "canonical": "San Luis Obispo",
+      "children": [
+        {
+          "name": "San Luis Obispo Co",
+          "relationship": "alternate_spelling"
+        }
+      ]
+    },
+    {
+      "canonical": "Coors Brewing",
+      "children": [
+        {
+          "name": "Coors Brewing Company",
+          "relationship": "alternate_spelling"
+        },
+        {
+          "name": "Coors Brewing Co",
+          "relationship": "alternate_spelling"
+        }
+      ]
+    },
+    {
+      "canonical": "Nationwide Insurance",
+      "children": [
+        {
+          "name": "Nationwide Insurance Company",
+          "relationship": "alternate_spelling"
+        },
+        {
+          "name": "Nationwide Insurance Corporation",
+          "relationship": "alternate_spelling"
+        },
+        {
+          "name": "Nationwide Insurance Co",
+          "relationship": "alternate_spelling"
+        }
+      ]
+    },
+    {
+      "canonical": "Napa Recycling and Waste Services",
+      "children": [
+        {
+          "name": "Napa Recycling and Waste Services LLC",
+          "relationship": "alternate_spelling"
+        }
+      ]
+    },
+    {
+      "canonical": "Civic Center Barrio Housing",
+      "children": [
+        {
+          "name": "Civic Center Barrio Housing Corporation",
+          "relationship": "alternate_spelling"
+        },
+        {
+          "name": "Civic Center Barrio Housing Corp",
+          "relationship": "alternate_spelling"
+        }
+      ]
+    },
+    {
+      "canonical": "Pardee Construction",
+      "children": [
+        {
+          "name": "Pardee Construction Company",
+          "relationship": "alternate_spelling"
+        },
+        {
+          "name": "Pardee Construction Co",
+          "relationship": "alternate_spelling"
+        }
+      ]
+    },
+    {
+      "canonical": "Baxter Healthcare",
+      "children": [
+        {
+          "name": "Baxter Healthcare Corporation",
+          "relationship": "alternate_spelling"
+        },
+        {
+          "name": "Baxter Healthcare Corp",
+          "relationship": "alternate_spelling"
+        }
+      ]
+    },
+    {
+      "canonical": "American Express",
+      "children": [
+        {
+          "name": "American Express Company",
+          "relationship": "alternate_spelling"
+        },
+        {
+          "name": "American Express Co",
+          "relationship": "alternate_spelling"
+        }
+      ]
+    },
+    {
+      "canonical": "Orrick Herrington & Sutcliffe",
+      "children": [
+        {
+          "name": "Orrick Herrington & Sutcliffe LLP",
+          "relationship": "alternate_spelling"
+        }
+      ]
+    },
+    {
+      "canonical": "IBM",
+      "children": [
+        {
+          "name": "IBM Corporation",
+          "relationship": "alternate_spelling"
+        },
+        {
+          "name": "IBM Corp",
+          "relationship": "alternate_spelling"
+        }
+      ]
+    },
+    {
+      "canonical": "Walgreens",
+      "children": [
+        {
+          "name": "Walgreens Co",
+          "relationship": "alternate_spelling"
+        }
+      ]
+    },
+    {
+      "canonical": "Johnson & Johnson",
+      "children": [
+        {
+          "name": "Johnson & Johnson Company",
+          "relationship": "alternate_spelling"
+        }
+      ]
+    },
+    {
+      "canonical": "Ernst & Young",
+      "children": [
+        {
+          "name": "Ernst & Young LLP",
+          "relationship": "alternate_spelling"
+        }
+      ]
+    },
+    {
+      "canonical": "Liberty Mutual Insurance",
+      "children": [
+        {
+          "name": "Liberty Mutual Insurance Company",
+          "relationship": "alternate_spelling"
+        },
+        {
+          "name": "Liberty Mutual Insurance Corporation",
+          "relationship": "alternate_spelling"
+        },
+        {
+          "name": "Liberty Mutual Insurance Co",
+          "relationship": "alternate_spelling"
+        },
+        {
+          "name": "Liberty Mutual Insurance Company Limited",
+          "relationship": "alternate_spelling"
+        }
+      ]
+    },
+    {
+      "canonical": "Deloitte & Touche",
+      "children": [
+        {
+          "name": "Deloitte & Touche LLP",
+          "relationship": "alternate_spelling"
+        }
+      ]
+    },
+    {
+      "canonical": "Rural California Housing",
+      "children": [
+        {
+          "name": "Rural California Housing Corporation",
+          "relationship": "alternate_spelling"
+        },
+        {
+          "name": "Rural California Housing Corp",
+          "relationship": "alternate_spelling"
+        }
+      ]
+    },
+    {
+      "canonical": "Altamed",
+      "children": [
+        {
+          "name": "AltaMed Corporation",
+          "relationship": "alternate_spelling"
+        }
+      ]
+    },
+    {
+      "canonical": "Napa Recycling & Waste Services",
+      "children": [
+        {
+          "name": "Napa Recycling & Waste Services, LLC",
+          "relationship": "alternate_spelling"
+        }
+      ]
+    },
+    {
+      "canonical": "Sierra Nevada Brewing",
+      "children": [
+        {
+          "name": "Sierra Nevada Brewing Company",
+          "relationship": "alternate_spelling"
+        },
+        {
+          "name": "Sierra Nevada Brewing Co",
+          "relationship": "alternate_spelling"
+        }
+      ]
+    },
+    {
+      "canonical": "California American Water",
+      "children": [
+        {
+          "name": "California American Water Company",
+          "relationship": "alternate_spelling"
+        }
+      ]
+    },
+    {
+      "canonical": "Capstone Turbine",
+      "children": [
+        {
+          "name": "Capstone Turbine Corporation",
+          "relationship": "alternate_spelling"
+        },
+        {
+          "name": "Capstone Turbine Corp",
+          "relationship": "alternate_spelling"
+        }
+      ]
+    },
+    {
+      "canonical": "Vulcan Materials",
+      "children": [
+        {
+          "name": "Vulcan Materials Company",
+          "relationship": "alternate_spelling"
+        },
+        {
+          "name": "Vulcan Materials Co",
+          "relationship": "alternate_spelling"
+        }
+      ]
+    },
+    {
+      "canonical": "Calpine",
+      "children": [
+        {
+          "name": "Calpine Corp",
+          "relationship": "alternate_spelling"
+        },
+        {
+          "name": "Calpine Corporation",
+          "relationship": "alternate_spelling"
+        }
+      ]
+    },
+    {
+      "canonical": "Enterprise Rent-a-Car",
+      "children": [
+        {
+          "name": "Enterprise Rent-A-Car Company",
+          "relationship": "alternate_spelling"
+        },
+        {
+          "name": "Enterprise Rent-a-Car Co",
+          "relationship": "alternate_spelling"
+        }
+      ]
+    },
+    {
+      "canonical": "PricewaterhouseCoopers",
+      "children": [
+        {
+          "name": "PricewaterhouseCoopers LLP",
+          "relationship": "alternate_spelling"
+        },
+        {
+          "name": "PricewaterhouseCoopers LLC",
+          "relationship": "alternate_spelling"
+        }
+      ]
+    },
+    {
+      "canonical": "Oracle",
+      "children": [
+        {
+          "name": "Oracle Corporation",
+          "relationship": "alternate_spelling"
+        },
+        {
+          "name": "Oracle Corp",
+          "relationship": "alternate_spelling"
+        }
+      ]
+    },
+    {
+      "canonical": "BKK",
+      "children": [
+        {
+          "name": "BKK Corporation",
+          "relationship": "alternate_spelling"
+        }
+      ]
+    },
+    {
+      "canonical": "California Portland Cement",
+      "children": [
+        {
+          "name": "California Portland Cement Company",
+          "relationship": "alternate_spelling"
+        },
+        {
+          "name": "California Portland Cement Co",
+          "relationship": "alternate_spelling"
+        }
+      ]
+    },
+    {
+      "canonical": "Hewlett Packard",
+      "children": [
+        {
+          "name": "Hewlett Packard Company",
+          "relationship": "alternate_spelling"
+        },
+        {
+          "name": "Hewlett Packard Co",
+          "relationship": "alternate_spelling"
+        }
+      ]
+    },
+    {
+      "canonical": "Bristol-Myers Squibb",
+      "children": [
+        {
+          "name": "Bristol-Myers Squibb Company",
+          "relationship": "alternate_spelling"
+        }
+      ]
+    },
+    {
+      "canonical": "Bayer Healthcare",
+      "children": [
+        {
+          "name": "Bayer Healthcare Corporation",
+          "relationship": "alternate_spelling"
+        },
+        {
+          "name": "Bayer Healthcare LLC",
+          "relationship": "alternate_spelling"
+        },
+        {
+          "name": "Bayer HealthCare Corp",
+          "relationship": "alternate_spelling"
+        }
+      ]
+    },
+    {
+      "canonical": "Paramount Pictures",
+      "children": [
+        {
+          "name": "Paramount Pictures Corporation",
+          "relationship": "alternate_spelling"
+        }
+      ]
+    },
+    {
+      "canonical": "Southern California Water",
+      "children": [
+        {
+          "name": "Southern California Water Company",
+          "relationship": "alternate_spelling"
+        }
+      ]
+    },
+    {
+      "canonical": "Sunpower",
+      "children": [
+        {
+          "name": "Sunpower Corporation",
+          "relationship": "alternate_spelling"
+        }
+      ]
+    },
+    {
+      "canonical": "Bayer",
+      "children": [
+        {
+          "name": "Bayer Corporation",
+          "relationship": "alternate_spelling"
+        }
+      ]
+    },
+    {
+      "canonical": "GE Capital",
+      "children": [
+        {
+          "name": "GE Capital Corporation",
+          "relationship": "alternate_spelling"
+        }
+      ]
+    },
+    {
+      "canonical": "Target",
+      "children": [
+        {
+          "name": "Target Corporation",
+          "relationship": "alternate_spelling"
+        }
+      ]
+    },
+    {
+      "canonical": "Transformative Wealth Management",
+      "children": [
+        {
+          "name": "Transformative Wealth Management LLC",
+          "relationship": "alternate_spelling"
+        }
+      ]
+    },
+    {
+      "canonical": "Bnsf Railway",
+      "children": [
+        {
+          "name": "BNSF Railway Company",
+          "relationship": "alternate_spelling"
+        }
+      ]
+    },
+    {
+      "canonical": "MCI Telecommunications",
+      "children": [
+        {
+          "name": "MCI Telecommunications Corporation",
+          "relationship": "alternate_spelling"
+        },
+        {
+          "name": "MCI Telecommunications Corp",
+          "relationship": "alternate_spelling"
+        }
+      ]
+    },
+    {
+      "canonical": "McKesson",
+      "children": [
+        {
+          "name": "McKesson Corporation",
+          "relationship": "alternate_spelling"
+        },
+        {
+          "name": "McKesson Corp",
+          "relationship": "alternate_spelling"
+        }
+      ]
+    },
+    {
+      "canonical": "MillerCoors",
+      "children": [
+        {
+          "name": "MillerCoors LLC",
+          "relationship": "alternate_spelling"
+        }
+      ]
+    },
+    {
+      "canonical": "Best Best & Krieger",
+      "children": [
+        {
+          "name": "Best Best & Krieger LLP",
+          "relationship": "alternate_spelling"
+        }
+      ]
+    },
+    {
+      "canonical": "International Paper",
+      "children": [
+        {
+          "name": "International Paper Company",
+          "relationship": "alternate_spelling"
+        }
+      ]
+    },
+    {
+      "canonical": "Xerox",
+      "children": [
+        {
+          "name": "Xerox Corporation",
+          "relationship": "alternate_spelling"
+        },
+        {
+          "name": "Xerox Corp",
+          "relationship": "alternate_spelling"
+        }
+      ]
+    },
+    {
+      "canonical": "CalPortland",
+      "children": [
+        {
+          "name": "Calportland Company",
+          "relationship": "alternate_spelling"
+        }
+      ]
+    },
+    {
+      "canonical": "National Semiconductor",
+      "children": [
+        {
+          "name": "National Semiconductor Corporation",
+          "relationship": "alternate_spelling"
+        },
+        {
+          "name": "National Semiconductor Corp",
+          "relationship": "alternate_spelling"
+        }
+      ]
+    },
+    {
+      "canonical": "Northrop Grumman",
+      "children": [
+        {
+          "name": "Northrop Grumman Corporation",
+          "relationship": "alternate_spelling"
+        },
+        {
+          "name": "Northrop Grumman Company",
+          "relationship": "alternate_spelling"
+        }
+      ]
+    },
+    {
+      "canonical": "Symantec",
+      "children": [
+        {
+          "name": "Symantec Corporation",
+          "relationship": "alternate_spelling"
+        }
+      ]
+    },
+    {
+      "canonical": "KPMG",
+      "children": [
+        {
+          "name": "KPMG LLP",
+          "relationship": "alternate_spelling"
+        }
+      ]
+    },
+    {
+      "canonical": "McDonnell Douglas",
+      "children": [
+        {
+          "name": "McDonnell Douglas Corporation",
+          "relationship": "alternate_spelling"
+        }
+      ]
+    },
+    {
+      "canonical": "San Diego Economic Development",
+      "children": [
+        {
+          "name": "San Diego Economic Development Corporation",
+          "relationship": "alternate_spelling"
+        }
+      ]
+    },
+    {
+      "canonical": "Kimberly-Clark",
+      "children": [
+        {
+          "name": "Kimberly-clark Corporation",
+          "relationship": "alternate_spelling"
+        }
+      ]
+    },
+    {
+      "canonical": "MBNA",
+      "children": [
+        {
+          "name": "MBNA Corp",
+          "relationship": "alternate_spelling"
+        }
+      ]
+    },
+    {
+      "canonical": "Tosco Refining",
+      "children": [
+        {
+          "name": "Tosco Refining Company",
+          "relationship": "alternate_spelling"
+        },
+        {
+          "name": "Tosco Refining Co",
+          "relationship": "alternate_spelling"
+        }
+      ]
+    },
+    {
+      "canonical": "Cruise",
+      "children": [
+        {
+          "name": "Cruise LLC",
+          "relationship": "alternate_spelling"
+        }
+      ]
+    },
+    {
+      "canonical": "Lockheed Martin Space Systems",
+      "children": [
+        {
+          "name": "Lockheed Martin Space Systems Company",
+          "relationship": "alternate_spelling"
+        }
+      ]
+    },
+    {
+      "canonical": "US Hybrid",
+      "children": [
+        {
+          "name": "US Hybrid Corporation",
+          "relationship": "alternate_spelling"
+        },
+        {
+          "name": "US Hybrid Corp",
+          "relationship": "alternate_spelling"
+        }
+      ]
+    },
+    {
+      "canonical": "3m",
+      "children": [
+        {
+          "name": "3M Corporation",
+          "relationship": "alternate_spelling"
+        },
+        {
+          "name": "3m Company",
+          "relationship": "alternate_spelling"
+        }
+      ]
+    },
+    {
+      "canonical": "Fremont Compensation Insurance",
+      "children": [
+        {
+          "name": "Fremont Compensation Insurance Company",
+          "relationship": "alternate_spelling"
+        }
+      ]
+    },
+    {
+      "canonical": "Georgia-Pacific",
+      "children": [
+        {
+          "name": "Georgia-Pacific Corporation",
+          "relationship": "alternate_spelling"
+        },
+        {
+          "name": "Georgia-Pacific Corp",
+          "relationship": "alternate_spelling"
+        }
+      ]
+    },
+    {
+      "canonical": "Terraverde Energy",
+      "children": [
+        {
+          "name": "TerraVerde Energy, LLC",
+          "relationship": "alternate_spelling"
+        }
+      ]
+    },
+    {
+      "canonical": "Certified Grocers of California",
+      "children": [
+        {
+          "name": "Certified Grocers of California, Ltd",
+          "relationship": "alternate_spelling"
+        }
+      ]
+    },
+    {
+      "canonical": "O'Melveny & Myers",
+      "children": [
+        {
+          "name": "O'Melveny & Myers LLP",
+          "relationship": "alternate_spelling"
+        }
+      ]
+    },
+    {
+      "canonical": "Opus Health",
+      "children": [
+        {
+          "name": "Opus Health, LLC",
+          "relationship": "alternate_spelling"
+        }
+      ]
+    },
+    {
+      "canonical": "Tejon Ranch",
+      "children": [
+        {
+          "name": "Tejon Ranch Company",
+          "relationship": "alternate_spelling"
+        },
+        {
+          "name": "Tejon Ranch Corp",
+          "relationship": "alternate_spelling"
+        }
+      ]
+    },
+    {
+      "canonical": "Mercury Casualty",
+      "children": [
+        {
+          "name": "Mercury Casualty Company",
+          "relationship": "alternate_spelling"
+        },
+        {
+          "name": "Mercury Casualty Co",
+          "relationship": "alternate_spelling"
+        }
+      ]
+    },
+    {
+      "canonical": "Pacific Mutual Life Insurance",
+      "children": [
+        {
+          "name": "Pacific Mutual Life Insurance Company",
+          "relationship": "alternate_spelling"
+        }
+      ]
+    },
+    {
+      "canonical": "Smurfit-Stone Container",
+      "children": [
+        {
+          "name": "Smurfit-Stone Container Corporation",
+          "relationship": "alternate_spelling"
+        },
+        {
+          "name": "Smurfit-Stone Container Company",
+          "relationship": "alternate_spelling"
+        },
+        {
+          "name": "Smurfit-Stone Container Corp",
+          "relationship": "alternate_spelling"
+        }
+      ]
+    },
+    {
+      "canonical": "Solaria",
+      "children": [
+        {
+          "name": "Solaria Corporation",
+          "relationship": "alternate_spelling"
+        }
+      ]
+    },
+    {
+      "canonical": "South Bay Expressway",
+      "children": [
+        {
+          "name": "South Bay Expressway, L.P",
+          "relationship": "alternate_spelling"
+        }
+      ]
+    },
+    {
+      "canonical": "Economic Development",
+      "children": [
+        {
+          "name": "Economic Development Corporation",
+          "relationship": "alternate_spelling"
+        }
+      ]
+    },
+    {
+      "canonical": "First Union",
+      "children": [
+        {
+          "name": "First Union Corporation",
+          "relationship": "alternate_spelling"
+        }
+      ]
+    },
+    {
+      "canonical": "Further the Work",
+      "children": [
+        {
+          "name": "Further the Work, LLC",
+          "relationship": "alternate_spelling"
+        }
+      ]
+    },
+    {
+      "canonical": "Tulare County Economic Development",
+      "children": [
+        {
+          "name": "Tulare County Economic Development Corporation",
+          "relationship": "alternate_spelling"
+        }
+      ]
+    },
+    {
+      "canonical": "Astrazeneca",
+      "children": [
+        {
+          "name": "AstraZeneca, LP",
+          "relationship": "alternate_spelling"
+        }
+      ]
+    },
+    {
+      "canonical": "Bernardino",
+      "children": [
+        {
+          "name": "Bernardino Co",
+          "relationship": "alternate_spelling"
+        }
+      ]
+    },
+    {
+      "canonical": "Fresno County Economic Development",
+      "children": [
+        {
+          "name": "Fresno County Economic Development Corporation",
+          "relationship": "alternate_spelling"
+        },
+        {
+          "name": "Fresno County Economic Development Corp",
+          "relationship": "alternate_spelling"
+        }
+      ]
+    },
+    {
+      "canonical": "KPMG Peat Marwick",
+      "children": [
+        {
+          "name": "KPMG Peat Marwick LLP",
+          "relationship": "alternate_spelling"
+        }
+      ]
+    },
+    {
+      "canonical": "Price Waterhouse",
+      "children": [
+        {
+          "name": "Price Waterhouse LLP",
+          "relationship": "alternate_spelling"
+        }
+      ]
+    },
+    {
+      "canonical": "Public Policy Advocates",
+      "children": [
+        {
+          "name": "Public Policy Advocates LLC",
+          "relationship": "alternate_spelling"
+        }
+      ]
+    },
+    {
+      "canonical": "Vermont Slauson Economic Development",
+      "children": [
+        {
+          "name": "Vermont Slauson Economic Development Corporation",
+          "relationship": "alternate_spelling"
+        },
+        {
+          "name": "Vermont Slauson Economic Development Corp",
+          "relationship": "alternate_spelling"
+        }
+      ]
+    },
+    {
+      "canonical": "Chico Bag",
+      "children": [
+        {
+          "name": "Chico Bag Company",
+          "relationship": "alternate_spelling"
+        }
+      ]
+    },
+    {
+      "canonical": "Fruit Growers Supply",
+      "children": [
+        {
+          "name": "Fruit Growers Supply Company",
+          "relationship": "alternate_spelling"
+        }
+      ]
+    },
+    {
+      "canonical": "Stone & Youngberg",
+      "children": [
+        {
+          "name": "Stone & Youngberg LLC",
+          "relationship": "alternate_spelling"
+        }
+      ]
+    },
+    {
+      "canonical": "Beneficial Management",
+      "children": [
+        {
+          "name": "Beneficial Management Corporation",
+          "relationship": "alternate_spelling"
+        },
+        {
+          "name": "Beneficial Management Corp",
+          "relationship": "alternate_spelling"
+        }
+      ]
+    },
+    {
+      "canonical": "Invenergy",
+      "children": [
+        {
+          "name": "Invenergy LLC",
+          "relationship": "alternate_spelling"
+        }
+      ]
+    },
+    {
+      "canonical": "ChicoBag",
+      "children": [
+        {
+          "name": "Chicobag Company",
+          "relationship": "alternate_spelling"
+        }
+      ]
+    },
+    {
+      "canonical": "HNTB",
+      "children": [
+        {
+          "name": "Hntb Corporation",
+          "relationship": "alternate_spelling"
+        }
+      ]
+    },
+    {
+      "canonical": "Renewable Funding",
+      "children": [
+        {
+          "name": "Renewable Funding, LLC",
+          "relationship": "alternate_spelling"
+        }
+      ]
+    },
+    {
+      "canonical": "Simpson Timber",
+      "children": [
+        {
+          "name": "Simpson Timber Company",
+          "relationship": "alternate_spelling"
+        }
+      ]
+    },
+    {
+      "canonical": "Sonoma Compost",
+      "children": [
+        {
+          "name": "Sonoma Compost Co",
+          "relationship": "alternate_spelling"
+        },
+        {
+          "name": "Sonoma Compost Company",
+          "relationship": "alternate_spelling"
+        }
+      ]
+    },
+    {
+      "canonical": "Sprint Communications",
+      "children": [
+        {
+          "name": "Sprint Communications Company",
+          "relationship": "alternate_spelling"
+        }
+      ]
+    },
+    {
+      "canonical": "Western States Petroleum",
+      "children": [
+        {
+          "name": "Western States Petroleum Corp",
+          "relationship": "alternate_spelling"
+        }
+      ]
+    },
+    {
+      "canonical": "Allweather Wood",
+      "children": [
+        {
+          "name": "Allweather Wood LLC",
+          "relationship": "alternate_spelling"
+        }
+      ]
+    },
+    {
+      "canonical": "Chrysler",
+      "children": [
+        {
+          "name": "Chrysler Corporation",
+          "relationship": "alternate_spelling"
+        }
+      ]
+    },
+    {
+      "canonical": "Costco Wholesale",
+      "children": [
+        {
+          "name": "COSTCO Wholesale Corporation",
+          "relationship": "alternate_spelling"
+        }
+      ]
+    },
+    {
+      "canonical": "Hobbs Trucking",
+      "children": [
+        {
+          "name": "Hobbs Trucking Company",
+          "relationship": "alternate_spelling"
+        },
+        {
+          "name": "Hobbs Trucking Co",
+          "relationship": "alternate_spelling"
+        }
+      ]
+    },
+    {
+      "canonical": "Norcal Cannabis",
+      "children": [
+        {
+          "name": "Norcal Cannabis Company",
+          "relationship": "alternate_spelling"
+        }
+      ]
+    },
+    {
+      "canonical": "Rutan & Tucker",
+      "children": [
+        {
+          "name": "Rutan & Tucker LLP",
+          "relationship": "alternate_spelling"
+        }
+      ]
+    },
+    {
+      "canonical": "Valley Water",
+      "children": [
+        {
+          "name": "Valley Water Company",
+          "relationship": "alternate_spelling"
+        }
+      ]
+    },
+    {
+      "canonical": "West Coast Leasing",
+      "children": [
+        {
+          "name": "West Coast Leasing LLC",
+          "relationship": "alternate_spelling"
+        }
+      ]
+    },
+    {
+      "canonical": "Alliance Pharmaceutical",
+      "children": [
+        {
+          "name": "Alliance Pharmaceutical Corp",
+          "relationship": "alternate_spelling"
+        },
+        {
+          "name": "Alliance Pharmaceutical Corporation",
+          "relationship": "alternate_spelling"
+        }
+      ]
+    },
+    {
+      "canonical": "Cigna",
+      "children": [
+        {
+          "name": "CIGNA Corp",
+          "relationship": "alternate_spelling"
+        }
+      ]
+    },
+    {
+      "canonical": "Pactiv",
+      "children": [
+        {
+          "name": "Pactiv Corporation",
+          "relationship": "alternate_spelling"
+        }
+      ]
+    },
+    {
+      "canonical": "RePlanet",
+      "children": [
+        {
+          "name": "Replanet LLC",
+          "relationship": "alternate_spelling"
+        }
+      ]
+    },
+    {
+      "canonical": "Santa Fe Railway",
+      "children": [
+        {
+          "name": "Santa Fe Railway Company",
+          "relationship": "alternate_spelling"
+        }
+      ]
+    },
+    {
+      "canonical": "Electrochaea",
+      "children": [
+        {
+          "name": "Electrochaea Corporation",
+          "relationship": "alternate_spelling"
+        }
+      ]
+    },
+    {
+      "canonical": "Esquire Deposition Services",
+      "children": [
+        {
+          "name": "Esquire Deposition Services, LLC",
+          "relationship": "alternate_spelling"
+        }
+      ]
+    },
+    {
+      "canonical": "Hermandad Los Angeles Economic and Community Development",
+      "children": [
+        {
+          "name": "Hermandad Los Angeles Economic and Community Development Corporation",
+          "relationship": "alternate_spelling"
+        },
+        {
+          "name": "Hermandad Los Angeles Economic and Community Development Corp",
+          "relationship": "alternate_spelling"
+        }
+      ]
+    },
+    {
+      "canonical": "Lam Research",
+      "children": [
+        {
+          "name": "Lam Research Corp",
+          "relationship": "alternate_spelling"
+        },
+        {
+          "name": "Lam Research Corporation",
+          "relationship": "alternate_spelling"
+        }
+      ]
+    },
+    {
+      "canonical": "Plumas",
+      "children": [
+        {
+          "name": "Plumas Corporation",
+          "relationship": "alternate_spelling"
+        }
+      ]
+    },
+    {
+      "canonical": "SA Recycling",
+      "children": [
+        {
+          "name": "SA Recycling LLC",
+          "relationship": "alternate_spelling"
+        }
+      ]
+    },
+    {
+      "canonical": "Allan",
+      "children": [
+        {
+          "name": "Allan Company",
+          "relationship": "alternate_spelling"
+        }
+      ]
+    },
+    {
+      "canonical": "Astrazeneca Pharmaceuticals",
+      "children": [
+        {
+          "name": "Astrazeneca Pharmaceuticals LP",
+          "relationship": "alternate_spelling"
+        }
+      ]
+    },
+    {
+      "canonical": "Coopers & Lybrand",
+      "children": [
+        {
+          "name": "Coopers & Lybrand LLP",
+          "relationship": "alternate_spelling"
+        }
+      ]
+    },
+    {
+      "canonical": "Edco Disposal",
+      "children": [
+        {
+          "name": "Edco Disposal Corporation",
+          "relationship": "alternate_spelling"
+        }
+      ]
+    },
+    {
+      "canonical": "First Data",
+      "children": [
+        {
+          "name": "First Data Corporation",
+          "relationship": "alternate_spelling"
+        },
+        {
+          "name": "First Data Corp",
+          "relationship": "alternate_spelling"
+        }
+      ]
+    },
+    {
+      "canonical": "Golden State Warriors",
+      "children": [
+        {
+          "name": "Golden State Warriors, LLC",
+          "relationship": "alternate_spelling"
+        }
+      ]
+    },
+    {
+      "canonical": "Mission Viejo",
+      "children": [
+        {
+          "name": "Mission Viejo Company",
+          "relationship": "alternate_spelling"
+        }
+      ]
+    },
+    {
+      "canonical": "Planned Parenthood Advocacy Project Los Angeles",
+      "children": [
+        {
+          "name": "Planned Parenthood Advocacy Project Los Angeles Co",
+          "relationship": "alternate_spelling"
+        }
+      ]
+    },
+    {
+      "canonical": "Star Milling",
+      "children": [
+        {
+          "name": "Star Milling Co",
+          "relationship": "alternate_spelling"
+        },
+        {
+          "name": "Star Milling Company",
+          "relationship": "alternate_spelling"
+        }
+      ]
+    },
+    {
+      "canonical": "Werner",
+      "children": [
+        {
+          "name": "Werner Corporation",
+          "relationship": "alternate_spelling"
+        },
+        {
+          "name": "Werner Co",
+          "relationship": "alternate_spelling"
+        }
+      ]
+    },
+    {
+      "canonical": "Zero Waste",
+      "children": [
+        {
+          "name": "Zero Waste Company",
+          "relationship": "alternate_spelling"
+        }
+      ]
+    },
+    {
+      "canonical": "Enron",
+      "children": [
+        {
+          "name": "Enron Corporation",
+          "relationship": "alternate_spelling"
+        },
+        {
+          "name": "Enron Corp",
+          "relationship": "alternate_spelling"
+        }
+      ]
+    },
+    {
+      "canonical": "Little Kamper",
+      "children": [
+        {
+          "name": "Little Kamper LP",
+          "relationship": "alternate_spelling"
+        }
+      ]
+    },
+    {
+      "canonical": "Mainstream Energy",
+      "children": [
+        {
+          "name": "Mainstream Energy Corp",
+          "relationship": "alternate_spelling"
+        },
+        {
+          "name": "Mainstream Energy Corporation",
+          "relationship": "alternate_spelling"
+        }
+      ]
+    },
+    {
+      "canonical": "Majestic Realty",
+      "children": [
+        {
+          "name": "Majestic Realty Co",
+          "relationship": "alternate_spelling"
+        },
+        {
+          "name": "Majestic Realty Company",
+          "relationship": "alternate_spelling"
+        }
+      ]
+    },
+    {
+      "canonical": "Northrop",
+      "children": [
+        {
+          "name": "Northrop Corporation",
+          "relationship": "alternate_spelling"
+        },
+        {
+          "name": "Northrop Corp",
+          "relationship": "alternate_spelling"
+        }
+      ]
+    },
+    {
+      "canonical": "Pepsico",
+      "children": [
+        {
+          "name": "Pepsico Corporation",
+          "relationship": "alternate_spelling"
+        }
+      ]
+    },
+    {
+      "canonical": "Shaklee",
+      "children": [
+        {
+          "name": "Shaklee Corporation",
+          "relationship": "alternate_spelling"
+        },
+        {
+          "name": "Shaklee Corp",
+          "relationship": "alternate_spelling"
+        }
+      ]
+    },
+    {
+      "canonical": "CarbonLite Industries",
+      "children": [
+        {
+          "name": "CarbonLITE Industries, LLC",
+          "relationship": "alternate_spelling"
+        }
+      ]
+    },
+    {
+      "canonical": "Castillo Animal Veterinary",
+      "children": [
+        {
+          "name": "Castillo Animal Veterinary Corp",
+          "relationship": "alternate_spelling"
+        }
+      ]
+    },
+    {
+      "canonical": "Clearway Energy Group",
+      "children": [
+        {
+          "name": "Clearway Energy Group LLC",
+          "relationship": "alternate_spelling"
+        }
+      ]
+    },
+    {
+      "canonical": "Consolidated Fabricators",
+      "children": [
+        {
+          "name": "Consolidated Fabricators Corp",
+          "relationship": "alternate_spelling"
+        },
+        {
+          "name": "Consolidated Fabricators Corporation",
+          "relationship": "alternate_spelling"
+        }
+      ]
+    },
+    {
+      "canonical": "HemaCare",
+      "children": [
+        {
+          "name": "HemaCare Corporation",
+          "relationship": "alternate_spelling"
+        }
+      ]
+    },
+    {
+      "canonical": "Heritage Bag",
+      "children": [
+        {
+          "name": "Heritage Bag Company",
+          "relationship": "alternate_spelling"
+        }
+      ]
+    },
+    {
+      "canonical": "Mercury Casualty Insurance",
+      "children": [
+        {
+          "name": "Mercury Casualty Insurance Company",
+          "relationship": "alternate_spelling"
+        }
+      ]
+    },
+    {
+      "canonical": "Advanced Consulting",
+      "children": [
+        {
+          "name": "Advanced Consulting, LLC",
+          "relationship": "alternate_spelling"
+        }
+      ]
+    },
+    {
+      "canonical": "Alza",
+      "children": [
+        {
+          "name": "Alza Corporation",
+          "relationship": "alternate_spelling"
+        },
+        {
+          "name": "ALZA Corp",
+          "relationship": "alternate_spelling"
+        }
+      ]
+    },
+    {
+      "canonical": "Covanta Energy",
+      "children": [
+        {
+          "name": "Covanta Energy Corporation",
+          "relationship": "alternate_spelling"
+        }
+      ]
+    },
+    {
+      "canonical": "Ducor Telephone",
+      "children": [
+        {
+          "name": "Ducor Telephone Company",
+          "relationship": "alternate_spelling"
+        },
+        {
+          "name": "Ducor Telephone Co",
+          "relationship": "alternate_spelling"
+        }
+      ]
+    },
+    {
+      "canonical": "Kutak Rock",
+      "children": [
+        {
+          "name": "Kutak Rock LLP",
+          "relationship": "alternate_spelling"
+        }
+      ]
+    },
+    {
+      "canonical": "Louisiana Pacific",
+      "children": [
+        {
+          "name": "Louisiana Pacific Corporation",
+          "relationship": "alternate_spelling"
+        },
+        {
+          "name": "Louisiana Pacific Company",
+          "relationship": "alternate_spelling"
+        }
+      ]
+    },
+    {
+      "canonical": "Mobil Oil",
+      "children": [
+        {
+          "name": "Mobil Oil Corporation",
+          "relationship": "alternate_spelling"
+        },
+        {
+          "name": "Mobil Oil Company",
+          "relationship": "alternate_spelling"
+        }
+      ]
+    },
+    {
+      "canonical": "Nikola",
+      "children": [
+        {
+          "name": "Nikola Corporation",
+          "relationship": "alternate_spelling"
+        }
+      ]
+    },
+    {
+      "canonical": "Novartis",
+      "children": [
+        {
+          "name": "Novartis Corporation",
+          "relationship": "alternate_spelling"
+        }
+      ]
+    },
+    {
+      "canonical": "Providian Financial",
+      "children": [
+        {
+          "name": "Providian Financial Corp",
+          "relationship": "alternate_spelling"
+        },
+        {
+          "name": "Providian Financial Corporation",
+          "relationship": "alternate_spelling"
+        }
+      ]
+    },
+    {
+      "canonical": "Rancho Mission Viejo",
+      "children": [
+        {
+          "name": "Rancho Mission Viejo, LLC",
+          "relationship": "alternate_spelling"
+        }
+      ]
+    },
+    {
+      "canonical": "Rio Bravo Fresno",
+      "children": [
+        {
+          "name": "Rio Bravo Fresno L.P",
+          "relationship": "alternate_spelling"
+        }
+      ]
+    },
+    {
+      "canonical": "Unocal",
+      "children": [
+        {
+          "name": "Unocal Corporation",
+          "relationship": "alternate_spelling"
+        }
+      ]
+    },
+    {
+      "canonical": "Acxiom",
+      "children": [
+        {
+          "name": "Acxiom Corporation",
+          "relationship": "alternate_spelling"
+        }
+      ]
+    },
+    {
+      "canonical": "AES",
+      "children": [
+        {
+          "name": "Aes Corporation",
+          "relationship": "alternate_spelling"
+        }
+      ]
+    },
+    {
+      "canonical": "Applegate Drayage",
+      "children": [
+        {
+          "name": "Applegate Drayage Company",
+          "relationship": "alternate_spelling"
+        },
+        {
+          "name": "Applegate Drayage Co",
+          "relationship": "alternate_spelling"
+        }
+      ]
+    },
+    {
+      "canonical": "Berry Petroleum",
+      "children": [
+        {
+          "name": "Berry Petroleum Company",
+          "relationship": "alternate_spelling"
+        },
+        {
+          "name": "Berry Petroleum Company, LLC",
+          "relationship": "alternate_spelling"
+        },
+        {
+          "name": "Berry Petroleum Co",
+          "relationship": "alternate_spelling"
+        }
+      ]
+    },
+    {
+      "canonical": "JC Penney",
+      "children": [
+        {
+          "name": "JC Penney Co",
+          "relationship": "alternate_spelling"
+        },
+        {
+          "name": "JC Penney Corporation, Inc",
+          "relationship": "alternate_spelling"
+        }
+      ]
+    },
+    {
+      "canonical": "Pearlx Infrastructure",
+      "children": [
+        {
+          "name": "Pearlx Infrastructure, LLC",
+          "relationship": "alternate_spelling"
+        }
+      ]
+    },
+    {
+      "canonical": "Precision Dynamics",
+      "children": [
+        {
+          "name": "Precision Dynamics Corporation",
+          "relationship": "alternate_spelling"
+        }
+      ]
+    },
+    {
+      "canonical": "Soper-Wheeler",
+      "children": [
+        {
+          "name": "Soper-Wheeler Company",
+          "relationship": "alternate_spelling"
+        }
+      ]
+    },
+    {
+      "canonical": "Turlock Scavenger",
+      "children": [
+        {
+          "name": "Turlock Scavenger Company",
+          "relationship": "alternate_spelling"
+        }
+      ]
+    },
+    {
+      "canonical": "Waymo",
+      "children": [
+        {
+          "name": "Waymo LLC",
+          "relationship": "alternate_spelling"
+        }
+      ]
+    },
+    {
+      "canonical": "Bergey Windpower",
+      "children": [
+        {
+          "name": "Bergey Windpower Company",
+          "relationship": "alternate_spelling"
+        },
+        {
+          "name": "Bergey Windpower Corp",
+          "relationship": "alternate_spelling"
+        },
+        {
+          "name": "Bergey Windpower Corporation",
+          "relationship": "alternate_spelling"
+        }
+      ]
+    },
+    {
+      "canonical": "Electric Vehicles International",
+      "children": [
+        {
+          "name": "Electric Vehicles International, LLC",
+          "relationship": "alternate_spelling"
+        }
+      ]
+    },
+    {
+      "canonical": "Lockheed Martin",
+      "children": [
+        {
+          "name": "Lockheed Martin Corporation",
+          "relationship": "alternate_spelling"
+        }
+      ]
+    },
+    {
+      "canonical": "Romic Environmental Technologies",
+      "children": [
+        {
+          "name": "Romic Environmental Technologies Corporation",
+          "relationship": "alternate_spelling"
+        },
+        {
+          "name": "Romic Environmental Technologies Corp",
+          "relationship": "alternate_spelling"
+        }
+      ]
+    },
+    {
+      "canonical": "Roxborough, Pomerance, Nye & Adreani",
+      "children": [
+        {
+          "name": "Roxborough, Pomerance, Nye & Adreani LLP",
+          "relationship": "alternate_spelling"
+        }
+      ]
+    },
+    {
+      "canonical": "21st Century Insurance",
+      "children": [
+        {
+          "name": "21st Century Insurance Company",
+          "relationship": "alternate_spelling"
+        }
+      ]
+    },
+    {
+      "canonical": "Big Creek Lumber",
+      "children": [
+        {
+          "name": "Big Creek Lumber Company",
+          "relationship": "alternate_spelling"
+        },
+        {
+          "name": "Big Creek Lumber, Co",
+          "relationship": "alternate_spelling"
+        }
+      ]
+    },
+    {
+      "canonical": "California Credits Group",
+      "children": [
+        {
+          "name": "California Credits Group, LLC",
+          "relationship": "alternate_spelling"
+        }
+      ]
+    },
+    {
+      "canonical": "Crusader Insurance",
+      "children": [
+        {
+          "name": "Crusader Insurance Company",
+          "relationship": "alternate_spelling"
+        }
+      ]
+    },
+    {
+      "canonical": "Food Finders",
+      "children": [
+        {
+          "name": "Food Finders, Incorporated",
+          "relationship": "alternate_spelling"
+        }
+      ]
+    },
+    {
+      "canonical": "Foss Maritime",
+      "children": [
+        {
+          "name": "Foss Maritime Company",
+          "relationship": "alternate_spelling"
+        },
+        {
+          "name": "Foss Maritime Co",
+          "relationship": "alternate_spelling"
+        }
+      ]
+    },
+    {
+      "canonical": "Marriott",
+      "children": [
+        {
+          "name": "Marriott Corporation",
+          "relationship": "alternate_spelling"
+        }
+      ]
+    },
+    {
+      "canonical": "National Steel and Shipbuilding",
+      "children": [
+        {
+          "name": "National Steel and Shipbuilding Company",
+          "relationship": "alternate_spelling"
+        }
+      ]
+    },
+    {
+      "canonical": "Robertson's Ready Mix",
+      "children": [
+        {
+          "name": "Robertson's Ready Mix, Ltd",
+          "relationship": "alternate_spelling"
+        }
+      ]
+    },
+    {
+      "canonical": "Sierra Pacific Power",
+      "children": [
+        {
+          "name": "Sierra Pacific Power Company",
+          "relationship": "alternate_spelling"
+        }
+      ]
+    },
+    {
+      "canonical": "Transamerica Occidental Life Insurance",
+      "children": [
+        {
+          "name": "Transamerica Occidental Life Insurance Company",
+          "relationship": "alternate_spelling"
+        }
+      ]
+    },
+    {
+      "canonical": "Service Employees International Union (SEIU), Local 1000",
+      "children": [
+        {
+          "name": "The Service Employees International Union (SEIU), Local 1000",
+          "relationship": "alternate_spelling"
+        }
+      ]
+    },
+    {
+      "canonical": "Allied Insurance",
+      "children": [
+        {
+          "name": "Allied Insurance Company",
+          "relationship": "alternate_spelling"
+        }
+      ]
+    },
+    {
+      "canonical": "American Contractors Indemnity",
+      "children": [
+        {
+          "name": "American Contractors Indemnity Company",
+          "relationship": "alternate_spelling"
+        },
+        {
+          "name": "American Contractors Indemnity Corporation",
+          "relationship": "alternate_spelling"
+        }
+      ]
+    },
+    {
+      "canonical": "Coresgb",
+      "children": [
+        {
+          "name": "Coresgb, LLC",
+          "relationship": "alternate_spelling"
+        }
+      ]
+    },
+    {
+      "canonical": "Fuller Electric",
+      "children": [
+        {
+          "name": "Fuller Electric Corporation",
+          "relationship": "alternate_spelling"
+        },
+        {
+          "name": "Fuller Electric Co",
+          "relationship": "alternate_spelling"
+        }
+      ]
+    },
+    {
+      "canonical": "General Electric",
+      "children": [
+        {
+          "name": "General Electric Company",
+          "relationship": "alternate_spelling"
+        },
+        {
+          "name": "General Electric Corp",
+          "relationship": "alternate_spelling"
+        },
+        {
+          "name": "General Electric Corporation",
+          "relationship": "alternate_spelling"
+        }
+      ]
+    },
+    {
+      "canonical": "Odyne Systems",
+      "children": [
+        {
+          "name": "Odyne Systems, LLC",
+          "relationship": "alternate_spelling"
+        }
+      ]
+    },
+    {
+      "canonical": "Pacific Coast Regional Small Business Development",
+      "children": [
+        {
+          "name": "Pacific Coast Regional Small Business Development Corporation",
+          "relationship": "alternate_spelling"
+        }
+      ]
+    },
+    {
+      "canonical": "Riverside Cement",
+      "children": [
+        {
+          "name": "Riverside Cement Company",
+          "relationship": "alternate_spelling"
+        }
+      ]
+    },
+    {
+      "canonical": "Rockwell International",
+      "children": [
+        {
+          "name": "Rockwell International Corporation",
+          "relationship": "alternate_spelling"
+        }
+      ]
+    },
+    {
+      "canonical": "Trillium Asset Management",
+      "children": [
+        {
+          "name": "Trillium Asset Management Corporation",
+          "relationship": "alternate_spelling"
+        },
+        {
+          "name": "Trillium Asset Management Co",
+          "relationship": "alternate_spelling"
+        }
+      ]
+    },
+    {
+      "canonical": "Unisys",
+      "children": [
+        {
+          "name": "Unisys Corporation",
+          "relationship": "alternate_spelling"
+        }
+      ]
+    },
+    {
+      "canonical": "Wadham Energy",
+      "children": [
+        {
+          "name": "Wadham Energy LP",
+          "relationship": "alternate_spelling"
+        }
+      ]
+    },
+    {
+      "canonical": "Western Exterminator",
+      "children": [
+        {
+          "name": "Western Exterminator Company",
+          "relationship": "alternate_spelling"
+        }
+      ]
+    },
+    {
+      "canonical": "Zacky Farms",
+      "children": [
+        {
+          "name": "Zacky Farms, LLC",
+          "relationship": "alternate_spelling"
+        }
+      ]
+    },
+    {
+      "canonical": "Burbank-glendale-pasadena Airport Authority",
+      "children": [
+        {
+          "name": "the Burbank-glendale-pasadena Airport Authority",
+          "relationship": "alternate_spelling"
+        }
+      ]
+    },
+    {
+      "canonical": "Celgene",
+      "children": [
+        {
+          "name": "Celgene Corporation",
+          "relationship": "alternate_spelling"
+        },
+        {
+          "name": "Celgene Corp",
+          "relationship": "alternate_spelling"
+        }
+      ]
+    },
+    {
+      "canonical": "Diligencias",
+      "children": [
+        {
+          "name": "Diligencias Corporation",
+          "relationship": "alternate_spelling"
+        }
+      ]
+    },
+    {
+      "canonical": "Ecoplast",
+      "children": [
+        {
+          "name": "Ecoplast Corporation",
+          "relationship": "alternate_spelling"
+        }
+      ]
+    },
+    {
+      "canonical": "Hilmar Cheese",
+      "children": [
+        {
+          "name": "Hilmar Cheese Company",
+          "relationship": "alternate_spelling"
+        }
+      ]
+    },
+    {
+      "canonical": "InCom",
+      "children": [
+        {
+          "name": "InCom Corp",
+          "relationship": "alternate_spelling"
+        },
+        {
+          "name": "InCom Corporation",
+          "relationship": "alternate_spelling"
+        }
+      ]
+    },
+    {
+      "canonical": "Jameson Ranch Camp",
+      "children": [
+        {
+          "name": "Jameson Ranch Camp, LLC",
+          "relationship": "alternate_spelling"
+        }
+      ]
+    },
+    {
+      "canonical": "Jungmaven",
+      "children": [
+        {
+          "name": "Jungmaven Ltd",
+          "relationship": "alternate_spelling"
+        }
+      ]
+    },
+    {
+      "canonical": "Lake Alpine Water",
+      "children": [
+        {
+          "name": "Lake Alpine Water Company",
+          "relationship": "alternate_spelling"
+        }
+      ]
+    },
+    {
+      "canonical": "McKesson Water Products",
+      "children": [
+        {
+          "name": "McKesson Water Products Company",
+          "relationship": "alternate_spelling"
+        }
+      ]
+    },
+    {
+      "canonical": "Prologis Management",
+      "children": [
+        {
+          "name": "Prologis Management, LLC",
+          "relationship": "alternate_spelling"
+        }
+      ]
+    },
+    {
+      "canonical": "Raytheon",
+      "children": [
+        {
+          "name": "Raytheon Company",
+          "relationship": "alternate_spelling"
+        }
+      ]
+    },
+    {
+      "canonical": "Redlands",
+      "children": [
+        {
+          "name": "Redlands Corporation",
+          "relationship": "alternate_spelling"
+        }
+      ]
+    },
+    {
+      "canonical": "Rio Bravo Rocklin",
+      "children": [
+        {
+          "name": "Rio Bravo Rocklin L.P",
+          "relationship": "alternate_spelling"
+        }
+      ]
+    },
+    {
+      "canonical": "Simpson Paper",
+      "children": [
+        {
+          "name": "Simpson Paper Company",
+          "relationship": "alternate_spelling"
+        },
+        {
+          "name": "Simpson Paper Co",
+          "relationship": "alternate_spelling"
+        }
+      ]
+    },
+    {
+      "canonical": "Toyota",
+      "children": [
+        {
+          "name": "Toyota Corporation",
+          "relationship": "alternate_spelling"
+        }
+      ]
+    },
+    {
+      "canonical": "Weyerhaeuser",
+      "children": [
+        {
+          "name": "Weyerhaeuser Company",
+          "relationship": "alternate_spelling"
+        }
+      ]
+    },
+    {
+      "canonical": "Yosemite Clean Energy",
+      "children": [
+        {
+          "name": "Yosemite Clean Energy, LLC",
+          "relationship": "alternate_spelling"
+        }
+      ]
+    },
+    {
+      "canonical": "Advance Beverage",
+      "children": [
+        {
+          "name": "Advance Beverage Company",
+          "relationship": "alternate_spelling"
+        },
+        {
+          "name": "Advance Beverage Co",
+          "relationship": "alternate_spelling"
+        }
+      ]
+    },
+    {
+      "canonical": "Amway",
+      "children": [
+        {
+          "name": "Amway Corporation",
+          "relationship": "alternate_spelling"
+        },
+        {
+          "name": "Amway Corp",
+          "relationship": "alternate_spelling"
+        }
+      ]
+    },
+    {
+      "canonical": "BoDean",
+      "children": [
+        {
+          "name": "BoDean Company",
+          "relationship": "alternate_spelling"
+        }
+      ]
+    },
+    {
+      "canonical": "Boston Common Asset Management",
+      "children": [
+        {
+          "name": "Boston Common Asset Management, LLC",
+          "relationship": "alternate_spelling"
+        }
+      ]
+    },
+    {
+      "canonical": "California Airedale Terrier Club",
+      "children": [
+        {
+          "name": "California Airedale Terrier Club Incorporated",
+          "relationship": "alternate_spelling"
+        }
+      ]
+    },
+    {
+      "canonical": "Coventry First",
+      "children": [
+        {
+          "name": "Coventry First LLC",
+          "relationship": "alternate_spelling"
+        }
+      ]
+    },
+    {
+      "canonical": "Covina Irrigating",
+      "children": [
+        {
+          "name": "Covina Irrigating Company",
+          "relationship": "alternate_spelling"
+        }
+      ]
+    },
+    {
+      "canonical": "Gan-Trans",
+      "children": [
+        {
+          "name": "Gan-Trans Ltd",
+          "relationship": "alternate_spelling"
+        }
+      ]
+    },
+    {
+      "canonical": "Invitae",
+      "children": [
+        {
+          "name": "Invitae Corporation",
+          "relationship": "alternate_spelling"
+        }
+      ]
+    },
+    {
+      "canonical": "Los Angeles Family Housing",
+      "children": [
+        {
+          "name": "Los Angeles Family Housing Corp",
+          "relationship": "alternate_spelling"
+        },
+        {
+          "name": "Los Angeles Family Housing Corporation",
+          "relationship": "alternate_spelling"
+        }
+      ]
+    },
+    {
+      "canonical": "Magma Power",
+      "children": [
+        {
+          "name": "Magma Power Company",
+          "relationship": "alternate_spelling"
+        },
+        {
+          "name": "Magma Power Co",
+          "relationship": "alternate_spelling"
+        }
+      ]
+    },
+    {
+      "canonical": "Mead",
+      "children": [
+        {
+          "name": "Mead Corporation",
+          "relationship": "alternate_spelling"
+        }
+      ]
+    },
+    {
+      "canonical": "Quallion",
+      "children": [
+        {
+          "name": "Quallion LLC",
+          "relationship": "alternate_spelling"
+        }
+      ]
+    },
+    {
+      "canonical": "Royal Electric",
+      "children": [
+        {
+          "name": "Royal Electric Co",
+          "relationship": "alternate_spelling"
+        }
+      ]
+    },
+    {
+      "canonical": "Sacred Purpose",
+      "children": [
+        {
+          "name": "Sacred Purpose LLC",
+          "relationship": "alternate_spelling"
+        }
+      ]
+    },
+    {
+      "canonical": "Santa Barbara Hemp",
+      "children": [
+        {
+          "name": "Santa Barbara Hemp Company",
+          "relationship": "alternate_spelling"
+        }
+      ]
+    },
+    {
+      "canonical": "SunBridge Healthcare",
+      "children": [
+        {
+          "name": "Sunbridge Healthcare Corporation",
+          "relationship": "alternate_spelling"
+        }
+      ]
+    },
+    {
+      "canonical": "TDC Environmental",
+      "children": [
+        {
+          "name": "TDC Environmental, LLC",
+          "relationship": "alternate_spelling"
+        }
+      ]
+    },
+    {
+      "canonical": "Terraverde Renewable Partners",
+      "children": [
+        {
+          "name": "TerraVerde Renewable Partners, LLC",
+          "relationship": "alternate_spelling"
+        }
+      ]
+    },
+    {
+      "canonical": "Aerojet",
+      "children": [
+        {
+          "name": "Aerojet Corporation",
+          "relationship": "alternate_spelling"
+        }
+      ]
+    },
+    {
+      "canonical": "Andersen Consulting",
+      "children": [
+        {
+          "name": "Andersen Consulting, LLP",
+          "relationship": "alternate_spelling"
+        }
+      ]
+    },
+    {
+      "canonical": "California Land Title",
+      "children": [
+        {
+          "name": "California Land Title Company",
+          "relationship": "alternate_spelling"
+        }
+      ]
+    },
+    {
+      "canonical": "Canopy Growth",
+      "children": [
+        {
+          "name": "Canopy Growth Corporation",
+          "relationship": "alternate_spelling"
+        }
+      ]
+    },
+    {
+      "canonical": "Cendant",
+      "children": [
+        {
+          "name": "Cendant Corporation",
+          "relationship": "alternate_spelling"
+        }
+      ]
+    },
+    {
+      "canonical": "Collins Electrical",
+      "children": [
+        {
+          "name": "Collins Electrical Company Inc",
+          "relationship": "alternate_spelling"
+        }
+      ]
+    },
+    {
+      "canonical": "Deloitte",
+      "children": [
+        {
+          "name": "Deloitte LLP",
+          "relationship": "alternate_spelling"
+        }
+      ]
+    },
+    {
+      "canonical": "First American Title",
+      "children": [
+        {
+          "name": "First American Title Company",
+          "relationship": "alternate_spelling"
+        },
+        {
+          "name": "First American Title Corporation",
+          "relationship": "alternate_spelling"
+        }
+      ]
+    },
+    {
+      "canonical": "Fremont General",
+      "children": [
+        {
+          "name": "Fremont General Corporation",
+          "relationship": "alternate_spelling"
+        }
+      ]
+    },
+    {
+      "canonical": "Justice First",
+      "children": [
+        {
+          "name": "Justice First LLP",
+          "relationship": "alternate_spelling"
+        }
+      ]
+    },
+    {
+      "canonical": "Lockheed",
+      "children": [
+        {
+          "name": "Lockheed Corporation",
+          "relationship": "alternate_spelling"
+        },
+        {
+          "name": "Lockheed Corp",
+          "relationship": "alternate_spelling"
+        }
+      ]
+    },
+    {
+      "canonical": "Merck-Medco Managed Care",
+      "children": [
+        {
+          "name": "Merck-Medco Managed Care, LLC",
+          "relationship": "alternate_spelling"
+        }
+      ]
+    },
+    {
+      "canonical": "NatureWorks",
+      "children": [
+        {
+          "name": "Natureworks, LLC",
+          "relationship": "alternate_spelling"
+        }
+      ]
+    },
+    {
+      "canonical": "Nuremberg 2.0",
+      "children": [
+        {
+          "name": "Nuremberg 2.0 Ltd",
+          "relationship": "alternate_spelling"
+        }
+      ]
+    },
+    {
+      "canonical": "San Joaquin Renewables",
+      "children": [
+        {
+          "name": "San Joaquin Renewables, LLC",
+          "relationship": "alternate_spelling"
+        }
+      ]
+    },
+    {
+      "canonical": "Shell Oil",
+      "children": [
+        {
+          "name": "Shell Oil Company",
+          "relationship": "alternate_spelling"
+        },
+        {
+          "name": "Shell Oil Co",
+          "relationship": "alternate_spelling"
+        }
+      ]
+    },
+    {
+      "canonical": "Southern California Disposal and Recycling",
+      "children": [
+        {
+          "name": "Southern California Disposal and Recycling Co Inc",
+          "relationship": "alternate_spelling"
+        },
+        {
+          "name": "Southern California Disposal and Recycling Company, Inc",
+          "relationship": "alternate_spelling"
+        }
+      ]
+    },
+    {
+      "canonical": "Usagain",
+      "children": [
+        {
+          "name": "USAgain, LLC",
+          "relationship": "alternate_spelling"
+        }
+      ]
+    },
+    {
+      "canonical": "AKT Development",
+      "children": [
+        {
+          "name": "AKT Development Corporation",
+          "relationship": "alternate_spelling"
+        }
+      ]
+    },
+    {
+      "canonical": "American Insurance",
+      "children": [
+        {
+          "name": "American Insurance Corporation",
+          "relationship": "alternate_spelling"
+        },
+        {
+          "name": "American Insurance Company",
+          "relationship": "alternate_spelling"
+        }
+      ]
+    },
+    {
+      "canonical": "Anaheim Ducks Hockey Club",
+      "children": [
+        {
+          "name": "Anaheim Ducks Hockey Club, LLC",
+          "relationship": "alternate_spelling"
+        }
+      ]
+    },
+    {
+      "canonical": "California Chapter of the American Fence",
+      "children": [
+        {
+          "name": "California Chapter of the American Fence Corporation",
+          "relationship": "alternate_spelling"
+        }
+      ]
+    },
+    {
+      "canonical": "Clean World Partners",
+      "children": [
+        {
+          "name": "Clean World Partners, LLC",
+          "relationship": "alternate_spelling"
+        }
+      ]
+    },
+    {
+      "canonical": "Coast Oil",
+      "children": [
+        {
+          "name": "Coast Oil Company",
+          "relationship": "alternate_spelling"
+        },
+        {
+          "name": "Coast Oil Company, LLC",
+          "relationship": "alternate_spelling"
+        }
+      ]
+    },
+    {
+      "canonical": "Debenham Energy",
+      "children": [
+        {
+          "name": "Debenham Energy LLC",
+          "relationship": "alternate_spelling"
+        }
+      ]
+    },
+    {
+      "canonical": "Design Avenues",
+      "children": [
+        {
+          "name": "Design Avenues LLC",
+          "relationship": "alternate_spelling"
+        }
+      ]
+    },
+    {
+      "canonical": "Dow Kokam",
+      "children": [
+        {
+          "name": "DOW KOKAM LLC",
+          "relationship": "alternate_spelling"
+        }
+      ]
+    },
+    {
+      "canonical": "Eagle Distributing",
+      "children": [
+        {
+          "name": "Eagle Distributing Company",
+          "relationship": "alternate_spelling"
+        },
+        {
+          "name": "Eagle Distributing Co",
+          "relationship": "alternate_spelling"
+        }
+      ]
+    },
+    {
+      "canonical": "EnergySource",
+      "children": [
+        {
+          "name": "EnergySource LLC",
+          "relationship": "alternate_spelling"
+        }
+      ]
+    },
+    {
+      "canonical": "Fremont Insurance",
+      "children": [
+        {
+          "name": "Fremont Insurance Company",
+          "relationship": "alternate_spelling"
+        }
+      ]
+    },
+    {
+      "canonical": "Granite Rock",
+      "children": [
+        {
+          "name": "Granite Rock Company",
+          "relationship": "alternate_spelling"
+        }
+      ]
+    },
+    {
+      "canonical": "Hathaway",
+      "children": [
+        {
+          "name": "Hathaway LLC",
+          "relationship": "alternate_spelling"
+        }
+      ]
+    },
+    {
+      "canonical": "Housing Leadership Council of San Mateo",
+      "children": [
+        {
+          "name": "Housing Leadership Council of San Mateo Co",
+          "relationship": "alternate_spelling"
+        }
+      ]
+    },
+    {
+      "canonical": "Kerman Telephone",
+      "children": [
+        {
+          "name": "Kerman Telephone Company",
+          "relationship": "alternate_spelling"
+        },
+        {
+          "name": "Kerman Telephone Co",
+          "relationship": "alternate_spelling"
+        }
+      ]
+    },
+    {
+      "canonical": "LSI Logic",
+      "children": [
+        {
+          "name": "LSI Logic Corporation",
+          "relationship": "alternate_spelling"
+        }
+      ]
+    },
+    {
+      "canonical": "National Ready Mixed Concrete",
+      "children": [
+        {
+          "name": "National Ready Mixed Concrete Company",
+          "relationship": "alternate_spelling"
+        },
+        {
+          "name": "National Ready Mixed Concrete Co",
+          "relationship": "alternate_spelling"
+        }
+      ]
+    },
+    {
+      "canonical": "Octel Communications",
+      "children": [
+        {
+          "name": "Octel Communications Corporation",
+          "relationship": "alternate_spelling"
+        }
+      ]
+    },
+    {
+      "canonical": "Pacifica",
+      "children": [
+        {
+          "name": "Pacifica, LLC",
+          "relationship": "alternate_spelling"
+        }
+      ]
+    },
+    {
+      "canonical": "Paramount Farming",
+      "children": [
+        {
+          "name": "Paramount Farming Company",
+          "relationship": "alternate_spelling"
+        }
+      ]
+    },
+    {
+      "canonical": "Pillsbury",
+      "children": [
+        {
+          "name": "Pillsbury Company",
+          "relationship": "alternate_spelling"
+        }
+      ]
+    },
+    {
+      "canonical": "Schnitzer Steel Products",
+      "children": [
+        {
+          "name": "Schnitzer Steel Products Co",
+          "relationship": "alternate_spelling"
+        }
+      ]
+    },
+    {
+      "canonical": "Straub Distributing",
+      "children": [
+        {
+          "name": "Straub Distributing Company",
+          "relationship": "alternate_spelling"
+        },
+        {
+          "name": "Straub Distributing Co",
+          "relationship": "alternate_spelling"
+        }
+      ]
+    },
+    {
+      "canonical": "Tenaska",
+      "children": [
+        {
+          "name": "Tenaska, Incorporated",
+          "relationship": "alternate_spelling"
+        }
+      ]
+    },
+    {
+      "canonical": "Tickpick",
+      "children": [
+        {
+          "name": "Tickpick, LLC",
+          "relationship": "alternate_spelling"
+        }
+      ]
+    },
+    {
+      "canonical": "Transamerica",
+      "children": [
+        {
+          "name": "Transamerica Corporation",
+          "relationship": "alternate_spelling"
+        },
+        {
+          "name": "Transamerica Corp",
+          "relationship": "alternate_spelling"
+        }
+      ]
+    },
+    {
+      "canonical": "Virgin Galactic",
+      "children": [
+        {
+          "name": "Virgin Galactic, LLC",
+          "relationship": "alternate_spelling"
+        }
+      ]
+    },
+    {
+      "canonical": "Association of Engineering Geologists",
+      "children": [
+        {
+          "name": "The Association of Engineering Geologists",
+          "relationship": "alternate_spelling"
+        }
+      ]
+    },
+    {
+      "canonical": "American Capitol Management",
+      "children": [
+        {
+          "name": "American Capitol Management Corporation",
+          "relationship": "alternate_spelling"
+        },
+        {
+          "name": "American Capitol Management Corp",
+          "relationship": "alternate_spelling"
+        }
+      ]
+    },
+    {
+      "canonical": "Anew Climate",
+      "children": [
+        {
+          "name": "Anew Climate LLC",
+          "relationship": "alternate_spelling"
+        }
+      ]
+    },
+    {
+      "canonical": "California Municipal Utilities",
+      "children": [
+        {
+          "name": "California Municipal Utilities Company",
+          "relationship": "alternate_spelling"
+        }
+      ]
+    },
+    {
+      "canonical": "Californians Against",
+      "children": [
+        {
+          "name": "Californians Against Corporation",
+          "relationship": "alternate_spelling"
+        }
+      ]
+    },
+    {
+      "canonical": "Champion Lumber",
+      "children": [
+        {
+          "name": "Champion Lumber Company",
+          "relationship": "alternate_spelling"
+        },
+        {
+          "name": "Champion Lumber Co",
+          "relationship": "alternate_spelling"
+        }
+      ]
+    },
+    {
+      "canonical": "Charles Schwab",
+      "children": [
+        {
+          "name": "Charles Schwab Co",
+          "relationship": "alternate_spelling"
+        },
+        {
+          "name": "Charles Schwab Company",
+          "relationship": "alternate_spelling"
+        },
+        {
+          "name": "Charles Schwab Corporation",
+          "relationship": "alternate_spelling"
+        }
+      ]
+    },
+    {
+      "canonical": "ClearEdge Power",
+      "children": [
+        {
+          "name": "ClearEdge Power, LLC",
+          "relationship": "alternate_spelling"
+        }
+      ]
+    },
+    {
+      "canonical": "Cornerstone Environmental Group",
+      "children": [
+        {
+          "name": "Cornerstone Environmental Group, LLC",
+          "relationship": "alternate_spelling"
+        }
+      ]
+    },
+    {
+      "canonical": "Crowley Maritime",
+      "children": [
+        {
+          "name": "Crowley Maritime Corporation",
+          "relationship": "alternate_spelling"
+        }
+      ]
+    },
+    {
+      "canonical": "Deloitte and Touche",
+      "children": [
+        {
+          "name": "Deloitte and Touche LLP",
+          "relationship": "alternate_spelling"
+        }
+      ]
+    },
+    {
+      "canonical": "EnerVault",
+      "children": [
+        {
+          "name": "EnerVault Corporation",
+          "relationship": "alternate_spelling"
+        }
+      ]
+    },
+    {
+      "canonical": "Enterprise Rent a Car",
+      "children": [
+        {
+          "name": "Enterprise Rent A Car Company",
+          "relationship": "alternate_spelling"
+        }
+      ]
+    },
+    {
+      "canonical": "First American Title Insurance",
+      "children": [
+        {
+          "name": "First American Title Insurance Company",
+          "relationship": "alternate_spelling"
+        }
+      ]
+    },
+    {
+      "canonical": "Fluor",
+      "children": [
+        {
+          "name": "Fluor Corporation",
+          "relationship": "alternate_spelling"
+        },
+        {
+          "name": "Fluor Corp",
+          "relationship": "alternate_spelling"
+        }
+      ]
+    },
+    {
+      "canonical": "Grant Thornton",
+      "children": [
+        {
+          "name": "Grant Thornton LLP",
+          "relationship": "alternate_spelling"
+        }
+      ]
+    },
+    {
+      "canonical": "H Cycle",
+      "children": [
+        {
+          "name": "H Cycle LLC",
+          "relationship": "alternate_spelling"
+        }
+      ]
+    },
+    {
+      "canonical": "IDEC Pharmaceuticals",
+      "children": [
+        {
+          "name": "IDEC Pharmaceuticals Corp",
+          "relationship": "alternate_spelling"
+        },
+        {
+          "name": "IDEC Pharmaceuticals Corporation",
+          "relationship": "alternate_spelling"
+        }
+      ]
+    },
+    {
+      "canonical": "Industrial Asphalt",
+      "children": [
+        {
+          "name": "Industrial Asphalt Company",
+          "relationship": "alternate_spelling"
+        }
+      ]
+    },
+    {
+      "canonical": "Jay Dee Transport",
+      "children": [
+        {
+          "name": "Jay Dee Transport Company",
+          "relationship": "alternate_spelling"
+        },
+        {
+          "name": "Jay Dee Transport Co",
+          "relationship": "alternate_spelling"
+        }
+      ]
+    },
+    {
+      "canonical": "JMA Ventures",
+      "children": [
+        {
+          "name": "JMA Ventures, LLC",
+          "relationship": "alternate_spelling"
+        }
+      ]
+    },
+    {
+      "canonical": "Montgomery Watson",
+      "children": [
+        {
+          "name": "Montgomery Watson Co",
+          "relationship": "alternate_spelling"
+        }
+      ]
+    },
+    {
+      "canonical": "Refill Madness",
+      "children": [
+        {
+          "name": "Refill Madness, LLC",
+          "relationship": "alternate_spelling"
+        }
+      ]
+    },
+    {
+      "canonical": "Sierra Pacific",
+      "children": [
+        {
+          "name": "Sierra Pacific Company",
+          "relationship": "alternate_spelling"
+        }
+      ]
+    },
+    {
+      "canonical": "Synergex International",
+      "children": [
+        {
+          "name": "Synergex International Corporation",
+          "relationship": "alternate_spelling"
+        }
+      ]
+    },
+    {
+      "canonical": "Viance",
+      "children": [
+        {
+          "name": "Viance, LLC",
+          "relationship": "alternate_spelling"
+        }
+      ]
+    },
+    {
+      "canonical": "Vivid Seats",
+      "children": [
+        {
+          "name": "Vivid Seats LLC",
+          "relationship": "alternate_spelling"
+        }
+      ]
+    },
+    {
+      "canonical": "Advance Disposal",
+      "children": [
+        {
+          "name": "Advance Disposal Co",
+          "relationship": "alternate_spelling"
+        },
+        {
+          "name": "Advance Disposal Company",
+          "relationship": "alternate_spelling"
+        }
+      ]
+    },
+    {
+      "canonical": "Agra Trading",
+      "children": [
+        {
+          "name": "Agra Trading, LLC",
+          "relationship": "alternate_spelling"
+        }
+      ]
+    },
+    {
+      "canonical": "American Capital Management",
+      "children": [
+        {
+          "name": "American Capital Management Corporation",
+          "relationship": "alternate_spelling"
+        }
+      ]
+    },
+    {
+      "canonical": "AmerisourceBergen",
+      "children": [
+        {
+          "name": "AmerisourceBergen Corporation",
+          "relationship": "alternate_spelling"
+        }
+      ]
+    },
+    {
+      "canonical": "Bullet Guard",
+      "children": [
+        {
+          "name": "Bullet Guard Corp",
+          "relationship": "alternate_spelling"
+        },
+        {
+          "name": "Bullet Guard Corporation",
+          "relationship": "alternate_spelling"
+        }
+      ]
+    },
+    {
+      "canonical": "California Casualty Management",
+      "children": [
+        {
+          "name": "California Casualty Management Co",
+          "relationship": "alternate_spelling"
+        },
+        {
+          "name": "California Casualty Management Company",
+          "relationship": "alternate_spelling"
+        }
+      ]
+    },
+    {
+      "canonical": "Cambridge Healthcare Management Services",
+      "children": [
+        {
+          "name": "Cambridge Healthcare Management Services, LLC",
+          "relationship": "alternate_spelling"
+        }
+      ]
+    },
+    {
+      "canonical": "Cat Clark Consulting Services",
+      "children": [
+        {
+          "name": "Cat Clark Consulting Services LLC",
+          "relationship": "alternate_spelling"
+        }
+      ]
+    },
+    {
+      "canonical": "Compass",
+      "children": [
+        {
+          "name": "Compass LLC",
+          "relationship": "alternate_spelling"
+        }
+      ]
+    },
+    {
+      "canonical": "Cytyc",
+      "children": [
+        {
+          "name": "Cytyc Corporation",
+          "relationship": "alternate_spelling"
+        }
+      ]
+    },
+    {
+      "canonical": "EnergySource Minerals",
+      "children": [
+        {
+          "name": "EnergySource Minerals LLC",
+          "relationship": "alternate_spelling"
+        }
+      ]
+    },
+    {
+      "canonical": "Golden Oak Cooperative",
+      "children": [
+        {
+          "name": "Golden Oak Cooperative Corporation",
+          "relationship": "alternate_spelling"
+        }
+      ]
+    },
+    {
+      "canonical": "Hershey Foods",
+      "children": [
+        {
+          "name": "Hershey Foods Corporation",
+          "relationship": "alternate_spelling"
+        }
+      ]
+    },
+    {
+      "canonical": "Hi-grade Materials",
+      "children": [
+        {
+          "name": "Hi-Grade Materials Company",
+          "relationship": "alternate_spelling"
+        },
+        {
+          "name": "Hi-Grade Materials Co",
+          "relationship": "alternate_spelling"
+        }
+      ]
+    },
+    {
+      "canonical": "Hydrogenics",
+      "children": [
+        {
+          "name": "Hydrogenics Corporation",
+          "relationship": "alternate_spelling"
+        }
+      ]
+    },
+    {
+      "canonical": "IHI Power Services",
+      "children": [
+        {
+          "name": "IHI Power Services Corp",
+          "relationship": "alternate_spelling"
+        }
+      ]
+    },
+    {
+      "canonical": "La Jolla Pharmaceutical",
+      "children": [
+        {
+          "name": "La Jolla Pharmaceutical Company",
+          "relationship": "alternate_spelling"
+        }
+      ]
+    },
+    {
+      "canonical": "Mammoth Mountain Ski Area",
+      "children": [
+        {
+          "name": "Mammoth Mountain Ski Area, LLC",
+          "relationship": "alternate_spelling"
+        }
+      ]
+    },
+    {
+      "canonical": "NGV Ecotrans Group",
+      "children": [
+        {
+          "name": "NGV Ecotrans Group, LLC",
+          "relationship": "alternate_spelling"
+        }
+      ]
+    },
+    {
+      "canonical": "Nickel Family",
+      "children": [
+        {
+          "name": "Nickel Family LLC",
+          "relationship": "alternate_spelling"
+        }
+      ]
+    },
+    {
+      "canonical": "Options for Youth",
+      "children": [
+        {
+          "name": "Options for Youth, Incorporated",
+          "relationship": "alternate_spelling"
+        }
+      ]
+    },
+    {
+      "canonical": "Orrick Herrington and Sutcliffe",
+      "children": [
+        {
+          "name": "Orrick Herrington and Sutcliffe, LLP",
+          "relationship": "alternate_spelling"
+        }
+      ]
+    },
+    {
+      "canonical": "Powerlight",
+      "children": [
+        {
+          "name": "PowerLight Corp",
+          "relationship": "alternate_spelling"
+        },
+        {
+          "name": "PowerLight Corporation",
+          "relationship": "alternate_spelling"
+        }
+      ]
+    },
+    {
+      "canonical": "Progressive Insurance",
+      "children": [
+        {
+          "name": "Progressive Insurance Company",
+          "relationship": "alternate_spelling"
+        }
+      ]
+    },
+    {
+      "canonical": "Rand",
+      "children": [
+        {
+          "name": "Rand Corporation",
+          "relationship": "alternate_spelling"
+        }
+      ]
+    },
+    {
+      "canonical": "Raychem",
+      "children": [
+        {
+          "name": "Raychem Corporation",
+          "relationship": "alternate_spelling"
+        }
+      ]
+    },
+    {
+      "canonical": "Roll International",
+      "children": [
+        {
+          "name": "Roll International Corporation",
+          "relationship": "alternate_spelling"
+        }
+      ]
+    },
+    {
+      "canonical": "Schering-Plough",
+      "children": [
+        {
+          "name": "Schering-Plough Corporation",
+          "relationship": "alternate_spelling"
+        }
+      ]
+    },
+    {
+      "canonical": "Siskiyou Telephone",
+      "children": [
+        {
+          "name": "Siskiyou Telephone Company",
+          "relationship": "alternate_spelling"
+        }
+      ]
+    },
+    {
+      "canonical": "Terra Tech",
+      "children": [
+        {
+          "name": "Terra Tech Corp",
+          "relationship": "alternate_spelling"
+        }
+      ]
+    },
+    {
+      "canonical": "Truform Construction",
+      "children": [
+        {
+          "name": "Truform Construction Corp",
+          "relationship": "alternate_spelling"
+        }
+      ]
+    },
+    {
+      "canonical": "Valley Farm Transport",
+      "children": [
+        {
+          "name": "Valley Farm Transport Corp",
+          "relationship": "alternate_spelling"
+        }
+      ]
+    },
+    {
+      "canonical": "Zevin Asset Management",
+      "children": [
+        {
+          "name": "Zevin Asset Management, LLC",
+          "relationship": "alternate_spelling"
+        }
+      ]
+    },
+    {
+      "canonical": "Aaron Read & Associates",
+      "children": [
+        {
+          "name": "Aaron Read & Associates LLC",
+          "relationship": "alternate_spelling"
+        }
+      ]
+    },
+    {
+      "canonical": "Alta Med Health Services",
+      "children": [
+        {
+          "name": "Alta Med Health Services Corporation",
+          "relationship": "alternate_spelling"
+        }
+      ]
+    },
+    {
+      "canonical": "Arrowhead Mountain Spring Water",
+      "children": [
+        {
+          "name": "Arrowhead Mountain Spring Water Co",
+          "relationship": "alternate_spelling"
+        }
+      ]
+    },
+    {
+      "canonical": "ASYRS Bridge",
+      "children": [
+        {
+          "name": "Asyrs Bridge LLC",
+          "relationship": "alternate_spelling"
+        }
+      ]
+    },
+    {
+      "canonical": "Atlas Heating and Air Conditioning",
+      "children": [
+        {
+          "name": "Atlas Heating and Air Conditioning Company",
+          "relationship": "alternate_spelling"
+        }
+      ]
+    },
+    {
+      "canonical": "Aypa Power Development",
+      "children": [
+        {
+          "name": "Aypa Power Development LLC",
+          "relationship": "alternate_spelling"
+        }
+      ]
+    },
+    {
+      "canonical": "Biofuels Energy",
+      "children": [
+        {
+          "name": "BioFuels Energy, LLC",
+          "relationship": "alternate_spelling"
+        }
+      ]
+    },
+    {
+      "canonical": "Boston Scientific",
+      "children": [
+        {
+          "name": "Boston Scientific Corp",
+          "relationship": "alternate_spelling"
+        }
+      ]
+    },
+    {
+      "canonical": "California-Oregon Telephone",
+      "children": [
+        {
+          "name": "California-Oregon Telephone Company",
+          "relationship": "alternate_spelling"
+        }
+      ]
+    },
+    {
+      "canonical": "Calistoga Mountain Spring Water",
+      "children": [
+        {
+          "name": "Calistoga Mountain Spring Water Co",
+          "relationship": "alternate_spelling"
+        }
+      ]
+    },
+    {
+      "canonical": "Carniceria Mi Mercadito",
+      "children": [
+        {
+          "name": "Carniceria Mi Mercadito LLC",
+          "relationship": "alternate_spelling"
+        }
+      ]
+    },
+    {
+      "canonical": "Chula Vista Electric",
+      "children": [
+        {
+          "name": "Chula Vista Electric Co",
+          "relationship": "alternate_spelling"
+        },
+        {
+          "name": "Chula Vista Electric Company",
+          "relationship": "alternate_spelling"
+        }
+      ]
+    },
+    {
+      "canonical": "CIBA-GEIGY",
+      "children": [
+        {
+          "name": "Ciba-Geigy Corporation",
+          "relationship": "alternate_spelling"
+        },
+        {
+          "name": "Ciba-Geigy Corp",
+          "relationship": "alternate_spelling"
+        }
+      ]
+    },
+    {
+      "canonical": "Del Webb California",
+      "children": [
+        {
+          "name": "Del Webb California Corporation",
+          "relationship": "alternate_spelling"
+        },
+        {
+          "name": "Del Webb California Corp",
+          "relationship": "alternate_spelling"
+        }
+      ]
+    },
+    {
+      "canonical": "Dynalectric",
+      "children": [
+        {
+          "name": "Dynalectric Company",
+          "relationship": "alternate_spelling"
+        }
+      ]
+    },
+    {
+      "canonical": "Green Mountain Energy",
+      "children": [
+        {
+          "name": "Green Mountain Energy Company",
+          "relationship": "alternate_spelling"
+        }
+      ]
+    },
+    {
+      "canonical": "Harbor Masters and Port Captains",
+      "children": [
+        {
+          "name": "Harbor Masters and Port Captains Incorporated",
+          "relationship": "alternate_spelling"
+        }
+      ]
+    },
+    {
+      "canonical": "Holdfast Aquaculture",
+      "children": [
+        {
+          "name": "Holdfast Aquaculture, LLC",
+          "relationship": "alternate_spelling"
+        }
+      ]
+    },
+    {
+      "canonical": "Input 1",
+      "children": [
+        {
+          "name": "Input 1, LLC",
+          "relationship": "alternate_spelling"
+        }
+      ]
+    },
+    {
+      "canonical": "Kern Oil & Refining",
+      "children": [
+        {
+          "name": "Kern Oil & Refining Co",
+          "relationship": "alternate_spelling"
+        },
+        {
+          "name": "Kern Oil & Refining Company",
+          "relationship": "alternate_spelling"
+        }
+      ]
+    },
+    {
+      "canonical": "Louisiana-Pacific",
+      "children": [
+        {
+          "name": "Louisiana-Pacific Corp",
+          "relationship": "alternate_spelling"
+        },
+        {
+          "name": "Louisiana-Pacific Company",
+          "relationship": "alternate_spelling"
+        },
+        {
+          "name": "Louisiana-Pacific Corporation",
+          "relationship": "alternate_spelling"
+        }
+      ]
+    },
+    {
+      "canonical": "MacLeod Ale Brewing",
+      "children": [
+        {
+          "name": "Macleod Ale Brewing Co",
+          "relationship": "alternate_spelling"
+        },
+        {
+          "name": "MacLeod Ale Brewing Company",
+          "relationship": "alternate_spelling"
+        }
+      ]
+    },
+    {
+      "canonical": "Midtown Spirits",
+      "children": [
+        {
+          "name": "Midtown Spirits, LLC",
+          "relationship": "alternate_spelling"
+        }
+      ]
+    },
+    {
+      "canonical": "Ming's Recycling",
+      "children": [
+        {
+          "name": "Ming's Recycling Corp",
+          "relationship": "alternate_spelling"
+        }
+      ]
+    },
+    {
+      "canonical": "NTT Software",
+      "children": [
+        {
+          "name": "NTT Software Corporation",
+          "relationship": "alternate_spelling"
+        }
+      ]
+    },
+    {
+      "canonical": "Orient Overseas Container Line",
+      "children": [
+        {
+          "name": "Orient Overseas Container Line Ltd",
+          "relationship": "alternate_spelling"
+        }
+      ]
+    },
+    {
+      "canonical": "Pajaro Valley Housing",
+      "children": [
+        {
+          "name": "Pajaro Valley Housing Corporation",
+          "relationship": "alternate_spelling"
+        }
+      ]
+    },
+    {
+      "canonical": "Rick Engineering",
+      "children": [
+        {
+          "name": "Rick Engineering Company",
+          "relationship": "alternate_spelling"
+        }
+      ]
+    },
+    {
+      "canonical": "Ringgold Distilling",
+      "children": [
+        {
+          "name": "Ringgold Distilling LLC",
+          "relationship": "alternate_spelling"
+        }
+      ]
+    },
+    {
+      "canonical": "Sherwin Williams",
+      "children": [
+        {
+          "name": "Sherwin Williams Company",
+          "relationship": "alternate_spelling"
+        }
+      ]
+    },
+    {
+      "canonical": "Sitos Group",
+      "children": [
+        {
+          "name": "Sitos Group, LLC",
+          "relationship": "alternate_spelling"
+        }
+      ]
+    },
+    {
+      "canonical": "Skadden, Arps, Slate, Meagher & Flom",
+      "children": [
+        {
+          "name": "Skadden, Arps, Slate, Meagher & Flom LLP",
+          "relationship": "alternate_spelling"
+        }
+      ]
+    },
+    {
+      "canonical": "Sprint",
+      "children": [
+        {
+          "name": "Sprint Corp",
+          "relationship": "alternate_spelling"
+        }
+      ]
+    },
+    {
+      "canonical": "Sustaina",
+      "children": [
+        {
+          "name": "Sustaina Company",
+          "relationship": "alternate_spelling"
+        }
+      ]
+    },
+    {
+      "canonical": "Terrahome",
+      "children": [
+        {
+          "name": "Terrahome, LLC",
+          "relationship": "alternate_spelling"
+        }
+      ]
+    },
+    {
+      "canonical": "Toyota Motor",
+      "children": [
+        {
+          "name": "Toyota Motor Company",
+          "relationship": "alternate_spelling"
+        },
+        {
+          "name": "Toyota Motor Corporation",
+          "relationship": "alternate_spelling"
+        }
+      ]
+    },
+    {
+      "canonical": "Warner-Lambert",
+      "children": [
+        {
+          "name": "Warner-Lambert Company",
+          "relationship": "alternate_spelling"
+        },
+        {
+          "name": "Warner-Lambert Co",
+          "relationship": "alternate_spelling"
+        }
+      ]
+    },
+    {
+      "canonical": "3Com",
+      "children": [
+        {
+          "name": "3Com Corporation",
+          "relationship": "alternate_spelling"
+        }
+      ]
+    },
+    {
+      "canonical": "Alliance of Chief Executives",
+      "children": [
+        {
+          "name": "Alliance of Chief Executives, LLC",
+          "relationship": "alternate_spelling"
+        }
+      ]
+    },
+    {
+      "canonical": "ARCO Products",
+      "children": [
+        {
+          "name": "Arco Products Company",
+          "relationship": "alternate_spelling"
+        }
+      ]
+    },
+    {
+      "canonical": "Beehive Technology Solutions",
+      "children": [
+        {
+          "name": "Beehive Technology Solutions LLC",
+          "relationship": "alternate_spelling"
+        }
+      ]
+    },
+    {
+      "canonical": "Blink Charging",
+      "children": [
+        {
+          "name": "Blink Charging Company",
+          "relationship": "alternate_spelling"
+        }
+      ]
+    },
+    {
+      "canonical": "Carrier",
+      "children": [
+        {
+          "name": "Carrier Corporation",
+          "relationship": "alternate_spelling"
+        }
+      ]
+    },
+    {
+      "canonical": "Case Pacific",
+      "children": [
+        {
+          "name": "Case Pacific Co",
+          "relationship": "alternate_spelling"
+        },
+        {
+          "name": "Case Pacific Company",
+          "relationship": "alternate_spelling"
+        }
+      ]
+    },
+    {
+      "canonical": "Compline",
+      "children": [
+        {
+          "name": "Compline LLC",
+          "relationship": "alternate_spelling"
+        }
+      ]
+    },
+    {
+      "canonical": "Creative Housing Associates",
+      "children": [
+        {
+          "name": "Creative Housing Associates LLC",
+          "relationship": "alternate_spelling"
+        }
+      ]
+    },
+    {
+      "canonical": "Daughters of Charity Ministry Services",
+      "children": [
+        {
+          "name": "Daughters of Charity Ministry Services Corporation",
+          "relationship": "alternate_spelling"
+        }
+      ]
+    },
+    {
+      "canonical": "Del Taco",
+      "children": [
+        {
+          "name": "Del Taco LLC",
+          "relationship": "alternate_spelling"
+        }
+      ]
+    },
+    {
+      "canonical": "Duende Consulting",
+      "children": [
+        {
+          "name": "Duende Consulting, LLC",
+          "relationship": "alternate_spelling"
+        }
+      ]
+    },
+    {
+      "canonical": "Edwards Lifesciences",
+      "children": [
+        {
+          "name": "Edwards Lifesciences LLC",
+          "relationship": "alternate_spelling"
+        }
+      ]
+    },
+    {
+      "canonical": "Eisenmann",
+      "children": [
+        {
+          "name": "Eisenmann Corp",
+          "relationship": "alternate_spelling"
+        },
+        {
+          "name": "Eisenmann Corporation",
+          "relationship": "alternate_spelling"
+        }
+      ]
+    },
+    {
+      "canonical": "Ernst and Young",
+      "children": [
+        {
+          "name": "Ernst and Young LLP",
+          "relationship": "alternate_spelling"
+        }
+      ]
+    },
+    {
+      "canonical": "Firefighters' Association",
+      "children": [
+        {
+          "name": "Firefighters' Association, Inc",
+          "relationship": "alternate_spelling"
+        }
+      ]
+    },
+    {
+      "canonical": "Great Western Financial",
+      "children": [
+        {
+          "name": "Great Western Financial Corporation",
+          "relationship": "alternate_spelling"
+        },
+        {
+          "name": "Great Western Financial Corp",
+          "relationship": "alternate_spelling"
+        }
+      ]
+    },
+    {
+      "canonical": "Harbor Distributing",
+      "children": [
+        {
+          "name": "Harbor Distributing LLC",
+          "relationship": "alternate_spelling"
+        }
+      ]
+    },
+    {
+      "canonical": "Jefferson Smurfit Corporation and Container",
+      "children": [
+        {
+          "name": "Jefferson Smurfit Corporation and Container Corporation",
+          "relationship": "alternate_spelling"
+        },
+        {
+          "name": "Jefferson Smurfit Corporation and Container Company",
+          "relationship": "alternate_spelling"
+        }
+      ]
+    },
+    {
+      "canonical": "Kohler",
+      "children": [
+        {
+          "name": "Kohler Co",
+          "relationship": "alternate_spelling"
+        },
+        {
+          "name": "Kohler Company",
+          "relationship": "alternate_spelling"
+        }
+      ]
+    },
+    {
+      "canonical": "KPA Realty",
+      "children": [
+        {
+          "name": "KPA Realty LLC",
+          "relationship": "alternate_spelling"
+        }
+      ]
+    },
+    {
+      "canonical": "Lamar Advertising",
+      "children": [
+        {
+          "name": "Lamar Advertising Company",
+          "relationship": "alternate_spelling"
+        }
+      ]
+    },
+    {
+      "canonical": "Lescure",
+      "children": [
+        {
+          "name": "Lescure Company Inc",
+          "relationship": "alternate_spelling"
+        }
+      ]
+    },
+    {
+      "canonical": "Linkedin",
+      "children": [
+        {
+          "name": "Linkedin Corporation",
+          "relationship": "alternate_spelling"
+        }
+      ]
+    },
+    {
+      "canonical": "Milestone Consulting",
+      "children": [
+        {
+          "name": "Milestone Consulting LLC",
+          "relationship": "alternate_spelling"
+        }
+      ]
+    },
+    {
+      "canonical": "Millennium Reign Energy",
+      "children": [
+        {
+          "name": "Millennium Reign Energy LLC",
+          "relationship": "alternate_spelling"
+        }
+      ]
+    },
+    {
+      "canonical": "Murphy's Bowl",
+      "children": [
+        {
+          "name": "Murphy's Bowl, LLC",
+          "relationship": "alternate_spelling"
+        }
+      ]
+    },
+    {
+      "canonical": "Natural Hydrogen Energy",
+      "children": [
+        {
+          "name": "Natural Hydrogen Energy LLC",
+          "relationship": "alternate_spelling"
+        }
+      ]
+    },
+    {
+      "canonical": "New York Life Insurance",
+      "children": [
+        {
+          "name": "New York Life Insurance Company",
+          "relationship": "alternate_spelling"
+        }
+      ]
+    },
+    {
+      "canonical": "Northern Recycling and Waste Services",
+      "children": [
+        {
+          "name": "Northern Recycling and Waste Services, LLC",
+          "relationship": "alternate_spelling"
+        }
+      ]
+    },
+    {
+      "canonical": "Paul Hastings",
+      "children": [
+        {
+          "name": "Paul Hastings LLP",
+          "relationship": "alternate_spelling"
+        }
+      ]
+    },
+    {
+      "canonical": "Paul, Hastings, Janofsky & Walker",
+      "children": [
+        {
+          "name": "Paul, Hastings, Janofsky & Walker LLP",
+          "relationship": "alternate_spelling"
+        }
+      ]
+    },
+    {
+      "canonical": "Performance Nursery",
+      "children": [
+        {
+          "name": "Performance Nursery Corp",
+          "relationship": "alternate_spelling"
+        }
+      ]
+    },
+    {
+      "canonical": "Republic Indemnity",
+      "children": [
+        {
+          "name": "Republic Indemnity Company",
+          "relationship": "alternate_spelling"
+        }
+      ]
+    },
+    {
+      "canonical": "Rex Halverson & Associates",
+      "children": [
+        {
+          "name": "Rex Halverson & Associates, LLC",
+          "relationship": "alternate_spelling"
+        }
+      ]
+    },
+    {
+      "canonical": "Sherwin-Williams",
+      "children": [
+        {
+          "name": "Sherwin-Williams Company",
+          "relationship": "alternate_spelling"
+        }
+      ]
+    },
+    {
+      "canonical": "Sister-to-sister 2",
+      "children": [
+        {
+          "name": "Sister-to-sister 2, Incorporated",
+          "relationship": "alternate_spelling"
+        }
+      ]
+    },
+    {
+      "canonical": "Solar Millennium",
+      "children": [
+        {
+          "name": "Solar Millennium, LLC",
+          "relationship": "alternate_spelling"
+        }
+      ]
+    },
+    {
+      "canonical": "Stewart Title",
+      "children": [
+        {
+          "name": "Stewart Title Co",
+          "relationship": "alternate_spelling"
+        },
+        {
+          "name": "Stewart Title Company",
+          "relationship": "alternate_spelling"
+        }
+      ]
+    },
+    {
+      "canonical": "Unwired",
+      "children": [
+        {
+          "name": "Unwired Ltd",
+          "relationship": "alternate_spelling"
+        }
+      ]
+    },
+    {
+      "canonical": "Westlands Solar Park",
+      "children": [
+        {
+          "name": "Westlands Solar Park, LLC",
+          "relationship": "alternate_spelling"
+        }
+      ]
+    },
+    {
+      "canonical": "A.O. Smith",
+      "children": [
+        {
+          "name": "A.O. Smith Corporation",
+          "relationship": "alternate_spelling"
+        }
+      ]
+    },
+    {
+      "canonical": "Adapt Construction",
+      "children": [
+        {
+          "name": "Adapt Construction Company",
+          "relationship": "alternate_spelling"
+        }
+      ]
+    },
+    {
+      "canonical": "Agile Turbine Technology",
+      "children": [
+        {
+          "name": "Agile Turbine Technology LLC",
+          "relationship": "alternate_spelling"
+        }
+      ]
+    },
+    {
+      "canonical": "Air Methods",
+      "children": [
+        {
+          "name": "Air Methods Corporation",
+          "relationship": "alternate_spelling"
+        }
+      ]
+    },
+    {
+      "canonical": "AmeriSpec",
+      "children": [
+        {
+          "name": "Amerispec Company",
+          "relationship": "alternate_spelling"
+        }
+      ]
+    },
+    {
+      "canonical": "Angelica",
+      "children": [
+        {
+          "name": "Angelica Corporation",
+          "relationship": "alternate_spelling"
+        }
+      ]
+    },
+    {
+      "canonical": "Aon",
+      "children": [
+        {
+          "name": "AON Corporation",
+          "relationship": "alternate_spelling"
+        }
+      ]
+    },
+    {
+      "canonical": "Association of California Life & Health Insurance",
+      "children": [
+        {
+          "name": "Association of California Life & Health Insurance Co",
+          "relationship": "alternate_spelling"
+        }
+      ]
+    },
+    {
+      "canonical": "Barney & Barney",
+      "children": [
+        {
+          "name": "Barney & Barney, LLC",
+          "relationship": "alternate_spelling"
+        }
+      ]
+    },
+    {
+      "canonical": "Bayer US",
+      "children": [
+        {
+          "name": "Bayer US LLC",
+          "relationship": "alternate_spelling"
+        }
+      ]
+    },
+    {
+      "canonical": "Calportland Construction",
+      "children": [
+        {
+          "name": "CalPortland Construction Company",
+          "relationship": "alternate_spelling"
+        }
+      ]
+    },
+    {
+      "canonical": "Chandler Farms",
+      "children": [
+        {
+          "name": "Chandler Farms, LP",
+          "relationship": "alternate_spelling"
+        }
+      ]
+    },
+    {
+      "canonical": "Climate Ready Solutions",
+      "children": [
+        {
+          "name": "Climate Ready Solutions LLC",
+          "relationship": "alternate_spelling"
+        }
+      ]
+    },
+    {
+      "canonical": "CNA Insurance",
+      "children": [
+        {
+          "name": "CNA Insurance Company",
+          "relationship": "alternate_spelling"
+        },
+        {
+          "name": "CNA Insurance Co",
+          "relationship": "alternate_spelling"
+        }
+      ]
+    },
+    {
+      "canonical": "Coast Roof",
+      "children": [
+        {
+          "name": "Coast Roof Company Inc",
+          "relationship": "alternate_spelling"
+        }
+      ]
+    },
+    {
+      "canonical": "Coastal",
+      "children": [
+        {
+          "name": "Coastal Corporation",
+          "relationship": "alternate_spelling"
+        }
+      ]
+    },
+    {
+      "canonical": "Dunn-Edwards",
+      "children": [
+        {
+          "name": "Dunn-Edwards Corporation",
+          "relationship": "alternate_spelling"
+        }
+      ]
+    },
+    {
+      "canonical": "East Bay Sanitary",
+      "children": [
+        {
+          "name": "East Bay Sanitary Co",
+          "relationship": "alternate_spelling"
+        },
+        {
+          "name": "East Bay Sanitary Company, Inc",
+          "relationship": "alternate_spelling"
+        }
+      ]
+    },
+    {
+      "canonical": "Educational Field Studies",
+      "children": [
+        {
+          "name": "Educational Field Studies, Inc",
+          "relationship": "alternate_spelling"
+        }
+      ]
+    },
+    {
+      "canonical": "FedEx",
+      "children": [
+        {
+          "name": "FedEx Corporation",
+          "relationship": "alternate_spelling"
+        }
+      ]
+    },
+    {
+      "canonical": "Global Steel Products",
+      "children": [
+        {
+          "name": "Global Steel Products Corp",
+          "relationship": "alternate_spelling"
+        }
+      ]
+    },
+    {
+      "canonical": "Kesar and Cardi",
+      "children": [
+        {
+          "name": "Kesar and Cardi LLC",
+          "relationship": "alternate_spelling"
+        }
+      ]
+    },
+    {
+      "canonical": "Kimberly Clark",
+      "children": [
+        {
+          "name": "Kimberly Clark Corporation",
+          "relationship": "alternate_spelling"
+        }
+      ]
+    },
+    {
+      "canonical": "Land Utilization Trust",
+      "children": [
+        {
+          "name": "Land Utilization Trust, Incorporated",
+          "relationship": "alternate_spelling"
+        }
+      ]
+    },
+    {
+      "canonical": "Majestic Insurance",
+      "children": [
+        {
+          "name": "Majestic Insurance Company",
+          "relationship": "alternate_spelling"
+        }
+      ]
+    },
+    {
+      "canonical": "McDermott & Clawson",
+      "children": [
+        {
+          "name": "McDermott & Clawson, LLP",
+          "relationship": "alternate_spelling"
+        }
+      ]
+    },
+    {
+      "canonical": "Michael Sullivan & Associates",
+      "children": [
+        {
+          "name": "Michael Sullivan & Associates, LLC",
+          "relationship": "alternate_spelling"
+        }
+      ]
+    },
+    {
+      "canonical": "Mirant",
+      "children": [
+        {
+          "name": "Mirant Corporation",
+          "relationship": "alternate_spelling"
+        }
+      ]
+    },
+    {
+      "canonical": "Mission Motors",
+      "children": [
+        {
+          "name": "Mission Motors Company",
+          "relationship": "alternate_spelling"
+        }
+      ]
+    },
+    {
+      "canonical": "Mission Oil",
+      "children": [
+        {
+          "name": "Mission Oil Company",
+          "relationship": "alternate_spelling"
+        },
+        {
+          "name": "Mission Oil Co",
+          "relationship": "alternate_spelling"
+        }
+      ]
+    },
+    {
+      "canonical": "Mobile Modular",
+      "children": [
+        {
+          "name": "Mobile Modular Corporation",
+          "relationship": "alternate_spelling"
+        }
+      ]
+    },
+    {
+      "canonical": "Muni Services",
+      "children": [
+        {
+          "name": "Muni Services, LLC",
+          "relationship": "alternate_spelling"
+        }
+      ]
+    },
+    {
+      "canonical": "Noble Americas Energy Solutions",
+      "children": [
+        {
+          "name": "Noble Americas Energy Solutions LLC",
+          "relationship": "alternate_spelling"
+        }
+      ]
+    },
+    {
+      "canonical": "North American Chemical",
+      "children": [
+        {
+          "name": "North American Chemical Company",
+          "relationship": "alternate_spelling"
+        },
+        {
+          "name": "North American Chemical Co",
+          "relationship": "alternate_spelling"
+        }
+      ]
+    },
+    {
+      "canonical": "Nossaman, Guthner, Knox & Elliott",
+      "children": [
+        {
+          "name": "Nossaman, Guthner, Knox & Elliott, LLP",
+          "relationship": "alternate_spelling"
+        }
+      ]
+    },
+    {
+      "canonical": "Oakland Commerce",
+      "children": [
+        {
+          "name": "Oakland Commerce Corporation",
+          "relationship": "alternate_spelling"
+        }
+      ]
+    },
+    {
+      "canonical": "Pacific Coast Roofing",
+      "children": [
+        {
+          "name": "Pacific Coast Roofing Corp",
+          "relationship": "alternate_spelling"
+        }
+      ]
+    },
+    {
+      "canonical": "Phillips Petroleum",
+      "children": [
+        {
+          "name": "Phillips Petroleum Company",
+          "relationship": "alternate_spelling"
+        }
+      ]
+    },
+    {
+      "canonical": "Productive Finance",
+      "children": [
+        {
+          "name": "Productive Finance Co",
+          "relationship": "alternate_spelling"
+        }
+      ]
+    },
+    {
+      "canonical": "S.J. Amoroso Construction",
+      "children": [
+        {
+          "name": "S.J. Amoroso Construction Co",
+          "relationship": "alternate_spelling"
+        }
+      ]
+    },
+    {
+      "canonical": "Sierra Pine",
+      "children": [
+        {
+          "name": "Sierra Pine Ltd",
+          "relationship": "alternate_spelling"
+        }
+      ]
+    },
+    {
+      "canonical": "Sonoco Products",
+      "children": [
+        {
+          "name": "Sonoco Products Company",
+          "relationship": "alternate_spelling"
+        }
+      ]
+    },
+    {
+      "canonical": "Sunset Publishing",
+      "children": [
+        {
+          "name": "Sunset Publishing Corporation",
+          "relationship": "alternate_spelling"
+        }
+      ]
+    },
+    {
+      "canonical": "Superior Ready Mix Concrete",
+      "children": [
+        {
+          "name": "Superior Ready Mix Concrete LP",
+          "relationship": "alternate_spelling"
+        }
+      ]
+    },
+    {
+      "canonical": "The First American Corporation and Nationwide Insurance",
+      "children": [
+        {
+          "name": "The First American Corporation and Nationwide Insurance Company",
+          "relationship": "alternate_spelling"
+        }
+      ]
+    },
+    {
+      "canonical": "United Oil",
+      "children": [
+        {
+          "name": "United Oil Company",
+          "relationship": "alternate_spelling"
+        }
+      ]
+    },
+    {
+      "canonical": "UTC Power",
+      "children": [
+        {
+          "name": "UTC Power Corporation",
+          "relationship": "alternate_spelling"
+        }
+      ]
+    },
+    {
+      "canonical": "Walters Management",
+      "children": [
+        {
+          "name": "Walters Management Company",
+          "relationship": "alternate_spelling"
+        }
+      ]
+    },
+    {
+      "canonical": "Waste to Energy",
+      "children": [
+        {
+          "name": "Waste to Energy, LLC",
+          "relationship": "alternate_spelling"
+        }
+      ]
+    },
+    {
+      "canonical": "Weiss Sheet Metal",
+      "children": [
+        {
+          "name": "Weiss Sheet Metal Co",
+          "relationship": "alternate_spelling"
+        }
+      ]
+    },
+    {
+      "canonical": "Wintec Energy",
+      "children": [
+        {
+          "name": "Wintec Energy, Ltd",
+          "relationship": "alternate_spelling"
+        }
+      ]
+    },
+    {
+      "canonical": "City Manager",
+      "children": [
+        {
+          "name": "the City Manager",
+          "relationship": "alternate_spelling"
+        }
+      ]
+    },
+    {
+      "canonical": "ABM Industries",
+      "children": [
+        {
+          "name": "ABM Industries Incorporated",
+          "relationship": "alternate_spelling"
+        }
+      ]
+    },
+    {
+      "canonical": "Ambika Law",
+      "children": [
+        {
+          "name": "Ambika Law, PC",
+          "relationship": "alternate_spelling"
+        }
+      ]
+    },
+    {
+      "canonical": "Apex",
+      "children": [
+        {
+          "name": "Apex, LLC",
+          "relationship": "alternate_spelling"
+        }
+      ]
+    },
+    {
+      "canonical": "ASL Presents",
+      "children": [
+        {
+          "name": "ASL Presents LLC",
+          "relationship": "alternate_spelling"
+        }
+      ]
+    },
+    {
+      "canonical": "Beaumont",
+      "children": [
+        {
+          "name": "Beaumont Company",
+          "relationship": "alternate_spelling"
+        }
+      ]
+    },
+    {
+      "canonical": "Bridge Back",
+      "children": [
+        {
+          "name": "Bridge Back Limited, Inc",
+          "relationship": "alternate_spelling"
+        }
+      ]
+    },
+    {
+      "canonical": "Brokaw Nursery",
+      "children": [
+        {
+          "name": "Brokaw Nursery, LLC",
+          "relationship": "alternate_spelling"
+        }
+      ]
+    },
+    {
+      "canonical": "California Bioenergy",
+      "children": [
+        {
+          "name": "California Bioenergy LLC",
+          "relationship": "alternate_spelling"
+        }
+      ]
+    },
+    {
+      "canonical": "California Southern Small Business Development",
+      "children": [
+        {
+          "name": "California Southern Small Business Development Corporation",
+          "relationship": "alternate_spelling"
+        }
+      ]
+    },
+    {
+      "canonical": "Callaway Golf",
+      "children": [
+        {
+          "name": "Callaway Golf Company",
+          "relationship": "alternate_spelling"
+        }
+      ]
+    },
+    {
+      "canonical": "Chicago Title",
+      "children": [
+        {
+          "name": "Chicago Title Company",
+          "relationship": "alternate_spelling"
+        }
+      ]
+    },
+    {
+      "canonical": "Comcast Cable",
+      "children": [
+        {
+          "name": "Comcast Cable Corporation",
+          "relationship": "alternate_spelling"
+        }
+      ]
+    },
+    {
+      "canonical": "Cook Erectors Cordova Glass",
+      "children": [
+        {
+          "name": "Cook Erectors Cordova Glass Co",
+          "relationship": "alternate_spelling"
+        }
+      ]
+    },
+    {
+      "canonical": "Crimson Renewable Energy",
+      "children": [
+        {
+          "name": "Crimson Renewable Energy, LP",
+          "relationship": "alternate_spelling"
+        }
+      ]
+    },
+    {
+      "canonical": "Dean Foods",
+      "children": [
+        {
+          "name": "Dean Foods Company",
+          "relationship": "alternate_spelling"
+        }
+      ]
+    },
+    {
+      "canonical": "Del Mar Law Group",
+      "children": [
+        {
+          "name": "Del Mar Law Group, LLP",
+          "relationship": "alternate_spelling"
+        }
+      ]
+    },
+    {
+      "canonical": "Direct Air Conditioning",
+      "children": [
+        {
+          "name": "Direct Air Conditioning Corporation",
+          "relationship": "alternate_spelling"
+        }
+      ]
+    },
+    {
+      "canonical": "Eaton",
+      "children": [
+        {
+          "name": "Eaton Corporation",
+          "relationship": "alternate_spelling"
+        }
+      ]
+    },
+    {
+      "canonical": "El Camino Surgery Center",
+      "children": [
+        {
+          "name": "El Camino Surgery Center, LLC",
+          "relationship": "alternate_spelling"
+        }
+      ]
+    },
+    {
+      "canonical": "Electrical Services",
+      "children": [
+        {
+          "name": "Electrical Services Co",
+          "relationship": "alternate_spelling"
+        },
+        {
+          "name": "Electrical Services Company",
+          "relationship": "alternate_spelling"
+        }
+      ]
+    },
+    {
+      "canonical": "Electrify America",
+      "children": [
+        {
+          "name": "Electrify America, LLC",
+          "relationship": "alternate_spelling"
+        }
+      ]
+    },
+    {
+      "canonical": "Evgo Services",
+      "children": [
+        {
+          "name": "Evgo Services Llc",
+          "relationship": "alternate_spelling"
+        }
+      ]
+    },
+    {
+      "canonical": "Fender Musical Instruments",
+      "children": [
+        {
+          "name": "Fender Musical Instruments Corporation",
+          "relationship": "alternate_spelling"
+        }
+      ]
+    },
+    {
+      "canonical": "Figshare",
+      "children": [
+        {
+          "name": "Figshare LLP",
+          "relationship": "alternate_spelling"
+        }
+      ]
+    },
+    {
+      "canonical": "Forward Financing",
+      "children": [
+        {
+          "name": "Forward Financing, LLC",
+          "relationship": "alternate_spelling"
+        }
+      ]
+    },
+    {
+      "canonical": "Frank Schipper Construction",
+      "children": [
+        {
+          "name": "Frank Schipper Construction Co",
+          "relationship": "alternate_spelling"
+        }
+      ]
+    },
+    {
+      "canonical": "Georgia Pacific",
+      "children": [
+        {
+          "name": "Georgia Pacific Corporation",
+          "relationship": "alternate_spelling"
+        },
+        {
+          "name": "Georgia Pacific Corp",
+          "relationship": "alternate_spelling"
+        }
+      ]
+    },
+    {
+      "canonical": "Hydrex Pest Control",
+      "children": [
+        {
+          "name": "Hydrex Pest Control Company",
+          "relationship": "alternate_spelling"
+        }
+      ]
+    },
+    {
+      "canonical": "I Drive Safely",
+      "children": [
+        {
+          "name": "I Drive Safely, L.L.C",
+          "relationship": "alternate_spelling"
+        }
+      ]
+    },
+    {
+      "canonical": "Impco Technologies",
+      "children": [
+        {
+          "name": "IMPCO Technologies Incorporated",
+          "relationship": "alternate_spelling"
+        }
+      ]
+    },
+    {
+      "canonical": "Ingersoll-Rand",
+      "children": [
+        {
+          "name": "Ingersoll-Rand Corporation",
+          "relationship": "alternate_spelling"
+        }
+      ]
+    },
+    {
+      "canonical": "JCPenney",
+      "children": [
+        {
+          "name": "JCPenney Company",
+          "relationship": "alternate_spelling"
+        }
+      ]
+    },
+    {
+      "canonical": "Larson & Gaston",
+      "children": [
+        {
+          "name": "Larson & Gaston, LLP",
+          "relationship": "alternate_spelling"
+        }
+      ]
+    },
+    {
+      "canonical": "Lilly USA",
+      "children": [
+        {
+          "name": "Lilly USA, LLC",
+          "relationship": "alternate_spelling"
+        }
+      ]
+    },
+    {
+      "canonical": "Los Angeles Cold Storage",
+      "children": [
+        {
+          "name": "Los Angeles Cold Storage Company",
+          "relationship": "alternate_spelling"
+        },
+        {
+          "name": "Los Angeles Cold Storage Co",
+          "relationship": "alternate_spelling"
+        }
+      ]
+    },
+    {
+      "canonical": "McCuen Properties",
+      "children": [
+        {
+          "name": "McCuen Properties LLC",
+          "relationship": "alternate_spelling"
+        }
+      ]
+    },
+    {
+      "canonical": "Modesto Junk",
+      "children": [
+        {
+          "name": "Modesto Junk Co",
+          "relationship": "alternate_spelling"
+        },
+        {
+          "name": "Modesto Junk Company, Inc",
+          "relationship": "alternate_spelling"
+        }
+      ]
+    },
+    {
+      "canonical": "Nossaman, Guthner, Knox & Elliot",
+      "children": [
+        {
+          "name": "Nossaman, Guthner, Knox & Elliot, LLP",
+          "relationship": "alternate_spelling"
+        }
+      ]
+    },
+    {
+      "canonical": "PABCO Paper",
+      "children": [
+        {
+          "name": "Pabco Paper Company",
+          "relationship": "alternate_spelling"
+        }
+      ]
+    },
+    {
+      "canonical": "Pacific Solar",
+      "children": [
+        {
+          "name": "Pacific Solar Company",
+          "relationship": "alternate_spelling"
+        }
+      ]
+    },
+    {
+      "canonical": "Paradigm Tax Group",
+      "children": [
+        {
+          "name": "Paradigm Tax Group, LLC",
+          "relationship": "alternate_spelling"
+        }
+      ]
+    },
+    {
+      "canonical": "Pionetics",
+      "children": [
+        {
+          "name": "Pionetics Corporation",
+          "relationship": "alternate_spelling"
+        }
+      ]
+    },
+    {
+      "canonical": "POM Wonderful",
+      "children": [
+        {
+          "name": "POM Wonderful LLC",
+          "relationship": "alternate_spelling"
+        }
+      ]
+    },
+    {
+      "canonical": "Pro Elections",
+      "children": [
+        {
+          "name": "Pro Elections LLC",
+          "relationship": "alternate_spelling"
+        }
+      ]
+    },
+    {
+      "canonical": "Progressive Surface Solutions",
+      "children": [
+        {
+          "name": "Progressive Surface Solutions LLC",
+          "relationship": "alternate_spelling"
+        }
+      ]
+    },
+    {
+      "canonical": "Prudent Energy",
+      "children": [
+        {
+          "name": "Prudent Energy Corporation",
+          "relationship": "alternate_spelling"
+        }
+      ]
+    },
+    {
+      "canonical": "Regreen",
+      "children": [
+        {
+          "name": "ReGreen Corp",
+          "relationship": "alternate_spelling"
+        }
+      ]
+    },
+    {
+      "canonical": "River Distributing",
+      "children": [
+        {
+          "name": "River Distributing Company",
+          "relationship": "alternate_spelling"
+        }
+      ]
+    },
+    {
+      "canonical": "Roche Diagnostics",
+      "children": [
+        {
+          "name": "Roche Diagnostics Corporation",
+          "relationship": "alternate_spelling"
+        }
+      ]
+    },
+    {
+      "canonical": "Roseville Telephone",
+      "children": [
+        {
+          "name": "Roseville Telephone Company",
+          "relationship": "alternate_spelling"
+        }
+      ]
+    },
+    {
+      "canonical": "Royal Service A/C",
+      "children": [
+        {
+          "name": "Royal Service A/C Corp",
+          "relationship": "alternate_spelling"
+        }
+      ]
+    },
+    {
+      "canonical": "Roycroft Funding",
+      "children": [
+        {
+          "name": "Roycroft Funding LLC",
+          "relationship": "alternate_spelling"
+        }
+      ]
+    },
+    {
+      "canonical": "San Diego Regional Economic",
+      "children": [
+        {
+          "name": "San Diego Regional Economic Corporation",
+          "relationship": "alternate_spelling"
+        }
+      ]
+    },
+    {
+      "canonical": "San Joaquin Valley Energy Partners",
+      "children": [
+        {
+          "name": "San Joaquin Valley Energy Partners, L.P",
+          "relationship": "alternate_spelling"
+        }
+      ]
+    },
+    {
+      "canonical": "Sheppard Mullin Richter & Hampton",
+      "children": [
+        {
+          "name": "Sheppard Mullin Richter & Hampton LLP",
+          "relationship": "alternate_spelling"
+        }
+      ]
+    },
+    {
+      "canonical": "Sun World International",
+      "children": [
+        {
+          "name": "Sun World International, LLC",
+          "relationship": "alternate_spelling"
+        }
+      ]
+    },
+    {
+      "canonical": "The Campbell Group",
+      "children": [
+        {
+          "name": "The Campbell Group LLC",
+          "relationship": "alternate_spelling"
+        }
+      ]
+    },
+    {
+      "canonical": "Ultramar Diamond Shamrock",
+      "children": [
+        {
+          "name": "Ultramar Diamond Shamrock Corp",
+          "relationship": "alternate_spelling"
+        }
+      ]
+    },
+    {
+      "canonical": "Union Oil",
+      "children": [
+        {
+          "name": "Union Oil Company",
+          "relationship": "alternate_spelling"
+        }
+      ]
+    },
+    {
+      "canonical": "USAA Insurance",
+      "children": [
+        {
+          "name": "USAA Insurance Co",
+          "relationship": "alternate_spelling"
+        }
+      ]
+    },
+    {
+      "canonical": "uTax Software",
+      "children": [
+        {
+          "name": "uTax Software, LLC",
+          "relationship": "alternate_spelling"
+        }
+      ]
+    },
+    {
+      "canonical": "Ahola Clinic",
+      "children": [
+        {
+          "name": "Ahola Clinic Corp",
+          "relationship": "alternate_spelling"
+        }
+      ]
+    },
+    {
+      "canonical": "Alta Hospitals System",
+      "children": [
+        {
+          "name": "Alta Hospitals System, LLC",
+          "relationship": "alternate_spelling"
+        }
+      ]
+    },
+    {
+      "canonical": "Amsurg",
+      "children": [
+        {
+          "name": "AmSurg Corp",
+          "relationship": "alternate_spelling"
+        }
+      ]
+    },
+    {
+      "canonical": "Appallicious",
+      "children": [
+        {
+          "name": "Appallicious, LLC",
+          "relationship": "alternate_spelling"
+        }
+      ]
+    },
+    {
+      "canonical": "Artemis Water Strategy",
+      "children": [
+        {
+          "name": "Artemis Water Strategy, LLC",
+          "relationship": "alternate_spelling"
+        }
+      ]
+    },
+    {
+      "canonical": "Atlas",
+      "children": [
+        {
+          "name": "Atlas Corporation",
+          "relationship": "alternate_spelling"
+        }
+      ]
+    },
+    {
+      "canonical": "Auto Supply",
+      "children": [
+        {
+          "name": "Auto Supply Company",
+          "relationship": "alternate_spelling"
+        }
+      ]
+    },
+    {
+      "canonical": "Axiom",
+      "children": [
+        {
+          "name": "Axiom Corporation",
+          "relationship": "alternate_spelling"
+        }
+      ]
+    },
+    {
+      "canonical": "Baxter Health Care",
+      "children": [
+        {
+          "name": "Baxter Health Care Corporation",
+          "relationship": "alternate_spelling"
+        },
+        {
+          "name": "Baxter Health Care Corp",
+          "relationship": "alternate_spelling"
+        }
+      ]
+    },
+    {
+      "canonical": "Bechtel",
+      "children": [
+        {
+          "name": "Bechtel Corporation",
+          "relationship": "alternate_spelling"
+        }
+      ]
+    },
+    {
+      "canonical": "Boundless Boat Charters",
+      "children": [
+        {
+          "name": "Boundless Boat Charters, LLC",
+          "relationship": "alternate_spelling"
+        }
+      ]
+    },
+    {
+      "canonical": "Bradley",
+      "children": [
+        {
+          "name": "Bradley Corporation",
+          "relationship": "alternate_spelling"
+        }
+      ]
+    },
+    {
+      "canonical": "Bulletin Displays",
+      "children": [
+        {
+          "name": "Bulletin Displays, LLC",
+          "relationship": "alternate_spelling"
+        }
+      ]
+    },
+    {
+      "canonical": "California Tile",
+      "children": [
+        {
+          "name": "California Tile Company",
+          "relationship": "alternate_spelling"
+        }
+      ]
+    },
+    {
+      "canonical": "Cambridge Credit Counseling",
+      "children": [
+        {
+          "name": "Cambridge Credit Counseling Corporation",
+          "relationship": "alternate_spelling"
+        }
+      ]
+    },
+    {
+      "canonical": "Cholestech",
+      "children": [
+        {
+          "name": "Cholestech Corporation",
+          "relationship": "alternate_spelling"
+        }
+      ]
+    },
+    {
+      "canonical": "City/County Association of Governments of San Mateo",
+      "children": [
+        {
+          "name": "City/County Association of Governments of San Mateo Co",
+          "relationship": "alternate_spelling"
+        }
+      ]
+    },
+    {
+      "canonical": "Clean Fund",
+      "children": [
+        {
+          "name": "Clean Fund LLC",
+          "relationship": "alternate_spelling"
+        }
+      ]
+    },
+    {
+      "canonical": "Common Sense Media",
+      "children": [
+        {
+          "name": "Common Sense Media co",
+          "relationship": "alternate_spelling"
+        }
+      ]
+    },
+    {
+      "canonical": "Complete Building Maintenance",
+      "children": [
+        {
+          "name": "Complete Building Maintenance Company",
+          "relationship": "alternate_spelling"
+        }
+      ]
+    },
+    {
+      "canonical": "Cpi",
+      "children": [
+        {
+          "name": "CPI Corporation",
+          "relationship": "alternate_spelling"
+        }
+      ]
+    },
+    {
+      "canonical": "Crenshaw Die and Manufacturing",
+      "children": [
+        {
+          "name": "Crenshaw Die and Manufacturing Corporation",
+          "relationship": "alternate_spelling"
+        }
+      ]
+    },
+    {
+      "canonical": "Currie Tech",
+      "children": [
+        {
+          "name": "Currie Tech Corporation",
+          "relationship": "alternate_spelling"
+        }
+      ]
+    },
+    {
+      "canonical": "Dish Network",
+      "children": [
+        {
+          "name": "Dish Network, LLC",
+          "relationship": "alternate_spelling"
+        },
+        {
+          "name": "DISH Network Corporation",
+          "relationship": "alternate_spelling"
+        }
+      ]
+    },
+    {
+      "canonical": "Eastman Kodak",
+      "children": [
+        {
+          "name": "Eastman Kodak Company",
+          "relationship": "alternate_spelling"
+        }
+      ]
+    },
+    {
+      "canonical": "Educating Marissa",
+      "children": [
+        {
+          "name": "Educating Marissa, LLC",
+          "relationship": "alternate_spelling"
+        }
+      ]
+    },
+    {
+      "canonical": "Falcon Cable Systems",
+      "children": [
+        {
+          "name": "Falcon Cable Systems Company",
+          "relationship": "alternate_spelling"
+        }
+      ]
+    },
+    {
+      "canonical": "Found Oyster",
+      "children": [
+        {
+          "name": "Found Oyster LLC",
+          "relationship": "alternate_spelling"
+        }
+      ]
+    },
+    {
+      "canonical": "Frey Vineyards",
+      "children": [
+        {
+          "name": "Frey Vineyards, Ltd",
+          "relationship": "alternate_spelling"
+        }
+      ]
+    },
+    {
+      "canonical": "Gibson, Dunn & Crutcher",
+      "children": [
+        {
+          "name": "Gibson, Dunn & Crutcher LLP",
+          "relationship": "alternate_spelling"
+        }
+      ]
+    },
+    {
+      "canonical": "Golden State Clean Energy",
+      "children": [
+        {
+          "name": "Golden State Clean Energy LLC",
+          "relationship": "alternate_spelling"
+        }
+      ]
+    },
+    {
+      "canonical": "Green Rush Consulting",
+      "children": [
+        {
+          "name": "Green Rush Consulting LLC",
+          "relationship": "alternate_spelling"
+        }
+      ]
+    },
+    {
+      "canonical": "Gregory Canyon Landfill",
+      "children": [
+        {
+          "name": "Gregory Canyon Landfill, LLC",
+          "relationship": "alternate_spelling"
+        }
+      ]
+    },
+    {
+      "canonical": "Grubb & Ellis",
+      "children": [
+        {
+          "name": "Grubb & Ellis Company",
+          "relationship": "alternate_spelling"
+        }
+      ]
+    },
+    {
+      "canonical": "Hazard Construction",
+      "children": [
+        {
+          "name": "Hazard Construction Company",
+          "relationship": "alternate_spelling"
+        }
+      ]
+    },
+    {
+      "canonical": "Hoffman",
+      "children": [
+        {
+          "name": "Hoffman Company",
+          "relationship": "alternate_spelling"
+        },
+        {
+          "name": "Hoffman Corporation",
+          "relationship": "alternate_spelling"
+        }
+      ]
+    },
+    {
+      "canonical": "Hughes Electronics",
+      "children": [
+        {
+          "name": "Hughes Electronics Corporation",
+          "relationship": "alternate_spelling"
+        }
+      ]
+    },
+    {
+      "canonical": "Humboldt Sun Growers Guild",
+      "children": [
+        {
+          "name": "Humboldt Sun Growers Guild, LLC",
+          "relationship": "alternate_spelling"
+        }
+      ]
+    },
+    {
+      "canonical": "Investigative Lead",
+      "children": [
+        {
+          "name": "Investigative Lead, LLC",
+          "relationship": "alternate_spelling"
+        }
+      ]
+    },
+    {
+      "canonical": "Justice at Work Law Group",
+      "children": [
+        {
+          "name": "Justice at Work Law Group, LLP",
+          "relationship": "alternate_spelling"
+        }
+      ]
+    },
+    {
+      "canonical": "KYA Services",
+      "children": [
+        {
+          "name": "KYA Services LLC",
+          "relationship": "alternate_spelling"
+        }
+      ]
+    },
+    {
+      "canonical": "Larwin",
+      "children": [
+        {
+          "name": "Larwin Company",
+          "relationship": "alternate_spelling"
+        }
+      ]
+    },
+    {
+      "canonical": "Loeb & Loeb",
+      "children": [
+        {
+          "name": "Loeb & Loeb, LLP",
+          "relationship": "alternate_spelling"
+        }
+      ]
+    },
+    {
+      "canonical": "Macerich",
+      "children": [
+        {
+          "name": "Macerich Company",
+          "relationship": "alternate_spelling"
+        }
+      ]
+    },
+    {
+      "canonical": "Magna Entertainment",
+      "children": [
+        {
+          "name": "Magna Entertainment Corporation",
+          "relationship": "alternate_spelling"
+        }
+      ]
+    },
+    {
+      "canonical": "Market Value Partners",
+      "children": [
+        {
+          "name": "Market Value Partners Company",
+          "relationship": "alternate_spelling"
+        }
+      ]
+    },
+    {
+      "canonical": "Morrow Renewables",
+      "children": [
+        {
+          "name": "Morrow Renewables, LLC",
+          "relationship": "alternate_spelling"
+        }
+      ]
+    },
+    {
+      "canonical": "Moss Adams",
+      "children": [
+        {
+          "name": "Moss Adams LLP",
+          "relationship": "alternate_spelling"
+        }
+      ]
+    },
+    {
+      "canonical": "Mountain Valley Express",
+      "children": [
+        {
+          "name": "Mountain Valley Express Co",
+          "relationship": "alternate_spelling"
+        }
+      ]
+    },
+    {
+      "canonical": "Multifamily Utility",
+      "children": [
+        {
+          "name": "Multifamily Utility Company",
+          "relationship": "alternate_spelling"
+        }
+      ]
+    },
+    {
+      "canonical": "Munger, Tolles & Olson",
+      "children": [
+        {
+          "name": "Munger, Tolles & Olson LLP",
+          "relationship": "alternate_spelling"
+        }
+      ]
+    },
+    {
+      "canonical": "National Gypsum",
+      "children": [
+        {
+          "name": "National Gypsum Company",
+          "relationship": "alternate_spelling"
+        }
+      ]
+    },
+    {
+      "canonical": "NEAL Electric",
+      "children": [
+        {
+          "name": "Neal Electric Corp",
+          "relationship": "alternate_spelling"
+        }
+      ]
+    },
+    {
+      "canonical": "OneSun",
+      "children": [
+        {
+          "name": "OneSun LLC",
+          "relationship": "alternate_spelling"
+        }
+      ]
+    },
+    {
+      "canonical": "Onsite Energy",
+      "children": [
+        {
+          "name": "Onsite Energy Company",
+          "relationship": "alternate_spelling"
+        }
+      ]
+    },
+    {
+      "canonical": "Open Canopy",
+      "children": [
+        {
+          "name": "Open Canopy, LLC",
+          "relationship": "alternate_spelling"
+        }
+      ]
+    },
+    {
+      "canonical": "Panthera",
+      "children": [
+        {
+          "name": "Panthera Corporation",
+          "relationship": "alternate_spelling"
+        }
+      ]
+    },
+    {
+      "canonical": "Paramount Petroleum",
+      "children": [
+        {
+          "name": "Paramount Petroleum Company",
+          "relationship": "alternate_spelling"
+        }
+      ]
+    },
+    {
+      "canonical": "Peace Action of San Mateo",
+      "children": [
+        {
+          "name": "Peace Action of San Mateo Co",
+          "relationship": "alternate_spelling"
+        }
+      ]
+    },
+    {
+      "canonical": "Phoenix Accounting",
+      "children": [
+        {
+          "name": "Phoenix Accounting Corporation",
+          "relationship": "alternate_spelling"
+        }
+      ]
+    },
+    {
+      "canonical": "Prometheus Fire Consulting",
+      "children": [
+        {
+          "name": "Prometheus Fire Consulting, LLC",
+          "relationship": "alternate_spelling"
+        }
+      ]
+    },
+    {
+      "canonical": "Renewable Natural Gas",
+      "children": [
+        {
+          "name": "Renewable Natural Gas Company, LLC",
+          "relationship": "alternate_spelling"
+        },
+        {
+          "name": "Renewable Natural Gas Company",
+          "relationship": "alternate_spelling"
+        }
+      ]
+    },
+    {
+      "canonical": "San Fernando Gardens Resident Management",
+      "children": [
+        {
+          "name": "San Fernando Gardens Resident Management Corporation",
+          "relationship": "alternate_spelling"
+        }
+      ]
+    },
+    {
+      "canonical": "Solar Wind Storage",
+      "children": [
+        {
+          "name": "Solar Wind Storage, LLC",
+          "relationship": "alternate_spelling"
+        }
+      ]
+    },
+    {
+      "canonical": "Solyndra",
+      "children": [
+        {
+          "name": "Solyndra LLC",
+          "relationship": "alternate_spelling"
+        }
+      ]
+    },
+    {
+      "canonical": "Somerford",
+      "children": [
+        {
+          "name": "Somerford Corporation",
+          "relationship": "alternate_spelling"
+        },
+        {
+          "name": "Somerford Corp",
+          "relationship": "alternate_spelling"
+        }
+      ]
+    },
+    {
+      "canonical": "Southern CA Edison",
+      "children": [
+        {
+          "name": "Southern CA Edison Co",
+          "relationship": "alternate_spelling"
+        },
+        {
+          "name": "Southern CA Edison Company",
+          "relationship": "alternate_spelling"
+        }
+      ]
+    },
+    {
+      "canonical": "Summit Alliance Executive Benefits",
+      "children": [
+        {
+          "name": "Summit Alliance Executive Benefits, LLC",
+          "relationship": "alternate_spelling"
+        }
+      ]
+    },
+    {
+      "canonical": "Sysco",
+      "children": [
+        {
+          "name": "Sysco Corporation",
+          "relationship": "alternate_spelling"
+        }
+      ]
+    },
+    {
+      "canonical": "Tostie Productions",
+      "children": [
+        {
+          "name": "Tostie Productions, LLC",
+          "relationship": "alternate_spelling"
+        }
+      ]
+    },
+    {
+      "canonical": "Tricor Refining",
+      "children": [
+        {
+          "name": "Tricor Refining LLC",
+          "relationship": "alternate_spelling"
+        }
+      ]
+    },
+    {
+      "canonical": "United Rock Products",
+      "children": [
+        {
+          "name": "United Rock Products Corporation",
+          "relationship": "alternate_spelling"
+        }
+      ]
+    },
+    {
+      "canonical": "Western States Oil",
+      "children": [
+        {
+          "name": "Western States Oil Co",
+          "relationship": "alternate_spelling"
+        }
+      ]
+    },
+    {
+      "canonical": "Woodland Biomass Power",
+      "children": [
+        {
+          "name": "Woodland Biomass Power, Ltd",
+          "relationship": "alternate_spelling"
+        }
+      ]
+    },
+    {
+      "canonical": "Yuba-Sutter Economic Development",
+      "children": [
+        {
+          "name": "Yuba-Sutter Economic Development Corporation",
+          "relationship": "alternate_spelling"
+        }
+      ]
+    },
+    {
+      "canonical": "Accenture",
+      "children": [
+        {
+          "name": "Accenture, LLP",
+          "relationship": "alternate_spelling"
+        }
+      ]
+    },
+    {
+      "canonical": "AES Southland",
+      "children": [
+        {
+          "name": "AES Southland, LLC",
+          "relationship": "alternate_spelling"
+        }
+      ]
+    },
+    {
+      "canonical": "Airport Working Group of Orange County",
+      "children": [
+        {
+          "name": "Airport Working Group of Orange County Incorporated",
+          "relationship": "alternate_spelling"
+        }
+      ]
+    },
+    {
+      "canonical": "Alameda County Bar Association Volunteer Legal Services",
+      "children": [
+        {
+          "name": "Alameda County Bar Association Volunteer Legal Services Corporation",
+          "relationship": "alternate_spelling"
+        }
+      ]
+    },
+    {
+      "canonical": "American Licorice",
+      "children": [
+        {
+          "name": "American Licorice Company",
+          "relationship": "alternate_spelling"
+        }
+      ]
+    },
+    {
+      "canonical": "American National Can",
+      "children": [
+        {
+          "name": "American National Can Company",
+          "relationship": "alternate_spelling"
+        }
+      ]
+    },
+    {
+      "canonical": "American Rat Terrier Rescue",
+      "children": [
+        {
+          "name": "American Rat Terrier Rescue Corp",
+          "relationship": "alternate_spelling"
+        }
+      ]
+    },
+    {
+      "canonical": "American Vanadium",
+      "children": [
+        {
+          "name": "American Vanadium Corp",
+          "relationship": "alternate_spelling"
+        }
+      ]
+    },
+    {
+      "canonical": "American Water",
+      "children": [
+        {
+          "name": "American Water Company",
+          "relationship": "alternate_spelling"
+        }
+      ]
+    },
+    {
+      "canonical": "Anaergia Services",
+      "children": [
+        {
+          "name": "Anaergia Services, LLC",
+          "relationship": "alternate_spelling"
+        }
+      ]
+    },
+    {
+      "canonical": "Anchor Brewing",
+      "children": [
+        {
+          "name": "Anchor Brewing Co",
+          "relationship": "alternate_spelling"
+        },
+        {
+          "name": "Anchor Brewing Company",
+          "relationship": "alternate_spelling"
+        }
+      ]
+    },
+    {
+      "canonical": "Angels Baseball",
+      "children": [
+        {
+          "name": "Angels Baseball LP",
+          "relationship": "alternate_spelling"
+        }
+      ]
+    },
+    {
+      "canonical": "Arizona & California Railroad",
+      "children": [
+        {
+          "name": "Arizona & California Railroad Company",
+          "relationship": "alternate_spelling"
+        }
+      ]
+    },
+    {
+      "canonical": "Bay Alarm",
+      "children": [
+        {
+          "name": "Bay Alarm Company",
+          "relationship": "alternate_spelling"
+        }
+      ]
+    },
+    {
+      "canonical": "Blackstone Gaming",
+      "children": [
+        {
+          "name": "Blackstone Gaming, LLC",
+          "relationship": "alternate_spelling"
+        }
+      ]
+    },
+    {
+      "canonical": "Blue Font Recycling",
+      "children": [
+        {
+          "name": "Blue Font Recycling, Co",
+          "relationship": "alternate_spelling"
+        }
+      ]
+    },
+    {
+      "canonical": "Breathe WEHO Treatment Services",
+      "children": [
+        {
+          "name": "Breathe Weho Treatment Services, LLC",
+          "relationship": "alternate_spelling"
+        }
+      ]
+    },
+    {
+      "canonical": "Burnett & Sons Planing Mill and Lumber",
+      "children": [
+        {
+          "name": "Burnett & Sons Planing Mill and Lumber Co",
+          "relationship": "alternate_spelling"
+        }
+      ]
+    },
+    {
+      "canonical": "California Bail Agents",
+      "children": [
+        {
+          "name": "California Bail Agents Corporation",
+          "relationship": "alternate_spelling"
+        }
+      ]
+    },
+    {
+      "canonical": "California Chapter of American Fence",
+      "children": [
+        {
+          "name": "California Chapter of American Fence Corporation",
+          "relationship": "alternate_spelling"
+        }
+      ]
+    },
+    {
+      "canonical": "California Northern Railroad",
+      "children": [
+        {
+          "name": "California Northern Railroad Company",
+          "relationship": "alternate_spelling"
+        }
+      ]
+    },
+    {
+      "canonical": "California Water Services",
+      "children": [
+        {
+          "name": "California Water Services Company",
+          "relationship": "alternate_spelling"
+        }
+      ]
+    },
+    {
+      "canonical": "Capital Vision Equities",
+      "children": [
+        {
+          "name": "Capital Vision Equities LLC",
+          "relationship": "alternate_spelling"
+        }
+      ]
+    },
+    {
+      "canonical": "Capitol Advocacy",
+      "children": [
+        {
+          "name": "Capitol Advocacy, LLC",
+          "relationship": "alternate_spelling"
+        }
+      ]
+    },
+    {
+      "canonical": "CareCounsel",
+      "children": [
+        {
+          "name": "CareCounsel, LLC",
+          "relationship": "alternate_spelling"
+        }
+      ]
+    },
+    {
+      "canonical": "CASTCO",
+      "children": [
+        {
+          "name": "CASTCO Corporation",
+          "relationship": "alternate_spelling"
+        }
+      ]
+    },
+    {
+      "canonical": "Cell Crete",
+      "children": [
+        {
+          "name": "Cell Crete Corporation",
+          "relationship": "alternate_spelling"
+        }
+      ]
+    },
+    {
+      "canonical": "CertainTeed",
+      "children": [
+        {
+          "name": "CertainTeed Corporation",
+          "relationship": "alternate_spelling"
+        }
+      ]
+    },
+    {
+      "canonical": "Chevron Chemical",
+      "children": [
+        {
+          "name": "Chevron Chemical Company",
+          "relationship": "alternate_spelling"
+        }
+      ]
+    },
+    {
+      "canonical": "Chevron Oil",
+      "children": [
+        {
+          "name": "Chevron Oil Company",
+          "relationship": "alternate_spelling"
+        },
+        {
+          "name": "Chevron Oil Corporation",
+          "relationship": "alternate_spelling"
+        }
+      ]
+    },
+    {
+      "canonical": "Clark Neubert",
+      "children": [
+        {
+          "name": "Clark Neubert LLP",
+          "relationship": "alternate_spelling"
+        }
+      ]
+    },
+    {
+      "canonical": "Consolidated Transportation Service Agency of Placer",
+      "children": [
+        {
+          "name": "Consolidated Transportation Service Agency of Placer Co",
+          "relationship": "alternate_spelling"
+        }
+      ]
+    },
+    {
+      "canonical": "COSM Films",
+      "children": [
+        {
+          "name": "Cosm Films, LLC",
+          "relationship": "alternate_spelling"
+        }
+      ]
+    },
+    {
+      "canonical": "Costa",
+      "children": [
+        {
+          "name": "Costa Co",
+          "relationship": "alternate_spelling"
+        }
+      ]
+    },
+    {
+      "canonical": "Direct Marketing",
+      "children": [
+        {
+          "name": "Direct Marketing Corporation",
+          "relationship": "alternate_spelling"
+        }
+      ]
+    },
+    {
+      "canonical": "Direct Network Access",
+      "children": [
+        {
+          "name": "Direct Network Access, Ltd",
+          "relationship": "alternate_spelling"
+        }
+      ]
+    },
+    {
+      "canonical": "Domini Impact Investments",
+      "children": [
+        {
+          "name": "Domini Impact Investments LLC",
+          "relationship": "alternate_spelling"
+        }
+      ]
+    },
+    {
+      "canonical": "Don Celillo Electric",
+      "children": [
+        {
+          "name": "Don Celillo Electric Company",
+          "relationship": "alternate_spelling"
+        }
+      ]
+    },
+    {
+      "canonical": "Elizabeth Arden",
+      "children": [
+        {
+          "name": "Elizabeth Arden Company",
+          "relationship": "alternate_spelling"
+        }
+      ]
+    },
+    {
+      "canonical": "Enova",
+      "children": [
+        {
+          "name": "ENOVA Corp",
+          "relationship": "alternate_spelling"
+        },
+        {
+          "name": "Enova Corporation",
+          "relationship": "alternate_spelling"
+        }
+      ]
+    },
+    {
+      "canonical": "Evans Roofing",
+      "children": [
+        {
+          "name": "Evans Roofing Company Inc",
+          "relationship": "alternate_spelling"
+        }
+      ]
+    },
+    {
+      "canonical": "Evensol",
+      "children": [
+        {
+          "name": "Evensol LLC",
+          "relationship": "alternate_spelling"
+        }
+      ]
+    },
+    {
+      "canonical": "Exatec",
+      "children": [
+        {
+          "name": "Exatec, LLC",
+          "relationship": "alternate_spelling"
+        }
+      ]
+    },
+    {
+      "canonical": "FileNet",
+      "children": [
+        {
+          "name": "FileNet Corporation",
+          "relationship": "alternate_spelling"
+        }
+      ]
+    },
+    {
+      "canonical": "Flying U Rodeo",
+      "children": [
+        {
+          "name": "Flying U Rodeo Company",
+          "relationship": "alternate_spelling"
+        }
+      ]
+    },
+    {
+      "canonical": "Forward Dining Solutions",
+      "children": [
+        {
+          "name": "Forward Dining Solutions LLC",
+          "relationship": "alternate_spelling"
+        }
+      ]
+    },
+    {
+      "canonical": "Foundation Health",
+      "children": [
+        {
+          "name": "Foundation Health Corp",
+          "relationship": "alternate_spelling"
+        }
+      ]
+    },
+    {
+      "canonical": "Green Diamond Resources",
+      "children": [
+        {
+          "name": "Green Diamond Resources Company",
+          "relationship": "alternate_spelling"
+        }
+      ]
+    },
+    {
+      "canonical": "Greenberg Traurig",
+      "children": [
+        {
+          "name": "Greenberg Traurig LLP",
+          "relationship": "alternate_spelling"
+        }
+      ]
+    },
+    {
+      "canonical": "Greensmith Energy Management Systems",
+      "children": [
+        {
+          "name": "Greensmith Energy Management Systems, LLC",
+          "relationship": "alternate_spelling"
+        }
+      ]
+    },
+    {
+      "canonical": "Greenwell Group",
+      "children": [
+        {
+          "name": "Greenwell Group LLC",
+          "relationship": "alternate_spelling"
+        }
+      ]
+    },
+    {
+      "canonical": "Greyhound",
+      "children": [
+        {
+          "name": "Greyhound Corporation",
+          "relationship": "alternate_spelling"
+        }
+      ]
+    },
+    {
+      "canonical": "GTECH",
+      "children": [
+        {
+          "name": "GTECH Corporation",
+          "relationship": "alternate_spelling"
+        }
+      ]
+    },
+    {
+      "canonical": "Hilex Poly",
+      "children": [
+        {
+          "name": "Hilex Poly Co",
+          "relationship": "alternate_spelling"
+        }
+      ]
+    },
+    {
+      "canonical": "Hillwood",
+      "children": [
+        {
+          "name": "Hillwood Corporation",
+          "relationship": "alternate_spelling"
+        }
+      ]
+    },
+    {
+      "canonical": "Homeland Security Management",
+      "children": [
+        {
+          "name": "Homeland Security Management, LLC",
+          "relationship": "alternate_spelling"
+        }
+      ]
+    },
+    {
+      "canonical": "Horizon Construction",
+      "children": [
+        {
+          "name": "Horizon Construction Company",
+          "relationship": "alternate_spelling"
+        }
+      ]
+    },
+    {
+      "canonical": "Humane Society of Napa County",
+      "children": [
+        {
+          "name": "Humane Society of Napa County, Incorporated",
+          "relationship": "alternate_spelling"
+        }
+      ]
+    },
+    {
+      "canonical": "IMP Electrical & Automation Solutions",
+      "children": [
+        {
+          "name": "Imp Electrical & Automation Solutions, LLC",
+          "relationship": "alternate_spelling"
+        }
+      ]
+    },
+    {
+      "canonical": "Kinder Morgan Energy Partners",
+      "children": [
+        {
+          "name": "Kinder Morgan Energy Partners, LLP",
+          "relationship": "alternate_spelling"
+        }
+      ]
+    },
+    {
+      "canonical": "Kraft Heinz",
+      "children": [
+        {
+          "name": "Kraft Heinz Company",
+          "relationship": "alternate_spelling"
+        }
+      ]
+    },
+    {
+      "canonical": "Kyoto Fusioneering America",
+      "children": [
+        {
+          "name": "Kyoto Fusioneering America Ltd",
+          "relationship": "alternate_spelling"
+        }
+      ]
+    },
+    {
+      "canonical": "Lapolt Law",
+      "children": [
+        {
+          "name": "LaPolt Law, P.C",
+          "relationship": "alternate_spelling"
+        }
+      ]
+    },
+    {
+      "canonical": "Leyline Renewable Energy",
+      "children": [
+        {
+          "name": "Leyline Renewable Energy LLC",
+          "relationship": "alternate_spelling"
+        }
+      ]
+    },
+    {
+      "canonical": "Lorillard Tobacco",
+      "children": [
+        {
+          "name": "Lorillard Tobacco Company",
+          "relationship": "alternate_spelling"
+        },
+        {
+          "name": "Lorillard Tobacco Corporation",
+          "relationship": "alternate_spelling"
+        }
+      ]
+    },
+    {
+      "canonical": "LVDSDCA",
+      "children": [
+        {
+          "name": "Lvdsdca, LLC",
+          "relationship": "alternate_spelling"
+        }
+      ]
+    },
+    {
+      "canonical": "Master Financial",
+      "children": [
+        {
+          "name": "Master Financial Incorporated",
+          "relationship": "alternate_spelling"
+        }
+      ]
+    },
+    {
+      "canonical": "Mead Johnson Nutritionals, a Bristol-Myers Squibb",
+      "children": [
+        {
+          "name": "Mead Johnson Nutritionals, a Bristol-Myers Squibb Company",
+          "relationship": "alternate_spelling"
+        }
+      ]
+    },
+    {
+      "canonical": "Meta Housing",
+      "children": [
+        {
+          "name": "Meta Housing Corporation",
+          "relationship": "alternate_spelling"
+        }
+      ]
+    },
+    {
+      "canonical": "Metalclad Insulation",
+      "children": [
+        {
+          "name": "Metalclad Insulation Corporation",
+          "relationship": "alternate_spelling"
+        }
+      ]
+    },
+    {
+      "canonical": "MSG Forum",
+      "children": [
+        {
+          "name": "MSG Forum LLC",
+          "relationship": "alternate_spelling"
+        }
+      ]
+    },
+    {
+      "canonical": "National Day of the Cowboy",
+      "children": [
+        {
+          "name": "National Day of the Cowboy Corporation",
+          "relationship": "alternate_spelling"
+        }
+      ]
+    },
+    {
+      "canonical": "Nettleton Strategies",
+      "children": [
+        {
+          "name": "Nettleton Strategies, LLC",
+          "relationship": "alternate_spelling"
+        }
+      ]
+    },
+    {
+      "canonical": "Noble Realty",
+      "children": [
+        {
+          "name": "Noble Realty Company",
+          "relationship": "alternate_spelling"
+        }
+      ]
+    },
+    {
+      "canonical": "Northrup Grumman",
+      "children": [
+        {
+          "name": "Northrup Grumman Corp",
+          "relationship": "alternate_spelling"
+        },
+        {
+          "name": "Northrup Grumman Corporation",
+          "relationship": "alternate_spelling"
+        }
+      ]
+    },
+    {
+      "canonical": "Pacific World",
+      "children": [
+        {
+          "name": "Pacific World Corporation",
+          "relationship": "alternate_spelling"
+        }
+      ]
+    },
+    {
+      "canonical": "Parker Hannifin",
+      "children": [
+        {
+          "name": "Parker Hannifin Corporation",
+          "relationship": "alternate_spelling"
+        }
+      ]
+    },
+    {
+      "canonical": "Paulson Manufacturing",
+      "children": [
+        {
+          "name": "Paulson Manufacturing Corporation",
+          "relationship": "alternate_spelling"
+        }
+      ]
+    },
+    {
+      "canonical": "Philips Lighting",
+      "children": [
+        {
+          "name": "Philips Lighting Company",
+          "relationship": "alternate_spelling"
+        }
+      ]
+    },
+    {
+      "canonical": "Physicians Mutual Insurance",
+      "children": [
+        {
+          "name": "Physicians Mutual Insurance Company",
+          "relationship": "alternate_spelling"
+        }
+      ]
+    },
+    {
+      "canonical": "Plant Construction",
+      "children": [
+        {
+          "name": "PLANT Construction Company, L.P",
+          "relationship": "alternate_spelling"
+        }
+      ]
+    },
+    {
+      "canonical": "Plomero",
+      "children": [
+        {
+          "name": "Plomero Corporation",
+          "relationship": "alternate_spelling"
+        }
+      ]
+    },
+    {
+      "canonical": "Polaroid",
+      "children": [
+        {
+          "name": "Polaroid Corporation",
+          "relationship": "alternate_spelling"
+        }
+      ]
+    },
+    {
+      "canonical": "Redman Equipment and Manufacturing",
+      "children": [
+        {
+          "name": "Redman Equipment and Manufacturing Co",
+          "relationship": "alternate_spelling"
+        }
+      ]
+    },
+    {
+      "canonical": "Robinson Helicopter",
+      "children": [
+        {
+          "name": "Robinson Helicopter Company",
+          "relationship": "alternate_spelling"
+        },
+        {
+          "name": "Robinson Helicopter Co",
+          "relationship": "alternate_spelling"
+        }
+      ]
+    },
+    {
+      "canonical": "Sanmina",
+      "children": [
+        {
+          "name": "Sanmina Corporation",
+          "relationship": "alternate_spelling"
+        }
+      ]
+    },
+    {
+      "canonical": "Scholl Canyon Organics Recovery to Energy",
+      "children": [
+        {
+          "name": "Scholl Canyon Organics Recovery to Energy, LLC",
+          "relationship": "alternate_spelling"
+        }
+      ]
+    },
+    {
+      "canonical": "SDI",
+      "children": [
+        {
+          "name": "SDi, LLC",
+          "relationship": "alternate_spelling"
+        }
+      ]
+    },
+    {
+      "canonical": "Shute, Mihaly and Weinberger",
+      "children": [
+        {
+          "name": "Shute, Mihaly and Weinberger LLP",
+          "relationship": "alternate_spelling"
+        }
+      ]
+    },
+    {
+      "canonical": "Sony",
+      "children": [
+        {
+          "name": "Sony Corporation",
+          "relationship": "alternate_spelling"
+        }
+      ]
+    },
+    {
+      "canonical": "SOS Recycling",
+      "children": [
+        {
+          "name": "SOS Recycling LLC",
+          "relationship": "alternate_spelling"
+        }
+      ]
+    },
+    {
+      "canonical": "Standard Iron & Metals",
+      "children": [
+        {
+          "name": "Standard Iron & Metals Co",
+          "relationship": "alternate_spelling"
+        },
+        {
+          "name": "Standard Iron & Metals Company",
+          "relationship": "alternate_spelling"
+        }
+      ]
+    },
+    {
+      "canonical": "State Bird Provisions",
+      "children": [
+        {
+          "name": "State Bird Provisions, LLC",
+          "relationship": "alternate_spelling"
+        }
+      ]
+    },
+    {
+      "canonical": "Sustainable Capital",
+      "children": [
+        {
+          "name": "Sustainable Capital LLC",
+          "relationship": "alternate_spelling"
+        }
+      ]
+    },
+    {
+      "canonical": "SYAR Concrete",
+      "children": [
+        {
+          "name": "Syar Concrete LLC",
+          "relationship": "alternate_spelling"
+        }
+      ]
+    },
+    {
+      "canonical": "Temperature Equipment",
+      "children": [
+        {
+          "name": "Temperature Equipment Corporation",
+          "relationship": "alternate_spelling"
+        }
+      ]
+    },
+    {
+      "canonical": "Tosco",
+      "children": [
+        {
+          "name": "Tosco Corporation",
+          "relationship": "alternate_spelling"
+        }
+      ]
+    },
+    {
+      "canonical": "UnionBanCal",
+      "children": [
+        {
+          "name": "UnionBanCal Corporation",
+          "relationship": "alternate_spelling"
+        }
+      ]
+    },
+    {
+      "canonical": "United Infrastructure",
+      "children": [
+        {
+          "name": "United Infrastructure Company",
+          "relationship": "alternate_spelling"
+        }
+      ]
+    },
+    {
+      "canonical": "United Wholesale Mortgage",
+      "children": [
+        {
+          "name": "United Wholesale Mortgage, LLC",
+          "relationship": "alternate_spelling"
+        }
+      ]
+    },
+    {
+      "canonical": "Valencia",
+      "children": [
+        {
+          "name": "Valencia Corporation",
+          "relationship": "alternate_spelling"
+        }
+      ]
+    },
+    {
+      "canonical": "Valley Oak Partners",
+      "children": [
+        {
+          "name": "Valley Oak Partners, LLC",
+          "relationship": "alternate_spelling"
+        }
+      ]
+    },
+    {
+      "canonical": "Valta Energy",
+      "children": [
+        {
+          "name": "Valta Energy LLC",
+          "relationship": "alternate_spelling"
+        }
+      ]
+    },
+    {
+      "canonical": "Vanguard Concepts",
+      "children": [
+        {
+          "name": "Vanguard Concepts, LLC",
+          "relationship": "alternate_spelling"
+        }
+      ]
+    },
+    {
+      "canonical": "Ventura County Railroad",
+      "children": [
+        {
+          "name": "Ventura County Railroad Company",
+          "relationship": "alternate_spelling"
+        }
+      ]
+    },
+    {
+      "canonical": "VT Accounting Associates",
+      "children": [
+        {
+          "name": "VT Accounting Associates, LLP",
+          "relationship": "alternate_spelling"
+        }
+      ]
+    },
+    {
+      "canonical": "W.E. Lyons Construction",
+      "children": [
+        {
+          "name": "W.E. Lyons Construction Co",
+          "relationship": "alternate_spelling"
+        }
+      ]
+    },
+    {
+      "canonical": "Waste Recovery West",
+      "children": [
+        {
+          "name": "Waste Recovery West, LLC",
+          "relationship": "alternate_spelling"
+        }
+      ]
+    },
+    {
+      "canonical": "Western Air Limbach",
+      "children": [
+        {
+          "name": "Western Air Limbach LP",
+          "relationship": "alternate_spelling"
+        }
+      ]
+    },
+    {
+      "canonical": "Western Pacific Housing",
+      "children": [
+        {
+          "name": "Western Pacific Housing Company",
+          "relationship": "alternate_spelling"
+        }
+      ]
+    },
+    {
+      "canonical": "Wheelhouse",
+      "children": [
+        {
+          "name": "Wheelhouse Corporation",
+          "relationship": "alternate_spelling"
+        }
+      ]
+    },
+    {
+      "canonical": "Winning Strategies",
+      "children": [
+        {
+          "name": "Winning Strategies LLC",
+          "relationship": "alternate_spelling"
+        }
+      ]
+    },
+    {
+      "canonical": "Yuba Bicycles",
+      "children": [
+        {
+          "name": "Yuba Bicycles, LLC",
+          "relationship": "alternate_spelling"
+        }
+      ]
+    },
+    {
+      "canonical": "California State Automobile Association (concern)",
+      "children": [
+        {
+          "name": "The California State Automobile Association (concern)",
+          "relationship": "alternate_spelling"
+        }
+      ]
+    },
+    {
+      "canonical": "Automobile Club of Southern California (concern)",
+      "children": [
+        {
+          "name": "the Automobile Club of Southern California (concern)",
+          "relationship": "alternate_spelling"
+        }
+      ]
+    },
+    {
+      "canonical": "Sunita Jain Anti-Trafficking Initiative at Loyola Law School",
+      "children": [
+        {
+          "name": "The Sunita Jain Anti-trafficking Initiative at Loyola Law School",
+          "relationship": "alternate_spelling"
+        }
+      ]
     }
   ]
 }
