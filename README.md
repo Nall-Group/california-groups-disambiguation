@@ -108,6 +108,8 @@ Also add Sheriff and Police organizations that are not in the crosswalk, to the 
 
 31. consolidate SEIU orgs (not industry specific ones just ethnic group / place based ones) and make SEIU a pre-merge child of AFL-CIO
 
+32. Consolidate Indivisible orgs both within and from org names not in the crosswalk, into the crosswalk
+
 XX. Move things that are obviously not organization names (like sponsor or SB) to invalid organization names list 
 
 
