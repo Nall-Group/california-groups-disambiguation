@@ -32903,16 +32903,6 @@
       ]
     },
     {
-      "canonical": "California League of Conservation Voters, Sierra Club",
-      "status": "active",
-      "children": [
-        {
-          "name": "California League of Conservation Voters, Sierra Club California",
-          "relationship": "chapter"
-        }
-      ]
-    },
-    {
       "canonical": "CALIFORNIA LEAGUE OF FOOD PROCESSORS",
       "status": "active",
       "children": [
@@ -57932,16 +57922,6 @@
         {
           "name": "DeMenno / Kerdoon",
           "relationship": "alternate_spelling"
-        }
-      ]
-    },
-    {
-      "canonical": "DeMenno/Kerdoon, Sierra Club",
-      "status": "active",
-      "children": [
-        {
-          "name": "DeMenno/Kerdoon, Sierra Club California",
-          "relationship": "chapter"
         }
       ]
     },
@@ -93338,16 +93318,6 @@
       "status": "active"
     },
     {
-      "canonical": "League of California Cities, Sierra Club",
-      "status": "active",
-      "children": [
-        {
-          "name": "League of California Cities, Sierra Club California",
-          "relationship": "chapter"
-        }
-      ]
-    },
-    {
       "canonical": "LEAGUE OF CALIFORNIA CITIES; SMALL SCHOOL DISTRICTS' ASSOCIATION",
       "status": "active"
     },
@@ -117295,16 +117265,6 @@
       ]
     },
     {
-      "canonical": "Planning and Conservation League Sierra Club",
-      "status": "active",
-      "children": [
-        {
-          "name": "Planning and Conservation League Sierra Club California",
-          "relationship": "chapter"
-        }
-      ]
-    },
-    {
       "canonical": "PLANNING ASSOCIATION FOR THE RICHMOND",
       "status": "active"
     },
@@ -128771,10 +128731,6 @@
       ]
     },
     {
-      "canonical": "SAN FRANCISCO BAY CONSERVATION AND DEVELOPMENT COMMISSION SIERRA CLUB",
-      "status": "active"
-    },
-    {
       "canonical": "SAN FRANCISCO BAY GUARDIAN",
       "status": "active",
       "children": [
@@ -134085,7 +134041,7 @@
         },
         {
           "name": "Sierra Club CA",
-          "relationship": "chapter"
+          "relationship": "alternate_spelling"
         },
         {
           "name": "Sierra Club - California",
@@ -134093,11 +134049,11 @@
         },
         {
           "name": "Sierra Club of CA",
-          "relationship": "chapter"
+          "relationship": "alternate_spelling"
         },
         {
           "name": "California Sierra Club",
-          "relationship": "chapter"
+          "relationship": "alternate_spelling"
         },
         {
           "name": "Sierra Club-California",
@@ -134114,39 +134070,519 @@
         {
           "name": "THE SIERRA CLUB OF CALIFORNIA",
           "relationship": "alternate_spelling"
-        }
-      ]
-    },
-    {
-      "canonical": "SIERRA CLUB - ANGELES CHAPTER",
-      "status": "active",
-      "children": [
+        },
         {
-          "name": "THE SIERRA CLUB - ANGELES CHAPTER",
+          "name": "SIERRA CLUB - ANGELES CHAPTER",
+          "relationship": "chapter",
+          "children": [
+            {
+              "name": "THE SIERRA CLUB - ANGELES CHAPTER",
+              "relationship": "alternate_spelling"
+            },
+            {
+              "name": "Sierra Club-Angeles Chapter",
+              "relationship": "alternate_spelling"
+            },
+            {
+              "name": "Angeles Chapter of the Sierra Club",
+              "relationship": "alternate_spelling"
+            },
+            {
+              "name": "Harbor Vision Task Force of the Angeles Chapter of the Sierra Club",
+              "relationship": "chapter"
+            },
+            {
+              "name": "San Gabriel Valley Task Force Angeles Chapter of Sierra Club",
+              "relationship": "chapter"
+            },
+            {
+              "name": "Sierra Club Angeles Chapter River Touring Section",
+              "relationship": "chapter"
+            }
+          ]
+        },
+        {
+          "name": "SIERRA CLUB FOUNDATION",
+          "relationship": "chapter",
+          "children": [
+            {
+              "name": "THE SIERRA CLUB FOUNDATION",
+              "relationship": "alternate_spelling"
+            }
+          ]
+        },
+        {
+          "name": "SIERRA CLUB RANGE OF LIGHT GROUP",
+          "relationship": "chapter",
+          "children": [
+            {
+              "name": "THE SIERRA CLUB RANGE OF LIGHT GROUP",
+              "relationship": "alternate_spelling"
+            }
+          ]
+        },
+        {
+          "name": "SIERRA CLUB LEGAL DEFENSE FUND",
+          "relationship": "chapter",
+          "children": [
+            {
+              "name": "Earthjustice",
+              "relationship": "renamed"
+            },
+            {
+              "name": "Earthjustice (formerly the Sierra Club Legal Defense Fund)",
+              "relationship": "renamed"
+            }
+          ]
+        },
+        {
+          "name": "Sierra Club Loma Prieta Chapter",
+          "relationship": "chapter",
+          "children": [
+            {
+              "name": "Loma Prieta Chapter of the Sierra Club",
+              "relationship": "alternate_spelling"
+            },
+            {
+              "name": "Loma Prieta Chapter - Sierra Club",
+              "relationship": "alternate_spelling"
+            },
+            {
+              "name": "Sierra Club-Loma Prieta Chapter",
+              "relationship": "alternate_spelling"
+            }
+          ]
+        },
+        {
+          "name": "Sierra Club San Diego Chapter",
+          "relationship": "chapter",
+          "children": [
+            {
+              "name": "San Diego Chapter, Sierra Club",
+              "relationship": "alternate_spelling"
+            },
+            {
+              "name": "Sierra Club San Diego",
+              "relationship": "alternate_spelling"
+            },
+            {
+              "name": "San Diego Chapter of the Sierra Club",
+              "relationship": "alternate_spelling"
+            },
+            {
+              "name": "Sierra Club, San Diego Charter",
+              "relationship": "alternate_spelling"
+            }
+          ]
+        },
+        {
+          "name": "Sierra Club Ventana Chapter",
+          "relationship": "chapter",
+          "children": [
+            {
+              "name": "Ventana Chapter of the Sierra Club",
+              "relationship": "alternate_spelling"
+            }
+          ]
+        },
+        {
+          "name": "Sierra Club, Santa Lucia Chapter",
+          "relationship": "chapter",
+          "children": [
+            {
+              "name": "Sierra Club - Los Padres Chapter",
+              "relationship": "alternate_spelling"
+            },
+            {
+              "name": "Sierra Club-Santa Lucia Chapter",
+              "relationship": "alternate_spelling"
+            },
+            {
+              "name": "Sierra Club, Santa Lucia Chapter (San Luis Obispo County)",
+              "relationship": "alternate_spelling"
+            },
+            {
+              "name": "Los Padres Sierra Club",
+              "relationship": "alternate_spelling"
+            },
+            {
+              "name": "Santa Lucia Chapter of the Sierra Club",
+              "relationship": "alternate_spelling"
+            },
+            {
+              "name": "Sierra Club, St. Lucia Chapter",
+              "relationship": "alternate_spelling"
+            },
+            {
+              "name": "Los Padres Chapter of the Sierra Club",
+              "relationship": "alternate_spelling"
+            }
+          ]
+        },
+        {
+          "name": "Sierra Club San Francisco Bay Chapter",
+          "relationship": "chapter",
+          "children": [
+            {
+              "name": "Sierra Club Bay Chapter",
+              "relationship": "alternate_spelling"
+            },
+            {
+              "name": "Sierra Club SF Bay Chapter, Tri-Valley Regional Group",
+              "relationship": "chapter"
+            },
+            {
+              "name": "Northern Alameda County Group, S. F. Bay Chapter, Sierra Club",
+              "relationship": "chapter"
+            },
+            {
+              "name": "Sierra Club Bay Chapter River Touring Section",
+              "relationship": "chapter"
+            },
+            {
+              "name": "Sierra Club San Francisco Group",
+              "relationship": "alternate_spelling"
+            },
+            {
+              "name": "The San Francisco Group of the Sierra Club",
+              "relationship": "alternate_spelling"
+            }
+          ]
+        },
+        {
+          "name": "Sierra Club Mother Lode Chapter",
+          "relationship": "chapter",
+          "children": [
+            {
+              "name": "Sierra Club-Mother Lode Chapter",
+              "relationship": "alternate_spelling"
+            },
+            {
+              "name": "Sierra Club Yolano Group, Mother Lode Chapter",
+              "relationship": "chapter",
+              "children": [
+                {
+                  "name": "Yolano Group of the Mother Lode Chapter of the Sierra Club",
+                  "relationship": "alternate_spelling"
+                },
+                {
+                  "name": "Sierra Club Yolano Group",
+                  "relationship": "alternate_spelling"
+                },
+                {
+                  "name": "Sierra Club Yolono Group",
+                  "relationship": "alternate_spelling"
+                }
+              ]
+            },
+            {
+              "name": "Yahi Group, Mother Lode Chapter, Sierra Club",
+              "relationship": "chapter",
+              "children": [
+                {
+                  "name": "Yahi Group (Chico), Sierra Club",
+                  "relationship": "alternate_spelling"
+                },
+                {
+                  "name": "Yahi Group Sierra Club",
+                  "relationship": "alternate_spelling"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Sierra Club Tehipite Chapter",
+          "relationship": "chapter",
+          "children": [
+            {
+              "name": "Tehipite Chapter of Sierra Club",
+              "relationship": "alternate_spelling"
+            }
+          ]
+        },
+        {
+          "name": "Sierra Club - Kern-Kaweah Chapter",
+          "relationship": "chapter",
+          "children": [
+            {
+              "name": "Kern-Waweah Chapter, Sierra Club",
+              "relationship": "alternate_spelling"
+            }
+          ]
+        },
+        {
+          "name": "Sierra Club Loma Prieta Paddlers",
+          "relationship": "chapter"
+        },
+        {
+          "name": "Sierra Club Sacramento",
+          "relationship": "chapter",
+          "children": [
+            {
+              "name": "Sierra Club Sacramento Group",
+              "relationship": "alternate_spelling"
+            }
+          ]
+        },
+        {
+          "name": "Napa County Sierra club",
+          "relationship": "chapter"
+        },
+        {
+          "name": "Sierra Club, San Gorgonio Chapter",
+          "relationship": "chapter",
+          "children": [
+            {
+              "name": "Sierra Club, San Gorgonio",
+              "relationship": "alternate_spelling"
+            }
+          ]
+        },
+        {
+          "name": "Sierra Club, West Marin Chapter",
+          "relationship": "chapter",
+          "children": [
+            {
+              "name": "Sierra Club Marin Group",
+              "relationship": "alternate_spelling"
+            }
+          ]
+        },
+        {
+          "name": "Sierra Club/Sierra Nevada Chapter",
+          "relationship": "chapter",
+          "children": [
+            {
+              "name": "Sierra Club Sierra Nevada Group",
+              "relationship": "alternate_spelling"
+            },
+            {
+              "name": "Sierra Nevada Group, Sierra Club",
+              "relationship": "alternate_spelling"
+            }
+          ]
+        },
+        {
+          "name": "Santa Clarita Valley Sierra Club of the Angeles Chapter",
+          "relationship": "chapter"
+        },
+        {
+          "name": "Sierra Club Redwood Chapter",
+          "relationship": "chapter",
+          "children": [
+            {
+              "name": "Sierra Club Redwood Chapter North Group",
+              "relationship": "chapter"
+            }
+          ]
+        },
+        {
+          "name": "Corcoran Sierra Club",
+          "relationship": "chapter"
+        },
+        {
+          "name": "Long Beach Sierra Club",
+          "relationship": "chapter"
+        },
+        {
+          "name": "Santa Clarita Valley Sierra Club of Los Angeles",
+          "relationship": "chapter"
+        },
+        {
+          "name": "Sierra Club Buena Vista Chapter",
+          "relationship": "chapter"
+        },
+        {
+          "name": "Sierra Club North Coast",
+          "relationship": "chapter"
+        },
+        {
+          "name": "Sierra Club of Orange County",
+          "relationship": "chapter",
+          "children": [
+            {
+              "name": "The Sierra Club - Orange County Group",
+              "relationship": "alternate_spelling"
+            }
+          ]
+        },
+        {
+          "name": "Sierra Club, Santa Monica Mountains",
+          "relationship": "chapter",
+          "children": [
+            {
+              "name": "Santa Monica Mountains Task Force of the Sierra Club",
+              "relationship": "alternate_spelling"
+            },
+            {
+              "name": "Sierra Club, Santa Monica Mountains Taskforce",
+              "relationship": "alternate_spelling"
+            },
+            {
+              "name": "Santa Monica Mountains Task Force / Sierra Club",
+              "relationship": "alternate_spelling"
+            }
+          ]
+        },
+        {
+          "name": "Sierra Club, Ventura Chapter",
+          "relationship": "chapter"
+        },
+        {
+          "name": "Sierra Club Santa Barbara Group",
+          "relationship": "chapter"
+        },
+        {
+          "name": "North County Coastal Group of the Sierra Club",
+          "relationship": "chapter",
+          "children": [
+            {
+              "name": "Sierra Club North County Coastal Group",
+              "relationship": "alternate_spelling"
+            }
+          ]
+        },
+        {
+          "name": "Sierra Club Lake Group",
+          "relationship": "chapter"
+        },
+        {
+          "name": "Sierra Club Placer Group",
+          "relationship": "chapter",
+          "children": [
+            {
+              "name": "Placer Group Sierra Club",
+              "relationship": "alternate_spelling"
+            }
+          ]
+        },
+        {
+          "name": "Delta-Sierra Group of the Sierra club",
+          "relationship": "chapter",
+          "children": [
+            {
+              "name": "Sierra Club Delta-Sierra Group",
+              "relationship": "alternate_spelling"
+            }
+          ]
+        },
+        {
+          "name": "Sierra Club Arguello Group",
+          "relationship": "chapter"
+        },
+        {
+          "name": "Sierra Club, Pasadena Group",
+          "relationship": "chapter"
+        },
+        {
+          "name": "Sonoma Group, Sierra Club",
+          "relationship": "chapter"
+        },
+        {
+          "name": "Yokuts Group of The Sierra Club",
+          "relationship": "chapter"
+        },
+        {
+          "name": "Sierra Club - Long Beach Area Group",
+          "relationship": "chapter"
+        },
+        {
+          "name": "Sierra Club Arguello Group - Santa Barbara",
+          "relationship": "chapter"
+        },
+        {
+          "name": "Sierra Club Napa Group",
+          "relationship": "chapter"
+        },
+        {
+          "name": "Sierra Club Santa Cruz Regional Group",
+          "relationship": "chapter"
+        },
+        {
+          "name": "Sierra Club, Northern California Forest Committee- Oaks Group",
+          "relationship": "chapter"
+        },
+        {
+          "name": "Sierra Club Northern Alameda Group",
+          "relationship": "chapter"
+        },
+        {
+          "name": "Sierra Club-Santa Margarita Group",
+          "relationship": "chapter"
+        },
+        {
+          "name": "Diamond Bar - Pomona Valley Sierra Club Task Force",
+          "relationship": "chapter"
+        },
+        {
+          "name": "Ballona Wetlands Task Force (Sierra Club)",
+          "relationship": "chapter"
+        },
+        {
+          "name": "Puente-Chino Hills Task Force, Sierra Club",
+          "relationship": "chapter",
+          "children": [
+            {
+              "name": "Puente-Chino Hills Task Force of The Sierra Club",
+              "relationship": "alternate_spelling"
+            },
+            {
+              "name": "Sierra Club Puente-Chino Hills Task Force",
+              "relationship": "alternate_spelling"
+            }
+          ]
+        },
+        {
+          "name": "Santa Monica Mountains Task Force/Sierra Club Angeles",
+          "relationship": "chapter"
+        },
+        {
+          "name": "Santa Susana Mountain Task Force of the Sierra Club",
+          "relationship": "chapter"
+        },
+        {
+          "name": "Sierra Club, Save Hobo Aliso Task Force",
+          "relationship": "chapter"
+        },
+        {
+          "name": "River Touring Section - Sierra Club",
+          "relationship": "chapter"
+        },
+        {
+          "name": "Sierra Club of",
           "relationship": "alternate_spelling"
         },
         {
-          "name": "Sierra Club-Angeles Chapter",
+          "name": "City of Sierra Club California",
           "relationship": "alternate_spelling"
-        }
-      ]
-    },
-    {
-      "canonical": "SIERRA CLUB FOUNDATION",
-      "status": "active",
-      "children": [
+        },
         {
-          "name": "THE SIERRA CLUB FOUNDATION",
+          "name": "Sierra Club of America",
           "relationship": "alternate_spelling"
-        }
-      ]
-    },
-    {
-      "canonical": "SIERRA CLUB RANGE OF LIGHT GROUP",
-      "status": "active",
-      "children": [
+        },
         {
-          "name": "THE SIERRA CLUB RANGE OF LIGHT GROUP",
+          "name": "County of Sierra Club California",
+          "relationship": "alternate_spelling"
+        },
+        {
+          "name": "Sierra Club (S.F. Bay Chapter)",
+          "relationship": "alternate_spelling"
+        },
+        {
+          "name": "Sierra Club Calfornia",
+          "relationship": "alternate_spelling"
+        },
+        {
+          "name": "Sierra Club Calif",
+          "relationship": "alternate_spelling"
+        },
+        {
+          "name": "Sierra Club of Claifornia",
+          "relationship": "alternate_spelling"
+        },
+        {
+          "name": "Sierra Club, California Chapter",
           "relationship": "alternate_spelling"
         }
       ]

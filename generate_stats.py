@@ -41,7 +41,8 @@ def generate_stats():
         'org_names_that_start_with_parens.csv',
         'org_names_partial.csv',
         'org_names_that_are_actually_individuals.csv',
-        'org_names_conjoined.csv'
+        'org_names_conjoined.csv',
+        'org_names_embedded_in_narrative_text.csv'
     ]
 
     invalid_count = 0

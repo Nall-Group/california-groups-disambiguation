@@ -110,6 +110,8 @@ Also add Sheriff and Police organizations that are not in the crosswalk, to the 
 
 32. Consolidate Indivisible orgs both within and from org names not in the crosswalk, into the crosswalk
 
+33. Consolidate Sierra Club orgs. Move conjoined entries to conjoined CSV, narrative text to embedded_in_narrative_text CSV, merge chapters/groups/task forces/sections under SIERRA CLUB canonical.
+
 XX. Move things that are obviously not organization names (like sponsor or SB) to invalid organization names list 
 
 
@@ -118,6 +120,9 @@ XX. Move things that are obviously not organization names (like sponsor or SB) t
 - canonical
 - alternate_spelling
 - chapter
+- renamed - org was renamed (e.g., Sierra Club Legal Defense Fund → Earthjustice)
+- pre-merge - org that later merged into this one (e.g., AFL is a pre-merge of AFL-CIO)
+- previously_known_as - prior name of the org
 
 ## Cleaning Patterns
 
