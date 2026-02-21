@@ -249,13 +249,18 @@ class CrosswalkMatcher:
             if norm_canonical:
                 self._normalized_to_canonical[norm_canonical] = canonical
 
-            # Add all children
-            for child in cluster.get('children', []):
-                child_name = child['name']
-                self._exact_names.add(child_name.strip().upper())
-                norm_child = normalize_for_matching(child_name)
-                if norm_child and norm_child not in self._normalized_to_canonical:
-                    self._normalized_to_canonical[norm_child] = canonical
+            # Add all children (recursively)
+            def _walk_children(children):
+                for child in children:
+                    child_name = child['name']
+                    self._exact_names.add(child_name.strip().upper())
+                    norm_child = normalize_for_matching(child_name)
+                    if norm_child and norm_child not in self._normalized_to_canonical:
+                        self._normalized_to_canonical[norm_child] = canonical
+                    if 'children' in child:
+                        _walk_children(child['children'])
+
+            _walk_children(cluster.get('children', []))
 
     @property
     def exact_name_count(self) -> int:

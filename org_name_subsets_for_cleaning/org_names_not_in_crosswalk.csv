@@ -1,4 +1,7 @@
 org_name,count
+,60973
+END --,6174
+Numerous Individuals,1431
 None Registered,1285
 Jericho,997
 California Environmental Voters,909
@@ -21,7 +24,6 @@ Los Angeles County Metropolitan Transportation Authority,431
 Edvoice,431
 Insurance Agents and Brokers Legislative Council,401
 Kaiser Permanente Medical Care Program,386
-Employees AFSCME,384
 Western Municipal Water District,383
 Marin Builders Exchange,371
 Long Beach Unified School District,360
@@ -51,7 +53,6 @@ San Diego Coastkeeper,297
 Independent Energy Producers Association,288
 Planned Parenthood mar Monte,288
 Orange County Water District,287
-United Nurses Associations of California/union of Health Care Professionals,283
 Wildcoast,280
 Pacific Egg and Poultry Association,278
 Board of Supervisors,277
@@ -61,8 +62,8 @@ California Women for Agriculture,276
 Los Angeles County Sanitation Districts,273
 Orange County Coastkeeper,272
 Environmental Defense,270
-Calleguas Municipal Water District,269
 Attorneys for Criminal Justice,270
+Calleguas Municipal Water District,269
 TechAmerica,263
 Alameda-contra Costa Transit District,260
 Sacramento Metropolitan Air Quality Management District,256
@@ -120,6 +121,7 @@ Act for Women and Girls,204
 Official Police Garages of Los Angeles,204
 California Public,203
 California Wilderness Coalition,203
+Concerns,203
 Coastal Environmental Rights Foundation,202
 Contra Costa Transportation Authority,202
 Northeast Valley Health Corporation,202
@@ -142,11 +144,11 @@ Sacramento Lgbt Community Center,191
 Los Angeles Housing Law Project,190
 Advanced Medical Technology Association,189
 Los Angeles Regional Food bank,189
+California State Grange,188
 California Motorcycle Dealers Association,187
 Clean Energy,187
 San Diego City Schools,187
 San Francisco Bay Physicians for Social Responsibility,187
-California State Grange,188
 California Coalition of United Cerebral Palsy Associations,185
 City of Vernon,185
 Mesa Water District,185
@@ -194,13 +196,12 @@ Electric Vehicle Charging Association,160
 California Attorneys for,159
 Foothill-de Anza Community College District,158
 West Ventura County Business Alliance,158
+Scripps Health,158
 City of Montebello,157
 Consumer,157
-Scripps Health,157
 Del Mar Thoroughbred Club,156
 Yolo County Board of Supervisors,156
 County of El Dorado,155
-"American Federation of State, County and Municipal Employees (AFSCME) AFL",154
 County of Imperial,154
 California Agricultural Aircraft Association,153
 California Blueberry Association,153
@@ -229,10 +230,10 @@ Stanford University,146
 California Alcohol Policy Alliance,145
 Pacific Egg & Poultry Association,145
 Voices for Progress Education Fund,145
+Criminal Justice,145
 California Association of School Police Chiefs,144
 Community Health Partnership,144
 Street Level Health Project,144
-Criminal Justice,145
 California Sportfishing Protection Alliance,143
 Cities of,143
 Restore Justice,143
@@ -278,12 +279,12 @@ Collectors,133
 Saddleback Valley Unified School District,133
 National Marine Manufacturers Association,132
 Yosemite Community College District,132
+Individual Letters,132
 Central Valley Education Coalition,131
 City of Benicia,131
 District Attorneys Association,131
 Family Health Centers of San Diego,131
 "Food for People, the Food Bank for Humboldt County",131
-Individual Letters,132
 Jewish Family Services of Silicon Valley,131
 Rio Hondo Community College District,131
 San Francisco Community Clinic Consortium,131
@@ -309,6 +310,7 @@ Citrus College,127
 La Best Babies Network,126
 California Association of Bicycling Organizations,125
 Placer County Water Agency,125
+for Criminal Justice,125
 California Community Choice Association,124
 California School Health Centers Association,124
 Climate Hawks Vote,124
@@ -318,7 +320,6 @@ Pawpac,124
 Yolo County,124
 California Chapter of the American College of Cardiology,124
 California Council of Churches,124
-for Criminal Justice,125
 Coalition Against Gun Violence,123
 Computing Technology Industry Association,123
 Life Aids Lobby,123
@@ -366,6 +367,7 @@ California Climate and Agriculture Network,114
 Los Angeles Walks,114
 North Bay Jobs with Justice,114
 San Juan Water District,114
+Individual,114
 American Civil,113
 Consumers for Auto Reliability & Safety,113
 Desert Aids Project,113
@@ -425,6 +427,7 @@ Imperial County Board of Supervisors,104
 Safe Place for Youth,104
 Foothill Transit,104
 Arco,104
+Department of Forestry and Fire Protection,104
 California Association of County Treasurers and Tax,103
 California Business for Education Excellence,103
 California State Lodge Fraternal Order of Police,103
@@ -433,7 +436,6 @@ El/la Para Translatinas,103
 Emergency Medical Services Administrators Association of,103
 San Ysidro Health,103
 Vote the Coast,103
-Department of Forestry and Fire Protection,104
 Lake County Office of Education,103
 Attorneys Office,102
 Californians for Juvenile Justice Reform,102
@@ -524,7 +526,6 @@ Arthritis Foundation,94
 California Fisheries and Seafood Institute,94
 Downtown Sacramento Partnership,94
 El Toro Water District,94
-Employees (AFSCME) AFL-CIO,94
 Recolte Energy,94
 Shasta County Sheriff,94
 Southern California Public Health Association,94
@@ -621,12 +622,12 @@ Dublin San Ramon Services District,86
 Pesticide Watch,86
 San Francisco Department of Public Health,86
 Santa Clarita Valley Water Agency,86
+California Spa and Pool Industry Education Council,86
 Actors and Others for Animals,85
 All of us or None Los Angeles,85
 Bear Yuba land Trust,85
 California Association of Health Services at Home,85
 California Conference of the Amalgamated Transit Union,85
-California Spa and Pool Industry Education Council,86
 City of Burlingame,85
 Crime Victims United of,85
 District Attorneys Office,85
@@ -714,7 +715,6 @@ State Department of Personnel Administration,79
 Tri-ced Community Recycling,79
 Santa Cruz,79
 Fence Contractors Association,79
-"American Federation of State County and Municipal Employees, AFL",78
 American Planning Association CA Chapter,78
 American Sustainable Business Council,78
 California Commission on Uniform State Laws,78
@@ -743,6 +743,7 @@ Southwestern Community College District,77
 Western State Council of Sheet Metal Workers,77
 and Piping Industry,77
 CA Municipal Utilities Association,77
+Unknown,77
 Calbike,76
 California Science Teachers Association,76
 California State Conference of the National Association for the Advancement,76
@@ -756,7 +757,6 @@ Our Revolution Long Beach,76
 Santa Clara County School Boards Association,76
 YMCA of San Diego County,76
 Youth Alliance,76
-Unknown,77
 Acterra,75
 Brady California United Against Gun Violence,75
 Construction Industry Air Quality Coalition,75
@@ -838,6 +838,7 @@ Poway Unified School District,72
 Sacramento County District Attorney's Office,72
 Tulare,72
 Tuolumne Utilities District,72
+Association of California Hospital Districts,72
 "Asian Law Alliance, San Jose",71
 California Federation of Labor AFL-CIO,71
 Chinatown Service Center,71
@@ -878,7 +879,6 @@ United Anglers of Southern California,70
 Valley Clean Air Now,70
 Vista Community Clinic,70
 Alameda Alliance for Health,69
-Association of California Hospital Districts,72
 California Chapter of the American College of Emergency,69
 California Forward,69
 California Professional Firefighters Association,69
@@ -918,6 +918,8 @@ Radiant Health Centers,68
 San Diego County Breastfeeding Coalition,68
 San Joaquin,68
 Upstream,68
+City and County of San Francisco Department on the Status of Women,68
+Not Known,68
 Alliance for Patient Access,67
 Assembly Votes,67
 CA Farm Bureau Federation,67
@@ -925,14 +927,12 @@ California Arts Council,67
 California School Bus Contractors Association,67
 Californians for Western Wilderness,67
 Career Ladders Project,67
-City and County of San Francisco Department on the Status of Women,68
 City of Fowler,67
 Cleantech San Diego,67
 College of the Desert,67
 Contra Costa County Superintendents Coalition,67
 County of Kings,67
 County of Mariposa,67
-Not Known,68
 Office of Legislative Counsel,67
 Our Duty,67
 Riseup,67
@@ -1001,16 +1001,15 @@ Rewiring America,65
 San Francisco Medical Society,65
 San Juan Unified School District,65
 Sonoma County Regional Parks,65
-United Nurses Associations of California/Union of Health Care,65
 Veggielution,65
+California Abortion and Reproductive Rights Action League,65
+California Association of Enterprise Zones,65
 Alameda County Mosquito Abatement District,64
 American Stroke Association,64
 Animal Welfare Institute,64
 Arroyos & Foothills Conservancy,64
 CDC Small Business Finance,64
 Cal-ore Wetlands and Waterfowl Council,64
-California Abortion and Reproductive Rights Action League,65
-California Association of Enterprise Zones,65
 California Prison Focus,64
 California Self Storage Association,64
 Caltrout,64
@@ -1100,7 +1099,6 @@ Western Steel Council,62
 Santa Clara County Cities Association,62
 AT,61
 American Bird Conservancy,61
-"American Federation of State, County and Municipal Employees AFL-CIO (AFSCME)",61
 Bike LA,61
 Biofuelwatch,61
 Biotechnology Innovation Organization,61
@@ -1180,6 +1178,7 @@ United Ways of California (UWCA),60
 Urban Strategies Council,60
 Yolo Food Bank,60
 Insurance Commissioner John Garamendi,60
+Protection,60
 12 (individuals),59
 Allied Grape Growers,59
 Attorney General Xavier Becerra,59
@@ -1205,7 +1204,6 @@ National Partnership for Women & Families,59
 Pioneers Memorial Healthcare District,59
 Planned Parenthood of Orange and San Bernardino Counties,59
 Planned Parenthood of the Pacific Southwest,59
-Protection,60
 San Joaquin County Probation Officers Association,59
 Santa Barbara City College,59
 Starting Over Strong,59
@@ -1746,7 +1744,6 @@ Coachella Valley Cannabis Alliance Network,46
 Community Housing Development Corporation of North Richmond,46
 Conejo Climate Coalition,46
 Councilmember,46
-County and Municipal Employees (AFSCME),46
 Delta Kappa Gamma International - Chi State,46
 "East Bay Asian Local Development Corporation, Oakland",46
 Educate.advocate,46
@@ -1869,6 +1866,7 @@ Your Childrens Trees,45
 California Academy of Child Adolescent Psychiatry,45
 Solar Energy Industry Association,45
 United California Practitioners of Chinese Medicine,45
+Wild Farm Alliance,45
 2 Private Citizens,44
 Abriendo Puertas/opening Doors,44
 CA Police Chiefs Association,44
@@ -1931,8 +1929,8 @@ Solano Family & Children's Services,44
 Southern Christian Leadership Conference,44
 Veterans Education Success,44
 Walksacramento,44
-Wild Farm Alliance,45
 State and Consumer Services Agency,44
+California Adolescent Nutrition and Fitness Program,44
 AdvaMed,43
 American College of Emergency Physicians State Chapter of,43
 Animal Wellness Action,43
@@ -1940,7 +1938,6 @@ Asian Pacific Policy & Planning Council,43
 BOE Member George Runner,43
 Buildcasa,43
 CA Taxpayers Association,43
-California Adolescent Nutrition and Fitness Program,44
 California Policy Center,43
 Citrus Valley Health Partners,43
 City of Arroyo Grande,43
@@ -1991,6 +1988,7 @@ Western Car Wash Association,43
 Western Tree Nut Association,43
 of Los Angeles,43
 Safety,43
+Committee Analysis,43
 Alliance Against Family Violence and Sexual Assault,42
 Association for Los Angeles Deputy,42
 Barlow Respiratory Hospital,42
@@ -2121,7 +2119,6 @@ Central California Alliance for Health,40
 Change for Justice,40
 City of Monte Sereno,40
 Coachella Valley Mosquito and Vector Control District,40
-Committee Analysis,43
 Community Financial Resources,40
 Crime Survivors Resource Center,40
 Defend Ballona Wetlands,40
@@ -2171,7 +2168,6 @@ Surprise Valley Health Care District,40
 "Transport Workers Union of America, Afl-cio",40
 Trinity Hospital,40
 United Friends of the Children,40
-United Nurses Associations of California/Union of Health,40
 Yes No None,40
 Affairs,39
 American Automobile Manufacturers Association,39
@@ -2259,6 +2255,7 @@ Water Climate Trust,39
 Youth Climate Strike Los Angeles,39
 "Business, Transportation and Housing Agency",39
 Norwalk,39
+CTIA-the Wireless Association,39
 "A Community of Friends, Los Angeles",38
 Alta Irrigation District,38
 Anaheim,38
@@ -2267,7 +2264,6 @@ Banner Lassen Medical Center,38
 Beta Healthcare Group,38
 Board of Optometry,38
 Board of Prison Terms,38
-CTIA-the Wireless Association,39
 Cabrillo Unified School District,38
 California Artisanal Distillers Guild,38
 California Association of Alcoholism and Drug Abuse Counselors,38
@@ -2448,6 +2444,8 @@ West Valley Water District,37
 YWCA of Glendale,37
 Yolo County Resource Conservation District,37
 of Supervisors,37
+Board of Accountancy,37
+Community Clinic Association of Los Angeles,37
 AFLAC,36
 AIDS Project East Bay,36
 Alameda Creek Alliance,36
@@ -2455,7 +2453,6 @@ Alzheimer's Association State Policy Office,36
 American Sportfishing Association,36
 Animal Protection and Rescue League,36
 Black Surfers Collective,36
-Board of Accountancy,37
 Butte County Department of Employment and Social Services,36
 CA Peace Officers Association,36
 Calaveras County Board of Supervisors,36
@@ -2478,7 +2475,6 @@ Chico Unified School District,36
 Choices for Children,36
 City of Carmel-by-the-sea,36
 "Coalition Against Gun Violence, a Santa Barbara County Coalition",36
-Community Clinic Association of Los Angeles,37
 "Eric Garcetti, Mayor",36
 Facilities,36
 Fairfield-Suisun Unified School District,36
@@ -2545,6 +2541,8 @@ Veterans Affiliated Council,36
 Weedmaps,36
 arc,36
 Santa Rosa,36
+Association of Community and Continuing Education,36
+care,36
 3strands Global Foundation,35
 AFL-CIO American Federation of State,35
 AFL-CIO California Labor Federation,35
@@ -2555,7 +2553,6 @@ All Voting Members of the North Westwood Neighborhood Council,35
 All of Us or None Orange County,35
 Altura Centers for Health,35
 Amador County Sheriff,35
-Association of Community and Continuing Education,36
 Building Skills Partnership,35
 California Alfalfa & Forage Association,35
 California Association for Microenterprise Opportunity,35
@@ -2642,10 +2639,11 @@ Western Center,35
 Women for American Values and Ethics Action Fund,35
 Yuba County,35
 Zero Population Growth,35
-care,36
 Californians for a Healthy and Green Economy,35
 Naleo Educational Fund,35
 Privacy Rights,35
+CALAFCO,35
+State Department of Finance,35
 Alameda County Bar Association,34
 Aouon Orange County,34
 Association of Christian Schools International,34
@@ -2656,7 +2654,6 @@ Beverly Hospital,34
 Biogen,34
 Broken No More,34
 CA District Attorneys Association,34
-CALAFCO,35
 CRLA Foundation,34
 "Cabrillo Economic Development Corp, Saticoy",34
 California Apartment,34
@@ -2763,7 +2760,7 @@ Washington Hospital Healthcare System,34
 Washington Township Health Care District,34
 Yuba,34
 Office of Emergency Services,34
-State Department of Finance,35
+California Coalition for Construction in the Classroom,34
 Alliance for Constitutional Sex Offense Laws,33
 Amador County,33
 American Urological Association,33
@@ -2784,7 +2781,6 @@ Butte County Office of Education,33
 California Alliance with Family Farmers,33
 California Asian Pacific American Bar Association,33
 California Association of Resource Specialists and Special,33
-California Coalition for Construction in the Classroom,34
 California District Attorneys Office,33
 California Film Extruders and Converters Association,33
 California Oaks Foundation,33
@@ -2889,6 +2885,7 @@ Wholly H20,33
 Wildcare,33
 and Tax Collectors,33
 California Acupuncture Medical Association,33
+Southern California Pipe Trades District Council 16,33
 AAA of Northern California,32
 Alameda County District Attorney Nancy O'Malley,32
 All for Kids,32
@@ -3002,7 +2999,6 @@ Streets for all,32
 Su Casa Ending Domestic Violence,32
 Tehachapi Valley Healthcare District,32
 Union de Guatemaltecos Emigrantes,32
-United Nurses Association of California/Union of Health,32
 Unity Pride Coalition of Ventura County,32
 Usc Schwarzenegger Institute,32
 Verified Voting,32
@@ -3010,6 +3006,7 @@ Western United Dairies,32
 Westside Food Bank,32
 Windsor Fire Protection District,32
 Wiseburn School District,32
+Water District,32
 "Affordable Housing Foundation, San Francisco",31
 Airlines for America,31
 Alexandria House,31
@@ -3116,7 +3113,6 @@ Senior Medi-Benefits,31
 Showing Up for Racial Justice Marin,31
 Slo Climate Coalition,31
 Sojourn,31
-Southern California Pipe Trades District Council 16,33
 State Fire Marshal,31
 "Strategic Actions for a Just Economy, Los Angeles",31
 The Phoenix Group,31
@@ -3135,6 +3131,8 @@ Lawyers,31
 Motion Picture Association of America California Group,31
 State Department of Corrections,31
 "Solid Waste Association of North America, California Chapters",31
+Mayor of Los Angeles,31
+CTIA The Wireless Association,31
 3 Private Citizens,30
 Alameda Labor Council AFL-CIO,30
 Albany Unified School District,30
@@ -3202,7 +3200,6 @@ Laguna Beach Unified School District,30
 Los Angeles County Metropolitan,30
 MM,30
 Marin Audubon Society,30
-Mayor of Los Angeles,31
 Merced Union High School District,30
 Monterey One Water,30
 Napa County Medical Society,30
@@ -3245,14 +3242,12 @@ St John's Community Health,30
 Tehama,30
 The Cougar Fund,30
 Traditional Values,30
-Water District,32
 West Basin Water Association,30
 Wildearth Guardians,30
 William Jessup University,30
 World Privacy Forum,30
 Yolo,30
 Yolo-solano Air Quality Management District,30
-CTIA The Wireless Association,30
 California Coast Keeper Alliance,30
 Sprint Nextel,30
 Financial Services Coordinating Council,30
@@ -3406,7 +3401,6 @@ Treasure Island Development Authority,29
 Tulare Irrigation District,29
 Tulare Mosquito Abatement District,29
 Two Cities Kennel Club,29
-United Nurses Association,29
 Wheeler Ridge-Maricopa Water Storage District,29
 YWCA of San Diego County,29
 "Youth Justice Education Clinic, Center for Juvenile Law and Policy, Loyola Law School",29
@@ -3574,7 +3568,7 @@ home,28
 of Counties,28
 Motorola,28
 Sacramento Regional Transit,28
-AFSCME Council 57,27
+California Association of Health Insuring Organizations,28
 AOL,27
 Advocates for Child Empowerment and Safety,27
 Aerospace and Defense Alliance of California,27
@@ -3595,7 +3589,6 @@ California Air Pollution Control Officers,27
 California Alliance of Acupuncture Medicine,27
 California Anti-Slapp Project,27
 California Association of Electrical Workers,27
-California Association of Health Insuring Organizations,28
 California Association of Homes and Services for,27
 California Association of Nurseries & Garden Centers,27
 California Chapters of Safari Club International,27
@@ -3746,6 +3739,8 @@ Young Children,27
 of Realtors,27
 CA Labor Federation,27
 Fidelity Investments,27
+Ca Teachers Association,27
+Front Porch,27
 "9to5 California, National Association of Working Women",26
 A Better Balance,26
 AFL-CIO Housing Investment Trust,26
@@ -3754,7 +3749,6 @@ Adolescent Health Working Group,26
 Alameda County Food Bank,26
 Alameda County Superintendent of Schools,26
 Alaska Community Action on Toxics,26
-"American Federation of State, County & Municipal Employees, AFL-CIO",27
 "American Fence Association, California Chapter",26
 Americans for Financial Reform,26
 Anti Police-terror Project,26
@@ -3776,7 +3770,6 @@ Builders Exchange Legislative Network,26
 "CA Labor Federation, AFL-CIO",26
 CA State Council of Laborers,26
 CVS Health,26
-Ca Teachers Association,27
 Cache Creek Conservancy,26
 Cal-Islanders Humanitarian Association,26
 Calcoast,26
@@ -3832,7 +3825,6 @@ Family Water Alliance,26
 Fenton Charter Public Schools,26
 Fraternal Order of Police California State Lodge,26
 Fresno West Coalition for Economic Development,26
-Front Porch,27
 Fullerton College,26
 Gabriella Charter Schools,26
 Getting it Right from the Start,26
@@ -3955,7 +3947,8 @@ Westmont College,26
 Youth Together,26
 Families,26
 California High Speed Rail Authority,26
-,60973
+Northern California Coalition for Immigrant Rights,26
+laws,26
 4/5 vote,25
 A Place Called Home,25
 API Equality LA,25
@@ -4172,7 +4165,7 @@ Carson,25
 Chapter,25
 Imperial Valley Equity and Justice Coalition,25
 San Bernardino Association of Governments,25
-AFSCME District Council 36,24
+Three Private Citizens,25
 Aapis for Civic Empowerment,24
 "Affordable Housing Clearinghouse, Lake Forest",24
 Alameda Corridor Transportation Authority,24
@@ -4270,7 +4263,6 @@ El Comite para el Bienestar de Earlimart,24
 El Monte City School District,24
 Elders Climate Action Southern California Chapter,24
 Emergency Services Network of Alameda County,24
-"Employees, AFL-CIO (AFSCME)",24
 Evergreen School District,24
 Family Builders by Adoption,24
 Family Child Care Association of San Francisco,24
@@ -4335,7 +4327,6 @@ Nevada Irrigation District,24
 New Horizons,24
 North Coast Emergency Medical Services,24
 North Coast Growers Association,24
-Northern California Coalition for Immigrant Rights,26
 Northern Inyo Hospital,24
 Nutrition and Fitness Collaborative of the Central Coast,24
 Oakland Heritage Alliance,24
@@ -4393,7 +4384,6 @@ Surveillance Resistance Lab,24
 Sycuan Band of Kumeyaay Nation,24
 Tehama County Selpa,24
 Telegraph for People,24
-Three Private Citizens,25
 Trinity County Board of Supervisors,24
 UC,24
 Union Rescue Mission,24
@@ -4419,7 +4409,6 @@ Yuba Water Agency,24
 Ywca Berkeley/oakland,24
 and Sheriffs,24
 at Home,24
-laws,26
 Los Angeles Protective League,24
 and Correctional Association,24
 Council of San Benito County Governments,24
@@ -4783,7 +4772,6 @@ Excel Academy Charter School,22
 Farallones Marine Sanctuary Association,22
 Farmworkers Institute of Education & Leadership Development,22
 Fashion Revolution USA,22
-Federation of State County and Municipal Employees,22
 Fillmore Unified School District,22
 Five Keys,22
 Fontana Unified School District,22
@@ -4905,7 +4893,6 @@ Southside Coalition of Community Health Centers,22
 St. Rose Hospital,22
 Stanislaus County Commission on Aging,22
 State Air Resources Board,22
-State County and Municipal Employees,22
 Statutes of 2015,22
 Steamship Association of Southern California,22
 Straus Family Creamery,22
@@ -5242,6 +5229,8 @@ sf.citi,21
 American Medical Society for Sports Medicine,21
 Atherton Baptist Homes,21
 Secretary of State's Office,21
+California Federation for Animal Legislation,21
+Ca Community Colleges,21
 1 Individual Letter,20
 50 Acterra Action for a Healthy Planet,20
 A Minor Consideration,20
@@ -5295,7 +5284,6 @@ California Council for Environmental and Economic,20
 California Creative Learning Academy,20
 California Earthquake Authority,20
 California Fabricare Institute,20
-California Federation for Animal Legislation,21
 California High School District Coalition,20
 California Initiative for Technology & Democracy,20
 "California Innocence Coalition: Northern California Innocence Project, California Innocence Project, Loyola Project for the Innocent",20
@@ -5529,7 +5517,6 @@ Ally Action,19
 Alta Loma School District,19
 Ambrose Recreation and Park District,19
 American Civil Liberties Union of Southern California,19
-American Federation of State County Municipal,19
 American Investment Council,19
 American Kidney Fund,19
 Antelope Valley Mosquito and Vector Control District,19
@@ -5556,7 +5543,6 @@ CA Bankers Association,19
 "CA Legislative Conference of the Plumbing, Heating and Piping Industry",19
 CA Manufacturers & Technology Association,19
 CSL Behring,19
-Ca Community Colleges,21
 Cadem Renters Council,19
 Cal Coast,19
 Cal-Ore Wetland and Waterfowl Council,19
@@ -5870,7 +5856,6 @@ Trial Courts Legislation Committee,19
 Western States Petroleum Assn,19
 Pinole,19
 A O Smith Corporation,18
-AFSCME Retirees Chapter 36,18
 "Affordable Homes, Avila Beach",18
 Against Violence,18
 Allensworth Progressive Association,18
@@ -6269,7 +6254,6 @@ Theatre West,18
 Tri-Counties Regional Center,18
 Union Square Alliance,18
 United Communities for Peace,18
-United Nurses Associations of California/ Union of Health Care,18
 Utility District,18
 Vacaville,18
 Valencia Heights Water Company,18
@@ -6299,10 +6283,10 @@ Youth vs Apocalypse,18
 Ywca Greater Los Angeles,18
 Zero Waste Marin Joint Powers Authority,18
 vote,18
-"American Federation of State, County and Municipal Employees ALF-CIO",18
 Computer Software Industry Association,18
 Jewish War Veterans Department of California,18
 Sign Users Council of California,18
+Park,18
 20/20 Recycle Centers,17
 52nd District,17
 5g Free California,17
@@ -6601,7 +6585,6 @@ Pacoima Charter School,17
 Pallet Shelter,17
 Palo Alto Medical Foundation,17
 Parent Voices Oakland,17
-Park,18
 Pearson Education,17
 "People Assisting the Homeless, Los Angeles",17
 Physicians for Social Responsibility - San Francisco Bay Chapter,17
@@ -7278,8 +7261,6 @@ Allied Housing,15
 Amazon.com,15
 American Association of University,15
 American Dog Breeders Association,15
-"American Federal of State, County and Municipal Employees, AFL-CIO",15
-American Federation of State County and,15
 American Indian Child Resource Center,15
 "American Jewish Congress, Pacific Southwest Region",15
 American River College,15
@@ -7904,8 +7885,8 @@ California State Employeeso Association,15
 Investigators,15
 State Bar Committee on the Administration of Justice,15
 Rialto,15
-"1000 Grandmothers, Bay Area",14
 A New PATH (Parents for Addiction Treatment and Healing),15
+"1000 Grandmothers, Bay Area",14
 A New Path (Parents for Addiction Treatment & Healing),14
 A Servant's Heart Senior Care,14
 AFL-CIO California School Employees Association,14
@@ -8546,7 +8527,6 @@ State Building and Construction Trade Council,14
 State Council of Carpenters,14
 State Employees Association,14
 State bar of,14
-"State, County and Municipal Employees (AFSCME)",14
 Statutes of 2018,14
 Stone Soup Fresno,14
 Strengthunited,14
@@ -8637,6 +8617,7 @@ Half Moon Bay Fishermen's Marketing Association,14
 Los Angeles County Department of Children and Family Services,14
 San Pablo,14
 Victor Valley Union High School District,14
+also,14
 18MillionRising.org,13
 23andme,13
 4 Private Citizens,13
@@ -8961,7 +8942,6 @@ Family Law Section of the California State Bar,13
 Family Research Council,13
 Family Resource Centers Network of California,13
 Family Violence Project,13
-"Federation of State, County and Municipal",13
 Fideicomiso Comunitario Tierra Libre,13
 Financial Services Association,13
 First 5 Mendocino,13
@@ -9484,6 +9464,8 @@ Cheap School,13
 Hoover Commission,13
 Immigrant Rights of Los Angeles,13
 Riverside County Superintendent of Schools,13
+CA Reinvestment Coalition,13
+California Association of Directors of Activities,13
 "1,900",12
 211 San Diego,12
 301 Organics,12
@@ -9633,7 +9615,6 @@ Business Resource Group,12
 CA Catholic Conference,12
 CA Legislative Women's Caucus,12
 CA Organization of Police and Sheriffs,12
-CA Reinvestment Coalition,13
 CA Retailers Assoc,12
 CA State Firefighters Assoc,12
 CLUE: Clergy and Laity United for Economic Justice,12
@@ -9653,7 +9634,6 @@ California Alliance of Information and Referral Services,12
 California Association for Health Physical,12
 California Association of Bicycling,12
 California Association of County,12
-California Association of Directors of Activities,13
 California Association of Legal Support Professionals,12
 California Association of Licensed,12
 California Association of Licensed Midwives,12
@@ -10520,7 +10500,6 @@ YWCA Sonoma County,12
 Yorkshire Terrier Club of America Inc,12
 Youth Policy Institute Charter Schools,12
 Youth Uprising,12
-also,14
 and Commercial,12
 for Women,12
 of the bill,12
@@ -10530,6 +10509,7 @@ Commission,12
 Metropolitan Life Insurance Company,12
 Recreation Vehicle Industry Association,12
 of Police and Sheriffs,12
+Sacramento Housing & Redevelopment Agency,12
 11 Private Citizens,11
 1individual,11
 20 Pacific Institute,11
@@ -11458,7 +11438,6 @@ Sacramento Children's Home,11
 Sacramento Clean Cities Coalition,11
 Sacramento County Adult and Aging Commission,11
 Sacramento Horsemen's Association,11
-Sacramento Housing & Redevelopment Agency,12
 Sacramento Kings,11
 Sacramento Metropolitan Air Quality,11
 Sacramento Police Chief,11
@@ -11772,6 +11751,9 @@ O'Connor Woods,11
 Rifle Association,11
 Statutes of 2017,11
 pic] [pic,11
+"Alzheimer's Association, Northern California Chapter",11
+Be.group,11
+Council of Acupuncture and Oriental Medicine Association,11
 100% Pure,10
 30years After,10
 40 Acre Conservation League,10
@@ -11831,7 +11813,6 @@ Almond Growers Council,10
 Alpine Union School District,10
 "Alta Peak Chapter, California Native Plant Society",10
 "Alzheimer's Association, Central Coast Chapter",10
-"Alzheimer's Association, Northern California Chapter",11
 Amador Distillery,10
 Amador Valley Industries,10
 Amarillo Mutual Water Company,10
@@ -11848,7 +11829,6 @@ American Civil Liberties Union Northern California,10
 American College of Mohs Surgery,10
 American College of Surgeons: San Diego-imperial Chapter,10
 American Family Voices,10
-American Federation of State County and Municipal Employees (AFSME),10
 American Health Insurance Plans,10
 American Insurance Assn,10
 American Motorcyclist Association District 36,10
@@ -11936,7 +11916,6 @@ Bay Area Dog Lovers Responsible About Pit Bulls (BAD RAP),10
 Bay Cities Cocker Spaniel Club,10
 Bay Meadows Race Course,10
 "Bayer Material Science, LLC",10
-Be.group,11
 Beach Cities Midwifery & Women's Health Care,10
 Beer Institute,10
 Bell Gardens Mayor Pro Tem Salvador Franco,10
@@ -12287,7 +12266,6 @@ Cool Roof Systems,10
 Cornerstone Construction,10
 Corning,10
 Council for Environmental and Economic Balance,10
-Council of Acupuncture and Oriental Medicine Association,11
 Council of Philippine American Organizations of San Diego,10
 Council of Philippine American Organizations of San Diego County,10
 Council on Aging Orange County,10
@@ -12428,7 +12406,6 @@ Fax.com,10
 Feather River Charter School,10
 Federation of Insurance and Corporate Counsel,10
 Federation of Republican Women,10
-"Federation of State, County and Municipal Employees (AFSCME)",10
 Feline Foundation/Valley Animal Center,10
 Feline Friends International Club,10
 Fillgood,10
@@ -13234,7 +13211,6 @@ State Department of Financial Institutions,10
 State PTA,10
 State Teachers Retirement Board,10
 State of California Attorney General Rob Bonta,10
-"State, County and Municipal Employees (AFSCME) AFL-CIO",10
 States Council,10
 Statewide Law Enforcement Association,10
 Statutes of 2016,10
@@ -13350,8 +13326,6 @@ United Association of Journeymen and Apprentices of the Plumbing and Pipe,10
 United Farm Workers Union,10
 United Food,10
 United Houndsmen of California,10
-United Nurses Association/Union of Health Care,10
-United Nurses Associations of California/Union of Health Care Professionals (UNAC/UHCP),10
 United Schutzhund Clubs of America,10
 United States Environmental Protection Agency,10
 "United States Kerry Blue Terrier Club, Inc",10
@@ -13457,6 +13431,8 @@ Clayton Industries,10
 County Deputy Sheriffs' Association,10
 La Puente,10
 and Poverty,10
+California Society of Internal Medicine,10
+El Dorado County Public Health Department,10
 14 Individual Letters,9
 2007,9
 4Paws Pet Rescue - Fairfield,9
@@ -13475,8 +13451,6 @@ A. Philip Randolph Institute San Francisco,9
 A. Warren McClaskey Adult Center,9
 "A.G. Edwards & Sons, Inc",9
 ACLU of Northern California,9
-"AFSCME (American Federation of State, County and Municipal)",9
-AFSCME Council 36,9
 AIDS Emergency Fund,9
 APLA Health & Wellness,9
 APLUS Personalized Learning Network Association,9
@@ -15704,6 +15678,11 @@ El Dorado Irrigation District (EID),9
 National Reverse Mortgage Lenders Association,9
 Citizens for Better Environment,9
 Department of Transportation,9
+African Americans Building a Legacy of Health Project,9
+California Orthotics & Prosthetics Association,9
+National Association of Dental Plans,9
+University of Southern California Mobile Dental Clinic,9
+Modoc County Department of Health Services,9
 "10,000 Degrees",8
 1000 Grandmothers for Future Generation,8
 18 Million Rising,8
@@ -15748,7 +15727,6 @@ AdvoCal,8
 Aegis Treatment Centers,8
 Aes Clean Energy,8
 Afco Electronics,8
-African Americans Building a Legacy of Health Project,9
 Against Gun Violence,8
 Agroecology Commons,8
 Agua Caliente Band of Cahuilla Indians Tribal Council,8
@@ -15816,7 +15794,6 @@ American Community Media,8
 American Electronics,8
 American Epilepsy Society,8
 American Family Association,8
-"American Federation of State, County and Municipal Employees, District",8
 American Fire Safety Council,8
 American Friends Service Committee Pacific Mountain Region,8
 "American Gi Forum Education Foundation of Santa Maria, CA",8
@@ -15912,7 +15889,6 @@ Association of Healthcare Districts,8
 Association of Personalized Learning Schools and Services,8
 Association of Research Libraries,8
 "Association of Responsible Pet Ownership, Inc",8
-"Association of State, County and Municipal Employees",8
 "Astellas Pharma Us, Inc",8
 AstroCamp,8
 Atascadero High School Athletic Department,8
@@ -16192,7 +16168,6 @@ California National Organization for the Reform of Marijuana,8
 California Newspapers Publishers Association,8
 California Nurses Association/National Nurses Organizing,8
 California Orthotic and Prosthetic Association,8
-California Orthotics & Prosthetics Association,9
 California Outdoor Heritage Association,8
 California Oxybusters,8
 California Pacific Homes,8
@@ -16700,7 +16675,6 @@ Farmworker Caravan,8
 Farmworkers Institute of Education and Leadership Development,8
 Feather River Australian Shepherd Club,8
 Federated University Police Officers Association,8
-"Federation of State, County and Municipal Employees, AFL-CIO",8
 "Fieldman, Rolapp & Associates",8
 Fife Metal Fabricating Inc,8
 Fighting Back Partnership,8
@@ -17300,7 +17274,6 @@ Nathan Lee Traditional Chinese Medical Center,8
 National All-Breed Sporting Association,8
 National American SH Club,8
 National Assembly of American Slavery Descendants Los Angeles,8
-National Association of Dental Plans,9
 National Association of Energy Service Companies,8
 National Association of Firearms Retailers,8
 National Association of Latino Elected and Appointed Officials (NALEO) Educational Fund,8
@@ -18151,7 +18124,6 @@ United Food & Commercial Workers Western State Council,8
 United Food and Commercial,8
 United Institute,8
 United Neighbors San Dimas,8
-United Nurses Associations of California/Union of Healthcare Professionals,8
 United States Australian Shepherd Association,8
 United States Telecom Association,8
 United Teachers of Santa Clara,8
@@ -18161,7 +18133,6 @@ University Community Medical Center,8
 University of East-West Medicine,8
 University of Judaism,8
 University of San Diego Veterans Legal Clinic,8
-University of Southern California Mobile Dental Clinic,9
 University of Southern California School of Social Work,8
 "University, Sacramento",8
 Upland Peace Officers Association,8
@@ -18320,8 +18291,6 @@ as,8
 food,8
 j,8
 of California (PORAC),8
-"of State, County and Municipal Employees (AFSCME), AFL-CIO",8
-"of State, County and Municipal Employees, AFL-CIO",8
 of the San Francisco Bay Area,8
 on Aging,8
 American Veterinary Medical Association,8
@@ -18342,6 +18311,8 @@ Public Agency Coalition,8
 Received,8
 KIDS NETWORK,8
 SB 844,8
+California Association of School Business,8
+Golden Rain Foundation of Laguna Hills,8
 (EM)power + Resilience Project,7
 1 Physician,7
 "1,000",7
@@ -18369,7 +18340,6 @@ AAPI Force,7
 AB 34 X2,7
 "ACE Scholars Services, California State University San Marcos",7
 ACHLIC,7
-AFSME Retirees Chapter 36,7
 AI Safety Student Team (Harvard),7
 AIDS Healthcare,7
 AIM Melanoma,7
@@ -18513,8 +18483,6 @@ American Corn Growers Association,7
 American Council on Science and Health,7
 American Counseling Association,7
 American Driver and Traffic Safety Education Association,7
-"American Federation of State, County and Municipal Employees Association of",7
-"American Federation of State, County and Municipal Employees Local",7
 American Forests,7
 "American Gold STAR Mothers, Inc",7
 American Holistic Veterinary Medical Association,7
@@ -18915,7 +18883,6 @@ California Association of Medical Products,7
 California Association of Oral and Maxillofacial Surgeons (CALAOMS),7
 California Association of Regional Poison Centers,7
 California Association of Rehabilitation and Reemployment,7
-California Association of School Business,8
 California Association of School-Based and School-Linked,7
 California Association of Small and Multi-jurisdictional Utilities (CASMU),7
 California Association of Specialty Contractors,7
@@ -19048,7 +19015,6 @@ California School Bus Contractors,7
 California School Employees Assoc,7
 California School Nurses,7
 California Schools Joint Powers Authority,7
-California Society of Internal Medicine,10
 California Southern University,7
 California Spaceport Authority,7
 California Speech Pathologists and Audiologists in Private,7
@@ -19600,7 +19566,6 @@ El Concilio Family Services,7
 El Councillio del Conado de Ventura,7
 El Dorado County District Attorney,7
 El Dorado County Fire Protection District,7
-El Dorado County Public Health Department,10
 El Nido Family Centers,7
 El Peco Energy LLC,7
 El Pollo Loco,7
@@ -19617,8 +19582,6 @@ Emerald Cities Collaborative Bay Area,7
 Emergency Services Network,7
 Emperor's College,7
 Empire Union School District,7
-Employees (AFSME),7
-"Employees Association, American Federation of State, County and Municipal Employees 101, Council 57",7
 Employers' Fraud Task Force,7
 Employment Rights Center,7
 Empowerment,7
@@ -19815,7 +19778,6 @@ Gold Country Fair,7
 Golden Gate University,7
 Golden Hill Health Careers Academy,7
 Golden Hour Restoration Institute,7
-Golden Rain Foundation of Laguna Hills,8
 Golden Retriever Club of San Diego,7
 Golden State Bull Terrier Club,7
 Golden State Humane Society,7
@@ -20753,7 +20715,6 @@ ProUno,7
 Professional Scientists,7
 Professional and Technical,7
 "Professional and Technical Engineers, IFPTE Local",7
-Professionals (UNAC/UHCP),7
 Professor Marci Hamilton,7
 "Professor Scott Maurer, Santa Clara University School of Law",7
 Progressive Caucus of the California Democratic Party,7
@@ -21440,12 +21401,10 @@ United Against Nuclear Iran,7
 "United Agencies, Inc",7
 United Cerebral Palsy Association of San Diego County,7
 United Church of Christ,7
-United Domestic Providers of America/AFSCME,7
 United Irish Society of San Francisco,7
 United Laguna Hills Mutual,7
 United Lowrider Coalition,7
 United Medical Group Association,7
-United Nurses Associations/Union of Health Care,7
 United Professional Firefighters,7
 United Spinal Association,7
 United States Army,7
@@ -21677,6 +21636,10 @@ United Acupuncture Association,7
 Water 4 Fish,7
 AEGON USA,7
 Advance Driving School,7
+Glenn County Rangeland Association,7
+State Department of Health Services,7
+Hotel Employees and Restaurant Employees Local No. 49,7
+Private Citizens,7
 10th AD Democrats,6
 13th Bomb Squadron Association,6
 180 Solar Power,6
@@ -21703,8 +21666,6 @@ ABD/skywatchers,6
 AFL-CIO California Federation of Teachers,6
 AFL-CIO Judy Michaels,6
 "AFM Transportation Services, Inc",6
-AFSCME 3299,6
-AFSCME Local,6
 AGSJ,6
 AGWC Rockin Rescue,6
 AI Procurement Lab,6
@@ -21888,7 +21849,6 @@ American Association of Advertising,6
 American Association of Advertising Agencies (4A's),6
 American Association of Jewish Lawyers and Jurists,6
 American Association of Preferred Provider Organizations,6
-American Association of State County and Municipal Employees,6
 "American Association of University Women, Palos Verdes",6
 "American Association of University Women, Santa Barbara",6
 "American Association of University Women, Santa Barbara-Goleta Valley",6
@@ -21908,8 +21868,6 @@ American Craft Spirits Association,6
 American Eagle Wheel Corporation,6
 American Federation of Labor and Congress of Industrial,6
 American Federation of Nurses,6
-American Federation of State County and Municipal Employees District Council 36,6
-"American Federation of State, County & Municipal Employees (AFSCME) AFL-CIO",6
 "American Federation of State, Local and Municipal Employees",6
 American Federation of Television and Radio Employees,6
 American Feed Industry Association,6
@@ -23506,7 +23464,6 @@ Federal Hemophilia Treatment Center - Region IX,6
 Federal Prison Health Care Receiver,6
 Federation of California Builders Exchanges,6
 Federation of Independent Seafood Harvesters,6
-"Federation of State, County and Municipal Employees (AFSCME), AFL",6
 Fence Association,6
 "Feral Feline Feeders, Inc",6
 Ferndale Unified School District,6
@@ -23669,7 +23626,6 @@ Gilbane,6
 Glendale Municipal Court Judges,6
 Glendale News-press,6
 Glendale Redevelopment Agency,6
-Glenn County Rangeland Association,7
 Global Election Systems,6
 "Global Environmental Network, Inc",6
 Global Justice Institute,6
@@ -24541,7 +24497,6 @@ MoSys Inc,6
 Mobile Medical Office,6
 Mobilehome Park Owners Alliance,6
 Modesto and Empire Traction Company,6
-Modoc County Department of Health Services,9
 Modoc LAFCO,6
 Mogavero Architects,6
 Mojave Weed Management Area,6
@@ -25879,7 +25834,6 @@ State Board of Equalization Chairwoman Betty T. Yee,6
 State Coalition of Probation Officers,6
 State Coastal Conservancy,6
 State Contractors License Board,6
-State Department of Health Services,7
 State Office of Emergency Services,6
 State School Building Lease-Purchase Bond Law of 1982 $500,6
 State Superintendent of Public Education,6
@@ -25890,7 +25844,6 @@ State of,6
 State of California Commission on the Status of,6
 State of California Hearing Aid Dispensers Examining,6
 "State of California, Treasurer",6
-"State, County and Municipal Employees, AFL-CIO",6
 States Council of the United Food & Commercial,6
 Statewide Alliance of Tenants,6
 Statutes of 2010,6
@@ -26176,11 +26129,9 @@ United Chambers of Commerce of San Fernando Valley,6
 United Christian Centers,6
 United Companies Lending Corporation,6
 United Distillers and Vintners North America,6
-United Domestic Workers of America (UDW),6
 United Food and Commercial Workers' Region 8 States,6
 United Hindu Council,6
 United Methodist Women,6
-United Nurses Association/Union of Health Care Professionals,6
 United Pier & Shore Anglers of California,6
 United States Air Force,6
 United States Green Building Council California Chapter,6
@@ -26518,6 +26469,11 @@ The Swimming Pool Chemical Manufacturers Association,6
 Ventura Visitors and Convention Bureau,6
 California Association of Park Districts,6
 Department of Justice,6
+Alameda County Children and Families Commission,6
+Citizen,6
+Patients,6
+"Speeders Network, Inc",6
+Whole Person Learning,6
 "100 Black Men of Los Angeles, Inc",5
 100%pure,5
 10th Street Distillery,5
@@ -26585,10 +26541,7 @@ ADCO,5
 ADEM District 41,5
 ADF Networking Consultancy,5
 AEsynergy,5
-"AFSCME District Council 36, Los Angeles, AFL-CIO",5
-"AFSCME District Council 57, San Jose, AFL-CIO",5
 AFSMCE,5
-"AFSME, AFL-CIO",5
 AGI Capital,5
 AHA Foundation,5
 "AIDS Coordinator's Office, Department of Disability, City",5
@@ -26719,7 +26672,6 @@ Al Graf Bail Bonds,5
 Al Wooten Jr. Heritage Center,5
 Alameda County Abandoned Vehicle Abatement Authority,5
 Alameda County Breastfeeding Coalition,5
-Alameda County Children and Families Commission,6
 Alameda County Democratic Party Central Committee,5
 Alameda County District,5
 Alameda County Flood Control & Water Conservation District,5
@@ -26848,7 +26800,6 @@ Ambedkar-phule Network of American Dalits and Bahujans,5
 Amboseli Trust for Elephants,5
 Ambry Genetics,5
 Amelco Electric,5
-"America Federation of State, County and Municipal",5
 "America Institute of Architects, California Council",5
 America's Finest Felines,5
 American Academy,5
@@ -26901,7 +26852,6 @@ American Dance Therapy Association,5
 American Fathers Coalition,5
 "American Federation of Federal, State, County and Municipal",5
 "American Federation of Labor and Congress of Industrial Unions, AFL-CIO",5
-"American Federation of State, County and Municipal Employees (AFSCME) Local",5
 American Federation of Television & Radio Artists,5
 American Friends Services Committee,5
 American Glaucoma Society,5
@@ -28322,7 +28272,6 @@ Circuit,5
 Cities & Counties,5
 Cities of Oakland,5
 "Cities of: Adelanto, Agoura Hills, American Canyon, Antioch, Arvin, Atascadero, Azusa, Bell Gardens, Bellflower, Belmont, Benicia, Berkeley, Beverly Hills, Bishop, Blythe, Brea, Brisbane, Burbank, Burlingame, California City, Calistoga, Camarillo, Carlsbad, Carmel-by-the-Sea, Carson, Chowchilla, Citrus Heights, Clayton, Cloverdale, Clovis, Coalinga, Colfax, Commerce, Concord, Costa Mesa, Cotati, Covina, Cypress, Daly City, Diamond Bar, Dixon, El Cajon, El Segundo, Emeryville, Encinitas, Exeter, Fairfield, Folsom, Fontana, Fortuna, Foster City, Fountain Valley, Fowler, Fremont, Fullerton, Glendora, Grand Terrace, Greenfield, Gridley, Guadalupe, Half Moon Bay, Hanford, Healdsburg, Hermosa Beach, Hesperia, Highland, Hollister, Huntington Beach, Huntington Park, Huron, Imperial Beach, Irvine, Irwindale, Jackson, Kingsburg, La Palma, La Puente, La Verne, Lafayette, Laguna Beach, Laguna",5
-Citizen,6
 Citizen's Privacy Coalition,5
 Citizens Against Lawsuit Abuse - Central California,5
 Citizens Against Lawsuit Abuse - Northern California,5
@@ -28754,7 +28703,6 @@ County Heath Executives Association of California,5
 County Sheriff's Office,5
 County Superior Court,5
 County Treasurers and Tax Collectors,5
-County and Municipal Employees (AFSCME) AFL-CIO,5
 County and Municipal Employees California Labor Federation,5
 County of Bernardino,5
 County of Ca,5
@@ -29316,7 +29264,6 @@ Federation of,5
 Federation of Hillside and Canyon Homeowner Associations,5
 Federation of Retired Union Members of Santa Clara and San,5
 Federation of Schools of Accountancy,5
-"Federation of State, County and Municipal Employees (AFSCME), AFL-CIO",5
 Feed Black Futures,5
 Feel the Bern San Fernando Valley,5
 Feel the Bern San Fernando Valley Democratic Club,5
@@ -29912,7 +29859,6 @@ Hospice of Emanuel (Turlock),5
 Hospice of the Valley (San Jose),5
 Hospital Council of Northern and Central California,5
 Hotel Bel Air,5
-Hotel Employees and Restaurant Employees Local No. 49,7
 "Hotel Employees and Restaurant Employees Local No. 49, Sacramento",5
 Hotel Employees and Restaurant Employees Union of San,5
 Hotel and Restaurant Employees International Union,5
@@ -31565,7 +31511,6 @@ Pathology Medical Laboratories,5
 Pathways Home Health and Hospice,5
 Pathways Volunteer Hospice,5
 Patient Protection,5
-Patients,6
 "Patrick Henry Middle School, LA Unified",5
 Patterson District Ambulance,5
 Patterson Westside Farm (Patterson),5
@@ -31758,7 +31703,6 @@ Printing United Alliance,5
 Priority Africa Network,5
 Prison Yoga + Meditation,5
 Prisoner Hunger Strike Solidarity,5
-Private Citizens,7
 "Pro Loaders, Inc",5
 Pro Uno,5
 Pro Uno Maywood,5
@@ -32300,7 +32244,6 @@ San Francisco Sunshine Ordinance Task Force,5
 San Francisco Superior and Municipal Courts,5
 San Francisco Treasurer & Tax Collector Jose Cisneros,5
 San Francisco Unifies School District,5
-San Francisco United Domestic Workers of America Darnell Miles,5
 San Francisco Wildlife Center,5
 San Francisco Wildlife Rescue and Yggdrasil Urban Wildlife Rescue of Oakland,5
 San Francisco Women Lawyers,5
@@ -32777,7 +32720,6 @@ Specialty Tobacco Council,5
 Spectrum Center Schools,5
 Speech Pathology Associates of San Diego,5
 Speech-Language Pathology and Audiology Examining Committee,5
-"Speeders Network, Inc",6
 Sperantia,5
 Spidell,5
 Spina Bifida Association of America,5
@@ -33273,7 +33215,6 @@ UCLA Bixby Center on Population and Reproductive Health,5
 UCLA Center for Health Policy Research,5
 UCSF Hemophilia Treatment Center,5
 UCSF Immigration & Deportation Defense Clinic,5
-UDW Homecare Providers Union,5
 UNITE Western States Regional Joint Board,5
 UPSTREAM Policy Institute,5
 US Autism & Asperger Association,5
@@ -33331,7 +33272,6 @@ United Marble & Granite Inc,5
 United Mexican-American Veterans Association,5
 United Native Americans Inc,5
 "United Natural Foods, Inc",5
-United Nurses Association of California / Union of Health Care Professionals,5
 United Rentals Menifee,5
 United Rentals Modesto,5
 United Reporting Publishing Crime Beat News,5
@@ -33751,7 +33691,6 @@ of Pomona,5
 of Santa Monica,5
 of Schools,5
 of Social Workers - California Chapter,5
-"of State, County and Municipal Employees, AFSCME",5
 on Moral Concerns,5
 pic,5
 who,5
@@ -33782,6 +33721,9 @@ Container Corporation of America,5
 IBEW Local Union 11,5
 Welfare Action,5
 Word and Brown,5
+California Environmental Protection Agency (CalEPA),5
+Commissioner,5
+Poor Richards Pipe and Tobacco Shop,5
 1-2-3 Express,4
 100 Percent Campaign,4
 100% Campaign: Health Insurance of Every California Child,4
@@ -33913,13 +33855,10 @@ ACVS Veterinary Surgeon,4
 AFA Chapter,4
 AFA Construction Group,4
 AFCME,4
-AFL-CIO AFSCME,4
 AFL-CIO California Tax Reform Association,4
 AFL-CIO California Teachers Association,4
 AFL-CIO Cement Masons,4
 AFL-CIO-Active Retirees Club Local No. 3,4
-AFSCME District Council 57,4
-AFSCME/UNAC-UHCP United Nurses Associations of California- Union of Health Care Professionals,4
 AFTCO,4
 AG Associates,4
 AGB:DLW:do 8/30/10 Senate Floor Analyses,4
@@ -34287,7 +34226,6 @@ Alzheimer's Association of Los Angeles,4
 "Alzheimer's Association of Los Angeles, Riverside and San",4
 Alzheimer's Association-California Council,4
 Alzheimer's Community Care Consortium,4
-"Am. Federation of State, County & Municipal Employees (AFSCME)",4
 Amada Home Care,4
 Amador City,4
 Amador County Air Pollution Control District,4
@@ -34372,17 +34310,9 @@ American Elasmobranch Society,4
 American Emergency Clinic,4
 "American Ex-Prisoners of War, Cessna-Sargent Bakersfield Chapter",4
 American Family Disease Coalition,4
-"American Federation State, County, Municipal Employees, AFL-CIO",4
 "American Federation of Aviculture (Kansas City, Missouri)",4
-"American Federation of Federal, State and Municipal Employees (AFSME)",4
 "American Federation of Nurses, SEIU 535",4
 "American Federation of Sate, County and Municipal Employees",4
-"American Federation of State, County and Municipal Employees (AFCSME)",4
-"American Federation of State, County and Municipal Employees American Lung",4
-"American Federation of State, County and Municipal Employees, Council 57",4
-"American Federation of State, County and Municipal Employees, District Council",4
-"American Federation of State, County and Municipal Employees, International",4
-"American Federation of State, County, and State Employees",4
 "American Federation of State, Municipal and County Employees",4
 American Federation of Television and Radio,4
 "American Federation of the State, County and Municipal",4
@@ -34781,7 +34711,6 @@ Associated Students of UC San Diego,4
 "Associated Students of University of California, Merced",4
 "Associated Students of the University of California, Santa Barbara",4
 "Associated Students, Incorporated, California State University Sacramento",4
-Association (AFSCME),4
 Association (CMA),4
 Association (CMTA),4
 Association (CSEA),4
@@ -35987,7 +35916,6 @@ California Employer's Association,4
 California Energy Exchange Corporation,4
 California Enterprise Industries,4
 California Environmental Health & Justice Team of the Women's Policy Institute,4
-California Environmental Protection Agency (CalEPA),5
 California Equestrian Trails and Lands Coalition,4
 California Extended Functions Association,4
 California Faculty Association - San Francisco State,4
@@ -37241,7 +37169,6 @@ Commission of Teacher Credentialing,4
 Commission on Peace Officers Standards and Training (POST),4
 "Commission on the Status of Women, Marin County",4
 Commission on the Status of Women--Alameda County,4
-Commissioner,5
 "Commissioner Becker, San Diego County Cable TV Review Commission",4
 Commissioners Assoc,4
 Commissioners and Sealers,4
@@ -42917,7 +42844,6 @@ Ponderosa Homes II Inc,4
 Ponderosa Resort (Coloma),4
 Pony Cross Farm,4
 Pool Participants,4
-Poor Richards Pipe and Tobacco Shop,5
 Population Control,4
 Population Stabilization,4
 Port of Oakland (Oakland Airport),4
@@ -45680,7 +45606,6 @@ United Church of Christ Palestine Israel Network,4
 "United Church of Christ, Northern California/Nevada Conference",4
 "United Coalition East Prevention Project, Los Angeles",4
 United Defense,4
-"United Domestic Workers/American Federation of State, County and Municipal",4
 United Educators of San Francisco - Retired Division,4
 United Families for Justice,4
 United Federation of Small Business,4
@@ -45704,9 +45629,6 @@ United Mutual of Laguna Woods Village,4
 United Nations Association - USA & UNESCO Santa Barbara County Chapters,4
 United Nations Association of the USA - San Diego Chapter,4
 United Nations Conference on Environment and Development,4
-United Nurses Association of California/Union of Healthcare Professionals,4
-United Nurses Associations of CA-Union of Health Care Professionals,4
-United Nurses Associations of California/ Union of Health,4
 United Organ Transplant Association,4
 United Religions Initiative,4
 United Reporting Crime Beat News,4
@@ -46176,7 +46098,6 @@ Whittier Boulevard Merchants Association,4
 Whole Balance,4
 Whole Cluster Hospitality,4
 Whole Person Care Clinic,4
-Whole Person Learning,6
 Wiconduit,4
 "Wilbanks and Associates, Inc",4
 Wilcox and Vicinity Enhancement,4
@@ -46372,7 +46293,6 @@ and Community Development,4
 and Consumer Rights,4
 and Equality,4
 and Gays,4
-"and Municipal Employees (AFSCME, AFL-CIO)",4
 and Paramount,4
 and Pregnancy Prevention,4
 and Professional Women,4
@@ -46472,6 +46392,10 @@ Promotions West,4
 SB 101,4
 USAA Group,4
 Western Dental Plan,4
+Verified,4
+California Hotel & Motel Association California Restaurant Association,4
+National Small Business United,4
+Society of Landscape Architects,4
 (the former) LIFE Lobby,3
 020 Squad Club,3
 1 Method,3
@@ -46720,8 +46644,6 @@ AEL Construction,3
 AEMA an Association of Members of the Accessibility Industry,3
 AERA Energy LLC,3
 AF Evans,3
-"AFSCME - American Federation of State, County and Municipal Employees",3
-AFSCME Council 1902 Metropolitan Water District,3
 "AFT Gild, San Diego Community Colleges",3
 AGC California,3
 AGC San Diego Chapter,3
@@ -46963,7 +46885,6 @@ Aerofund Financial,3
 Aerojet-General Corporation,3
 Aesthetic Installations,3
 Aetna Life Insurance Company,3
-Afcsme District Council 36,3
 Affiliated Computer Services,3
 Affiliated Computer System,3
 Affiliated Development Group,3
@@ -47313,10 +47234,8 @@ Ambulatory Surgical Treatment,3
 Ameican for Medical Rights,3
 Amelco Electric SF,3
 "Amelia Borcalli, Council Member",3
-"Amended: American Federation of State, County, & Municipal",3
 "Amer-I-Can Program, Inc",3
 AmeriSpec & Furniture Medic,3
-"America Federation of State, County and Municipal Employees, (AFSCME)",3
 "America Truck Driving School, Inc",3
 America Undivided,3
 America's Drugs Stores,3
@@ -47399,23 +47318,11 @@ American Family Life Assurance Company,3
 American Family Life Insurance Company of Columbus,3
 "American Farmland Trust, California Farm Bureau",3
 "American Federation County, State and Municipal Employees",3
-American Federation State County Municipal,3
-"American Federation f State, County, and Municipal Employees",3
 American Federation of State & Municipal,3
-"American Federation of State County and Municipal Employee, AFL-CIO",3
 American Federation of State and County Employees,3
-"American Federation of State, County & Municipal Employees, AFL-CIO (AFSCME)",3
-"American Federation of State, County and Municipal Employees (AFSME), AFL",3
-"American Federation of State, County and Municipal Employees (ASFCME)",3
-"American Federation of State, County and Municipal Employees, AFL-CIO American Legion-Department of California",3
-"American Federation of State, County and Municipal Employees, Associated Builders and Contractors of California",3
-"American Federation of State, County and Municipal Employees, California Peace Officers Association",3
-"American Federation of State, County, and Municipal Employees Retirees, Chapter 36",3
-"American Federation of State, County, and Municipal Employees, State",3
 "American Federation of State, Local and Municipal",3
 "American Federation of State, Municipal and County",3
 American Federation of Teachers California Federation of Teachers,3
-"American Federations of State, County, and Municipal Employees",3
 American Fence,3
 American Fintech Council,3
 American First Credit Union,3
@@ -47548,7 +47455,6 @@ American Veterans-Department of California,3
 American Way of Death Revisited,3
 American Wind Energy Association Atlantis Energy,3
 American for Medical Rights,3
-"American of Federal, State, County and Municipal Employees, AFL-CIO Peace Officers Research Association of California",3
 Americans United for Separation of Church & State Orange County,3
 Americans for Constitutional Protection of Children,3
 "Americans for Democratic Action, Southern California Chapter",3
@@ -47983,7 +47889,6 @@ Assn. of Calif. Water Agencies,3
 Assoc of California School Administrators,3
 Assoc. of CA Life and Health,3
 Assoc. of California Insurance Companies,3
-"Assoc. of Federal, State, County and Municipal Employees, Inc., AFL-CIO",3
 Assoc. of Independent CA Colleges and Universities,3
 Assoc. of Orange County Deputy Sheriffs,3
 Associate General Contractors,3
@@ -49393,7 +49298,6 @@ CIELO,3
 CIF Los Angeles City Section - Los Angeles Unified School,3
 "CIF Southern Section - Santa Barbara, Ventura, San",3
 CIMCO,3
-CIO (AFSCME),3
 CIT Group,3
 CJ Ventures,3
 CJA,3
@@ -52856,7 +52760,6 @@ County Treasurer-Tax Collectors' Association,3
 County Welfare Directors Assoc,3
 County and Municipal Employees American Academy of Pediatrics,3
 County and Municipal Employees American Legion,3
-County and Municipal Employees-Health and Social Service Professionals (AFSCME),3
 County of AARP,3
 County of Alameda Social Services Agency,3
 County of Alameda Supervisor Nikki Fortunato Bas,3
@@ -54143,7 +54046,6 @@ Empire Springs Charter School,3
 Empirical Policy,3
 Employees Assn,3
 Employees Association for Los Angeles Deputy Sheriffs,3
-Employees(AFSCME),3
 "Employees, 144 Retiree",3
 "Employees, Moving Picture Technicians, Artists, and Allied Crafts of the United States",3
 "Employees, plus Locals 1555, 1574, 1902",3
@@ -61546,7 +61448,6 @@ Professional Peace Officers,3
 Professional Skin & Body Care Inc,3
 "Professional Small Business Services, INC",3
 "Professional and Technical Engineers, Local",3
-Professionals (UNAC/UHCP/AFSCME),3
 Professor,3
 "Professor Eugene Volokh, UCLA School of Law",3
 Professor Michelle Wilde Anderson,3
@@ -63099,7 +63000,6 @@ San Francisco Unified School District Advisory Committee For Special Education,3
 San Francisco Unified School District Community Advisory Committee For Special Education,3
 San Francisco Unified School District Science Department,3
 "San Francisco Unified School District, School Health",3
-San Francisco United Domestic Workers of America,3
 San Francisco Veterans Employment Committee,3
 San Francisco Waldorf High School,3
 San Francisco Water Power,3
@@ -65547,7 +65447,6 @@ The Western Center on Law and Poverty (Western),3
 The Westin Bonaventure,3
 The Wholley Group,3
 The Wildwoods Foundation,3
-The Wilson Group for the United Nurses Association,3
 The Women's Coalition,3
 The Women's Collective/La Colectiva de Mujeres,3
 The Women's Division of The United Methodist Church,3
@@ -65999,7 +65898,6 @@ UFCW International,3
 UFCW-Western States Council,3
 "UKIAH UNIFIED 6,777",3
 UN Global Sustainability Index Institute,3
-UNAC/UHCP,3
 UNICEF USA,3
 "UNION ELEMENTARY 5,063",3
 UNPAVE LA,3
@@ -66077,7 +65975,6 @@ Union Roofing Contractors,3
 Union Station Foundation,3
 Union for Reform Judaism,3
 "Union for Reform Judaism, Pacific Southwest Council",3
-"Union of American Physicians and Dentists, Affiliated with AFSCME, AFL-CIO",3
 Union of California Physicians and Dentists,3
 Union of Concerned Citizens,3
 Union of Healthcare Professionals,3
@@ -66139,9 +66036,6 @@ United Chambers of Commerce of the San Fernando Valley & Region,3
 "United Corporate Furnishings, Inc",3
 United Democrats of El Dorado County,3
 United Democrats of Southern Solano County,3
-United Domestic Providers of America,3
-"United Domestic Workers of America / Afscme, Afl-cio",3
-"United Domestic Workers/American Federal of State, County and Municipal",3
 "United Educators, San Francisco",3
 United Families California,3
 United Farm,3
@@ -66180,11 +66074,6 @@ United National Bank,3
 United Nations Pomo Council,3
 United Nurse Association of California/Union of Health Care,3
 United Nurses Assoc. of California/Union of Health Care Professionals,3
-United Nurses Association / Union of Health Care,3
-United Nurses Association of California/Union of,3
-United Nurses Association of California/Union of Heath Care Professionals,3
-"United Nurses Association/Union of Health Care Professionals, AFSCME",3
-United Nurses Associations of California/Union of,3
 "United Nurses, Registered Nurses, Registered Nurse",3
 "United Oil Company, Gardena",3
 United Parents & Students,3
@@ -67523,8 +67412,12 @@ Providian,3
 SB 721 (Battin) PageB,3
 "Union Rescue Mission, Los Angeles",3
 Valley Skilled Nursing Facility,3
-Verified,4
 Willie C. Velasquez Center,3
+California Mental Health Advocates for Older Adults,3
+Concerns: California State Association of Counties,3
+County of San Francisco Commission on the Aging,3
+Los Angeles Criminal Courts Bar Association,3
+"Organization of Chinese Americans, Inc., Silicon Valley Chapter",3
 (former) Senator Patrick Johnston,2
 ", Greater Los Angeles, and Orange County",2
 00 Inkjets.com,2
@@ -68015,7 +67908,6 @@ ADOS California,2
 AEL Advocacy,2
 AERC Recycling Solutions,2
 AF3IRM Los Angeles,2
-AFCSME California,2
 AFG Industries Inc,2
 AFL-CIO AMVETS,2
 AFL-CIO American Legion,2
@@ -68034,13 +67926,6 @@ AFL-CIO SMART-Transportation Division,2
 AFL-CIO Sheet Metal,2
 "AFL-CIO, National Federation",2
 "AFSCMC, AFL-CIO",2
-"AFSCME - American Federation of State, County and Municipal Employees, AFL",2
-AFSCME - Health and Social Service Professionals,2
-AFSCME Council 36 - Los Angeles,2
-AFSCME District Council 36 and 57,2
-AFSCME Retiree Chapter,2
-AFSCME Retiree Chapter 57,2
-"AFSCME, AFL-CIO, Council 57",2
 AFT 1521 E Board (LACCD),2
 AFT Adjunct Faculty United,2
 AFT College Guild,2
@@ -69149,7 +69034,6 @@ Ambulatory Surgery Center of Stockton,2
 AmeriPride Uniform Services,2
 America Cancer Society,2
 America East Bay Market Team,2
-"America Federation of State, County and Municipal Employees, AFL-CIO",2
 America G.I Forum of California,2
 America Golden Property LLC,2
 "America Legion, Department of California",2
@@ -69280,7 +69164,6 @@ American Civil Liberties Union of Southern and Northern California,2
 "American Civil Liberties Union, South Bay Chapter",2
 American Civil Liberties Union/Northern California,2
 American Civil Liberties Union/Northern/Southern California/San Diego and Imperial Counties,2
-"American Civil Liberties UnionAmerican Federation of State, County and Municipal Employees",2
 American Civil Liberties Unions,2
 American Civil Responsibilities,2
 American Civil Rights Association,2
@@ -69347,7 +69230,6 @@ American Ethnic Ministries,2
 American Fare Contractors' Association,2
 American Farm Land Trust,2
 American Faucet & Coating Corporation,2
-"American Federal of State, County and Municipal Employees, District Council 36",2
 American Federation of Labor and Congress of Industrial Organizations (AFL-CIO),2
 American Federation of Labor and Congress of Industrial Unions,2
 "American Federation of Stare, County, and Municipal",2
@@ -69355,22 +69237,8 @@ American Federation of State and County,2
 American Federation of State and County Municipal,2
 "American Federation of State and County Municipal Employees, AFL-CIO",2
 "American Federation of State and County and Municipal Employees, AFL-CIO",2
-American Federation of State and Municipal Employees (AFSCME),2
 "American Federation of State and Municipal Employees, AFL-CIO",2
-"American Federation of State, Co. & Municipal Employees (AFSCME)",2
 "American Federation of State, Counties, and Municipal Employees",2
-"American Federation of State, County an Municipal Employees",2
-"American Federation of State, County and Municipal Association",2
-"American Federation of State, County and Municipal Employees (AFSCME), AFL-CIO, California Labor Federation (CLF)",2
-"American Federation of State, County and Municipal Employees (as)",2
-"American Federation of State, County and Municipal Employees, AFL-CIO, District Council 36",2
-"American Federation of State, County and Municipal Employees, CA",2
-"American Federation of State, County and Municipal Employees, Chapter 36",2
-"American Federation of State, County and Municipal Employers",2
-"American Federation of State, County, Municipal Employees (AFSCME) The Greenspan Company",2
-"American Federation of State, County, and Municipal Employees, ACSFME",2
-"American Federation of State, County, and Municipal Employees, AFL-CIO California Conference of Machinists",2
-"American Federation of State, CountyNone on file",2
 American Federation of Television and Radio Artists AFMA,2
 American Fence Contractors,2
 "American Fences Contractors' Association, California Chapter",2
@@ -69595,7 +69463,6 @@ American Sportsfishing Association,2
 American Staffordshire Terrier Club,2
 American Staffordshire Terrier Representative Organization (ASTRO),2
 American Star Railways,2
-"American State, County and Municipal Employees",2
 American Styrenics,2
 "American Subcontractors Association, California Chapter",2
 American Supply Association,2
@@ -70615,7 +70482,6 @@ Association of Engineers and Geologists,2
 Association of Environmental Health,2
 Association of Environmental Planners,2
 Association of Environmental Professional,2
-Association of Federal State County and Municipal Employees,2
 "Association of Federal, State, and County and Municipal",2
 Association of Fire Fighters,2
 Association of Firearm Retailers,2
@@ -72313,7 +72179,6 @@ Budget Coinz,2
 Budget PrePay Inc,2
 Budget Rent a Car of Los Angeles,2
 Budget Rental Car of Southern California,2
-Budget Request. The United Nurses Associations of California/Union of Health Care Professionals,2
 Budongo Conservation Field Station,2
 "Buehler & Buehler Structural Engineers, Inc",2
 Buellton Education Association,2
@@ -74389,7 +74254,6 @@ California Homeowner Association Law,2
 California Hospital Association and Tenet,2
 California Hospital Conference,2
 California Hotel & Lodging,2
-California Hotel & Motel Association California Restaurant Association,4
 California Hotel and Motel Associations,2
 California Hotel-Motel Association,2
 California House Officer Medical Society,2
@@ -74576,7 +74440,6 @@ California Medical Association Foundation,2
 California Medical Association Resident Physician,2
 California Medical Association Unknown,2
 "California Medical Training Center, UC Davis",2
-California Mental Health Advocates for Older Adults,3
 California Mental Health Coalition for Special Needs Housing,2
 California Mental Health Director Association,2
 California Mental Health Directors Continued,2
@@ -75220,7 +75083,6 @@ California Tahoe Alliance: City of South Lake Tahoe,2
 California Tax Association,2
 California Tax Reform Assoc,2
 California Tax Reform Association (Boeing),2
-"California Tax Reform Association, American Federation of State, County and Municipal Employees",2
 "California Tax Reform Association, East Bay Municipal",2
 California Taxpayeros Association,2
 California Taxpayers Association (as),2
@@ -78590,7 +78452,6 @@ Concerned Women for America of California - San Diego/Imperial,2
 Concerned Women of America Legislative Action Committee,2
 "Concerned: American Institute of Architects, California Council (AIACC)",2
 Concerned: California Cosmetology Coalition,2
-Concerns: California State Association of Counties,3
 Concilio Child Care Centers,2
 Conco Cement Company,2
 "Concord Child Care Center, Inc., Contra Costa County Board of Supervisors",2
@@ -79631,7 +79492,6 @@ County of San Diego Juvenile Justice Commission,2
 "County of San Diego, Department of Social Services",2
 "County of San Diego, San Diego County Assessor Ernest Dronenburg, Board of Equalization Member Michelle Steele",2
 "County of San Diego, Veterans Service",2
-County of San Francisco Commission on the Aging,3
 County of San Gabriel,2
 County of San Joaquin - Child Protective Services Kathryn Merrill,2
 County of San Joaquin Housing Authority,2
@@ -79736,7 +79596,6 @@ County of Yuba Cities of Barstow,2
 County of Yuba Clerk Recorder,2
 County of Yuba Health and Human Services Department,2
 County of Yuba River Moulding,2
-"County, CA. State Assoc. of Counties (CSAC) (AFSCME)",2
 "County, Los",2
 "County, Los Angeles County, Marin, Mendocino County, Metropolitan State Hospital, Monterey County, Mt. San",2
 "County, Orange County, San Luis Obispo County, Southern Santa",2
@@ -81739,7 +81598,6 @@ Employee Relations Board (ERB) and the Los Angeles County Employer,2
 "Employee Representation Services, Inc",2
 "Employees Action Committee, AFL-CIO",2
 "Employees Association, AFL-CIO",2
-"Employees Association, American Federation of State, County & Municipal Employees 101, Council 57",2
 Employees Benefit Association,2
 Employees Housing Coalition,2
 "Employees International Union, AFL-CIO",2
@@ -81750,7 +81608,6 @@ Employees' Retirement System (CalPers),2
 "Employees, District Council 57",2
 "Employees, Laborers' International Union of North America",2
 "Employees, Retirement and Social Security Committee",2
-Employers (AFSCME),2
 Employers Association,2
 Employers Health Care,2
 "Employers Health Insurance (EHI)/EMPHESYS Financial Group, Inc",2
@@ -82460,8 +82317,6 @@ Federation of Paralegal Associations,2
 Federation of Professional and Technical Engineers,2
 Federation of Retired Union Members of Santa Clara,2
 Federation of Retired Union Members/Santa Clara County,2
-"Federation of State, County and Municipal Employees, AFL-CIO (AFSCME)",2
-"Federation of State, County and Municipal Employees, California Federation",2
 "Federation of Teachers, AFL-CIO",2
 Federation of Television and Radio Artists,2
 "Federation, Construction Materials Association of",2
@@ -84165,7 +84020,6 @@ Guardian Scholars at Pierce College,2
 Guardian Xray,2
 "Guardsman Products, Inc",2
 Guaymas Restaurant,2
-"Gudwara Guru Angad Darbar, Inc",2
 Guesthouse Inn and Suites,2
 Guglielmetti Trucking,2
 Guide Dog Users of America,2
@@ -84190,7 +84044,6 @@ Gurdwara Sahib Hayward,2
 Gurdwara Sant Sagar,2
 Gurdwara Sri Sachkand Sahib,2
 Gurdwara Sukh Sagar Sahib,2
-Gurudwara Sant Sagar,2
 Gustine High School,2
 Gutride Safier LLP,2
 Guttman & Blaevoet Consulting Engineers,2
@@ -85476,7 +85329,6 @@ Imperial County Public Defender's Office,2
 Imperial County Residents Pro-Environmental Justice,2
 Imperial County Schools Advocacy Assn,2
 Imperial County and 16 Affiliate Unions,2
-"Imperial County, American Federation of State, County, and Municipal Employees",2
 Imperial Public Library,2
 Imperial Resource Recovery Associates,2
 Imperial Roofing,2
@@ -88657,7 +88509,6 @@ Los Angeles County Veterans Advisory Council,2
 Los Angeles County Waterworks,2
 Los Angeles County and City Caucus,2
 "Los Angeles County, Chief Executive Office, Office of Emergency Management",2
-Los Angeles Criminal Courts Bar Association,3
 Los Angeles Department of Children's Services,2
 Los Angeles Dependency Court Lawyers,2
 "Los Angeles Dependency Lawyers, Inc. (LADL)",2
@@ -89207,7 +89058,6 @@ Manufactured-Home Owners League (GSMOL),2
 Manufacturers & Technology,2
 Manufacturers Environmental Coalition,2
 Manufacturing Group,2
-Many (unaccredited) Law Schools,2
 Manzanita Capital Collective,2
 Manzanita Elementary,2
 Manzanita and of the Kumeyaay Nation,2
@@ -90738,7 +90588,6 @@ Municipal Court Judges' Association of,2
 Municipal Court of Los Angeles,2
 "Municipal Court, South Orange County Judicial District",2
 Municipal Courts of South Bay,2
-Municipal Employees (AFSCME),2
 Municipal Judges Association of Los Angeles,2
 Municipal Treasurers Association,2
 Municpal Court of L.A. Judicial Districts,2
@@ -91346,7 +91195,6 @@ National Service Office of the Nurse-Family Partnership and Child First,2
 National Shooting Sports Association,2
 National Skate Patrol,2
 National Ski Area Association,2
-National Small Business United,4
 National Society of Professional Engineers California,2
 "National Sojourners Inc., Fresno Chapter 269",2
 "National Sojourners', Fresno Chapter",2
@@ -91360,7 +91208,6 @@ National Taxpayer Union,2
 National Tooling & Machining Association -- Los Angeles,2
 National Traffic Safety Courses Inc,2
 National Turkey Federation,2
-National Union of American Physicians and Dentists as well as the American Federation of,2
 National Union of Health Care Workers,2
 National Varmint Hunters,2
 National Viatical Association,2
@@ -91508,7 +91355,6 @@ Neurological Surgeons,2
 "Neurophysiology, UCLA",2
 Neurosurgical Medical Clinic Inc,2
 Neutral as Proposed to be Amended,2
-"Neutral: American Federation of State, County and Municipal Employees",2
 Neutral: Department of Finance,2
 Nevada Citizens for Choice,2
 Nevada City,2
@@ -92060,7 +91906,6 @@ Numerous Concerned Citizens,2
 Numerous Independent Small Businesses Throughout California,2
 Numerous Individual Supporters,2
 Numerous Individual Tire Dealers,2
-Numerous Individuals,1431
 Numerous Individuals and Business Owners,2
 Numerous Insurance Agents,2
 Numerous LCSWs,2
@@ -92670,7 +92515,6 @@ Organization of Chinese Americans - East Bay Chapter,2
 Organization of Chinese Americans - San Mateo County,2
 Organization of Chinese Americans - Silicon Valley,2
 "Organization of Chinese Americans, Inc., Greater Sacramento",2
-"Organization of Chinese Americans, Inc., Silicon Valley Chapter",3
 "Organization of Chinese Americans: East Bay Chapter, National, Sacramento Chapter, San Mateo County, Silicon Valley",2
 Organization of Professional Aviculturists,2
 "Organization of SMU Employees, Organize Sacramento",2
@@ -95978,7 +95822,6 @@ SEIU United Service Workers,2
 "SEIU, Locals 99, 399, 535 and 660",2
 SEIU-California State Council,2
 SEIU-HomeCare Council,2
-SEIU/United Domestic Workers,2
 SELACO Workforce,2
 SELPA Facilities Coalition,2
 SEUI California,2
@@ -97029,7 +96872,6 @@ San Joaquin Water Conservation District,2
 "San Joaquin, Calaveras & Alpine Building Trades Council",2
 San Joaquine Valley Dairymen,2
 San Jose - South Bay National Organization,2
-San Jose AFSCME Retiree Chapter 144,2
 San Jose Bar and Grill,2
 San Jose Barbara Sanders & Associates,2
 San Jose Chief of Police,2
@@ -99554,7 +99396,6 @@ State of Maine Department of Environmental Protection,2
 State of Utah Division of Occupational and Professional Licensing,2
 State of Washington,2
 State of Washington Board of Naturopathy,2
-"State, County & Municipal Employees",2
 StateComm,2
 Stater Brothers Markets,2
 States Council of the United Food,2
@@ -99824,7 +99665,6 @@ Suction Outlet Safety Task Force,2
 Sudan Divestment Taskforce,2
 Sudden,2
 Sudden Unexplained Death in Childhood Program,2
-Sudwerk Brewery,2
 "Sue Bierman, San Francisco Supervisor",2
 Sue's Hair Salon,2
 SueBee,2
@@ -101859,8 +101699,6 @@ UCSF Pediatric Diabetes Program,2
 UCSF Psychiatry Resident Association,2
 "UCSF, Institute for Health Policy Studies, School of",2
 UDCMC Hospice Program,2
-UDW Homecare Providers Unions,2
-UDW/AFSCME Local,2
 UEI Colleges,2
 UFCW 101,2
 UFCW 324,2
@@ -101939,7 +101777,6 @@ USTelecom-The Broadband Association,2
 UTC Inc,2
 "UTH TV, Inc",2
 "UV Pure Technologies, Inc",2
-UWDA/AFSCME,2
 Uber/JUMP,2
 Ucan - Utility Consumers' Action Network,2
 Uchida Enterprises,2
@@ -102013,11 +101850,8 @@ Union de Poblanos en el Exterior,2
 Union for Democracy and Social Progress,2
 Union of Alameda County Public Defender's Office,2
 "Union of American Hebrew Congregations, Pacific Southwest",2
-Union of American Physicians,2
-"Union of American Physicians and Dentists, AFSCME, AFL-CIO",2
 Union of Associated Physicians and Dentists,2
 "Union of Concerned Scientists, Berkeley",2
-Union of Health Care Professionals/United Nurses Associations of California,2
 Union of Legal Services Workers/Los Angeles,2
 Union of Needletrades,2
 Union of the Alameda County Public Defender's Office,2
@@ -102102,9 +101936,6 @@ United Concordia Dental,2
 United Consumers Alliance of America,2
 United Contractors and the Wall and Ceiling Alliance,2
 United Dairymen,2
-"United Domestic Workers of America, American Federation of State, County",2
-"United Domestic Workers of America/AFSCME, AFL-CIO",2
-United Domestic Workers of American (UDW),2
 "United Filipino and American World War II Veterans, Inc",2
 United Firefighters of the City of Los Angeles,2
 United Food & Commercial,2
@@ -102153,16 +101984,6 @@ United Nations Association of the United States of America - San Diego Chapter,2
 "United Nations Special Rapporteur on Contemporary Forms of Racism, Racial Discrimination, Xenophobia and Related Intolerance",2
 United Nations of Consciousness,2
 United Neighbors in Defense Against Displacement (UNIDAD),2
-United Nurses Association / Union of Health Care Professionals,2
-United Nurses Association of,2
-United Nurses Association of Ca/Union of Health Care Professionals,2
-United Nurses Association of California/Union of Health Care Professionals,2
-"United Nurses Association of California/Union of Health Care Professionals, AFSCME",2
-United Nurses Association of California/Union of Healthcare,2
-United Nurses Associations of California-AFSCME,2
-United Nurses Associations of California/ Union of Health Care Professionals,2
-United Nurses Associations of California/Union of Health Care Professional,2
-United Nurses Associations of California/Union of Health Care Professionals United Public Employees,2
 "United Parcel Service, West Region",2
 United Parents and Schools,2
 United Parents for Preschoolers,2
@@ -104169,7 +103990,6 @@ aRes Travel - Advanced Reservation Systems,2
 acid,2
 ajud,2
 also SB 1424 (Burton),2
-and (AFSCME),2
 and AB 2794 (Bowen),2
 and AIDS,2
 and Addiction,2
@@ -104633,6 +104453,10 @@ Trust and Estates Section of the California State Bar,2
 Tulare and Tulare Redevelopment Agency,2
 Union Fidelity Life Insurance Company,2
 Unknown as of,2
+California Association of Health Plan,2
+Californians for Sensible School Nutrition Policy,2
+Sacramento-Sierra Building & Construction Trades Council,2
+Santa Clarita Valley School Food Services Agency,2
 California's Coalition for,1
 (information from ) City/County Association of Governments of San Mateo,1
 . ACLHIC and CMTA,1
@@ -105828,7 +105652,6 @@ AB 2470 (Jackson),1
 AB 2472,1
 AB 2482 (Pringle),1
 AB 2487 (FIRESTONE),1
-AB 2488 (Leno) (AFSCME),1
 "AB 2490, Page",1
 AB 2495 (MARGETT),1
 AB 25 (Nu?ez),1
@@ -106352,15 +106175,12 @@ AERKO International,1
 AEtna Life and Casualty Company,1
 AFA,1
 AFC Metro Appliance Service Inc,1
-AFL-CIO (AFSCME) California Labor Federation,1
 AFL-CIO (CLF),1
 AFL-CIO (ESC),1
 AFL-CIO AYPAL: Building API Community Power California Employment Lawyers Association California Immigrant Policy Center California Labor Federation,1
 AFL-CIO American Academy of Pediatrics,1
 AFL-CIO American Federation of Television and Radio Artists,1
-AFL-CIO American Medical Response West United EMS Workers,1
 AFL-CIO American Planning Association,1
-AFL-CIO Assoc. AFSME,1
 AFL-CIO Association of Federal,1
 AFL-CIO Blanca Alvarado,1
 AFL-CIO Brady Campaign to Prevent Gun Violence,1
@@ -106375,7 +106195,6 @@ AFL-CIO California Labor Federation Service Employees International Union,1
 AFL-CIO California League of United Latin American Citizens California Teachers Association Central Labor Council Contra Costa County,1
 AFL-CIO California Newspaper Publishers Association,1
 AFL-CIO California Podiatric Medical Association,1
-AFL-CIO California Professional Firefighters California School Employees Association United Domestic Workers/ American Federation of State,1
 AFL-CIO California Right to Life Committee,1
 AFL-CIO California School Employees Association National Association of Social Workers,1
 AFL-CIO California State Council of Laborers American Federation of State,1
@@ -106412,7 +106231,6 @@ AFL-CIO San Diego County Taxpayers Association Bill Schwandt,1
 AFL-CIO San Francisco Labor Council,1
 AFL-CIO Service Employees International Union CA State Council,1
 AFL-CIO Sheriff John L. Scott,1
-AFL-CIO Union of American Physicians and Dentists UNITE HERE,1
 AFL-CIO Union of Needle Trades,1
 AFL-CIO United Farm Workers United Food and Commercial Workers,1
 AFL-CIO United Farm Workers of America,1
@@ -106425,36 +106243,8 @@ AFL-CIO Western Center on Law and Poverty,1
 "AFL-CIO-CLC, State Council",1
 AFL▪ CIO Housing Investment Trust,1
 AFMA (formerly American Film Marketing Association),1
-"AFMSME American Federation of State, County and Municipal",1
 AFS Intercultural,1
-AFSCME (American Federation State County and Municipal),1
-"AFSCME 3299, Alameda Labor Council",1
-AFSCME AtHoc,1
-AFSCME District,1
-AFSCME Housing California,1
-AFSCME National Association of Social Workers,1
-AFSCME Retiree Chapter 144,1
-AFSCME Retirees,1
-AFSCME Retirees Ch. 36,1
-AFSCME Retirees Chapter 36 (Los Angeles),1
-AFSCME SB 44-Alpert,1
-AFSCME and La Raza Roundtable,1
-"AFSCME, AFL",1
-"AFSCME, AFL-CI",1
-"AFSCME, AFL-CIO (American Federation of State, County and Municipal Employees)",1
-"AFSCME, AFL-CIO District Council 36",1
-"AFSCME, AFL-CIO District Council 57",1
-"AFSCME, California Federation of Teacher",1
-"AFSCME, California Professional Firefighters, California State Firefighters' Association",1
-"AFSCME, Locals 512 and 2700",1
-"AFSCME, State Psychological Occupation",1
-"AFSCME-American Federation of State, County and Municipal",1
-AFSCME-Local 3299 (representing UC employees),1
-AFSCME/UDW,1
-AFSCME/UNAC-UHCP United Nurses Associations of California-Union of Health Care Professionals,1
 AFSMC District Council 36,1
-AFSME District Council 36,1
-"AFSME, CFL-CIO",1
 AFT 2121,1
 "AFT Guild, San Diego & Grossmont-Cuyamaca Community Colleges",1
 AFT/AFL-CIO,1
@@ -107932,7 +107722,6 @@ Alameda Health System - Highland Hospital,1
 Alameda Health System and John George Psychiatric Hospital,1
 Alameda Health Systems (Alameda County Medical Center),1
 Alameda Homeless Network/Midway Shelter,1
-"Alameda Labor Council American Federation of State, County and Municipal Employees",1
 "Alameda Labor Council, AFL",1
 Alameda Library Commission,1
 Alameda Marketing Solutions,1
@@ -108476,7 +108265,6 @@ Allies for California Cities,1
 Allison Simon,1
 Alloy Marine Products,1
 Allstars School of Driving,1
-Allstate Insurance Company (prior version),1
 Allsup Corp,1
 Allwell Residential Care,1
 Allworth Financial,1
@@ -108777,7 +108565,6 @@ Ambulatory Surgery Center Association,1
 Amcor PET Packaging,1
 Amdahl Corporation,1
 Amelia Claire Shoes,1
-Amended Federation State County Municipal Employees (AFSCME),1
 "Amended Mock-up for 2021-2022 SB-1219 (Hurtado (S) , Cortese (S))",1
 "Amendment Sisters, Inc",1
 Amendment. The City of San Jose,1
@@ -108792,7 +108579,6 @@ AmeriCorps,1
 AmeriPlan Corporation,1
 AmeriPride,1
 "AmeriTel, Inc",1
-"Amerian Federation of State, County and Municipal Employees",1
 America (PDA) California,1
 America (PhRMA),1
 America (SSA),1
@@ -108839,7 +108625,6 @@ America's United Bank,1
 "America, South Bay Chapter 53",1
 America-California State Council,1
 American & Pacific Islander,1
-"American (AFSCME), AFL-CIO",1
 American -Escutia,1
 American 61 Forum of California,1
 American Academy for Integrated Practice of Medicine,1
@@ -109234,15 +109019,8 @@ American Fathers Alliance,1
 American Feceration of State County,1
 "American Fed. State, County & Municipal",1
 "American Fed. of State, County & Municipal",1
-"American Fed. of State, County & Municipal Employees",1
-"American Federal State, County, and Municipal Employees, AFL-CIO",1
 American Federal of State,1
-"American Federal of State, County",1
-"American Federal of State, County and Municipal",1
-American Federation State County Municipal Employees (AFSME),1
-"American Federation State, County and Municipal Employee",1
 "American Federation of County, State",1
-"American Federation of Federal, State, County, and Municipal Employees",1
 "American Federation of Government Employees, AFL-CIO Local",1
 "American Federation of Government Employees, AFL-CIO, District 12",1
 American Federation of Labor and Congress of Industrial Organizations Arriba Juntos,1
@@ -109253,11 +109031,7 @@ American Federation of Musicians of the United States and Canada,1
 "American Federation of Nurses, Social Services Union, Local",1
 "American Federation of Sate, County and Municipal",1
 "American Federation of Stae, County and Municipal Employees",1
-American Federation of State & County Employees,1
-American Federation of State & County Employees (AFSCME),1
 "American Federation of State Council, and Municipal Employees",1
-American Federation of State County and California Association of Nonprofits,1
-"American Federation of State County and Municipal Employees (AFSME), AFL-CIO",1
 American Federation of State Municipal Employees,1
 American Federation of State and Municipal,1
 American Federation of State and Municipal and County Employees,1
@@ -109265,84 +109039,14 @@ American Federation of State and Municipal and County Employees,1
 "American Federation of State, City, and Municipal Employees",1
 "American Federation of State, Civil and Municipal Employees",1
 "American Federation of State, Counties and Municipal",1
-"American Federation of State, County & Municipal Employees, AFL",1
-"American Federation of State, County & Municiple Employees",1
-"American Federation of State, County and AB 1670",1
-"American Federation of State, County and Continued",1
-"American Federation of State, County and Muncipal Employees, AFL-CIO",1
-"American Federation of State, County and Municipal (AFSCME)",1
-"American Federation of State, County and Municipal Employees (AFCME)",1
-"American Federation of State, County and Municipal Employees (AFL-ClO)",1
-"American Federation of State, County and Municipal Employees (AFSCME) (as)",1
-"American Federation of State, County and Municipal Employees (AFSCME) AFLO-CIO",1
-"American Federation of State, County and Municipal Employees (AFSCME) Council 57",1
-"American Federation of State, County and Municipal Employees (AFSCME), AFL-CI",1
-"American Federation of State, County and Municipal Employees (AFSCME), AFL-CIO California Environmental Voters (formerly Clcv)",1
-"American Federation of State, County and Municipal Employees (AFSCME), California, AFL-CIO",1
-"American Federation of State, County and Municipal Employees (AFSME) AWARE",1
-"American Federation of State, County and Municipal Employees (BU 19)",1
-"American Federation of State, County and Municipal Employees (Prior Version) Aspiranet",1
-"American Federation of State, County and Municipal Employees (if)",1
-"American Federation of State, County and Municipal Employees Alzheimer's Association",1
-"American Federation of State, County and Municipal Employees American",1
-"American Federation of State, County and Municipal Employees Arc California",1
-"American Federation of State, County and Municipal Employees Assn., AFL-CIO (AFSCME)",1
-"American Federation of State, County and Municipal Employees Baxter Healthcare",1
-"American Federation of State, County and Municipal Employees California (AFSCME)",1
-"American Federation of State, County and Municipal Employees Continued",1
-"American Federation of State, County and Municipal Employees District Council 57, AFL-CIO",1
-"American Federation of State, County and Municipal Employees Housing California",1
-"American Federation of State, County and Municipal Employees, AFC-CIO",1
-"American Federation of State, County and Municipal Employees, AFL-CIO (AFCSME)",1
-"American Federation of State, County and Municipal Employees, AFL-CIO (as)",1
-"American Federation of State, County and Municipal Employees, AFL-CIO Aspiranet",1
-"American Federation of State, County and Municipal Employees, AFL-CIO Boeing Company",1
-"American Federation of State, County and Municipal Employees, AFL-CIO California Association",1
-"American Federation of State, County and Municipal Employees, AFL-CIO, Local",1
-"American Federation of State, County and Municipal Employees, AFO-CIO",1
-"American Federation of State, County and Municipal Employees, ALF-CIO (AFSCME)",1
-"American Federation of State, County and Municipal Employees, California Association of County Treasurers and Tax Collectors",1
-"American Federation of State, County and Municipal Employees, California Conference Board of the Amalgamated Transit Union",1
-"American Federation of State, County and Municipal Employees, California Newspaper Publishers Association",1
-"American Federation of State, County and Municipal Employees, California, AFL-CIO",1
-"American Federation of State, County and Municipal Employees, Council 36, Los Angeles",1
-"American Federation of State, County and Municipal Employees, International (AFSCME)",1
-"American Federation of State, County and Municipal Employees, Retiree Chapter",1
-"American Federation of State, County and Municipal EmployeesThe Legal Clinic of Santa Barbara",1
-"American Federation of State, County and Municipal Federal",1
-"American Federation of State, County and Municipal Workers",1
-"American Federation of State, County and SB 1667 (Kuehl)",1
-"American Federation of State, County, Municipal Employees (AFSCME) (AFL-CIO) California Conference Board of the Amalgamated Transit Union",1
-"American Federation of State, County, Municipal Employees, State",1
-"American Federation of State, County, and California State",1
-"American Federation of State, County, and Municipal Employees (AFSCME) AFL-CIO and Service Employees International Union (SEIU)",1
-"American Federation of State, County, and Municipal Employees (AFSCME) and Franchise of Americans Needing Sports",1
-"American Federation of State, County, and Municipal Employees (APSCME)",1
-"American Federation of State, County, and Municipal Employees (ASFCME), AFL-CIO",1
-"American Federation of State, County, and Municipal Employees (SFSCME), AFL-CIO",1
-"American Federation of State, County, and Municipal Employees (local 2620, District Council 57)",1
-"American Federation of State, County, and Municipal Employees American Nurses",1
-"American Federation of State, County, and Municipal Employees Being Alive",1
-"American Federation of State, County, and Municipal Employees of CA (AFSCME CA) California Conference Board of the Amalgamated Transit Union",1
-"American Federation of State, County, and Municipal Employees, AFL-CIO, North State Building Industry Association, California Association of Councils of Governments, California-Nevada Conference of Operating Engineers , California Transportation Commission",1
-"American Federation of State, County, and Municipal Employees, Beverly Hills/Hollywood NAACP",1
-"American Federation of State, County, and Municipal Employees, CA, AFL-CIO",1
-"American Federation of State, County, and Municipal Employess (AFSCME)",1
-"American Federation of State, County, and Municipal, AFL-CIO",1
 "American Federation of State, Court and Municipal Employees",1
 "American Federation of State, Local and County Municipal Employees",1
 "American Federation of State, Local, and County",1
-"American Federation of State, Municipal, and County Employees (AFSCME)",1
-"American Federation of States, County and Municipal",1
-"American Federation of States, County and Municipal Employees (AFSCME), AFL-CIO",1
 American Federation of Teachers 1931,1
 "American Federation of Teachers, California Federation of",1
 "American Federation of Television and Radio Artists, Los Angeles (AFTRA)",1
 "American Federation of Television and Radio Artists, San",1
 "American Federation of Television and Radio Artists, San Diego",1
-"American Federation, State, County, and Municipal Employees (AFSCME), AFL-CIO",1
-"American Federationof State, County and Municipal Employees",1
-"American Federations of State, County, and Municipal Employees - California",1
 American Fence Association-Southern California Chapter,1
 "American Fence Contractors Assoc., Cal. Chapter",1
 American Ferderation of State,1
@@ -109472,7 +109176,6 @@ American Institutes of,1
 "American Insulation, Inc",1
 American Insurance Assocation,1
 American Insurance Associaiton,1
-American Insurance Association (prior version),1
 American Insurance Association American International Group (AIG) Association of California Insurance Companies,1
 "American Insurance Association, League of California Cities",1
 American Insurance Federation,1
@@ -109928,7 +109631,6 @@ Americna Association of Retired Persons,1
 Americna Cablevision,1
 Americna Civil Liberties Union,1
 Americna Electronics Association,1
-"Americna Federation of State, County and Municipal",1
 Americna Homeowners Resource Center,1
 Americna Indian Education Center Directors Association,1
 "Americna Institute of Architects, California Council",1
@@ -110188,7 +109890,6 @@ Angeles Office of the Chief Legislative,1
 "Angeles Parents, Families and Friends of Lesbians and Gays",1
 Angeles Planning and Conservation League,1
 Angeles Probation Department,1
-"Angeles Probation Department Union, AFSCME",1
 Angeles Probation Officers Union,1
 Angeles Regional Food Bank,1
 Angeles Regional Reentry Project,1
@@ -111547,7 +111248,6 @@ Assembly Consolidation Services,1
 "Assembly District Committee of the Democratic Party, Santa Cruz",1
 Assembly Elections and Redistricting Committee,1
 Assembly Environmental Safety and Toxic Materials Committee,1
-"Assembly Federation of State, County and Municipal",1
 Assembly Health Committee,1
 Assembly Member Aguiar,1
 Assembly Member Ammiano,1
@@ -112370,7 +112070,6 @@ Association of Equipment Manufactures,1
 Association of Farm Worker Opportunity Programs,1
 Association of Farmworker Opportunity Programs,1
 Association of Federal Firearms Licensees,1
-"Association of Federal, State, County and Municipal Employees, AFL-CIO",1
 "Association of Federal, State, and Municipal",1
 Association of Financial Development Corporations (TAFDCs),1
 Association of Financial Guaranty Insurance,1
@@ -112580,7 +112279,6 @@ Association to Benefit Children,1
 Association |Angeles County,1
 Association |City of Larkspur |City of Sebastopol,1
 Association |City of Lathrop |City of Solana Beach,1
-"Association, AFSCME, and the California School Employees",1
 "Association, CSUS",1
 "Association, California Chapters",1
 "Association, California Council of Chapters",1
@@ -114444,7 +114142,6 @@ Betty Hill Senior Citizens Club,1
 Betty T,1
 "Betty T. Yee, Member of the State Board of Equalization",1
 Betty Turner,1
-"Betty Yee, Acting Member, BOE AFSCME",1
 "Betty Yee, Board of Equalization Member",1
 "Betty Yee, California's State Controller",1
 "Betty Yee, First District Member, State Board of Equalization",1
@@ -116015,7 +115712,6 @@ Budget Director Leon Panetta,1
 Budget Driving School (Cameron Park),1
 Budget ask. The California Nurses Association (CNA),1
 "Budongo Conservation Field Station, Uganda",1
-Budway Rail Transloading & Distribution,1
 Buehler,1
 Buellton Is Our Town,1
 Buen Vecino,1
@@ -117586,7 +117282,6 @@ CONCERN: Planning and Conservation League,1
 CONSTRUCTION AND OPERATIONS,1
 CONSTRUCTION AND OPERATIONS HEARD THIS BILL AND VOTED 2-0 TO,1
 CONTAINED,1
-CONTINUED United Domestic Workers of America California Firefighters California Teachers Association California Federation of Teachers Northern California District Council (ILWU) Los Angeles County Office of Education Unions: American Federation of Nurses Social Service Union,1
 COPAC,1
 COPS for Kids/ Anaheim Police Activities League,1
 CORE @ the Camptonville Academy,1
@@ -117751,7 +117446,6 @@ CTEC,1
 CTEC. CTEC,1
 CTF - a Union of Educators & Classified Professionals,1
 "CTFA, The Cosmetic, Toiletry, and Fragrance Association",1
-CTIA - The Wireless Association (3/26/15 version),1
 CTIO Wireless Association,1
 CTS Inc,1
 CTW/AGB:cm 9/10/07 Senate Floor Analyses,1
@@ -118493,7 +118187,6 @@ California Allied Health Facilities,1
 California Almond Alliance,1
 California Alternative,1
 "California Alternative Payment Program Association, Children's Foundation",1
-"California American Federation of State, County, and Municipal Employees California National Organization for",1
 California American Heritage Commission,1
 California American Portuguese Veterans Memorial Committee,1
 California Americans for Democratic Action,1
@@ -118847,7 +118540,6 @@ California Association of Health Facilities is also,1
 "California Association of Health Facilities, California Medical Association, California Nurses",1
 California Association of Health Facilities/ California Hospital Association,1
 California Association of Health Facilities/California Center,1
-California Association of Health Plan,2
 California Association of Health Plans (CAHP) was,1
 California Association of Health Plans - Verified June 7,1
 California Association of Health Plans Continued,1
@@ -118904,7 +118596,6 @@ California Association of Interns and Residents,1
 California Association of Jewish Family,1
 California Association of Joint Powers Ag,1
 California Association of Judicial Powers Agencies,1
-"California Association of LAFCOs, American Federation of State, County and Municipal Employees",1
 "California Association of LAFCOs, Association of",1
 "California Association of LAFCOs, Orange LAFCO, Broadmoor Police Protection District",1
 "California Association of LAFCOs, Orange LAFCO, SB 272",1
@@ -121232,7 +120923,6 @@ California News Publishers,1
 California Newspaper Publishers,1
 California Newspaper Publishers Assoc,1
 California Newspaper Publishers Associaiton,1
-"California Newspaper Publishers Association (CNPA), AFSCME",1
 "California Newspaper Publishers Association, Californians Aware",1
 "California Newspaper Publishers Association, First Amendment Coalition",1
 "California Newspaper Publishers Association, The City of El Cajon",1
@@ -121586,7 +121276,6 @@ California Public Defenders Assocaition,1
 California Public Defenders Association (Judicial discretion issue),1
 California Public Defenders Association (NOTE: SEE COMMENT 5 FOR RECOMMENDATIONS FROM THE APRIL 7),1
 California Public Defenders Association (SEE COMMENT 8 FOR RECOMMENDATION OF THE SUBCOMMITTEE ON),1
-California Public Defenders Association (to the bill as introduced),1
 California Public Defenders Association California State Commanders Veterans Council,1
 California Public Defenders Association Chief Probation Officers of California,1
 "California Public Defenders Association, ""A",1
@@ -122524,7 +122213,6 @@ California Tax Data,1
 California Tax Foundation,1
 California Tax Payer Association,1
 California Tax Reform Asociation,1
-California Tax Reform Association AFSCME,1
 California Tax Reform Association SEIU,1
 "California Tax Reform Association, SEIU California",1
 California Tax Reform Assocition,1
@@ -122678,8 +122366,6 @@ California Unions of Safety Employees,1
 California Unit,1
 California United Administrators Southern California,1
 California United Auto Dealers Association,1
-California United Domestic Workers/American Federation of State,1
-"California United Homecare Workers Union, SEIU/AFSCME Local",1
 California United for Nursing Home Care,1
 California United to Reform Education,1
 California University and College Police Chiefs Association,1
@@ -123046,7 +122732,6 @@ Californians for SSI (CA4SSI),1
 Californians for Safe Water,1
 Californians for Safety and Justice and Silicon Valley De-Bug,1
 Californians for Sensible School Nutrition,1
-Californians for Sensible School Nutrition Policy,2
 Californians for Student Success,1
 Californians for Taxpayer and Consumers Rights,1
 Californians for Tougher Child Molestation Laws,1
@@ -123560,8 +123245,6 @@ Care Ombudsman,1
 Care Ombudsman Services of San Luis Obispo County,1
 Care Products Council,1
 Care Professioals,1
-Care Professionals (UNAC/UHCP/AFSCME),1
-"Care Professionals, AFSCME",1
 "Care Provisions:Office of Child Development, Culver City",1
 Care Researchers,1
 Care Service,1
@@ -126574,8 +126257,6 @@ City of AB 12 (Epple),1
 City of AB 1546 (SIMITIAN) Daly City,1
 City of AB 1657,1
 City of AB 2010 - 06/20/94 Lakewood,1
-City of AFSCME,1
-City of AFSCME AFL-CIO District Council 57,1
 City of Adelanto Alameda Albany Anaheim,1
 "City of Adelanto, Fire Department",1
 City of Alameda Association,1
@@ -127157,7 +126838,6 @@ City of Fort Jones,1
 City of Fort Ord Reuse Authority,1
 City of Fortuna |City of San Gabriel |Monterey County Board,1
 City of Fortuna |City of San Leandro |of,1
-City of FortunaCity,1
 City of Foster City (Estero),1
 City of Foster City Parks and Recreation Department,1
 City of Foster City |City of San Juan |of,1
@@ -130492,7 +130172,6 @@ Concerned Women for America of Children,1
 Concerned Women for America-San Diego and Imperial Counties,1
 Concerned Women for American (CWA) of California,1
 Concerned: California State Association of Counties,1
-Concerns,203
 Concerns - California State Automobile Association,1
 Concerns Committee,1
 Concerns of,1
@@ -131630,7 +131309,6 @@ Council (ILWU SCDC),1
 Council (SACC),1
 Council (Sheet Metal Union),1
 Council (Teamsters),1
-Council 36 (AFSCME),1
 Council 8,1
 Council Coalition,1
 Council District 5,1
@@ -132383,11 +132061,6 @@ County and Greater Long Beach (NCCJ),1
 County and Greater Los Angeles,1
 County and Municipal,1
 County and Municipal Employee,1
-County and Municipal Employees (AFSCME) American Legion,1
-County and Municipal Employees (AFSCME) Board of Supervisors from Stanislaus,1
-County and Municipal Employees (AFSCME) CA State Firefighters' Association,1
-County and Municipal Employees (AFSCME) California School Employees Association,1
-County and Municipal Employees (AFSCME) County of Los Angeles,1
 County and Municipal Employees AMVETS,1
 County and Municipal Employees Alameda County Waste Management Authority,1
 County and Municipal Employees Board of Supervisors from Stanislaus,1
@@ -134303,7 +133976,6 @@ David E. Ross,1
 "David E. Ryu, City Councilmember of Los Angeles",1
 "David E. Ryu, Los Angeles Councilmember, 4th District",1
 David Edward Ross,1
-David Felderstein (AFSCME),1
 David Felderstein (FACCC),1
 "David Freeman Engstrom, Co-Director of the Deborah L. Rhode Center on the Legal Profession at Stanford Law School",1
 "David G. Greenhalgh, MD, Chief of Burns, Shriners Hospitals for Children, No. California",1
@@ -134869,7 +134541,6 @@ Deos Law,1
 Deparment of Conservation,1
 Department District,1
 "Department Housing and Community Development, Housing California",1
-"Department Union, AFSCME",1
 "Department of Adult Education, Montebello Unified School District",1
 Department of Aging & Adult Services,1
 "Department of Agriculture, Weights and Measures",1
@@ -135086,7 +134757,6 @@ Deputy Assistant Secretary of Defense (Military Community and Family),1
 Deputy Assistant Secretary of Defense (Military),1
 Deputy Chief,1
 "Deputy District Attorney Eugenia Eyherabide, Assistant Chief, Family",1
-"Deputy District Attorneys Association, Local AFSCME",1
 Deputy Fire Marshal,1
 Deputy Fire Marshall,1
 "Deputy James Ryan, President of Northern Chapter of the Peace Officers",1
@@ -135102,7 +134772,6 @@ Deputy Sheriff's Association of Stanislaus County,1
 "Deputy Sheriff, San Bernardino County",1
 Deputy Sheriffos Association,1
 Deputy Sheriffs (ALADS),1
-Deputy Sheriffs (as amended 3/19/97),1
 Deputy Sheriffs Ass'n,1
 Deputy Sheriffs Assoc. of San Diego,1
 Deputy Sheriffs Association of El Dorado County,1
@@ -135987,7 +135656,6 @@ Domestic Violence Solutions for Santa,1
 Domestic Violence Solutions for Santa Barbara County (DVS-SBC),1
 Domestic Violence Unit of Greater Salinas Valley,1
 "Domestic Violence Unit, Women's Crisis Center of Salinas and Greater Salinas",1
-Domestic Workers of America,1
 Domiano RV's Inc,1
 Dominguez,1
 Dominguez & Sons Trucking,1
@@ -136605,7 +136273,6 @@ EMQ Children & Family Services,1
 EMS Directors Association,1
 EMS Safety,1
 EMTALA,1
-END --,6174
 ENGIE Services,1
 ENGIE of North America,1
 "ENKI Health and Research Systems, Los Angeles",1
@@ -137825,20 +137492,14 @@ Empire Oil (Independent gas state in Bloomington),1
 Empire Village Owners Assoc,1
 Empire |City of Martinez |City of Susanville,1
 Empire |City of Mill Valley |City of Vacaville,1
-"Emplolyees (AFSCME), AFL-CIO",1
 "Employee Health Systems Medical Group, Inc",1
 Employee Leaseback Corporation,1
 "Employee, AFL-CIO",1
 Employee-Owned Contractor Roundtable,1
 Employee-owned S Corporations of America,1
-Employees (AFSCME) Asian Americans,1
-Employees (AFSCME-AFL-CIO),1
-"Employees (AFSME), AFL-CIO",1
-"Employees (AFSME), CFL-CIO",1
 Employees (UNITE),1
 Employees American Academy of Pediatrics,1
 Employees Asian/Pacific American Legal Center,1
-"Employees Assn., AFL-CIO (AFSCME)",1
 Employees Association (GCEA),1
 Employees Association Grant Chapter 523,1
 Employees Association of California Healthcare Districts,1
@@ -139379,7 +139040,6 @@ Federal Voting Assistance Program (FAX portion),1
 "Federal of Hillside and Canyon Association, Inc",1
 Federated Indians of Grafton Rancheria,1
 Federated Italo-Americans of Southern California,1
-Federated State County Municipal Employees (AFSCME),1
 Federation also,1
 Federation for American Immigration,1
 Federation for Immigration Reform,1
@@ -139418,10 +139078,6 @@ Federation of Retired Union Members of,1
 Federation of Retired Union Members/Santa,1
 Federation of Silicon Valley,1
 Federation of State and Municipal Employees,1
-"Federation of State, (AFSCME)",1
-"Federation of State, County",1
-"Federation of State, County & Municipal Employees (AFSCME)-Local 206, AFSCME, California Labor Federation, and California Nurses Association",1
-"Federation of State, County, Municipal Employees (AFSCME)",1
 Federation of Swiss Watch Industry,1
 "Federation of Teachers, California School",1
 "Federation of Teachers, San Mateo Community College",1
@@ -143193,7 +142849,6 @@ Guatemalan Unity Information Agency,1
 Guatemaltecos Emigrantes (UGE),1
 Guayak,1
 Gubernatorial Debate Commission,1
-Gudwara Sant Sagar,1
 Gueno Development Company,1
 "Guepard Energy, Inc",1
 Guerrero,1
@@ -143864,7 +143519,6 @@ Health Care For All (Long Beach),1
 Health Care IPA LA,1
 Health Care Interpreters Network,1
 Health Care Partners,1
-Health Care Professionals (UNAC/UHCP),1
 Health Care Services and the Department of Social Services can more,1
 "Health Care for All - California, Central California",1
 "Health Care for All - California, Los Angeles",1
@@ -144762,7 +144416,6 @@ Home of Guiding Hands (Lakeside),1
 HomeAid San Diego,1
 "HomeBase, The Center for Common Concerns, San Francisco",1
 "HomeBase/The Center for Common Concerns Housing Rights, Inc",1
-HomeCare Council (United Domestic Workers),1
 "HomeCare Professional, Inc",1
 HomeServe USA,1
 HomeStrong USA,1
@@ -146414,7 +146067,6 @@ Individual Letters (53 letters),1
 Individual Letters from the Parents of Palomar Mountain School Students,1
 Individual Licensees & Applicants,1
 Individual Members of Credit Unions,1
-Individual,114
 Individual Organizational Members of California Coalition of Foster Family,1
 Individual Owners and Managers of Mobilehome Parks (37),1
 Individual Pharmacists and Doctors,1
@@ -147085,7 +146737,6 @@ Intermountain Hay Growers Assoc,1
 "Internal Air Quality Steering Committee, Novato School",1
 Internation Rectifier Corp,1
 Internation Union of Operating Engineers,1
-International (AFSCME),1
 International Action Center,1
 International Aid for Korean,1
 International Aid for The Protection and Welfare of Animals,1
@@ -150282,7 +149933,6 @@ Korean Senior Citizens Mutual Club,1
 "Korean Studies Institute, University of Southern California",1
 Korean Subcommittee of the LA Mayor's Office of,1
 Korean War P.O.W. Affairs in USA,1
-Korean War Veterans Association AFSCME,1
 "Korean War Veterans Association Chapter 165, El Centro",1
 "Korean War Veterans Association Imperial County, Chapter 102",1
 "Korean War Veterans Association, Bikakis",1
@@ -152028,7 +151678,6 @@ Legion of Valor of the U.S.A,1
 "Legion, Veterans Service Officers, State Council, Engineering & TXI Riverside Cement, Associated",1
 Legislation (FCL),1
 Legislation Action Committee of the California State PTA,1
-"Legislation Committee AFSCME, AFL-CIO",1
 Legislation Committee for the Los Angeles Municipal Court,1
 Legislation Committee of the Los Angeles Municipal,1
 Legislation Screening Committee of the California,1
@@ -152668,7 +152317,6 @@ Local 1902 -Metropolitan Water District American Federation of State,1
 Local 1909 Heartland Firefighters of La Mesa,1
 Local 1911,1
 Local 1946,1
-Local 206 - Union of American Physicians and Dentists American Federation of State,1
 "Local 21, IFPTE",1
 Local 2103,1
 Local 2180 Compton Firefighters,1
@@ -152676,10 +152324,8 @@ Local 230,1
 Local 2391 American Federation of Government Employees (AFL-CIO),1
 "Local 2391, American Federation of Government Employees",1
 "Local 26, Intl. Longshoremen's & Warehousemen's Union",1
-"Local 2620 of the American Federation of State, County, and Municipal",1
 "Local 2620, AFL-CIO",1
 "Local 2620, AFS-ME, District Council 57",1
-"Local 2620, American Federation of State, County, and Municipal Employees, AFL-CIO",1
 Local 272,1
 Local 2881,1
 "Local 29, Office & Professional Employees International Union AFL-CIO",1
@@ -152687,7 +152333,6 @@ Local 2881,1
 Local 30 UnitedHere San Diego County Hotel and Food Service Workers' Union,1
 Local 300 Laborers' International Union,1
 Local 300 National Electrical Contractors Association Plaster Tenders,1
-Local 324 United Nurses Associations of California/Union of Health Care Professionals Warehouse Worker Resource Center,1
 Local 3299 California Faculty Association California Labor Federation,1
 Local 3299 Lieutenant Governor John Garamendi,1
 Local 3299 United Nurses of California/Union of Health Care Professionals,1
@@ -152705,7 +152350,6 @@ Local 3730 Cathedral City Firefighters Association,1
 Local 3757 Coronado Firefighters Association,1
 Local 3842 Fallbrook Firefighters Association,1
 Local 39,1
-Local 3930 (UDW/AFSCME),1
 Local 39521,1
 Local 398,1
 Local 399,1
@@ -156407,7 +156051,6 @@ Metropolitan Water District of Southern California Town of Los Altos Hills Unive
 "Metropolitan Water District of Southern California, The Monte Vista Water District",1
 "Metropolitan Water District of Southern California, The Nature Conservancy, The",1
 "Metropolitan Water District of Southern California, The Nisei Farmers League",1
-"Metropolitan Water District, American Federation of State County",1
 "Metropolitan Water District, Southern California Chapter",1
 Metropolitan Water Districts of,1
 "Metropolitan, San Jose, and Torrance Area",1
@@ -158378,7 +158021,6 @@ NEUTRAL: Department of Alcoholic Beverage Control,1
 NEUTRAL: Mexican-American Legal Defense Fund,1
 NEUTRAL: San Mateo Couunty Expo,1
 NEUTRAL: State Compensation Insurance Fund,1
-NEUTRAL: Union of American Physicians and Dentists,1
 NFIB - The Voice of Small Business,1
 NFP,1
 NFrusteenCompany,1
@@ -163304,7 +162946,6 @@ Page 5p,1
 Page Avenue Mutual Water Company,1
 Page L,1
 Page R,1
-Page R (AFSCME),1
 Page SB 289 33,1
 Page Two,1
 Page u,1
@@ -166125,7 +165766,6 @@ Professional Women in Building Council,1
 Professional and Technical Employees of Contra Costa County,1
 "Professional and Technical Engineers, International Federation of Professional and Technical",1
 Professional and Tehnical,1
-Professionals (UNAC),1
 Professionals California Teamsters,1
 Professionals in Infection Control and Epidemiology,1
 Professions and Economic Development Committee,1
@@ -166658,7 +166298,6 @@ Purpose . DOR,1
 Purpose . The State Treasurer,1
 Purpose and Background. The Author,1
 Purpose of this bill: The CSU Trustees,1
-Purpose. AFSCME Local,1
 Purpose. AG Rob Bonta,1
 Purpose. According the CalSTRS,1
 Purpose. According to American Friends Service Committee,1
@@ -169840,7 +169479,6 @@ SB 1866 (Aanestad) PageB,1
 "SB 1866 (Aanestad) PageQ Attorney General, the League of California Cities, the County Supervisors Association",1
 SB 1871 (Wright),1
 SB 1876 (Solis),1
-SB 1876 - Alpert AFSCME,1
 SB 1879 (Poochigian),1
 SB 188 (Cedillo),1
 "SB 1880, Page",1
@@ -170244,7 +169882,6 @@ SEIU 434B,1
 SEIU 521,1
 SEIU 535 (American Federation of Nurses),1
 SEIU 721 Joint Council,1
-SEIU AFSCME,1
 SEIU Califoria,1
 SEIU California State Council of Service Employees,1
 SEIU California and Purchaser Business Group on Health (formerly Pacific Business Group on Health),1
@@ -170259,7 +169896,6 @@ SEIU United Helthcare Workers West,1
 SEIU also,1
 "SEIU, AFL-CIO",1
 "SEIU, AFL-CIO, CA State Council CA Assoc. of Counties Judicial Council",1
-"SEIU, AFSCME, Laborers' Locals 777 and",1
 SEIU-CA State Council,1
 SEIU-USWW (United State Workers West),1
 SEIU-United Long-Term Care Workers Union,1
@@ -170758,7 +170394,6 @@ Sacramento Regional Builders Alliance,1
 Sacramento Regional Center for International Trade,1
 Sacramento Regional Coalition for the Homeless (SRCEH),1
 Sacramento Regional Coalition to End Homelessness (SCREH),1
-Sacramento Regional Coalition to End Homelessness AFSCME,1
 Sacramento Regional Conversation Corps,1
 Sacramento Regional County Sanitation Distirct,1
 Sacramento Regional County Sanitation District and Sacramento Area,1
@@ -170799,7 +170434,6 @@ Sacramento Trades,1
 Sacramento Transit Advocates and Riders STAR,1
 Sacramento Transportation Management Association,1
 Sacramento Unified School,1
-Sacramento United Domestic Workers of America Darnell Miles,1
 Sacramento Valley Collie Club Inc,1
 Sacramento Valley Dog Franciers,1
 Sacramento Valley EMS Agency,1
@@ -170835,7 +170469,6 @@ Sacramento |8388 Rovana |95828 |1,1
 "Sacramento, Shasta, Butte, Placer and Monterey County Sheriffos",1
 "Sacramento, Veterans of Foreign Wars Post 1999",1
 "Sacramento, and Whitter",1
-Sacramento-Sierra Building & Construction Trades Council,2
 Sacramento-Sierra Building & Construction Trades Council. State Building and Construction Trades Council,1
 Sacramento-Sierra Regional Arson Task Force,1
 Sacramento-Sierra's Building,1
@@ -173263,7 +172896,6 @@ Santa Clarita Valley Canyons Preservation League,1
 Santa Clarita Valley Committee on Aging,1
 Santa Clarita Valley Economic Develop. Corp,1
 Santa Clarita Valley Historical Society,1
-Santa Clarita Valley School Food Services Agency,2
 Santa Clarita Valley Senior Center,1
 Santa Clarita Valley Special Education Local Plan Area,1
 Santa Clarita Valley Youth Project,1
@@ -173625,7 +173257,6 @@ Save San Jose Medical Center Coalition,1
 Save SomeBunny Rabbit Rescue,1
 Save Standard Time (501c4 Nonprofit),1
 Save The Elephant Campaign,1
-Save The Missions AFSCME,1
 Save Youth Football - California,1
 "Save a Girl, Save a World",1
 "Save a Girl, Save the World",1
@@ -173879,7 +173510,6 @@ Scripps Bank,1
 Scripps Coastal Medical Center,1
 Scripps Encinitas Surgery Center,1
 Scripps Green Hospital,1
-Scripps Health (prior version),1
 Scripps Health Public Affairs,1
 Scripps Institution of Oceanography,1
 "Scripps Otay Family Health Center, Chula Vista",1
@@ -175911,7 +175541,6 @@ Society of Human Resources Management s of Northern California,1
 Society of Infectious Diseases Pharmacists,1
 Society of Insurance Brokers of Northern and Southern,1
 Society of Internal Medicine,1
-Society of Landscape Architects,4
 Society of Latinx Nurses,1
 Society of Motion Picture and Television Art,1
 "Society of Motion Picture and Television Art Directors, IATSE",1
@@ -177931,8 +177560,6 @@ State of California-Youth and Adult Correctional Agency,1
 "State of Israel Bonds, Development Corporation for Israel",1
 State of Louisiana Department of Wildlife and Fisheries,1
 State of Washington American Federation of State,1
-"State, County and Municipal Employees (AFSME)",1
-"State, County and Municipal Employees, AFL-CIO, International",1
 StateVan Rental,1
 "Stategic Committee of Public Employees, Laborers",1
 Statehouse,1
@@ -178515,7 +178142,6 @@ Successful Physicians Monthly,1
 "Sudberry Properties, Inc., San Diego",1
 Sudden Cardiac Arrest Survivor Network,1
 Sudden Unexplained Death in Childhood (SUDC) Program,1
-"Sudwerk, Privatbrauerei Hubsch",1
 Sue,1
 Sue Cares,1
 "Sue Dinwiddie, M.A., Palo Alto, CA",1
@@ -179112,7 +178738,6 @@ Support. The County of Santa Clara,1
 "Support. The San Francisco District Attorney, George Gascon",1
 Support. The Strategic Training Initiative for the Prevention of Eating Disorders,1
 "Support. The United Food and Commercial Workers, Western States Council (UFCW)",1
-"Support. United Domestic Workers of America, UDW/AFSCME Local",1
 Support: According to Human Rights Watch,1
 Support: According to The California Conference of Bar Associations,1
 Support: According to the Arc and United Cerebral Palsy California Collaboration,1
@@ -180224,7 +179849,6 @@ The American College of Traditional Chinese,1
 The American Congress of Obstetricians and,1
 "The American Electronics Association, Consumer Electronics",1
 The American Family Life Assurance Company (AFLAC),1
-The American Federation of State County and Municipal Employees (AFSCM),1
 The American Humane Association ABX1 49,1
 "The American Institute of Architects, Calfornia Council",1
 The American Institute of Steel Construction and the National Steel Bridge Alliance,1
@@ -180914,7 +180538,6 @@ The Hollywood Sentinels,1
 The Home Gardens Community,1
 The Home Health Agency of San Luis Obispo County,1
 The Home of Christ Church in Saratoga,1
-The Homecare Providers Union,1
 "The Hon. Barbara Lee, Member of Congress, 9th District",1
 "The Hon. Jerry Brown, Mayor of Oakland",1
 "The Hon. Keith Carson, Supervisor",1
@@ -181620,12 +181243,7 @@ The Trust for,1
 The Truth Project,1
 The Turf Authority,1
 The UCSF/SFGH Multidisciplinary Assessment Clinic,1
-The Union of American Physicians and Dentists was,1
 The United Anglers of Southern California (UASC),1
-The United Domestic Workers (UDW) of America (AFSCME Local),1
-The United Nurses Association of California/Union,1
-The United Nurses Associations of California / Union of Health Care Professionals (UNAC / UHCP),1
-The United Nurses Associations of California/Union,1
 The Unity Council Head Start/Early Head Start Programs,1
 "The Unity Council, Children & Family Services",1
 The University Corporation,1
@@ -183379,7 +182997,6 @@ UFCW-Western State Council,1
 UFW Foundation,1
 UGI Energy Services,1
 "UGM, Inc",1
-UHCP,1
 UHF,1
 "UHS of Delaware, Inc",1
 UI Solutions,1
@@ -183679,22 +183296,7 @@ Union of American Hebrew Congregations,1
 "Union of American Hebrew Congregations, Pacific Southwest Council",1
 Union of American Phys. & Dentists,1
 Union of American Physcians and Dentists,1
-Union of American Physician & Dentists (UAPD),1
 Union of American Physician and Dentists,1
-Union of American Physicians and Dentist,1
-Union of American Physicians and Dentists (BU 16: UAPD),1
-"Union of American Physicians and Dentists (NOTE: ON APRIL 9, 1996, THE SUBCOMMITTEE ON PRISON)",1
-Union of American Physicians and Dentists (to fee),1
-Union of American Physicians and Dentists AFSCME-Local 207,1
-Union of American Physicians and Dentists and American,1
-"Union of American Physicians and Dentists, Sacramento",1
-Union of American Physicians and Dentists/ AFSCME 206,1
-Union of American Physicians and Dentists/ American,1
-Union of American Physicians and Dentists/AFSCME 206,1
-"Union of American Physicians and Dentists/American Federation of State, County and Municipal Employees (UAPD/AFSCME)",1
-"Union of American Physicians and Dentists/American Federation of State, County and Municipal Employees, AFL-CIO",1
-Union of American Physicians and SB 2156 (Lewis) Page b,1
-Union of American Physicians and Surgeons,1
 Union of AmericanPhysicians and Dentists,1
 Union of Americna Physicians and Dentists,1
 Union of Bricklayers and Allied Craftworkers,1
@@ -183874,19 +183476,10 @@ United Democratic Club of Monterey Park,1
 United Democrats of Vallejo/Benicia/American Canyon,1
 United Development Group,1
 United Distillers & Vintners North America,1
-United Domestic Providers of American/AFSCME,1
-United Domestic Workers of,1
-United Domestic Workers of America (UWD),1
-United Domestic Workers of America - AFSCME/UDW,1
-"United Domestic Workers of America / American Federation of State, County and Municipal",1
-United Domestic Workers of America Homecare Providers,1
-"United Domestic Workers of America, NUHHCE, AFSCME, AFL-CIO",1
-United Domestic Workers of American/AFSCME,1
 United Domesticated Workers of America,1
 United Dominion,1
 United Dominion Realty Trust,1
 United Drayage Company,1
-"United EMS Workers (AFSCME), AFL-CIO",1
 "United Electrical, Radio and Machine Workers of America, UE Local",1
 "United Electrical, Radio, and Machine Workers of America Western Region",1
 United Employee Organizations of Orange County (UEOOC),1
@@ -184012,25 +183605,6 @@ United Natural,1
 United Natural Foods Incorporated,1
 United Nurse Associations of California/Union of Health Care Professionals,1
 United Nurses Assns. of California/Union of Health Care,1
-United Nurses Association of CA (UNAC),1
-"United Nurses Association of California, AFSCME",1
-United Nurses Association of California/ Union of Health,1
-United Nurses Association of California/Union Health Care,1
-United Nurses Association of California/Union of Health Care Professional,1
-United Nurses Association of California/Union of Health Care Professionals (UNAC/UHCP),1
-United Nurses Association/Union of Health Care Professional,1
-United Nurses Associations of CA-Union of Health Care,1
-United Nurses Associations of California (UNAC-AFSCME)/Union of Health Care,1
-United Nurses Associations of California/ Union of Health Care Professions,1
-United Nurses Associations of California/Union of Heal Care,1
-United Nurses Associations of California/Union of Health Care Professionals (UNAC),1
-United Nurses Associations of California/Union of Health Care Professionals (UNAC/UHAP),1
-United Nurses Associations of California/Union of Health Care Professionals (UNAC/UHCP/AFSCME),1
-United Nurses Associations of California/Union of Health Care Professionals American Federation of State,1
-United Nurses Associations/ Union of Health Care Professionals,1
-United Nurses Associations/Union of Health,1
-United Nurses Associations/Union of Health Care Professionals,1
-United Nurses of California/Union of Health Care Professionals (UNAC/UHCP),1
 United Nurses of California/Union of Health care,1
 United Organization of,1
 United Pastors of Sacramento,1
@@ -184200,7 +183774,6 @@ United for A Guaranteed Income Action Fund,1
 United for a Guaranteed Income Action,1
 United to House Los Angeles,1
 UnitedHealth Group and HealthAllies,1
-Unites Domestic Workers/AFSCME,1
 Unites Professional Horsemen's,1
 "Unites States Attorneys Nora Manella (Central District of California), Charles",1
 Unitog,1
@@ -188510,9 +188083,6 @@ and Moving Picture Machine Operators of the United States,1
 and Mt. San Jacinto College,1
 and Municipal AFL-CIO,1
 and Municipal Courts (except jury duty provisions),1
-and Municipal Employees (AFSCME) California Labor Federation,1
-"and Municipal Employees (AFSME), AFL-CIO",1
-and Municipal Employees - United Nurses Associations of California- Union of Health Care Professionals Alameda Labor Council,1
 and Municipal Employees Association,1
 and Municipal Employees Bakers' Union,1
 and Municipal Employees Consumer Attorneys of California,1
@@ -188673,7 +188243,6 @@ and Trusts and Estates Law,1
 and Tuolumne County DA's Santa Clara County Board of Supervisors Donna Gerber,1
 and Turlock,1
 and Tustin Police Departments Sheriff-Coroner of Alameda County and of Monterey County Sheriffs of Sacramento County,1
-and UDW/AFSCME,1
 and United Cerebral Palsy California Collaboration,1
 and United Parcel Service,1
 and United Ways of California,1
@@ -189077,7 +188646,6 @@ of 2002,1
 of 2013,1
 of 8.38,1
 of AARP,1
-"of AFSCME, Local",1
 "of Accredited Career Schools (CCACS), and the California Association of",1
 of Advancement of Colored People,1
 of Alameda,1
