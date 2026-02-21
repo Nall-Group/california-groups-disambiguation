@@ -112,7 +112,7 @@ Also add Sheriff and Police organizations that are not in the crosswalk, to the 
 
 33. Consolidate Sierra Club orgs. Move conjoined entries to conjoined CSV, narrative text to embedded_in_narrative_text CSV, merge chapters/groups/task forces/sections under SIERRA CLUB canonical.
 
-34. Consolidate AFSCME orgs
+34. Consolidate AFSCME orgs, NAACP orgs, Planned Parenthood, CALPIRG, Audubon
 
 XX. Move things that are obviously not organization names (like sponsor or SB) to invalid organization names list 
 

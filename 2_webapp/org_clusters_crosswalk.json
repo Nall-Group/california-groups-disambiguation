@@ -2438,16 +2438,6 @@
       ]
     },
     {
-      "canonical": "ADVANCEMENT OF COLORED PEOPLE",
-      "status": "active",
-      "children": [
-        {
-          "name": "THE ADVANCEMENT OF COLORED PEOPLE",
-          "relationship": "alternate_spelling"
-        }
-      ]
-    },
-    {
       "canonical": "ADVANCEMENT PROJECT",
       "status": "active",
       "children": [
@@ -105721,36 +105711,6 @@
       "status": "active"
     },
     {
-      "canonical": "NAACP Legal Defense and Education Fund",
-      "status": "active",
-      "children": [
-        {
-          "name": "NAACP Legal Defense and Education Fund, Inc",
-          "relationship": "alternate_spelling"
-        }
-      ]
-    },
-    {
-      "canonical": "NAACP Legal Defense and Educational Fund",
-      "status": "active",
-      "children": [
-        {
-          "name": "NAACP Legal Defense and Educational Fund, Inc",
-          "relationship": "alternate_spelling"
-        }
-      ]
-    },
-    {
-      "canonical": "NAACP SANTA ROSA - SONOMA",
-      "status": "active",
-      "children": [
-        {
-          "name": "NAACP Santa Rosa-Sonoma",
-          "relationship": "alternate_spelling"
-        }
-      ]
-    },
-    {
       "canonical": "NABET-CWA",
       "status": "active",
       "children": [
@@ -106427,19 +106387,55 @@
       ]
     },
     {
-      "canonical": "NATIONAL ASSOCIATION FOR THE ADVANCEMENT OF COLORED PEOPLE",
+      "canonical": "National Association for the Advancement of Colored People (NAACP)",
       "status": "active",
       "children": [
         {
-          "name": "THE NATIONAL ASSOCIATION FOR THE ADVANCEMENT OF COLORED PEOPLE",
+          "name": "ADVANCEMENT OF COLORED PEOPLE",
           "relationship": "alternate_spelling"
         },
         {
-          "name": "NATIONAL ASSOCIATION FOR THE ADVANCEMENT OF COLORED PEOPLE (NAACP)",
+          "name": "Association for the Advancement of Colored People (NAACP)",
           "relationship": "alternate_spelling"
         },
         {
-          "name": "National Association for the Advancement of Colored People - California",
+          "name": "Association of the Advancement of Colored People (NAACP)",
+          "relationship": "alternate_spelling"
+        },
+        {
+          "name": "NAACP",
+          "relationship": "alternate_spelling"
+        },
+        {
+          "name": "NAACP LA",
+          "relationship": "alternate_spelling"
+        },
+        {
+          "name": "NATIONAL ASSOCIATION FOR THE ADVANCEMENT OF COLORED PEOPLE",
+          "relationship": "alternate_spelling"
+        },
+        {
+          "name": "National Assn for the Advancement of Colored People (NAACP)",
+          "relationship": "alternate_spelling"
+        },
+        {
+          "name": "National Association for the Advancement of Colored People, San",
+          "relationship": "alternate_spelling"
+        },
+        {
+          "name": "National Association of Advancement of Colored People",
+          "relationship": "alternate_spelling"
+        },
+        {
+          "name": "National Organization for the Advancement of Colored People",
+          "relationship": "alternate_spelling"
+        },
+        {
+          "name": "People (NAACP)",
+          "relationship": "alternate_spelling"
+        },
+        {
+          "name": "THE ADVANCEMENT OF COLORED PEOPLE",
           "relationship": "alternate_spelling"
         },
         {
@@ -106447,35 +106443,105 @@
           "relationship": "alternate_spelling"
         },
         {
-          "name": "NAACP California",
-          "relationship": "chapter"
-        },
-        {
-          "name": "California National Association for the Advancement of Colored People",
-          "relationship": "chapter"
-        },
-        {
-          "name": "California National Association for the Advancement of Colored People (NAACP)",
-          "relationship": "chapter"
-        },
-        {
-          "name": "California State Conference of the NAACP (National Association for the Advancement of Colored People)",
-          "relationship": "chapter"
-        },
-        {
-          "name": "National Association for the Advancement of Colored People-California",
+          "name": "THE NATIONAL ASSOCIATION FOR THE ADVANCEMENT OF COLORED PEOPLE",
           "relationship": "alternate_spelling"
         },
         {
-          "name": "NAACP-California",
-          "relationship": "alternate_spelling"
-        },
-        {
-          "name": "CALIFORNIA HAWAII STATE CONFERENCE OF THE NAACP",
-          "relationship": "alternate_spelling",
+          "name": "NAACP Legal Defense and Educational Fund",
+          "relationship": "chapter",
           "children": [
             {
+              "name": "NAACP Legal",
+              "relationship": "alternate_spelling"
+            },
+            {
+              "name": "NAACP Legal Defense & Education Fund, Inc",
+              "relationship": "alternate_spelling"
+            },
+            {
+              "name": "NAACP Legal Defense & Educational Fund, Inc",
+              "relationship": "alternate_spelling"
+            },
+            {
+              "name": "NAACP Legal Defense & Educational Fund, Inc. (LDF)",
+              "relationship": "alternate_spelling"
+            },
+            {
+              "name": "NAACP Legal Defense & Educational Fund, Inc., Sacramento Valley",
+              "relationship": "alternate_spelling"
+            },
+            {
+              "name": "NAACP Legal Defense Fund",
+              "relationship": "alternate_spelling"
+            },
+            {
+              "name": "NAACP Legal Defense and Education Fund",
+              "relationship": "alternate_spelling"
+            },
+            {
+              "name": "NAACP Legal Defense and Education Fund, Inc",
+              "relationship": "alternate_spelling"
+            },
+            {
+              "name": "NAACP Legal Defense and Educational Fund, Inc",
+              "relationship": "alternate_spelling"
+            },
+            {
+              "name": "National Association for the Advancement of Colored People (NAACP) Legal Defense and Educational Fund",
+              "relationship": "alternate_spelling"
+            },
+            {
+              "name": "National Association for the Advancement of Colored People Legal Defense & Educational",
+              "relationship": "alternate_spelling"
+            },
+            {
+              "name": "National Association for the Advancement of Colored People, Legal Defense Fund",
+              "relationship": "alternate_spelling"
+            }
+          ]
+        },
+        {
+          "name": "California-Hawaii State Conference of the NAACP",
+          "relationship": "chapter",
+          "children": [
+            {
+              "name": "Association for the Advancement of Colored People, California State Conference",
+              "relationship": "alternate_spelling"
+            },
+            {
+              "name": "CA NAACP State Conference Office",
+              "relationship": "alternate_spelling"
+            },
+            {
+              "name": "CA State Conference for NAACP",
+              "relationship": "alternate_spelling"
+            },
+            {
+              "name": "CA State Conference of the NAACP",
+              "relationship": "alternate_spelling"
+            },
+            {
+              "name": "CA State Conference of the National Assoc. for the Advancement of Colored",
+              "relationship": "alternate_spelling"
+            },
+            {
+              "name": "CA State Conference of the National Association for the Advancement of Colored People (NAACP)",
+              "relationship": "alternate_spelling"
+            },
+            {
+              "name": "CA State NAACP",
+              "relationship": "alternate_spelling"
+            },
+            {
+              "name": "CA/HI NAACP California State Conference",
+              "relationship": "alternate_spelling"
+            },
+            {
               "name": "CALIFORNIA HAWAII STATE CONFERENCE OF NAACP",
+              "relationship": "alternate_spelling"
+            },
+            {
+              "name": "CALIFORNIA HAWAII STATE CONFERENCE OF THE NAACP",
               "relationship": "alternate_spelling"
             },
             {
@@ -106491,32 +106557,992 @@
               "relationship": "alternate_spelling"
             },
             {
-              "name": "CALIFORNIA-HAWAII STATE CONFERENCE OF THE NAACP",
+              "name": "Ca State Conference of the National Association for the Advancement of Colored People",
               "relationship": "alternate_spelling"
             },
             {
-              "name": "NAACP",
+              "name": "California Chapter of the NAACP",
+              "relationship": "alternate_spelling"
+            },
+            {
+              "name": "California Conference of the NAACP",
+              "relationship": "alternate_spelling"
+            },
+            {
+              "name": "California Conference of the National Association for the Advancement of Colored People",
+              "relationship": "alternate_spelling"
+            },
+            {
+              "name": "California Hawaii Conference of the NAACP",
+              "relationship": "alternate_spelling"
+            },
+            {
+              "name": "California Hawaii National Association of Colored People",
+              "relationship": "alternate_spelling"
+            },
+            {
+              "name": "California Hawaii State Conference NAACP",
+              "relationship": "alternate_spelling"
+            },
+            {
+              "name": "California Hawaii State Conference National Association for the Advancement of Colored People",
+              "relationship": "alternate_spelling"
+            },
+            {
+              "name": "California Hawaii State Conference of the National Association for the Advancement of Colored People",
               "relationship": "alternate_spelling"
             },
             {
               "name": "California Hawaii State Conference of the National Association for the Advancement of Colored People (NAACP)",
-              "relationship": "chapter"
+              "relationship": "alternate_spelling"
             },
             {
-              "name": "California-Hawaii State Conference of the National Association for the Advancement of Colored People (NAACP)",
-              "relationship": "chapter"
+              "name": "California NAACP State Conference Office",
+              "relationship": "alternate_spelling"
             },
             {
-              "name": "California State Conference Of The National Association For The Advancement Of Colored People (NAACP)",
-              "relationship": "chapter"
+              "name": "California National Association for the Advancement of Colored People",
+              "relationship": "alternate_spelling"
+            },
+            {
+              "name": "California National Association for the Advancement of Colored People (NAACP)",
+              "relationship": "alternate_spelling"
             },
             {
               "name": "California Sate Conference of the National Association for the Advancement of Colored People (NAACP)",
-              "relationship": "chapter"
+              "relationship": "alternate_spelling"
+            },
+            {
+              "name": "California State Association of the NAACP",
+              "relationship": "alternate_spelling"
+            },
+            {
+              "name": "California State Conference NAACP",
+              "relationship": "alternate_spelling"
+            },
+            {
+              "name": "California State Conference Of The National Association For The Advancement Of Colored People (NAACP)",
+              "relationship": "alternate_spelling"
+            },
+            {
+              "name": "California State Conference of NAACP",
+              "relationship": "alternate_spelling"
+            },
+            {
+              "name": "California State Conference of the NAACP",
+              "relationship": "alternate_spelling"
+            },
+            {
+              "name": "California State Conference of the NAACP (National Association for the Advancement of Colored People)",
+              "relationship": "alternate_spelling"
+            },
+            {
+              "name": "California State Conference of the National Association for the Advancement of Colored",
+              "relationship": "alternate_spelling"
             },
             {
               "name": "California State Conference of the National Association for the Advancement of Colored People (California NAACP)",
+              "relationship": "alternate_spelling"
+            },
+            {
+              "name": "California State Conference of the National Association for the Advancement of the Colored People",
+              "relationship": "alternate_spelling"
+            },
+            {
+              "name": "California State Conference of the National Association of Advancement of Colored People",
+              "relationship": "alternate_spelling"
+            },
+            {
+              "name": "California State NAACP",
+              "relationship": "alternate_spelling"
+            },
+            {
+              "name": "California State National Association for the Advancement of Colored People",
+              "relationship": "alternate_spelling"
+            },
+            {
+              "name": "California-Hawaii Conference of the NAACP",
+              "relationship": "alternate_spelling"
+            },
+            {
+              "name": "California-Hawaii State Conference of the National Association for the Advancement of Colored People",
+              "relationship": "alternate_spelling"
+            },
+            {
+              "name": "California-Hawaii State Conference of the National Association for the Advancement of Colored People (NAACP)",
+              "relationship": "alternate_spelling"
+            },
+            {
+              "name": "California/Hawaii NAACP",
+              "relationship": "alternate_spelling"
+            },
+            {
+              "name": "California/Hawaii NAACP State Conference",
+              "relationship": "alternate_spelling"
+            },
+            {
+              "name": "California/Hawaii State Conference NAACP",
+              "relationship": "alternate_spelling"
+            },
+            {
+              "name": "NAACP - California State",
+              "relationship": "alternate_spelling"
+            },
+            {
+              "name": "NAACP - California State Conference of Branches",
+              "relationship": "alternate_spelling"
+            },
+            {
+              "name": "NAACP California",
+              "relationship": "alternate_spelling"
+            },
+            {
+              "name": "NAACP California Hawaii State Conference",
+              "relationship": "alternate_spelling"
+            },
+            {
+              "name": "NAACP California State Conference",
+              "relationship": "alternate_spelling"
+            },
+            {
+              "name": "NAACP California-Hawai'i Conference",
+              "relationship": "alternate_spelling"
+            },
+            {
+              "name": "NAACP California-Hawaii State Conference",
+              "relationship": "alternate_spelling"
+            },
+            {
+              "name": "NAACP, California Chapter",
+              "relationship": "alternate_spelling"
+            },
+            {
+              "name": "NAACP, California Conference",
+              "relationship": "alternate_spelling"
+            },
+            {
+              "name": "NAACP, California/Hawaii Chapter",
+              "relationship": "alternate_spelling"
+            },
+            {
+              "name": "NAACP-CA State",
+              "relationship": "alternate_spelling"
+            },
+            {
+              "name": "NAACP-California",
+              "relationship": "alternate_spelling"
+            },
+            {
+              "name": "National Association for the Advancement of Colored People (NAACP), California Conference",
+              "relationship": "alternate_spelling"
+            },
+            {
+              "name": "National Association for the Advancement of Colored People - California",
+              "relationship": "alternate_spelling"
+            },
+            {
+              "name": "National Association for the Advancement of Colored People - California-Hawaii",
+              "relationship": "alternate_spelling"
+            },
+            {
+              "name": "National Association for the Advancement of Colored People, California State Conference",
+              "relationship": "alternate_spelling"
+            },
+            {
+              "name": "National Association for the Advancement of Colored People-California",
+              "relationship": "alternate_spelling"
+            },
+            {
+              "name": "National Association for the Advancement of Colored Persons, California State Conference",
+              "relationship": "alternate_spelling"
+            },
+            {
+              "name": "National Association of Advancement of Colored People - California State Conference",
+              "relationship": "alternate_spelling"
+            },
+            {
+              "name": "State Conference of the NAACP",
+              "relationship": "alternate_spelling"
+            },
+            {
+              "name": "State Council of the NAACP",
+              "relationship": "alternate_spelling"
+            },
+            {
+              "name": "NAACP Altadena Branch",
+              "relationship": "chapter",
+              "children": [
+                {
+                  "name": "NAACP - Altadena Beach",
+                  "relationship": "alternate_spelling"
+                },
+                {
+                  "name": "NAACP Altadena",
+                  "relationship": "alternate_spelling"
+                }
+              ]
+            },
+            {
+              "name": "NAACP Bakersfield Branch",
               "relationship": "chapter"
+            },
+            {
+              "name": "NAACP Beverly Hills/Hollywood Branch",
+              "relationship": "chapter",
+              "children": [
+                {
+                  "name": "Beverly Hills / Hollywood NAACP",
+                  "relationship": "alternate_spelling"
+                },
+                {
+                  "name": "Beverly Hills/Hollywood NAACP",
+                  "relationship": "alternate_spelling"
+                }
+              ]
+            },
+            {
+              "name": "NAACP Branch 1034",
+              "relationship": "chapter",
+              "children": [
+                {
+                  "name": "National Association for the Advancement of Colored People 1034",
+                  "relationship": "alternate_spelling"
+                }
+              ]
+            },
+            {
+              "name": "NAACP Butte County Branch",
+              "relationship": "chapter",
+              "children": [
+                {
+                  "name": "NAACP Butte County",
+                  "relationship": "alternate_spelling"
+                }
+              ]
+            },
+            {
+              "name": "NAACP Compton Branch",
+              "relationship": "chapter",
+              "children": [
+                {
+                  "name": "Compton Branch of the NAACP",
+                  "relationship": "alternate_spelling"
+                },
+                {
+                  "name": "Compton Branch of the National Association for the Advancement of Colored",
+                  "relationship": "alternate_spelling"
+                }
+              ]
+            },
+            {
+              "name": "NAACP Contra Costa County Branch",
+              "relationship": "chapter",
+              "children": [
+                {
+                  "name": "Contra Costa County NAACP",
+                  "relationship": "alternate_spelling"
+                },
+                {
+                  "name": "East Contra Costa County Branch of the NAACP",
+                  "relationship": "alternate_spelling"
+                }
+              ]
+            },
+            {
+              "name": "NAACP Eureka Branch",
+              "relationship": "chapter",
+              "children": [
+                {
+                  "name": "National Association of Advancement of Colored People - Eureka",
+                  "relationship": "alternate_spelling"
+                }
+              ]
+            },
+            {
+              "name": "NAACP Fresno Branch",
+              "relationship": "chapter",
+              "children": [
+                {
+                  "name": "NAACP - Fresno Chapter",
+                  "relationship": "alternate_spelling"
+                },
+                {
+                  "name": "NAACP - Fresno, 1038",
+                  "relationship": "alternate_spelling"
+                },
+                {
+                  "name": "NAACP of Fresno",
+                  "relationship": "alternate_spelling"
+                },
+                {
+                  "name": "NAACP-Fresno 1038",
+                  "relationship": "alternate_spelling"
+                }
+              ]
+            },
+            {
+              "name": "NAACP Hayward South Alameda County Branch",
+              "relationship": "chapter",
+              "children": [
+                {
+                  "name": "NAACP Hayward South Alameda County",
+                  "relationship": "alternate_spelling"
+                }
+              ]
+            },
+            {
+              "name": "NAACP Hercules/Pinole/Rodeo Branch",
+              "relationship": "chapter",
+              "children": [
+                {
+                  "name": "NAACP - Hercules, Pinole, & Rodeo",
+                  "relationship": "alternate_spelling"
+                }
+              ]
+            },
+            {
+              "name": "NAACP Humboldt Branch",
+              "relationship": "chapter",
+              "children": [
+                {
+                  "name": "National Association for the Advancement of Colored People - Humboldt",
+                  "relationship": "alternate_spelling"
+                }
+              ]
+            },
+            {
+              "name": "NAACP Inglewood/South Bay Branch",
+              "relationship": "chapter",
+              "children": [
+                {
+                  "name": "Inglewood / South Bay NAACP",
+                  "relationship": "alternate_spelling"
+                },
+                {
+                  "name": "NAACP, Inglewood South Bay Branch",
+                  "relationship": "alternate_spelling"
+                },
+                {
+                  "name": "National Association of Advancement of Colored People - Inglewood/South Bay",
+                  "relationship": "alternate_spelling"
+                }
+              ]
+            },
+            {
+              "name": "NAACP Lake Elsinore Branch",
+              "relationship": "chapter"
+            },
+            {
+              "name": "NAACP Long Beach Branch",
+              "relationship": "chapter",
+              "children": [
+                {
+                  "name": "NAACP Long Beach",
+                  "relationship": "alternate_spelling"
+                }
+              ]
+            },
+            {
+              "name": "NAACP Los Angeles Branch",
+              "relationship": "chapter",
+              "children": [
+                {
+                  "name": "Los Angeles NAACP",
+                  "relationship": "alternate_spelling"
+                },
+                {
+                  "name": "Los Angeles National Association for the Advancement of Colored People Ulis C. Williams",
+                  "relationship": "alternate_spelling"
+                },
+                {
+                  "name": "NAACP Los Angeles",
+                  "relationship": "alternate_spelling"
+                },
+                {
+                  "name": "NAACP of Los Angeles",
+                  "relationship": "alternate_spelling"
+                },
+                {
+                  "name": "National Association for the Advancement of Colored People - Los Angeles",
+                  "relationship": "alternate_spelling"
+                },
+                {
+                  "name": "National Association of Advancement of Colored People - Los Angeles",
+                  "relationship": "alternate_spelling"
+                }
+              ]
+            },
+            {
+              "name": "NAACP Merced Branch",
+              "relationship": "chapter",
+              "children": [
+                {
+                  "name": "Merced County NAACP",
+                  "relationship": "alternate_spelling"
+                },
+                {
+                  "name": "NAACP Merced Chapter",
+                  "relationship": "alternate_spelling"
+                }
+              ]
+            },
+            {
+              "name": "NAACP Modesto/Stanislaus Branch",
+              "relationship": "chapter",
+              "children": [
+                {
+                  "name": "Modesto/Stanislaus Branch of the NAACP",
+                  "relationship": "alternate_spelling"
+                },
+                {
+                  "name": "The Modesto/Stanislaus NAACP",
+                  "relationship": "alternate_spelling"
+                }
+              ]
+            },
+            {
+              "name": "NAACP Monterey Peninsula Branch",
+              "relationship": "chapter",
+              "children": [
+                {
+                  "name": "National Association for the Advancement of Colored People, Monterey Peninsula",
+                  "relationship": "alternate_spelling"
+                }
+              ]
+            },
+            {
+              "name": "NAACP North San Diego County Branch",
+              "relationship": "chapter",
+              "children": [
+                {
+                  "name": "NAACP North San Diego County",
+                  "relationship": "alternate_spelling"
+                },
+                {
+                  "name": "National Association of Advancement of Colored People - North San Diego",
+                  "relationship": "alternate_spelling"
+                },
+                {
+                  "name": "North San Diego County NAACP",
+                  "relationship": "alternate_spelling"
+                }
+              ]
+            },
+            {
+              "name": "NAACP Oakland Branch",
+              "relationship": "chapter",
+              "children": [
+                {
+                  "name": "NAACP Oakland",
+                  "relationship": "alternate_spelling"
+                },
+                {
+                  "name": "National Association for the Advancement of Colored People, Oakland",
+                  "relationship": "alternate_spelling"
+                },
+                {
+                  "name": "Oakland Chapter, NAACP",
+                  "relationship": "alternate_spelling"
+                },
+                {
+                  "name": "Oakland NAACP",
+                  "relationship": "alternate_spelling"
+                }
+              ]
+            },
+            {
+              "name": "NAACP Orange County Branch",
+              "relationship": "chapter",
+              "children": [
+                {
+                  "name": "NAACP Orange County",
+                  "relationship": "alternate_spelling"
+                },
+                {
+                  "name": "Orange County NAACP",
+                  "relationship": "alternate_spelling"
+                }
+              ]
+            },
+            {
+              "name": "NAACP Oxnard-Ventura County Branch",
+              "relationship": "chapter",
+              "children": [
+                {
+                  "name": "NAACP Oxnard-Ventura County",
+                  "relationship": "alternate_spelling"
+                }
+              ]
+            },
+            {
+              "name": "NAACP Pasadena Branch",
+              "relationship": "chapter",
+              "children": [
+                {
+                  "name": "NAACP Pasadena",
+                  "relationship": "alternate_spelling"
+                },
+                {
+                  "name": "National Association for the Advancement of Colored People (NAACP), Pasadena Branch",
+                  "relationship": "alternate_spelling"
+                },
+                {
+                  "name": "National Association for the Advancement of Colored People, Pasadena",
+                  "relationship": "alternate_spelling"
+                },
+                {
+                  "name": "National Association for the Advancement of Colored People, Pasadena Branch",
+                  "relationship": "alternate_spelling"
+                },
+                {
+                  "name": "Pasadena Branch of the NAACP",
+                  "relationship": "alternate_spelling"
+                },
+                {
+                  "name": "Pasadena Branch of the National Association for the Advancement of Colored",
+                  "relationship": "alternate_spelling"
+                },
+                {
+                  "name": "Pasadena NAACP",
+                  "relationship": "alternate_spelling"
+                }
+              ]
+            },
+            {
+              "name": "NAACP Peralta Community College District Branch",
+              "relationship": "chapter",
+              "children": [
+                {
+                  "name": "Peralta Community College District NAACP",
+                  "relationship": "alternate_spelling"
+                }
+              ]
+            },
+            {
+              "name": "NAACP Pomona Valley Branch 1085",
+              "relationship": "chapter",
+              "children": [
+                {
+                  "name": "NAACP Pomona Valley Branch",
+                  "relationship": "alternate_spelling"
+                },
+                {
+                  "name": "NAACP Pomona Valley Branch 1085B",
+                  "relationship": "alternate_spelling"
+                },
+                {
+                  "name": "NAACP Pomona Valley Chapter",
+                  "relationship": "alternate_spelling"
+                },
+                {
+                  "name": "National Association for the Advancement of Colored People Pomona Valley Branch",
+                  "relationship": "alternate_spelling"
+                }
+              ]
+            },
+            {
+              "name": "NAACP Richmond Branch",
+              "relationship": "chapter",
+              "children": [
+                {
+                  "name": "NAACP Richmond",
+                  "relationship": "alternate_spelling"
+                },
+                {
+                  "name": "Richmond NAACP",
+                  "relationship": "alternate_spelling"
+                }
+              ]
+            },
+            {
+              "name": "NAACP Riverside Branch",
+              "relationship": "chapter",
+              "children": [
+                {
+                  "name": "NAACP Riverside",
+                  "relationship": "alternate_spelling"
+                },
+                {
+                  "name": "National Association for the Advancement of Colored People -Riverside",
+                  "relationship": "alternate_spelling"
+                },
+                {
+                  "name": "National Association of Advancement of Colored People - Riverside",
+                  "relationship": "alternate_spelling"
+                },
+                {
+                  "name": "Riverside NAACP",
+                  "relationship": "alternate_spelling"
+                },
+                {
+                  "name": "Riverside National Association for the Advancement of Colored People",
+                  "relationship": "alternate_spelling"
+                },
+                {
+                  "name": "Riverside Side Branch NAACP",
+                  "relationship": "alternate_spelling"
+                }
+              ]
+            },
+            {
+              "name": "NAACP Sacramento Branch",
+              "relationship": "chapter",
+              "children": [
+                {
+                  "name": "NAACP Sacramento",
+                  "relationship": "alternate_spelling"
+                },
+                {
+                  "name": "NAACP Sacramento Chapter",
+                  "relationship": "alternate_spelling"
+                },
+                {
+                  "name": "National Association for the Advancement of Colored People, Sacramento",
+                  "relationship": "alternate_spelling"
+                },
+                {
+                  "name": "Sacramento Branch NAACP",
+                  "relationship": "alternate_spelling"
+                },
+                {
+                  "name": "Sacramento Branch of the NAACP",
+                  "relationship": "alternate_spelling"
+                },
+                {
+                  "name": "Sacramento NAACP",
+                  "relationship": "alternate_spelling"
+                },
+                {
+                  "name": "Sacramento Valley Region, NAACP",
+                  "relationship": "alternate_spelling"
+                }
+              ]
+            },
+            {
+              "name": "NAACP San Bernardino Branch",
+              "relationship": "chapter",
+              "children": [
+                {
+                  "name": "NAACP (San Bernardino)",
+                  "relationship": "alternate_spelling"
+                }
+              ]
+            },
+            {
+              "name": "NAACP San Diego Branch",
+              "relationship": "chapter",
+              "children": [
+                {
+                  "name": "NAACP - San Diego Chapter",
+                  "relationship": "alternate_spelling"
+                },
+                {
+                  "name": "NAACP of San Diego",
+                  "relationship": "alternate_spelling"
+                },
+                {
+                  "name": "National Association for the Advancement of Colored People, San Diego",
+                  "relationship": "alternate_spelling"
+                },
+                {
+                  "name": "National Association of Advancement of Colored People - San Diego",
+                  "relationship": "alternate_spelling"
+                }
+              ]
+            },
+            {
+              "name": "NAACP San Fernando Valley Branch",
+              "relationship": "chapter",
+              "children": [
+                {
+                  "name": "NAACP, San Fernando Valley Chapter",
+                  "relationship": "alternate_spelling"
+                },
+                {
+                  "name": "San Fernando Valley NAACP",
+                  "relationship": "alternate_spelling"
+                }
+              ]
+            },
+            {
+              "name": "NAACP San Francisco Branch",
+              "relationship": "chapter",
+              "children": [
+                {
+                  "name": "National Association for the Advancement of Colored People, San Francisco",
+                  "relationship": "alternate_spelling"
+                },
+                {
+                  "name": "San Francisco Branch NAACP",
+                  "relationship": "alternate_spelling"
+                },
+                {
+                  "name": "San Francisco Branch of the NAACP",
+                  "relationship": "alternate_spelling"
+                },
+                {
+                  "name": "San Francisco Branch of the National Association for the Advancement of Colored People",
+                  "relationship": "alternate_spelling"
+                },
+                {
+                  "name": "San Francisco NAACP",
+                  "relationship": "alternate_spelling"
+                }
+              ]
+            },
+            {
+              "name": "NAACP San Gabriel Valley Branch",
+              "relationship": "chapter",
+              "children": [
+                {
+                  "name": "NAACP San Gabriel Valley",
+                  "relationship": "alternate_spelling"
+                },
+                {
+                  "name": "San Gabriel Valley Branch of the NAACP",
+                  "relationship": "alternate_spelling"
+                }
+              ]
+            },
+            {
+              "name": "NAACP San Jose/Silicon Valley Branch",
+              "relationship": "chapter",
+              "children": [
+                {
+                  "name": "NAACP - San Jose & Silicon Valley Chapters",
+                  "relationship": "alternate_spelling"
+                },
+                {
+                  "name": "NAACP San Jose/Silicon Valley",
+                  "relationship": "alternate_spelling"
+                },
+                {
+                  "name": "NAACP, San Jose Chapter",
+                  "relationship": "alternate_spelling"
+                },
+                {
+                  "name": "National Association for the Advancement of Colored People, SV/SJ",
+                  "relationship": "alternate_spelling"
+                },
+                {
+                  "name": "National Association for the Advancement of Colored People, San Jose/Silicon Valley",
+                  "relationship": "alternate_spelling"
+                },
+                {
+                  "name": "National Association for the Advancement of Colored People, San Jose/Silicon Valley Branch",
+                  "relationship": "alternate_spelling"
+                },
+                {
+                  "name": "SAN JOSE/SILICON VALLEY BRANCH OF THE NAACP",
+                  "relationship": "alternate_spelling"
+                },
+                {
+                  "name": "SAN JOSE/SILICON VALLEY NAACP",
+                  "relationship": "alternate_spelling"
+                },
+                {
+                  "name": "San Jose / Silicon Valley NAACP",
+                  "relationship": "alternate_spelling"
+                },
+                {
+                  "name": "San Jose Branch of NAACP",
+                  "relationship": "alternate_spelling"
+                },
+                {
+                  "name": "San Jose NAACP",
+                  "relationship": "alternate_spelling"
+                },
+                {
+                  "name": "San Jose/Silicon Valley Branch of the National Association for the Advancement of Colored People",
+                  "relationship": "alternate_spelling"
+                },
+                {
+                  "name": "San Jose/Silicon Velley NAACP",
+                  "relationship": "alternate_spelling"
+                },
+                {
+                  "name": "San Jose/Silicone Valley NAACP",
+                  "relationship": "alternate_spelling"
+                }
+              ]
+            },
+            {
+              "name": "NAACP San Mateo Branch",
+              "relationship": "chapter",
+              "children": [
+                {
+                  "name": "NAACP San Mateo",
+                  "relationship": "alternate_spelling"
+                },
+                {
+                  "name": "San Mateo Branch of the NAACP",
+                  "relationship": "alternate_spelling"
+                },
+                {
+                  "name": "San Mateo Branch of the National Association for the Advancement of Colored",
+                  "relationship": "alternate_spelling"
+                }
+              ]
+            },
+            {
+              "name": "NAACP San Pedro-Wilmington Branch 1069",
+              "relationship": "chapter",
+              "children": [
+                {
+                  "name": "NAACP - San Pedro - Wilmington Branch 1069",
+                  "relationship": "alternate_spelling"
+                },
+                {
+                  "name": "NAACP 1069",
+                  "relationship": "alternate_spelling"
+                },
+                {
+                  "name": "NAACP Branch 1069",
+                  "relationship": "alternate_spelling"
+                },
+                {
+                  "name": "NAACP San Pedro-Wilmington Beach",
+                  "relationship": "alternate_spelling"
+                },
+                {
+                  "name": "NAACP San Pedro-Wilmington Chapter 1069",
+                  "relationship": "alternate_spelling"
+                },
+                {
+                  "name": "NAACP San Pedro-wilmington Branch",
+                  "relationship": "alternate_spelling"
+                },
+                {
+                  "name": "NAACP-San Pedro-Wilmington Chapter",
+                  "relationship": "alternate_spelling"
+                },
+                {
+                  "name": "National Association for the Advancement of Colored People (NAACP) 1069",
+                  "relationship": "alternate_spelling"
+                }
+              ]
+            },
+            {
+              "name": "NAACP Santa Clarita Branch",
+              "relationship": "chapter",
+              "children": [
+                {
+                  "name": "NAACP Santa Clarita",
+                  "relationship": "alternate_spelling"
+                }
+              ]
+            },
+            {
+              "name": "NAACP Santa Cruz Branch",
+              "relationship": "chapter",
+              "children": [
+                {
+                  "name": "NAACP - Santa Cruz Chapter",
+                  "relationship": "alternate_spelling"
+                }
+              ]
+            },
+            {
+              "name": "NAACP Santa Maria/Lompoc Branch",
+              "relationship": "chapter",
+              "children": [
+                {
+                  "name": "NAACP of Santa Maria",
+                  "relationship": "alternate_spelling"
+                },
+                {
+                  "name": "NAACP of Santa Maria- Lompoc",
+                  "relationship": "alternate_spelling"
+                },
+                {
+                  "name": "National Association for the Advancement of Colored People- Santa Maria-Lompoc Branch",
+                  "relationship": "alternate_spelling"
+                },
+                {
+                  "name": "Santa Maria/Lompoc NAACP",
+                  "relationship": "alternate_spelling"
+                },
+                {
+                  "name": "Santa-Maria/Lompoc NAACP",
+                  "relationship": "alternate_spelling"
+                }
+              ]
+            },
+            {
+              "name": "NAACP Santa Monica/Venice Branch",
+              "relationship": "chapter",
+              "children": [
+                {
+                  "name": "NAACP Santa Monica/Venice",
+                  "relationship": "alternate_spelling"
+                }
+              ]
+            },
+            {
+              "name": "NAACP Santa Rosa-Sonoma Branch",
+              "relationship": "chapter",
+              "children": [
+                {
+                  "name": "NAACP SANTA ROSA - SONOMA",
+                  "relationship": "alternate_spelling"
+                },
+                {
+                  "name": "NAACP Santa Rosa - Sonoma County Branch",
+                  "relationship": "alternate_spelling"
+                },
+                {
+                  "name": "NAACP Santa Rosa-Sonoma",
+                  "relationship": "alternate_spelling"
+                },
+                {
+                  "name": "NAACP, Santa Rosa Chapter",
+                  "relationship": "alternate_spelling"
+                },
+                {
+                  "name": "Santa Rosa / Sonoma County NAACP",
+                  "relationship": "alternate_spelling"
+                }
+              ]
+            },
+            {
+              "name": "NAACP Stockton Branch",
+              "relationship": "chapter",
+              "children": [
+                {
+                  "name": "NAACP Stockton",
+                  "relationship": "alternate_spelling"
+                },
+                {
+                  "name": "NAACP Stockton Branch Economic Development Committee",
+                  "relationship": "chapter"
+                },
+                {
+                  "name": "Stockton Branch of the NAACP",
+                  "relationship": "alternate_spelling"
+                },
+                {
+                  "name": "Stockton Branch of the National Association For the Advancement of Colored People",
+                  "relationship": "alternate_spelling"
+                }
+              ]
+            },
+            {
+              "name": "NAACP Vallejo Branch",
+              "relationship": "chapter"
+            },
+            {
+              "name": "NAACP Ventura County Branch",
+              "relationship": "chapter",
+              "children": [
+                {
+                  "name": "NAACP - Venture County",
+                  "relationship": "alternate_spelling"
+                },
+                {
+                  "name": "NAACP Ventura County",
+                  "relationship": "alternate_spelling"
+                }
+              ]
             }
           ]
         }
@@ -131222,20 +132248,6 @@
         {
           "name": "San Jose Water Company - Operating Engineers Local 3",
           "relationship": "chapter"
-        }
-      ]
-    },
-    {
-      "canonical": "SAN JOSE/SILICON VALLEY NAACP",
-      "status": "active",
-      "children": [
-        {
-          "name": "SAN JOSE/SILICON VALLEY BRANCH OF THE NAACP",
-          "relationship": "alternate_spelling"
-        },
-        {
-          "name": "San Jose / Silicon Valley NAACP",
-          "relationship": "alternate_spelling"
         }
       ]
     },
