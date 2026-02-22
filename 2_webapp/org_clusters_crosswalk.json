@@ -100,16 +100,6 @@
       ]
     },
     {
-      "canonical": "16 Planned Parenthood Affiliates",
-      "status": "active",
-      "children": [
-        {
-          "name": "16 Planned Parenthood Affiliates of California",
-          "relationship": "chapter"
-        }
-      ]
-    },
-    {
       "canonical": "1HWY1",
       "status": "active",
       "children": [
@@ -53476,26 +53466,6 @@
       "children": [
         {
           "name": "Community Action Board of Santa Cruz County Inc",
-          "relationship": "alternate_spelling"
-        }
-      ]
-    },
-    {
-      "canonical": "COMMUNITY ACTION FUND OF PLANNED PARENTHOOD OF ORANGE AND SAN BERNARDINO",
-      "status": "active",
-      "children": [
-        {
-          "name": "THE COMMUNITY ACTION FUND OF PLANNED PARENTHOOD OF ORANGE AND SAN BERNARDINO",
-          "relationship": "alternate_spelling"
-        }
-      ]
-    },
-    {
-      "canonical": "COMMUNITY ACTION FUND OF PLANNED PARENTHOOD OF ORANGE AND SAN BERNARDINO COUNTIES",
-      "status": "active",
-      "children": [
-        {
-          "name": "THE COMMUNITY ACTION FUND OF PLANNED PARENTHOOD OF ORANGE AND SAN BERNARDINO COUNTIES",
           "relationship": "alternate_spelling"
         }
       ]
@@ -119923,99 +119893,718 @@
       "status": "active",
       "children": [
         {
-          "name": "Planned Parenthood - California",
+          "name": "Planned Parenthood Federation of America",
           "relationship": "alternate_spelling"
         },
         {
           "name": "Planned Parenthood of CA",
-          "relationship": "chapter"
-        },
-        {
-          "name": "California Planned Parenthood",
-          "relationship": "chapter"
-        }
-      ]
-    },
-    {
-      "canonical": "Planned Parenthood Advocacy Project Los Angeles",
-      "children": [
-        {
-          "name": "Planned Parenthood Advocacy Project Los Angeles Co",
-          "relationship": "alternate_spelling"
-        }
-      ]
-    },
-    {
-      "canonical": "Planned Parenthood Affiliates",
-      "status": "active",
-      "children": [
-        {
-          "name": "Planned Parenthood Affiliates, California",
-          "relationship": "chapter"
-        }
-      ]
-    },
-    {
-      "canonical": "PLANNED PARENTHOOD AFFILIATES OF CA",
-      "status": "active",
-      "children": [
-        {
-          "name": "PLANNED PARENTHOOD AFFILIATES OF CA (PPAC)",
-          "relationship": "alternate_spelling"
-        }
-      ]
-    },
-    {
-      "canonical": "Planned Parenthood of California",
-      "status": "active",
-      "children": [
-        {
-          "name": "Planned Parenthood of California, Inc",
-          "relationship": "alternate_spelling"
-        }
-      ]
-    },
-    {
-      "canonical": "Planned Parenthood of Pasadena",
-      "status": "active",
-      "children": [
-        {
-          "name": "Planned Parenthood of Pasadena, Inc",
-          "relationship": "alternate_spelling"
-        }
-      ]
-    },
-    {
-      "canonical": "Planned Parenthood of Santa Barbara, Ventura & San Luis Obispo Counties",
-      "status": "active",
-      "children": [
-        {
-          "name": "Planned Parenthood of Santa Barbara, Ventura & San Luis Obispo Counties, Inc",
-          "relationship": "alternate_spelling"
-        }
-      ]
-    },
-    {
-      "canonical": "Planned Parenthood of Santa Barbara, Ventura and San Luis Obispo Counties",
-      "status": "active",
-      "children": [
-        {
-          "name": "Planned Parenthood of Santa Barbara, Ventura and San Luis Obispo Counties, Inc",
-          "relationship": "alternate_spelling"
-        }
-      ]
-    },
-    {
-      "canonical": "Planned Parenthood, Affiliates of California",
-      "status": "active",
-      "children": [
-        {
-          "name": "PLANNED PARENTHOOD AFFILIATES OF CALIFORNIA (PPAC)",
           "relationship": "alternate_spelling"
         },
         {
-          "name": "Planned Parenthood Affiliates of California, Inc",
-          "relationship": "alternate_spelling"
+          "name": "Planned Parenthood Affiliates of California",
+          "relationship": "chapter",
+          "children": [
+            {
+              "name": "16 Planned Parenthood Affiliates",
+              "relationship": "alternate_spelling"
+            },
+            {
+              "name": "16 Planned Parenthood Affiliates of California",
+              "relationship": "alternate_spelling"
+            },
+            {
+              "name": "California Planned Parenthood",
+              "relationship": "alternate_spelling"
+            },
+            {
+              "name": "PLANNED PARENTHOOD AFFILIATES OF CA",
+              "relationship": "alternate_spelling"
+            },
+            {
+              "name": "PLANNED PARENTHOOD AFFILIATES OF CA (PPAC)",
+              "relationship": "alternate_spelling"
+            },
+            {
+              "name": "PLANNED PARENTHOOD AFFILIATES OF CALIFORNIA (PPAC)",
+              "relationship": "alternate_spelling"
+            },
+            {
+              "name": "Planned Parenthood - California",
+              "relationship": "alternate_spelling"
+            },
+            {
+              "name": "Planned Parenthood Affilates of California",
+              "relationship": "alternate_spelling"
+            },
+            {
+              "name": "Planned Parenthood Affiliate of California",
+              "relationship": "alternate_spelling"
+            },
+            {
+              "name": "Planned Parenthood Affiliates",
+              "relationship": "alternate_spelling"
+            },
+            {
+              "name": "Planned Parenthood Affiliates in California",
+              "relationship": "alternate_spelling"
+            },
+            {
+              "name": "Planned Parenthood Affiliates of CA, Inc. (PPACO)",
+              "relationship": "alternate_spelling"
+            },
+            {
+              "name": "Planned Parenthood Affiliates of Calif.",
+              "relationship": "alternate_spelling"
+            },
+            {
+              "name": "Planned Parenthood Affiliates of California, Inc",
+              "relationship": "alternate_spelling"
+            },
+            {
+              "name": "Planned Parenthood Affiliates of California, Inc. (PPAC)",
+              "relationship": "alternate_spelling"
+            },
+            {
+              "name": "Planned Parenthood Affiliates of Caliornia",
+              "relationship": "alternate_spelling"
+            },
+            {
+              "name": "Planned Parenthood Affiliates, California",
+              "relationship": "alternate_spelling"
+            },
+            {
+              "name": "Planned Parenthood Affliliates of California",
+              "relationship": "alternate_spelling"
+            },
+            {
+              "name": "Planned Parenthood Association of California",
+              "relationship": "alternate_spelling"
+            },
+            {
+              "name": "Planned Parenthood of Affiliates of California",
+              "relationship": "alternate_spelling"
+            },
+            {
+              "name": "Planned Parenthood of California",
+              "relationship": "alternate_spelling"
+            },
+            {
+              "name": "Planned Parenthood of California (PPAC)",
+              "relationship": "alternate_spelling"
+            },
+            {
+              "name": "Planned Parenthood of California, Inc",
+              "relationship": "alternate_spelling"
+            },
+            {
+              "name": "Planned Parenthoood Affiliates of California (PPAC)",
+              "relationship": "alternate_spelling"
+            },
+            {
+              "name": "Planned Parents Affiliates of California",
+              "relationship": "alternate_spelling"
+            },
+            {
+              "name": "Planned Parenthood California Central Coast",
+              "relationship": "chapter",
+              "children": [
+                {
+                  "name": "Planned Parenthood of Santa Barbara, Ventura & San Luis Obispo Counties",
+                  "relationship": "alternate_spelling"
+                },
+                {
+                  "name": "Planned Parenthood of Santa Barbara, Ventura and San Luis Obispo Counties",
+                  "relationship": "alternate_spelling"
+                },
+                {
+                  "name": "Planned Parenthood San Luis Obispo",
+                  "relationship": "alternate_spelling"
+                },
+                {
+                  "name": "Planned Parenthood Santa Barbara, Ventura and San Luis Obispo Counties",
+                  "relationship": "alternate_spelling"
+                },
+                {
+                  "name": "Planned Parenthood Santa Barbara, Ventura, & San Luis Obispo Counties",
+                  "relationship": "alternate_spelling"
+                },
+                {
+                  "name": "Planned Parenthood Ventura",
+                  "relationship": "alternate_spelling"
+                },
+                {
+                  "name": "Planned Parenthood of Central California",
+                  "relationship": "alternate_spelling"
+                },
+                {
+                  "name": "Planned Parenthood of Santa Barbara, San Luis Obispo Counties",
+                  "relationship": "alternate_spelling"
+                },
+                {
+                  "name": "Planned Parenthood of Santa Barbara, Ventura & San Luis Obispo",
+                  "relationship": "alternate_spelling"
+                },
+                {
+                  "name": "Planned Parenthood of Santa Barbara, Ventura & San Luis Obispo Counties, Inc",
+                  "relationship": "alternate_spelling"
+                },
+                {
+                  "name": "Planned Parenthood of Santa Barbara, Ventura and San Luis Obispo",
+                  "relationship": "alternate_spelling"
+                },
+                {
+                  "name": "Planned Parenthood of Santa Barbara, Ventura and San Luis Obispo Counties, Inc",
+                  "relationship": "alternate_spelling"
+                },
+                {
+                  "name": "Planned Parenthood, Santa Barbara, Ventura & San Luis Obispo",
+                  "relationship": "alternate_spelling"
+                },
+                {
+                  "name": "Planned Parenthood, Santa Barbara, Ventura and San Luis Obispo",
+                  "relationship": "alternate_spelling"
+                },
+                {
+                  "name": "Planned Parenthood Central Coast Action Fund",
+                  "relationship": "chapter",
+                  "children": [
+                    {
+                      "name": "Planned Parenthood Action Fund, Central Coast",
+                      "relationship": "alternate_spelling"
+                    }
+                  ]
+                },
+                {
+                  "name": "Planned Parenthood Action Fund of Santa Barbara, Ventura & San Luis Obispo Counties",
+                  "relationship": "chapter",
+                  "children": [
+                    {
+                      "name": "Planned Parent Action Fund of Santa Barbara, Venture & San Luis Obispo Co",
+                      "relationship": "alternate_spelling"
+                    },
+                    {
+                      "name": "Planned Parenthood Action Fund of Santa Barbara, Bentura, & San Luis Obispo Counties",
+                      "relationship": "alternate_spelling"
+                    },
+                    {
+                      "name": "Planned Parenthood Action Fund of Santa Barbara, Ventura & San Louis Obispo Counties",
+                      "relationship": "alternate_spelling"
+                    },
+                    {
+                      "name": "Planned Parenthood Action Fund of Santa Barbara, Ventura & San Luis Obispo",
+                      "relationship": "alternate_spelling"
+                    },
+                    {
+                      "name": "Planned Parenthood Action Fund of Santa Barbara, Ventura and San Luis Obispo",
+                      "relationship": "alternate_spelling"
+                    },
+                    {
+                      "name": "Planned Parenthood Action Fund of Santa Barbara, Ventura and San Luis Obispo Counties",
+                      "relationship": "alternate_spelling"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Planned Parenthood Golden Gate",
+              "relationship": "chapter",
+              "children": [
+                {
+                  "name": "Planned Parenthood Alameda/San Francisco",
+                  "relationship": "alternate_spelling"
+                },
+                {
+                  "name": "Planned Parenthood Golden Gate-Hayward",
+                  "relationship": "alternate_spelling"
+                },
+                {
+                  "name": "Planned Parenthood Golden Gate-Oakland/McArthur",
+                  "relationship": "alternate_spelling"
+                },
+                {
+                  "name": "Planned Parenthood of Golden Gate",
+                  "relationship": "alternate_spelling"
+                },
+                {
+                  "name": "Planned Parenthood-Golden Gate",
+                  "relationship": "alternate_spelling"
+                }
+              ],
+              "defunct": "2010"
+            },
+            {
+              "name": "Planned Parenthood Golden State",
+              "relationship": "chapter",
+              "children": [
+                {
+                  "name": "Planned Parenthood- Golden State Chapter",
+                  "relationship": "alternate_spelling"
+                }
+              ]
+            },
+            {
+              "name": "Planned Parenthood Los Angeles",
+              "relationship": "chapter",
+              "children": [
+                {
+                  "name": "Planned Parenthood World Population Los Angeles",
+                  "relationship": "alternate_spelling"
+                },
+                {
+                  "name": "Planned Parenthood Advocacy Project Lost Angeles County",
+                  "relationship": "alternate_spelling"
+                },
+                {
+                  "name": "Planned Parenthood Affiliates of Los Angeles",
+                  "relationship": "alternate_spelling"
+                },
+                {
+                  "name": "Planned Parenthood Hollywood",
+                  "relationship": "alternate_spelling"
+                },
+                {
+                  "name": "Planned Parenthood LA County",
+                  "relationship": "alternate_spelling"
+                },
+                {
+                  "name": "Planned Parenthood Los Angeles, Whittier",
+                  "relationship": "alternate_spelling"
+                },
+                {
+                  "name": "Planned Parenthood Los Angeles-Burbank",
+                  "relationship": "alternate_spelling"
+                },
+                {
+                  "name": "Planned Parenthood Santa Monica",
+                  "relationship": "alternate_spelling"
+                },
+                {
+                  "name": "Planned Parenthood World Population - Lawndale",
+                  "relationship": "alternate_spelling"
+                },
+                {
+                  "name": "Planned Parenthood World Population Canoga",
+                  "relationship": "alternate_spelling"
+                },
+                {
+                  "name": "Planned Parenthood World Population Pomona",
+                  "relationship": "alternate_spelling"
+                },
+                {
+                  "name": "Planned Parenthood World Population Sherman Oaks",
+                  "relationship": "alternate_spelling"
+                },
+                {
+                  "name": "Planned Parenthood World Population-Lakewood",
+                  "relationship": "alternate_spelling"
+                },
+                {
+                  "name": "Planned Parenthood of Los Angeles",
+                  "relationship": "alternate_spelling"
+                },
+                {
+                  "name": "Planned Parenthood of Los Angeles County",
+                  "relationship": "alternate_spelling"
+                },
+                {
+                  "name": "Planned Parenthood-Los Angeles",
+                  "relationship": "alternate_spelling"
+                },
+                {
+                  "name": "Planned Parenthood Advocacy Project Los Angeles County",
+                  "relationship": "chapter",
+                  "children": [
+                    {
+                      "name": "Planned Parenthood Advisory Project Los Angeles County",
+                      "relationship": "alternate_spelling"
+                    },
+                    {
+                      "name": "Planned Parenthood Advisory Project for Los Angeles County",
+                      "relationship": "alternate_spelling"
+                    },
+                    {
+                      "name": "Planned Parenthood Advocacy Project LA County",
+                      "relationship": "alternate_spelling"
+                    },
+                    {
+                      "name": "Planned Parenthood Advocacy Project Los Angeles",
+                      "relationship": "alternate_spelling"
+                    },
+                    {
+                      "name": "Planned Parenthood Advocacy Project Los Angeles Co",
+                      "relationship": "alternate_spelling"
+                    },
+                    {
+                      "name": "Planned Parenthood Advocacy Project of LA",
+                      "relationship": "alternate_spelling"
+                    },
+                    {
+                      "name": "Planned Parenthood Advocacy Project of Los Angeles",
+                      "relationship": "alternate_spelling"
+                    },
+                    {
+                      "name": "Planned Parenthood Advocacy Project of Los Angeles County",
+                      "relationship": "alternate_spelling"
+                    },
+                    {
+                      "name": "Planned Parenthood Los Angeles Advocacy Project",
+                      "relationship": "alternate_spelling"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Planned Parenthood Mar Monte",
+              "relationship": "chapter",
+              "children": [
+                {
+                  "name": "Planned Parenthood Fresno",
+                  "relationship": "alternate_spelling"
+                },
+                {
+                  "name": "Planned Parenthood Mar Monte Clinics",
+                  "relationship": "alternate_spelling"
+                },
+                {
+                  "name": "Planned Parenthood Mar Monte, San Joaquin and Stanislaus",
+                  "relationship": "alternate_spelling"
+                },
+                {
+                  "name": "Planned Parenthood Mar Monte-Bakersfield",
+                  "relationship": "alternate_spelling"
+                },
+                {
+                  "name": "Planned Parenthood Mar Monte-Fresno",
+                  "relationship": "alternate_spelling"
+                },
+                {
+                  "name": "Planned Parenthood San Jose",
+                  "relationship": "alternate_spelling"
+                },
+                {
+                  "name": "Planned Parenthood of Mar Monte",
+                  "relationship": "alternate_spelling"
+                },
+                {
+                  "name": "Planned Parenthood of Sacramento",
+                  "relationship": "alternate_spelling"
+                },
+                {
+                  "name": "Planned Parenthood of Sacramento Valley",
+                  "relationship": "alternate_spelling"
+                },
+                {
+                  "name": "Planned Parenthood of South Central Valley",
+                  "relationship": "alternate_spelling"
+                }
+              ]
+            },
+            {
+              "name": "Planned Parenthood Northern California",
+              "relationship": "chapter",
+              "children": [
+                {
+                  "name": "Planned Parenthood Shasta-Diablo",
+                  "relationship": "alternate_spelling"
+                },
+                {
+                  "name": "Planned Parenthood Shasta Diablo",
+                  "relationship": "alternate_spelling"
+                },
+                {
+                  "name": "Planned Parenthood Shasta Pacific",
+                  "relationship": "alternate_spelling"
+                },
+                {
+                  "name": "Planned Parenthood of Shasta-Diablo",
+                  "relationship": "alternate_spelling"
+                },
+                {
+                  "name": "Planned Parenthood of Shasta Diablo",
+                  "relationship": "alternate_spelling"
+                },
+                {
+                  "name": "Planned Parenthood of Shasta Pacific Action Fund",
+                  "relationship": "alternate_spelling"
+                },
+                {
+                  "name": "Planned Parenthood Antioch",
+                  "relationship": "alternate_spelling"
+                },
+                {
+                  "name": "Planned Parenthood Contra Costa-Richmond",
+                  "relationship": "alternate_spelling"
+                },
+                {
+                  "name": "Planned Parenthood Contra Costa-Walnut Creek",
+                  "relationship": "alternate_spelling"
+                },
+                {
+                  "name": "Planned Parenthood San Ramon Center",
+                  "relationship": "alternate_spelling"
+                },
+                {
+                  "name": "Planned Parenthood of the North Valley",
+                  "relationship": "alternate_spelling"
+                },
+                {
+                  "name": "Planned Parenthood of the North Valley-Chico",
+                  "relationship": "alternate_spelling"
+                },
+                {
+                  "name": "Planned Parenthood Northern California Action Fund",
+                  "relationship": "chapter",
+                  "children": [
+                    {
+                      "name": "Planned Parenthood of Northern California Action Fund",
+                      "relationship": "alternate_spelling"
+                    }
+                  ]
+                },
+                {
+                  "name": "Planned Parenthood Shasta Pacific Action Fund",
+                  "relationship": "chapter",
+                  "children": [
+                    {
+                      "name": "Planned Parenthood Shasta Diablo Action Fund",
+                      "relationship": "alternate_spelling"
+                    },
+                    {
+                      "name": "Planned Parenthood Shasta-Diablo Action Fund",
+                      "relationship": "alternate_spelling"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Planned Parenthood of Orange and San Bernardino Counties",
+              "relationship": "chapter",
+              "children": [
+                {
+                  "name": "Planned Parenthood Orange & San Bernardino Counties",
+                  "relationship": "alternate_spelling"
+                },
+                {
+                  "name": "Planned Parenthood Orange and San Bernardino Counties",
+                  "relationship": "alternate_spelling"
+                },
+                {
+                  "name": "Planned Parenthood San Bernardino",
+                  "relationship": "alternate_spelling"
+                },
+                {
+                  "name": "Planned Parenthood of Orange & San Bernardino Counties",
+                  "relationship": "alternate_spelling"
+                },
+                {
+                  "name": "Planned Parenthood of Orange and San Bernadino Counties",
+                  "relationship": "alternate_spelling"
+                },
+                {
+                  "name": "Planned Parenthood of Orange and Santa Bernardino Counties",
+                  "relationship": "alternate_spelling"
+                },
+                {
+                  "name": "Planned Parenthood-Orange and San Bernardino",
+                  "relationship": "alternate_spelling"
+                },
+                {
+                  "name": "Planned Parenthood Action Fund of Orange and San Bernardino Counties",
+                  "relationship": "chapter",
+                  "children": [
+                    {
+                      "name": "COMMUNITY ACTION FUND OF PLANNED PARENTHOOD OF ORANGE AND SAN BERNARDINO",
+                      "relationship": "alternate_spelling"
+                    },
+                    {
+                      "name": "COMMUNITY ACTION FUND OF PLANNED PARENTHOOD OF ORANGE AND SAN BERNARDINO COUNTIES",
+                      "relationship": "alternate_spelling"
+                    },
+                    {
+                      "name": "Community Action Fund of Planned Parenthood Orange & San Bernardino",
+                      "relationship": "alternate_spelling"
+                    },
+                    {
+                      "name": "Community Action Fund of Planned Parenthood Orange and San Bernadino",
+                      "relationship": "alternate_spelling"
+                    },
+                    {
+                      "name": "Community Action Fund of Planned Parenthood Orange and San Bernardino",
+                      "relationship": "alternate_spelling"
+                    },
+                    {
+                      "name": "Community Action Fund of Planned Parenthood Orange and San Bernardino Counties",
+                      "relationship": "alternate_spelling"
+                    },
+                    {
+                      "name": "Community Action Fund of Planned Parenthood of Orange & San Bernardino Counties",
+                      "relationship": "alternate_spelling"
+                    },
+                    {
+                      "name": "Community Action Fund of Planned Parenthood of Orange and San Bernadino Counties",
+                      "relationship": "alternate_spelling"
+                    },
+                    {
+                      "name": "Community Action Fund of Planned Parenthood of Orange and San Bernardino County",
+                      "relationship": "alternate_spelling"
+                    },
+                    {
+                      "name": "Planned Parenthood Action Fund of Orange County and San Bernardino Counties",
+                      "relationship": "alternate_spelling"
+                    },
+                    {
+                      "name": "Planned Parenthood Action Fund, Orange and San Bernardino Counties",
+                      "relationship": "alternate_spelling"
+                    },
+                    {
+                      "name": "Planned Parenthood Community Action Fund Orange and San Bernardino Counties",
+                      "relationship": "alternate_spelling"
+                    },
+                    {
+                      "name": "Planned Parenthood Community Action Fund of Orange and San Bernardino Counties",
+                      "relationship": "alternate_spelling"
+                    },
+                    {
+                      "name": "THE COMMUNITY ACTION FUND OF PLANNED PARENTHOOD OF ORANGE AND SAN BERNARDINO",
+                      "relationship": "alternate_spelling"
+                    },
+                    {
+                      "name": "THE COMMUNITY ACTION FUND OF PLANNED PARENTHOOD OF ORANGE AND SAN BERNARDINO COUNTIES",
+                      "relationship": "alternate_spelling"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Planned Parenthood of the Pacific Southwest",
+              "relationship": "chapter",
+              "children": [
+                {
+                  "name": "Planned Parenthood of San Diego and Riverside Counties",
+                  "relationship": "alternate_spelling"
+                },
+                {
+                  "name": "Planned Parenthood of San Diego & Riverside Counties",
+                  "relationship": "alternate_spelling"
+                },
+                {
+                  "name": "Planned Parenthood San Diego & Riverside Counties",
+                  "relationship": "alternate_spelling"
+                },
+                {
+                  "name": "Planned Parenthood San Diego/Riverside Counties",
+                  "relationship": "alternate_spelling"
+                },
+                {
+                  "name": "Planned Parenthood, San Diego & Riverside",
+                  "relationship": "alternate_spelling"
+                },
+                {
+                  "name": "Planned Parenthood Action Fund of the Pacific Southwest",
+                  "relationship": "chapter",
+                  "children": [
+                    {
+                      "name": "Planned Parenthood Action Fund of San Diego & Riverside Counties",
+                      "relationship": "alternate_spelling"
+                    },
+                    {
+                      "name": "Planned Parenthood Action Fund of San Diego and Riverside Counties",
+                      "relationship": "alternate_spelling"
+                    },
+                    {
+                      "name": "Planned Parenthood Action Fund, Pacific Southwest",
+                      "relationship": "alternate_spelling"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Planned Parenthood Pasadena and San Gabriel Valley",
+              "relationship": "chapter",
+              "children": [
+                {
+                  "name": "Planned Parenthood Advocates Pasadena & San Gabriel Valley",
+                  "relationship": "alternate_spelling"
+                },
+                {
+                  "name": "Planned Parenthood Advocates Pasadena and San Gabriel Valley",
+                  "relationship": "alternate_spelling"
+                },
+                {
+                  "name": "Planned Parenthood Advocates Pasadena and San Gabriel Velley",
+                  "relationship": "alternate_spelling"
+                },
+                {
+                  "name": "Planned Parenthood Affiliates Pasadena and San Gabriel Valley",
+                  "relationship": "alternate_spelling"
+                },
+                {
+                  "name": "Planned Parenthood Pasadena",
+                  "relationship": "alternate_spelling"
+                },
+                {
+                  "name": "Planned Parenthood Pasadena & San Gabriel Valley",
+                  "relationship": "alternate_spelling"
+                },
+                {
+                  "name": "Planned Parenthood of Pasadena",
+                  "relationship": "alternate_spelling"
+                },
+                {
+                  "name": "Planned Parenthood of Pasadena and San Gabriel Valley, Inc",
+                  "relationship": "alternate_spelling"
+                },
+                {
+                  "name": "Planned Parenthood of Pasadena, Inc",
+                  "relationship": "alternate_spelling"
+                },
+                {
+                  "name": "Planned Parenthood-Pasadena",
+                  "relationship": "alternate_spelling"
+                }
+              ]
+            },
+            {
+              "name": "Six Rivers Planned Parenthood",
+              "relationship": "chapter",
+              "children": [
+                {
+                  "name": "Planned Parenthood Six Rivers",
+                  "relationship": "alternate_spelling"
+                }
+              ],
+              "defunct": "2014"
+            }
+          ]
+        },
+        {
+          "name": "Planned Parenthood WIC",
+          "relationship": "chapter",
+          "children": [
+            {
+              "name": "Planned Parenthood WIC of Orange & San Bernardino Counties",
+              "relationship": "chapter",
+              "children": [
+                {
+                  "name": "Planned Parenthood of Orange and San Bernardino Counties WIC Program",
+                  "relationship": "alternate_spelling"
+                },
+                {
+                  "name": "WIC of Planned Parenthood of Orange and San Bernardino Counties",
+                  "relationship": "alternate_spelling"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Planned Parenthood Bixby Center",
+          "relationship": "chapter"
         }
       ]
     },
