@@ -19248,70 +19248,8 @@
       ]
     },
     {
-      "canonical": "Audubon",
-      "status": "active",
-      "children": [
-        {
-          "name": "Audubon CA",
-          "relationship": "chapter"
-        },
-        {
-          "name": "Audubon of California",
-          "relationship": "chapter"
-        },
-        {
-          "name": "Audubon, California",
-          "relationship": "chapter"
-        },
-        {
-          "name": "California Audubon",
-          "relationship": "chapter"
-        },
-        {
-          "name": "Audubon-California",
-          "relationship": "alternate_spelling"
-        },
-        {
-          "name": "THE AUDUBON CALIFORNIA",
-          "relationship": "alternate_spelling"
-        }
-      ]
-    },
-    {
-      "canonical": "AUDUBON CENTER AT DEBS PARK",
-      "status": "active",
-      "children": [
-        {
-          "name": "THE AUDUBON CENTER AT DEBS PARK",
-          "relationship": "alternate_spelling"
-        }
-      ]
-    },
-    {
       "canonical": "AUDUBON INTERNATIONAL",
       "status": "active"
-    },
-    {
-      "canonical": "AUDUBON SOCIETY",
-      "status": "active",
-      "children": [
-        {
-          "name": "THE AUDUBON SOCIETY",
-          "relationship": "alternate_spelling"
-        },
-        {
-          "name": "Audubon Society of California",
-          "relationship": "chapter"
-        },
-        {
-          "name": "Audubon Society - California",
-          "relationship": "alternate_spelling"
-        },
-        {
-          "name": "California Audubon Society",
-          "relationship": "chapter"
-        }
-      ]
     },
     {
       "canonical": "AURA SEATING",
@@ -37889,10 +37827,6 @@
           "relationship": "alternate_spelling"
         }
       ]
-    },
-    {
-      "canonical": "CALIFORNIA PUBLIC INTEREST RESEARCH GROUP",
-      "status": "active"
     },
     {
       "canonical": "CALIFORNIA PUBLIC PARKING ASSOCIATION",
@@ -74941,16 +74875,6 @@
       ]
     },
     {
-      "canonical": "GOLDEN GATE AUDUBON SOCIETY",
-      "status": "active",
-      "children": [
-        {
-          "name": "THE GOLDEN GATE AUDUBON SOCIETY",
-          "relationship": "alternate_spelling"
-        }
-      ]
-    },
-    {
       "canonical": "GOLDEN GATE BUSINESS ASSOCIATION",
       "status": "active",
       "children": [
@@ -92834,16 +92758,6 @@
       ]
     },
     {
-      "canonical": "KERN AUDUBON SOCIETY",
-      "status": "active",
-      "children": [
-        {
-          "name": "THE KERN AUDUBON SOCIETY",
-          "relationship": "alternate_spelling"
-        }
-      ]
-    },
-    {
       "canonical": "KERN AUTISM NETWORK-AUTISM SOCIETY CHAPTER IN BAKERSFIELD",
       "status": "active"
     },
@@ -98105,10 +98019,6 @@
           "relationship": "alternate_spelling"
         }
       ]
-    },
-    {
-      "canonical": "LOS ANGELES AUDUBON SOCIETY",
-      "status": "active"
     },
     {
       "canonical": "LOS ANGELES BEAUTIFICATION TEAM",
@@ -104587,16 +104497,6 @@
       "status": "active"
     },
     {
-      "canonical": "Morro Coast Audubon Society",
-      "status": "active",
-      "children": [
-        {
-          "name": "Morro Coast Audubon Society, Inc",
-          "relationship": "alternate_spelling"
-        }
-      ]
-    },
-    {
       "canonical": "MORRO PALMS MOBILE LODGE",
       "status": "active"
     },
@@ -108119,28 +108019,616 @@
       ]
     },
     {
-      "canonical": "NATIONAL AUDUBON SOCIETY",
+      "canonical": "National Audubon Society",
       "status": "active",
       "children": [
+        {
+          "name": "AUDUBON SOCIETY",
+          "relationship": "alternate_spelling"
+        },
+        {
+          "name": "Audubon",
+          "relationship": "alternate_spelling"
+        },
+        {
+          "name": "City of National Audubon Society",
+          "relationship": "alternate_spelling"
+        },
+        {
+          "name": "National Audubon Association",
+          "relationship": "alternate_spelling"
+        },
+        {
+          "name": "National Audubon Society-CA",
+          "relationship": "alternate_spelling"
+        },
+        {
+          "name": "THE AUDUBON SOCIETY",
+          "relationship": "alternate_spelling"
+        },
         {
           "name": "THE NATIONAL AUDUBON SOCIETY",
           "relationship": "alternate_spelling"
         },
         {
-          "name": "National Audubon Society -- California",
-          "relationship": "alternate_spelling"
-        },
-        {
-          "name": "National Audubon Society of California",
+          "name": "Audubon YES",
           "relationship": "chapter"
         },
         {
-          "name": "National Audubon Society-California",
-          "relationship": "alternate_spelling"
+          "name": "Kalmiopsis Audubon Society",
+          "relationship": "chapter"
         },
         {
-          "name": "THE NATIONAL AUDUBON SOCIETY - CALIFORNIA",
-          "relationship": "alternate_spelling"
+          "name": "Audubon California",
+          "relationship": "chapter",
+          "children": [
+            {
+              "name": "Audubon CA",
+              "relationship": "alternate_spelling"
+            },
+            {
+              "name": "Audubon Caifornia",
+              "relationship": "alternate_spelling"
+            },
+            {
+              "name": "Audubon Calif",
+              "relationship": "alternate_spelling"
+            },
+            {
+              "name": "Audubon Society - California",
+              "relationship": "alternate_spelling"
+            },
+            {
+              "name": "Audubon Society of California",
+              "relationship": "alternate_spelling"
+            },
+            {
+              "name": "Audubon of California",
+              "relationship": "alternate_spelling"
+            },
+            {
+              "name": "Audubon-California",
+              "relationship": "alternate_spelling"
+            },
+            {
+              "name": "California Audubon",
+              "relationship": "alternate_spelling"
+            },
+            {
+              "name": "California Audubon Society",
+              "relationship": "alternate_spelling"
+            },
+            {
+              "name": "California Chapter, National Audubon Society",
+              "relationship": "alternate_spelling"
+            },
+            {
+              "name": "National Audubon Society -- California",
+              "relationship": "alternate_spelling"
+            },
+            {
+              "name": "National Audubon Society of California",
+              "relationship": "alternate_spelling"
+            },
+            {
+              "name": "National Audubon Society-California",
+              "relationship": "alternate_spelling"
+            },
+            {
+              "name": "THE AUDUBON CALIFORNIA",
+              "relationship": "alternate_spelling"
+            },
+            {
+              "name": "THE NATIONAL AUDUBON SOCIETY - CALIFORNIA",
+              "relationship": "alternate_spelling"
+            },
+            {
+              "name": "Audubon Center at Debs Park",
+              "relationship": "chapter",
+              "children": [
+                {
+                  "name": "THE AUDUBON CENTER AT DEBS PARK",
+                  "relationship": "alternate_spelling"
+                }
+              ]
+            },
+            {
+              "name": "Audubon Starr Ranch",
+              "relationship": "chapter"
+            },
+            {
+              "name": "Richardson Bay Audubon Center and Sanctuary",
+              "relationship": "chapter",
+              "children": [
+                {
+                  "name": "Richardson Bay Audubon Center",
+                  "relationship": "alternate_spelling"
+                }
+              ]
+            },
+            {
+              "name": "Altacal Audubon Society",
+              "relationship": "chapter"
+            },
+            {
+              "name": "Buena Vista Audubon Society",
+              "relationship": "chapter",
+              "children": [
+                {
+                  "name": "Buena Vista Audubon Society (Oceanside CA)",
+                  "relationship": "alternate_spelling"
+                },
+                {
+                  "name": "Buena Vista Audubon Society (Oceanside, California)",
+                  "relationship": "alternate_spelling"
+                }
+              ]
+            },
+            {
+              "name": "Central Sierra Audubon Society",
+              "relationship": "chapter"
+            },
+            {
+              "name": "Conejo Valley Audubon Society",
+              "relationship": "chapter"
+            },
+            {
+              "name": "Eagle Lake Audubon Society",
+              "relationship": "chapter"
+            },
+            {
+              "name": "Eastern Sierra Audubon Society",
+              "relationship": "chapter",
+              "children": [
+                {
+                  "name": "Eastern Sierra Audubon",
+                  "relationship": "alternate_spelling"
+                }
+              ]
+            },
+            {
+              "name": "El Dorado Audubon Society",
+              "relationship": "chapter",
+              "children": [
+                {
+                  "name": "El Dorado Audubon",
+                  "relationship": "alternate_spelling"
+                },
+                {
+                  "name": "El Dorado Audubon, Long Beach",
+                  "relationship": "alternate_spelling"
+                }
+              ]
+            },
+            {
+              "name": "Fresno Audubon Society",
+              "relationship": "chapter"
+            },
+            {
+              "name": "Golden Gate Audubon Society",
+              "relationship": "chapter",
+              "children": [
+                {
+                  "name": "Audubon Society, Golden Gate Chapter",
+                  "relationship": "alternate_spelling"
+                },
+                {
+                  "name": "City of Golden Gate Audubon Society",
+                  "relationship": "alternate_spelling"
+                },
+                {
+                  "name": "Golden Gate Audubon",
+                  "relationship": "alternate_spelling"
+                },
+                {
+                  "name": "Golden Gate Audubon Association",
+                  "relationship": "alternate_spelling"
+                },
+                {
+                  "name": "National Audubon Society, Golden Gate Chapter",
+                  "relationship": "alternate_spelling"
+                },
+                {
+                  "name": "THE GOLDEN GATE AUDUBON SOCIETY",
+                  "relationship": "alternate_spelling"
+                }
+              ]
+            },
+            {
+              "name": "Goleta Coast Audubon Society",
+              "relationship": "chapter"
+            },
+            {
+              "name": "Kern Audubon Society",
+              "relationship": "chapter",
+              "children": [
+                {
+                  "name": "THE KERN AUDUBON SOCIETY",
+                  "relationship": "alternate_spelling"
+                }
+              ]
+            },
+            {
+              "name": "La Purisima Audubon Society",
+              "relationship": "chapter"
+            },
+            {
+              "name": "Laguna Hills Audubon Society",
+              "relationship": "chapter",
+              "children": [
+                {
+                  "name": "Laguna Hills Audubon",
+                  "relationship": "alternate_spelling"
+                },
+                {
+                  "name": "Laguna Hills Chapter, National Audubon Society",
+                  "relationship": "alternate_spelling"
+                },
+                {
+                  "name": "Laguna Hills chapter, National Audubon",
+                  "relationship": "alternate_spelling"
+                }
+              ]
+            },
+            {
+              "name": "Lake Almanor Audubon Society",
+              "relationship": "chapter"
+            },
+            {
+              "name": "Los Angeles Audubon Society",
+              "relationship": "chapter",
+              "children": [
+                {
+                  "name": "Las Angeles Audubon Society",
+                  "relationship": "alternate_spelling"
+                },
+                {
+                  "name": "Los Angeles Audubon",
+                  "relationship": "alternate_spelling"
+                }
+              ]
+            },
+            {
+              "name": "Madrone Audubon Society",
+              "relationship": "chapter",
+              "children": [
+                {
+                  "name": "Madrone Audubon",
+                  "relationship": "alternate_spelling"
+                },
+                {
+                  "name": "Madrone Audubon Society of Sonoma County",
+                  "relationship": "alternate_spelling"
+                },
+                {
+                  "name": "Madrone Audubon Society, Sonoma County",
+                  "relationship": "alternate_spelling"
+                }
+              ]
+            },
+            {
+              "name": "Marin Audubon Society",
+              "relationship": "chapter",
+              "children": [
+                {
+                  "name": "County of Marin Audubon Society",
+                  "relationship": "alternate_spelling"
+                },
+                {
+                  "name": "Marin Audubon",
+                  "relationship": "alternate_spelling"
+                }
+              ]
+            },
+            {
+              "name": "Mendocino Coast Audubon Society",
+              "relationship": "chapter",
+              "children": [
+                {
+                  "name": "Mendocino Coast Audubon",
+                  "relationship": "alternate_spelling"
+                },
+                {
+                  "name": "Mendocino Coast Audubon Soc",
+                  "relationship": "alternate_spelling"
+                }
+              ]
+            },
+            {
+              "name": "Morro Coast Audubon Society",
+              "relationship": "chapter",
+              "children": [
+                {
+                  "name": "Morro Coast Audubon Society, Inc",
+                  "relationship": "alternate_spelling"
+                }
+              ]
+            },
+            {
+              "name": "Mount Diablo Audubon Society",
+              "relationship": "chapter",
+              "children": [
+                {
+                  "name": "City of Mt. Diablo Audubon Society",
+                  "relationship": "alternate_spelling"
+                },
+                {
+                  "name": "Mount Diablo Audubon Soc",
+                  "relationship": "alternate_spelling"
+                },
+                {
+                  "name": "Mt. Diablo Audubon",
+                  "relationship": "alternate_spelling"
+                },
+                {
+                  "name": "Mt. Diablo Audubon Society",
+                  "relationship": "alternate_spelling"
+                },
+                {
+                  "name": "National Audubon Society - Mount Diablo Chapter",
+                  "relationship": "alternate_spelling"
+                }
+              ]
+            },
+            {
+              "name": "Napa-Solano Audubon Society",
+              "relationship": "chapter"
+            },
+            {
+              "name": "Ohlone Audubon Society",
+              "relationship": "chapter",
+              "children": [
+                {
+                  "name": "Ohlone Audubon Society, Inc",
+                  "relationship": "alternate_spelling"
+                }
+              ]
+            },
+            {
+              "name": "Palomar Audubon Society",
+              "relationship": "chapter"
+            },
+            {
+              "name": "Palos Verdes/South Bay Audubon Society",
+              "relationship": "chapter",
+              "children": [
+                {
+                  "name": "PALOS VERDES/SOUTH BAY AUDUBON",
+                  "relationship": "alternate_spelling"
+                },
+                {
+                  "name": "Palos Verde/South Bay Audubon Society",
+                  "relationship": "alternate_spelling"
+                },
+                {
+                  "name": "Palos Verdes Peninsula Audubon Society",
+                  "relationship": "alternate_spelling"
+                }
+              ]
+            },
+            {
+              "name": "Pasadena Audubon Society",
+              "relationship": "chapter"
+            },
+            {
+              "name": "Peregrine Audubon Society",
+              "relationship": "chapter"
+            },
+            {
+              "name": "Pomona Valley Audubon Society",
+              "relationship": "chapter",
+              "children": [
+                {
+                  "name": "Pomona Valley Audubon",
+                  "relationship": "alternate_spelling"
+                },
+                {
+                  "name": "Pomona Valley Audubon Society, Claremont, California",
+                  "relationship": "alternate_spelling"
+                }
+              ]
+            },
+            {
+              "name": "Redbud Audubon Society",
+              "relationship": "chapter",
+              "children": [
+                {
+                  "name": "Redbred Audubon Society",
+                  "relationship": "alternate_spelling"
+                },
+                {
+                  "name": "Redbud Audubon Chapter",
+                  "relationship": "alternate_spelling"
+                },
+                {
+                  "name": "Redbud Audubon Society, Inc",
+                  "relationship": "alternate_spelling"
+                }
+              ]
+            },
+            {
+              "name": "Redwood Region Audubon Society",
+              "relationship": "chapter"
+            },
+            {
+              "name": "Sacramento Audubon Society",
+              "relationship": "chapter"
+            },
+            {
+              "name": "San Bernardino Valley Audubon Society",
+              "relationship": "chapter",
+              "children": [
+                {
+                  "name": "San Bernadino Valley Audubon Society",
+                  "relationship": "alternate_spelling"
+                },
+                {
+                  "name": "San Bernardino Audubon Society",
+                  "relationship": "alternate_spelling"
+                }
+              ]
+            },
+            {
+              "name": "San Diego Audubon Society",
+              "relationship": "chapter",
+              "children": [
+                {
+                  "name": "San Diego Audubon",
+                  "relationship": "alternate_spelling"
+                }
+              ]
+            },
+            {
+              "name": "San Fernando Valley Audubon Society",
+              "relationship": "chapter"
+            },
+            {
+              "name": "San Joaquin Audubon Society",
+              "relationship": "chapter",
+              "children": [
+                {
+                  "name": "National Audubon Society - San Joaquin Chapter",
+                  "relationship": "alternate_spelling"
+                },
+                {
+                  "name": "San Joaquin Audubon",
+                  "relationship": "alternate_spelling"
+                },
+                {
+                  "name": "San Joaquin Audubon Society Chapter",
+                  "relationship": "alternate_spelling"
+                },
+                {
+                  "name": "San Joaquin Chapter of National Audubon Society",
+                  "relationship": "alternate_spelling"
+                }
+              ]
+            },
+            {
+              "name": "Santa Barbara Audubon Society",
+              "relationship": "chapter"
+            },
+            {
+              "name": "Santa Clara Valley Audubon Society",
+              "relationship": "chapter",
+              "children": [
+                {
+                  "name": "Audubon Society, Santa Clara Valley Chapter",
+                  "relationship": "alternate_spelling"
+                },
+                {
+                  "name": "THE SANTA CLARA VALLEY AUDUBON SOCIETY",
+                  "relationship": "alternate_spelling"
+                }
+              ]
+            },
+            {
+              "name": "Santa Monica Bay Audubon Society",
+              "relationship": "chapter"
+            },
+            {
+              "name": "Sea and Sage Audubon Society",
+              "relationship": "chapter",
+              "children": [
+                {
+                  "name": "Audubon Society, Sea and Sage Chapter",
+                  "relationship": "alternate_spelling"
+                },
+                {
+                  "name": "Conservation of Sea and Sage Audubon Society",
+                  "relationship": "alternate_spelling"
+                },
+                {
+                  "name": "Sea & Sage Audubon",
+                  "relationship": "alternate_spelling"
+                },
+                {
+                  "name": "Sea and Safe Audubon Society",
+                  "relationship": "alternate_spelling"
+                },
+                {
+                  "name": "Sea and Sage Audubon",
+                  "relationship": "alternate_spelling"
+                },
+                {
+                  "name": "Sea and Sage Audubon Orange County Chapter",
+                  "relationship": "alternate_spelling"
+                },
+                {
+                  "name": "Sea and Sage Audubon Society of Orange County",
+                  "relationship": "alternate_spelling"
+                },
+                {
+                  "name": "Sean and Sage Audubon Society",
+                  "relationship": "alternate_spelling"
+                }
+              ]
+            },
+            {
+              "name": "Sequoia Audubon Society",
+              "relationship": "chapter"
+            },
+            {
+              "name": "Sierra Foothills Audubon Society",
+              "relationship": "chapter",
+              "children": [
+                {
+                  "name": "Foothills Audubon Society",
+                  "relationship": "alternate_spelling"
+                }
+              ]
+            },
+            {
+              "name": "South Coast Audubon Society",
+              "relationship": "chapter",
+              "children": [
+                {
+                  "name": "South Coast Audubon",
+                  "relationship": "alternate_spelling"
+                }
+              ]
+            },
+            {
+              "name": "Stanislaus Audubon Society",
+              "relationship": "chapter"
+            },
+            {
+              "name": "Tulare County Audubon Society",
+              "relationship": "chapter",
+              "children": [
+                {
+                  "name": "Tulare Kings Audubon",
+                  "relationship": "alternate_spelling"
+                },
+                {
+                  "name": "Tulare Kings Audubon Chapter",
+                  "relationship": "alternate_spelling"
+                }
+              ]
+            },
+            {
+              "name": "Ventura Audubon Society",
+              "relationship": "chapter"
+            },
+            {
+              "name": "Whittier Audubon Society",
+              "relationship": "chapter"
+            },
+            {
+              "name": "Yolo Audubon Society",
+              "relationship": "chapter",
+              "children": [
+                {
+                  "name": "Yolo Audubon Society (Yolo County)",
+                  "relationship": "alternate_spelling"
+                }
+              ]
+            },
+            {
+              "name": "Yosemite Area Audubon",
+              "relationship": "chapter"
+            }
+          ]
         }
       ]
     },
@@ -113948,16 +114436,6 @@
       ]
     },
     {
-      "canonical": "Ohlone Audubon Society",
-      "status": "active",
-      "children": [
-        {
-          "name": "Ohlone Audubon Society, Inc",
-          "relationship": "alternate_spelling"
-        }
-      ]
-    },
-    {
       "canonical": "OhmConnect",
       "status": "active",
       "children": [
@@ -117012,10 +117490,6 @@
           "relationship": "alternate_spelling"
         }
       ]
-    },
-    {
-      "canonical": "PALOS VERDES/SOUTH BAY AUDUBON",
-      "status": "active"
     },
     {
       "canonical": "Pam Development",
@@ -125888,24 +126362,190 @@
       "status": "active",
       "children": [
         {
-          "name": "Public Interest Research Group, California",
-          "relationship": "chapter"
-        },
-        {
-          "name": "California Public Interest Research Group - CALPIRG",
-          "relationship": "alternate_spelling"
-        },
-        {
-          "name": "California Public Interest Research Group (CALPRIG)",
-          "relationship": "chapter"
-        },
-        {
-          "name": "California Public Interest Research Group",
-          "relationship": "chapter"
-        },
-        {
-          "name": "California Public Interest Research Group-CalPIRG",
-          "relationship": "alternate_spelling"
+          "name": "California Public Interest Research Group (CALPIRG)",
+          "relationship": "chapter",
+          "children": [
+            {
+              "name": "CA Public Interest Research Group",
+              "relationship": "alternate_spelling"
+            },
+            {
+              "name": "CA Public Interest Research Group (CalPIRG)",
+              "relationship": "alternate_spelling"
+            },
+            {
+              "name": "CALIFORNIA PUBLIC INTEREST RESEARCH GROUP",
+              "relationship": "alternate_spelling"
+            },
+            {
+              "name": "CALPERG, California Public Interest Research Group",
+              "relationship": "alternate_spelling"
+            },
+            {
+              "name": "CALPIRG (Ralph Nader's group)",
+              "relationship": "alternate_spelling"
+            },
+            {
+              "name": "CALPIRGg, California Public Interest Research Group",
+              "relationship": "alternate_spelling"
+            },
+            {
+              "name": "CAPIRG, California Public Interest Research Group",
+              "relationship": "alternate_spelling"
+            },
+            {
+              "name": "Cal PIRG",
+              "relationship": "alternate_spelling"
+            },
+            {
+              "name": "Cal Public Interest Research Group",
+              "relationship": "alternate_spelling"
+            },
+            {
+              "name": "CalLPIRG",
+              "relationship": "alternate_spelling"
+            },
+            {
+              "name": "CalPERG",
+              "relationship": "alternate_spelling"
+            },
+            {
+              "name": "CalPirg California Public Interest Research Group",
+              "relationship": "alternate_spelling"
+            },
+            {
+              "name": "Calif. Public Interest Research Group",
+              "relationship": "alternate_spelling"
+            },
+            {
+              "name": "Calif. Public Interest Research Group (CALPIRG)",
+              "relationship": "alternate_spelling"
+            },
+            {
+              "name": "California Public Interest Group",
+              "relationship": "alternate_spelling"
+            },
+            {
+              "name": "California Public Interest Group (CALPIRG)",
+              "relationship": "alternate_spelling"
+            },
+            {
+              "name": "California Public Interest Research Group (CALPRIG)",
+              "relationship": "alternate_spelling"
+            },
+            {
+              "name": "California Public Interest Research Group-CalPIRG",
+              "relationship": "alternate_spelling"
+            },
+            {
+              "name": "California Public Interest Research Groups",
+              "relationship": "alternate_spelling"
+            },
+            {
+              "name": "California Public Interest Resource Group",
+              "relationship": "alternate_spelling"
+            },
+            {
+              "name": "California Public Research Interest Group (CALPIRG)",
+              "relationship": "alternate_spelling"
+            },
+            {
+              "name": "California's Public Interest Research Group",
+              "relationship": "alternate_spelling"
+            },
+            {
+              "name": "Calpirg",
+              "relationship": "alternate_spelling"
+            },
+            {
+              "name": "Environment California (formerly CalPIRG)",
+              "relationship": "alternate_spelling"
+            },
+            {
+              "name": "Public Interest Research Group (CalPIRG)",
+              "relationship": "alternate_spelling"
+            },
+            {
+              "name": "Public Interest Research Group, California",
+              "relationship": "alternate_spelling"
+            },
+            {
+              "name": "CALPIRG Students",
+              "relationship": "chapter",
+              "children": [
+                {
+                  "name": "California Public Interest Research Group (CALPIRG) Students",
+                  "relationship": "alternate_spelling"
+                },
+                {
+                  "name": "California Public Interest Research Group Students",
+                  "relationship": "alternate_spelling"
+                },
+                {
+                  "name": "California Student Public Interest Research Group",
+                  "relationship": "alternate_spelling"
+                },
+                {
+                  "name": "California Student Public Interest Research Group (CALPIRG)",
+                  "relationship": "alternate_spelling"
+                },
+                {
+                  "name": "CALPIRG UC Berkeley Chapter",
+                  "relationship": "chapter"
+                },
+                {
+                  "name": "CALPIRG UC Davis Chapter",
+                  "relationship": "chapter"
+                },
+                {
+                  "name": "CALPIRG UC Irvine Chapter",
+                  "relationship": "chapter"
+                },
+                {
+                  "name": "CALPIRG UC Riverside Chapter",
+                  "relationship": "chapter"
+                },
+                {
+                  "name": "CALPIRG UC Santa Barbara Chapter",
+                  "relationship": "chapter"
+                }
+              ]
+            },
+            {
+              "name": "CALPIRG Education Fund",
+              "relationship": "chapter",
+              "children": [
+                {
+                  "name": "CALPIRG and CALPIRG Education Fund",
+                  "relationship": "alternate_spelling"
+                },
+                {
+                  "name": "California Public Interest Research Group Education Fund",
+                  "relationship": "alternate_spelling"
+                }
+              ]
+            },
+            {
+              "name": "CALPIRG Charitable Trust",
+              "relationship": "chapter",
+              "children": [
+                {
+                  "name": "CALPIRG/CALPIRG Charitable Trust, San Francisco, California",
+                  "relationship": "alternate_spelling"
+                }
+              ]
+            },
+            {
+              "name": "CALPIRG Consumer Action",
+              "relationship": "chapter",
+              "children": [
+                {
+                  "name": "California Public Interest Research Group Consumer Action",
+                  "relationship": "alternate_spelling"
+                }
+              ]
+            }
+          ]
         }
       ]
     },
@@ -127047,16 +127687,6 @@
         {
           "name": "Red Cross of CA",
           "relationship": "chapter"
-        }
-      ]
-    },
-    {
-      "canonical": "Redbud Audubon Society",
-      "status": "active",
-      "children": [
-        {
-          "name": "Redbud Audubon Society, Inc",
-          "relationship": "alternate_spelling"
         }
       ]
     },
@@ -131320,10 +131950,6 @@
       ]
     },
     {
-      "canonical": "SAN DIEGO AUDUBON SOCIETY",
-      "status": "active"
-    },
-    {
       "canonical": "San Diego Black Health Associates",
       "status": "active",
       "children": [
@@ -133333,10 +133959,6 @@
       "status": "active"
     },
     {
-      "canonical": "SANTA BARBARA AUDUBON SOCIETY",
-      "status": "active"
-    },
-    {
       "canonical": "SANTA BARBARA CHANNELKEEPER",
       "status": "active"
     },
@@ -133522,16 +134144,6 @@
         {
           "name": "Santa Clara Probation Peace Officers Union, Local 1587",
           "relationship": "chapter"
-        }
-      ]
-    },
-    {
-      "canonical": "SANTA CLARA VALLEY AUDUBON SOCIETY",
-      "status": "active",
-      "children": [
-        {
-          "name": "THE SANTA CLARA VALLEY AUDUBON SOCIETY",
-          "relationship": "alternate_spelling"
         }
       ]
     },
