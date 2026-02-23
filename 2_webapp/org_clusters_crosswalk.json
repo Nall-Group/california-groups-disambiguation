@@ -665,16 +665,6 @@
       ]
     },
     {
-      "canonical": "542",
-      "status": "active",
-      "children": [
-        {
-          "name": "542, Local 572",
-          "relationship": "chapter"
-        }
-      ]
-    },
-    {
       "canonical": "6 Beds",
       "status": "active",
       "children": [
@@ -699,10 +689,6 @@
       ]
     },
     {
-      "canonical": "7 INDIVIDUAL LETTERS",
-      "status": "active"
-    },
-    {
       "canonical": "7-Eleven",
       "status": "active",
       "children": [
@@ -725,10 +711,6 @@
           "relationship": "alternate_spelling"
         }
       ]
-    },
-    {
-      "canonical": "8 PAST DIRECTORS OF THE DEPARTMENT OF HOUSING AND COMMUNITY DEVELOPMENT",
-      "status": "active"
     },
     {
       "canonical": "9 to 5",
@@ -3976,14 +3958,6 @@
       ]
     },
     {
-      "canonical": "ALAMEDA COUNTY SUPERVISOR KEITH CARSON- DISTRICT 5",
-      "status": "active"
-    },
-    {
-      "canonical": "ALAMEDA COUNTY SUPERVISOR WILMA CHAN",
-      "status": "active"
-    },
-    {
       "canonical": "Alameda County Taxpayers' Association",
       "status": "active",
       "children": [
@@ -4072,22 +4046,22 @@
       ]
     },
     {
-      "canonical": "Alamo Rent a Car",
-      "status": "active",
-      "children": [
-        {
-          "name": "Alamo Rent A Car, Inc",
-          "relationship": "alternate_spelling"
-        }
-      ]
-    },
-    {
       "canonical": "Alamo Rent-A-Car",
       "status": "active",
       "children": [
         {
           "name": "Alamo Rent-A-Car, Inc",
           "relationship": "alternate_spelling"
+        },
+        {
+          "name": "Alamo Rent a Car",
+          "relationship": "alternate_spelling",
+          "children": [
+            {
+              "name": "Alamo Rent A Car, Inc",
+              "relationship": "alternate_spelling"
+            }
+          ]
         }
       ]
     },
@@ -13998,28 +13972,6 @@
       ]
     },
     {
-      "canonical": "and",
-      "status": "active",
-      "children": [
-        {
-          "name": "and California",
-          "relationship": "chapter"
-        },
-        {
-          "name": "and Local 49",
-          "relationship": "chapter"
-        },
-        {
-          "name": "and Local 814",
-          "relationship": "chapter"
-        },
-        {
-          "name": "and Local 377",
-          "relationship": "chapter"
-        }
-      ]
-    },
-    {
       "canonical": "and Advocacy",
       "status": "active",
       "children": [
@@ -23214,16 +23166,6 @@
       ]
     },
     {
-      "canonical": "Boehringer Ingelheim Pharmaceuticals",
-      "status": "active",
-      "children": [
-        {
-          "name": "Boehringer Ingelheim Pharmaceuticals Inc",
-          "relationship": "alternate_spelling"
-        }
-      ]
-    },
-    {
       "canonical": "Boehringer-Ingelheim",
       "status": "active",
       "children": [
@@ -23244,6 +23186,16 @@
         {
           "name": "Boehringer-Ingelheim Pharmaceuticals, Inc",
           "relationship": "alternate_spelling"
+        },
+        {
+          "name": "Boehringer Ingelheim Pharmaceuticals",
+          "relationship": "alternate_spelling",
+          "children": [
+            {
+              "name": "Boehringer Ingelheim Pharmaceuticals Inc",
+              "relationship": "alternate_spelling"
+            }
+          ]
         }
       ]
     },
@@ -24218,43 +24170,11 @@
       ]
     },
     {
-      "canonical": "Brotherhood of Electrical Workers",
-      "status": "active",
-      "children": [
-        {
-          "name": "Brotherhood of Electrical Workers Local 11",
-          "relationship": "chapter"
-        },
-        {
-          "name": "Brotherhood of Electrical Workers Local 18",
-          "relationship": "chapter"
-        },
-        {
-          "name": "Brotherhood of Electrical Workers Local 441",
-          "relationship": "chapter"
-        },
-        {
-          "name": "Brotherhood of Electrical Workers Local 952",
-          "relationship": "chapter"
-        }
-      ]
-    },
-    {
       "canonical": "Brotherhood of Locomotive Engineers & Trainmen International Brotherhood of Teamsters Sheet Metal Workers' Local Union No. 104 Smart",
       "status": "active",
       "children": [
         {
           "name": "Brotherhood of Locomotive Engineers & Trainmen International Brotherhood of Teamsters Sheet Metal Workers' Local Union No. 104 Smart Local 0023 United Food and Commercial Workers",
-          "relationship": "chapter"
-        }
-      ]
-    },
-    {
-      "canonical": "Brotherhood of Teamsters, Auto Truck Drivers",
-      "status": "active",
-      "children": [
-        {
-          "name": "Brotherhood of Teamsters, Auto Truck Drivers, Local 70 of",
           "relationship": "chapter"
         }
       ]
@@ -24722,16 +24642,6 @@
         {
           "name": "BUILDING INDUSTRY CREDIT ASSOCIATION (BICA)",
           "relationship": "alternate_spelling"
-        }
-      ]
-    },
-    {
-      "canonical": "Building Material, Construction, Industrial, Profession and Technical Teamster Union",
-      "status": "active",
-      "children": [
-        {
-          "name": "Building Material, Construction, Industrial, Profession and Technical Teamster Union Local 36",
-          "relationship": "chapter"
         }
       ]
     },
@@ -25376,20 +25286,6 @@
       ]
     },
     {
-      "canonical": "CA",
-      "status": "active",
-      "children": [
-        {
-          "name": "THE CA",
-          "relationship": "alternate_spelling"
-        },
-        {
-          "name": "CA, Inc",
-          "relationship": "alternate_spelling"
-        }
-      ]
-    },
-    {
       "canonical": "CA Advocates",
       "status": "active",
       "children": [
@@ -26010,10 +25906,6 @@
           "relationship": "alternate_spelling"
         }
       ]
-    },
-    {
-      "canonical": "CALABASAS MAYOR ALICIA WEINTRAUB",
-      "status": "active"
     },
     {
       "canonical": "CALAVERAS COUNTY ASSOCIATION OF REALTORS",
@@ -35815,16 +35707,6 @@
       ]
     },
     {
-      "canonical": "California Long Term Care Insurance Services",
-      "status": "active",
-      "children": [
-        {
-          "name": "California Long Term Care Insurance Services, Inc",
-          "relationship": "alternate_spelling"
-        }
-      ]
-    },
-    {
       "canonical": "CALIFORNIA LONG TERM CARE OMBUDSMAN ASSOCIATION",
       "status": "active",
       "children": [
@@ -35859,6 +35741,16 @@
         {
           "name": "California Long-Term Care Insurance Services, Inc",
           "relationship": "alternate_spelling"
+        },
+        {
+          "name": "California Long Term Care Insurance Services",
+          "relationship": "alternate_spelling",
+          "children": [
+            {
+              "name": "California Long Term Care Insurance Services, Inc",
+              "relationship": "alternate_spelling"
+            }
+          ]
         }
       ]
     },
@@ -36867,16 +36759,6 @@
       ]
     },
     {
-      "canonical": "California Off Road Vehicle Association",
-      "status": "active",
-      "children": [
-        {
-          "name": "California Off Road Vehicle Association, Inc",
-          "relationship": "alternate_spelling"
-        }
-      ]
-    },
-    {
       "canonical": "California Off-road Vehicle Association",
       "status": "active",
       "children": [
@@ -36891,6 +36773,16 @@
         {
           "name": "COVA",
           "relationship": "alternate_spelling"
+        },
+        {
+          "name": "California Off Road Vehicle Association",
+          "relationship": "alternate_spelling",
+          "children": [
+            {
+              "name": "California Off Road Vehicle Association, Inc",
+              "relationship": "alternate_spelling"
+            }
+          ]
         }
       ]
     },
@@ -37115,44 +37007,6 @@
       ]
     },
     {
-      "canonical": "CALIFORNIA PAN ETHNIC HEALTH NETWORK",
-      "status": "active",
-      "children": [
-        {
-          "name": "CALIFORNIA PAN ETHNIC HEALTH NETWORK (CPEHN)",
-          "relationship": "alternate_spelling"
-        },
-        {
-          "name": "CPEHN",
-          "relationship": "alternate_spelling"
-        },
-        {
-          "name": "California Pan-Ethnic Health Network - CPEHN",
-          "relationship": "alternate_spelling"
-        },
-        {
-          "name": "California Pan-Ethic Health Network (CPEHN)",
-          "relationship": "chapter"
-        },
-        {
-          "name": "California Pan-Ethnic Network (CPEHN)",
-          "relationship": "chapter"
-        },
-        {
-          "name": "California Pan-Ethics Health Net Work (CPEHN)",
-          "relationship": "chapter"
-        },
-        {
-          "name": "California Pan Ethnic-Health Network",
-          "relationship": "alternate_spelling"
-        },
-        {
-          "name": "California Pan-Ethnic Health Network-CPEHN",
-          "relationship": "alternate_spelling"
-        }
-      ]
-    },
-    {
       "canonical": "CALIFORNIA PAN-ETHNIC HEALTH NETWORK",
       "status": "active",
       "children": [
@@ -37163,6 +37017,44 @@
         {
           "name": "California Pan-Ethnic Health Network (+ 6.19)",
           "relationship": "alternate_spelling"
+        },
+        {
+          "name": "CALIFORNIA PAN ETHNIC HEALTH NETWORK",
+          "relationship": "alternate_spelling",
+          "children": [
+            {
+              "name": "CALIFORNIA PAN ETHNIC HEALTH NETWORK (CPEHN)",
+              "relationship": "alternate_spelling"
+            },
+            {
+              "name": "CPEHN",
+              "relationship": "alternate_spelling"
+            },
+            {
+              "name": "California Pan-Ethnic Health Network - CPEHN",
+              "relationship": "alternate_spelling"
+            },
+            {
+              "name": "California Pan-Ethic Health Network (CPEHN)",
+              "relationship": "chapter"
+            },
+            {
+              "name": "California Pan-Ethnic Network (CPEHN)",
+              "relationship": "chapter"
+            },
+            {
+              "name": "California Pan-Ethics Health Net Work (CPEHN)",
+              "relationship": "chapter"
+            },
+            {
+              "name": "California Pan Ethnic-Health Network",
+              "relationship": "alternate_spelling"
+            },
+            {
+              "name": "California Pan-Ethnic Health Network-CPEHN",
+              "relationship": "alternate_spelling"
+            }
+          ]
         }
       ]
     },
@@ -37570,22 +37462,22 @@
       ]
     },
     {
-      "canonical": "California Pro Life Council",
-      "status": "active",
-      "children": [
-        {
-          "name": "California Pro Life Council Inc",
-          "relationship": "alternate_spelling"
-        }
-      ]
-    },
-    {
       "canonical": "California Pro-Life Council",
       "status": "active",
       "children": [
         {
           "name": "California Pro-Life Council, Inc",
           "relationship": "alternate_spelling"
+        },
+        {
+          "name": "California Pro Life Council",
+          "relationship": "alternate_spelling",
+          "children": [
+            {
+              "name": "California Pro Life Council Inc",
+              "relationship": "alternate_spelling"
+            }
+          ]
         }
       ]
     },
@@ -40270,20 +40162,6 @@
         {
           "name": "California Teachers'Association",
           "relationship": "alternate_spelling"
-        }
-      ]
-    },
-    {
-      "canonical": "CALIFORNIA TEAMSTERS",
-      "status": "active",
-      "children": [
-        {
-          "name": "THE CALIFORNIA TEAMSTERS",
-          "relationship": "alternate_spelling"
-        },
-        {
-          "name": "California Teamsters Local 911",
-          "relationship": "chapter"
         }
       ]
     },
@@ -44145,22 +44023,22 @@
       ]
     },
     {
-      "canonical": "CENTER FOR VIOLENCE FREE RELATIONSHIPS",
-      "status": "active",
-      "children": [
-        {
-          "name": "THE CENTER FOR VIOLENCE FREE RELATIONSHIPS",
-          "relationship": "alternate_spelling"
-        }
-      ]
-    },
-    {
       "canonical": "CENTER FOR VIOLENCE-FREE RELATIONSHIPS",
       "status": "active",
       "children": [
         {
           "name": "THE CENTER FOR VIOLENCE-FREE RELATIONSHIPS",
           "relationship": "alternate_spelling"
+        },
+        {
+          "name": "CENTER FOR VIOLENCE FREE RELATIONSHIPS",
+          "relationship": "alternate_spelling",
+          "children": [
+            {
+              "name": "THE CENTER FOR VIOLENCE FREE RELATIONSHIPS",
+              "relationship": "alternate_spelling"
+            }
+          ]
         }
       ]
     },
@@ -45400,16 +45278,6 @@
         {
           "name": "Chaudhary and Associates, Inc",
           "relationship": "alternate_spelling"
-        }
-      ]
-    },
-    {
-      "canonical": "Chauffeurs, Teamsters and Helpers",
-      "status": "active",
-      "children": [
-        {
-          "name": "Chauffeurs, Teamsters and Helpers Local 150",
-          "relationship": "chapter"
         }
       ]
     },
@@ -47001,10 +46869,6 @@
     },
     {
       "canonical": "CINCO DE MAYO GOLF, INC.",
-      "status": "active"
-    },
-    {
-      "canonical": "CINDY CHAVEZ, SANTA CLARA COUNTY SUPERVISOR, DISTRICT 2",
       "status": "active"
     },
     {
@@ -49237,10 +49101,6 @@
       ]
     },
     {
-      "canonical": "CITY OF SAN DIEGO COUNCIL MEMBER DAVID ALVAREZ",
-      "status": "active"
-    },
-    {
       "canonical": "CITY OF SAN DIMAS",
       "status": "active"
     },
@@ -50679,40 +50539,6 @@
       "children": [
         {
           "name": "ClipperCreek, Inc",
-          "relationship": "alternate_spelling"
-        }
-      ]
-    },
-    {
-      "canonical": "CLOROX CO",
-      "status": "active",
-      "children": [
-        {
-          "name": "THE CLOROX CO",
-          "relationship": "alternate_spelling"
-        }
-      ]
-    },
-    {
-      "canonical": "CLOROX COMPANY",
-      "status": "active",
-      "children": [
-        {
-          "name": "THE CLOROX COMPANY",
-          "relationship": "alternate_spelling"
-        }
-      ]
-    },
-    {
-      "canonical": "CLOROX CORPORATION",
-      "status": "active",
-      "children": [
-        {
-          "name": "THE CLOROX CORPORATION",
-          "relationship": "alternate_spelling"
-        },
-        {
-          "name": "Clorox",
           "relationship": "alternate_spelling"
         }
       ]
@@ -54472,16 +54298,6 @@
       ]
     },
     {
-      "canonical": "Company",
-      "status": "active",
-      "children": [
-        {
-          "name": "Company Inc",
-          "relationship": "alternate_spelling"
-        }
-      ]
-    },
-    {
       "canonical": "Compass",
       "children": [
         {
@@ -54655,22 +54471,22 @@
       ]
     },
     {
-      "canonical": "Computer Using Educators",
-      "status": "active",
-      "children": [
-        {
-          "name": "Computer Using Educators, Inc",
-          "relationship": "alternate_spelling"
-        }
-      ]
-    },
-    {
       "canonical": "Computer-Using Educators",
       "status": "active",
       "children": [
         {
           "name": "Computer-Using Educators, Inc",
           "relationship": "alternate_spelling"
+        },
+        {
+          "name": "Computer Using Educators",
+          "relationship": "alternate_spelling",
+          "children": [
+            {
+              "name": "Computer Using Educators, Inc",
+              "relationship": "alternate_spelling"
+            }
+          ]
         }
       ]
     },
@@ -55369,16 +55185,6 @@
         {
           "name": "Construction and General Laborers' Local 185",
           "relationship": "chapter"
-        }
-      ]
-    },
-    {
-      "canonical": "Construction Company",
-      "status": "active",
-      "children": [
-        {
-          "name": "Construction Company, Inc",
-          "relationship": "alternate_spelling"
         }
       ]
     },
@@ -56861,10 +56667,6 @@
       ]
     },
     {
-      "canonical": "COUNCIL MEMBER JON WIZARD, CITY OF SEASIDE",
-      "status": "active"
-    },
-    {
       "canonical": "COUNCIL MEMBER ZACH HILTON CITY OF GILROY",
       "status": "active"
     },
@@ -57139,20 +56941,6 @@
       "status": "active"
     },
     {
-      "canonical": "Council on American Islamic Relations",
-      "status": "active",
-      "children": [
-        {
-          "name": "Council on American Islamic Relations - California",
-          "relationship": "alternate_spelling"
-        },
-        {
-          "name": "Council on American-Islamic Relations-California",
-          "relationship": "alternate_spelling"
-        }
-      ]
-    },
-    {
       "canonical": "Council on American-Islamic Relations",
       "status": "active",
       "children": [
@@ -57167,6 +56955,20 @@
         {
           "name": "THE COUNCIL ON AMERICAN-ISLAMIC RELATIONS - CALIFORNIA",
           "relationship": "alternate_spelling"
+        },
+        {
+          "name": "Council on American Islamic Relations",
+          "relationship": "alternate_spelling",
+          "children": [
+            {
+              "name": "Council on American Islamic Relations - California",
+              "relationship": "alternate_spelling"
+            },
+            {
+              "name": "Council on American-Islamic Relations-California",
+              "relationship": "alternate_spelling"
+            }
+          ]
         }
       ]
     },
@@ -64970,10 +64772,6 @@
       ]
     },
     {
-      "canonical": "EIGHT INDIVIDUAL LETTERS (INDIAN WELLS, INDIO, INDIO HILLS, LA QUINTA, AND PALM SPRINGS)",
-      "status": "active"
-    },
-    {
       "canonical": "Eisai",
       "status": "active",
       "children": [
@@ -65256,50 +65054,6 @@
         {
           "name": "Electrical Services Company",
           "relationship": "alternate_spelling"
-        }
-      ]
-    },
-    {
-      "canonical": "Electrical Workers",
-      "status": "active",
-      "children": [
-        {
-          "name": "Electrical Workers Local 595",
-          "relationship": "chapter"
-        },
-        {
-          "name": "Electrical Workers Local 40",
-          "relationship": "chapter"
-        },
-        {
-          "name": "Electrical Workers Local 569",
-          "relationship": "chapter"
-        },
-        {
-          "name": "Electrical Workers, Local 639",
-          "relationship": "chapter"
-        },
-        {
-          "name": "Electrical Workers Local 551",
-          "relationship": "chapter"
-        },
-        {
-          "name": "Electrical Workers, Local 18 Newman",
-          "relationship": "chapter"
-        },
-        {
-          "name": "Electrical Workers, Local 18",
-          "relationship": "chapter"
-        }
-      ]
-    },
-    {
-      "canonical": "Electrical Workers Union, IBEW",
-      "status": "active",
-      "children": [
-        {
-          "name": "Electrical Workers Union, IBEW Local 340",
-          "relationship": "chapter"
         }
       ]
     },
@@ -67386,15 +67140,6 @@
       ]
     },
     {
-      "canonical": "Enterprise Rent a Car",
-      "children": [
-        {
-          "name": "Enterprise Rent A Car Company",
-          "relationship": "alternate_spelling"
-        }
-      ]
-    },
-    {
       "canonical": "Enterprise Rent-a-Car",
       "children": [
         {
@@ -67404,6 +67149,16 @@
         {
           "name": "Enterprise Rent-a-Car Co",
           "relationship": "alternate_spelling"
+        },
+        {
+          "name": "Enterprise Rent a Car",
+          "relationship": "alternate_spelling",
+          "children": [
+            {
+              "name": "Enterprise Rent A Car Company",
+              "relationship": "alternate_spelling"
+            }
+          ]
         }
       ]
     },
@@ -68135,16 +67890,6 @@
       "children": [
         {
           "name": "Equity Trade INC",
-          "relationship": "alternate_spelling"
-        }
-      ]
-    },
-    {
-      "canonical": "ERIC GARCETTI, MAYOR OF LOS ANGELES",
-      "status": "active",
-      "children": [
-        {
-          "name": "ERIC GARCETTI, MAYOR, CITY OF LOS ANGELES",
           "relationship": "alternate_spelling"
         }
       ]
@@ -70568,14 +70313,6 @@
       ]
     },
     {
-      "canonical": "FIONA MA, BOARD OF EQUALIZATION DISTRICT 2",
-      "status": "active"
-    },
-    {
-      "canonical": "FIONA MA, CPA, VICE CHAIR, STATE BOARD OF EQUALIZATION, DISTRICT 2",
-      "status": "active"
-    },
-    {
       "canonical": "FIRCREST HOMEOWNERS ASSOCIATION",
       "status": "active"
     },
@@ -71686,20 +71423,6 @@
         {
           "name": "Footsteps Child Care, Inc",
           "relationship": "alternate_spelling"
-        }
-      ]
-    },
-    {
-      "canonical": "For",
-      "status": "active",
-      "children": [
-        {
-          "name": "for California",
-          "relationship": "chapter"
-        },
-        {
-          "name": "California for",
-          "relationship": "chapter"
         }
       ]
     },
@@ -73871,78 +73594,6 @@
       ]
     },
     {
-      "canonical": "General Teamster",
-      "status": "active",
-      "children": [
-        {
-          "name": "General Teamster, Local 386",
-          "relationship": "chapter"
-        }
-      ]
-    },
-    {
-      "canonical": "General Teamsters",
-      "status": "active",
-      "children": [
-        {
-          "name": "General Teamsters Local 386",
-          "relationship": "chapter"
-        },
-        {
-          "name": "General Teamsters Local 431",
-          "relationship": "chapter"
-        },
-        {
-          "name": "General Teamsters Local 137",
-          "relationship": "chapter"
-        }
-      ]
-    },
-    {
-      "canonical": "General Teamsters Professional, Heath Care and Public Employees",
-      "status": "active",
-      "children": [
-        {
-          "name": "General Teamsters Professional, Heath Care and Public Employees Local 137",
-          "relationship": "chapter"
-        }
-      ]
-    },
-    {
-      "canonical": "General Teamsters Union",
-      "status": "active",
-      "children": [
-        {
-          "name": "General Teamsters Union Local 431",
-          "relationship": "chapter"
-        },
-        {
-          "name": "General Teamsters Union Local 890",
-          "relationship": "chapter"
-        }
-      ]
-    },
-    {
-      "canonical": "General Teamsters, Warehousemen & Helpers Union",
-      "status": "active",
-      "children": [
-        {
-          "name": "General Teamsters, Warehousemen & Helpers Union, Local 890",
-          "relationship": "chapter"
-        }
-      ]
-    },
-    {
-      "canonical": "General Teamsters, Warehousemen and Helpers Union",
-      "status": "active",
-      "children": [
-        {
-          "name": "General Teamsters, Warehousemen and Helpers Union Local 890",
-          "relationship": "chapter"
-        }
-      ]
-    },
-    {
       "canonical": "General Truck Drivers Chauffeurs & Helpers Union",
       "status": "active",
       "children": [
@@ -74053,19 +73704,6 @@
       "status": "active"
     },
     {
-      "canonical": "Georgia Pacific",
-      "children": [
-        {
-          "name": "Georgia Pacific Corporation",
-          "relationship": "alternate_spelling"
-        },
-        {
-          "name": "Georgia Pacific Corp",
-          "relationship": "alternate_spelling"
-        }
-      ]
-    },
-    {
       "canonical": "Georgia-Pacific",
       "children": [
         {
@@ -74075,6 +73713,20 @@
         {
           "name": "Georgia-Pacific Corp",
           "relationship": "alternate_spelling"
+        },
+        {
+          "name": "Georgia Pacific",
+          "relationship": "alternate_spelling",
+          "children": [
+            {
+              "name": "Georgia Pacific Corporation",
+              "relationship": "alternate_spelling"
+            },
+            {
+              "name": "Georgia Pacific Corp",
+              "relationship": "alternate_spelling"
+            }
+          ]
         }
       ]
     },
@@ -75528,16 +75180,6 @@
       ]
     },
     {
-      "canonical": "Grace - End Child Poverty",
-      "status": "active",
-      "children": [
-        {
-          "name": "GRACE - End Child Poverty CA",
-          "relationship": "chapter"
-        }
-      ]
-    },
-    {
       "canonical": "GRACE UNITED METHODIST CHURCH, LOS ANGELES",
       "status": "active"
     },
@@ -75552,6 +75194,16 @@
         {
           "name": "GRACE/End Child Poverty CA",
           "relationship": "chapter"
+        },
+        {
+          "name": "Grace - End Child Poverty",
+          "relationship": "alternate_spelling",
+          "children": [
+            {
+              "name": "GRACE - End Child Poverty CA",
+              "relationship": "chapter"
+            }
+          ]
         }
       ]
     },
@@ -78659,10 +78311,6 @@
       ]
     },
     {
-      "canonical": "HERCULES MAYOR CHRIS KELLEY",
-      "status": "active"
-    },
-    {
       "canonical": "HERE",
       "status": "active",
       "children": [
@@ -78776,19 +78424,6 @@
       ]
     },
     {
-      "canonical": "Hewlett Packard",
-      "children": [
-        {
-          "name": "Hewlett Packard Company",
-          "relationship": "alternate_spelling"
-        },
-        {
-          "name": "Hewlett Packard Co",
-          "relationship": "alternate_spelling"
-        }
-      ]
-    },
-    {
       "canonical": "Hewlett-Packard",
       "children": [
         {
@@ -78798,6 +78433,20 @@
         {
           "name": "Hewlett-Packard Co",
           "relationship": "alternate_spelling"
+        },
+        {
+          "name": "Hewlett Packard",
+          "relationship": "alternate_spelling",
+          "children": [
+            {
+              "name": "Hewlett Packard Company",
+              "relationship": "alternate_spelling"
+            },
+            {
+              "name": "Hewlett Packard Co",
+              "relationship": "alternate_spelling"
+            }
+          ]
         }
       ]
     },
@@ -79914,136 +79563,6 @@
       "children": [
         {
           "name": "Honeywell Inc",
-          "relationship": "alternate_spelling"
-        }
-      ]
-    },
-    {
-      "canonical": "HONORABLE BETTY T. YEE, CALIFORNIA STATE CONTROLLER",
-      "status": "active",
-      "children": [
-        {
-          "name": "THE HONORABLE BETTY T. YEE, CALIFORNIA STATE CONTROLLER",
-          "relationship": "alternate_spelling"
-        }
-      ]
-    },
-    {
-      "canonical": "HONORABLE BILL LOCKYER, CALIFORNIA STATE TREASURER",
-      "status": "active",
-      "children": [
-        {
-          "name": "THE HONORABLE BILL LOCKYER, CALIFORNIA STATE TREASURER",
-          "relationship": "alternate_spelling"
-        }
-      ]
-    },
-    {
-      "canonical": "HONORABLE CRUZ BUSTAMANTE, LIEUTENANT GOVERNOR",
-      "status": "active",
-      "children": [
-        {
-          "name": "THE HONORABLE CRUZ BUSTAMANTE, LIEUTENANT GOVERNOR",
-          "relationship": "alternate_spelling"
-        }
-      ]
-    },
-    {
-      "canonical": "HONORABLE DAVID ALVAREZ, COUNCILMEMBER",
-      "status": "active",
-      "children": [
-        {
-          "name": "THE HONORABLE DAVID ALVAREZ, COUNCILMEMBER",
-          "relationship": "alternate_spelling"
-        }
-      ]
-    },
-    {
-      "canonical": "HONORABLE DEAN F. ANDAL, MEMBER, BOARD OF EQUALIZATION",
-      "status": "active",
-      "children": [
-        {
-          "name": "THE HONORABLE DEAN F. ANDAL, MEMBER, BOARD OF EQUALIZATION",
-          "relationship": "alternate_spelling"
-        }
-      ]
-    },
-    {
-      "canonical": "HONORABLE DIANNE FEINSTEIN, UNITED STATES SENATOR",
-      "status": "active",
-      "children": [
-        {
-          "name": "THE HONORABLE DIANNE FEINSTEIN, UNITED STATES SENATOR",
-          "relationship": "alternate_spelling"
-        }
-      ]
-    },
-    {
-      "canonical": "HONORABLE ERIC GARCETTI, MAYOR",
-      "status": "active",
-      "children": [
-        {
-          "name": "THE HONORABLE ERIC GARCETTI, MAYOR",
-          "relationship": "alternate_spelling"
-        }
-      ]
-    },
-    {
-      "canonical": "HONORABLE JERRY BROWN, MAYOR OF OAKLAND",
-      "status": "active",
-      "children": [
-        {
-          "name": "THE HONORABLE JERRY BROWN, MAYOR OF OAKLAND",
-          "relationship": "alternate_spelling"
-        }
-      ]
-    },
-    {
-      "canonical": "HONORABLE JOHN CHIANG, CALIFORNIA STATE CONTROLLER",
-      "status": "active",
-      "children": [
-        {
-          "name": "THE HONORABLE JOHN CHIANG, CALIFORNIA STATE CONTROLLER",
-          "relationship": "alternate_spelling"
-        }
-      ]
-    },
-    {
-      "canonical": "HONORABLE PAUL KORETZ, LOS ANGELES CITY COUNCIL, 5TH DISTRICT",
-      "status": "active",
-      "children": [
-        {
-          "name": "THE HONORABLE PAUL KORETZ, LOS ANGELES CITY COUNCIL, 5TH DISTRICT",
-          "relationship": "alternate_spelling"
-        }
-      ]
-    },
-    {
-      "canonical": "HONORABLE SALUD CARABAJAL, MEMBER OF U.S. CONGRESS",
-      "status": "active",
-      "children": [
-        {
-          "name": "THE HONORABLE SALUD CARABAJAL, MEMBER OF THE U.S. CONGRESS",
-          "relationship": "alternate_spelling"
-        }
-      ]
-    },
-    {
-      "canonical": "HONORABLE SAM LICCARDO, MAYOR",
-      "status": "active",
-      "children": [
-        {
-          "name": "THE HONORABLE SAM LICCARDO, MAYOR",
-          "relationship": "alternate_spelling"
-        }
-      ]
-    },
-    {
-      "canonical": "HONORABLE TOM BUTT, MAYOR",
-      "status": "active",
-      "children": [
-        {
-          "name": "THE HONORABLE TOM BUTT, MAYOR",
           "relationship": "alternate_spelling"
         }
       ]
@@ -81285,10 +80804,6 @@
       "status": "active"
     },
     {
-      "canonical": "HUMBOLDT COUNTY SUPERVISOR STEVE MADRONE",
-      "status": "active"
-    },
-    {
       "canonical": "HUMBOLDT COUNTY TRANSITION AGE YOUTH COLLABORATION",
       "status": "active"
     },
@@ -81649,26 +81164,6 @@
         {
           "name": "IATSE Studio Electrical Lighting Technicians Local 728",
           "relationship": "chapter"
-        }
-      ]
-    },
-    {
-      "canonical": "IBEW Broadcast, Television, Recording Engineers",
-      "status": "active",
-      "children": [
-        {
-          "name": "IBEW Broadcast, Television, Recording Engineers, Local 45",
-          "relationship": "chapter"
-        }
-      ]
-    },
-    {
-      "canonical": "IBEW LOCAL UNION 569",
-      "status": "active",
-      "children": [
-        {
-          "name": "THE IBEW LOCAL UNION 569",
-          "relationship": "alternate_spelling"
         }
       ]
     },
@@ -82216,16 +81711,6 @@
         {
           "name": "IMS Health Incorporated",
           "relationship": "alternate_spelling"
-        }
-      ]
-    },
-    {
-      "canonical": "in",
-      "status": "active",
-      "children": [
-        {
-          "name": "in California",
-          "relationship": "chapter"
         }
       ]
     },
@@ -88873,16 +88358,6 @@
       ]
     },
     {
-      "canonical": "International Brotherhood Electrical Workers",
-      "status": "active",
-      "children": [
-        {
-          "name": "International Brotherhood Electrical Workers, Local 440",
-          "relationship": "chapter"
-        }
-      ]
-    },
-    {
       "canonical": "International Brotherhood of Boilermakers",
       "status": "active",
       "children": [
@@ -88931,426 +88406,646 @@
           "relationship": "chapter"
         },
         {
-          "name": "International Brotherhood of Electrical Workers Local 11",
-          "relationship": "chapter"
-        },
-        {
-          "name": "International Brotherhood of Electrical Workers Local 569",
-          "relationship": "chapter"
-        },
-        {
-          "name": "International Brotherhood of Electrical Workers Local 100",
-          "relationship": "chapter"
-        },
-        {
-          "name": "International Brotherhood of Electrical Workers Local 1245",
-          "relationship": "chapter"
-        },
-        {
-          "name": "International Brotherhood of Electrical Workers Local 441",
-          "relationship": "chapter"
-        },
-        {
-          "name": "International Brotherhood of Electrical Workers Local 428",
-          "relationship": "chapter"
-        },
-        {
-          "name": "International Brotherhood of Electrical Workers Local 302",
-          "relationship": "chapter"
-        },
-        {
-          "name": "International Brotherhood of Electrical Workers Local 551",
-          "relationship": "chapter"
-        },
-        {
-          "name": "International Brotherhood of Electrical Workers Local 18",
-          "relationship": "chapter"
-        },
-        {
-          "name": "International Brotherhood of Electrical Workers Local 340",
-          "relationship": "chapter"
-        },
-        {
-          "name": "International Brotherhood of Electrical Workers Local 340 (Sacramento/Redding)",
-          "relationship": "chapter"
-        },
-        {
-          "name": "International Brotherhood of Electrical Workers Local 302 (Contra Costa)",
-          "relationship": "chapter"
-        },
-        {
-          "name": "International Brotherhood of Electrical Workers Local 180 (Napa/Solano)",
-          "relationship": "chapter"
-        },
-        {
-          "name": "International Brotherhood of Electrical Workers Local 11, 40, 180, 234, 413, 440, 441, 551, 569, 595, 617, 639, 952",
-          "relationship": "chapter"
-        },
-        {
-          "name": "International Brotherhood of Electrical Workers Local 441 (Orange)",
-          "relationship": "chapter"
-        },
-        {
-          "name": "International Brotherhood of Electrical Workers Local 413",
-          "relationship": "chapter"
-        },
-        {
-          "name": "International Brotherhood of Electrical Workers Local 465",
-          "relationship": "chapter"
-        },
-        {
-          "name": "International Brotherhood of Electrical Workers Local 639",
-          "relationship": "chapter"
-        },
-        {
-          "name": "International Brotherhood of Electrical Workers Local 617 (San Mateo)",
-          "relationship": "chapter"
-        },
-        {
-          "name": "International Brotherhood of Electrical Workers Local 617",
-          "relationship": "chapter"
-        },
-        {
-          "name": "International Brotherhood of Electrical Workers Local 6 (San Francisco)",
-          "relationship": "chapter"
-        },
-        {
-          "name": "International Brotherhood of Electrical Workers Local 595 (Alameda/San)",
-          "relationship": "chapter"
-        },
-        {
-          "name": "International Brotherhood of Electrical Workers Local 551 (North Coast)",
-          "relationship": "chapter"
-        },
-        {
-          "name": "International Brotherhood of Electrical Workers Local 440",
-          "relationship": "chapter"
-        },
-        {
-          "name": "International Brotherhood of Electrical Workers Local 180",
-          "relationship": "chapter"
-        },
-        {
-          "name": "International Brotherhood of Electrical Workers Local 40",
-          "relationship": "chapter"
-        },
-        {
-          "name": "International Brotherhood of Electrical Workers Local 952",
-          "relationship": "chapter"
-        },
-        {
-          "name": "International Brotherhood of Electrical Workers Local 6",
-          "relationship": "chapter"
-        },
-        {
-          "name": "International Brotherhood of Electrical Workers Local 595",
-          "relationship": "chapter"
-        },
-        {
-          "name": "International Brotherhood of Electrical Workers Local 234",
-          "relationship": "chapter"
-        },
-        {
-          "name": "International Brotherhood of Electrical Workers Local 47",
-          "relationship": "chapter"
-        },
-        {
-          "name": "International Brotherhood of Electrical Workers Local 2295",
-          "relationship": "chapter"
-        },
-        {
-          "name": "International Brotherhood of Electrical Workers Local 569 San Diego",
-          "relationship": "chapter"
-        },
-        {
-          "name": "International Brotherhood of Electrical Workers Local 477",
-          "relationship": "chapter"
-        },
-        {
-          "name": "International Brotherhood of Electrical Workers Local 45",
-          "relationship": "chapter"
-        },
-        {
-          "name": "International Brotherhood of Electrical Workers Local 332",
-          "relationship": "chapter"
-        },
-        {
-          "name": "International Brotherhood of Electrical Workers, Local 659",
-          "relationship": "chapter"
-        },
-        {
-          "name": "International Brotherhood of Electrical Workers, Local 952 (Ventura)",
-          "relationship": "chapter"
-        },
-        {
-          "name": "International Brotherhood of Electrical Workers, Local 684 (Modesto)",
-          "relationship": "chapter"
-        },
-        {
-          "name": "International Brotherhood of Electrical Workers, Local 639 (San Luis Obispo)",
-          "relationship": "chapter"
-        },
-        {
-          "name": "International Brotherhood of Electrical Workers, Local 302 (Pleasant Hill)",
-          "relationship": "chapter"
-        },
-        {
-          "name": "International Brotherhood of Electrical Workers, Local 595 (Dublin)",
-          "relationship": "chapter"
-        },
-        {
-          "name": "International Brotherhood of Electrical Workers, Local 551 (Santa Rosa)",
-          "relationship": "chapter"
-        },
-        {
-          "name": "International Brotherhood of Electrical Workers, Local 477 (San Bernardino)",
-          "relationship": "chapter"
-        },
-        {
-          "name": "International Brotherhood of Electrical Workers, Local 465 (San Diego)",
-          "relationship": "chapter"
-        },
-        {
-          "name": "International Brotherhood of Electrical Workers, Local 45 (Hollywood)",
-          "relationship": "chapter"
-        },
-        {
-          "name": "International Brotherhood of Electrical Workers, Local 441 (Orange County)",
-          "relationship": "chapter"
-        },
-        {
-          "name": "International Brotherhood of Electrical Workers, Local 440 (Riverside)",
-          "relationship": "chapter"
-        },
-        {
-          "name": "International Brotherhood of Electrical Workers, Local 428 (Bakersfield)",
-          "relationship": "chapter"
-        },
-        {
-          "name": "International Brotherhood of Electrical Workers, Local 413 (Santa Barbara)",
-          "relationship": "chapter"
-        },
-        {
-          "name": "International Brotherhood of Electrical Workers, Local 40 (North Hollywood)",
-          "relationship": "chapter"
-        },
-        {
-          "name": "International Brotherhood of Electrical Workers, Local 340 (Sacramento, Yolo)",
-          "relationship": "chapter"
-        },
-        {
-          "name": "International Brotherhood of Electrical Workers, Local 332 (San Jose)",
-          "relationship": "chapter"
-        },
-        {
-          "name": "International Brotherhood of Electrical Workers, Local 234 (Castroville)",
-          "relationship": "chapter"
-        },
-        {
-          "name": "International Brotherhood of Electrical Workers, Local 180 (Vallejo)",
-          "relationship": "chapter"
-        },
-        {
-          "name": "International Brotherhood of Electrical Workers, Local 18 (Los Angeles)",
-          "relationship": "chapter"
-        },
-        {
-          "name": "International Brotherhood of Electrical Workers, Local 100 (Fresno)",
-          "relationship": "chapter"
-        },
-        {
-          "name": "International Brotherhood of Electrical Workers, Local 11, Pasadena",
-          "relationship": "chapter"
-        },
-        {
-          "name": "International Brotherhood of Electrical Workers, Local 40, Motion Picture Industry",
-          "relationship": "chapter"
-        },
-        {
-          "name": "International Brotherhood of Electrical Workers, Local 45, Broadcast, Television",
-          "relationship": "chapter"
-        },
-        {
-          "name": "International Brotherhood of Electrical Workers, Local 393",
-          "relationship": "chapter"
-        },
-        {
-          "name": "International Brotherhood of Electrical Workers, Local 45, 332, 569, 595",
-          "relationship": "chapter"
-        },
-        {
-          "name": "International Brotherhood of Electrical Workers, Local 2376",
-          "relationship": "chapter"
-        },
-        {
           "name": "International Brotherhood of Electrical Workers, Local 45, Local 441",
           "relationship": "chapter"
-        },
-        {
-          "name": "International Brotherhood of Electrical Workers, Local 565",
-          "relationship": "chapter"
-        },
-        {
-          "name": "International Brotherhood of Electrical Workers, Local 57 & International Association of Machinists and Aerospace",
-          "relationship": "chapter"
-        },
-        {
-          "name": "International Brotherhood of Electrical Workers, Local 57, 569 & 1245",
-          "relationship": "chapter"
-        },
-        {
-          "name": "International Brotherhood of Electrical Workers, Local 684",
-          "relationship": "chapter"
-        },
-        {
-          "name": "International Brotherhood of Electrical Workers-Local 441",
-          "relationship": "alternate_spelling"
         },
         {
           "name": "International Brotherhood of Electrical Workers: Local 11, Local 47, Local 617, Local 684, and Local 1245",
           "relationship": "chapter"
         },
         {
-          "name": "International Brotherhood of Electrical Workers, IBEW, Local 551",
-          "relationship": "chapter"
+          "name": "IBEW 9th District",
+          "relationship": "chapter",
+          "children": [
+            {
+              "name": "IBEW Local 5",
+              "relationship": "chapter",
+              "children": [
+                {
+                  "name": "Local 5 International Brotherhood of Electrical Workers (IBEW)",
+                  "relationship": "alternate_spelling"
+                }
+              ]
+            },
+            {
+              "name": "IBEW Local 6",
+              "relationship": "chapter",
+              "children": [
+                {
+                  "name": "International Brotherhood of Electrical Workers Local 6 (San Francisco)",
+                  "relationship": "alternate_spelling"
+                },
+                {
+                  "name": "International Brotherhood of Electrical Workers Local 6",
+                  "relationship": "alternate_spelling"
+                }
+              ]
+            },
+            {
+              "name": "IBEW Local 11",
+              "relationship": "chapter",
+              "children": [
+                {
+                  "name": "International Brotherhood of Electrical Workers Local 11",
+                  "relationship": "alternate_spelling"
+                },
+                {
+                  "name": "International Brotherhood of Electrical Workers Local 11, 40, 180, 234, 413, 440, 441, 551, 569, 595, 617, 639, 952",
+                  "relationship": "alternate_spelling"
+                },
+                {
+                  "name": "International Brotherhood of Electrical Workers, Local 11, Pasadena",
+                  "relationship": "alternate_spelling"
+                },
+                {
+                  "name": "International Brotherhood of Electrical Workers (IBEW), Local 11",
+                  "relationship": "alternate_spelling"
+                },
+                {
+                  "name": "IBEW, Local 11 and 40",
+                  "relationship": "alternate_spelling"
+                },
+                {
+                  "name": "Brotherhood of Electrical Workers Local 11",
+                  "relationship": "alternate_spelling"
+                }
+              ]
+            },
+            {
+              "name": "IBEW Local 18",
+              "relationship": "chapter",
+              "children": [
+                {
+                  "name": "International Brotherhood of Electrical Workers Local 18",
+                  "relationship": "alternate_spelling"
+                },
+                {
+                  "name": "International Brotherhood of Electrical Workers, Local 18 (Los Angeles)",
+                  "relationship": "alternate_spelling"
+                },
+                {
+                  "name": "IBEW Local 18 Health and Welfare Trust",
+                  "relationship": "alternate_spelling"
+                },
+                {
+                  "name": "Electrical Workers, Local 18 Newman",
+                  "relationship": "alternate_spelling"
+                },
+                {
+                  "name": "Electrical Workers, Local 18",
+                  "relationship": "alternate_spelling"
+                },
+                {
+                  "name": "Brotherhood of Electrical Workers Local 18",
+                  "relationship": "alternate_spelling"
+                }
+              ]
+            },
+            {
+              "name": "IBEW Local 40",
+              "relationship": "chapter",
+              "children": [
+                {
+                  "name": "International Brotherhood of Electrical Workers Local 40",
+                  "relationship": "alternate_spelling"
+                },
+                {
+                  "name": "International Brotherhood of Electrical Workers, Local 40 (North Hollywood)",
+                  "relationship": "alternate_spelling"
+                },
+                {
+                  "name": "International Brotherhood of Electrical Workers, Local 40, Motion Picture Industry",
+                  "relationship": "alternate_spelling"
+                },
+                {
+                  "name": "Electrical Workers Local 40",
+                  "relationship": "alternate_spelling"
+                }
+              ]
+            },
+            {
+              "name": "IBEW Local 45",
+              "relationship": "chapter",
+              "children": [
+                {
+                  "name": "International Brotherhood of Electrical Workers Local 45",
+                  "relationship": "alternate_spelling"
+                },
+                {
+                  "name": "International Brotherhood of Electrical Workers, Local 45 (Hollywood)",
+                  "relationship": "alternate_spelling"
+                },
+                {
+                  "name": "International Brotherhood of Electrical Workers, Local 45, Broadcast, Television",
+                  "relationship": "alternate_spelling"
+                },
+                {
+                  "name": "International Brotherhood of Electrical Workers, Local 45, 332, 569, 595",
+                  "relationship": "alternate_spelling"
+                },
+                {
+                  "name": "IBEW Broadcast, Television, Recording Engineers, Local 45",
+                  "relationship": "alternate_spelling"
+                }
+              ]
+            },
+            {
+              "name": "IBEW Local 47",
+              "relationship": "chapter",
+              "children": [
+                {
+                  "name": "International Brotherhood of Electrical Workers Local 47",
+                  "relationship": "alternate_spelling"
+                },
+                {
+                  "name": "International Brotherhood of Electrical Workers (IBEW Local 47)",
+                  "relationship": "alternate_spelling"
+                },
+                {
+                  "name": "IBEW, Local 47",
+                  "relationship": "alternate_spelling"
+                }
+              ]
+            },
+            {
+              "name": "IBEW Local 57",
+              "relationship": "chapter",
+              "children": [
+                {
+                  "name": "International Brotherhood of Electrical Workers, Local 57 & International Association of Machinists and Aerospace",
+                  "relationship": "alternate_spelling"
+                },
+                {
+                  "name": "International Brotherhood of Electrical Workers, Local 57, 569 & 1245",
+                  "relationship": "alternate_spelling"
+                }
+              ]
+            },
+            {
+              "name": "IBEW Local 100",
+              "relationship": "chapter",
+              "children": [
+                {
+                  "name": "International Brotherhood of Electrical Workers Local 100",
+                  "relationship": "alternate_spelling"
+                },
+                {
+                  "name": "International Brotherhood of Electrical Workers, Local 100 (Fresno)",
+                  "relationship": "alternate_spelling"
+                }
+              ]
+            },
+            {
+              "name": "IBEW Local 180",
+              "relationship": "chapter",
+              "children": [
+                {
+                  "name": "International Brotherhood of Electrical Workers Local 180 (Napa/Solano)",
+                  "relationship": "alternate_spelling"
+                },
+                {
+                  "name": "International Brotherhood of Electrical Workers Local 180",
+                  "relationship": "alternate_spelling"
+                },
+                {
+                  "name": "International Brotherhood of Electrical Workers, Local 180 (Vallejo)",
+                  "relationship": "alternate_spelling"
+                }
+              ]
+            },
+            {
+              "name": "IBEW Local 234",
+              "relationship": "chapter",
+              "children": [
+                {
+                  "name": "International Brotherhood of Electrical Workers Local 234",
+                  "relationship": "alternate_spelling"
+                },
+                {
+                  "name": "International Brotherhood of Electrical Workers, Local 234 (Castroville)",
+                  "relationship": "alternate_spelling"
+                }
+              ]
+            },
+            {
+              "name": "IBEW Local 302",
+              "relationship": "chapter",
+              "children": [
+                {
+                  "name": "International Brotherhood of Electrical Workers Local 302",
+                  "relationship": "alternate_spelling"
+                },
+                {
+                  "name": "International Brotherhood of Electrical Workers Local 302 (Contra Costa)",
+                  "relationship": "alternate_spelling"
+                },
+                {
+                  "name": "International Brotherhood of Electrical Workers, Local 302 (Pleasant Hill)",
+                  "relationship": "alternate_spelling"
+                }
+              ]
+            },
+            {
+              "name": "IBEW Local 332",
+              "relationship": "chapter",
+              "children": [
+                {
+                  "name": "International Brotherhood of Electrical Workers Local 332",
+                  "relationship": "alternate_spelling"
+                },
+                {
+                  "name": "International Brotherhood of Electrical Workers, Local 332 (San Jose)",
+                  "relationship": "alternate_spelling"
+                }
+              ]
+            },
+            {
+              "name": "IBEW Local 340",
+              "relationship": "chapter",
+              "children": [
+                {
+                  "name": "International Brotherhood of Electrical Workers Local 340",
+                  "relationship": "alternate_spelling"
+                },
+                {
+                  "name": "International Brotherhood of Electrical Workers Local 340 (Sacramento/Redding)",
+                  "relationship": "alternate_spelling"
+                },
+                {
+                  "name": "International Brotherhood of Electrical Workers, Local 340 (Sacramento, Yolo)",
+                  "relationship": "alternate_spelling"
+                },
+                {
+                  "name": "IBEW, Local 340",
+                  "relationship": "alternate_spelling"
+                },
+                {
+                  "name": "IBEW Local 340 (Sacramento)",
+                  "relationship": "alternate_spelling"
+                },
+                {
+                  "name": "Electrical Workers Union, IBEW Local 340",
+                  "relationship": "alternate_spelling"
+                }
+              ]
+            },
+            {
+              "name": "IBEW Local 393",
+              "relationship": "chapter",
+              "children": [
+                {
+                  "name": "International Brotherhood of Electrical Workers, Local 393",
+                  "relationship": "alternate_spelling"
+                }
+              ]
+            },
+            {
+              "name": "IBEW Local 413",
+              "relationship": "chapter",
+              "children": [
+                {
+                  "name": "International Brotherhood of Electrical Workers Local 413",
+                  "relationship": "alternate_spelling"
+                },
+                {
+                  "name": "International Brotherhood of Electrical Workers, Local 413 (Santa Barbara)",
+                  "relationship": "alternate_spelling"
+                }
+              ]
+            },
+            {
+              "name": "IBEW Local 428",
+              "relationship": "chapter",
+              "children": [
+                {
+                  "name": "International Brotherhood of Electrical Workers Local 428",
+                  "relationship": "alternate_spelling"
+                },
+                {
+                  "name": "International Brotherhood of Electrical Workers, Local 428 (Bakersfield)",
+                  "relationship": "alternate_spelling"
+                }
+              ]
+            },
+            {
+              "name": "IBEW Local 440",
+              "relationship": "chapter",
+              "children": [
+                {
+                  "name": "International Brotherhood of Electrical Workers Local 440",
+                  "relationship": "alternate_spelling"
+                },
+                {
+                  "name": "International Brotherhood of Electrical Workers, Local 440 (Riverside)",
+                  "relationship": "alternate_spelling"
+                },
+                {
+                  "name": "International Brotherhood Electrical Workers, Local 440",
+                  "relationship": "alternate_spelling"
+                }
+              ]
+            },
+            {
+              "name": "IBEW Local 441",
+              "relationship": "chapter",
+              "children": [
+                {
+                  "name": "International Brotherhood of Electrical Workers Local 441",
+                  "relationship": "alternate_spelling"
+                },
+                {
+                  "name": "International Brotherhood of Electrical Workers Local 441 (Orange)",
+                  "relationship": "alternate_spelling"
+                },
+                {
+                  "name": "International Brotherhood of Electrical Workers, Local 441 (Orange County)",
+                  "relationship": "alternate_spelling"
+                },
+                {
+                  "name": "International Brotherhood of Electrical Workers-Local 441",
+                  "relationship": "alternate_spelling"
+                },
+                {
+                  "name": "Brotherhood of Electrical Workers Local 441",
+                  "relationship": "alternate_spelling"
+                }
+              ]
+            },
+            {
+              "name": "IBEW Local 465",
+              "relationship": "chapter",
+              "children": [
+                {
+                  "name": "International Brotherhood of Electrical Workers Local 465",
+                  "relationship": "alternate_spelling"
+                },
+                {
+                  "name": "International Brotherhood of Electrical Workers, Local 465 (San Diego)",
+                  "relationship": "alternate_spelling"
+                },
+                {
+                  "name": "International Brotherhood of Electrical Workers (IBEW Local 465)",
+                  "relationship": "alternate_spelling"
+                },
+                {
+                  "name": "IBEW, Local 465",
+                  "relationship": "alternate_spelling"
+                }
+              ]
+            },
+            {
+              "name": "IBEW Local 477",
+              "relationship": "chapter",
+              "children": [
+                {
+                  "name": "International Brotherhood of Electrical Workers Local 477",
+                  "relationship": "alternate_spelling"
+                },
+                {
+                  "name": "International Brotherhood of Electrical Workers, Local 477 (San Bernardino)",
+                  "relationship": "alternate_spelling"
+                }
+              ]
+            },
+            {
+              "name": "IBEW Local 551",
+              "relationship": "chapter",
+              "children": [
+                {
+                  "name": "International Brotherhood of Electrical Workers Local 551",
+                  "relationship": "alternate_spelling"
+                },
+                {
+                  "name": "International Brotherhood of Electrical Workers Local 551 (North Coast)",
+                  "relationship": "alternate_spelling"
+                },
+                {
+                  "name": "International Brotherhood of Electrical Workers, Local 551 (Santa Rosa)",
+                  "relationship": "alternate_spelling"
+                },
+                {
+                  "name": "International Brotherhood of Electrical Workers, IBEW, Local 551",
+                  "relationship": "alternate_spelling"
+                },
+                {
+                  "name": "IBEW, Local 551",
+                  "relationship": "alternate_spelling"
+                },
+                {
+                  "name": "Electrical Workers Local 551",
+                  "relationship": "alternate_spelling"
+                }
+              ]
+            },
+            {
+              "name": "IBEW Local 565",
+              "relationship": "chapter",
+              "children": [
+                {
+                  "name": "International Brotherhood of Electrical Workers, Local 565",
+                  "relationship": "alternate_spelling"
+                }
+              ]
+            },
+            {
+              "name": "IBEW Local 569",
+              "relationship": "chapter",
+              "children": [
+                {
+                  "name": "International Brotherhood of Electrical Workers Local 569",
+                  "relationship": "alternate_spelling"
+                },
+                {
+                  "name": "International Brotherhood of Electrical Workers Local 569 San Diego",
+                  "relationship": "alternate_spelling"
+                },
+                {
+                  "name": "International Brotherhood of Electrical Workers (IBEW Local 569)",
+                  "relationship": "alternate_spelling"
+                },
+                {
+                  "name": "IBEW Local 569 San Diego",
+                  "relationship": "alternate_spelling"
+                },
+                {
+                  "name": "Electrical Workers Local 569",
+                  "relationship": "alternate_spelling"
+                },
+                {
+                  "name": "International Brothers Of Electrical Workers Local 569",
+                  "relationship": "alternate_spelling"
+                },
+                {
+                  "name": "THE IBEW LOCAL UNION 569",
+                  "relationship": "alternate_spelling"
+                },
+                {
+                  "name": "IBEW LOCAL UNION 569",
+                  "relationship": "alternate_spelling"
+                },
+                {
+                  "name": "INTERNATIONAL BROTHERHOOD OF ELECTRICAL WORKERS LOCAL UNION 569",
+                  "relationship": "alternate_spelling"
+                }
+              ]
+            },
+            {
+              "name": "IBEW Local 595",
+              "relationship": "chapter",
+              "children": [
+                {
+                  "name": "International Brotherhood of Electrical Workers Local 595 (Alameda/San)",
+                  "relationship": "alternate_spelling"
+                },
+                {
+                  "name": "International Brotherhood of Electrical Workers Local 595",
+                  "relationship": "alternate_spelling"
+                },
+                {
+                  "name": "International Brotherhood of Electrical Workers, Local 595 (Dublin)",
+                  "relationship": "alternate_spelling"
+                },
+                {
+                  "name": "Electrical Workers Local 595",
+                  "relationship": "alternate_spelling"
+                }
+              ]
+            },
+            {
+              "name": "IBEW Local 617",
+              "relationship": "chapter",
+              "children": [
+                {
+                  "name": "International Brotherhood of Electrical Workers Local 617 (San Mateo)",
+                  "relationship": "alternate_spelling"
+                },
+                {
+                  "name": "International Brotherhood of Electrical Workers Local 617",
+                  "relationship": "alternate_spelling"
+                }
+              ]
+            },
+            {
+              "name": "IBEW Local 639",
+              "relationship": "chapter",
+              "children": [
+                {
+                  "name": "International Brotherhood of Electrical Workers Local 639",
+                  "relationship": "alternate_spelling"
+                },
+                {
+                  "name": "International Brotherhood of Electrical Workers, Local 639 (San Luis Obispo)",
+                  "relationship": "alternate_spelling"
+                },
+                {
+                  "name": "Electrical Workers, Local 639",
+                  "relationship": "alternate_spelling"
+                }
+              ]
+            },
+            {
+              "name": "IBEW Local 659",
+              "relationship": "chapter",
+              "children": [
+                {
+                  "name": "International Brotherhood of Electrical Workers, Local 659",
+                  "relationship": "alternate_spelling"
+                }
+              ]
+            },
+            {
+              "name": "IBEW Local 684",
+              "relationship": "chapter",
+              "children": [
+                {
+                  "name": "International Brotherhood of Electrical Workers, Local 684 (Modesto)",
+                  "relationship": "alternate_spelling"
+                },
+                {
+                  "name": "International Brotherhood of Electrical Workers, Local 684",
+                  "relationship": "alternate_spelling"
+                }
+              ]
+            },
+            {
+              "name": "IBEW Local 952",
+              "relationship": "chapter",
+              "children": [
+                {
+                  "name": "International Brotherhood of Electrical Workers Local 952",
+                  "relationship": "alternate_spelling"
+                },
+                {
+                  "name": "International Brotherhood of Electrical Workers, Local 952 (Ventura)",
+                  "relationship": "alternate_spelling"
+                },
+                {
+                  "name": "Brotherhood of Electrical Workers Local 952",
+                  "relationship": "alternate_spelling"
+                }
+              ]
+            },
+            {
+              "name": "IBEW Local 1245",
+              "relationship": "chapter",
+              "children": [
+                {
+                  "name": "International Brotherhood of Electrical Workers Local 1245",
+                  "relationship": "alternate_spelling"
+                }
+              ]
+            },
+            {
+              "name": "IBEW Local 2295",
+              "relationship": "chapter",
+              "children": [
+                {
+                  "name": "International Brotherhood of Electrical Workers Local 2295",
+                  "relationship": "alternate_spelling"
+                }
+              ]
+            },
+            {
+              "name": "IBEW Local 2376",
+              "relationship": "chapter",
+              "children": [
+                {
+                  "name": "International Brotherhood of Electrical Workers, Local 2376",
+                  "relationship": "alternate_spelling"
+                }
+              ]
+            }
+          ]
         },
         {
-          "name": "International Brotherhood of Electrical Workers (IBEW), Local 11",
-          "relationship": "chapter"
+          "name": "Electrical Workers",
+          "relationship": "alternate_spelling"
         },
         {
-          "name": "Local 5 International Brotherhood of Electrical Workers (IBEW)",
-          "relationship": "chapter"
+          "name": "Electrical Workers Union, IBEW",
+          "relationship": "alternate_spelling"
         },
         {
-          "name": "International Brotherhood of Electrical Workers (IBEW Local 569)",
-          "relationship": "chapter"
+          "name": "Brotherhood of Electrical Workers",
+          "relationship": "alternate_spelling"
         },
         {
-          "name": "International Brotherhood of Electrical Workers (IBEW Local 47)",
-          "relationship": "chapter"
+          "name": "International Brotherhood Electrical Workers",
+          "relationship": "alternate_spelling"
         },
         {
-          "name": "International Brotherhood of Electrical Workers (IBEW Local 465)",
-          "relationship": "chapter"
+          "name": "International Brothers of Electrical Workers",
+          "relationship": "alternate_spelling"
         },
         {
-          "name": "IBEW Local 11",
-          "relationship": "chapter"
+          "name": "IBEW Broadcast, Television, Recording Engineers",
+          "relationship": "alternate_spelling"
         },
         {
-          "name": "IBEW Local 1245",
-          "relationship": "chapter"
-        },
-        {
-          "name": "IBEW Local 302",
-          "relationship": "chapter"
-        },
-        {
-          "name": "IBEW Local 617",
-          "relationship": "chapter"
-        },
-        {
-          "name": "IBEW Local 18",
-          "relationship": "chapter"
-        },
-        {
-          "name": "IBEW Local 595",
-          "relationship": "chapter"
-        },
-        {
-          "name": "IBEW Local 40",
-          "relationship": "chapter"
-        },
-        {
-          "name": "IBEW Local 428",
-          "relationship": "chapter"
-        },
-        {
-          "name": "IBEW Local 441",
-          "relationship": "chapter"
-        },
-        {
-          "name": "IBEW Local 440",
-          "relationship": "chapter"
-        },
-        {
-          "name": "IBEW Local 332",
-          "relationship": "chapter"
-        },
-        {
-          "name": "IBEW, Local 340",
-          "relationship": "chapter"
-        },
-        {
-          "name": "IBEW, Local 551",
-          "relationship": "chapter"
-        },
-        {
-          "name": "IBEW, Local 47",
-          "relationship": "chapter"
-        },
-        {
-          "name": "IBEW Local 569",
-          "relationship": "chapter"
-        },
-        {
-          "name": "IBEW Local 413",
-          "relationship": "chapter"
-        },
-        {
-          "name": "IBEW Local 234",
-          "relationship": "chapter"
-        },
-        {
-          "name": "IBEW Local 569 San Diego",
-          "relationship": "chapter"
-        },
-        {
-          "name": "IBEW Local 6",
-          "relationship": "chapter"
-        },
-        {
-          "name": "IBEW Local 684",
-          "relationship": "chapter"
-        },
-        {
-          "name": "IBEW Local 18 Health and Welfare Trust",
-          "relationship": "chapter"
-        },
-        {
-          "name": "IBEW Local 952",
-          "relationship": "chapter"
-        },
-        {
-          "name": "IBEW, Local 465",
-          "relationship": "chapter"
-        },
-        {
-          "name": "IBEW, Local 11 and 40",
-          "relationship": "chapter"
-        },
-        {
-          "name": "IBEW Local 340 (Sacramento)",
-          "relationship": "chapter"
-        },
-        {
-          "name": "IBEW Local 45",
-          "relationship": "chapter"
-        },
-        {
-          "name": "IBEW Local 180",
-          "relationship": "chapter"
+          "name": "INTERNATIONAL BROTHERHOOD OF ELECTRICAL WORKERS: LOCAL 11, LOCAL 47, LOCAL 617,",
+          "relationship": "alternate_spelling"
         }
       ]
-    },
-    {
-      "canonical": "INTERNATIONAL BROTHERHOOD OF ELECTRICAL WORKERS LOCAL UNION 569",
-      "status": "active"
-    },
-    {
-      "canonical": "INTERNATIONAL BROTHERHOOD OF ELECTRICAL WORKERS: LOCAL 11, LOCAL 47, LOCAL 617,",
-      "status": "active"
     },
     {
       "canonical": "International Brotherhood of Ironworkers",
@@ -89358,34 +89053,6 @@
       "children": [
         {
           "name": "International Brotherhood of Ironworkers Local 433",
-          "relationship": "chapter"
-        }
-      ]
-    },
-    {
-      "canonical": "International Brotherhood of Teamsters",
-      "status": "active",
-      "children": [
-        {
-          "name": "International Brotherhood of Teamsters, Local 399",
-          "relationship": "chapter"
-        },
-        {
-          "name": "International Brotherhood of Teamsters Local 601",
-          "relationship": "chapter"
-        },
-        {
-          "name": "International Brotherhood of Teamsters, Local 630",
-          "relationship": "chapter"
-        }
-      ]
-    },
-    {
-      "canonical": "International Brothers of Electrical Workers",
-      "status": "active",
-      "children": [
-        {
-          "name": "International Brothers Of Electrical Workers Local 569",
           "relationship": "chapter"
         }
       ]
@@ -91438,10 +91105,6 @@
       ]
     },
     {
-      "canonical": "JIM GILLIO, SAN BENITO COUNTY SUPERVISOR, DISTRICT 4",
-      "status": "active"
-    },
-    {
       "canonical": "JMA Ventures",
       "children": [
         {
@@ -92557,10 +92220,6 @@
       "status": "active"
     },
     {
-      "canonical": "KATHLEEN J. DEROSA, CATHEDRAL CITY MAYOR",
-      "status": "active"
-    },
-    {
       "canonical": "KAWEAH DELTA STREET MEDICINE PROGRAM",
       "status": "active"
     },
@@ -92956,20 +92615,21 @@
       ]
     },
     {
-      "canonical": "Kimberly Clark",
-      "children": [
-        {
-          "name": "Kimberly Clark Corporation",
-          "relationship": "alternate_spelling"
-        }
-      ]
-    },
-    {
       "canonical": "Kimberly-Clark",
       "children": [
         {
           "name": "Kimberly-clark Corporation",
           "relationship": "alternate_spelling"
+        },
+        {
+          "name": "Kimberly Clark",
+          "relationship": "alternate_spelling",
+          "children": [
+            {
+              "name": "Kimberly Clark Corporation",
+              "relationship": "alternate_spelling"
+            }
+          ]
         }
       ]
     },
@@ -97506,10 +97166,6 @@
       ]
     },
     {
-      "canonical": "LOCAL 684, AND LOCAL 1245",
-      "status": "active"
-    },
-    {
       "canonical": "Local 724 Professional Musicians",
       "status": "active",
       "children": [
@@ -97873,16 +97529,6 @@
       ]
     },
     {
-      "canonical": "LOS",
-      "status": "active",
-      "children": [
-        {
-          "name": "THE LOS",
-          "relationship": "alternate_spelling"
-        }
-      ]
-    },
-    {
       "canonical": "LOS ALAMITOS",
       "status": "active"
     },
@@ -98129,10 +97775,6 @@
           "relationship": "alternate_spelling"
         }
       ]
-    },
-    {
-      "canonical": "LOS ANGELES CITY COUNCIL MEMBER, MITCH O'FARRELL",
-      "status": "active"
     },
     {
       "canonical": "LOS ANGELES CITY COUNCIL PRESIDENT HERB J. WESSON, JR.",
@@ -98644,10 +98286,6 @@
       ]
     },
     {
-      "canonical": "LOS ANGELES COUNTY SUPERVISOR MICHAEL ANTONOVICH",
-      "status": "active"
-    },
-    {
       "canonical": "LOS ANGELES COUNTY YOUNG DEMOCRATS",
       "status": "active"
     },
@@ -98871,10 +98509,6 @@
           "relationship": "alternate_spelling"
         }
       ]
-    },
-    {
-      "canonical": "LOS ANGELES MAYOR ERIC GARCETTI",
-      "status": "active"
     },
     {
       "canonical": "LOS ANGELES MEMORIAL COLISEUM COMMISSION",
@@ -99233,19 +98867,6 @@
       "status": "active"
     },
     {
-      "canonical": "Louisiana Pacific",
-      "children": [
-        {
-          "name": "Louisiana Pacific Corporation",
-          "relationship": "alternate_spelling"
-        },
-        {
-          "name": "Louisiana Pacific Company",
-          "relationship": "alternate_spelling"
-        }
-      ]
-    },
-    {
       "canonical": "Louisiana-Pacific",
       "children": [
         {
@@ -99259,6 +98880,20 @@
         {
           "name": "Louisiana-Pacific Corporation",
           "relationship": "alternate_spelling"
+        },
+        {
+          "name": "Louisiana Pacific",
+          "relationship": "alternate_spelling",
+          "children": [
+            {
+              "name": "Louisiana Pacific Corporation",
+              "relationship": "alternate_spelling"
+            },
+            {
+              "name": "Louisiana Pacific Company",
+              "relationship": "alternate_spelling"
+            }
+          ]
         }
       ]
     },
@@ -101309,18 +100944,6 @@
       "status": "active"
     },
     {
-      "canonical": "MAYOR OF LOS ANGELES, ERIC GARCETTI",
-      "status": "active"
-    },
-    {
-      "canonical": "MAYOR OF SACRAMENTO, DARRELL STEINBERG",
-      "status": "active"
-    },
-    {
-      "canonical": "MAYOR OF SAN JOSE SAM LICCARDO",
-      "status": "active"
-    },
-    {
       "canonical": "MAYOR PRO TEM JON HARRISON, CITY OF REDLANDS",
       "status": "active"
     },
@@ -102937,16 +102560,6 @@
       ]
     },
     {
-      "canonical": "MEXICAN AMERICAN POLITICAL ASSOCIATION",
-      "status": "active",
-      "children": [
-        {
-          "name": "MEXICAN AMERICAN POLITICAL ASSOCIATION (MAPA)",
-          "relationship": "alternate_spelling"
-        }
-      ]
-    },
-    {
       "canonical": "MEXICAN CANCER SOCIETY",
       "status": "active",
       "children": [
@@ -102963,6 +102576,16 @@
         {
           "name": "THE MEXICAN-AMERICAN POLITICAL ASSOCIATION",
           "relationship": "alternate_spelling"
+        },
+        {
+          "name": "MEXICAN AMERICAN POLITICAL ASSOCIATION",
+          "relationship": "alternate_spelling",
+          "children": [
+            {
+              "name": "MEXICAN AMERICAN POLITICAL ASSOCIATION (MAPA)",
+              "relationship": "alternate_spelling"
+            }
+          ]
         }
       ]
     },
@@ -103959,10 +103582,6 @@
       ]
     },
     {
-      "canonical": "MODESTO CITY COUNCIL MEMBER TONY MADRIGAL",
-      "status": "active"
-    },
-    {
       "canonical": "Modesto Executive Electric",
       "status": "active",
       "children": [
@@ -104312,10 +103931,6 @@
           "relationship": "alternate_spelling"
         }
       ]
-    },
-    {
-      "canonical": "MONTEREY COUNTY SUPERVISOR JANE PARKER",
-      "status": "active"
     },
     {
       "canonical": "Monterey Fish Company",
@@ -109063,22 +108678,22 @@
       ]
     },
     {
-      "canonical": "NATIONAL CONSUMER VOICE FOR QUALITY LONG TERM CARE",
-      "status": "active",
-      "children": [
-        {
-          "name": "THE NATIONAL CONSUMER VOICE FOR QUALITY LONG TERM CARE",
-          "relationship": "alternate_spelling"
-        }
-      ]
-    },
-    {
       "canonical": "NATIONAL CONSUMER VOICE FOR QUALITY LONG-TERM CARE",
       "status": "active",
       "children": [
         {
           "name": "THE NATIONAL CONSUMER VOICE FOR QUALITY LONG-TERM CARE",
           "relationship": "alternate_spelling"
+        },
+        {
+          "name": "NATIONAL CONSUMER VOICE FOR QUALITY LONG TERM CARE",
+          "relationship": "alternate_spelling",
+          "children": [
+            {
+              "name": "THE NATIONAL CONSUMER VOICE FOR QUALITY LONG TERM CARE",
+              "relationship": "alternate_spelling"
+            }
+          ]
         }
       ]
     },
@@ -110446,22 +110061,22 @@
       ]
     },
     {
-      "canonical": "NATIONAL TAX LIMITATION COMMITTEE",
-      "status": "active",
-      "children": [
-        {
-          "name": "THE NATIONAL TAX LIMITATION COMMITTEE",
-          "relationship": "alternate_spelling"
-        }
-      ]
-    },
-    {
       "canonical": "NATIONAL TAX-LIMITATION COMMITTEE",
       "status": "active",
       "children": [
         {
           "name": "THE NATIONAL TAX-LIMITATION COMMITTEE",
           "relationship": "alternate_spelling"
+        },
+        {
+          "name": "NATIONAL TAX LIMITATION COMMITTEE",
+          "relationship": "alternate_spelling",
+          "children": [
+            {
+              "name": "THE NATIONAL TAX LIMITATION COMMITTEE",
+              "relationship": "alternate_spelling"
+            }
+          ]
         }
       ]
     },
@@ -113410,10 +113025,6 @@
       "status": "active"
     },
     {
-      "canonical": "OAKLAND MAYOR LIBBY SCHAAF",
-      "status": "active"
-    },
-    {
       "canonical": "Oakland Museum",
       "status": "active",
       "children": [
@@ -113778,178 +113389,12 @@
       ]
     },
     {
-      "canonical": "of America",
-      "status": "active",
-      "children": [
-        {
-          "name": "of America, Inc",
-          "relationship": "alternate_spelling"
-        },
-        {
-          "name": "of America Local 9199",
-          "relationship": "chapter"
-        }
-      ]
-    },
-    {
       "canonical": "Of America (CWA)",
       "status": "active",
       "children": [
         {
           "name": "Of America (CWA), Local 9119",
           "relationship": "chapter"
-        }
-      ]
-    },
-    {
-      "canonical": "of CA",
-      "status": "active",
-      "children": [
-        {
-          "name": "of CA, Inc",
-          "relationship": "alternate_spelling"
-        }
-      ]
-    },
-    {
-      "canonical": "of California",
-      "status": "active",
-      "children": [
-        {
-          "name": "of California, Inc",
-          "relationship": "alternate_spelling"
-        },
-        {
-          "name": "of California of California",
-          "relationship": "chapter"
-        }
-      ]
-    },
-    {
-      "canonical": "of County Veterans Service Officers",
-      "status": "active",
-      "children": [
-        {
-          "name": "of County Veterans Service Officers, Inc",
-          "relationship": "alternate_spelling"
-        }
-      ]
-    },
-    {
-      "canonical": "of Engineering Companies",
-      "status": "active",
-      "children": [
-        {
-          "name": "of Engineering Companies of California",
-          "relationship": "chapter"
-        }
-      ]
-    },
-    {
-      "canonical": "of Justice of the State Bar",
-      "status": "active",
-      "children": [
-        {
-          "name": "of Justice of the State Bar of CA",
-          "relationship": "chapter"
-        }
-      ]
-    },
-    {
-      "canonical": "of Ruth",
-      "status": "active",
-      "children": [
-        {
-          "name": "of Ruth, Inc",
-          "relationship": "alternate_spelling"
-        }
-      ]
-    },
-    {
-      "canonical": "of Sacramento",
-      "status": "active",
-      "children": [
-        {
-          "name": "of Sacramento, Inc",
-          "relationship": "alternate_spelling"
-        }
-      ]
-    },
-    {
-      "canonical": "of San Diego County",
-      "status": "active",
-      "children": [
-        {
-          "name": "of San Diego County, Inc",
-          "relationship": "alternate_spelling"
-        }
-      ]
-    },
-    {
-      "canonical": "of San Francisco",
-      "status": "active",
-      "children": [
-        {
-          "name": "of San Francisco, Inc",
-          "relationship": "alternate_spelling"
-        }
-      ]
-    },
-    {
-      "canonical": "of Southern",
-      "status": "active",
-      "children": [
-        {
-          "name": "of Southern California",
-          "relationship": "chapter"
-        },
-        {
-          "name": "of Southern CA",
-          "relationship": "chapter"
-        }
-      ]
-    },
-    {
-      "canonical": "of Teamsters",
-      "status": "active",
-      "children": [
-        {
-          "name": "of Teamsters Local 63",
-          "relationship": "chapter"
-        }
-      ]
-    },
-    {
-      "canonical": "of the State Bar",
-      "status": "active",
-      "children": [
-        {
-          "name": "of the State Bar of California",
-          "relationship": "chapter"
-        }
-      ]
-    },
-    {
-      "canonical": "of the United States and Canada",
-      "status": "active",
-      "children": [
-        {
-          "name": "of the United States and Canada, Local 78",
-          "relationship": "chapter"
-        }
-      ]
-    },
-    {
-      "canonical": "of University Women",
-      "status": "active",
-      "children": [
-        {
-          "name": "of University Women, California",
-          "relationship": "chapter"
-        },
-        {
-          "name": "of University Women-California",
-          "relationship": "alternate_spelling"
         }
       ]
     },
@@ -117452,10 +116897,6 @@
       ]
     },
     {
-      "canonical": "PALO ALTO MAYOR ADRIAN FINE",
-      "status": "active"
-    },
-    {
       "canonical": "PALO MOBILE ESTATES",
       "status": "active"
     },
@@ -117685,16 +117126,6 @@
       "children": [
         {
           "name": "THE PARENT",
-          "relationship": "alternate_spelling"
-        }
-      ]
-    },
-    {
-      "canonical": "PARENT COMPANY",
-      "status": "active",
-      "children": [
-        {
-          "name": "THE PARENT COMPANY",
           "relationship": "alternate_spelling"
         }
       ]
@@ -118011,20 +117442,6 @@
     {
       "canonical": "PARTNERS IN HOUSING",
       "status": "active"
-    },
-    {
-      "canonical": "Partnership",
-      "status": "active",
-      "children": [
-        {
-          "name": "Partnership, Inc",
-          "relationship": "alternate_spelling"
-        },
-        {
-          "name": "California Partnership (120 CBO's)",
-          "relationship": "chapter"
-        }
-      ]
     },
     {
       "canonical": "PARTNERSHIP FOR CHILDREN",
@@ -121726,24 +121143,6 @@
       ]
     },
     {
-      "canonical": "Plumbing Heating Cooling Contractors Association",
-      "status": "active",
-      "children": [
-        {
-          "name": "Plumbing - Heating - Cooling Contractors Association of California",
-          "relationship": "alternate_spelling"
-        },
-        {
-          "name": "Plumbing- Heating-Cooling Contractors Association of California",
-          "relationship": "alternate_spelling"
-        },
-        {
-          "name": "Plumbing-Heating Cooling Contractors Association of California",
-          "relationship": "alternate_spelling"
-        }
-      ]
-    },
-    {
       "canonical": "Plumbing, Heating and Cooling Contractors",
       "status": "active",
       "children": [
@@ -121768,34 +121167,52 @@
       ]
     },
     {
-      "canonical": "Plumbing-Heating-Cooling Contractors",
-      "status": "active",
-      "children": [
-        {
-          "name": "Plumbing-Heating-Cooling Contractors of California",
-          "relationship": "chapter"
-        },
-        {
-          "name": "Plumbing-Heating-Cooling Contractors of CA",
-          "relationship": "chapter"
-        },
-        {
-          "name": "Plumbing Heating Cooling Contractors of California",
-          "relationship": "alternate_spelling"
-        },
-        {
-          "name": "Plumbing Heating Cooling Contractors of CA",
-          "relationship": "alternate_spelling"
-        }
-      ]
-    },
-    {
       "canonical": "Plumbing-Heating-Cooling Contractors Association",
       "status": "active",
       "children": [
         {
           "name": "Plumbing-Heating-Cooling Contractors Association of CA",
           "relationship": "chapter"
+        },
+        {
+          "name": "Plumbing Heating Cooling Contractors Association",
+          "relationship": "alternate_spelling",
+          "children": [
+            {
+              "name": "Plumbing - Heating - Cooling Contractors Association of California",
+              "relationship": "alternate_spelling"
+            },
+            {
+              "name": "Plumbing- Heating-Cooling Contractors Association of California",
+              "relationship": "alternate_spelling"
+            },
+            {
+              "name": "Plumbing-Heating Cooling Contractors Association of California",
+              "relationship": "alternate_spelling"
+            }
+          ]
+        },
+        {
+          "name": "Plumbing-Heating-Cooling Contractors",
+          "relationship": "alternate_spelling",
+          "children": [
+            {
+              "name": "Plumbing-Heating-Cooling Contractors of California",
+              "relationship": "chapter"
+            },
+            {
+              "name": "Plumbing-Heating-Cooling Contractors of CA",
+              "relationship": "chapter"
+            },
+            {
+              "name": "Plumbing Heating Cooling Contractors of California",
+              "relationship": "alternate_spelling"
+            },
+            {
+              "name": "Plumbing Heating Cooling Contractors of CA",
+              "relationship": "alternate_spelling"
+            }
+          ]
         }
       ]
     },
@@ -124986,16 +124403,6 @@
       ]
     },
     {
-      "canonical": "Professional and Technical Teamsters Union",
-      "status": "active",
-      "children": [
-        {
-          "name": "Professional and Technical Teamsters Union Local 36 San Diego County",
-          "relationship": "chapter"
-        }
-      ]
-    },
-    {
       "canonical": "Professional and Technicla Engineers, IFPTE",
       "status": "active",
       "children": [
@@ -127745,10 +127152,6 @@
       ]
     },
     {
-      "canonical": "REDWOOD CITY VICE MAYOR SHELLY MASUR",
-      "status": "active"
-    },
-    {
       "canonical": "REDWOOD COAST CONNECT",
       "status": "active",
       "children": [
@@ -130116,10 +129519,6 @@
       ]
     },
     {
-      "canonical": "ROHNERT PARK VICE MAYOR JACK MACKENZIE",
-      "status": "active"
-    },
-    {
       "canonical": "Rolf Jensen & Associates",
       "status": "active",
       "children": [
@@ -131744,16 +131143,6 @@
       ]
     },
     {
-      "canonical": "SAN",
-      "status": "active",
-      "children": [
-        {
-          "name": "THE SAN",
-          "relationship": "alternate_spelling"
-        }
-      ]
-    },
-    {
       "canonical": "San Angeles Saluki Club",
       "status": "active",
       "children": [
@@ -133097,10 +132486,6 @@
       ]
     },
     {
-      "canonical": "SAN FRANCISCO SUPERVISOR MALIA COHEN",
-      "status": "active"
-    },
-    {
       "canonical": "SAN FRANCISCO SYMPHONY",
       "status": "active",
       "children": [
@@ -133275,10 +132660,6 @@
           "relationship": "alternate_spelling"
         }
       ]
-    },
-    {
-      "canonical": "SAN JOAQUIN COUNTY SUPERVISOR MIGUEL VILLAPUDUA",
-      "status": "active"
     },
     {
       "canonical": "San Joaquin Facilities Management",
@@ -133586,16 +132967,16 @@
         {
           "name": "San Mateo Adult School Federation of Teachers - CFT Local 4681",
           "relationship": "chapter"
-        }
-      ]
-    },
-    {
-      "canonical": "San Mateo Adult School Federation of Teachers-CFT",
-      "status": "active",
-      "children": [
+        },
         {
-          "name": "San Mateo Adult School Federation of Teachers-CFT Local 4681",
-          "relationship": "chapter"
+          "name": "San Mateo Adult School Federation of Teachers-CFT",
+          "relationship": "alternate_spelling",
+          "children": [
+            {
+              "name": "San Mateo Adult School Federation of Teachers-CFT Local 4681",
+              "relationship": "chapter"
+            }
+          ]
         }
       ]
     },
@@ -133675,18 +133056,6 @@
     },
     {
       "canonical": "SAN MATEO COUNTY FARM BUREAU",
-      "status": "active"
-    },
-    {
-      "canonical": "SAN MATEO COUNTY SUPERVISOR DAVID CANEPA",
-      "status": "active"
-    },
-    {
-      "canonical": "SAN MATEO COUNTY SUPERVISOR DAVID J. CANEPA",
-      "status": "active"
-    },
-    {
-      "canonical": "SAN MATEO COUNTY SUPERVISOR WARREN SLOCUM",
       "status": "active"
     },
     {
@@ -134934,16 +134303,6 @@
     {
       "canonical": "SCOTT RIVER WATERSHED COUNCIL",
       "status": "active"
-    },
-    {
-      "canonical": "SCOTT WIENER, SUPERVISOR - DISTRICT 8, SAN FRANCISCO",
-      "status": "active",
-      "children": [
-        {
-          "name": "SCOTT WEINER, SUPERVISOR - DISTRICT 8, SAN FRANCISCO",
-          "relationship": "alternate_spelling"
-        }
-      ]
     },
     {
       "canonical": "SCOTTISH DEERHOUND CLUB OF AMERICA",
@@ -137579,20 +136938,21 @@
       "status": "active"
     },
     {
-      "canonical": "Sherwin Williams",
-      "children": [
-        {
-          "name": "Sherwin Williams Company",
-          "relationship": "alternate_spelling"
-        }
-      ]
-    },
-    {
       "canonical": "Sherwin-Williams",
       "children": [
         {
           "name": "Sherwin-Williams Company",
           "relationship": "alternate_spelling"
+        },
+        {
+          "name": "Sherwin Williams",
+          "relationship": "alternate_spelling",
+          "children": [
+            {
+              "name": "Sherwin Williams Company",
+              "relationship": "alternate_spelling"
+            }
+          ]
         }
       ]
     },
@@ -140143,10 +139503,6 @@
           "relationship": "alternate_spelling"
         }
       ]
-    },
-    {
-      "canonical": "SOLANO COUNTY SUPERVISOR JAMES P. SPERING",
-      "status": "active"
     },
     {
       "canonical": "SOLANO COUNTY TAXPAYERS ASSOCIATION",
@@ -143612,10 +142968,6 @@
       ]
     },
     {
-      "canonical": "STATE BOARD OF EQUALIZATION CHAIRWOMAN FIONA MA",
-      "status": "active"
-    },
-    {
       "canonical": "State Building & Construction Trade Council",
       "status": "active",
       "children": [
@@ -144321,24 +143673,6 @@
           "relationship": "chapter"
         }
       ]
-    },
-    {
-      "canonical": "STATE TREASURER BILL LOCKYER",
-      "status": "active",
-      "children": [
-        {
-          "name": "California State Treasurer - Bill Lockyer",
-          "relationship": "alternate_spelling"
-        }
-      ]
-    },
-    {
-      "canonical": "STATE TREASURER FIONA MA",
-      "status": "active"
-    },
-    {
-      "canonical": "STATE TREASURER JOHN CHIANG",
-      "status": "active"
     },
     {
       "canonical": "State Treasurer Phil Angelides",
@@ -145298,16 +144632,6 @@
       ]
     },
     {
-      "canonical": "Studio Transportation Drivers Teamsters",
-      "status": "active",
-      "children": [
-        {
-          "name": "Studio Transportation Drivers Teamsters Local 399",
-          "relationship": "chapter"
-        }
-      ]
-    },
-    {
       "canonical": "Studio Utility Employees",
       "status": "active",
       "children": [
@@ -145991,15 +145315,7 @@
       "status": "active"
     },
     {
-      "canonical": "SUPERVISOR LETICIA PEREZ, KERN COUNTY",
-      "status": "active"
-    },
-    {
       "canonical": "SUPERVISOR LOUIS R. CALCAGNO, 2ND DISTRICT, COUNTY OF MONTEREY",
-      "status": "active"
-    },
-    {
-      "canonical": "SUPERVISOR ZACH FRIEND, SANTA CRUZ COUNTY",
       "status": "active"
     },
     {
@@ -147015,276 +146331,6 @@
     {
       "canonical": "TEAM JUSTICE",
       "status": "active"
-    },
-    {
-      "canonical": "Teamster",
-      "status": "active",
-      "children": [
-        {
-          "name": "Teamster Local 399",
-          "relationship": "chapter"
-        }
-      ]
-    },
-    {
-      "canonical": "Teamster Union",
-      "status": "active",
-      "children": [
-        {
-          "name": "Teamster Union Local 36",
-          "relationship": "chapter"
-        }
-      ]
-    },
-    {
-      "canonical": "Teamster's",
-      "status": "active",
-      "children": [
-        {
-          "name": "THE TEAMSTERS",
-          "relationship": "alternate_spelling"
-        },
-        {
-          "name": "Teamsters California",
-          "relationship": "chapter"
-        },
-        {
-          "name": "California Teamsters Public Affairs Council (Teamsters)",
-          "relationship": "chapter"
-        },
-        {
-          "name": "Teamsters Local 399",
-          "relationship": "chapter"
-        },
-        {
-          "name": "Teamsters Local 856",
-          "relationship": "chapter"
-        },
-        {
-          "name": "Teamsters Local 481",
-          "relationship": "chapter"
-        },
-        {
-          "name": "Teamsters Local 986",
-          "relationship": "chapter"
-        },
-        {
-          "name": "Teamsters Local 665",
-          "relationship": "chapter"
-        },
-        {
-          "name": "Teamsters Local 572",
-          "relationship": "chapter"
-        },
-        {
-          "name": "Teamster's Local 396",
-          "relationship": "chapter"
-        },
-        {
-          "name": "Teamsters Local 517",
-          "relationship": "chapter"
-        },
-        {
-          "name": "Teamsters Local 890",
-          "relationship": "chapter"
-        },
-        {
-          "name": "Teamsters Local 853",
-          "relationship": "chapter"
-        },
-        {
-          "name": "Teamsters Local 630",
-          "relationship": "chapter"
-        },
-        {
-          "name": "Teamsters Local 1932",
-          "relationship": "chapter"
-        },
-        {
-          "name": "Teamsters Local 948",
-          "relationship": "chapter"
-        },
-        {
-          "name": "Teamsters Local 350",
-          "relationship": "chapter"
-        },
-        {
-          "name": "Teamsters Local 2010",
-          "relationship": "chapter"
-        },
-        {
-          "name": "Teamsters Local 166",
-          "relationship": "chapter"
-        },
-        {
-          "name": "Teamsters Local 386",
-          "relationship": "chapter"
-        },
-        {
-          "name": "Teamsters Local 63,137, 150, 315, 350, 386, 396, 431, 517, 542, 856, 890, UNITE HERE",
-          "relationship": "chapter"
-        },
-        {
-          "name": "Teamsters Local 912, Watsonville",
-          "relationship": "chapter"
-        },
-        {
-          "name": "Teamsters Local 495",
-          "relationship": "chapter"
-        },
-        {
-          "name": "Teamsters Local 484",
-          "relationship": "chapter"
-        },
-        {
-          "name": "Teamsters Local 399 - Studio Transportation Drivers",
-          "relationship": "chapter"
-        },
-        {
-          "name": "Teamsters Local 315",
-          "relationship": "chapter"
-        },
-        {
-          "name": "Teamsters Local 137",
-          "relationship": "chapter"
-        },
-        {
-          "name": "Teamsters Local 542",
-          "relationship": "chapter"
-        },
-        {
-          "name": "Teamsters Local 63",
-          "relationship": "chapter"
-        },
-        {
-          "name": "Teamsters Local 150",
-          "relationship": "chapter"
-        },
-        {
-          "name": "Teamsters Local 36",
-          "relationship": "chapter"
-        },
-        {
-          "name": "Teamsters Local 396, AFL-CIO",
-          "relationship": "chapter"
-        },
-        {
-          "name": "Teamsters Local 70",
-          "relationship": "chapter"
-        },
-        {
-          "name": "Teamsters Local 85",
-          "relationship": "chapter"
-        },
-        {
-          "name": "Teamsters Local 952",
-          "relationship": "chapter"
-        },
-        {
-          "name": "Teamsters Local 228, 396, 601, 683, 853",
-          "relationship": "chapter"
-        },
-        {
-          "name": "Teamsters Local 36, 350, 386, 517, 572, 601, 890, 896",
-          "relationship": "chapter"
-        },
-        {
-          "name": "Teamsters Local 431",
-          "relationship": "chapter"
-        },
-        {
-          "name": "Teamsters Local 911",
-          "relationship": "chapter"
-        },
-        {
-          "name": "Teamsters, Local 601",
-          "relationship": "chapter"
-        },
-        {
-          "name": "Teamsters, Local 578",
-          "relationship": "chapter"
-        },
-        {
-          "name": "Teamsters, Local 490",
-          "relationship": "chapter"
-        },
-        {
-          "name": "Teamsters, Local 439",
-          "relationship": "chapter"
-        },
-        {
-          "name": "Teamsters, Local 848, Division 56",
-          "relationship": "chapter"
-        },
-        {
-          "name": "Teamsters, Local 481, Local 853",
-          "relationship": "chapter"
-        },
-        {
-          "name": "Teamsters, Local 350, 431 and 495",
-          "relationship": "chapter"
-        }
-      ]
-    },
-    {
-      "canonical": "Teamsters Joint Council 42 Teamsters",
-      "status": "active",
-      "children": [
-        {
-          "name": "Teamsters Joint Council 42 Teamsters Local 986",
-          "relationship": "chapter"
-        }
-      ]
-    },
-    {
-      "canonical": "Teamsters Local Union no. 572, Local no. 481",
-      "status": "active",
-      "children": [
-        {
-          "name": "Teamsters Local Union no. 572, Local no. 481, Local 853, Local 601",
-          "relationship": "chapter"
-        },
-        {
-          "name": "Teamsters Local Union no. 572, Local no. 481, Local 853, Local",
-          "relationship": "chapter"
-        }
-      ]
-    },
-    {
-      "canonical": "TEAMSTERS UNION",
-      "status": "active",
-      "children": [
-        {
-          "name": "The Teamsters' Union",
-          "relationship": "alternate_spelling"
-        },
-        {
-          "name": "California Teamsters Union",
-          "relationship": "chapter"
-        },
-        {
-          "name": "Teamsters Union Local 601",
-          "relationship": "chapter"
-        },
-        {
-          "name": "Teamsters Union Local 890",
-          "relationship": "chapter"
-        },
-        {
-          "name": "Teamsters Union Local 856",
-          "relationship": "chapter"
-        }
-      ]
-    },
-    {
-      "canonical": "Teamsters Warehouse Union",
-      "status": "active",
-      "children": [
-        {
-          "name": "Teamsters Warehouse Union, Local 853, San Francisco, San",
-          "relationship": "chapter"
-        }
-      ]
     },
     {
       "canonical": "Teamsters, Warehousemen, Cannery Workers",
@@ -149286,22 +148332,22 @@
       ]
     },
     {
-      "canonical": "Transportation Communications Union / International Association of Machinists and Aerospace Workers/ Tcu/iam",
-      "status": "active",
-      "children": [
-        {
-          "name": "Transportation Communications Union / International Association of Machinists and Aerospace Workers/ Tcu/iam Local 1315",
-          "relationship": "chapter"
-        }
-      ]
-    },
-    {
       "canonical": "Transportation Communications Union / International Association of Machinists and Aerospace Workers/TCU/IAM",
       "status": "active",
       "children": [
         {
           "name": "Transportation Communications Union / International Association of Machinists and Aerospace Workers/TCU/IAM Local 1315",
           "relationship": "chapter"
+        },
+        {
+          "name": "Transportation Communications Union / International Association of Machinists and Aerospace Workers/ Tcu/iam",
+          "relationship": "alternate_spelling",
+          "children": [
+            {
+              "name": "Transportation Communications Union / International Association of Machinists and Aerospace Workers/ Tcu/iam Local 1315",
+              "relationship": "chapter"
+            }
+          ]
         }
       ]
     },
@@ -150428,16 +149474,6 @@
       ]
     },
     {
-      "canonical": "U. S. Borax",
-      "status": "active",
-      "children": [
-        {
-          "name": "U. S. Borax, Inc",
-          "relationship": "alternate_spelling"
-        }
-      ]
-    },
-    {
       "canonical": "U.A. Plumbers and Pipefitters",
       "status": "active",
       "children": [
@@ -150468,6 +149504,16 @@
         {
           "name": "U.S. Borax, Inc",
           "relationship": "alternate_spelling"
+        },
+        {
+          "name": "U. S. Borax",
+          "relationship": "alternate_spelling",
+          "children": [
+            {
+              "name": "U. S. Borax, Inc",
+              "relationship": "alternate_spelling"
+            }
+          ]
         }
       ]
     },
@@ -160945,26 +159991,6 @@
       "status": "active"
     },
     {
-      "canonical": "University Professional & Technical Employees - CWA",
-      "status": "active",
-      "children": [
-        {
-          "name": "University Professional & Technical Employees - CWA Local 9119",
-          "relationship": "chapter"
-        }
-      ]
-    },
-    {
-      "canonical": "University Professional & Technical Employees-CWA",
-      "status": "active",
-      "children": [
-        {
-          "name": "University Professional & Technical Employees-CWA Local 9119",
-          "relationship": "chapter"
-        }
-      ]
-    },
-    {
       "canonical": "University Professional and Technical Employees",
       "status": "active",
       "children": [
@@ -161017,6 +160043,36 @@
         {
           "name": "University Professional and Technical Employees, CWA Local 9199",
           "relationship": "chapter"
+        },
+        {
+          "name": "University Professional & Technical Employees - CWA",
+          "relationship": "alternate_spelling",
+          "children": [
+            {
+              "name": "University Professional & Technical Employees - CWA Local 9119",
+              "relationship": "chapter"
+            }
+          ]
+        },
+        {
+          "name": "University Professional & Technical Employees-CWA",
+          "relationship": "alternate_spelling",
+          "children": [
+            {
+              "name": "University Professional & Technical Employees-CWA Local 9119",
+              "relationship": "chapter"
+            }
+          ]
+        },
+        {
+          "name": "University Professional and Technical Employees-CWA",
+          "relationship": "alternate_spelling",
+          "children": [
+            {
+              "name": "University Professional and Technical Employees-CWA Local 9119",
+              "relationship": "chapter"
+            }
+          ]
         }
       ]
     },
@@ -161031,16 +160087,6 @@
         {
           "name": "University Professional and Technical Employees-Communications Workers of America",
           "relationship": "alternate_spelling"
-        }
-      ]
-    },
-    {
-      "canonical": "University Professional and Technical Employees-CWA",
-      "status": "active",
-      "children": [
-        {
-          "name": "University Professional and Technical Employees-CWA Local 9119",
-          "relationship": "chapter"
         }
       ]
     },
@@ -164830,16 +163876,6 @@
         {
           "name": "THE WAVERLY SCHOOL",
           "relationship": "alternate_spelling"
-        }
-      ]
-    },
-    {
-      "canonical": "Way",
-      "status": "active",
-      "children": [
-        {
-          "name": "Way of California",
-          "relationship": "chapter"
         }
       ]
     },
@@ -168697,6 +167733,522 @@
       "children": [
         {
           "name": "Zoox, INC",
+          "relationship": "alternate_spelling"
+        }
+      ]
+    },
+    {
+      "canonical": "Clorox",
+      "status": "active",
+      "children": [
+        {
+          "name": "CLOROX CO",
+          "relationship": "alternate_spelling",
+          "children": [
+            {
+              "name": "THE CLOROX CO",
+              "relationship": "alternate_spelling"
+            }
+          ]
+        },
+        {
+          "name": "CLOROX COMPANY",
+          "relationship": "alternate_spelling",
+          "children": [
+            {
+              "name": "THE CLOROX COMPANY",
+              "relationship": "alternate_spelling"
+            }
+          ]
+        },
+        {
+          "name": "CLOROX CORPORATION",
+          "relationship": "alternate_spelling",
+          "children": [
+            {
+              "name": "THE CLOROX CORPORATION",
+              "relationship": "alternate_spelling"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "canonical": "International Brotherhood of Teamsters",
+      "status": "active",
+      "children": [
+        {
+          "name": "Teamsters Joint Council 7",
+          "relationship": "chapter",
+          "children": [
+            {
+              "name": "Teamsters Local 70",
+              "relationship": "chapter",
+              "children": [
+                {
+                  "name": "Brotherhood of Teamsters, Auto Truck Drivers, Local 70 of",
+                  "relationship": "alternate_spelling"
+                }
+              ]
+            },
+            {
+              "name": "Teamsters Local 137",
+              "relationship": "chapter",
+              "children": [
+                {
+                  "name": "General Teamsters Local 137",
+                  "relationship": "alternate_spelling"
+                },
+                {
+                  "name": "General Teamsters Professional, Heath Care and Public Employees Local 137",
+                  "relationship": "alternate_spelling"
+                }
+              ]
+            },
+            {
+              "name": "Teamsters Local 150",
+              "relationship": "chapter",
+              "children": [
+                {
+                  "name": "Chauffeurs, Teamsters and Helpers Local 150",
+                  "relationship": "alternate_spelling"
+                }
+              ]
+            },
+            {
+              "name": "Teamsters Local 315",
+              "relationship": "chapter"
+            },
+            {
+              "name": "Teamsters Local 350",
+              "relationship": "chapter",
+              "children": [
+                {
+                  "name": "Teamsters, Local 350, 431 and 495",
+                  "relationship": "alternate_spelling"
+                }
+              ]
+            },
+            {
+              "name": "Teamsters Local 386",
+              "relationship": "chapter",
+              "children": [
+                {
+                  "name": "General Teamsters Local 386",
+                  "relationship": "alternate_spelling"
+                },
+                {
+                  "name": "General Teamster, Local 386",
+                  "relationship": "alternate_spelling"
+                }
+              ]
+            },
+            {
+              "name": "Teamsters Local 431",
+              "relationship": "chapter",
+              "children": [
+                {
+                  "name": "General Teamsters Local 431",
+                  "relationship": "alternate_spelling"
+                },
+                {
+                  "name": "General Teamsters Union Local 431",
+                  "relationship": "alternate_spelling"
+                }
+              ]
+            },
+            {
+              "name": "Teamsters Local 439",
+              "relationship": "chapter",
+              "children": [
+                {
+                  "name": "Teamsters, Local 439",
+                  "relationship": "alternate_spelling"
+                }
+              ]
+            },
+            {
+              "name": "Teamsters Local 517",
+              "relationship": "chapter"
+            },
+            {
+              "name": "Teamsters Local 665",
+              "relationship": "chapter"
+            },
+            {
+              "name": "Teamsters Local 853",
+              "relationship": "chapter",
+              "children": [
+                {
+                  "name": "Teamsters Warehouse Union, Local 853, San Francisco, San",
+                  "relationship": "alternate_spelling"
+                }
+              ]
+            },
+            {
+              "name": "Teamsters Local 856",
+              "relationship": "chapter",
+              "children": [
+                {
+                  "name": "Teamsters Union Local 856",
+                  "relationship": "alternate_spelling"
+                }
+              ]
+            },
+            {
+              "name": "Teamsters Local 890",
+              "relationship": "chapter",
+              "children": [
+                {
+                  "name": "Teamsters Union Local 890",
+                  "relationship": "alternate_spelling"
+                },
+                {
+                  "name": "General Teamsters Union Local 890",
+                  "relationship": "alternate_spelling"
+                },
+                {
+                  "name": "General Teamsters, Warehousemen & Helpers Union, Local 890",
+                  "relationship": "alternate_spelling"
+                },
+                {
+                  "name": "General Teamsters, Warehousemen and Helpers Union Local 890",
+                  "relationship": "alternate_spelling"
+                }
+              ]
+            },
+            {
+              "name": "Teamsters Local 912",
+              "relationship": "chapter",
+              "children": [
+                {
+                  "name": "Teamsters Local 912, Watsonville",
+                  "relationship": "alternate_spelling"
+                }
+              ]
+            },
+            {
+              "name": "Teamsters Local 948",
+              "relationship": "chapter"
+            }
+          ]
+        },
+        {
+          "name": "Teamsters Joint Council 42",
+          "relationship": "chapter",
+          "children": [
+            {
+              "name": "Teamsters Local 63",
+              "relationship": "chapter",
+              "children": [
+                {
+                  "name": "Teamsters Local 63,137, 150, 315, 350, 386, 396, 431, 517, 542, 856, 890, UNITE HERE",
+                  "relationship": "alternate_spelling"
+                }
+              ]
+            },
+            {
+              "name": "Teamsters Local 166",
+              "relationship": "chapter"
+            },
+            {
+              "name": "Teamsters Local 396",
+              "relationship": "chapter",
+              "children": [
+                {
+                  "name": "Teamster's Local 396",
+                  "relationship": "alternate_spelling"
+                },
+                {
+                  "name": "Teamsters Local 396, AFL-CIO",
+                  "relationship": "alternate_spelling"
+                }
+              ]
+            },
+            {
+              "name": "Teamsters Local 399",
+              "relationship": "chapter",
+              "children": [
+                {
+                  "name": "Teamsters Local 399 - Studio Transportation Drivers",
+                  "relationship": "alternate_spelling"
+                },
+                {
+                  "name": "Teamster Local 399",
+                  "relationship": "alternate_spelling"
+                },
+                {
+                  "name": "Studio Transportation Drivers Teamsters Local 399",
+                  "relationship": "alternate_spelling"
+                },
+                {
+                  "name": "International Brotherhood of Teamsters, Local 399",
+                  "relationship": "alternate_spelling"
+                }
+              ]
+            },
+            {
+              "name": "Teamsters Local 481",
+              "relationship": "chapter"
+            },
+            {
+              "name": "Teamsters Local 495",
+              "relationship": "chapter"
+            },
+            {
+              "name": "Teamsters Local 542",
+              "relationship": "chapter"
+            },
+            {
+              "name": "Teamsters Local 572",
+              "relationship": "chapter"
+            },
+            {
+              "name": "Teamsters Local 630",
+              "relationship": "chapter",
+              "children": [
+                {
+                  "name": "International Brotherhood of Teamsters, Local 630",
+                  "relationship": "alternate_spelling"
+                }
+              ]
+            },
+            {
+              "name": "Teamsters Local 848",
+              "relationship": "chapter",
+              "children": [
+                {
+                  "name": "Teamsters, Local 848, Division 56",
+                  "relationship": "alternate_spelling"
+                }
+              ]
+            },
+            {
+              "name": "Teamsters Local 952",
+              "relationship": "chapter"
+            },
+            {
+              "name": "Teamsters Local 986",
+              "relationship": "chapter",
+              "children": [
+                {
+                  "name": "Teamsters Joint Council 42 Teamsters Local 986",
+                  "relationship": "alternate_spelling"
+                }
+              ]
+            },
+            {
+              "name": "Teamsters Local 1932",
+              "relationship": "chapter"
+            },
+            {
+              "name": "Teamsters Local 2010",
+              "relationship": "chapter"
+            },
+            {
+              "name": "Teamsters Joint Council 42 Teamsters",
+              "relationship": "alternate_spelling"
+            }
+          ]
+        },
+        {
+          "name": "Teamsters Local 36",
+          "relationship": "chapter",
+          "children": [
+            {
+              "name": "Teamsters Local 36, 350, 386, 517, 572, 601, 890, 896",
+              "relationship": "alternate_spelling"
+            },
+            {
+              "name": "Teamster Union Local 36",
+              "relationship": "alternate_spelling"
+            },
+            {
+              "name": "Building Material, Construction, Industrial, Profession and Technical Teamster Union Local 36",
+              "relationship": "alternate_spelling"
+            },
+            {
+              "name": "Professional and Technical Teamsters Union Local 36 San Diego County",
+              "relationship": "alternate_spelling"
+            }
+          ]
+        },
+        {
+          "name": "Teamsters Local 85",
+          "relationship": "chapter"
+        },
+        {
+          "name": "Teamsters Local 228",
+          "relationship": "chapter",
+          "children": [
+            {
+              "name": "Teamsters Local 228, 396, 601, 683, 853",
+              "relationship": "alternate_spelling"
+            }
+          ]
+        },
+        {
+          "name": "Teamsters Local 484",
+          "relationship": "chapter"
+        },
+        {
+          "name": "Teamsters Local 490",
+          "relationship": "chapter",
+          "children": [
+            {
+              "name": "Teamsters, Local 490",
+              "relationship": "alternate_spelling"
+            }
+          ]
+        },
+        {
+          "name": "Teamsters Local 578",
+          "relationship": "chapter",
+          "children": [
+            {
+              "name": "Teamsters, Local 578",
+              "relationship": "alternate_spelling"
+            }
+          ]
+        },
+        {
+          "name": "Teamsters Local 601",
+          "relationship": "chapter",
+          "children": [
+            {
+              "name": "Teamsters, Local 601",
+              "relationship": "alternate_spelling"
+            },
+            {
+              "name": "Teamsters Union Local 601",
+              "relationship": "alternate_spelling"
+            },
+            {
+              "name": "International Brotherhood of Teamsters Local 601",
+              "relationship": "alternate_spelling"
+            }
+          ]
+        },
+        {
+          "name": "Teamsters Local 911",
+          "relationship": "chapter",
+          "children": [
+            {
+              "name": "California Teamsters Local 911",
+              "relationship": "alternate_spelling"
+            }
+          ]
+        },
+        {
+          "name": "THE TEAMSTERS",
+          "relationship": "alternate_spelling"
+        },
+        {
+          "name": "Teamsters California",
+          "relationship": "alternate_spelling"
+        },
+        {
+          "name": "California Teamsters Public Affairs Council (Teamsters)",
+          "relationship": "alternate_spelling"
+        },
+        {
+          "name": "Teamsters, Local 481, Local 853",
+          "relationship": "alternate_spelling"
+        },
+        {
+          "name": "Teamster's",
+          "relationship": "alternate_spelling"
+        },
+        {
+          "name": "Teamster",
+          "relationship": "alternate_spelling"
+        },
+        {
+          "name": "Teamster Union",
+          "relationship": "alternate_spelling"
+        },
+        {
+          "name": "The Teamsters' Union",
+          "relationship": "alternate_spelling"
+        },
+        {
+          "name": "California Teamsters Union",
+          "relationship": "alternate_spelling"
+        },
+        {
+          "name": "TEAMSTERS UNION",
+          "relationship": "alternate_spelling"
+        },
+        {
+          "name": "General Teamsters",
+          "relationship": "alternate_spelling"
+        },
+        {
+          "name": "General Teamster",
+          "relationship": "alternate_spelling"
+        },
+        {
+          "name": "General Teamsters Union",
+          "relationship": "alternate_spelling"
+        },
+        {
+          "name": "General Teamsters, Warehousemen & Helpers Union",
+          "relationship": "alternate_spelling"
+        },
+        {
+          "name": "General Teamsters, Warehousemen and Helpers Union",
+          "relationship": "alternate_spelling"
+        },
+        {
+          "name": "General Teamsters Professional, Heath Care and Public Employees",
+          "relationship": "alternate_spelling"
+        },
+        {
+          "name": "Brotherhood of Teamsters, Auto Truck Drivers",
+          "relationship": "alternate_spelling"
+        },
+        {
+          "name": "Building Material, Construction, Industrial, Profession and Technical Teamster Union",
+          "relationship": "alternate_spelling"
+        },
+        {
+          "name": "Chauffeurs, Teamsters and Helpers",
+          "relationship": "alternate_spelling"
+        },
+        {
+          "name": "Professional and Technical Teamsters Union",
+          "relationship": "alternate_spelling"
+        },
+        {
+          "name": "Studio Transportation Drivers Teamsters",
+          "relationship": "alternate_spelling"
+        },
+        {
+          "name": "Teamsters Warehouse Union",
+          "relationship": "alternate_spelling"
+        },
+        {
+          "name": "Teamsters Local Union no. 572, Local no. 481, Local 853, Local 601",
+          "relationship": "alternate_spelling"
+        },
+        {
+          "name": "Teamsters Local Union no. 572, Local no. 481, Local 853, Local",
+          "relationship": "alternate_spelling"
+        },
+        {
+          "name": "Teamsters Local Union no. 572, Local no. 481",
+          "relationship": "alternate_spelling"
+        },
+        {
+          "name": "THE CALIFORNIA TEAMSTERS",
+          "relationship": "alternate_spelling"
+        },
+        {
+          "name": "CALIFORNIA TEAMSTERS",
+          "relationship": "alternate_spelling"
+        },
+        {
+          "name": "Teamsters Joint Council 42 Teamsters",
           "relationship": "alternate_spelling"
         }
       ]
