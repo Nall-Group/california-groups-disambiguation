@@ -66,25 +66,23 @@
       ]
     },
     {
-      "canonical": "100% CAMPAIGN",
+      "canonical": "100% CAMPAIGN: HEALTH INSURANCE FOR EVERY CALIFORNIA CHILD",
       "status": "active",
       "children": [
+        {
+          "name": "THE 100% CAMPAIGN: HEALTH INSURANCE FOR EVERY CALIFORNIA CHILD",
+          "relationship": "alternate_spelling"
+        },
+        {
+          "name": "100% CAMPAIGN",
+          "relationship": "alternate_spelling"
+        },
         {
           "name": "THE 100% CAMPAIGN",
           "relationship": "alternate_spelling"
         },
         {
           "name": "100 Campaign",
-          "relationship": "alternate_spelling"
-        }
-      ]
-    },
-    {
-      "canonical": "100% CAMPAIGN: HEALTH INSURANCE FOR EVERY CALIFORNIA CHILD",
-      "status": "active",
-      "children": [
-        {
-          "name": "THE 100% CAMPAIGN: HEALTH INSURANCE FOR EVERY CALIFORNIA CHILD",
           "relationship": "alternate_spelling"
         }
       ]
@@ -126,16 +124,6 @@
         {
           "name": "THE 2035 INITIATIVE",
           "relationship": "alternate_spelling"
-        }
-      ]
-    },
-    {
-      "canonical": "21, Engineers and Scientists of CA, IFPTE",
-      "status": "active",
-      "children": [
-        {
-          "name": "21, Engineers and Scientists of CA, IFPTE Local 20, International Longshore and Warehouse Union",
-          "relationship": "chapter"
         }
       ]
     },
@@ -659,21 +647,19 @@
       ]
     },
     {
-      "canonical": "5 GYERS INSTITUTE",
-      "status": "active",
-      "children": [
-        {
-          "name": "THE 5 GYERS INSTITUTE",
-          "relationship": "alternate_spelling"
-        }
-      ]
-    },
-    {
       "canonical": "5 GYRES INSTITUTE",
       "status": "active",
       "children": [
         {
           "name": "THE 5 GYRES INSTITUTE",
+          "relationship": "alternate_spelling"
+        },
+        {
+          "name": "5 GYERS INSTITUTE",
+          "relationship": "alternate_spelling"
+        },
+        {
+          "name": "THE 5 GYERS INSTITUTE",
           "relationship": "alternate_spelling"
         }
       ]
