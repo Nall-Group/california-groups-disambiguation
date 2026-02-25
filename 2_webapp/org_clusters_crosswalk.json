@@ -9218,19 +9218,11 @@
           "relationship": "alternate_spelling"
         },
         {
-          "name": "and (AFSCME)",
+          "name": "Municipal Employees (AFSCME, AFL-CIO)",
           "relationship": "alternate_spelling"
         },
         {
-          "name": "and Municipal Employees (AFSCME)",
-          "relationship": "alternate_spelling"
-        },
-        {
-          "name": "and Municipal Employees (AFSCME, AFL-CIO)",
-          "relationship": "alternate_spelling"
-        },
-        {
-          "name": "and Municipal Employees (AFSME), AFL-CIO",
+          "name": "Municipal Employees (AFSME), AFL-CIO",
           "relationship": "alternate_spelling"
         },
         {
@@ -9846,7 +9838,7 @@
               "relationship": "alternate_spelling"
             },
             {
-              "name": "and Municipal Employees (AFSCME) Local 2620",
+              "name": "Municipal Employees (AFSCME) Local 2620",
               "relationship": "alternate_spelling"
             }
           ]
@@ -10235,10 +10227,6 @@
             },
             {
               "name": "United Domestic Workers/American Federation of State, County and Municipal Employees",
-              "relationship": "alternate_spelling"
-            },
-            {
-              "name": "and UDW/AFSCME",
               "relationship": "alternate_spelling"
             },
             {
@@ -10906,7 +10894,7 @@
               "relationship": "alternate_spelling"
             },
             {
-              "name": "and Municipal Employees - United Nurses Associations of California- Union of Health Care Professionals Alameda Labor Council",
+              "name": "Municipal Employees - United Nurses Associations of California- Union of Health Care Professionals Alameda Labor Council",
               "relationship": "alternate_spelling"
             },
             {
@@ -13790,161 +13778,161 @@
       ]
     },
     {
-      "canonical": "and Advocacy",
+      "canonical": "Advocacy",
       "status": "active",
       "children": [
         {
-          "name": "and Advocacy Inc",
+          "name": "Advocacy Inc",
           "relationship": "alternate_spelling"
         }
       ]
     },
     {
-      "canonical": "and Aerospace Workers",
+      "canonical": "Aerospace Workers",
       "status": "active",
       "children": [
         {
-          "name": "and Aerospace Workers, Local 947",
+          "name": "Aerospace Workers, Local 947",
           "relationship": "chapter"
         }
       ]
     },
     {
-      "canonical": "and Commercial Workers Union",
+      "canonical": "Commercial Workers Union",
       "status": "active",
       "children": [
         {
-          "name": "and Commercial Workers Union, Local 78 (Alta Loma)",
+          "name": "Commercial Workers Union, Local 78 (Alta Loma)",
           "relationship": "chapter"
         },
         {
-          "name": "and Commercial Workers Union, Local 58 (La Verne)",
+          "name": "Commercial Workers Union, Local 58 (La Verne)",
           "relationship": "chapter"
         },
         {
-          "name": "and Commercial Workers Union, Local 47 (West Covina)",
+          "name": "Commercial Workers Union, Local 47 (West Covina)",
           "relationship": "chapter"
         },
         {
-          "name": "and Commercial Workers Union, Local 350 (Temple City)",
+          "name": "Commercial Workers Union, Local 350 (Temple City)",
           "relationship": "chapter"
         }
       ]
     },
     {
-      "canonical": "and Construction Trades Council",
+      "canonical": "Construction Trades Council",
       "status": "active",
       "children": [
         {
-          "name": "and Construction Trades Council of California",
+          "name": "Construction Trades Council of California",
           "relationship": "chapter"
         }
       ]
     },
     {
-      "canonical": "and Decorating Contractors of California",
+      "canonical": "Decorating Contractors of California",
       "status": "active",
       "children": [
         {
-          "name": "and Decorating Contractors of California, Inc",
+          "name": "Decorating Contractors of California, Inc",
           "relationship": "alternate_spelling"
         }
       ]
     },
     {
-      "canonical": "and Drug Program Administrators Association of",
+      "canonical": "Drug Program Administrators Association of",
       "status": "active",
       "children": [
         {
-          "name": "and Drug Program Administrators Association of California",
+          "name": "Drug Program Administrators Association of California",
           "relationship": "chapter"
         }
       ]
     },
     {
-      "canonical": "and Education",
+      "canonical": "Education",
       "status": "active",
       "children": [
         {
-          "name": "and Education, Inc",
+          "name": "Education, Inc",
           "relationship": "alternate_spelling"
         }
       ]
     },
     {
-      "canonical": "and Gynecologists",
+      "canonical": "Gynecologists",
       "status": "active",
       "children": [
         {
-          "name": "and Gynecologists California",
+          "name": "Gynecologists California",
           "relationship": "chapter"
         }
       ]
     },
     {
-      "canonical": "and IATSE",
+      "canonical": "IATSE",
       "status": "active",
       "children": [
         {
-          "name": "and IATSE Local 892 Costume Designers Guild",
+          "name": "IATSE Local 892 Costume Designers Guild",
           "relationship": "chapter"
         }
       ]
     },
     {
-      "canonical": "and Individuals",
+      "canonical": "Individuals",
       "status": "active",
       "children": [
         {
-          "name": "and Individuals, Inc",
+          "name": "Individuals, Inc",
           "relationship": "alternate_spelling"
         }
       ]
     },
     {
-      "canonical": "and Land Surveyors",
+      "canonical": "Land Surveyors",
       "status": "active",
       "children": [
         {
-          "name": "and Land Surveyors of California",
+          "name": "Land Surveyors of California",
           "relationship": "chapter"
         }
       ]
     },
     {
-      "canonical": "and Managers Association",
+      "canonical": "Managers Association",
       "status": "active",
       "children": [
         {
-          "name": "and Managers Association of California",
+          "name": "Managers Association of California",
           "relationship": "chapter"
         }
       ]
     },
     {
-      "canonical": "and Municipal Employees",
+      "canonical": "Municipal Employees",
       "status": "active",
       "children": [
         {
-          "name": "and Municipal Employees Local 2620",
+          "name": "Municipal Employees Local 2620",
           "relationship": "chapter"
         },
         {
-          "name": "and Municipal Employees Local 3930",
+          "name": "Municipal Employees Local 3930",
           "relationship": "chapter"
         },
         {
-          "name": "and Municipal Employees Local 1001",
+          "name": "Municipal Employees Local 1001",
           "relationship": "chapter"
         }
       ]
     },
     {
-      "canonical": "and Pistol Association",
+      "canonical": "Pistol Association",
       "status": "active",
       "children": [
         {
-          "name": "and Pistol Association, Inc",
+          "name": "Pistol Association, Inc",
           "relationship": "alternate_spelling"
         },
         {
@@ -13954,71 +13942,71 @@
       ]
     },
     {
-      "canonical": "and Restaurant Employees Union",
+      "canonical": "Restaurant Employees Union",
       "status": "active",
       "children": [
         {
-          "name": "and Restaurant Employees Union Local 2850, AFL-CIO",
+          "name": "Restaurant Employees Union Local 2850, AFL-CIO",
           "relationship": "chapter"
         }
       ]
     },
     {
-      "canonical": "and Scientists of California",
+      "canonical": "Scientists of California",
       "status": "active",
       "children": [
         {
-          "name": "and Scientists of California, Local 20",
+          "name": "Scientists of California, Local 20",
           "relationship": "chapter"
         }
       ]
     },
     {
-      "canonical": "and Students",
+      "canonical": "Students",
       "status": "active",
       "children": [
         {
-          "name": "and Students Inc",
+          "name": "Students Inc",
           "relationship": "alternate_spelling"
         }
       ]
     },
     {
-      "canonical": "and Technical Engineers",
+      "canonical": "Technical Engineers",
       "status": "active",
       "children": [
         {
-          "name": "and Technical Engineers, Local 21",
+          "name": "Technical Engineers, Local 21",
           "relationship": "chapter"
         }
       ]
     },
     {
-      "canonical": "and the",
+      "canonical": "the",
       "status": "active",
       "children": [
         {
-          "name": "and the California",
+          "name": "the California",
           "relationship": "chapter"
         }
       ]
     },
     {
-      "canonical": "and Transportation Workers",
+      "canonical": "Transportation Workers",
       "status": "active",
       "children": [
         {
-          "name": "and Transportation Workers Local 105",
+          "name": "Transportation Workers Local 105",
           "relationship": "chapter"
         }
       ]
     },
     {
-      "canonical": "and Welfare Fund (AFM)",
+      "canonical": "Welfare Fund (AFM)",
       "status": "active",
       "children": [
         {
-          "name": "and Welfare Fund (AFM Local 47 Fund)",
+          "name": "Welfare Fund (AFM Local 47 Fund)",
           "relationship": "chapter"
         }
       ]
@@ -48829,7 +48817,7 @@
       "status": "active",
       "children": [
         {
-          "name": "AND SIMI VALLEY",
+          "name": "SIMI VALLEY",
           "relationship": "alternate_spelling"
         }
       ]
@@ -65947,11 +65935,11 @@
           "relationship": "alternate_spelling"
         },
         {
-          "name": "and Scientists of California, IFPTE Local 20",
+          "name": "Scientists of California, IFPTE Local 20",
           "relationship": "chapter"
         },
         {
-          "name": "and Scientists of California, IFPTE",
+          "name": "Scientists of California, IFPTE",
           "relationship": "alternate_spelling"
         },
         {
@@ -66041,10 +66029,6 @@
         {
           "name": "Enough is Enough Campaign California",
           "relationship": "chapter"
-        },
-        {
-          "name": "Enough is Enough|\" Campaign",
-          "relationship": "alternate_spelling"
         }
       ]
     },
@@ -88952,11 +88936,11 @@
           "relationship": "alternate_spelling"
         },
         {
-          "name": "and Reinforcing Iron Workers, Local Union 155, Local 433",
+          "name": "Reinforcing Iron Workers, Local Union 155, Local 433",
           "relationship": "chapter"
         },
         {
-          "name": "and Reinforcing Iron Workers, Local Union 155",
+          "name": "Reinforcing Iron Workers, Local Union 155",
           "relationship": "alternate_spelling"
         }
       ]
@@ -92907,16 +92891,6 @@
         {
           "name": "Land O'Lakes Inc",
           "relationship": "alternate_spelling"
-        }
-      ]
-    },
-    {
-      "canonical": "Land Surveyors",
-      "status": "active",
-      "children": [
-        {
-          "name": "Land Surveyors of California",
-          "relationship": "chapter"
         }
       ]
     },
@@ -109024,12 +108998,7 @@
     {
       "canonical": "Nelson/Nygaard Consulting Associates",
       "status": "active",
-      "children": [
-        {
-          "name": "NELSON\\NYGAARD CONSULTING ASSOCIATES",
-          "relationship": "alternate_spelling"
-        }
-      ]
+      "children": []
     },
     {
       "canonical": "Neostrata Company",
@@ -122191,14 +122160,6 @@
         },
         {
           "name": "Union Professional & Technical Engineers",
-          "relationship": "alternate_spelling"
-        },
-        {
-          "name": "and Technical Engineers, IFPTE Local 21",
-          "relationship": "chapter"
-        },
-        {
-          "name": "and Technical Engineers, IFPTE",
           "relationship": "alternate_spelling"
         }
       ]
@@ -154154,10 +154115,6 @@
             },
             {
               "name": "and, Sacramento Metropolitan Chamber of Commerce",
-              "relationship": "chapter"
-            },
-            {
-              "name": "and the California Chamber of Commerce",
               "relationship": "chapter"
             },
             {

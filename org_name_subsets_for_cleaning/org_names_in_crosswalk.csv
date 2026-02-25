@@ -2,7 +2,7 @@ org_name,count
 CALIFORNIA CHAMBER OF COMMERCE,11430
 "AMERICAN FEDERATION OF STATE , COUNTY AND MUNICIPAL EMPLOYEES",10055
 Sierra Club,9404
-CALIFORNIA STATE ASSOCIATION OF COUNTIES,9030
+CALIFORNIA STATE ASSOCIATION OF COUNTIES,9031
 California Labor Federation,9015
 LEAGUE OF CALIFORNIA CITIES,7765
 CALIFORNIA TEACHER'S ASSOCIATION,7694
@@ -18,9 +18,9 @@ PLANNING AND CONSERVATION LEAGUE,5251
 California Nurses Association,5125
 CALIFORNIA FEDERATION OF TEACHERS,5118
 California Professional Firefighters,5107
-California Police Chief's Association,5099
+California Police Chief's Association,5100
 CONSUMER ATTORNEYS OF CALIFORNIA,4654
-WESTERN CENTER ON LAW AND POVERTY,4607
+WESTERN CENTER ON LAW AND POVERTY,4608
 PEACE OFFICER'S RESEARCH ASSOCIATION OF CALIFORNIA,4581
 Department of Finance,4515
 California Teamsters Public Affairs Council,4411
@@ -37,7 +37,7 @@ CALTAX,3520
 California Building Industry Association,3513
 CALIFORNIA PEACE OFFICERS' ASSOCIATION,3486
 CALIFORNIA FARM BUREAU FEDERATION,3476
-California Apartment Association,3412
+California Apartment Association,3413
 CITY OF LOS ANGELES,3283
 CALIFORNIA BUSINESS PROPERTIES ASSOCIATION,3232
 CALIFORNIA LEAGUE OF CONSERVATION VOTERS,3223
@@ -57,8 +57,8 @@ CALIFORNIA MANUFACTURERS AND TECHNOLOGY ASSOCIATION,2624
 CALIFORNIA STATE PTA,2534
 California Special Districts Association,2462
 California Grocers Association,2430
-RURAL COUNTY REPRESENTATIVES OF CALIFORNIA,2409
-Western Center on Law Poverty,2366
+RURAL COUNTY REPRESENTATIVES OF CALIFORNIA,2410
+Western Center on Law Poverty,2367
 CITY AND COUNTY OF SAN FRANCISCO,2347
 California Immigrant Policy Center,2297
 California Bankers Association,2266
@@ -77,13 +77,13 @@ Crime Victim's United,2024
 Los Angeles County District Attorney's Office,2000
 Environment California,1999
 League of Women Voters,1988
+NATIONAL FEDERATION OF INDEPENDENT BUSINESS,1982
 CALIFORNIA MANUFACTURERS & TECHNOLOGY ASSOCIATION,1981
-NATIONAL FEDERATION OF INDEPENDENT BUSINESS,1981
 AMERICAN ACADEMY OF PEDIATRICS,1968
 California Municipal Utilities Association,1959
 East Bay Municipal Utility District,1944
-CALIFORNIA ALLIANCE FOR RETIRED AMERICANS,1942
-REGIONAL COUNCIL OF RURAL COUNTIES,1930
+CALIFORNIA ALLIANCE FOR RETIRED AMERICANS,1943
+REGIONAL COUNCIL OF RURAL COUNTIES,1932
 DEFENDERS OF WILDLIFE,1879
 LOS ANGELES COUNTY OFFICE OF EDUCATION,1867
 California Restaurant Association,1866
@@ -91,18 +91,18 @@ California Restaurant Association,1866
 CALIFORNIA STATE ASSOCIATION OF ELECTRICAL WORKERS,1856
 ELLA BAKER CENTER FOR HUMAN RIGHTS,1835
 CALIFORNIA STATE EMPLOYEES' ASSOCIATION,1801
-One individual,1785
+One individual,1789
 CALIFORNIANS AGAINST WASTE,1773
 CALIFORNIA STATE PIPE TRADES COUNCIL,1769
-California Tax Reform Association,1754
+California Tax Reform Association,1756
 AMERICAN LUNG ASSOCIATION,1743
-Western States Petroleum Association,1733
+Western States Petroleum Association,1734
 Equality California,1719
 CIVIL JUSTICE ASSOCIATION OF CALIFORNIA,1719
 County of Los Angeles,1713
 AMERICAN CIVIL LIBERTIES UNION OF CALIFORNIA,1690
+California Manufacturers Association,1676
 Housing California,1675
-California Manufacturers Association,1675
 CALIFORNIA ACADEMY OF FAMILY PHYSICIANS,1633
 California Faculty Association,1621
 Bay Area Council,1613
@@ -115,8 +115,8 @@ COUNTY OF SANTA CLARA,1541
 CITY OF SAN DIEGO,1538
 PERSONAL INSURANCE FEDERATION OF CALIFORNIA,1511
 AGRICULTURAL COUNCIL OF CALIFORNIA,1503
-CHILDREN'S ADVOCACY INSTITUTE,1501
-ASSOCIATION OF REGIONAL CENTER AGENCIES,1499
+CHILDREN'S ADVOCACY INSTITUTE,1502
+ASSOCIATION OF REGIONAL CENTER AGENCIES,1500
 Public Counsel,1495
 California Trucking Association,1460
 CALIFORNIA ASSOCIATION OF HIGHWAY PATROLMEN,1457
@@ -140,7 +140,7 @@ Nature Conservancy,1333
 CALIFORNIA STATE COMMANDERS VETERANS COUNCIL,1325
 CALIFORNIA ADVOCATES FOR NURSING HOME REFORM,1321
 ENVIRONMENTAL DEFENSE FUND,1319
-CALIFORNIA STATE COUNCIL OF LABORERS,1317
+CALIFORNIA STATE COUNCIL OF LABORERS,1318
 Attorney General,1314
 California Dental Association,1312
 COUNTY OF SANTA CLARA BOARD OF SUPERVISORS,1307
@@ -156,10 +156,11 @@ CALIFORNIA PROBATION PAROLE AND CORRECTIONAL ASSOCIATION,1267
 SECRETARY OF STATE,1266
 CALIFORNIA NARCOTIC OFFICERS' ASSOCIATION,1257
 CALIFORNIA HEALTHCARE ASSOCIATION,1257
-Wine Institute,1248
+Wine Institute,1249
 CALIFORNIA JUDGES' ASSOCIATION,1247
 TECHNET,1247
 CALIFORNIA APPLICANTS ATTORNEYS' ASSOCIATION,1246
+CITY OF,1242
 Los Angeles County Professional Peace Officers Association,1239
 LOS ANGELES AREA CHAMBER OF COMMERCE,1234
 CALIFORNIA CATTLEMEN'S ASSOCIATION,1228
@@ -177,7 +178,7 @@ CALIFORNIA COMMISSION ON THE STATUS OF WOMEN,1170
 Southwest California Legislative Council,1167
 MEXICAN AMERICAN LEGAL DEFENSE AND EDUCATIONAL FUND,1163
 Courage California,1162
-COUNTY OF SACRAMENTO,1154
+COUNTY OF SACRAMENTO,1155
 National Association of Social Workers,1146
 CITY OF THOUSAND OAKS,1146
 CALIFORNIA WOMEN'S LAW CENTER,1141
@@ -199,7 +200,7 @@ California Public Interest Research Group,1091
 CITY OF LONG BEACH,1087
 CALIFORNIA ASSOCIATION OF COUNTY VETERANS SERVICE OFFICERS,1082
 Office of the Attorney General,1082
-Western Electrical Contractors Association,1080
+Western Electrical Contractors Association,1082
 California Psychological Association,1070
 TRUST FOR PUBLIC LAND,1068
 COMMITTEE ON MORAL CONCERNS,1068
@@ -210,7 +211,7 @@ AIDS HEALTHCARE FOUNDATION,1057
 LATINO COALITION FOR A HEALTHY CALIFORNIA,1053
 Equal Rights Advocates,1051
 CALIFORNIA ASSOCIATION OF WINEGRAPE GROWERS,1046
-San Francisco Unified School District,1035
+San Francisco Unified School District,1036
 HEALTH OFFICERS ASSOCIATION OF CALIFORNIA,1029
 California Forestry Association,1028
 Protection and Advocacy,1025
@@ -224,10 +225,11 @@ Privacy Rights Clearinghouse,999
 CALIFORNIA NEWSPAPER PUBLISHERS' ASSOCIATION,997
 HEALTH NET,996
 CALIFORNIA CHURCH IMPACT,991
+Inc,988
 Associated General Contractors,985
 California Optometric Association,983
 ENGINEERING CONTRACTORS ASSOCIATION,982
-Oakland Privacy,970
+Oakland Privacy,972
 CALIFORNIA ASSOCIATION FOR HEALTH SERVICES AT HOME,963
 American Insurance Association,963
 Children's Defense Fund,962
@@ -318,7 +320,7 @@ Children's Partnership,730
 JOHN BURTON ADVOCATES FOR YOUTH,730
 San Gabriel Valley Economic Partnership,725
 SAN FRANCISCO AIDS FOUNDATION,724
-UNIVERSITY OF CALIFORNIA STUDENT ASSOCIATION,722
+UNIVERSITY OF CALIFORNIA STUDENT ASSOCIATION,723
 ASSOCIATED GENERAL CONTRACTORS OF CALIFORNIA,719
 Flasher Barricade Association,717
 Los Angeles County District Attorney,716
@@ -347,9 +349,9 @@ BOARD OF EQUALIZATION,662
 California Housing Consortium,659
 California Seed Association,657
 BLUE SHIELD OF CALIFORNIA,657
+California Land Title Association,657
 CALIFORNIA ASSOCIATION OF MARRIAGE AND FAMILY THERAPISTS,656
 City of Berkeley,655
-California Land Title Association,655
 UNITED FOOD AND COMMERCIAL WORKERS WESTERN STATES COUNCIL,651
 CALIFORNIA CHILDREN'S HOSPITAL ASSOCIATION,650
 CALIFORNIA WATER ASSOCIATION,649
@@ -357,8 +359,8 @@ Capitol Resource Institute,649
 ALLIANCE FOR BOYS AND MEN OF COLOR,648
 CHEMICAL INDUSTRY COUNCIL OF CALIFORNIA,647
 Contra Costa County,647
+STATE BOARD OF EQUALIZATION,647
 California Coastal Protection Network,646
-STATE BOARD OF EQUALIZATION,646
 County of Orange,644
 International Longshore and Warehouse Union,640
 CALIFORNIA LATINAS FOR REPRODUCTIVE JUSTICE,638
@@ -378,7 +380,7 @@ Franchise Tax Board,624
 CALIFORNIA RIGHT TO LIFE COMMITTEE,623
 VIETNAM VETERANS OF AMERICA - CALIFORNIA STATE COUNCIL,622
 CITY OF TORRANCE,622
-PICO CALIFORNIA,621
+PICO CALIFORNIA,622
 COUNTY OF SANTA BARBARA,621
 California Black Health Network,620
 BREATHE CALIFORNIA,619
@@ -419,7 +421,7 @@ CONTRACTOR'S STATE LICENSE BOARD,575
 NATIONAL COUNCIL OF JEWISH WOMEN,573
 CALIFORNIA AIR POLLUTION CONTROL OFFICER'S ASSOCIATION,572
 Santa Clara Valley Transportation Authority,572
-California Union of Safety Employees,569
+California Union of Safety Employees,571
 COMMUNITIES FOR A BETTER ENVIRONMENT,567
 Public Law Center,566
 City of Moreno Valley,566
@@ -455,19 +457,19 @@ County,543
 Western Manufactured Housing Communities Association,540
 Los Angeles Community College District,539
 Flasher/Barricade Association,538
-AARP CALIFORNIA,537
+AARP CALIFORNIA,538
 Environmental Defense Center,536
 Palos Verdes Police Officers Association,536
 COUNTY OF SANTA CRUZ,534
 POLICYLINK,531
+Los Angeles,530
 LAANE (Los Angeles),529
-Los Angeles,529
 California Travel Association,528
 CALIFORNIA COLLEGE AND UNIVERSITY POLICE CHIEF'S ASSOCIATION,527
 San Bernardino Public Employees Association,527
 LONG BEACH AREA CHAMBER OF COMMERCE,526
 Department of Consumer Affairs,526
-MARIN BUILDERS' ASSOCIATION,525
+MARIN BUILDERS' ASSOCIATION,526
 Californians Together,524
 SANTA CLARA COUNTY OFFICE OF EDUCATION,524
 California Ambulance Association,523
@@ -488,8 +490,8 @@ Simi Valley Chamber of Commerce,512
 CENTER FOR COMMUNITY ACTION AND ENVIRONMENTAL JUSTICE,511
 Arcadia Police Officers Association,510
 LOCAL HEALTH PLANS OF CALIFORNIA,508
+LEGAL AID AT WORK,508
 El Dorado Irrigation District,507
-LEGAL AID AT WORK,507
 COUNTY OF RIVERSIDE,506
 Waste Management,504
 AZUL,503
@@ -516,6 +518,7 @@ American Nurses Association,493
 Rubicon Programs,492
 California Contract Cities Association,492
 ASSOCIATION OF CALIFORNIA LIFE & HEALTH INSURANCE COMPANIES,491
+Individuals,490
 "California Child, Youth and Family Coalition",486
 Corona Police Officers Association,485
 FRIENDS OF THE RIVER,484
@@ -622,9 +625,9 @@ STUDENT SENATE FOR CALIFORNIA COMMUNITY COLLEGES,417
 Sacramento Municipal Utility District,417
 Sierra Business Council,417
 California Redevelopment Association,417
+UNITED WAYS OF CALIFORNIA,415
 SAVE THE BAY,414
 SOUTH BAY YIMBY,414
-UNITED WAYS OF CALIFORNIA,414
 CITY OF SAN MARCOS,414
 LA DEFENSA,413
 CALIFORNIA ASSOCIATION OF RESOURCE CONSERVATION DISTRICTS,412
@@ -683,7 +686,7 @@ California Broadcasters Association,382
 Eden Housing,382
 Plastic Pollution Coalition,382
 UDW / AFSCME,382
-Alameda County,381
+Alameda County,382
 California Association of Psychiatric Technicians,380
 EAST BAY YIMBY,380
 CALIFORNIA ASSOCIATION OF HOSPITALS AND HEALTH SYSTEMS,380
@@ -691,7 +694,7 @@ PACIFIC COAST FEDERATION OF FISHERMEN'S ASSOCIATIONS,380
 CITY OF VISTA,379
 National Audubon Society,379
 SILICON VALLEY @ HOME,378
-ALLIED MANAGED CARE,377
+ALLIED MANAGED CARE,378
 California Housing Partnership,377
 PEOPLE FOR HOUSING ORANGE COUNTY,377
 CITY OF CONCORD,377
@@ -717,7 +720,7 @@ City of Carlsbad,366
 City of Santa Ana,366
 California Coalition Against Sexual Assault,366
 Mexican American Legal Defense and Education Fund,366
-Santa Clara County,365
+Santa Clara County,366
 Upland Police Officers Association,365
 CALIFORNIA LAW REVISION COMMISSION,365
 Apartment Association of California Southern Cities,364
@@ -757,12 +760,12 @@ California Attractions And Parks Association,352
 The Two Hundred,352
 CALIFORNIA COUNCIL OF LAND TRUSTS,352
 National Shooting Sports Foundation,351
+COUNTIES,351
 National Multiple Sclerosis Society,350
 Silicon Valley Community Foundation,350
+UTILITY WORKERS UNION OF AMERICA,350
 350 Silicon Valley,349
-UTILITY WORKERS UNION OF AMERICA,349
 California Cannabis Industry Association,348
-COUNTIES,348
 Amalgamated Transit Union,347
 LEGAL AID FOUNDATION OF LOS ANGELES,347
 Los Angeles District Attorney,347
@@ -911,9 +914,9 @@ FOLSOM CHAMBER OF COMMERCE,299
 City of Bakersfield,298
 Santa Barbara Rental Property Association,298
 UNIVERSITY OF SOUTHERN CALIFORNIA,298
+PacifiCare,298
 California Society of Plastic Surgeons,297
 Consumer Specialty Products Association,297
-PacifiCare,297
 City of Claremont,296
 PACIFIC ASSOCIATION OF DOMESTIC INSURANCE COMPANIES,296
 United Teachers Los Angeles,296
@@ -921,7 +924,8 @@ CALIFORNIA ALLIANCE OF CAREGIVERS,295
 CENTRO LEGAL DE LA RAZA,295
 Working Partnerships USA,295
 Association of Independent California Colleges and Universities,295
-Orange County,294
+Orange County,295
+Mental Health Association in,295
 California Licensed Foresters Association,294
 Republic Services,293
 Human Impact Partners,292
@@ -953,6 +957,7 @@ California Association of Port Authorities,284
 Transgender Law Center,284
 BRIDGE HOUSING CORPORATION,283
 The Utility Reform Network (TURN),283
+San Diego,283
 CALIFORNIA SOCIETY OF HEALTH-SYSTEM PHARMACISTS,282
 City of Coronado,282
 City of San Mateo,282
@@ -965,7 +970,6 @@ Public Utilities Commission,281
 "State Building and Construction Trades Council, AFL-CIO",281
 Women's Foundation California,281
 CITY OF FRESNO,280
-San Diego,280
 CALIFORNIA MOBILEHOME PARKOWNER'S ALLIANCE,280
 Central City Association of Los Angeles,280
 California Radiological Society,279
@@ -1034,9 +1038,9 @@ CITY OF SALINAS,261
 Deputy Sheriffs Association of Monterey County,261
 Golden State Builders Exchange,261
 Mi Familia Vota,261
+Sheriffs Association,261
 CITY OF CUPERTINO,260
 Elsinore Valley Municipal Water District,260
-Sheriffs Association,260
 ASIAN HEALTH SERVICES,259
 Animal Protection Institute,259
 Garden Grove Chamber of Commerce,259
@@ -1078,7 +1082,7 @@ CITY OF FULLERTON,250
 Drug Policy Alliance Network,250
 Trauma Foundation,250
 Trout Unlimited,250
-California NOW,249
+California NOW,250
 Imperial Irrigation District,249
 Los Angeles Business Council,249
 United Teachers of Los Angeles,249
@@ -1297,6 +1301,7 @@ Kern County Water Agency,206
 RECOLOGY,206
 REGIONAL ASTHMA MANAGEMENT AND PREVENTION,206
 CITY OF GOLETA,206
+California Association of,206
 California Association of School Psychologists,205
 City of Chino,205
 "FRIENDS OF HARBORS, BEACHES AND PARKS",205
@@ -1335,10 +1340,10 @@ Barona Band of Mission Indians,199
 CALIFORNIANS FOR DISABILITY RIGHTS,199
 California School Nurses Association,199
 SACRAMENTO AREA COUNCIL OF GOVERNMENTS,199
+Sheriff,199
 American Red Cross,198
 Ecology Center,198
 Los Angeles Deputy Sheriffs,198
-Sheriff,198
 United Animal Nations,198
 Association of California Life Insurance Companies,198
 CALIFORNIA STATE UNIVERSITY EMPLOYEES' UNION,197
@@ -1367,6 +1372,7 @@ SOUTH YUBA RIVER CITIZENS' LEAGUE,194
 Solar Energy Industries Association,194
 Ventura County Transportation Commission,194
 Family Law Section of the State Bar,194
+Justice,194
 Facebook,193
 HAVING OUR SAY COALITION,193
 AGUA CALIENTE BAND OF CAHUILLA INDIANS,192
@@ -1395,7 +1401,6 @@ Firearms Policy Coalition,189
 Los Angeles County Federation of Labor,189
 Systems,189
 UTILITY CONSUMERS' ACTION NETWORK,189
-Justice,189
 AMERICAN FOREST & PAPER ASSOCIATION,188
 California Attorney General,188
 California Board of Accountancy,188
@@ -1404,6 +1409,7 @@ City of Diamond Bar,188
 Environmental Action Committee of West Marin,188
 California Certified Organic Farmers,188
 Employees (AFSCME) AFL-CIO,188
+Violence,188
 CITY OF PLACENTIA,187
 California Builders Alliance,187
 County of Solano,187
@@ -1428,7 +1434,6 @@ City of Mountain View,184
 Mission Street Neighbors,184
 North Orange County Community College District,184
 Placer Land Trust,184
-Violence,184
 COUNTY OF DEL NORTE,183
 California Independent Bankers,183
 California Public Parking Association,183
@@ -1667,7 +1672,7 @@ Kidango,150
 People for The American Way,150
 Sempra Energy Utilities,150
 Urban Habitat,150
-Administrators,149
+Administrators,150
 American College of Emergency Physicians,149
 Automotive Service Councils,149
 Blue Cross,149
@@ -1722,12 +1727,12 @@ Dependency Legal Services,144
 Essie Justice Group,144
 United Cannabis Business Association,144
 Vietnam Veterans of America,144
+Time for Change Foundation,144
 California Strawberry Commission,143
 Central American Resource Center,143
 City of Escondido,143
 City of San Ramon,143
 Silicon Valley Toxics Coalition,143
-Time for Change Foundation,143
 Tri County Chamber Alliance,143
 Yocha Dehe Wintun Nation,143
 Chevron,143
@@ -1783,6 +1788,7 @@ East Valley Water District,137
 Riverside County Sheriffs Office,137
 California Cable and Telecommunications Association,137
 State Personnel Board,137
+Peace Officers Research Association of,137
 350 Bay Area,136
 Altamed Health Services Corporation,136
 California Association of School Counselors,136
@@ -1795,6 +1801,7 @@ MOTIVATING INDIVIDUAL LEADERSHIP FOR PUBLIC ADVANCEMENT,136
 San Francisco Marin Medical Society,136
 San Joaquin Valley Air Pollution Control District,136
 California Large Energy Consumers Association,136
+Los Angeles Police Department,136
 BRADY CAMPAIGN TO PREVENT GUN VIOLENCE,135
 City of Redondo Beach,135
 Del Amo Action Committee,135
@@ -1802,7 +1809,6 @@ FHP Health Care,135
 Family Violence Law Center,135
 Humane Society Veterinary Medical Association,135
 Los Angeles City Attorney's Office,135
-Los Angeles Police Department,135
 Parent Institute for Quality Education,135
 Pleasanton Chamber of Commerce,135
 Save Mount Diablo,135
@@ -1854,6 +1860,7 @@ River Project,130
 Riverside County Sheriff,130
 YUBA SUTTER CHAMBER OF COMMERCE,130
 United Nurses Associations of California/Union of Health Care,130
+Association of,130
 ASSOCIATION OF HOME APPLIANCE MANUFACTURERS,129
 American Forest and Paper Association,129
 Browning-Ferris Industries,129
@@ -1882,6 +1889,7 @@ Jewish Family Service of San Diego,128
 Little Tokyo Service Center,128
 Los Angeles County Economic Development Corporation,128
 Sycamores,128
+STOP HIDDEN TAXES COALITION,128
 Advanced Energy Economy,127
 Alameda County Democratic Party,127
 CALIFORNIA COUNCIL FOR ADULT EDUCATION,127
@@ -1904,7 +1912,6 @@ LISC SAN DIEGO,127
 League of United Latin American Citizens,127
 Northern California Carpenters Regional Council,127
 Peace Officer Research Association of California,127
-STOP HIDDEN TAXES COALITION,127
 Special Education Local Plan Area Administrators,127
 Stanford Health Care,127
 350 Conejo San Fernando Valley,126
@@ -2012,6 +2019,7 @@ Progressive Zionists of California,119
 State Sheriffs Association,119
 Western Boaters Safety Group,119
 California Bail Agents Association,119
+California State Association of,119
 CITY OF LA PALMA,118
 California Animal Welfare Association,118
 City of Clovis,118
@@ -2103,8 +2111,8 @@ San Francisco Labor Council,112
 Santa Clara Valley Audubon Society,112
 Western Regional Advocacy Project,112
 Western States Trucking Association,112
+Beverly Hills Bar Association,112
 American Motorcyclist Association,111
-Beverly Hills Bar Association,111
 Bloom Energy,111
 California Aquaculture Association,111
 California Society of Physical Medicine and Rehabilitation,111
@@ -2120,6 +2128,7 @@ Visalia Chamber of Commerce,111
 WOMEN LAWYERS OF SACRAMENTO,111
 Newport Beach Chamber of Commerce,111
 Pacific Life Insurance Company,111
+Sheriffs,111
 CITY OF HALF MOON BAY,110
 City of Selma,110
 Community Economics,110
@@ -2134,6 +2143,7 @@ Golden Gate Audubon Society,109
 Independent Employees of Merced County,109
 Santa Cruz County Regional Transportation Commission,109
 Golden State Bail Agents Association,109
+Education,109
 ASSOCIATION OF CALIFORNIA CONSTRUCTION MANAGERS,108
 Alameda County Waste Management Authority,108
 Black Business Association,108
@@ -2457,6 +2467,7 @@ San Francisco Tenants Union,90
 San Mateo County Economic Development Association,90
 School Transportation Coalition,90
 Self Help Enterprises,90
+League of,90
 CALIFORNIA MOVING AND STORAGE ASSOCIATION,89
 CALPACE,89
 California Department of Social Services,89
@@ -2472,6 +2483,7 @@ LEGAL ADVOCATES FOR CHILDREN AND YOUTH,89
 National Association of Insurance and Financial Advisors of California,89
 Structural Engineers Association of California,89
 Union Station Homeless Services,89
+United Cerebral Palsy California Collaboration,89
 CALIFORNIA SOCIETY FOR RESPIRATORY CARE,88
 California Independent Public Employees Legislative,88
 Construction Industry Force Account Council,88
@@ -2485,7 +2497,6 @@ Shields For Families,88
 State Compensation Insurance Fund,88
 State of California Auto Dismantlers Association,88
 Triple A Council of California,88
-United Cerebral Palsy California Collaboration,88
 Western Wall & Ceiling Contractors Association,88
 Vacaville Chamber of Commerce,88
 CHILD ABUSE PREVENTION COUNCIL OF CONTRA COSTA COUNTY,87
@@ -2499,7 +2510,6 @@ Laguna Niguel Chamber of Commerce,87
 Lake County Land Trust,87
 Livermore Valley Chamber of Commerce,87
 Orange County Professional Firefighters Association,87
-Sheriffs,87
 Sierra Pacific Industries,87
 State Privacy and Security Coalition,87
 UNITED FARM WORKERS OF AMERICA,87
@@ -2717,6 +2727,7 @@ Tribal Alliance of Sovereign Indian Nations,76
 Veterans Caucus of the California Democratic Party,76
 Wellstone Democratic Renewal Club,76
 ORANGE COUNTY ASSOCIATION OF REALTORS,76
+State,76
 American Jewish Committee,75
 Animal Legislative Action Network,75
 Asian and Pacific Islander American Health Forum,75
@@ -2762,6 +2773,7 @@ State Treasurer Phil Angelides,74
 Superior Court of California,74
 The Toy Association,74
 Harbor Association of Industry and Commerce,74
+Housing,74
 American Cleaning Institute,73
 "CENTER ON RACE, POVERTY, AND THE ENVIRONMENT",73
 California Association of Highway Patrolmen (CAHP),73
@@ -2804,7 +2816,6 @@ Sanctuary Forest,72
 School Services of California,72
 South Bay Labor Council,72
 Southern California Alliance of Law Enforcement,72
-State,72
 Urban Semillas,72
 Walgreens,72
 Aircraft Owners and Pilots Association,72
@@ -2823,7 +2834,6 @@ Community Overcoming Relationship Abuse,71
 Crystal Stairs,71
 Fund,71
 Hewlett-Packard Company,71
-Housing,71
 JEWISH FEDERATION OF THE SACRAMENTO REGION,71
 Labor/Community Strategy Center,71
 ORANGE COUNTY COMMUNITIES ORGANIZED FOR RESPONSIBLE DEVELOPMENT,71
@@ -3009,6 +3019,7 @@ United Way of California,65
 Wildlands Network,65
 Wilmington Chamber of Commerce,65
 Yolo County Sheriffs Department,65
+Advocacy,65
 Butte County Sheriff,64
 California Academy of Eye Physicians and Surgeons,64
 California Ambulatory Surgery Association,64
@@ -3039,6 +3050,7 @@ Ventura County Taxpayers Association,64
 Vista Chamber of Commerce,64
 West County Health Centers,64
 United Nurses Association of California/Union of Health,64
+COUNTY ALCOHOL AND DRUG PROGRAM ADMINISTRATORS ASSOCIATION OF,64
 AREA,63
 Abbott Laboratories,63
 American Association for Marriage and Family Therapy,63
@@ -3102,6 +3114,7 @@ Placer Independent Resource Services,62
 Sonoma County Transportation Authority,62
 TOWN OF LOS GATOS,62
 WESTSIDE COUNCIL OF CHAMBERS OF COMMERCE,62
+University,62
 Alameda County Transportation Authority,61
 Armenian National Committee of America - Western Region,61
 Association of Monterey Bay Area Governments,61
@@ -3134,7 +3147,6 @@ STRATEGIC CONCEPTS IN ORGANIZING AND POLICY EDUCATION,61
 San Francisco Living Wage Coalition,61
 Surety Company of the Pacific,61
 Tule River Tribe,61
-University,61
 Veterinary Medical Board,61
 Western Placer Waste Management Authority,61
 Southern California University of Health Sciences,61
@@ -3259,6 +3271,7 @@ Town of Truckee,57
 Claremont,57
 Train Riders Association of California,57
 EDS,57
+Cooperative of American Physicians,57
 American Federation,56
 American Resort Development Association,56
 Association of Talent Agents,56
@@ -3271,7 +3284,6 @@ Children's Legal Services of San Diego,56
 City of Livingston,56
 Clorox Company,56
 Community Resource Project,56
-Cooperative of American Physicians,56
 Hunger Advocacy Network,56
 Lassen Family Services,56
 Learning Rights Law Center,56
@@ -3382,6 +3394,8 @@ Calpine,54
 Delta Protection Commission,54
 AFSCME Council 57,54
 "American Federation of State, County & Municipal Employees, AFL-CIO",54
+Community Child Care Council Of Sonoma County,54
+Consulting Engineers and Land Surveyors of,54
 ASIAN COMMUNITIES FOR REPRODUCTIVE JUSTICE,53
 American Association of University Women of California,53
 American Fire Sprinkler Association,53
@@ -3399,7 +3413,6 @@ California Manufacturing Association,53
 California Rifle & Pistol Association,53
 California Thoroughbred Trainers,53
 City of Reedley,53
-Community Child Care Council Of Sonoma County,53
 Crime Victims Alliance,53
 Encore Capital Group,53
 GROUND GAME LA,53
@@ -3641,6 +3654,8 @@ United Food & Commercial Workers,48
 Walnut Creek Chamber of Commerce,48
 AFSCME District Council 36,48
 "Employees, AFL-CIO (AFSCME)",48
+National Association of,48
+National Association of Insurance and Financial Advisors of,48
 American Shooting Sports Council,47
 Amnesty International USA,47
 Bicycle Casino,47
@@ -3695,6 +3710,7 @@ California Pilots Association,47
 California Special Districts Association (CSDA),47
 Demenno/Kerdoon,47
 Transportation Corridor Agencies,47
+Development,47
 ACT-LA,46
 ALLIANCE FOR NUCLEAR RESPONSIBILITY,46
 Agudath Israel of California,46
@@ -3739,6 +3755,8 @@ The Clorox Company,46
 UC Student Association,46
 CitiGroup,46
 California Taxpayer's Association,46
+Trades Council,46
+United Parcel Service,46
 Albertson's,45
 Bernardino County Sheriff,45
 Brentwood Alliance of Canyons & Hillsides,45
@@ -3751,7 +3769,6 @@ Center for Farmworker Families,45
 Chicano Federation of San Diego County,45
 Cigar Association of America,45
 County Welfare Directors,45
-Development,45
 EPISCOPAL COMMUNITY SERVICES OF SAN FRANCISCO,45
 Elkhorn Slough Foundation,45
 Faith in Action East Bay,45
@@ -3790,9 +3807,7 @@ Save the American River Association,45
 Sierra Nevada Brewing Company,45
 The Economic Empowerment Foundation,45
 The Purpose of Recovery,45
-Trades Council,45
 Transformative Wealth Management LLC,45
-United Parcel Service,45
 Valley County Water District,45
 California Department of Corrections and Rehabilitation,45
 California Faculty Association (CFA),45
@@ -3951,6 +3966,7 @@ The Boeing Company,42
 Tree Foundation of Kern,42
 Victor Valley Chamber of Commerce,42
 Women's Foundation,42
+Valley Contractors Exchange,42
 AAPIS FOR CIVIC EMPOWERMENT EDUCATION FUND,41
 ASSOCIATED STUDENTS OF THE UNIVERSITY OF CALIFORNIA,41
 Alameda County Resource Conservation District,41
@@ -3995,8 +4011,8 @@ Schools,41
 Sierra Consortium,41
 Stanislaus County Sheriff,41
 The United Way of Greater Los Angeles,41
-Valley Contractors Exchange,41
 California Managed Risk Medical Insurance Board,41
+Youth,41
 American Airlines,40
 American Financial Services Association,40
 Antelope Valley Kennel Club,40
@@ -4045,6 +4061,7 @@ Union Bank of California,40
 Ventura Chamber of Commerce,40
 Walt Disney Company,40
 Burbank,40
+Association for,40
 ADT Security Services,39
 "American College of Obstetricians and Gynecologists, District IX/CA",39
 Apple,39
@@ -4108,10 +4125,9 @@ Templeton Chamber of Commerce,39
 The Home Depot,39
 Visa,39
 Western Manufactured Housing Communities,39
-Youth,39
 Fremont,39
 Southwest Voter Registration Education Project,39
-America's Health Insurance Plans (AHIP),38
+America's Health Insurance Plans (AHIP),39
 American Atheists,38
 American Dog Owners Association,38
 Bear River Band of Rohnerville Rancheria,38
@@ -4216,7 +4232,6 @@ Stanislaus County Farm Bureau,37
 Stanislaus County Sheriff's Department,37
 State Department of Mental Health,37
 Streets for People Bay Area,37
-The Alliance,37
 The Children's Clinic,37
 The Climate Alliance of Santa Cruz County,37
 "Vallejo Neighborhood Housing Services, Inc",37
@@ -4516,6 +4531,9 @@ Western States Petroleum Association (WSPA),33
 the Aging,33
 California Department of Aging,33
 AIDS Service Center,33
+Engineering,33
+California Alliance for,33
+Los Angeles County Board of,33
 350 Conejo,32
 350 Riverside,32
 Access Services,32
@@ -4634,7 +4652,6 @@ Davita,31
 Day Worker Center of Mountain View,31
 "Del Norte Clinics, Inc",31
 Downey Chamber of Commerce,31
-Engineering,31
 "Engineers and Scientists of California, MEBA, AFL-CIO",31
 Enterprise Rancheria,31
 Environmental Council of Sacramento,31
@@ -4692,6 +4709,8 @@ United Administrators of Southern California,31
 United Advocates for Children and Families,31
 "Traffic Safety Center, Inc",31
 San Joaquin County Sheriff,31
+Students,31
+Office of,31
 ALS ASSOCIATION - GOLDEN WEST CHAPTER,30
 AMCAL,30
 American Federation of State and County Municipal Employees,30
@@ -4773,6 +4792,8 @@ Yahoo,30
 California Immigrant Policy Center (CIPC),30
 Fountain Valley,30
 "American Federal of State, County and Municipal Employees, AFL-CIO",30
+Association for Children for Enforcement of,30
+American Federation of State County and,30
 9 to 5 California,29
 AEG,29
 AMERICAN FEDERATION STATE COUNTY MUNICIPAL EMPLOYEES,29
@@ -4868,6 +4889,8 @@ Wilshire Montana Neighborhood Coalition,29
 the Advancement of Colored People,29
 "Interactive Safety Education, Inc",29
 Vet Voice Foundation,29
+Sungevity,29
+Simi Valley,29
 350 Marin,28
 Access to Independence,28
 American Red Cross of California,28
@@ -4945,10 +4968,8 @@ South California Rental Housing Association,28
 Southern California Indian Center,28
 St. Francis Center,28
 Student Empowerment Project,28
-Sungevity,28
 TEACH,28
 The 100% Campaign,28
-The Administration,28
 The Central Valley Urban Institute,28
 "The Climate Reality Project, San Diego Chapter",28
 The Conservation Fund,28
@@ -4968,6 +4989,7 @@ bp America,28
 COUNCIL FOR PRIVATE POSTSECONDARY AND VOCATIONAL EDUCATION,28
 American Civil liberties Union,28
 "State, County and Municipal Employees (AFSCME)",28
+Correctional Association,28
 350 South Bay LA,27
 A Better Way Forward to House California,27
 Abuse,27
@@ -5061,13 +5083,14 @@ Tuolumne County Sheriff,27
 Ventura County Economic Development Association,27
 "Western Line Constructors Chapter, Inc., NECA",27
 Women's Policy Institute,27
-and Students,27
 Encino Chamber of Commerce,27
 Legislation of California,27
 Geothermal Energy Association,27
 STRS,27
 Child Care Providers United,27
 "California Labor Federation, AFL-CIO",27
+Associates,27
+California League of,27
 Albany Neighbors United,26
 Alliance of Communities for Sustainable Fisheries,26
 American Sports Institute,26
@@ -5167,6 +5190,8 @@ Insurance Services Office,26
 League of California Cities (LCC),26
 South Bay Expressway,26
 "Federation of State, County and Municipal",26
+Construction,26
+States,26
 3m,25
 7-Eleven,25
 AAUW California,25
@@ -5271,6 +5296,9 @@ Unitarian Universalist Legislative Ministry,25
 United Organizations of Taxpayers,25
 Ventura County Clergy and Laity United for Economic Justice,25
 Vote Health,25
+Control,25
+California Federation of,25
+Committee on,25
 AMERESCO,24
 Alameda County Taxpayers' Association,24
 Alhambra,24
@@ -5301,8 +5329,6 @@ Child Abuse,24
 City of Monrovia Police Department,24
 "Coalition California Welfare Rights Organizations, Inc",24
 Concerned Citizens Community Involvement,24
-Construction,24
-Control,24
 Copart,24
 EMS MEDICAL DIRECTORS' ASSOCIATION OF CALIFORNIA,24
 East Bay Asian Local Development Corp,24
@@ -5359,7 +5385,6 @@ Sheriff of San Bernardino County,24
 Silicon Valley Bank,24
 Siskiyou Child Care Council,24
 South Orange County Regional Chambers of Commerce,24
-States,24
 TOWN OF DISCOVERY BAY COMMUNITY SERVICES DISTRICT,24
 Tahoe Chamber of Commerce,24
 Target,24
@@ -5377,6 +5402,7 @@ Water Replenishment District,24
 YMCA Childcare Resource Service,24
 California Association of Health Maintenance Organizations,24
 "Private Essential Access Community Hospitals, Inc",24
+County Health Executives Association of,24
 Alliance of Californians for Community Empowerment (ACCE),23
 Allied Waste Industries,23
 American Liver Foundation,23
@@ -5495,6 +5521,8 @@ Women's,23
 Zero Waste Company,23
 California Medical Group Association,23
 "The American College of Obstetricians and Gynecologists, District IX",23
+American College of,23
+Center for,23
 "AMERICAN INSTITUTE OF ARCHITECTS, CA COUNCIL",22
 Acclamation Insurance Management Services (AIMS),22
 Affordable Housing Associates,22
@@ -5506,7 +5534,6 @@ American Sand Association,22
 Anschutz Entertainment Group,22
 Asian Pacific American Legal Center (APALC),22
 "Associated General Contractors of America, San Diego Chapter",22
-Associates,22
 Association for the Improvement of Secondary Education,22
 Association of California Community and Energy Services,22
 Association of Postconsumer Plastic Recyclers,22
@@ -5649,6 +5676,9 @@ Yolo County Sheriffs Office,22
 Young's Market Company,22
 Yreka Chamber of Commerce,22
 The Century Council,22
+The California Chamber of Commerce,22
+Xilinx,22
+Lake Forest,22
 ABODU,21
 ANIMAL,21
 Affordable Housing Alliance,21
@@ -5775,7 +5805,6 @@ Sutter County Sheriff,21
 Symantec,21
 Tamalpais Design Review Board,21
 The Big Fresno Fair,21
-The California Chamber of Commerce,21
 The Dow Chemical Company,21
 The San Fernando Valley Young Democrats,21
 The Santa Monica Democratic Club,21
@@ -5792,12 +5821,11 @@ Western Hound Association of Southern California,21
 What We All Deserve,21
 Women for American Values and Ethics,21
 Women's Economic Ventures,21
-Xilinx,21
 Zero To Three,21
 American Council of Life Insurers (ACLI),21
 Shaklee Corporation,21
 Diamond Bar,21
-Lake Forest,21
+Equality,21
 100 Black Men of Long Beach,20
 350 Contra Costa Action,20
 350.org,20
@@ -6117,7 +6145,6 @@ Sunrise Silicon Valley,19
 Surplus Line Association of California,19
 Templeton Community Services District,19
 The Buckeye Conservancy,19
-The Center,19
 The Classical Academies,19
 The League of California Homeowners,19
 The League to Save Lake Tahoe,19
@@ -6143,6 +6170,9 @@ Humboldt County Sheriff,19
 League of United Latin American Citizens (LULAC),19
 American International Group (AIG),19
 Disability Rights California,19
+the,19
+Automobile Club of,19
+California Society of,19
 AIDS Health Care Foundation,18
 Abrazar,18
 Accrediting Commission for Community and Junior Colleges,18
@@ -6337,6 +6367,9 @@ California Association of Health Underwriters (CAHU),18
 Southern California Filipino Dental Society,18
 "AFSCME (American Federation of State, County and Municipal)",18
 AFSCME Council 36,18
+Transportation,18
+Xerox,18
+Building Owners and Managers Association of,18
 ADU TASK FORCE EAST BAY,17
 Abundant Housing Los Angeles,17
 Academy of California Adoption Lawyers (ACAL),17
@@ -6418,7 +6451,6 @@ East Palo Alto Community Law Project,17
 Eaze Technologies,17
 EcoEnergies,17
 Ecologistics,17
-Equality,17
 Eureka Chamber of Commerce,17
 Fair Housing Law Project,17
 Fervo Energy,17
@@ -6528,7 +6560,6 @@ The Nature of Wildworks,17
 The Resource Connection Food Bank,17
 Thermal Mechanical,17
 Transamerica Occidental Life Insurance Company,17
-Transportation,17
 Turkish Peace and Justice Committee,17
 Unite for Reproductive and Gender Equity,17
 United Farmworkers,17
@@ -6546,12 +6577,13 @@ WOMEN'S EMPOWERMENT,17
 Wilderness Society,17
 Women's Center-High Desert,17
 Women's Health Specialists of California,17
-Xerox,17
 Zoox,17
 California & Nevada Civil Engineers and Land Surveyors Association,17
 Mathews Foundation for Prostate Cancer Research,17
 Los Angeles County Board of Supervisors,17
 Sierra Club California,17
+State Building and Construction Trade Council of California,17
+Economy,17
 21st Century Insurance,16
 350 Petaluma,16
 AARP of California,16
@@ -6737,7 +6769,6 @@ Southern California Association of Law Libraries,16
 Southland Regional Association of Realtors,16
 Squab Producers of California,16
 St. Anne's,16
-State Building and Construction Trade Council of California,16
 Sunkist Growers,16
 The Bar Association of San Francisco,16
 The California Medical Association (CMA),16
@@ -6780,6 +6811,9 @@ Big Creek Lumber Company,16
 "Association of State, County and Municipal Employees",16
 "Federation of State, County and Municipal Employees, AFL-CIO",16
 United Nurses Associations of California/Union of Healthcare Professionals,16
+Gynecologists,16
+Community Development,16
+Personal Insurance Federation of,16
 350 Sonoma,15
 ABATE,15
 ABB,15
@@ -7019,7 +7053,6 @@ Westside Regional Alliance of Councils,15
 Weyerhaeuser Company,15
 Wynn's International,15
 Young Visionaries Youth Leadership Academy,15
-and Gynecologists,15
 Creative Card Congress,15
 "Natoma Technologies, Inc",15
 Achievement House,14
@@ -7296,6 +7329,9 @@ Employees (AFSME),14
 Professionals (UNAC/UHCP),14
 United Domestic Providers of America/AFSCME,14
 United Nurses Associations/Union of Health Care,14
+Executive Committee of the Family Law Section of the State Bar of,14
+University of,14
+"American Federation of State, County and Municipal Employees Association of",14
 AT&T California,13
 Aerojet,13
 Alameda County Public Health Department,13
@@ -7596,6 +7632,13 @@ Commission on Peace Officer Standards and Training (POST),13
 LeadingAge,13
 League of women Voters of California,13
 employees,13
+The Outdoor Sportsmen's Coalition of California,13
+Construction Trades Council,13
+California Association for,13
+"California Chapter, American College of",13
+California Organization of,13
+Outdoor Sportsmen's Coalition of,13
+Regional Council of,13
 350 Humboldt Grassroots Climate Action,12
 AAA,12
 AAUW,12
@@ -7708,10 +7751,8 @@ Coalition of Humane Immigrant Rights of Los Angeles,12
 Coastal Lands Action Network (CLAN),12
 Coilmen Plus,12
 Collateral Loan & Secondhand Dealers Association,12
-"Commission on the Status of Women, State of California",12
 Committee for Racial Justice,12
 Communications Workers of America (CWA),12
-Community Development,12
 Community Housing,12
 Computer Using Educators,12
 Contempo Marin Homeowners Association,12
@@ -7732,7 +7773,6 @@ EDS Corporation,12
 Earned Assets Resource Network,12
 Earth Communications Office,12
 Eastern Kern County Resource Conservation District,12
-Economy,12
 Educational Enrichment Systems,12
 Emergency Shelter Program,12
 Emmons Roof Service,12
@@ -7912,7 +7952,6 @@ The Dream Corps,12
 The Enterprise Foundation,12
 "The Kennedy Commission, Lake Forest",12
 The National Center for Youth Law,12
-The Outdoor Sportsmen's Coalition of California,12
 The Salt and Light Council,12
 The Scottish Terrier Club of California,12
 The Social Justice Law Project,12
@@ -7952,6 +7991,10 @@ American Federation of State County and Municipal Employees District Council 36,
 "State, County and Municipal Employees, AFL-CIO",12
 United Domestic Workers of America (UDW),12
 United Nurses Association/Union of Health Care Professionals,12
+Attorneys,12
+Electric,12
+(AFSCME),12
+California Chapter of the American College of,12
 "3CORE, Inc",11
 "6 Beds, Inc",11
 7-Eleven Stores Inc,11
@@ -7989,7 +8032,6 @@ Association for Coordinated Transportation,11
 Association of California State Supervisors (ACSS),11
 Association of Orange County Deputy Sheriffs Association,11
 "Association of the United States Army, Central California",11
-Attorneys,11
 "Aubrey Group, Inc",11
 Automotive Oil Change Association,11
 BREAD FOR THE WORLD,11
@@ -8107,7 +8149,6 @@ East Los Angeles Community Union,11
 Eden Enterprises,11
 Educational Community for Homeowners (ECHO),11
 ElderFocus,11
-Electric,11
 Electronic Data Systems,11
 End of Life Choices,11
 Endangered Species Coalition,11
@@ -8198,7 +8239,6 @@ Merced County Sheriff's Office,11
 Metropolitan,11
 Mid San Fernando Valley Chamber of Commerce,11
 Midtown Business Association,11
-"Military Order of the Purple Heart, Department of California",11
 Mission Focused Solutions,11
 Mission Housing Development Corporation,11
 Modular Installers Association,11
@@ -8363,6 +8403,11 @@ Yosemite Clean Energy,11
 California Mobilehome Resource & Action Association,11
 Desert Water Agency (DWA),11
 Geothermal Resources Council,11
+Andersen Consulting,11
+Accredited Out-of-State Colleges and Universities in,11
+Foundation for,11
+Fund for,11
+The California Association of,11
 2 Kings Gaming,10
 A.G. Spanos Companies,10
 ADRO Environmental,10
@@ -8390,7 +8435,6 @@ American Society of Interior Designers,10
 "American Subcontractors Association of California, Inc",10
 American Trucking Associations,10
 American Utility Management,10
-Andersen Consulting,10
 "Asian Pacific Partners for Empowerment, Advocacy and Leadership (APPEAL)",10
 "Associated Credit Bureaus, Inc",10
 Associated Roofing Contractors of the Bay Area Counties,10
@@ -8870,6 +8914,10 @@ County and Municipal Employees (AFSCME) AFL-CIO,10
 UDW Homecare Providers Union,10
 United Nurses Association of California / Union of Health Care Professionals,10
 Teamsters Joint Council 7,10
+Humane Society of Sonoma County,10
+Distributors,10
+California Academy of Family,10
+Associated Builders and Contractors of,10
 100% Campaign: Health Insurance for Every California Child,9
 350 Chico,9
 350 East Bay,9
@@ -9129,7 +9177,6 @@ Home Warranty Association of California,9
 Homies Organizing the Mission to Empower Youth,9
 Hospice Care of California,9
 Housing Equality Law Project,9
-Humane Society of Sonoma County,9
 IDEC Pharmaceuticals Corp,9
 IHI Power Services Corp,9
 Indivisible CA,9
@@ -9386,7 +9433,7 @@ Westside Council of Chambers of Commerce (WC3),9
 Wnc & Associates,9
 Youth Action Project,9
 Zenith Insurance,9
-and Pistol Association,9
+Pistol Association,9
 on Legislation,9
 American Occupational Therapy Association,9
 California Childrens Lobby,9
@@ -9398,7 +9445,10 @@ on Legislation of California,9
 Community Residential Care Association of CA,9
 National Academy of Building Inspection Engineers,9
 PacifiCare of California,9
-(AFSCME),8
+Hearing,9
+Law Section of the State Bar of California,9
+the Environment,9
+Municipal Employees,9
 1 Bag At A Time,8
 AAUW of California,8
 ABF Freight System,8
@@ -10016,7 +10066,6 @@ Xerces Society for Invertebrate Conservation,8
 Zanker Road Resource Management Ltd,8
 Zero Motorcycles,8
 "Zevin Asset Management, LLC",8
-and Advocacy,8
 the San Bernardino County Sheriff,8
 California Association of Community Organizations for Reform Now,8
 California Association of Professional Scientist,8
@@ -10041,7 +10090,11 @@ Association (AFSCME),8
 United Nurses Association of California/Union of Healthcare Professionals,8
 United Nurses Associations of CA-Union of Health Care Professionals,8
 United Nurses Associations of California/ Union of Health,8
-"and Municipal Employees (AFSCME, AFL-CIO)",8
+"Municipal Employees (AFSCME, AFL-CIO)",8
+Warehouse Union,8
+Motion Picture Association of,8
+The American College of,8
+The Associated Builders and Contractors of,8
 (CRLAF),7
 "A-Z Bus Sales, Inc",7
 ADT,7
@@ -10381,7 +10434,6 @@ Hanson Bridgett,7
 Hawaiian Gardens Card Club,7
 Health Care,7
 "Health For All, Inc",7
-Hearing,7
 Hearing Aid Dispensers Examining Committee,7
 "Hearing, Inc",7
 Hemet Police Officers Association,7
@@ -10422,7 +10474,6 @@ Kings Cabinet Systems,7
 Klaas Foundation for Children,7
 LAUP,7
 Law Section of the State Bar,7
-Law Section of the State Bar of California,7
 Lawyers' Committee for Civil Rights Under Law,7
 League of California Cities Central Valley Division,7
 "League of California Cities, San Diego County Division",7
@@ -10759,6 +10810,9 @@ County Welfare directors Association of California,7
 Privacy Rights Clearinghouse (PRC),7
 Older Women's league of California,7
 "Western Center on Law and Poverty, Inc.",7
+Land Surveyors,7
+National Association of Counsel for Children,7
+Family Services,7
 "for Animals, Inc",6
 350 Contra Costa,6
 350 San Diego,6
@@ -11036,7 +11090,6 @@ Diamond K Homeowners,6
 Direct Air Conditioning Corporation,6
 "Direct Marketing Association, Inc",6
 Distance Learning Company,6
-Distributors,6
 Dole Food Company,6
 Dooley Enterprises,6
 "Driving School Association of California, Incorporated",6
@@ -11182,7 +11235,6 @@ La Metro Hispanic Chamber of Commerce,6
 Lake Elsinore Animal Friends,6
 Lakeshore Gardens,6
 Lamar Advertising,6
-Land Surveyors,6
 "Lassen Canyon Nursery, Inc",6
 Latino Coalition,6
 Leadership Counsel for Justice and Accountability,6
@@ -11249,7 +11301,6 @@ NTT Software Corporation,6
 Napa County Deputy Sheriffs' Association,6
 "Napa Valley Aloft, Inc",6
 Napa Valley Telecom Services (NVTS),6
-National Association of Counsel for Children,6
 National Association of Insurance and Finance Advisors of California,6
 National Association of Letter Carriers,6
 National Association of Mutual Insurance Companies (NAMIC),6
@@ -11603,8 +11654,6 @@ YWCA San Francisco and Marin,6
 Youth on Course,6
 "Yuba-Sutter Disposal, Inc",6
 Zeem Solutions,6
-and Construction Trades Council,6
-and Individuals,6
 the Grow the Richmond,6
 the Warner Bros. Discovery,6
 "Biblio, Inc",6
@@ -11651,6 +11700,14 @@ United Domestic Providers of America,6
 United Nurses Association / Union of Health Care,6
 United Nurses Association of California/Union of Heath Care Professionals,6
 "United Nurses Association/Union of Health Care Professionals, AFSCME",6
+Community Service Programs,6
+Price Waterhouse,6
+SEIU California,6
+The California Board of Accountancy,6
+The California Retailers Association,6
+California Council for,6
+United Nurses Association of California/Union of,6
+United Nurses Associations of California/Union of,6
 "100 Black Men of the Bay Area, Inc",5
 350 SoCal Climate Action,5
 ACOG,5
@@ -11991,7 +12048,6 @@ Community Health Awareness Council,5
 "Community Health Centers of the Central Coast, Inc",5
 Community Medical Center,5
 Community RePower Movement,5
-Community Service Programs,5
 Concerned Women of America of California,5
 "Concerns of Police Survivors, Inc",5
 Conco West,5
@@ -12102,7 +12158,6 @@ Executive Committee of the Family Law Section of the State Bar of California,5
 "FHP, Incorporated",5
 Fair Rents for Redwood City,5
 Family Independence Initiative,5
-Family Services,5
 "Feather River Tribal Health, Inc",5
 FedEx Corporation,5
 Federal Bank,5
@@ -12482,7 +12537,6 @@ Pomona Fellowship Church of the Brethren,5
 Port,5
 "Premier Food Services, Inc",5
 "Prescription Management Services, Inc",5
-Price Waterhouse,5
 Pro Elections LLC,5
 Processes Unlimited International,5
 Proctor & Gamble Company,5
@@ -12544,7 +12598,6 @@ Ryan Snyder Associates,5
 Ryvid,5
 SAFCA,5
 SCVWD,5
-SEIU California,5
 SEIU Local 221,5
 SEIU Nurse Alliance,5
 SELPA Administrators Association of California,5
@@ -12721,7 +12774,6 @@ The California Alliance,5
 The California Association of Joint Powers Authorities,5
 The California Association of Private Postsecondary Schools (CAPPS),5
 The California Association of Realtors,5
-The California Board of Accountancy,5
 The California Chiropractic Association,5
 The California Conference Board of the Amalgamated Transit Union,5
 The California Council of Land Trusts,5
@@ -12730,7 +12782,6 @@ The California Department of Education,5
 The California Funeral Directors Association,5
 The California Independent Public Employees Legislative,5
 The California Peace Officers,5
-The California Retailers Association,5
 "The Cambodian Family, Inc",5
 The Cannabis Chamber of Commerce,5
 The Cannabis Pharmaceutical Coalition,5
@@ -12765,7 +12816,6 @@ The Global March for Elephants and Rhinos,5
 The Greater Eureka Chamber of Commerce,5
 The Green Cross,5
 The Green Lining Institute,5
-The Group,5
 The Grupe Company,5
 The Habematolel Pomo of Upper Lake,5
 The Happy City Coalition,5
@@ -12947,6 +12997,9 @@ Peace Officers Research Association of California (PORAC),5
 San Jose Silicon Valley Chamber of Commerce,5
 Toyota Motor Corporation,5
 LeadingAge California,5
+Domestic Violence Center,5
+Social Services,5
+Reinforcing Iron Workers Local Union 155,5
 2035 Initiative,4
 "350 East Bay, Legislative Committee",4
 350 Humboldt County,4
@@ -13489,7 +13542,6 @@ Contra Costa Immigrant Rights Alliance,4
 "Corigin Solutions, INC",4
 Cornerstone,4
 Corporation for Supportive Housing (San Diego),4
-Correctional Association,4
 "Cosm Films, LLC",4
 Costa Mesa Women's Golf Club,4
 Council for Adult and Experiential Learning,4
@@ -13561,7 +13613,6 @@ Doctors Orders: Play Golf,4
 Dog Owners of the Golden State,4
 "Dole Food Company, Inc",4
 Domestic,4
-Domestic Violence Center,4
 Don Chapin Company,4
 Donate Life,4
 Donovan Trucking Inc,4
@@ -14359,7 +14410,6 @@ Small School Districts,4
 SoCal CAN,4
 SoRSE Technology,4
 Soboba Springs Men's Golf Club,4
-Social Services,4
 Society of Nuclear Medicine,4
 Socrata,4
 Solar Wind Storage,4
@@ -14887,7 +14937,26 @@ United Nurses Associations of California-AFSCME,4
 United Nurses Associations of California/ Union of Health Care Professionals,4
 United Nurses Associations of California/Union of Health Care Professional,4
 United Nurses Associations of California/Union of Health Care Professionals United Public Employees,4
-and (AFSCME),4
+The American Federation of State,4
+The American Plastics Council,4
+The San Francisco Bar Pilots,4
+the Port of Oakland,4
+the Deaf,4
+American Society for the Prevention of Cruelty to,4
+Board of Supervisors of,4
+California Foundation for,4
+Fire Districts Association of,4
+Health Officers Association of,4
+National Association for the Advancement of,4
+Superior Court of,4
+The American College of Obstetricians and,4
+The Association for Children for,4
+The Board of Supervisors of,4
+The Executive Committee of the Family Law Section of the State Bar of,4
+Western States Council of,4
+Committee of,4
+National Union of American Physicians and Dentists as well as the American Federation of,4
+United Nurses Association of,4
 (LACOE),3
 "1 Bag at a Time, Inc",3
 "100 Black Men of Sacramento, Inc",3
@@ -14978,7 +15047,6 @@ Alfigen Incorporated,3
 Alhambra Retirement Community,3
 "Alimur Park Homeowners Association, Soquel",3
 "Allfast Fastening Systems, Inc",3
-Alliance (CMPA),3
 Alliance for Community Transit - Los Angeles (ACT-LA),3
 Alliance for Toxic Free Fire Safety (ATFFS),3
 Alliance of CA Autism Organizations,3
@@ -16771,11 +16839,9 @@ The Alcohol Policy Network,3
 The American Brotherhood Aimed Toward Education,3
 "The American College of Emergency Physicians, California State",3
 "The American College of Obstetricians and Gynecologists, District IX/CA",3
-The American Federation of State,3
 The American Foundation for Suicide Prevention,3
 The American Heart Association/American Stroke Association,3
 The American Plasma Users Coalition,3
-The American Plastics Council,3
 The American Quarter Horse Association,3
 The American Red Cross of California,3
 The American SPCA,3
@@ -16892,7 +16958,6 @@ The Civil Justice Association of California (CJAC),3
 "The Climate Reality Project, Los Angeles",3
 "The Climate Reality Project, San Diego",3
 "The Climate Reality Project, South Central Coast",3
-The Coalition,3
 The Coalition for Educational Justice,3
 The Coalition of California Insurance Professionals,3
 The Coalition of Welfare Rights Organizations,3
@@ -16995,7 +17060,6 @@ The Lumber Association of California & Nevada,3
 The MADE,3
 The Maritime Museum of San Diego,3
 The Mechanical Contractors of Southern California,3
-The Media,3
 The Mendocino Land Trust,3
 The Metropolitan Transportation Authority,3
 The Mockingbird Society,3
@@ -17060,7 +17124,6 @@ The San Diego Chargers,3
 The San Elijo Lagoon Conservancy,3
 The San Fernando Valley Sun,3
 The San Francisco 49ers,3
-The San Francisco Bar Pilots,3
 The San Francisco District Attorney's Office,3
 The San Francisco Food Security Task Force,3
 The Santa Clara Valley Audubon Society,3
@@ -17273,7 +17336,7 @@ Yuba-Sutter Disposal,3
 Yucca Valley Chamber of Commerce,3
 Zanker Road Resource Management,3
 Zevin Asset Management,3
-"and Pistol Association, Inc",3
+"Pistol Association, Inc",3
 assistants,3
 cause,3
 products,3
@@ -17307,6 +17370,20 @@ California Society of Health System Pharmacists,3
 Mental Health Association in California,3
 The American Civil Liberties Union,3
 Business Law Section of the State Bar of California,3
+The National Center for Lesbian Rights,3
+The Los Angeles County Board of,3
+American College of Obstetricians and Gynecologists of,3
+American Congress of,3
+"American Legion, Department of",3
+COUNTY RECORDER'S ASSOCIATION OF,3
+Medical Board of,3
+"Military Officers Association of America, California Council of",3
+"The American Legion, Department of",3
+The American Society for the Prevention of Cruelty to,3
+The California Chapter of the American College of,3
+The Foundation for,3
+The League of,3
+"The Retired Officers Association, California Council of",3
 for Animals,2
 ", AFL-CIO",2
 1 Plus 1 Senior Care,2
@@ -20258,7 +20335,6 @@ The Armenian American Republican Council,2
 The Asian American Architects/Engineers Association,2
 The Asian Law Alliance,2
 The Asian Pacific American Legal Center of Southern California,2
-The Association,2
 The Association for Multidisciplinary Education and Research in Substance Use and Addiction,2
 The Association of Black Psychologists,2
 The Association of California Insurance Companies (ACIC),2
@@ -20536,7 +20612,6 @@ The Food Allergy and Anaphylaxis Network,2
 The Food and Beverage Association,2
 The Forensic Mental Health Association of California,2
 The Forest Products Industry National Labor Management Committee,2
-The Foundation,2
 The Foundation for Advancing Alcohol Responsibility,2
 The Foundation for Allied Dental Education,2
 The Foundation for Osteoporosis Research and Education,2
@@ -20654,7 +20729,6 @@ The National Association of Insurance and Financial,2
 The National Association of Recording Merchandisers,2
 The National Association of Theatre Owners,2
 The National Center for Law and Policy,2
-The National Center for Lesbian Rights,2
 The National Compadres Network,2
 The National Day Laborer Organizing Network,2
 The National Federation of Independent Businesses,2
@@ -21094,13 +21168,11 @@ Youth United for Community Action (YUCA),2
 YouthPower Community Solutions,2
 Yuba Bicycles,2
 Z-Tech Sales Inc,2
-and Construction Trades Council of California,2
-and Drug Program Administrators Association of California,2
-and Education,2
-and Gynecologists California,2
-and Managers Association,2
-and Managers Association of California,2
-and the,2
+Construction Trades Council of California,2
+Drug Program Administrators Association of California,2
+Gynecologists California,2
+Managers Association,2
+Managers Association of California,2
 da California,2
 "i-Escrow, Inc",2
 on Legislation of CA,2
@@ -21366,9 +21438,46 @@ United Nurses Associations/Union of Health,2
 United Nurses Associations/Union of Health Care Professionals,2
 United Nurses of California/Union of Health Care Professionals (UNAC/UHCP),2
 Unites Domestic Workers/AFSCME,2
-"and Municipal Employees (AFSME), AFL-CIO",2
-and Municipal Employees - United Nurses Associations of California- Union of Health Care Professionals Alameda Labor Council,2
-and UDW/AFSCME,2
+"Municipal Employees (AFSME), AFL-CIO",2
+Municipal Employees - United Nurses Associations of California- Union of Health Care Professionals Alameda Labor Council,2
+UDW/AFSCME,2
+"Contractors of California, Inc",2
+Land Surveyors of California,2
+"Tarzana treatment Centers, Inc",2
+The county Welfare Directors Association of California,2
+"Western Center On Law & Poverty, Inc.",2
+"Education, Inc",2
+National Alliance on Mental Illness-California,2
+the California Association of Health Plans (CAHP),2
+The California Academy of Family,2
+American College of Obstetricians and,2
+Association for Children for,2
+California Asian Pacific Chamber of,2
+Chiefs of,2
+"Chrysalis Center, the",2
+Osteopathic Physicians and Surgeons of,2
+Peace Officers Research Assoc. of,2
+"Retired Officers Association, California Council of",2
+The Automobile Club of,2
+The Building Owners and Managers Association of,2
+The California Organization of,2
+The California Society of,2
+The Center for,2
+The Chiefs of,2
+The Consulting Engineers and Land Surveyors of,2
+The County Health Executives Association of,2
+The Humane Society of,2
+The National Association of,2
+The National Association of Insurance and Financial Advisors of,2
+The Personal Insurance Federation of,2
+The University of,2
+United Nurses Associations of,2
+"Veterans of Foreign Wars of the United States, Dept. of",2
+Veterans of Foreign Wars-Department of,2
+the Legion of,2
+"the Military Officers Association of America, California Council of",2
+"California American Federation of State, County, and Municipal Employees California National Organization for",2
+United Domestic Workers of,2
 "1 Plus 1 Senior Care, Inc",1
 100 Black Men of Sacramento,1
 "100 Black Men of Sacramento, Incorporated",1
@@ -23435,7 +23544,6 @@ Contracting Company,1
 "Contracting Company, Inc",1
 Contractor Inc,1
 "Contractors Association, Inc",1
-"Contractors of California, Inc",1
 Cook Erectors Cordova Glass,1
 Cooper Wheelock,1
 Cooperation for Supportive Housing (CSH),1
@@ -23968,7 +24076,6 @@ Foothill Waste Reclamation,1
 "Foothill Waste Reclamation, Inc",1
 Ford Motor,1
 Foreign Language Council of San Diego,1
-"Foreign Wars of the United States, Department of California",1
 "Forest home, Inc",1
 Foresthill Telephone Company (FTC),1
 "Forgiving for Living, Inc",1
@@ -24645,7 +24752,6 @@ Lam Research Corporation,1
 Lamplighter Mobile Home Park,1
 Lancaster Burns Construction,1
 Land Conservancy of San Luis Obispo Co,1
-Land Surveyors of California,1
 Land Trust of Santa Cruz,1
 Landis Plastics,1
 Lao Khmu Association,1
@@ -26464,7 +26570,6 @@ Taiwanese Chamber of Commerce in Orange,1
 Tallac Village Neighborhood Association (TVNA),1
 Tandem Computers Inc,1
 "Tanimura and Antle, Inc",1
-"Tarzana treatment Centers, Inc",1
 Taxicab Paratransit Association of California (TPAC),1
 "Taxpayers, Inc",1
 Taylor Trim & Supply,1
@@ -27358,7 +27463,6 @@ The Latino Council,1
 The Law,1
 The Law Offices of Lurie and Zepeda,1
 "The Lawson Roofing Co., Inc",1
-The League,1
 The League of California Cities (LCC),1
 The League of Women Prosecutors,1
 The League of Women Voters California,1
@@ -27495,7 +27599,6 @@ The National Vehicle Protection Association,1
 The Nature,1
 The Naturopathic Medicine Committee of California,1
 "The Ness Counseling Center, Inc",1
-The Network,1
 The Nevada County Department of Social Services,1
 "The New 49'ers, Inc",1
 The New Conservatory Theatre Center,1
@@ -27565,7 +27668,6 @@ The Point,1
 The Pomona Police Department,1
 The Ponderosa Telephone Company,1
 The Port of Long Beach,1
-The Port of Oakland,1
 The Prevention Institute,1
 The Printed Circuit Alliance (PCA),1
 "The Professional & Technical Engineers, IFPTE Local 21, AFL-CIO",1
@@ -27858,7 +27960,6 @@ The Women's Foundation of California Solis Policy Institute,1
 The Women's Health Collaborative,1
 The Yucca Corridor Coalition,1
 The Z-Best Products,1
-The county Welfare Directors Association of California,1
 "The for Animals, Inc",1
 Thermo Fluids,1
 "Third Laguna Hills Mutual, Inc",1
@@ -28202,7 +28303,6 @@ Western Ag Aviation,1
 Western Agricultural Chemicals Association (WACA),1
 Western Association of Schools and Colleges (WASC),1
 Western Care Construction,1
-"Western Center On Law & Poverty, Inc.",1
 Western Center on Law & Policy,1
 "Western Center on Law and Poverty, California",1
 Western Electrical Contractors Associations,1
@@ -28318,15 +28418,11 @@ Z-Tech Sales,1
 "Zanker Road Resource Management, Inc",1
 Zenith,1
 Zero Waste,1
-and Decorating Contractors of California,1
-"and Decorating Contractors of California, Inc",1
-and Drug Program Administrators Association of,1
-"and Education, Inc",1
-"and Individuals, Inc",1
-and Land Surveyors,1
-and Land Surveyors of California,1
-and the California,1
-and the California Chamber of Commerce,1
+Decorating Contractors of California,1
+"Decorating Contractors of California, Inc",1
+Drug Program Administrators Association of,1
+"Individuals, Inc",1
+the California,1
 "and, Sacramento Metropolitan Chamber of Commerce",1
 ear,1
 i-Escrow,1
@@ -28337,7 +28433,6 @@ the AARP,1
 the ALLY Foundation,1
 the AMVETS-Department of California,1
 the Act,1
-the Advocacy,1
 "the Aerospace and Defense Forum, Torrance Area Chamber of Commerce",1
 the African Immigrant and Refugee Resource Center,1
 the Alameda County Waste Management Authority,1
@@ -28419,7 +28514,6 @@ the County of Placer,1
 the Cs Forward,1
 the Culturally Responsive Domestic Violence Network,1
 the Dbsa California,1
-the Deaf,1
 "the Deaf, Inc",1
 the Debt Free Justice California,1
 the Diocese of Oakland,1
@@ -28429,7 +28523,6 @@ the East Bay,1
 the Economy,1
 the Edge Coalition,1
 the Enviromental Health Coalition,1
-the Environment,1
 the Fervo Energy,1
 the First Amendment,1
 the Global Cannabinoid Research Center,1
@@ -28560,3 +28653,47 @@ Paul Gann's Citizens Committee Inc.,1
 "Responsible Citizens, Inc.",1
 The Association of California School Administrators,1
 United Domestic Workers of America / AFSCME Local 3930 / AFL-CIO,1
+Restaurant Employees Union,1
+Utility Workers of America,1
+the California Bankers Association,1
+the California Police Chiefs' Association,1
+the Capitol Resource Institute,1
+the Governor,1
+the Riverside Sheriffs Association,1
+California Asian Chamber of,1
+Cambodian American Chamber of,1
+Employers Health Care Coalition of,1
+Fire District Associations of,1
+Humane Society of,1
+Legion of,1
+Service Employees International Union-Nurses Alliance of,1
+State Special Education Local Plan Administrators of,1
+The Accredited Out-of-State Colleges and Universities in,1
+The American College of Obstetricians and Gynecologists of,1
+The American Congress of,1
+The California Alliance for,1
+The California Association for,1
+"The California Chapter, American College of",1
+The California Council for,1
+The California State Association of,1
+The Committee of,1
+The Committee on,1
+The County Alcohol and Drug Program Administrators Association of,1
+The County Recorder's Association of,1
+The Employers Health Care Coalition of,1
+The Fire Districts Association of,1
+The Health Officers Association of,1
+The Mental Health Association in,1
+The Motion Picture Association of,1
+The Office of,1
+The Osteopathic Physicians and Surgeons of,1
+The Outdoor Sportsmen's Coalition of,1
+The Regional Council of,1
+VFW-Department of,1
+Veterans of Foreign Wars of the United States Department of,1
+the Association of,1
+the California Federation of,1
+the Medical Board of,1
+the National Association for the Advancement of,1
+the Superior Court of,1
+the Western States Council of,1

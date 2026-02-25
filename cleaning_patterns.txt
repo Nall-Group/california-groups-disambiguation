@@ -88,6 +88,9 @@
 (?i)^\s*According to the\s+
 (?i)^\s*According to\s+
 
+# Leading "and " fragment - BEGINNING
+(?i)^and\s+
+
 # General: leading round brackets containing metadata keywords - BEGINNING
 (?i)^\s*\([^)]*(?:\bversion\b|\bamend|\boppose|\bsponsor|\bsource\b|\bcommittee\b|\bletter\b|\bbill\b|\bintroduced\b|\bconcept\b|\bprior\b|\bverified|\breceived\b|\bsubmitted\b|\breflects|\bunable\b|\bper\s|\bas\sof\b|\bnone\s|\bsection\s*\d)[^)]*\)\s*
 
