@@ -116,6 +116,8 @@ Also add Sheriff and Police organizations that are not in the crosswalk, to the 
 
 35. Asked claude code (using opus 4.6 now) to go through 2_webapp/org_clusters_crosswalk.json and consolidate duplicate canonicals, move things that are not organizations (e.g. 7 individual letters), and consolidate local chapters of industry-specific unions
 
+36. add orgs that start with "and " to cleaning patterns
+
 XX. Move things that are obviously not organization names (like sponsor or SB) to invalid organization names list 
 
 

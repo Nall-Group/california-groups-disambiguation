@@ -713,11 +713,27 @@
       ]
     },
     {
-      "canonical": "9 to 5",
+      "canonical": "9to5",
       "status": "active",
       "children": [
         {
+          "name": "9 to 5",
+          "relationship": "alternate_spelling"
+        },
+        {
           "name": "9 to 5 California",
+          "relationship": "chapter"
+        },
+        {
+          "name": "9to5 of California",
+          "relationship": "chapter"
+        },
+        {
+          "name": "9to5 California",
+          "relationship": "chapter"
+        },
+        {
+          "name": "California 9to5",
           "relationship": "chapter"
         }
       ]
@@ -739,24 +755,6 @@
     {
       "canonical": "9TH STREET CO-OP",
       "status": "active"
-    },
-    {
-      "canonical": "9to5",
-      "status": "active",
-      "children": [
-        {
-          "name": "9to5 of California",
-          "relationship": "chapter"
-        },
-        {
-          "name": "9to5 California",
-          "relationship": "chapter"
-        },
-        {
-          "name": "California 9to5",
-          "relationship": "chapter"
-        }
-      ]
     },
     {
       "canonical": "A Better Citizen Foundation",
@@ -995,10 +993,6 @@
           "relationship": "alternate_spelling"
         }
       ]
-    },
-    {
-      "canonical": "AB 1506",
-      "status": "active"
     },
     {
       "canonical": "Abalone International",
@@ -1368,21 +1362,19 @@
       ]
     },
     {
-      "canonical": "Accent Care",
-      "status": "active",
-      "children": [
-        {
-          "name": "Accent Care, Inc",
-          "relationship": "alternate_spelling"
-        }
-      ]
-    },
-    {
       "canonical": "AccentCare",
       "status": "active",
       "children": [
         {
           "name": "AccentCare, Inc",
+          "relationship": "alternate_spelling"
+        },
+        {
+          "name": "Accent Care",
+          "relationship": "alternate_spelling"
+        },
+        {
+          "name": "Accent Care, Inc",
           "relationship": "alternate_spelling"
         }
       ]
