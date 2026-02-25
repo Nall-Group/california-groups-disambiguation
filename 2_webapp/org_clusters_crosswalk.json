@@ -1258,20 +1258,6 @@
       ]
     },
     {
-      "canonical": "Academy",
-      "status": "active",
-      "children": [
-        {
-          "name": "Academy of California",
-          "relationship": "chapter"
-        },
-        {
-          "name": "California Academy",
-          "relationship": "chapter"
-        }
-      ]
-    },
-    {
       "canonical": "ACADEMY OF CALIFORNIA ADOPTION LAWYERS",
       "status": "active",
       "children": [
@@ -1484,20 +1470,6 @@
         },
         {
           "name": "Accredited Out-of-State Colleges and Universities",
-          "relationship": "alternate_spelling"
-        }
-      ]
-    },
-    {
-      "canonical": "Accredited out of State Colleges and Universities in",
-      "status": "active",
-      "children": [
-        {
-          "name": "Accredited out of State Colleges and Universities in California",
-          "relationship": "chapter"
-        },
-        {
-          "name": "Accredited Out-of State Colleges and Universities in",
           "relationship": "alternate_spelling"
         }
       ]
@@ -2081,16 +2053,6 @@
       ]
     },
     {
-      "canonical": "ADMINISTRATION",
-      "status": "active",
-      "children": [
-        {
-          "name": "THE ADMINISTRATION",
-          "relationship": "alternate_spelling"
-        }
-      ]
-    },
-    {
       "canonical": "ADMINISTRATION OF JUSTICE",
       "status": "active",
       "children": [
@@ -2468,20 +2430,6 @@
         {
           "name": "Advisory Committee on Special Education, California",
           "relationship": "chapter"
-        }
-      ]
-    },
-    {
-      "canonical": "ADVOCACY",
-      "status": "active",
-      "children": [
-        {
-          "name": "THE ADVOCACY",
-          "relationship": "alternate_spelling"
-        },
-        {
-          "name": "Advocacy Inc",
-          "relationship": "alternate_spelling"
         }
       ]
     },
@@ -2917,16 +2865,6 @@
       ]
     },
     {
-      "canonical": "Afghan Hound Club of",
-      "status": "active",
-      "children": [
-        {
-          "name": "Afghan Hound Club of California",
-          "relationship": "chapter"
-        }
-      ]
-    },
-    {
       "canonical": "AFM",
       "status": "active",
       "children": [
@@ -3173,16 +3111,6 @@
       ]
     },
     {
-      "canonical": "Agency",
-      "status": "active",
-      "children": [
-        {
-          "name": "Agency, INC",
-          "relationship": "alternate_spelling"
-        }
-      ]
-    },
-    {
       "canonical": "AGENCY ON AGING/AREA 4",
       "status": "active",
       "children": [
@@ -3271,16 +3199,6 @@
         },
         {
           "name": "Aging California",
-          "relationship": "chapter"
-        }
-      ]
-    },
-    {
-      "canonical": "Aging Services of",
-      "status": "active",
-      "children": [
-        {
-          "name": "Aging Services of CA",
           "relationship": "chapter"
         }
       ]
@@ -3395,16 +3313,6 @@
     {
       "canonical": "AGRICULTURAL-NATURAL RESOURCES TRUST",
       "status": "active"
-    },
-    {
-      "canonical": "Agriculture Council of",
-      "status": "active",
-      "children": [
-        {
-          "name": "Agriculture Council of California",
-          "relationship": "chapter"
-        }
-      ]
     },
     {
       "canonical": "AGUA CALIENTE BAND OF CAHUILLA INDIANS",
@@ -4397,28 +4305,6 @@
         {
           "name": "Allfast Fastening Systems, Inc",
           "relationship": "alternate_spelling"
-        }
-      ]
-    },
-    {
-      "canonical": "ALLIANCE",
-      "status": "active",
-      "children": [
-        {
-          "name": "THE ALLIANCE",
-          "relationship": "alternate_spelling"
-        },
-        {
-          "name": "Alliance of California",
-          "relationship": "chapter"
-        },
-        {
-          "name": "ALLIANCE (CMPA)",
-          "relationship": "alternate_spelling"
-        },
-        {
-          "name": "California Alliance of Child and Family Services (Alliance)",
-          "relationship": "chapter"
         }
       ]
     },
@@ -6010,16 +5896,6 @@
         {
           "name": "American Association of Retired Persons-California",
           "relationship": "alternate_spelling"
-        }
-      ]
-    },
-    {
-      "canonical": "American Association of Retired Persons in",
-      "status": "active",
-      "children": [
-        {
-          "name": "American Association of Retired Persons in California",
-          "relationship": "chapter"
         }
       ]
     },
@@ -13790,20 +13666,6 @@
       ]
     },
     {
-      "canonical": "AMVETS-Department of",
-      "status": "active",
-      "children": [
-        {
-          "name": "AMVETS-Department of CA",
-          "relationship": "chapter"
-        },
-        {
-          "name": "AMVETS - Department of",
-          "relationship": "alternate_spelling"
-        }
-      ]
-    },
-    {
       "canonical": "Amway",
       "children": [
         {
@@ -16559,20 +16421,6 @@
       ]
     },
     {
-      "canonical": "Assoc. of",
-      "status": "active",
-      "children": [
-        {
-          "name": "Assoc. of California",
-          "relationship": "chapter"
-        },
-        {
-          "name": "California Assoc. of",
-          "relationship": "chapter"
-        }
-      ]
-    },
-    {
       "canonical": "Associated Bond and Insurance Agency",
       "status": "active",
       "children": [
@@ -17008,36 +16856,6 @@
       "children": [
         {
           "name": "THE ASSOCIATES GROUP FOR AFFORDABLE HOUSING",
-          "relationship": "alternate_spelling"
-        }
-      ]
-    },
-    {
-      "canonical": "ASSOCIATION",
-      "status": "active",
-      "children": [
-        {
-          "name": "THE ASSOCIATION",
-          "relationship": "alternate_spelling"
-        },
-        {
-          "name": "Association Inc",
-          "relationship": "alternate_spelling"
-        },
-        {
-          "name": "Association of CA",
-          "relationship": "chapter"
-        },
-        {
-          "name": "Association California",
-          "relationship": "chapter"
-        },
-        {
-          "name": "Association, Local 393",
-          "relationship": "chapter"
-        },
-        {
-          "name": "Association\\California",
           "relationship": "alternate_spelling"
         }
       ]
@@ -18317,16 +18135,6 @@
       ]
     },
     {
-      "canonical": "Association of Korean Asian Medicine & Acupuncture of",
-      "status": "active",
-      "children": [
-        {
-          "name": "Association of Korean Asian Medicine & Acupuncture of California",
-          "relationship": "chapter"
-        }
-      ]
-    },
-    {
       "canonical": "Association of Korean Asian Medicine and Acupuncture",
       "status": "active",
       "children": [
@@ -19226,16 +19034,6 @@
       ]
     },
     {
-      "canonical": "AUTHORITY",
-      "status": "active",
-      "children": [
-        {
-          "name": "California Authority",
-          "relationship": "chapter"
-        }
-      ]
-    },
-    {
       "canonical": "AUTHORS GUILD",
       "status": "active",
       "children": [
@@ -19524,16 +19322,6 @@
         {
           "name": "The Automotive Service Councils of California",
           "relationship": "alternate_spelling"
-        }
-      ]
-    },
-    {
-      "canonical": "Automotive Services Councils of",
-      "status": "active",
-      "children": [
-        {
-          "name": "Automotive Services Councils of California",
-          "relationship": "chapter"
         }
       ]
     },
@@ -22671,28 +22459,6 @@
         {
           "name": "BNSF Railway Company",
           "relationship": "alternate_spelling"
-        }
-      ]
-    },
-    {
-      "canonical": "Board",
-      "status": "active",
-      "children": [
-        {
-          "name": "Board of California",
-          "relationship": "chapter"
-        },
-        {
-          "name": "California Board",
-          "relationship": "chapter"
-        },
-        {
-          "name": "California Architects Board (Board)",
-          "relationship": "chapter"
-        },
-        {
-          "name": "California State Board of Pharmacy (Board)",
-          "relationship": "chapter"
         }
       ]
     },
@@ -34390,16 +34156,6 @@
       ]
     },
     {
-      "canonical": "California Home Economics Teachers Association of",
-      "status": "active",
-      "children": [
-        {
-          "name": "California Home Economics Teachers Association of California",
-          "relationship": "chapter"
-        }
-      ]
-    },
-    {
       "canonical": "CALIFORNIA HOMELESS AND HOUSING COALITION",
       "status": "active",
       "children": [
@@ -37767,16 +37523,6 @@
       ]
     },
     {
-      "canonical": "California Redevelopment Association, League of",
-      "status": "active",
-      "children": [
-        {
-          "name": "California Redevelopment Association, League of California",
-          "relationship": "chapter"
-        }
-      ]
-    },
-    {
       "canonical": "CALIFORNIA REFUSE RECYCLING COUNCIL",
       "status": "active",
       "children": [
@@ -38004,16 +37750,6 @@
         },
         {
           "name": "California Rifle & Pistol Association Incorporated",
-          "relationship": "alternate_spelling"
-        }
-      ]
-    },
-    {
-      "canonical": "California Rifle and",
-      "status": "active",
-      "children": [
-        {
-          "name": "California Rifle and Inc",
           "relationship": "alternate_spelling"
         }
       ]
@@ -39316,16 +39052,6 @@
         {
           "name": "THE CALIFORNIA STATE CONFERENCE OF THE NATIONAL ASSOCIATION",
           "relationship": "alternate_spelling"
-        }
-      ]
-    },
-    {
-      "canonical": "California State Conference of the National Association for the",
-      "status": "active",
-      "children": [
-        {
-          "name": "California State Conference of the National Association for the California",
-          "relationship": "chapter"
         }
       ]
     },
@@ -41430,16 +41156,6 @@
       ]
     },
     {
-      "canonical": "Campaign for",
-      "status": "active",
-      "children": [
-        {
-          "name": "Campaign for California",
-          "relationship": "chapter"
-        }
-      ]
-    },
-    {
       "canonical": "CAMPAIGN FOR A SAFE AND HEALTHY CALIFORNIA",
       "status": "active",
       "children": [
@@ -41824,16 +41540,6 @@
         {
           "name": "Capstone Turbine Corp",
           "relationship": "alternate_spelling"
-        }
-      ]
-    },
-    {
-      "canonical": "Car and Truck Rental and Leasing Association of",
-      "status": "active",
-      "children": [
-        {
-          "name": "Car and Truck Rental and Leasing Association of California",
-          "relationship": "chapter"
         }
       ]
     },
@@ -43083,28 +42789,6 @@
         {
           "name": "Cendant Car Rental Group, Inc",
           "relationship": "alternate_spelling"
-        }
-      ]
-    },
-    {
-      "canonical": "CENTER",
-      "status": "active",
-      "children": [
-        {
-          "name": "THE CENTER",
-          "relationship": "alternate_spelling"
-        },
-        {
-          "name": "Center, Inc",
-          "relationship": "alternate_spelling"
-        },
-        {
-          "name": "Center of California",
-          "relationship": "chapter"
-        },
-        {
-          "name": "California Center",
-          "relationship": "chapter"
         }
       ]
     },
@@ -50434,24 +50118,6 @@
       ]
     },
     {
-      "canonical": "Club",
-      "status": "active",
-      "children": [
-        {
-          "name": "Club California",
-          "relationship": "chapter"
-        },
-        {
-          "name": "Club of California",
-          "relationship": "chapter"
-        },
-        {
-          "name": "Club-California",
-          "relationship": "alternate_spelling"
-        }
-      ]
-    },
-    {
       "canonical": "Club of America",
       "status": "active",
       "children": [
@@ -50629,32 +50295,6 @@
     {
       "canonical": "COALINGA-HURON RECREATION AND PARK DISTRICT",
       "status": "active"
-    },
-    {
-      "canonical": "COALITION",
-      "status": "active",
-      "children": [
-        {
-          "name": "THE COALITION",
-          "relationship": "alternate_spelling"
-        },
-        {
-          "name": "Coalition, Inc",
-          "relationship": "alternate_spelling"
-        },
-        {
-          "name": "Coalition of California",
-          "relationship": "chapter"
-        },
-        {
-          "name": "California Coalition",
-          "relationship": "chapter"
-        },
-        {
-          "name": "California Coalition of Accredited Career Schools (The Coalition)",
-          "relationship": "chapter"
-        }
-      ]
     },
     {
       "canonical": "COALITION AGAINST DOMESTIC AND SEXUAL VIOLENCE",
@@ -51688,16 +51328,6 @@
       ]
     },
     {
-      "canonical": "Coca-Cola Bottling Company of",
-      "status": "active",
-      "children": [
-        {
-          "name": "Coca-Cola Bottling Company of California",
-          "relationship": "chapter"
-        }
-      ]
-    },
-    {
       "canonical": "COCA-COLA COMPANY",
       "status": "active",
       "children": [
@@ -52294,34 +51924,6 @@
         {
           "name": "THE COMMISSION ON THE STATUS OF WOMEN",
           "relationship": "alternate_spelling"
-        }
-      ]
-    },
-    {
-      "canonical": "Commission on the Status of Women, State of",
-      "status": "active",
-      "children": [
-        {
-          "name": "Commission on the Status of Women - State of California",
-          "relationship": "alternate_spelling"
-        }
-      ]
-    },
-    {
-      "canonical": "COMMITTEE",
-      "status": "active",
-      "children": [
-        {
-          "name": "Committee, Inc",
-          "relationship": "alternate_spelling"
-        },
-        {
-          "name": "Committee of California",
-          "relationship": "chapter"
-        },
-        {
-          "name": "Committee, Local 2620",
-          "relationship": "chapter"
         }
       ]
     },
@@ -54749,16 +54351,6 @@
       ]
     },
     {
-      "canonical": "Conference of Private Organizations in",
-      "status": "active",
-      "children": [
-        {
-          "name": "Conference of Private Organizations in California",
-          "relationship": "chapter"
-        }
-      ]
-    },
-    {
       "canonical": "CONFERENCE OF THE CALIFORNIA BAR ASSOCIATION",
       "status": "active",
       "children": [
@@ -55219,26 +54811,6 @@
       ]
     },
     {
-      "canonical": "Consulting",
-      "status": "active",
-      "children": [
-        {
-          "name": "Consulting, Inc",
-          "relationship": "alternate_spelling"
-        }
-      ]
-    },
-    {
-      "canonical": "Consulting Engineer and Land Surveyors of",
-      "status": "active",
-      "children": [
-        {
-          "name": "Consulting Engineer and Land Surveyors of California",
-          "relationship": "chapter"
-        }
-      ]
-    },
-    {
       "canonical": "Consulting Engineers",
       "status": "active",
       "children": [
@@ -55417,16 +54989,6 @@
       ]
     },
     {
-      "canonical": "Consumer Coalition of",
-      "status": "active",
-      "children": [
-        {
-          "name": "Consumer Coalition of California",
-          "relationship": "chapter"
-        }
-      ]
-    },
-    {
       "canonical": "CONSUMER CREDIT INDUSTRY ASSOCIATION",
       "status": "active",
       "children": [
@@ -55595,16 +55157,6 @@
         {
           "name": "CONSUMERS AND LAWYERS AGAINST CENSORSHIP (CLAC)",
           "relationship": "alternate_spelling"
-        }
-      ]
-    },
-    {
-      "canonical": "Consumers Attorneys of",
-      "status": "active",
-      "children": [
-        {
-          "name": "Consumers Attorneys of California",
-          "relationship": "chapter"
         }
       ]
     },
@@ -56423,28 +55975,6 @@
       ]
     },
     {
-      "canonical": "Council",
-      "status": "active",
-      "children": [
-        {
-          "name": "Council, Inc",
-          "relationship": "alternate_spelling"
-        },
-        {
-          "name": "Council of California",
-          "relationship": "chapter"
-        },
-        {
-          "name": "Council of CA",
-          "relationship": "chapter"
-        },
-        {
-          "name": "California Council",
-          "relationship": "chapter"
-        }
-      ]
-    },
-    {
       "canonical": "COUNCIL CENTER FOR SUSTAINABLE NEIGHBORHOODS",
       "status": "active"
     },
@@ -57013,16 +56543,6 @@
       ]
     },
     {
-      "canonical": "County Alcohol and Drug Program Administrators Assoc. of",
-      "status": "active",
-      "children": [
-        {
-          "name": "County Alcohol and Drug Program Administrators Assoc. of CA",
-          "relationship": "chapter"
-        }
-      ]
-    },
-    {
       "canonical": "COUNTY ALCOHOL AND DRUG PROGRAM ADMINISTRATORS ASSOCIATION OF",
       "status": "active",
       "children": [
@@ -57221,16 +56741,6 @@
         {
           "name": "County IAFF Local 1230",
           "relationship": "chapter"
-        }
-      ]
-    },
-    {
-      "canonical": "County of",
-      "status": "active",
-      "children": [
-        {
-          "name": "County of Inc",
-          "relationship": "alternate_spelling"
         }
       ]
     },
@@ -57829,16 +57339,6 @@
       "children": [
         {
           "name": "County Recorders Association of CA",
-          "relationship": "chapter"
-        }
-      ]
-    },
-    {
-      "canonical": "County Recorders' Association of the State of",
-      "status": "active",
-      "children": [
-        {
-          "name": "County Recorders' Association of the State of California",
           "relationship": "chapter"
         }
       ]
@@ -60156,28 +59656,6 @@
       "status": "active"
     },
     {
-      "canonical": "Department",
-      "status": "active",
-      "children": [
-        {
-          "name": "Department of California",
-          "relationship": "chapter"
-        },
-        {
-          "name": "Department of CA",
-          "relationship": "chapter"
-        },
-        {
-          "name": "California Department",
-          "relationship": "chapter"
-        },
-        {
-          "name": "Department, Local 685",
-          "relationship": "chapter"
-        }
-      ]
-    },
-    {
       "canonical": "DEPARTMENT OF BOATING AND WATERWAYS",
       "status": "active",
       "children": [
@@ -60691,16 +60169,6 @@
         },
         {
           "name": "California Department of Social Services (DSS)",
-          "relationship": "chapter"
-        }
-      ]
-    },
-    {
-      "canonical": "Department of Speech-Pathology and Audiology at",
-      "status": "active",
-      "children": [
-        {
-          "name": "Department of Speech-Pathology and Audiology at California",
           "relationship": "chapter"
         }
       ]
@@ -61694,16 +61162,6 @@
         {
           "name": "Dimic Steel Tech, Inc",
           "relationship": "alternate_spelling"
-        }
-      ]
-    },
-    {
-      "canonical": "Diocese of",
-      "status": "active",
-      "children": [
-        {
-          "name": "Diocese of California",
-          "relationship": "chapter"
         }
       ]
     },
@@ -64283,16 +63741,6 @@
       ]
     },
     {
-      "canonical": "Education",
-      "status": "active",
-      "children": [
-        {
-          "name": "Education, Inc",
-          "relationship": "alternate_spelling"
-        }
-      ]
-    },
-    {
       "canonical": "Education and Defense Fund",
       "status": "active",
       "children": [
@@ -65576,16 +65024,6 @@
       ]
     },
     {
-      "canonical": "Employment Development Department, State of",
-      "status": "active",
-      "children": [
-        {
-          "name": "Employment Development Department, State of California",
-          "relationship": "chapter"
-        }
-      ]
-    },
-    {
       "canonical": "EMPLOYMENT LAW CENTER",
       "status": "active",
       "children": [
@@ -66009,20 +65447,6 @@
       ]
     },
     {
-      "canonical": "Engineer and Scientists of",
-      "status": "active",
-      "children": [
-        {
-          "name": "Engineer and Scientists of California",
-          "relationship": "chapter"
-        },
-        {
-          "name": "Engineer and Scientists of California, Local 20, IFPTE Local 20, AFL-CIO",
-          "relationship": "chapter"
-        }
-      ]
-    },
-    {
       "canonical": "Engineering",
       "status": "active",
       "children": [
@@ -66108,52 +65532,6 @@
         },
         {
           "name": "Engineers, Local 20, AFL-CIO",
-          "relationship": "chapter"
-        }
-      ]
-    },
-    {
-      "canonical": "Engineers & Scientists of",
-      "status": "active",
-      "children": [
-        {
-          "name": "Engineers & Scientists of California",
-          "relationship": "chapter"
-        },
-        {
-          "name": "Engineers & Scientists of CA",
-          "relationship": "chapter"
-        },
-        {
-          "name": "Engineers & Scientists of California Local 20 IFPTE, AFL-CIO",
-          "relationship": "chapter"
-        },
-        {
-          "name": "Engineers & Scientists of California, Local 20 IFPTE",
-          "relationship": "chapter"
-        },
-        {
-          "name": "Engineers & Scientists of California, Local 20",
-          "relationship": "chapter"
-        },
-        {
-          "name": "Engineers & Scientists of California, Local 20, IFPTE,AFL-CIO",
-          "relationship": "chapter"
-        },
-        {
-          "name": "Engineers & Scientists of California, Local 20, IFPTE (San)",
-          "relationship": "chapter"
-        },
-        {
-          "name": "Engineers & Scientists of California, Local 20, IFPTE Local 20, AFL-CIO",
-          "relationship": "chapter"
-        },
-        {
-          "name": "Engineers & Scientists of CA, Local 20",
-          "relationship": "chapter"
-        },
-        {
-          "name": "Engineers & Scientists of CA, Local 20 IFPTE, ALF-0CIO",
           "relationship": "chapter"
         }
       ]
@@ -67368,16 +66746,6 @@
       ]
     },
     {
-      "canonical": "Episcopal Diocese of",
-      "status": "active",
-      "children": [
-        {
-          "name": "Episcopal Diocese of CA",
-          "relationship": "chapter"
-        }
-      ]
-    },
-    {
       "canonical": "EPISCOPAL DIOCESE OF CALIFORNIA",
       "status": "active",
       "children": [
@@ -68060,16 +67428,6 @@
         {
           "name": "THE EXECUTIVE COMMITTEE OF THE TRUSTS AND ESTATES SECTION",
           "relationship": "alternate_spelling"
-        }
-      ]
-    },
-    {
-      "canonical": "Executive Committee of the Trusts and Estates Section of the",
-      "status": "active",
-      "children": [
-        {
-          "name": "Executive Committee of the Trusts and Estates Section of the California",
-          "relationship": "chapter"
         }
       ]
     },
@@ -69039,16 +68397,6 @@
       ]
     },
     {
-      "canonical": "Family Services Council of",
-      "status": "active",
-      "children": [
-        {
-          "name": "Family Services Council of California",
-          "relationship": "chapter"
-        }
-      ]
-    },
-    {
       "canonical": "FAMILY VIOLENCE APPELLATE PROJECT",
       "status": "active"
     },
@@ -69371,24 +68719,6 @@
     {
       "canonical": "FEDERATED INDIANS OF GRATON RANCHERIA",
       "status": "active"
-    },
-    {
-      "canonical": "Federation",
-      "status": "active",
-      "children": [
-        {
-          "name": "Federation of California",
-          "relationship": "chapter"
-        },
-        {
-          "name": "Federation of CA",
-          "relationship": "chapter"
-        },
-        {
-          "name": "California Federation",
-          "relationship": "chapter"
-        }
-      ]
     },
     {
       "canonical": "FEDERATION FOR AMERICAN IMMIGRATION REFORM",
@@ -71154,26 +70484,6 @@
       ]
     },
     {
-      "canonical": "Foreign Wars of the United States, Department of",
-      "status": "active",
-      "children": [
-        {
-          "name": "Foreign Wars of the United States Department of California",
-          "relationship": "alternate_spelling"
-        }
-      ]
-    },
-    {
-      "canonical": "Foreign Wars, Department of",
-      "status": "active",
-      "children": [
-        {
-          "name": "Foreign Wars, Department of California",
-          "relationship": "chapter"
-        }
-      ]
-    },
-    {
       "canonical": "Foremen's Union - ILWU",
       "status": "active",
       "children": [
@@ -71382,28 +70692,6 @@
         {
           "name": "Found Oyster LLC",
           "relationship": "alternate_spelling"
-        }
-      ]
-    },
-    {
-      "canonical": "FOUNDATION",
-      "status": "active",
-      "children": [
-        {
-          "name": "THE FOUNDATION",
-          "relationship": "alternate_spelling"
-        },
-        {
-          "name": "Foundation, Inc",
-          "relationship": "alternate_spelling"
-        },
-        {
-          "name": "Foundation of California",
-          "relationship": "chapter"
-        },
-        {
-          "name": "California Foundation",
-          "relationship": "chapter"
         }
       ]
     },
@@ -72138,20 +71426,6 @@
         },
         {
           "name": "Local 1000 Friends Committee on Legislation",
-          "relationship": "chapter"
-        }
-      ]
-    },
-    {
-      "canonical": "Friends Committee on Legislation in",
-      "status": "active",
-      "children": [
-        {
-          "name": "Friends Committee on Legislation in California",
-          "relationship": "chapter"
-        },
-        {
-          "name": "Friends Committee on Legislation in CA",
           "relationship": "chapter"
         }
       ]
@@ -73648,20 +72922,6 @@
       ]
     },
     {
-      "canonical": "Girl Scout Councils of",
-      "status": "active",
-      "children": [
-        {
-          "name": "Girl Scout Councils of California",
-          "relationship": "chapter"
-        },
-        {
-          "name": "Girl Scout Councils of CA",
-          "relationship": "chapter"
-        }
-      ]
-    },
-    {
       "canonical": "GIRL SCOUTS",
       "status": "active",
       "children": [
@@ -74780,16 +74040,6 @@
       ]
     },
     {
-      "canonical": "Governor's Office of Planning and",
-      "status": "active",
-      "children": [
-        {
-          "name": "Governor's Office of Planning and California",
-          "relationship": "chapter"
-        }
-      ]
-    },
-    {
       "canonical": "GOVERNOR'S OFFICE OF PLANNING AND RESEARCH",
       "status": "active",
       "children": [
@@ -75849,24 +75099,6 @@
       ]
     },
     {
-      "canonical": "GROUP",
-      "status": "active",
-      "children": [
-        {
-          "name": "THE GROUP",
-          "relationship": "alternate_spelling"
-        },
-        {
-          "name": "Group, Inc",
-          "relationship": "alternate_spelling"
-        },
-        {
-          "name": "California Group",
-          "relationship": "chapter"
-        }
-      ]
-    },
-    {
       "canonical": "GROUP B STREP ASSOCIATION",
       "status": "active",
       "children": [
@@ -76223,16 +75455,6 @@
         {
           "name": "Gunkel Architecture INC",
           "relationship": "alternate_spelling"
-        }
-      ]
-    },
-    {
-      "canonical": "Guru Nanak Sat Sangat of",
-      "status": "active",
-      "children": [
-        {
-          "name": "Guru Nanak Sat Sangat of California",
-          "relationship": "chapter"
         }
       ]
     },
@@ -77066,20 +76288,6 @@
       ]
     },
     {
-      "canonical": "Hazardous Waste Association of",
-      "status": "active",
-      "children": [
-        {
-          "name": "Hazardous Waste Association of California",
-          "relationship": "chapter"
-        },
-        {
-          "name": "Hazardous Waste Association of CA",
-          "relationship": "chapter"
-        }
-      ]
-    },
-    {
       "canonical": "HCEB",
       "status": "active"
     },
@@ -77144,20 +76352,6 @@
     {
       "canonical": "HEAL THE OCEAN",
       "status": "active"
-    },
-    {
-      "canonical": "Health",
-      "status": "active",
-      "children": [
-        {
-          "name": "Health, Inc",
-          "relationship": "alternate_spelling"
-        },
-        {
-          "name": "California Health",
-          "relationship": "chapter"
-        }
-      ]
     },
     {
       "canonical": "HEALTH ACCESS",
@@ -81456,16 +80650,6 @@
       ]
     },
     {
-      "canonical": "Independent Automobile Dealers Assn. of",
-      "status": "active",
-      "children": [
-        {
-          "name": "Independent Automobile Dealers Assn. of CA",
-          "relationship": "chapter"
-        }
-      ]
-    },
-    {
       "canonical": "INDEPENDENT AUTOMOBILE DEALERS ASSOCIATION OF CALIFORNIA",
       "status": "active",
       "children": [
@@ -81672,16 +80856,6 @@
         {
           "name": "INDEPENDENT LIVING SERVICES OF NORTHERN CALIFORNIA (ILSNC)",
           "relationship": "alternate_spelling"
-        }
-      ]
-    },
-    {
-      "canonical": "Independent Merging Parent Associations of",
-      "status": "active",
-      "children": [
-        {
-          "name": "Independent Merging Parent Associations of California",
-          "relationship": "chapter"
         }
       ]
     },
@@ -83995,16 +83169,6 @@
       ]
     },
     {
-      "canonical": "Insolvency Committee, Business Law Section, State Bar of",
-      "status": "active",
-      "children": [
-        {
-          "name": "Insolvency Committee, Business Law Section, State Bar of California",
-          "relationship": "chapter"
-        }
-      ]
-    },
-    {
       "canonical": "INSOLVENCY LAW COMMITTEE OF THE BUSINESS LAW SECTION OF THE STATE BAR OF CALIFORNIA",
       "status": "active",
       "children": [
@@ -84017,20 +83181,6 @@
     {
       "canonical": "INSPIRED ADUS",
       "status": "active"
-    },
-    {
-      "canonical": "Institute",
-      "status": "active",
-      "children": [
-        {
-          "name": "Institute, Inc",
-          "relationship": "alternate_spelling"
-        },
-        {
-          "name": "Institute of CA",
-          "relationship": "chapter"
-        }
-      ]
     },
     {
       "canonical": "INSTITUTE FOR ADVANCED STUDY OF HUMAN SEXUALITY",
@@ -91356,16 +90506,6 @@
       ]
     },
     {
-      "canonical": "Justice Association of",
-      "status": "active",
-      "children": [
-        {
-          "name": "Justice Association of California",
-          "relationship": "chapter"
-        }
-      ]
-    },
-    {
       "canonical": "Justice at Work Law Group",
       "children": [
         {
@@ -92633,20 +91773,6 @@
       "children": [
         {
           "name": "KOREAN RESOURCE CENTER (KRC)",
-          "relationship": "alternate_spelling"
-        }
-      ]
-    },
-    {
-      "canonical": "Korean-American Grocers Association of",
-      "status": "active",
-      "children": [
-        {
-          "name": "Korean-American Grocers Association of California",
-          "relationship": "chapter"
-        },
-        {
-          "name": "Korean American Grocers Association of",
           "relationship": "alternate_spelling"
         }
       ]
@@ -94773,28 +93899,6 @@
       ]
     },
     {
-      "canonical": "LEAGUE",
-      "status": "active",
-      "children": [
-        {
-          "name": "THE LEAGUE",
-          "relationship": "alternate_spelling"
-        },
-        {
-          "name": "League of California",
-          "relationship": "chapter"
-        },
-        {
-          "name": "League of CA",
-          "relationship": "chapter"
-        },
-        {
-          "name": "California League",
-          "relationship": "chapter"
-        }
-      ]
-    },
-    {
       "canonical": "LEAGUE OF",
       "status": "active",
       "children": [
@@ -95159,20 +94263,6 @@
         {
           "name": "THE LEARNING CHOICE ACADEMY",
           "relationship": "alternate_spelling"
-        }
-      ]
-    },
-    {
-      "canonical": "Learning Disabilities Association of",
-      "status": "active",
-      "children": [
-        {
-          "name": "Learning Disabilities Association of California",
-          "relationship": "chapter"
-        },
-        {
-          "name": "Learning Disabilities Association of CA",
-          "relationship": "chapter"
         }
       ]
     },
@@ -95642,16 +94732,6 @@
         {
           "name": "LAO",
           "relationship": "alternate_spelling"
-        }
-      ]
-    },
-    {
-      "canonical": "Legislative Committee of the County Clerks Association of",
-      "status": "active",
-      "children": [
-        {
-          "name": "Legislative Committee of the County Clerks Association of California",
-          "relationship": "chapter"
         }
       ]
     },
@@ -98627,16 +97707,6 @@
       ]
     },
     {
-      "canonical": "Lumber Association of",
-      "status": "active",
-      "children": [
-        {
-          "name": "Lumber Association of California",
-          "relationship": "chapter"
-        }
-      ]
-    },
-    {
       "canonical": "LUMBER ASSOCIATION OF CALIFORNIA & NEVADA",
       "status": "active",
       "children": [
@@ -100855,16 +99925,6 @@
       ]
     },
     {
-      "canonical": "MEDIA",
-      "status": "active",
-      "children": [
-        {
-          "name": "THE MEDIA",
-          "relationship": "alternate_spelling"
-        }
-      ]
-    },
-    {
       "canonical": "MEDIA ALLIANCE",
       "status": "active",
       "children": [
@@ -101039,16 +100099,6 @@
       ]
     },
     {
-      "canonical": "Medical Oncology Association of",
-      "status": "active",
-      "children": [
-        {
-          "name": "Medical Oncology Association of California",
-          "relationship": "chapter"
-        }
-      ]
-    },
-    {
       "canonical": "MEDICAL ONCOLOGY ASSOCIATION OF SOUTHERN CALIFORNIA",
       "status": "active",
       "children": [
@@ -101063,16 +100113,6 @@
         {
           "name": "Medical Oncology Association of Southern California, Inc",
           "relationship": "alternate_spelling"
-        }
-      ]
-    },
-    {
-      "canonical": "Medical Services Administrators' Association of",
-      "status": "active",
-      "children": [
-        {
-          "name": "Medical Services Administrators' Association of California",
-          "relationship": "chapter"
         }
       ]
     },
@@ -101623,16 +100663,6 @@
         {
           "name": "Metabolix, Inc",
           "relationship": "alternate_spelling"
-        }
-      ]
-    },
-    {
-      "canonical": "Metal Finishing Association of",
-      "status": "active",
-      "children": [
-        {
-          "name": "Metal Finishing Association of California",
-          "relationship": "chapter"
         }
       ]
     },
@@ -102308,16 +101338,6 @@
       ]
     },
     {
-      "canonical": "Military Order of the Purple Heart, Department of",
-      "status": "active",
-      "children": [
-        {
-          "name": "Military Order of the Purple Heart - Department of California",
-          "relationship": "alternate_spelling"
-        }
-      ]
-    },
-    {
       "canonical": "MILK PRODUCERS COUNCIL",
       "status": "active",
       "children": [
@@ -102441,16 +101461,6 @@
     {
       "canonical": "MILLWRIGHTS LOCAL 102",
       "status": "active"
-    },
-    {
-      "canonical": "Milton Marks Commission on",
-      "status": "active",
-      "children": [
-        {
-          "name": "Milton Marks Commission on California",
-          "relationship": "chapter"
-        }
-      ]
     },
     {
       "canonical": "MIMI AND PETER HAAS FUND",
@@ -103559,20 +102569,6 @@
       ]
     },
     {
-      "canonical": "Mosquito and Vector Control Districts Association of",
-      "status": "active",
-      "children": [
-        {
-          "name": "Mosquito and Vector Control Districts Association of California",
-          "relationship": "chapter"
-        },
-        {
-          "name": "Mosquito and Vector Control Districts Association of CA",
-          "relationship": "chapter"
-        }
-      ]
-    },
-    {
       "canonical": "MOSQUITO VECTOR CONTROL ASSOCIATION OF CALIFORNIA",
       "status": "active",
       "children": [
@@ -104047,16 +103043,6 @@
       "status": "active"
     },
     {
-      "canonical": "Movimiento Estudiantil Chicano de Aztlan of",
-      "status": "active",
-      "children": [
-        {
-          "name": "Movimiento Estudiantil Chicano de Aztlan of California",
-          "relationship": "chapter"
-        }
-      ]
-    },
-    {
       "canonical": "MSG Forum",
       "children": [
         {
@@ -104242,16 +103228,6 @@
         },
         {
           "name": "Municipal Court of California",
-          "relationship": "chapter"
-        }
-      ]
-    },
-    {
-      "canonical": "Municipal Court Clerks of",
-      "status": "active",
-      "children": [
-        {
-          "name": "Municipal Court Clerks of California",
           "relationship": "chapter"
         }
       ]
@@ -110197,32 +109173,6 @@
       ]
     },
     {
-      "canonical": "NETWORK",
-      "status": "active",
-      "children": [
-        {
-          "name": "THE NETWORK",
-          "relationship": "alternate_spelling"
-        },
-        {
-          "name": "Network, Inc",
-          "relationship": "alternate_spelling"
-        },
-        {
-          "name": "Network of California",
-          "relationship": "chapter"
-        },
-        {
-          "name": "Network California",
-          "relationship": "chapter"
-        },
-        {
-          "name": "California Child Care Resource and Referral Network (Network)",
-          "relationship": "chapter"
-        }
-      ]
-    },
-    {
       "canonical": "NETWORK OF CALIFORNIA FAIRS",
       "status": "active",
       "children": [
@@ -113018,16 +111968,6 @@
       ]
     },
     {
-      "canonical": "Office of the",
-      "status": "active",
-      "children": [
-        {
-          "name": "Office of the California",
-          "relationship": "chapter"
-        }
-      ]
-    },
-    {
       "canonical": "OFFICE OF THE CITY ATTORNEY OF LOS ANGELES",
       "status": "active",
       "children": [
@@ -114387,24 +113327,6 @@
       ]
     },
     {
-      "canonical": "Organization",
-      "status": "active",
-      "children": [
-        {
-          "name": "Organization, California",
-          "relationship": "chapter"
-        },
-        {
-          "name": "Organization of California",
-          "relationship": "chapter"
-        },
-        {
-          "name": "California Organization",
-          "relationship": "chapter"
-        }
-      ]
-    },
-    {
       "canonical": "Organization for Strategic Studies",
       "status": "active",
       "children": [
@@ -114421,16 +113343,6 @@
         {
           "name": "Organization of Chinese Americans, Inc",
           "relationship": "alternate_spelling"
-        }
-      ]
-    },
-    {
-      "canonical": "Organization of Farmworker Women Leaders in",
-      "status": "active",
-      "children": [
-        {
-          "name": "Organization of Farmworker Women Leaders In California",
-          "relationship": "chapter"
         }
       ]
     },
@@ -114783,26 +113695,6 @@
         {
           "name": "Outdoor Power Equipment Institute, Inc",
           "relationship": "alternate_spelling"
-        }
-      ]
-    },
-    {
-      "canonical": "Outdoor Sportmen's Coalition of",
-      "status": "active",
-      "children": [
-        {
-          "name": "Outdoor Sportmen's Coalition of California",
-          "relationship": "chapter"
-        }
-      ]
-    },
-    {
-      "canonical": "Outdoor Sportsman Coalition of",
-      "status": "active",
-      "children": [
-        {
-          "name": "Outdoor Sportsman Coalition of California",
-          "relationship": "chapter"
         }
       ]
     },
@@ -118614,16 +117506,6 @@
         {
           "name": "Physical Therapy Examining Committee (PTEC)",
           "relationship": "alternate_spelling"
-        }
-      ]
-    },
-    {
-      "canonical": "Physician Assistant Committee of the Medical Board of",
-      "status": "active",
-      "children": [
-        {
-          "name": "Physician Assistant Committee of the Medical Board of California",
-          "relationship": "chapter"
         }
       ]
     },
@@ -123478,16 +122360,6 @@
       ]
     },
     {
-      "canonical": "Professional Engineers in",
-      "status": "active",
-      "children": [
-        {
-          "name": "Professional Engineers in Ca",
-          "relationship": "chapter"
-        }
-      ]
-    },
-    {
       "canonical": "PROFESSIONAL ENGINEERS IN CA GOVERNMENT",
       "status": "active",
       "children": [
@@ -123626,16 +122498,6 @@
       ]
     },
     {
-      "canonical": "Professional Investigators of",
-      "status": "active",
-      "children": [
-        {
-          "name": "Professional Investigators of California",
-          "relationship": "chapter"
-        }
-      ]
-    },
-    {
       "canonical": "Professional Managers Association",
       "status": "active",
       "children": [
@@ -123697,16 +122559,6 @@
       "children": [
         {
           "name": "PROFILE RESEARCH & MARKETING (PRM)",
-          "relationship": "alternate_spelling"
-        }
-      ]
-    },
-    {
-      "canonical": "Program",
-      "status": "active",
-      "children": [
-        {
-          "name": "Program, Inc",
           "relationship": "alternate_spelling"
         }
       ]
@@ -123800,16 +122652,6 @@
       ]
     },
     {
-      "canonical": "Progressive Democrats of",
-      "status": "active",
-      "children": [
-        {
-          "name": "Progressive Democrats of California",
-          "relationship": "chapter"
-        }
-      ]
-    },
-    {
       "canonical": "Progressive Democrats Of America",
       "status": "active",
       "children": [
@@ -123882,20 +122724,6 @@
     {
       "canonical": "PROGRESSIVE ZIONISTS OF CALIFORNIA",
       "status": "active"
-    },
-    {
-      "canonical": "Project",
-      "status": "active",
-      "children": [
-        {
-          "name": "Project California",
-          "relationship": "chapter"
-        },
-        {
-          "name": "California Project",
-          "relationship": "chapter"
-        }
-      ]
     },
     {
       "canonical": "Project 10",
@@ -124436,16 +123264,6 @@
       ]
     },
     {
-      "canonical": "Public Affairs Committee of the Junior Leagues of",
-      "status": "active",
-      "children": [
-        {
-          "name": "Public Affairs Committee of the Junior Leagues of California",
-          "relationship": "chapter"
-        }
-      ]
-    },
-    {
       "canonical": "PUBLIC AGENCY RETIREMENT SYSTEM",
       "status": "active",
       "children": [
@@ -124502,20 +123320,6 @@
     {
       "canonical": "PUBLIC COUNSEL LAW CENTER (LOS ANGELES, BEVERLY HILLS)",
       "status": "active"
-    },
-    {
-      "canonical": "Public Defenders Chapter of",
-      "status": "active",
-      "children": [
-        {
-          "name": "Public Defenders Chapter of Local 21 IFPTE",
-          "relationship": "chapter"
-        },
-        {
-          "name": "Public Defenders Chapter of Local 21",
-          "relationship": "chapter"
-        }
-      ]
     },
     {
       "canonical": "PUBLIC EMPLOYEES FOR ENVIRONMENTAL RESPONSIBILITY",
@@ -126993,16 +125797,6 @@
       ]
     },
     {
-      "canonical": "Reserve Officers Association of the United States, Department of",
-      "status": "active",
-      "children": [
-        {
-          "name": "Reserve Officers Association of the United States, Department of California",
-          "relationship": "chapter"
-        }
-      ]
-    },
-    {
       "canonical": "RESIDENT OWNED COMMUNITIES USA",
       "status": "active"
     },
@@ -127409,16 +126203,6 @@
         {
           "name": "THE RETIRED OFFICERS ASSOCIATION, CALIFORNIA COUNCIL OF CHAPTERS",
           "relationship": "alternate_spelling"
-        }
-      ]
-    },
-    {
-      "canonical": "Retired Peace Officers Association of",
-      "status": "active",
-      "children": [
-        {
-          "name": "Retired Peace Officers Association of California",
-          "relationship": "chapter"
         }
       ]
     },
@@ -128851,16 +127635,6 @@
       "children": [
         {
           "name": "Rural Counties of California",
-          "relationship": "chapter"
-        }
-      ]
-    },
-    {
-      "canonical": "Rural County Representative of",
-      "status": "active",
-      "children": [
-        {
-          "name": "Rural County Representative of California",
           "relationship": "chapter"
         }
       ]
@@ -130829,16 +129603,6 @@
       ]
     },
     {
-      "canonical": "San Franciscans for",
-      "status": "active",
-      "children": [
-        {
-          "name": "San Franciscans for California",
-          "relationship": "chapter"
-        }
-      ]
-    },
-    {
       "canonical": "SAN FRANCISCO 49ERS",
       "status": "active",
       "children": [
@@ -131157,16 +129921,6 @@
         {
           "name": "THE SAN FRANCISCO FOOD SECURITY TASK FORCE",
           "relationship": "alternate_spelling"
-        }
-      ]
-    },
-    {
-      "canonical": "San Francisco for",
-      "status": "active",
-      "children": [
-        {
-          "name": "San Francisco for California",
-          "relationship": "chapter"
         }
       ]
     },
@@ -133995,20 +132749,6 @@
       ]
     },
     {
-      "canonical": "Service",
-      "status": "active",
-      "children": [
-        {
-          "name": "Service Inc",
-          "relationship": "alternate_spelling"
-        },
-        {
-          "name": "California Service",
-          "relationship": "chapter"
-        }
-      ]
-    },
-    {
       "canonical": "SERVICE & JUSTICE COMM. OF THE DAVIS U. METHODIST CHURCH",
       "status": "active"
     },
@@ -134116,20 +132856,6 @@
         {
           "name": "Service West, Inc",
           "relationship": "alternate_spelling"
-        }
-      ]
-    },
-    {
-      "canonical": "Services",
-      "status": "active",
-      "children": [
-        {
-          "name": "Services Inc",
-          "relationship": "alternate_spelling"
-        },
-        {
-          "name": "Services of California",
-          "relationship": "chapter"
         }
       ]
     },
@@ -135904,16 +134630,6 @@
       "status": "active"
     },
     {
-      "canonical": "Show Producers of",
-      "status": "active",
-      "children": [
-        {
-          "name": "Show Producers of California",
-          "relationship": "chapter"
-        }
-      ]
-    },
-    {
       "canonical": "ShowBiz Pizza Time",
       "status": "active",
       "children": [
@@ -137621,16 +136337,6 @@
       ]
     },
     {
-      "canonical": "Small Business of",
-      "status": "active",
-      "children": [
-        {
-          "name": "Small Business of California",
-          "relationship": "chapter"
-        }
-      ]
-    },
-    {
       "canonical": "Small Business of America",
       "status": "active",
       "children": [
@@ -138048,30 +136754,6 @@
         {
           "name": "Social Workers, Inc",
           "relationship": "alternate_spelling"
-        }
-      ]
-    },
-    {
-      "canonical": "Socially Active Youth of",
-      "status": "active",
-      "children": [
-        {
-          "name": "Socially Active Youth of California",
-          "relationship": "chapter"
-        }
-      ]
-    },
-    {
-      "canonical": "Society",
-      "status": "active",
-      "children": [
-        {
-          "name": "Society of California",
-          "relationship": "chapter"
-        },
-        {
-          "name": "California Society",
-          "relationship": "chapter"
         }
       ]
     },
@@ -141212,16 +139894,6 @@
       "status": "active"
     },
     {
-      "canonical": "Stand Up for",
-      "status": "active",
-      "children": [
-        {
-          "name": "Stand up for California",
-          "relationship": "chapter"
-        }
-      ]
-    },
-    {
       "canonical": "STAND UP FOR NEIGHBORLY NOVATO",
       "status": "active"
     },
@@ -142076,16 +140748,6 @@
       ]
     },
     {
-      "canonical": "State Human Association of",
-      "status": "active",
-      "children": [
-        {
-          "name": "State Human Association of California",
-          "relationship": "chapter"
-        }
-      ]
-    },
-    {
       "canonical": "State Humane Association",
       "status": "active",
       "children": [
@@ -142137,16 +140799,6 @@
         },
         {
           "name": "California State Independent Living Council (SILC)",
-          "relationship": "chapter"
-        }
-      ]
-    },
-    {
-      "canonical": "State League of Women Voters of",
-      "status": "active",
-      "children": [
-        {
-          "name": "State League of Women Voters of California",
           "relationship": "chapter"
         }
       ]
@@ -142296,24 +140948,6 @@
       ]
     },
     {
-      "canonical": "State Public Affairs Committee - Junior Leagues of",
-      "status": "active",
-      "children": [
-        {
-          "name": "State Public Affairs Committee - Junior Leagues of California",
-          "relationship": "chapter"
-        },
-        {
-          "name": "State Public Affairs Committee/Junior Leagues of California",
-          "relationship": "alternate_spelling"
-        },
-        {
-          "name": "State Public Affairs Committee, Junior Leagues of CA",
-          "relationship": "chapter"
-        }
-      ]
-    },
-    {
       "canonical": "State Public Affairs Committee of the Junior League",
       "status": "active",
       "children": [
@@ -142333,16 +140967,6 @@
         },
         {
           "name": "State Public Affairs Committee of the Junior Leagues of CA",
-          "relationship": "chapter"
-        }
-      ]
-    },
-    {
-      "canonical": "State Public Affairs of the Junior Leagues of",
-      "status": "active",
-      "children": [
-        {
-          "name": "State Public Affairs of the Junior Leagues of California",
           "relationship": "chapter"
         }
       ]
@@ -144288,16 +142912,6 @@
         {
           "name": "SUSTAINABLE ECONOMIES LAW CENTER (SELC)",
           "relationship": "alternate_spelling"
-        }
-      ]
-    },
-    {
-      "canonical": "Sustainable Environment and Economy for",
-      "status": "active",
-      "children": [
-        {
-          "name": "Sustainable Environment and Economy for California",
-          "relationship": "chapter"
         }
       ]
     },
@@ -147669,16 +146283,6 @@
       ]
     },
     {
-      "canonical": "Trust and Estates Law Section of the State Bar of",
-      "status": "active",
-      "children": [
-        {
-          "name": "Trust and Estates Law Section of the State Bar of California",
-          "relationship": "chapter"
-        }
-      ]
-    },
-    {
       "canonical": "Trust and Estates Section of the State Bar",
       "status": "active",
       "children": [
@@ -148620,56 +147224,6 @@
       ]
     },
     {
-      "canonical": "Union",
-      "status": "active",
-      "children": [
-        {
-          "name": "Union of California",
-          "relationship": "chapter"
-        },
-        {
-          "name": "California Union",
-          "relationship": "chapter"
-        },
-        {
-          "name": "Union Local 6",
-          "relationship": "chapter"
-        },
-        {
-          "name": "Union, Local 29",
-          "relationship": "chapter"
-        },
-        {
-          "name": "Union, Local 26",
-          "relationship": "chapter"
-        },
-        {
-          "name": "Union, Local 4873 Continued",
-          "relationship": "chapter"
-        },
-        {
-          "name": "Union, Local 68L",
-          "relationship": "chapter"
-        },
-        {
-          "name": "Union, Local 5",
-          "relationship": "chapter"
-        },
-        {
-          "name": "Union, Local 4873",
-          "relationship": "chapter"
-        },
-        {
-          "name": "Union, Local 11",
-          "relationship": "chapter"
-        },
-        {
-          "name": "Union - Local 535",
-          "relationship": "chapter"
-        }
-      ]
-    },
-    {
       "canonical": "Union Bank",
       "status": "active",
       "children": [
@@ -148864,16 +147418,6 @@
     {
       "canonical": "UNITARIAN UNIVERSALIST CONGREGATION, SANTA ROSA SANTA ROSA",
       "status": "active"
-    },
-    {
-      "canonical": "Unitarian Universalist Justice Ministry of",
-      "status": "active",
-      "children": [
-        {
-          "name": "Unitarian Universalist Justice Ministry of California",
-          "relationship": "chapter"
-        }
-      ]
     },
     {
       "canonical": "Unitarian Universalist Legislative Ministry",
@@ -158443,16 +156987,6 @@
       ]
     },
     {
-      "canonical": "United Steelworkers, District 12 and",
-      "status": "active",
-      "children": [
-        {
-          "name": "United Steelworkers, District 12 and Local 1304",
-          "relationship": "chapter"
-        }
-      ]
-    },
-    {
       "canonical": "United Steelworkers, USW",
       "status": "active",
       "children": [
@@ -161898,16 +160432,6 @@
       ]
     },
     {
-      "canonical": "Volunteer Centers of",
-      "status": "active",
-      "children": [
-        {
-          "name": "Volunteer Centers of California",
-          "relationship": "chapter"
-        }
-      ]
-    },
-    {
       "canonical": "VOLUNTEERS OF AMERICA - PROJECT CHOICE",
       "status": "active"
     },
@@ -165293,16 +163817,6 @@
     {
       "canonical": "WOMEN'S INTERNATIONAL LEAGUE OF PEACE & FREEDOM, FRESNO",
       "status": "active"
-    },
-    {
-      "canonical": "Women's League of",
-      "status": "active",
-      "children": [
-        {
-          "name": "Women's League of California",
-          "relationship": "chapter"
-        }
-      ]
     },
     {
       "canonical": "Women's March",
