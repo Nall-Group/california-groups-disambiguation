@@ -9234,26 +9234,6 @@
           "relationship": "alternate_spelling"
         },
         {
-          "name": "of AFSCME, Local",
-          "relationship": "alternate_spelling"
-        },
-        {
-          "name": "of State, County and Municipal Employees",
-          "relationship": "alternate_spelling"
-        },
-        {
-          "name": "of State, County and Municipal Employees (AFSCME), AFL-CIO",
-          "relationship": "alternate_spelling"
-        },
-        {
-          "name": "of State, County and Municipal Employees, AFL-CIO",
-          "relationship": "alternate_spelling"
-        },
-        {
-          "name": "of State, County and Municipal Employees, AFSCME",
-          "relationship": "alternate_spelling"
-        },
-        {
           "name": "AFSCME California",
           "relationship": "chapter",
           "children": [
@@ -60422,14 +60402,6 @@
               "relationship": "alternate_spelling"
             },
             {
-              "name": "for Los Angeles Deputy Sheriffs",
-              "relationship": "alternate_spelling"
-            },
-            {
-              "name": "for Los Angeles Deputy Sheriffs, Inc",
-              "relationship": "alternate_spelling"
-            },
-            {
               "name": "Los Angeles County Deputy Sheriffs",
               "relationship": "alternate_spelling"
             },
@@ -70426,36 +70398,6 @@
         },
         {
           "name": "for Animals",
-          "relationship": "alternate_spelling"
-        }
-      ]
-    },
-    {
-      "canonical": "for Children",
-      "status": "active",
-      "children": [
-        {
-          "name": "for Children, Inc",
-          "relationship": "alternate_spelling"
-        }
-      ]
-    },
-    {
-      "canonical": "for Coordinated Transportation",
-      "status": "active",
-      "children": [
-        {
-          "name": "for Coordinated Transportation, Inc",
-          "relationship": "alternate_spelling"
-        }
-      ]
-    },
-    {
-      "canonical": "for Independent Living",
-      "status": "active",
-      "children": [
-        {
-          "name": "for Independent Living, Inc",
           "relationship": "alternate_spelling"
         }
       ]
