@@ -671,20 +671,20 @@
         {
           "name": "6 Beds, Inc",
           "relationship": "alternate_spelling"
-        }
-      ]
-    },
-    {
-      "canonical": "6beds",
-      "status": "active",
-      "children": [
-        {
-          "name": "6Beds, Inc",
-          "relationship": "alternate_spelling"
         },
         {
-          "name": "6BedsInc",
-          "relationship": "alternate_spelling"
+          "name": "6beds",
+          "relationship": "alternate_spelling",
+          "children": [
+            {
+              "name": "6Beds, Inc",
+              "relationship": "alternate_spelling"
+            },
+            {
+              "name": "6BedsInc",
+              "relationship": "alternate_spelling"
+            }
+          ]
         }
       ]
     },
@@ -699,16 +699,16 @@
         {
           "name": "7 Eleven",
           "relationship": "alternate_spelling"
-        }
-      ]
-    },
-    {
-      "canonical": "7-Eleven Stores",
-      "status": "active",
-      "children": [
+        },
         {
-          "name": "7-Eleven Stores Inc",
-          "relationship": "alternate_spelling"
+          "name": "7-Eleven Stores",
+          "relationship": "alternate_spelling",
+          "children": [
+            {
+              "name": "7-Eleven Stores Inc",
+              "relationship": "alternate_spelling"
+            }
+          ]
         }
       ]
     },
@@ -729,16 +729,6 @@
         {
           "name": "911 Emergency Services, Inc",
           "relationship": "alternate_spelling"
-        }
-      ]
-    },
-    {
-      "canonical": "9412, and",
-      "status": "active",
-      "children": [
-        {
-          "name": "9412, and Local 9423",
-          "relationship": "chapter"
         }
       ]
     },
@@ -819,15 +809,15 @@
       ]
     },
     {
-      "canonical": "A NEW WAY OF LIFE",
-      "status": "active"
-    },
-    {
       "canonical": "A NEW WAY OF LIFE RE-ENTRY PROJECT",
       "status": "active",
       "children": [
         {
           "name": "A New Way of Life Re Entry Project",
+          "relationship": "alternate_spelling"
+        },
+        {
+          "name": "A NEW WAY OF LIFE",
           "relationship": "alternate_spelling"
         }
       ]
@@ -1236,19 +1226,17 @@
       "status": "active"
     },
     {
-      "canonical": "Academic Professional of California",
-      "status": "active",
-      "children": [
-        {
-          "name": "Academic Professional of California Local 1002",
-          "relationship": "chapter"
-        }
-      ]
-    },
-    {
       "canonical": "Academic Professionals of California",
       "status": "active",
       "children": [
+        {
+          "name": "Academic Professional of California",
+          "relationship": "alternate_spelling"
+        },
+        {
+          "name": "Academic Professional of California Local 1002",
+          "relationship": "chapter"
+        },
         {
           "name": "Academic Professionals of California, Local 1002, AFL-CIO",
           "relationship": "chapter"
