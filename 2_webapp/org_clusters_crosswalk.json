@@ -37152,7 +37152,13 @@
         },
         {
           "name": "California Public Defenders Association (CDPA)",
-          "relationship": "chapter"
+          "relationship": "chapter",
+          "children": [
+            {
+              "name": "California State Public defenders Association",
+              "relationship": "alternate_spelling"
+            }
+          ]
         },
         {
           "name": "CPDA",
@@ -133019,7 +133025,13 @@
         },
         {
           "name": "Sheet Metal Workers, Local 273",
-          "relationship": "chapter"
+          "relationship": "chapter",
+          "children": [
+            {
+              "name": "Sheet metal Workers Local Union 273",
+              "relationship": "alternate_spelling"
+            }
+          ]
         },
         {
           "name": "Sheet Metal Workers', Local 104",
@@ -166238,6 +166250,309 @@
       "canonical": "Vera Institute of Justice",
       "status": "active",
       "children": []
+    },
+    {
+      "canonical": "Nexus eWater",
+      "status": "active",
+      "children": [
+        {
+          "name": "Nexus eWater, Inc",
+          "relationship": "alternate_spelling"
+        }
+      ]
+    },
+    {
+      "canonical": "enXco",
+      "status": "active",
+      "children": [
+        {
+          "name": "enXco Development Corporation",
+          "relationship": "alternate_spelling"
+        }
+      ]
+    },
+    {
+      "canonical": "adaptiveARC",
+      "status": "active",
+      "children": [
+        {
+          "name": "adaptiveARC, Inc",
+          "relationship": "alternate_spelling"
+        }
+      ]
+    },
+    {
+      "canonical": "iLEAD",
+      "status": "active",
+      "children": [
+        {
+          "name": "iLead",
+          "relationship": "alternate_spelling"
+        },
+        {
+          "name": "iLEAD Hybrid Charter School",
+          "relationship": "chapter"
+        },
+        {
+          "name": "iLEAD Online Charter School",
+          "relationship": "chapter"
+        }
+      ]
+    },
+    {
+      "canonical": "interACT",
+      "status": "active",
+      "children": []
+    },
+    {
+      "canonical": "infoplace USA",
+      "status": "active",
+      "children": []
+    },
+    {
+      "canonical": "rPlanet Earth",
+      "status": "active",
+      "children": []
+    },
+    {
+      "canonical": "eMotorWerks",
+      "status": "active",
+      "children": []
+    },
+    {
+      "canonical": "iVeridis Corporation",
+      "status": "active",
+      "children": []
+    },
+    {
+      "canonical": "emPraxis",
+      "status": "active",
+      "children": []
+    },
+    {
+      "canonical": "inHarmony Naturals",
+      "status": "active",
+      "children": []
+    },
+    {
+      "canonical": "eCullet Glass Recycler",
+      "status": "active",
+      "children": []
+    },
+    {
+      "canonical": "eLife Sciences Publications",
+      "status": "active",
+      "children": []
+    },
+    {
+      "canonical": "mySafetyNEST",
+      "status": "active",
+      "children": []
+    },
+    {
+      "canonical": "iCivics",
+      "status": "active",
+      "children": []
+    },
+    {
+      "canonical": "eMeter",
+      "status": "active",
+      "children": []
+    },
+    {
+      "canonical": "eHealthInsurance",
+      "status": "active",
+      "children": []
+    },
+    {
+      "canonical": "eSilicon",
+      "status": "active",
+      "children": []
+    },
+    {
+      "canonical": "iKeepSafe",
+      "status": "active",
+      "children": []
+    },
+    {
+      "canonical": "iHomefinder",
+      "status": "active",
+      "children": []
+    },
+    {
+      "canonical": "eCustomers.com",
+      "status": "active",
+      "children": []
+    },
+    {
+      "canonical": "hSquared Technology",
+      "status": "active",
+      "children": []
+    },
+    {
+      "canonical": "iCure Health International",
+      "status": "active",
+      "children": []
+    },
+    {
+      "canonical": "iDirections.com",
+      "status": "active",
+      "children": []
+    },
+    {
+      "canonical": "iScribe",
+      "status": "active",
+      "children": []
+    },
+    {
+      "canonical": "iSquad Repair (Carlsbad)",
+      "status": "active",
+      "children": []
+    },
+    {
+      "canonical": "eCosway",
+      "status": "active",
+      "children": []
+    },
+    {
+      "canonical": "eCitizens.org",
+      "status": "active",
+      "children": []
+    },
+    {
+      "canonical": "eSkye",
+      "status": "active",
+      "children": []
+    },
+    {
+      "canonical": "eCertain",
+      "status": "active",
+      "children": []
+    },
+    {
+      "canonical": "Ventura Visitors & Convention Bureau",
+      "status": "active",
+      "children": [
+        {
+          "name": "Ventura Visitors & convention Bureau",
+          "relationship": "alternate_spelling"
+        }
+      ]
+    },
+    {
+      "canonical": "Reid Hardware",
+      "status": "active",
+      "children": [
+        {
+          "name": "Reid hardware",
+          "relationship": "alternate_spelling"
+        }
+      ]
+    },
+    {
+      "canonical": "California Life and Health Guarantee Association",
+      "status": "active",
+      "children": [
+        {
+          "name": "California Life and Health Guarantee association",
+          "relationship": "alternate_spelling"
+        }
+      ]
+    },
+    {
+      "canonical": "Mariposa County Superior & Municipal Courts",
+      "status": "active",
+      "children": [
+        {
+          "name": "Mariposa county Superior & Municipal Courts",
+          "relationship": "alternate_spelling"
+        }
+      ]
+    },
+    {
+      "canonical": "Stanislaus County Superior & Municipal Courts",
+      "status": "active",
+      "children": [
+        {
+          "name": "Stanislaus county Superior & Municipal Courts",
+          "relationship": "alternate_spelling"
+        }
+      ]
+    },
+    {
+      "canonical": "Solano County Courts",
+      "status": "active",
+      "children": [
+        {
+          "name": "Solano County courts",
+          "relationship": "alternate_spelling"
+        }
+      ]
+    },
+    {
+      "canonical": "Gardens Regional Hospital and Medical Center",
+      "status": "active",
+      "children": [
+        {
+          "name": "Gardens Regional Hospital and Medical center",
+          "relationship": "alternate_spelling"
+        }
+      ]
+    },
+    {
+      "canonical": "Matthews Foundation for Prostate Cancer Research",
+      "status": "active",
+      "children": [
+        {
+          "name": "Matthews Foundation for prostate Cancer Research",
+          "relationship": "alternate_spelling"
+        }
+      ]
+    },
+    {
+      "canonical": "R.J. Gordon Construction",
+      "status": "active",
+      "children": [
+        {
+          "name": "R.J. Gordon construction",
+          "relationship": "alternate_spelling"
+        }
+      ]
+    },
+    {
+      "canonical": "Power System Dynamics",
+      "status": "active",
+      "children": [
+        {
+          "name": "Power system Dynamics",
+          "relationship": "alternate_spelling"
+        }
+      ]
+    },
+    {
+      "canonical": "San Francisco District Attorney's Family Violence Project",
+      "status": "active",
+      "children": [
+        {
+          "name": "San Francisco District Attorney's Family violence Project",
+          "relationship": "alternate_spelling"
+        }
+      ]
+    },
+    {
+      "canonical": "Personnel Insurance Association of California",
+      "status": "active",
+      "children": []
+    },
+    {
+      "canonical": "Hell.com Contractors",
+      "status": "active",
+      "children": [
+        {
+          "name": "Hell.com contractors",
+          "relationship": "alternate_spelling"
+        }
+      ]
     }
   ]
 }
