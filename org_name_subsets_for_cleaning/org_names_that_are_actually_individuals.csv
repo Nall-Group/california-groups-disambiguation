@@ -45,6 +45,7 @@ Lieutenant Governor John Garamendi,19
 Senator Dianne Feinstein,19
 Lieutenant Governor Leo McCarthy,18
 San Francisco Mayor Edwin Lee,18
+Congressman Sam Farr,18
 "Eric Garcetti, Mayor of the City of Los Angeles",17
 Office of Los Angeles County Supervisor Lindsey P. Horvath,17
 Senator Simitian,17
@@ -54,6 +55,7 @@ Assembly Member Allen,16
 Governor Gavin Newsom,16
 "Mayor Daniel Lurie, City and County of San Francisco",16
 Mayor Robert Garcia,16
+Judge Quentin Kopp,16
 "MAYOR OF LOS ANGELES, ERIC GARCETTI",15
 California Attorney General Rob Bonta,15
 Alameda County Supervisor Nate Miley,15
@@ -62,11 +64,14 @@ Council Member Zach Hilton,15
 Mayor Libby Schaaf,15
 "Supervisor Illa Collin, Sacramento County",15
 US Senator Dianne Feinstein,15
+Congressman Mike Thompson,15
+Treasurer Bill Lockyer,15
 San Francisco Mayor London Breed,14
 California Attorney General Bill Lockyer,14
 "Honorable Dan Albert, Mayor of Monterey",14
 Kern County Supervisor Jeff Flores,14
 Long Beach Mayor Robert Garcia,14
+Sheriff Leroy D. Baca,14
 Assembly Member Sher,13
 City of Berkeley Councilmember Rashi Kesarwani,13
 Councilmember David Alvarez,13
@@ -91,6 +96,7 @@ Los Angeles County Supervisor Sheila Kuehl,11
 Los Angeles Mayor James Hahn,11
 Lt. Governor Leo McCarthy,11
 Office of Mayor Antonio R. Villaraigosa,11
+Congresswoman Maxine Waters,11
 "HONORABLE ERIC GARCETTI, MAYOR",10
 Bell Gardens Mayor Pro Tem Salvador Franco,10
 California Attorney General Kamala D. Harris,10
@@ -116,6 +122,11 @@ San Francisco Mayor's Office,10
 Senator Kehoe,10
 State of California Attorney General Rob Bonta,10
 Numerous Mobilehome Owners,10
+Congressman Brad Sherman,10
+Congressman Gary Condit,10
+Congresswoman Lynn Woolsey,10
+"Judge James R. Brandlin, Los Angeles Superior Court",10
+Treasurer Phil Angelides,10
 7 INDIVIDUAL LETTERS,9
 "Cruz M. Bustamante, Lieutenant Governor",9
 City Council Member Anne M. Bayer - Downey,9
@@ -147,6 +158,12 @@ Santa Clara County Supervisor Blanca Alvarado,9
 Senator Diane Feinstein,9
 Senator Rosenthal,9
 Senator Thompson,9
+Congressman Wally Herger,9
+Congresswoman Jackie Speier,9
+Judge Quentin L. Kopp,9
+Mayor G. Dana Hobart,9
+Mayor H. Manuel Ortiz,9
+Miss Kitty's Rescue - Newport Beach,9
 "Bill Lockyer, Attorney General",8
 "Bill Lockyer, State Treasurer",8
 Alameda County Supervisor Alice Lai-Bitker,8
@@ -175,6 +192,8 @@ Santa Clara County Supervisor Dave Cortese,8
 Senator Leonard,8
 South San Francisco Councilmember James Coleman,8
 "Todd Gloria, Mayor",8
+Congressman George Miller,8
+Sheriff Don Horsley,8
 135 Individuals,7
 SAN FRANCISCO SUPERVISOR MALIA COHEN,7
 "The Honorable Betty T. Yee, California State Controller",7
@@ -219,6 +238,11 @@ Solano County Supervisor Monica Brown,7
 "Supervisor Jaron Brandon, Tuolumne County",7
 "Supervisor Keith Carson, Alameda County",7
 Ventura County Supervisor John K. Flynn,7
+"Congressman Charles Boustany, Jr",7
+Congressman Charlie Melancon,7
+Congresswoman Julia Brownley,7
+Congresswoman Lucille Roybal-Allard,7
+Sheriff Sherman Block,7
 OAKLAND MAYOR LIBBY SCHAAF,6
 LOS ANGELES COUNTY SUPERVISOR MICHAEL ANTONOVICH,6
 "HONORABLE DIANNE FEINSTEIN, UNITED STATES SENATOR",6
@@ -272,6 +296,14 @@ Senator Rogers,6
 Supervisor Joan Hartmann,6
 U.S. Representative Maxine Waters,6
 Oakland Mayor Jean Quan,6
+Congressman Jared Huffman,6
+Congressman John Garamendi,6
+Congresswoman Anna G. Eshoo,6
+Congresswoman Zoe Lofgren,6
+Controller John Chiang,6
+"Governor of Lousiana, Kathleen Blanco",6
+Governor's Public Employee Post-Employment Benefits,6
+Mr. Roofing,6
 MONTEREY COUNTY SUPERVISOR JANE PARKER,5
 "The Honorable Sam Liccardo, Mayor",5
 COUNTY OF SAN DIEGO THIRD DISTRICT SUPERVISOR TERRA LAWSON-REMER,5
@@ -382,6 +414,23 @@ Tulare County Supervisor Dennis Townsend,5
 Tulare County Supervisor Larry Micari,5
 United States Senator Diane Feinstein,5
 Numerous Physician and Surgeons,5
+Congressman Dennis A. Cardoza,5
+Congressman George Radanovich,5
+"Congressman Howard P. ""Buck"" McKeon",5
+Congressman Jerry Lewis,5
+Congressman Ted Lieu,5
+Congresswoman Grace Napolitano,5
+Congresswoman Karen Bass,5
+Judge Eli Chernow,5
+"Mr. Randy Paige, Consumer Reporter, KABC-TV, Los Angeles",5
+Ms. Audrey Wilson,5
+"Rev. Carolyn Taylor Guidry, Elder for Western Region, 5th",5
+"Reverend Bets Wienecke, Goleta",5
+"Reverend Dr. Peggy Johnson, Santa Barbara",5
+"Reverend Jill Martinez, Oxnard",5
+Reverend John Fuller,5
+"Reverend Mark Asman, Santa Barbara",5
+Senator O'Connell,5
 537 Individuals,4
 "Franz E. Miller, Individual",4
 ALAMEDA COUNTY SUPERVISOR KEITH CARSON- DISTRICT 5,4
@@ -645,6 +694,30 @@ Numerous Citizens,4
 Numerous Individual Certified Public Accountants,4
 Numerous Insurance Agents and Brokers,4
 Numerous spas,4
+Congressman Adam Schiff,4
+Congressman Bill Thomas,4
+Congressman Bob Filner,4
+Congressman Duncan Hunter,4
+Congressman Mark Takano,4
+Congressman Tony Cardenas,4
+Congresswoman Barbara Lee,4
+Congresswoman Doris Matsui,4
+Congresswoman Judy Chu,4
+Controller Steve Westly,4
+DR Evans Private Investigations,4
+Governor's bill . The Governor,4
+Judge Charles L. Patrick San Diego Municipal Court Judge,4
+"Judge Kay Tsenin, San Francisco Superior Court",4
+Judge Ladoris H. Cordell (Ret.),4
+Judge Larry Stirling,4
+Judge Milliken,4
+"Judge Quentin Kopp, San Mateo Superior Court",4
+"Judge Ron Coen, Los Angeles Superior Court",4
+Mr. Clean Maintenance Systems,4
+Mr. Transmission,4
+REV Brands,4
+Rev Renewables,4
+Rev. William Monroe Cambell,4
 "Patricia I. O'Reilly, Individual",3
 "Michael J. Patterson, Individual",3
 289 Individuals,3
@@ -1105,6 +1178,55 @@ Numerous Donor Family Members,3
 Numerous Letters from Educational Technology Directors,3
 "Numerous Physicians, and Physician Assistants (approximately 1200)",3
 Numerous Transplant Recipients,3
+Commissioner John Garamendi,3
+Congressman Alan Lowenthal,3
+Congressman Dennis Cardoza,3
+Congressman Devin Nunes,3
+Congressman Edward R. Royce,3
+Congressman Eric Swalwell,3
+Congressman Gary A. Condit,3
+Congressman George Brown,3
+Congressman Howard L. Berman,3
+Congressman Jim Costa,3
+Congressman Jimmy Gomez,3
+Congressman Kevin McCarthy,3
+Congressman Mark DeSaulnier,3
+Congressman Pete Stark,3
+Congressman Ron Paul,3
+Congressman Steve Knight,3
+Congressman William E. Dannemeyer,3
+"Congressman and Mrs. Paul ""Pete"" McCloskey",3
+Congresswoman Anna Eshoo,3
+Congresswoman Mimi Walters,3
+Controller Betty Yee,3
+"Judge Eugene M. Hyman, Superior Court",3
+Judge Harlan Grossman,3
+Judge James Ruggiero,3
+"Judge Jim Brandlin, Los Angeles Superior Court",3
+"Judge John Dearman, San Francisco Superior Court",3
+Judge John Henning (L.A. Superior Court),3
+"Judge John Henning, Supervising Judge of the L.A. Superior",3
+Judge Peggy Hora,3
+"Judge Philip Moscone, San Francisco Superior Court",3
+"Judge Robert Coates, San Diego Superior Court",3
+Judge Roderic Duncan,3
+Judge Wendy S. Lindley,3
+MS Management Services,3
+Mayor Pro-Tem,3
+Miss Kitty's Rescue,3
+Mr. B's Lawnmower and Saw Shop,3
+"Mr. David M. Singer, Chief of Police",3
+"Mr. Harry K. Murphy, Enrolled Agent",3
+Mr. Perry's/Original Perry's,3
+"Mr. Robert J. Manners, Los Angeles, CA",3
+Mrs. Fred Astaire,3
+REV Ocean,3
+Senator,3
+Sheriff Dick Williams,3
+Sheriff Gary Penrod,3
+Sheriff Sherman,3
+Treasurer Fiona Ma,3
+Judge Greg Marcus,3
 Numerous Other Associations and Individuals,2
 Writers Guild of America West Numerous Individuals,2
 "Vallerie Chiappone, Individual",2
@@ -1954,6 +2076,95 @@ Numerous Private Parties,2
 Numerous Roofing Companies,2
 Numerous Veterans,2
 Numerous Indivduals,2
+Assemblyman Woodruff California Congress of Parents,2
+Attorney General of California Xavier Becerra,2
+"Attorney General of California, Bill Lockyer",2
+"Commissioner General, Special Envoy and Personal",2
+Commissioner John R. Dean (Lake Isabella),2
+Commissioner William O. Scott,2
+"Congressman Brian Bilbray, U.S. House of Representatives",2
+Congressman Darrell Issa,2
+Congressman Ed Royce,2
+Congressman Henry,2
+Congressman Henry A. Wasman,2
+Congressman Joe Baca,2
+Congressman Ken Calvert,2
+Congressman Merv Dymally (retired),2
+Congressman Norma Torres,2
+Congressman Ro Kahanna,2
+Congressman Ro Kanna,2
+Congressman Steve Kuykendall,2
+Congressman Ted W. Lieu,2
+Congressmember Nancy Pelosi,2
+Congresswoman,2
+Congresswoman Anna Eschoo,2
+Congresswoman Lois Capps,2
+Congresswoman Loretta Sanchez,2
+Congresswoman Susan Davis,2
+Controller Connell,2
+Controller Kathleen Connell,2
+Controller Malia M. Cohen,2
+"Judge Alan Rosenfield, Newhall Municipal Court",2
+Judge Barry Loncke,2
+Judge Casey's Saucery,2
+Judge Darrell W. Stevens,2
+Judge Donald C. Byrd,2
+"Judge Hammes & Judge Lasater, San Diego Superior Court",2
+Judge Harold E. Shabo of the Los Angeles Superior Court,2
+"Judge Harold E. Shabo, Supervising Judge of the Mental",2
+"Judge James Milliken, San Diego Juvenile Court",2
+Judge Jeffrey Tauber,2
+Judge Jerrold Krieger of the Los Angeles Superior Court,2
+"Judge John Henning, Supervising California Assoc. of Adoption",2
+"Judge John Henning, Supervising Judge L.A. Superior Court",2
+"Judge Laura Hammes, San Diego Superior Court",2
+"Judge Phillip Saeta, Los Angeles Courts",2
+Judge Price,2
+Judge Roderic Duncan (Ret.),2
+Judge Ronald R. Combest,2
+Judge Stephen V. Manley,2
+"Judge William F. Ferroggiaro, Jr., Superior Court of Eureka",2
+Mayor W. Richard Ulmer,2
+"Mayor W.D. ""Bill"" Landis",2
+"Mr. Bob Lavin, Manager, Tandem Computers",2
+Mr. Corner Modular Cabinets,2
+"Mr. David A. Lash, Executive Director",2
+"Mr. Don Geiger, President of the Sesquicentennial",2
+"Mr. Dwayne M Horii, Los Angeles, CA",2
+Mr. Frank Hill,2
+"Mr. Frank Staben, Staben Equipment",2
+"Mr. Greg Donlon, Staben Equipment",2
+"Mr. Henry Guttentag, Fountain Vly., CA",2
+Mr. Jim Liontas,2
+Mr. Kenneth Schelberg,2
+Mr. Ron Titus,2
+"Mr. Scotty Syler, Staben Equipment",2
+"Mr. Steve Guttentag, Fountain Vly., CA",2
+Mr. Steve Konoff,2
+Mr. Traffic Cable T.V. Show,2
+Mrs. Dalloway's,2
+Mrs. Diane Xitco,2
+Mrs. Hull's 6th Grade Class at Sierra Gardens Elementary,2
+"Ms. Barbara Beatty, Berkley, CA",2
+Ms. Beth Kelvington,2
+Ms. Cecilia Nunez,2
+"Ms. Deborah J. La Franchi, Member, Business Tax Advisory",2
+"Ms. Elizabeth A. Vencil, MT (ASCP)",2
+Ms. Fits Consignments,2
+"Ms. Lisa Freeman-Grant, Paralegal",2
+"Ms. Lynne Guttentag, Fountain Vly., CA",2
+Ms. Sherry McCoy,2
+Ms. Sonia Lagan,2
+Representative,2
+"Rev. Henry W. Hearns, Vice Mayor",2
+Reverend Johnson of Good Shepherd Homes,2
+"Reverend Neil Thomas, Senior Pastor, Metropolitan Community",2
+Senator K. Maurice Johannessen,2
+Sheriff Gary Penrod of San Bernardino,2
+Sheriff Michael Hennessey,2
+Sheriff Robert Doyle,2
+"Sheriff Sherman Block, Los Angeles",2
+Superintendent Delaine Eastin,2
 Over 550 Individuals,1
 "Omar Murillo, Individual",1
 More than 20 Individuals,1
@@ -4059,6 +4270,213 @@ Numerous Redevelopment Agencies,1
 Numerous Registered Nurses,1
 Numerous Sureties,1
 Numerous U.S. Air Force Plant 42 Fire Department Employees,1
+Attorney General's Task Force on the Criminal,1
+Attorney General's Task Force on the Criminal Justice,1
+"Attorney General, Daniel",1
+"Commissioner General, Special Envoy & Personal",1
+Commissioner Geoffrey F. Brown,1
+"Commissioner Paola Laverde, Berkeley",1
+Commissioner Ricardo Lara,1
+Commissioner Richard A. Curtis,1
+Congressman,1
+"Congressman & Mrs. Paul ""Pete"" McCloskey",1
+Congressman Brian Bilbray,1
+Congressman David G. Valadao,1
+Congressman Edward Royce,1
+Congressman Estaban Torres,1
+Congressman Henry Waxman (Los Angeles),1
+"Congressman Henry Waxman (Los Angeles, CA)",1
+Congressman Juan Vargas,1
+Congressman Lou Correa (CA-46),1
+Congressman Matthew Martinez,1
+Congressman Newt Gingrich,1
+Congressman Paul Cook,1
+Congressman Pete McCloskey,1
+Congressman Richard W. Pombo,1
+Congressman Ro Khanna,1
+Congressman Ronald Dellums,1
+Congressman Sonny Bono,1
+Congressman Tom Campbell,1
+Congressman Tom Lantos,1
+Congressman Wally,1
+Congressman Xavier Becerra,1
+Congressmember Adam Schiff,1
+Congressmember Anna G. Eshoo,1
+Congressmember Barbara Lee,1
+Congressmember Bob Filner,1
+Congressmember Brad Sherman,1
+Congressmember Ellen O. Tauscher,1
+"Congressmember Fortney ""Pete"" Stark",1
+Congressmember George Miller (in order of signature),1
+Congressmember Grace Napolitano,1
+Congressmember Henry A. Waxman,1
+Congressmember Hilda L. Solis,1
+Congressmember Howard Berman,1
+Congressmember Lois Capps,1
+Congressmember Loretta Sanchez,1
+Congressmember Lynn C. Woolsey,1
+Congressmember Maxine Waters,1
+Congressmember Michael M. Honda,1
+Congressmember Sam Farr,1
+Congressmember Susan Davis,1
+Congressmember Tom Lantos,1
+Congressmember Zoe Lofgren,1
+Congresswoman Nanette Diaz Barragan,1
+Congresswoman Norma Torres,1
+Congresswoman Ro Khanna,1
+Controller Gray Davis,1
+Controller John Chaing,1
+Controller Wendy Greuel,1
+GOVERNOR'S BUDGET . The Governor's Aging with Dignity,1
+"Governor M.J. Foster, Louisiana",1
+Governor of Louisiana,1
+"Governor of Louisiana, Kathleen Blanco",1
+Governor of Wisconsin,1
+Governor's Child Support Court Task Force,1
+Governor's Secretary of Education,1
+"Governor, who",1
+Judge Anthony C. Joseph (retired),1
+Judge Brandlin of Los Angeles Superior Court,1
+Judge Charles L,1
+Judge David O. Carter of the Superior Court of Orange,1
+Judge Dennis E. Murray,1
+Judge Elizabeth Nay Kutzner,1
+Judge Harold E,1
+"Judge Herald E. Shabo, Supervising Judge of the Mental Health",1
+Judge James R. Brandlin,1
+Judge James Stiven (ret.),1
+"Judge Jerome S. Nadler, Santa Clara",1
+Judge Jim Brandlin of the Los Angeles Superior,1
+"Judge John Henning, Supervising Judge of the L.A Superior Court",1
+Judge L.A. Superior Court,1
+"Judge Lawrence Stirling, Municipal Court, San Diego",1
+Judge Leonard Edwards (ret),1
+Judge Margaret S,1
+Judge Mary Ann Grilli (Santa),1
+"Judge Mautino, Presiding Judge of the Los Cerritos",1
+"Judge Pamela Iles, Superior Court",1
+Judge Peter E. Riddle,1
+Judge Philip M. Saeta (Ret.),1
+"Judge Philip Moscone, San Francisco",1
+Judge Quentin L. Kopp (Ret.),1
+Judge R,1
+Judge Richard L. Freeborn,1
+"Judge Richard L. Freeborn, Presiding Judge of the Coordinated Lake",1
+"Judge Roger Randall, Kern",1
+Judge Rolleen K. Mcilwrath,1
+"Judge Ronald V. Skyers, Municipal",1
+Judge Talmadge R. Jones,1
+Judge Terry B. Friedman,1
+Judge Terry Friedman,1
+"Judge Terry Friedman, L.A. Juvenile Dependency Court, Presiding Judge",1
+"Judge Terry Friedman, Los Angeles Juvenile",1
+"Judge Terry Friedman, Los Angeles Juvenile Dependency Court, Presiding Judge",1
+Judge Terry O'Rourke,1
+Judge Thomas Townsend,1
+"Judge Thomas Townsend, Compton Judicial",1
+Judge Tom Anderson,1
+"Judge W. Scott Snowden, Napa Superior Court",1
+MS Property,1
+"Miss Dawne Shulte, San Francisco, CA",1
+Mr Hip Marketing,1
+Mr. & Mrs Mastrangelo,1
+Mr. Appliance,1
+Mr. Appliance of Asheville,1
+Mr. Appliance of Baton Rouge,1
+"Mr. Appliance of Charlotte, DeSoto and S Sarasota",1
+Mr. Appliance of Clermont & Apopka,1
+Mr. Appliance of Mentor,1
+Mr. Appliance of Naples,1
+Mr. Appliance of Northeast Louisville,1
+Mr. Appliance of Plano,1
+Mr. Appliance of Salem,1
+Mr. Appliance of Youngstown,1
+Mr. Bob Haley,1
+Mr. Bruce Gray,1
+Mr. Bryan Boylan,1
+"Mr. Charles L. Smith, of Berkeley, CA",1
+Mr. David M. Howard,1
+Mr. Dewie's Cashew Creamery,1
+Mr. Donald Bentley,1
+Mr. Earl Grad,1
+"Mr. Eric Goines, of Sacramento",1
+Mr. Gregory Wonderwheel,1
+Mr. Hap Dunning,1
+"Mr. Harold Newel of Long Beach, California",1
+"Mr. Harvey Rosenfield, Voter Revolt",1
+Mr. Income Tax,1
+Mr. J's,1
+Mr. Jake Goldenflame,1
+"Mr. James E. Grenier, Employee of Intuit",1
+"Mr. Jim Greaves, Santa Barbara",1
+"Mr. Joe Lubin, Engineer",1
+Mr. Kenneth Noble,1
+"Mr. Louis M. Meunier, Executive Vice President",1
+"Mr. Michael Marmot, CEO, OPTIONS",1
+Mr. Paul Bunje,1
+Mr. Perry's Family Restaurant,1
+"Mr. Peter Halmay, Lakeside",1
+Mr. Peter Keane,1
+"Mr. Peter N. Austin, West Hollywood, CA",1
+"Mr. Randy Paige, Consumer Reporter, KABC-TV, Los",1
+"Mr. Raymond G. Sanchez, Speaker of the House, New Mexico House",1
+Mr. Richard L. Walke (parent),1
+"Mr. Ron Clarida, CPA",1
+Mr. Russell J. Walke,1
+Mr. Samuel Dolnick,1
+Mr. Steve L. Shepherd,1
+"Mr. Steve Warner, President, Marin Professional Firefighters",1
+"Mr. Timothy J. Kolesnikow, Attorney at Law",1
+Mr. Tipple's,1
+Mr. Traffic,1
+"Mr. W. Burke, Glendale",1
+"Mr. Wayne Simon, Chief Deputy Commissioner of Corporations (1987-91)",1
+Mr. William E. Ott,1
+"Mr. William F. Ardizzone, President, Long Beach Firefighters",1
+Mr. and Mrs. A.R. Salbi,1
+Mr. and Mrs. Bob Lombardo (North Hills),1
+"Mr. and Mrs. E. Dell'Aquila, Morgan Hill",1
+"Mr. and Mrs. Ed and Lavonda Heredia, Westminster, CA",1
+"Mr. and Mrs. Joe Bordwell, Tehachapi",1
+"Mr. and Mrs. L.M. Wilkinson of Long Beach, California",1
+Mr. and Mrs. Tom Lagerquist,1
+Mrs. Constance E. Kuruppu,1
+"Mrs. Helene DicKard, San Francisco, CA",1
+Mrs. Nelson's Toy and Book Shop,1
+"Mrs. Norma Nelson, Colma, CA",1
+Ms. Alicia Davis,1
+Ms. Catherine M. Walke (parent),1
+"Ms. Deborah Aber (Gardena, CA)",1
+Ms. Denise Rubin,1
+Ms. Ilene Pritikin,1
+Ms. Jean Knutson,1
+Ms. Jenny Skincare Workshop,1
+Ms. O'Brien Young,1
+"Ms. Pamela Luna, Teacher and Education Administrator",1
+Ms. Patricia Gomez (individual),1
+Ms. Shirley Burnell,1
+Ms. Tiffany Romain,1
+"Ms. Valerie O. Lane of Huntington Beach, California",1
+"Ms. Yvonne Brathwaite Burke, Supervisor",1
+Rev & Tax,1
+Rev & Tax: 10 - 0,1
+Rev. & Tax.: 8 - 1,1
+"Rev. Jesse L. Jackson, Sr",1
+Rev. John Anderson,1
+"Reverend Harold Johnson, Good",1
+Reverend Lou Sheldon,1
+"Reverend Robert W., Auxiliary Bishop of San Francisco",1
+Sheriff Block,1
+Sheriff Butts,1
+Sheriff Dick Williams of San Bernardino,1
+Sheriff Don McDonald,1
+Sheriff Glen Craig,1
+Sheriff Lee,1
+Sheriff Lee Baca,1
+"Sheriff Lee Baca, Los",1
+Superintendent Jack O'Connell,1
+Superintendent Tom Torlakson,1
+Treasurer Fong,1
 "ERIC GARCETTI, MAYOR OF LOS ANGELES",0
 "ERIC GARCETTI, MAYOR, CITY OF LOS ANGELES",0
 MAYOR OF SAN JOSE SAM LICCARDO,0
