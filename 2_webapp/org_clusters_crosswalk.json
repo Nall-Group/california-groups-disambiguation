@@ -8458,10 +8458,6 @@
           "relationship": "alternate_spelling"
         },
         {
-          "name": "American Civil Liberties UnionAmerican Federation of State, County and Municipal Employees",
-          "relationship": "alternate_spelling"
-        },
-        {
           "name": "American Fed. of State, County & Municipal Employees",
           "relationship": "alternate_spelling"
         },
@@ -8670,10 +8666,6 @@
           "relationship": "alternate_spelling"
         },
         {
-          "name": "American Federation of State, County and Municipal Employees (Prior Version) Aspiranet",
-          "relationship": "alternate_spelling"
-        },
-        {
           "name": "American Federation of State, County and Municipal Employees (as)",
           "relationship": "alternate_spelling"
         },
@@ -8687,10 +8679,6 @@
         },
         {
           "name": "American Federation of State, County and Municipal Employees ALF-CIO",
-          "relationship": "alternate_spelling"
-        },
-        {
-          "name": "American Federation of State, County and Municipal Employees Alzheimer's Association",
           "relationship": "alternate_spelling"
         },
         {
@@ -8734,14 +8722,6 @@
           "relationship": "alternate_spelling"
         },
         {
-          "name": "American Federation of State, County and Municipal Employees, AFL-CIO Aspiranet",
-          "relationship": "alternate_spelling"
-        },
-        {
-          "name": "American Federation of State, County and Municipal Employees, AFL-CIO Boeing Company",
-          "relationship": "alternate_spelling"
-        },
-        {
           "name": "American Federation of State, County and Municipal Employees, AFL-CIO, Local",
           "relationship": "alternate_spelling"
         },
@@ -8782,10 +8762,6 @@
           "relationship": "alternate_spelling"
         },
         {
-          "name": "American Federation of State, County and Municipal EmployeesThe Legal Clinic of Santa Barbara",
-          "relationship": "alternate_spelling"
-        },
-        {
           "name": "American Federation of State, County and Municipal Employers",
           "relationship": "alternate_spelling"
         },
@@ -8799,10 +8775,6 @@
         },
         {
           "name": "American Federation of State, County and SB 1667 (Kuehl)",
-          "relationship": "alternate_spelling"
-        },
-        {
-          "name": "American Federation of State, County, Municipal Employees (AFSCME) The Greenspan Company",
           "relationship": "alternate_spelling"
         },
         {
@@ -8843,10 +8815,6 @@
         },
         {
           "name": "American Federation of State, County, and Municipal Employees, ACSFME",
-          "relationship": "alternate_spelling"
-        },
-        {
-          "name": "American Federation of State, County, and Municipal Employees, Beverly Hills/Hollywood NAACP",
           "relationship": "alternate_spelling"
         },
         {
@@ -8910,10 +8878,6 @@
           "relationship": "alternate_spelling"
         },
         {
-          "name": "American of Federal, State, County and Municipal Employees, AFL-CIO Peace Officers Research Association of California",
-          "relationship": "alternate_spelling"
-        },
-        {
           "name": "Americna Federation of State, County and Municipal",
           "relationship": "alternate_spelling"
         },
@@ -8946,10 +8910,6 @@
           "relationship": "alternate_spelling"
         },
         {
-          "name": "California Association of LAFCOs, American Federation of State, County and Municipal Employees",
-          "relationship": "alternate_spelling"
-        },
-        {
           "name": "Care Professionals, AFSCME",
           "relationship": "alternate_spelling"
         },
@@ -8963,10 +8923,6 @@
         },
         {
           "name": "County and Municipal Employees (AFSCME) AFL-CIO",
-          "relationship": "alternate_spelling"
-        },
-        {
-          "name": "County and Municipal Employees (AFSCME) American Legion",
           "relationship": "alternate_spelling"
         },
         {
@@ -9250,10 +9206,6 @@
               "relationship": "alternate_spelling"
             },
             {
-              "name": "American Federation of State, County and Municipal Employees (AFSCME), AFL-CIO California Environmental Voters (formerly Clcv)",
-              "relationship": "alternate_spelling"
-            },
-            {
               "name": "American Federation of State, County and Municipal Employees (AFSCME), Afl-cio California",
               "relationship": "alternate_spelling"
             },
@@ -9278,23 +9230,11 @@
               "relationship": "alternate_spelling"
             },
             {
-              "name": "American Federation of State, County and Municipal Employees Housing California",
-              "relationship": "alternate_spelling"
-            },
-            {
               "name": "American Federation of State, County and Municipal Employees of California",
               "relationship": "alternate_spelling"
             },
             {
-              "name": "American Federation of State, County and Municipal Employees, AFL-CIO American Legion-Department of California",
-              "relationship": "alternate_spelling"
-            },
-            {
               "name": "American Federation of State, County and Municipal Employees, AFL-CIO California Association",
-              "relationship": "alternate_spelling"
-            },
-            {
-              "name": "American Federation of State, County and Municipal Employees, Associated Builders and Contractors of California",
               "relationship": "alternate_spelling"
             },
             {
@@ -9303,10 +9243,6 @@
             },
             {
               "name": "American Federation of State, County and Municipal Employees, California Conference Board of the Amalgamated Transit Union",
-              "relationship": "alternate_spelling"
-            },
-            {
-              "name": "American Federation of State, County and Municipal Employees, California Newspaper Publishers Association",
               "relationship": "alternate_spelling"
             },
             {
@@ -9331,10 +9267,6 @@
             },
             {
               "name": "American Federations of State, County, and Municipal Employees - California",
-              "relationship": "alternate_spelling"
-            },
-            {
-              "name": "California American Federation of State, County, and Municipal Employees California National Organization for",
               "relationship": "alternate_spelling"
             },
             {
@@ -10891,10 +10823,6 @@
             },
             {
               "name": "United Nurses of California/Union of Health Care Professionals (UNAC/UHCP)",
-              "relationship": "alternate_spelling"
-            },
-            {
-              "name": "Municipal Employees - United Nurses Associations of California- Union of Health Care Professionals Alameda Labor Council",
               "relationship": "alternate_spelling"
             },
             {
@@ -29400,10 +29328,6 @@
       "status": "active",
       "children": [
         {
-          "name": "CALIFORNIA ASSOCIATION OF VETERAN SERVICE AGENCIES CALIFORNIA CATHOLIC CONFERENCE",
-          "relationship": "alternate_spelling"
-        },
-        {
           "name": "CALIFORNIA ASSOCIATION OF VETERAN SERVICES AGENCIES",
           "relationship": "alternate_spelling"
         },
@@ -30005,16 +29929,6 @@
         },
         {
           "name": "California Building Industry (CBIA)",
-          "relationship": "chapter"
-        }
-      ]
-    },
-    {
-      "canonical": "California Building Industry Association, California Business Properties Association",
-      "status": "active",
-      "children": [
-        {
-          "name": "California Building Industry Association, California Business Properties Association, California",
           "relationship": "chapter"
         }
       ]
@@ -31883,10 +31797,6 @@
           "relationship": "alternate_spelling"
         }
       ]
-    },
-    {
-      "canonical": "CALIFORNIA COUNCIL FOR AFFORDABLE HOUSING CALIFORNIA HOUSING CONSORTIUM",
-      "status": "active"
     },
     {
       "canonical": "CALIFORNIA COUNCIL FOR ENVIRONMENTAL & ECONOMIC BALANCE",
@@ -37257,16 +37167,6 @@
         {
           "name": "THE CALIFORNIA PUBLIC DEFENDERS",
           "relationship": "alternate_spelling"
-        }
-      ]
-    },
-    {
-      "canonical": "California Public Defenders Association and Laborers'",
-      "status": "active",
-      "children": [
-        {
-          "name": "California Public Defenders Association and Laborers' Local 777",
-          "relationship": "chapter"
         }
       ]
     },
@@ -48197,10 +48097,6 @@
       "status": "active"
     },
     {
-      "canonical": "CITY OF MOUNTAIN VIEW CITY OF NAPA",
-      "status": "active"
-    },
-    {
       "canonical": "City of Municipal Employees",
       "status": "active",
       "children": [
@@ -48577,10 +48473,6 @@
           "relationship": "alternate_spelling"
         }
       ]
-    },
-    {
-      "canonical": "CITY OF SACRAMENTO CITY OF SALINAS",
-      "status": "active"
     },
     {
       "canonical": "CITY OF SALINAS",
@@ -65631,23 +65523,11 @@
           "relationship": "chapter"
         },
         {
-          "name": "Engineers and Scientists of California, Local 20, Sierra Club",
-          "relationship": "chapter"
-        },
-        {
           "name": "Engineers and Scientists of California, Local 20, IFPTE, AFLI-CIO & CLC",
           "relationship": "chapter"
         },
         {
-          "name": "Engineers and Scientists of California, Local 20, IFPTE, AFL-CIO Professional and Technical Engineers, Local 21, IFPTE, AFL-CIO",
-          "relationship": "chapter"
-        },
-        {
           "name": "Engineers and Scientists of California, Local 20, AFL-CIO",
-          "relationship": "chapter"
-        },
-        {
-          "name": "Engineers And Scientists Of California, Local 20, Environmental Working Group",
           "relationship": "chapter"
         },
         {
@@ -65708,10 +65588,6 @@
         },
         {
           "name": "Engineers & Scientists of CA, IFPTE Local 20, AFL-CIO",
-          "relationship": "chapter"
-        },
-        {
-          "name": "Engineers & Scientists of CA, IFPTE Local 20 Professional & Technical Engineers, IFPTE Local 21",
           "relationship": "chapter"
         },
         {
@@ -84158,10 +84034,6 @@
           "relationship": "chapter"
         },
         {
-          "name": "IATSE Local 695, Screen Actors Guild‐American Federation of Television and Radio Artists, Script Supervisors/ Continuity Coordinators, Accountants & Allied Production Specialists Guild",
-          "relationship": "chapter"
-        },
-        {
           "name": "IATSE Local 695, Production Sound Technicians, TV Engineers",
           "relationship": "chapter"
         },
@@ -87198,10 +87070,6 @@
               "relationship": "chapter",
               "children": [
                 {
-                  "name": "International Brotherhood of Electrical Workers, Local 57 & International Association of Machinists and Aerospace",
-                  "relationship": "alternate_spelling"
-                },
-                {
                   "name": "International Brotherhood of Electrical Workers, Local 57, 569 & 1245",
                   "relationship": "alternate_spelling"
                 }
@@ -88319,10 +88187,6 @@
           "relationship": "alternate_spelling"
         }
       ]
-    },
-    {
-      "canonical": "INTERNATIONAL UNION OF OPERATING ENGINEERS, CAL-NEVADA CONFERENCE LEAGUE OF CALIFORNIA CITIES",
-      "status": "active"
     },
     {
       "canonical": "INTERNATIONAL UNION OF PAINTERS & ALLIED TRADES",
@@ -126468,10 +126332,6 @@
       "status": "active"
     },
     {
-      "canonical": "RIM O' THE WORLD ASSOCIATION OF REALTORS SACRAMENTO ASSOCIATION OF REALTORS",
-      "status": "active"
-    },
-    {
       "canonical": "RINCON BAND OF LUISEÑO INDIANS",
       "status": "active",
       "children": [
@@ -132462,10 +132322,6 @@
       "status": "active"
     },
     {
-      "canonical": "SENIOR AND DISABILITY ACTION TENANTS TOGETHER",
-      "status": "active"
-    },
-    {
       "canonical": "SENIOR CARE ACTION NETWORK",
       "status": "active",
       "children": [
@@ -138189,10 +138045,6 @@
           "relationship": "alternate_spelling"
         }
       ]
-    },
-    {
-      "canonical": "SOUTHERN CALIFORNIA ASSOCIATION OF NON-PROFIT HOUSING UNITED WAY OF GREATER LOS ANGELES",
-      "status": "active"
     },
     {
       "canonical": "SOUTHERN CALIFORNIA ASSOCIATION OF NONPROFIT HOUSING (LOS ANGELES)",
@@ -145770,10 +145622,6 @@
       "status": "active"
     },
     {
-      "canonical": "TRI-CITY MENTAL HEALTH AUTHORITY URBAN COUNTIES OF CALIFORNIA",
-      "status": "active"
-    },
-    {
       "canonical": "Tri-co Floors",
       "status": "active",
       "children": [
@@ -152662,10 +152510,6 @@
               "relationship": "chapter"
             },
             {
-              "name": "City of San Diego State Board of Equalization Burbank Chamber of Commerce Aris Helicopters",
-              "relationship": "chapter"
-            },
-            {
               "name": "El Dorado Joint Chamber Commission",
               "relationship": "chapter"
             },
@@ -152943,10 +152787,6 @@
             },
             {
               "name": "California Chamber of Commerce, Chico",
-              "relationship": "chapter"
-            },
-            {
-              "name": "California Chamber of Commerce, California Manufacturers and Technology Association, Western States Petroleum Association",
               "relationship": "chapter"
             },
             {
@@ -153314,10 +153154,6 @@
               "relationship": "chapter"
             },
             {
-              "name": "California Chamber of Commerce, California Manufacturers and Technology Association",
-              "relationship": "chapter"
-            },
-            {
               "name": "California Chamber of Commerce, Southwest California Legislative",
               "relationship": "chapter"
             },
@@ -153538,10 +153374,6 @@
               "relationship": "chapter"
             },
             {
-              "name": "Department of California Bingo Innovations Calexico Chamber of Commerce California Association of Nonprofits Knights of Columbus",
-              "relationship": "chapter"
-            },
-            {
               "name": "Eagle Rock Chamber of Commerce",
               "relationship": "chapter"
             },
@@ -153707,10 +153539,6 @@
             },
             {
               "name": "Newport Harbor Area Chamber of Commmerce",
-              "relationship": "chapter"
-            },
-            {
-              "name": "Professional Insurance Agents Group California Manufacturers and Technology Association California Restaurant Association California Chamber of Commerce Allied Pacific Insurance Services",
               "relationship": "chapter"
             },
             {
@@ -154362,35 +154190,11 @@
               "relationship": "chapter"
             },
             {
-              "name": "California Assessors' Association, California Apartment Association, California Chamber of Commerce, Howard Jarvis Taxpayers Association",
-              "relationship": "chapter"
-            },
-            {
-              "name": "California Apartment Association, California Association of Realtors, California Chamber of Commerce, California Taxpayers Association",
-              "relationship": "chapter"
-            },
-            {
               "name": "Cabazon Chamber of Commerce",
               "relationship": "chapter"
             },
             {
-              "name": "Calaveras County Assessor Leslie K. Davis, California Assessors' Association, California Chamber of Commerce",
-              "relationship": "chapter"
-            },
-            {
-              "name": "California Business Properties Association, California Business Roundtable, California Chamber of Commerce, Howard Jarvis Taxpayers Association",
-              "relationship": "chapter"
-            },
-            {
-              "name": "California Chamber of Commerce, Western States Petroleum Association",
-              "relationship": "chapter"
-            },
-            {
               "name": "California Chamber of Commerce SB 193-Maldonado",
-              "relationship": "chapter"
-            },
-            {
-              "name": "California Chamber of Commerce, Howard Jarvis Taxpayers Association",
               "relationship": "chapter"
             },
             {
@@ -154403,14 +154207,6 @@
             },
             {
               "name": "California Chamber of Commerce, Chemical",
-              "relationship": "chapter"
-            },
-            {
-              "name": "California Chamber of Commerce, California Taxpayers Association, Taxation Section of the Business Law Section of the State Bar of California",
-              "relationship": "chapter"
-            },
-            {
-              "name": "California Chamber of Commerce, California Grocers Association, Grocery Manufacturers/Food Products Association (GMA/FPA)",
               "relationship": "chapter"
             },
             {
@@ -154434,10 +154230,6 @@
               "relationship": "chapter"
             },
             {
-              "name": "California Chamber of Commerce and California Association of Realtors",
-              "relationship": "chapter"
-            },
-            {
               "name": "California Chamber of Commerce --END",
               "relationship": "chapter"
             },
@@ -154455,10 +154247,6 @@
             },
             {
               "name": "California Chamber of Commerce Karen Goh",
-              "relationship": "chapter"
-            },
-            {
-              "name": "California Chamber of Commerce Construction Employers' Association FISCAL COMMITTEE: Senate Appropriations Committee [1] Under Article I",
               "relationship": "chapter"
             },
             {
@@ -154486,19 +154274,11 @@
               "relationship": "chapter"
             },
             {
-              "name": "California Association of Realtors. California Chamber of Commerce",
-              "relationship": "chapter"
-            },
-            {
               "name": "California Black Chamber of Commerce, San Francisco",
               "relationship": "chapter"
             },
             {
               "name": "California Black Chamber - Council of Chambers",
-              "relationship": "chapter"
-            },
-            {
-              "name": "California Association of Temporary and Staffing Services California Chamber of Commerce Department of Industrial Relations The Following Temporary Employment Agencies: Access Staffing",
               "relationship": "chapter"
             },
             {
@@ -154579,10 +154359,6 @@
             },
             {
               "name": "APM Terminals, California Association of Port Authorities, California Chamber of Commerce",
-              "relationship": "chapter"
-            },
-            {
-              "name": "BOE Member Fiona Ma, State Board of Equalization, California Chamber of Commerce, California Taxpayers Association",
               "relationship": "chapter"
             },
             {
@@ -154847,10 +154623,6 @@
             },
             {
               "name": "City of Visalia, Tulare Chamber of Commerce",
-              "relationship": "chapter"
-            },
-            {
-              "name": "City of Woodland Monterey Bay Unified Air Pollution Control District Monterey County Mayors' Association Salinas Area Chamber of Commerce",
               "relationship": "chapter"
             },
             {
@@ -157373,10 +157145,6 @@
       ]
     },
     {
-      "canonical": "UNIVERSITY OF CALIFORNIA STUDENT ASSOCIATION URBAN HABITAT",
-      "status": "active"
-    },
-    {
       "canonical": "UNIVERSITY OF CALIFORNIA STUDENTS ASSOCIATION",
       "status": "active",
       "children": [
@@ -158269,10 +158037,6 @@
         },
         {
           "name": "Utility Workers Union of America, Local 32, AFL-CIO",
-          "relationship": "chapter"
-        },
-        {
-          "name": "Utility Workers Union of America, Local 132 Walgreens",
           "relationship": "chapter"
         },
         {
@@ -165674,6 +165438,61 @@
           "relationship": "alternate_spelling"
         }
       ]
+    },
+    {
+      "canonical": "RIM O' THE WORLD ASSOCIATION OF REALTORS",
+      "status": "active",
+      "children": []
+    },
+    {
+      "canonical": "Allied Pacific Insurance Services",
+      "status": "active",
+      "children": []
+    },
+    {
+      "canonical": "Aris Helicopters",
+      "status": "active",
+      "children": []
+    },
+    {
+      "canonical": "Knights of Columbus",
+      "status": "active",
+      "children": []
+    },
+    {
+      "canonical": "California Association of Temporary and Staffing Services",
+      "status": "active",
+      "children": []
+    },
+    {
+      "canonical": "Monterey Bay Unified Air Pollution Control District",
+      "status": "active",
+      "children": []
+    },
+    {
+      "canonical": "Monterey County Mayors' Association",
+      "status": "active",
+      "children": []
+    },
+    {
+      "canonical": "Salinas Area Chamber of Commerce",
+      "status": "active",
+      "children": []
+    },
+    {
+      "canonical": "The Legal Clinic of Santa Barbara",
+      "status": "active",
+      "children": []
+    },
+    {
+      "canonical": "The Greenspan Company",
+      "status": "active",
+      "children": []
+    },
+    {
+      "canonical": "Bingo Innovations",
+      "status": "active",
+      "children": []
     }
   ]
 }
