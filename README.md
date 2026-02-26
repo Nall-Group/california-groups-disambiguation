@@ -55,7 +55,7 @@ directory: org_name_subsets_for_cleaning/
 
 17. Consolidate Fire Fighter organizations as children of International Association of Fire Fighters. Under this is California Professional Firefighters which is a chapter. Under that are the city/county chapters in format city name followed by Fire Fighters, and any other version of this is an alternate spelling. Add fire fighter orgs to crosswalk that aren't already there.
 
-18. Move all organizations that end in the word "individuals" along with one individual and Mayor to org_names_that_are_actually_individuals.csv
+19. Move all organizations that end in the word "individuals" along with one individual and Mayor to org_names_that_are_actually_individuals.csv
 
 19. Merge all case insensitive duplicates
 
@@ -118,7 +118,12 @@ Also add Sheriff and Police organizations that are not in the crosswalk, to the 
 
 36. add orgs that start with "and " to cleaning patterns
 
+37. Asked claude code to go through crosswalk and not in crosswalk and remove partial and conjoined entries. For conjoined entries, splitting them and adding individual organizations back into crosswalk.
+
+38. Asked claude code to look through org_names_not_capitalized.csv to see if there are any real looking org names and add them to crosswalk
+
 XX. Move things that are obviously not organization names (like sponsor or SB) to invalid organization names list 
+
 
 
 ## Crosswalk Relationship Types
