@@ -122,6 +122,10 @@ Also add Sheriff and Police organizations that are not in the crosswalk, to the 
 
 38. Asked claude code to look through org_names_not_capitalized.csv to see if there are any real looking org names and add them to crosswalk
 
+39. asked claude code to remove other invalid entry times from org_names_not_in_crosswalk.csv
+
+40. asked claude code to come up with a list of orgs from most frequent to least in org_names_not_in_crosswalk.csv and add them to the crosswalk (or invalid CSVs as appropriate instead)
+
 XX. Move things that are obviously not organization names (like sponsor or SB) to invalid organization names list 
 
 

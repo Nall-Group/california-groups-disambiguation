@@ -1,13 +1,22 @@
 org_name,count
+Association,2832
 Union,718
 Council,663
+District,459
+County of,393
+Services,342
 Department,332
+Sacramento,331
+Los,304
 Center,302
 SAN,282
 Coalition,273
 CIO,265
+Industry,255
+Concerns,203
 Foundation,202
 State Building and Construction Trades Council of,167
+Orange,166
 California Attorneys for,159
 Alliance,144
 Cities of,143
@@ -20,11 +29,14 @@ Learning Disabilities Association of California,116
 Emergency Medical Services Administrators Association of,103
 Board,102
 Women for,102
+Santa,102
 Project,101
 AB,101
 Consumer Attorneys of,99
 COMMITTEE,98
+Bureau,98
 Administration,97
+Peace,97
 American Federation of,93
 Engineers & Scientists of California,91
 League of California,90
@@ -33,6 +45,7 @@ Program,88
 Stand Up for,87
 Crime Victims United of,85
 of Commerce,85
+Crime,83
 Federation,78
 of,78
 "Strategic Committee of Public Employees, Laborers International Union of",75
@@ -41,51 +54,69 @@ Organization,72
 Society,72
 Congress of,68
 Friends Committee on,68
+Assoc,68
 Agriculture Council of California,67
+Region,66
 Counties of,65
 Agency,63
 California Chamber of,61
 AT,61
+Doris,61
 Taxpayers for,60
 Authority,59
 one,58
 of Colored People,57
 Friends Committee on Legislation in California,57
+Health,57
 County Welfare Directors Association of,56
+Chapters,55
+Section,55
 for the Aging,54
 Consumer Federation of,53
 California Council,52
+Officials,52
 Friends Committee on Legislation of,51
+BW,49
 California Coalition,48
+Division,48
 Federation of California,47
 Service,47
 Consumers Attorneys of California,47
 LLC,47
+Public,45
 Group,44
 American College of Emergency Physicians State Chapter of,43
 of Los Angeles,43
 COUNTY DISTRICT ENROLLMENT AS OF,42
+Insurance,42
 Club,41
 Department of California,41
+Court,41
 State Public Affairs Committee - Junior Leagues of,40
 California Federation,39
+Engine,39
 Council of California,38
+School,38
 Department of,37
 of Supervisors,37
 arc,36
+care,36
 California State Conference of the National Association for,35
 Colored People,34
 Chief Probation Officers of,34
 Legal Services for Prisoners with,34
 Los Angeles Affiliate of the National Association of,34
 Legal Services for,33
+La,33
 PhD,32
 Jr,31
 "Council, Inc",30
 Board of,30
+MM,30
 Civil Justice Association of,29
 "California Attorneys, Administrative Law Judges and Hearing Officers in",28
 of Counties,28
+home,28
 California Association of Homes and Services for,27
 Community Residential Care Association of,27
 Judicial Council of,27
@@ -93,6 +124,7 @@ Town of,27
 of Realtors,27
 California Association for the Education of,26
 Engineers and Scientists of,26
+laws,26
 Coalition for,25
 Organization of Farmworker Women Leaders in,24
 American Association of,24
@@ -108,6 +140,7 @@ for Improving Public Safety,22
 Coalition of California,21
 California Coalition for,21
 National Federation of,21
+El,21
 State Public Affairs Committee of the Junior Leagues of,20
 of California Cities,20
 Juvenile Court Judges of,19
@@ -116,6 +149,7 @@ California Conference Board of,18
 Junior Leagues of,18
 State Coalition of,18
 LLP,18
+vote,18
 "Planned Parenthood Action Fund of Santa Barbara, Ventura and San Luis",17
 "Los Angeles, City of",17
 of Women,17
@@ -129,6 +163,7 @@ Western Center on,16
 Accredited out of State Colleges and Universities in,15
 California Association for Health Services at,15
 Los Angeles Affiliate of the National Association of Counsel for,15
+note,15
 Association for the Advancement of Colored People,14
 California Chapter of,14
 California Coalition of,14
@@ -146,6 +181,7 @@ State bar of,14
 of California Seniors,14
 of Los Angeles County,14
 of bill,14
+also,14
 for the Advancement of Colored People,13
 California Academy of,13
 California Foundation,13
@@ -172,6 +208,7 @@ X,12
 for Women,12
 of the bill,12
 of Police and Sheriffs,12
+DK,12
 Association of CA,11
 California Department,11
 Asian Pacific American Legal Center of,11
@@ -231,6 +268,7 @@ Dr,9
 Ltd,9
 SCR,9
 of the Amalgamated Transit Union,9
+as,9
 Research Group (CalPIRG),8
 Automotive Services Councils of California,8
 Lumber Association of California,8
@@ -297,6 +335,8 @@ of Police,7
 of the 2015-16 Legislative Session,7
 s,7
 www,7
+DG,7
+b,7
 Los Angeles Area Chamber of,6
 Planned Parenthood Advocacy Project,6
 California Academy,6
@@ -356,6 +396,10 @@ of West Hollywood,6
 of the 2017-18 Legislative Session,6
 of the Attorney General,6
 or for bond,6
+HR,6
+only,6
+this,6
+2,6
 Monterey Peninsula Chamber of,5
 Angeles Area Chamber of Commerce,5
 Planned Parenthood of Santa Barbara,5
@@ -438,6 +482,10 @@ of Santa Monica,5
 of Schools,5
 of Social Workers - California Chapter,5
 for Children,5
+4.,5
+JC,5
+RT,5
+h,5
 Mexican American Chamber of Commerce and Industry of,4
 The Greater Los Angeles African-American Chamber of,4
 San Francisco Chamber of,4
@@ -589,6 +637,10 @@ of Young Children,4
 of the 2019-20 Legislative Session,4
 of the City of Los Angeles,4
 of the United States,4
+FL,4
+LG,4
+all,4
+pe,4
 Redondo Beach Chamber of,3
 Modesto Chamber of,3
 Visalia Chamber of,3
@@ -862,6 +914,7 @@ of Veteran Service Agencies,3
 of the Children,3
 of the San Bernardino County Sheriff,3
 "for Los Angeles Deputy Sheriffs, Inc",3
+3,3
 Oxnard Chamber of,2
 Reseda Chamber of,2
 Lakeside Chamber of,2
@@ -1571,6 +1624,9 @@ or,2
 for Coordinated Transportation,2
 for Independent Living,2
 "of AFSCME, Local",2
+8,2
+9,2
+6,2
 Otay Mesa Chamber of,1
 Ojai Chamber of,1
 Ojai Valley Chamber of,1
@@ -3841,6 +3897,7 @@ use,1
 "for Children, Inc",1
 "for Coordinated Transportation, Inc",1
 "for Independent Living, Inc",1
+that,1
 Assn,0
 Assn of CA,0
 Assn of California,0

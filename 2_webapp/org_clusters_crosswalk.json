@@ -1673,6 +1673,18 @@
         {
           "name": "AMERICAN CIVIL LIBERTIES UNION OF CALIFORNIA",
           "relationship": "alternate_spelling"
+        },
+        {
+          "name": "ACLU of Northern California",
+          "relationship": "chapter"
+        },
+        {
+          "name": "ACLU of Southern California",
+          "relationship": "chapter"
+        },
+        {
+          "name": "ACLU of San Diego and Imperial Counties",
+          "relationship": "chapter"
         }
       ]
     },
@@ -79781,6 +79793,10 @@
         {
           "name": "IBM Corp",
           "relationship": "alternate_spelling"
+        },
+        {
+          "name": "IBM Credit Corporation",
+          "relationship": "chapter"
         }
       ]
     },
@@ -166553,6 +166569,51 @@
           "relationship": "alternate_spelling"
         }
       ]
+    },
+    {
+      "canonical": "UnitedHealthcare",
+      "status": "active",
+      "children": []
+    },
+    {
+      "canonical": "World Health Organization",
+      "status": "active",
+      "children": [
+        {
+          "name": "WHO",
+          "relationship": "alternate_spelling"
+        }
+      ]
+    },
+    {
+      "canonical": "UNICEF",
+      "status": "active",
+      "children": []
+    },
+    {
+      "canonical": "Giffords Law Center to Prevent Gun Violence",
+      "status": "active",
+      "children": []
+    },
+    {
+      "canonical": "National Network of Hospital-Based Violence Intervention Programs",
+      "status": "active",
+      "children": [
+        {
+          "name": "NNHVIP",
+          "relationship": "alternate_spelling"
+        }
+      ]
+    },
+    {
+      "canonical": "University of San Diego",
+      "status": "active",
+      "children": []
+    },
+    {
+      "canonical": "Embarcadero Coalition of San Diego",
+      "status": "active",
+      "children": []
     }
   ]
 }
