@@ -175,6 +175,9 @@ def clean_org_name(name: str, patterns: List[re.Pattern]) -> str:
     cleaned = re.sub(r'\s+', ' ', cleaned).strip()
     # Fix mismatched brackets
     cleaned = fix_mismatched_brackets(cleaned)
+    # Unwrap names entirely wrapped in parentheses: "(AFSCME)" -> "AFSCME"
+    if cleaned.startswith('(') and cleaned.endswith(')') and cleaned.count('(') == 1 and cleaned.count(')') == 1:
+        cleaned = cleaned[1:-1].strip()
     return cleaned
 
 
