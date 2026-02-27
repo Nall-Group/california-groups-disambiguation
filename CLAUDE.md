@@ -2,7 +2,7 @@
 
 ## Goal
 
-We are building and cleaning a map of organization names so we can "crosswalk" how different organization names relate to each other. For each organization there is a canonical name, and other organization names may be alternate spellings or chapters of an organization. Basically, it's a forest of tree structures. The trees can be nested to any depth (e.g. you can have an alternate spelling of a chapter)
+We are building and cleaning a map of organization names so we can "crosswalk" how different organization names relate to each other. For each organization there is a canonical name, and other organization names may be alternate spellings or chapters of an organization. Basically, it's a forest of tree structures. The trees can be nested to any depth (e.g. you can have an alternate spelling of a chapter). It's very important that items in the crosswalk be properly consolidated with the correct canonical organization.
 
 Note that you shouldn't remove entries unless they are exact duplicates since we need to be able to categorize all organizations that appear in the dataset, even if they are spelled wrong. It's ok to move organizations around like in or out of the crosswalk.
 
