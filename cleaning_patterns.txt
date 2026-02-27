@@ -40,6 +40,7 @@
 # Trailing bare position words - END
 (?i),?\s+oppose\s*$
 (?i)\s+OPPOSED\s*$
+(?i),?\s+Continued\s*$
 
 # Square brackets - END
 (?i)\s*\[co-sponsor\]\s*$

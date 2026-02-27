@@ -126,6 +126,8 @@ Also add Sheriff and Police organizations that are not in the crosswalk, to the 
 
 40. asked claude code to come up with a list of orgs from most frequent to least in org_names_not_in_crosswalk.csv and add them to the crosswalk (or invalid CSVs as appropriate instead)
 
+41. More cleaning: remove Continued from the end of org names, remove parens in entries like (AFSCME), clean digit followed by literal dot e.g. "1. The Performance Institute"
+
 XX. Move things that are obviously not organization names (like sponsor or SB) to invalid organization names list 
 
 
