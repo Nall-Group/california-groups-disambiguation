@@ -63,13 +63,25 @@ Each worker RA session is given a name by the user (e.g. "RA-Alpha", "RA-Beta").
 5. **Execute**: Make all your changes and commit with a descriptive message.
 6. **Release**: Remove yourself from the write queue and mark your task "Done" in `TASKS.md`.
 
-**Commit discipline:** One task per commit. Keep commits atomic and descriptive.
+**CSV handling rules:**
+- **Consolidating within the crosswalk** (reorganizing existing entries): No CSV changes needed.
+- **Adding or removing an item from the crosswalk**: Figure out which CSV in `org_name_subsets_for_cleaning/` the org name should be in, move the row (including its frequency count) to the correct CSV, and remove it from the original CSV to avoid duplicates.
+- **If orgs are moved in or out of the crosswalk**: Run the cleaning/dedup/stats pipeline before committing (see below).
+
+**Cleaning & deduplication pipeline** (run in this order):
+1. `python scripts/clean_crosswalk.py` — applies regex patterns from `cleaning_patterns.txt` to strip metadata suffixes, deduplicates children, and merges clusters whose canonicals normalize identically.
+2. `python scripts/regenerate_org_subsets.py` — re-checks all org names against the current crosswalk, redistributes names between CSVs, and deduplicates within and across all CSV files.
+3. `python generate_stats.py` — updates `stats.json` with current counts.
+
+**Commit discipline:** One task per commit. Keep commits atomic and descriptive. Delete any temporary/processing scripts you created before committing — only commit the data changes.
 
 **Blocked tasks:**
 - If a task is ambiguous or you're unsure how to proceed, mark it "Blocked" in `TASKS.md`.
 - Post your question in `QUESTIONS.md` with the task number and your RA name.
 - Remove yourself from the write queue if you're in it.
 - Move on to another task.
-- Periodically check `QUESTIONS.md` for answers to your questions. When answered, you can pick the task back up.
+- Check `QUESTIONS.md` every 10 seconds to see if your question has been answered. When answered, pick the task back up.
 
 **Checking for answers:** Before picking a new task, check `QUESTIONS.md` to see if any of your blocked tasks have been answered. If so, update the task status back to "In Progress" and resume work on it.
+
+**When all tasks are done or blocked:** Poll `TASKS.md` every 10 seconds to see if new tasks have been added. Pick up any new "Not Started" tasks.
