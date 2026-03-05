@@ -89,6 +89,12 @@
 (?i)^\s*\(prior to latest amendments\)\s*
 (?i)^\s*\(per\s[^)]*\)\s*
 (?i)^\s*\(as of\s[^)]*\)\s*
+# Leading "COMMENTS :" / "ARGUMENTS IN SUPPORT:" / "Staff Comments:" - BEGINNING
+# NOTE: These must come BEFORE "According to" patterns so both prefixes get stripped
+(?i)^\s*COMMENTS\s*:\s*
+(?i)^\s*ARGUMENTS IN SUPPORT\s*:?\s*
+(?i)^\s*Staff Comments\s*:\s*
+
 (?i)^\s*According to the\s+
 (?i)^\s*According to\s+
 
