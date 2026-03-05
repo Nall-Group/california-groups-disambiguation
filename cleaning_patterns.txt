@@ -95,6 +95,9 @@
 (?i)^\s*ARGUMENTS IN SUPPORT\s*:?\s*
 (?i)^\s*Staff Comments\s*:\s*
 
+# Leading "Support." / "SUPPORT." / "Support:" prefix - BEGINNING
+(?i)^\s*SUPPORT[\.:]\s*
+
 (?i)^\s*According to the\s+
 (?i)^\s*According to\s+
 
