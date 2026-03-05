@@ -32,4 +32,44 @@ If the entry only exists in the JSON and not in any CSV file, just remove it fro
 
 - `crosswalk.standardizenames.manualedits_clean.csv` - original source, DO NOT EDIT
 - `2_webapp/org_clusters_crosswalk.json` - live file, all updates go here
-- For the CSV file some of the items in the file contain commas and you need to parse it properly. Don't just parse it by comma use CSV parsing libraries 
+- For the CSV file some of the items in the file contain commas and you need to parse it properly. Don't just parse it by comma use CSV parsing libraries
+
+## Management Assistant Role
+
+The management assistant is a dedicated Claude Code session that coordinates between the human supervisor and worker RAs. It does NOT do worker tasks itself.
+
+**Responsibilities:**
+- Take task descriptions from the human and format them into `TASKS.md` (with task number, description, status "Not Started")
+- Monitor `QUESTIONS.md` for open questions from worker RAs
+- Present open questions to the human supervisor and collect answers
+- Write the human's answers back into `QUESTIONS.md` and change status to "Answered"
+- Give the human status updates by reading `TASKS.md` (what's done, in progress, blocked)
+
+**Workflow:**
+1. Human gives task descriptions -> management assistant adds them to `TASKS.md`
+2. Management assistant periodically checks `QUESTIONS.md` for unanswered questions -> presents them to the human
+3. Human answers -> management assistant writes answers to `QUESTIONS.md`
+4. Human asks for status -> management assistant reads `TASKS.md` and summarizes
+
+## Worker RA Role
+
+Each worker RA session is given a name by the user (e.g. "RA-Alpha", "RA-Beta").
+
+**Task workflow:**
+1. Read `TASKS.md` and pick a task that is "Not Started". Mark it "In Progress" with your name.
+2. **Plan phase (read-only)**: Read all relevant files, research the task, and plan out exactly what changes you will make. Do NOT edit any project files yet.
+3. **Join the write queue**: Add your name to the bottom of the Write Queue in `TASKS.md`.
+4. **Wait for your turn**: Periodically re-read `TASKS.md`. When your name is at the top of the queue, you have write access.
+5. **Execute**: Make all your changes and commit with a descriptive message.
+6. **Release**: Remove yourself from the write queue and mark your task "Done" in `TASKS.md`.
+
+**Commit discipline:** One task per commit. Keep commits atomic and descriptive.
+
+**Blocked tasks:**
+- If a task is ambiguous or you're unsure how to proceed, mark it "Blocked" in `TASKS.md`.
+- Post your question in `QUESTIONS.md` with the task number and your RA name.
+- Remove yourself from the write queue if you're in it.
+- Move on to another task.
+- Periodically check `QUESTIONS.md` for answers to your questions. When answered, you can pick the task back up.
+
+**Checking for answers:** Before picking a new task, check `QUESTIONS.md` to see if any of your blocked tasks have been answered. If so, update the task status back to "In Progress" and resume work on it.
