@@ -76,12 +76,11 @@ Each worker RA session is given a name by the user (e.g. "RA-Alpha", "RA-Beta").
 **Commit discipline:** One task per commit. Keep commits atomic and descriptive. Delete any temporary/processing scripts you created before committing — only commit the data changes.
 
 **Blocked tasks:**
-- If a task is ambiguous or you're unsure how to proceed, mark it "Blocked" in `TASKS.md`.
+- If a task is ambiguous or you're unsure how to proceed, mark it "Blocked" in `TASKS.md` and **clear the Assignee field** so another RA can potentially pick it up once answered.
 - Post your question in `QUESTIONS.md` with the task number and your RA name.
 - Remove yourself from the write queue if you're in it.
 - Move on to another task.
-- Check `QUESTIONS.md` every 10 seconds to see if your question has been answered. When answered, pick the task back up.
 
-**Checking for answers:** Before picking a new task, check `QUESTIONS.md` to see if any of your blocked tasks have been answered. If so, update the task status back to "In Progress" and resume work on it.
+**Picking up blocked tasks:** Any RA (not just the original one) can pick up a "Blocked" task. Before picking a new "Not Started" task, check `QUESTIONS.md` for answered questions on blocked tasks. If a blocked task's question has been answered, you can claim it — mark it "In Progress" with your name and resume work on it.
 
-**When all tasks are done or blocked:** Poll `TASKS.md` every 10 seconds to see if new tasks have been added. Pick up any new "Not Started" tasks.
+**When all tasks are done or blocked:** Poll `TASKS.md` every 10 seconds to see if new tasks have been added or if blocked tasks have been unblocked (check `QUESTIONS.md` for answered questions). Pick up any available work.
