@@ -42,6 +42,9 @@
 (?i)\s+OPPOSED\s*$
 (?i),?\s+Continued\s*$
 
+# Trailing "None on file" suffix - END
+(?i),?\s*None on file\s*$
+
 # Square brackets - END
 (?i)\s*\[co-sponsor\]\s*$
 (?i)\s*\[sponsor\]\s*$
@@ -88,6 +91,10 @@
 (?i)^\s*\(as of\s[^)]*\)\s*
 (?i)^\s*According to the\s+
 (?i)^\s*According to\s+
+
+# Leading "None on file" prefix - BEGINNING
+(?i)^\s*None on file\.\s*
+(?i)^\s*None on file\s+
 
 # Leading "and " fragment - BEGINNING
 (?i)^and\s+
