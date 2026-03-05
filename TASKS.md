@@ -4,7 +4,7 @@
 
 Only the RA at the top of this list has write access. Add yourself to the bottom when you're ready to write. Remove yourself when done.
 
-1. RA-Alpha (Task 10)
+(empty)
 
 ## Task List
 
@@ -17,6 +17,6 @@ Only the RA at the top of this list has write access. Add yourself to the bottom
 | 5 | Handle conjoined/list org entries prefixed with "Opponents" that contain multiple orgs in one string (e.g., "Opponents (CalChamber, Associated of General Contractors, California Manufacturers & Technology Association, the California)"). Get a comprehensive list from the crosswalk JSON. For each: (1) parse out the individual org names, (2) check if each individual org already exists in the crosswalk, (3) add it as canonical/alt spelling/chapter if not, (4) move the conjoined entry from the crosswalk to `org_names_conjoined.csv`. | Done | RA-Beta | Removed 6 "Opponents" entries. 5 moved to conjoined CSV, 1 ("Opponents of this bill") to invalid. Added "California Deposition Agency" as alt spelling of CDRA. |
 | 6 | Handle the 1-2 genuinely conjoined "SUPPORT." entries (e.g., "SUPPORT. Stop AAPI Hate and the California Healthy Nail Salon Collaborative"). For each: (1) parse out the individual org names, (2) check if each already exists in the crosswalk, (3) add as canonical/alt spelling/chapter if not, (4) move the conjoined entry to `org_names_conjoined.csv`. | Done | RA-Alpha | Moved 2 conjoined entries to conjoined CSV. Added "Consumers Union" as new canonical (also merged "CONSUMER'S UNION" into it). |
 | 7 | Add a cleaning pattern to `cleaning_patterns.txt` to strip the "Support." / "SUPPORT." / "Support:" prefix from org names (~90+ entries, e.g., "Support. California Medical Association" -> "California Medical Association"). Then run the cleaning and deduplication pipeline. | Done | RA-Beta | Cleaned 91 names, merged 26 clusters. Pattern also handled nested "According to" via ordering. |
-| 8 | Add a cleaning pattern to `cleaning_patterns.txt` to strip the "Support and Opposition." prefix from org names (~16 entries). Then run the cleaning and deduplication pipeline. | Not Started | | |
-| 9 | Handle ~5 "Support [org]" entries without a period (e.g., "Support CalPACE"). Search each one to determine if it is a real organization or if "Support" was accidentally prepended. Clean up accordingly. | Not Started | | |
-| 10 | Move invalid fragment entries "Supporters", "Supports", "Supportive" from the crosswalk to `org_names_invalid.csv` (remove from crosswalk JSON and move CSV rows). | In Progress | RA-Alpha | |
+| 8 | Add a cleaning pattern to `cleaning_patterns.txt` to strip the "Support and Opposition." prefix from org names (~16 entries). Then run the cleaning and deduplication pipeline. | Done | RA-Beta | Cleaned 14 names, merged 7 clusters. |
+| 9 | Handle ~5 "Support [org]" entries without a period (e.g., "Support CalPACE"). Search each one to determine if it is a real organization or if "Support" was accidentally prepended. Clean up accordingly. | In Progress | RA-Alpha | |
+| 10 | Move invalid fragment entries "Supporters", "Supports", "Supportive" from the crosswalk to `org_names_invalid.csv` (remove from crosswalk JSON and move CSV rows). | Done | RA-Alpha | Moved 3 fragment entries to invalid CSV. |

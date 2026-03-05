@@ -49,7 +49,7 @@ California Hospital Association,2879
 ASSOCIATION OF CALIFORNIA SCHOOL ADMINISTRATORS,2852
 RIVERSIDE SHERIFF'S ASSOCIATION,2843
 CONSUMER FEDERATION OF CALIFORNIA,2769
-Los Angeles Unified School District,2741
+Los Angeles Unified School District,2742
 Disability Rights,2729
 CHILDREN NOW,2707
 Health Access,2660
@@ -142,7 +142,7 @@ CALIFORNIA ADVOCATES FOR NURSING HOME REFORM,1321
 ENVIRONMENTAL DEFENSE FUND,1319
 CALIFORNIA STATE COUNCIL OF LABORERS,1318
 Attorney General,1315
-California Dental Association,1312
+California Dental Association,1313
 COUNTY OF SANTA CLARA BOARD OF SUPERVISORS,1307
 Older Womens League,1306
 CITY OF SAN JOSE,1303
@@ -436,7 +436,7 @@ Attorney General's Office,561
 California Public Utilities Commission,558
 Sacramento County Deputy Sheriffs' Association,557
 Southern California Contractors Association,556
-Abundant Housing LA,555
+Abundant Housing LA,556
 COALITION FOR ADEQUATE SCHOOL HOUSING,555
 JUSTICE IN AGING,555
 CONFERENCE OF CALIFORNIA BAR ASSOCIATIONS,554
@@ -1259,8 +1259,8 @@ Common Cause,230
 Corona Chamber of Commerce,230
 United Hospital Association,230
 Alameda Health Consortium,230
+California Medical Association (CMA),230
 CITY OF INGLEWOOD,229
-California Medical Association (CMA),229
 California Society of Industrial Medicine and Surgery,229
 California Solar Energy Industries Association,229
 Chino Valley Chamber of Commerce,229
@@ -15618,6 +15618,7 @@ Educational Fund,14
 CTC,14
 CIWMB,14
 CDFA,14
+Health Access California (HAC),14
 AT&T California,13
 Aerojet,13
 Alameda County Public Health Department,13
@@ -16746,7 +16747,7 @@ Conservation District,13
 Interest,13
 California Center for Assisted Living,13
 Bay Area Water Supply & Conservation Agency,13
-Health Access California (HAC),13
+Health Access California,13
 350 Humboldt Grassroots Climate Action,12
 AAA,12
 AAUW,12
@@ -18124,7 +18125,6 @@ Several Private Citizens,12
 Evercare,12
 Woodland Healthcare,12
 The Governor's Office,12
-Health Access California,12
 "3CORE, Inc",11
 "6 Beds, Inc",11
 7-Eleven Stores Inc,11
@@ -45493,6 +45493,7 @@ The State Bar of California,5
 California Chronic Care Coalition (CCCC),5
 The California Pharmacists Association,5
 The California Hospital Association (CHA),5
+The California Nurses Association,5
 2035 Initiative,4
 "350 East Bay, Legislative Committee",4
 350 Humboldt County,4
@@ -61434,7 +61435,6 @@ The California Mental Health Directors Association,3
 The California Mental Health Planning Council,3
 The California Mining Association,3
 The California Municipal Revenue & Tax Association,3
-The California Nurses Association,3
 The California Peace,3
 The California Professional Firefighters,3
 "The California Right to Life Committee, Inc",3
@@ -81794,6 +81794,8 @@ The Los Angeles County District Attorney's Office,3
 The California Radiological Society,3
 The California Association of Air Medical Services,3
 The Chronic Care Coalition (CCC),3
+The Western Center on Law and Poverty,3
+The California Academy of Family Physicians,3
 for Animals,2
 ", AFL-CIO",2
 1 Plus 1 Senior Care,2
@@ -90914,7 +90916,6 @@ CODESP,2
 San Diego County,2
 COMMENTS The Ventura County Transportation Commission,2
 ACTIA,2
-The Western Center on Law and Poverty,2
 COMPARISON OF SB 936 AND SB 1073,2
 COMPASS Care Services,2
 CONFERENCE COMMITTEE VOTE:,2
@@ -112336,7 +112337,6 @@ SUBMIT TO THE COMMITTEE.,2
 "SUMA America, Inc",2
 SUPERIOR COURT JUDGES,2
 The AIDS Healthcare Foundation (AHF),2
-The California Academy of Family Physicians,2
 The California Afterschool Advocacy Alliance,2
 SURJ Bay Area,2
 SURJ Greater Dayton,2
@@ -116057,7 +116057,6 @@ Supply,2
 Supply Bank.Org,2
 Supplybank.org,2
 Support Didi Hirsch Mental Health Services,2
-Support and Opposition. The California Nurses Association,2
 AIDS Health Care Foundation (AHF),2
 The State Department of Insurance,2
 Supporters such as the County of Los Angeles,2
@@ -120149,6 +120148,8 @@ The County of Los Angeles,2
 The Western Center on Law and Poverty (WCLP),2
 The California Primary Care Association (CPCA),2
 Independent Hospitality Coalition (IHC),2
+The California Chiropractic Association (CCA),2
+the Board of Pharmacy,2
 "1 Plus 1 Senior Care, Inc",1
 100 Black Men of Sacramento,1
 "100 Black Men of Sacramento, Incorporated",1
@@ -125506,7 +125507,6 @@ The California Chapters of the Institute of Scrap Recycling,1
 The California Children and Families Commission,1
 The California Children's Hospital,1
 The California Chiropractic,1
-The California Chiropractic Association (CCA),1
 The California Clinical Laboratory,1
 The California Clinical Laboratory Association,1
 The California Coalition Against Gambling Expansion,1
@@ -127084,7 +127084,6 @@ the Biocom California,1
 the Bizfed - Los Angeles County,1
 the Black Women for Wellness,1
 the Blue Shield of California,1
-the Board of Pharmacy,1
 the Board of Supervisors County of Madera,1
 the Breathe Southern California,1
 the Building Industry Association,1
@@ -194075,19 +194074,9 @@ Supplement,1
 Supply Patriot,1
 Supply our Students,1
 Support CIGA,1
-Support and Opposition. Abundant Housing LA,1
-Support and Opposition. California Dental Association,1
-Support and Opposition. California Medical Association (CMA),1
-Support and Opposition. Health Access California,1
-Support and Opposition. Health Access California (HAC),1
-Support and Opposition. Los Angeles Unified School District,1
-Support and Opposition. The American Farmland Trust (AFT),1
-Support and Opposition. The Board of Pharmacy,1
-Support and Opposition. The California Academy of Family Physicians,1
-Support and Opposition. The California Chiropractic Association (CCA),1
-Support and Opposition. The California Water Service,1
-Support and Opposition. The Tulare County Board of Supervisors,1
-Support and Opposition. The Western Center on Law and Poverty,1
+The American Farmland Trust (AFT),1
+The California Water Service,1
+The Tulare County Board of Supervisors,1
 California Narcotic Officers' of California,1
 SFO,1
 The California Ambulance Association (CAA),1
