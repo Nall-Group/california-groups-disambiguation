@@ -4,6 +4,19 @@ RAs post questions here when blocked. The human supervisor answers them.
 
 ## Open Questions
 
+### Q7 (Task 40, RA-Alpha)
+**Status:** Open
+
+While scanning for other "number (city)" entries that might be unnamed union locals, I found:
+
+1. "261 (CAMPBELL)" — could be a firefighters, IBEW, or other union local in Campbell, CA
+2. "3492 (North Antelope)" — could be a mining or energy workers union local at North Antelope (possibly North Antelope Rochelle coal mine in Wyoming, which would make it out-of-scope for CA)
+
+Both have count=1. Should I:
+- A) Move them to `org_names_partial.csv` as ambiguous fragments?
+- B) Research further to identify the specific unions?
+- C) Leave them as-is in the crosswalk?
+
 ## Answered Questions
 
 ### Q6 (Task 29, RA-Beta)
