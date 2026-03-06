@@ -1,9 +1,9 @@
 # California Groups Disambiguation
 
-![Canonical Orgs](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2FNall-Group%2Fcalifornia-groups-disambiguation%2Fmain%2Fstats.json&query=%24.canonical_orgs&label=canonical%20orgs&color=blue)
-![Total in Crosswalk](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2FNall-Group%2Fcalifornia-groups-disambiguation%2Fmain%2Fstats.json&query=%24.total_in_crosswalk&label=total%20in%20crosswalk&color=green)
-![Not in Crosswalk](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2FNall-Group%2Fcalifornia-groups-disambiguation%2Fmain%2Fstats.json&query=%24.not_in_crosswalk&label=not%20in%20crosswalk&color=orange)
-![Invalid Entries](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2FNall-Group%2Fcalifornia-groups-disambiguation%2Fmain%2Fstats.json&query=%24.invalid_entries&label=invalid%20entries&color=red)
+![Canonical Orgs](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2FNall-Group%2Fcalifornia-groups-disambiguation%2Fmain%2Fstats.json&query=%24.canonical_orgs&label=canonical%20orgs&color=blue&cacheSeconds=0)
+![Total in Crosswalk](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2FNall-Group%2Fcalifornia-groups-disambiguation%2Fmain%2Fstats.json&query=%24.total_in_crosswalk&label=total%20in%20crosswalk&color=green&cacheSeconds=0)
+![Not in Crosswalk](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2FNall-Group%2Fcalifornia-groups-disambiguation%2Fmain%2Fstats.json&query=%24.not_in_crosswalk&label=not%20in%20crosswalk&color=orange&cacheSeconds=0)
+![Invalid Entries](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2FNall-Group%2Fcalifornia-groups-disambiguation%2Fmain%2Fstats.json&query=%24.invalid_entries&label=invalid%20entries&color=red&cacheSeconds=0)
 
 ## 1_gather_orgs
 
