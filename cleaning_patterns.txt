@@ -66,6 +66,10 @@
 (?i)\s*\[per\s[^\]]*\]\s*$
 (?i)\s*\[as of\s[^\]]*\]\s*$
 
+# Trailing "(N letters)" or "(N individuals)" metadata suffix - END
+(?i)\s*\(\d+\s+(?:letters|individuals)\)\s*$
+(?i)\s*-\s*\(\d+\s+(?:letters|individuals)\)\s*$
+
 # Trailing "(Month Day" date fragment (e.g. "(July 10", "(April 23") - END
 (?i)\s*\((?:January|February|March|April|May|June|July|August|September|October|November|December)\s+\d+\s*$
 
