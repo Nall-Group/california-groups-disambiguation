@@ -19,9 +19,9 @@ Sonoma County Transportation Authority/regional Climate Protection Authority,14
 San Luis Obispo County Community College District / Cuesta College,13
 Citizens Commission on Human Rights Los Angeles/Hollywood Chapter,12
 Academy of California Adoption Lawyers/Academy of California Family Formation Lawyers,11
+Allied Managed Care and Acclamation Insurance Management Services,10
 Feline Foundation/Valley Animal Center,10
 Florin Resource Conservation District/elk Grove Water District,10
-Allied Managed Care and Acclamation Insurance Management Services,10
 Inc. Gun Owners of California,9
 San Mateo County/Silicon Valley Convention & Visitors Bureau,9
 Sara Ford Foundation Rescue Group - San Diego/No. County,9
@@ -79,10 +79,14 @@ Surfrider Foundation West LA/Malibu Chapter,5
 AFL-CIO California Tax Reform Association,4
 AFL-CIO California Teachers Association,4
 AFL-CIO Cement Masons,4
+"AdvoCal (clients: Wynnos International. Wynn Oil Company, and Robert Skeels & Company)",4
+"Alameda, Kern, Los Angeles, Sacramento, Santa Cruz, and Ventura Counties",4
 American Academy of HIV Medicine California/Hawaii Steering Committee,4
 "American Civil Liberties UnionAmerican Federation of State, County and Municipal Employees",4
 "American Federation of State, County, Municipal Employees (AFSCME) The Greenspan Company",4
 American Nurses Association/California Chapter,4
+American Staffing Association/California Staffing,4
+American Trucking Associations' Agricultural Food Transporters Conference and Intermodal Motor Carrier Conference,4
 "Appvion Holding Corp/Appvion Operations, Inc",4
 Arizona State University Planning and Conservation League Positive Energy,4
 Board of Directors Art Naldoza,4
@@ -126,10 +130,6 @@ San Mateo County/Silicon Valley Film Commission,4
 Sierra Club California Coastal Committee,4
 "Sierra Club California, Planning and Conservation League",4
 UAW 2865 Joint Council/Executive Board,4
-American Staffing Association/California Staffing,4
-American Trucking Associations' Agricultural Food Transporters Conference and Intermodal Motor Carrier Conference,4
-"Alameda, Kern, Los Angeles, Sacramento, Santa Cruz, and Ventura Counties",4
-"AdvoCal (clients: Wynnos International. Wynn Oil Company, and Robert Skeels & Company)",4
 1621 International Brotherhood of Paintes and Allied Trades JJJ Floor Covering,3
 18|8 Fine Men's Hair Salon of Playa Vista,3
 "1heartcares of LA Jolla, San Diego, Del Mar, Oceanside and LA Mesa",3
@@ -137,6 +137,7 @@ American Trucking Associations' Agricultural Food Transporters Conference and In
 "5 Gyres Institute, the Audubon California",3
 AB 65 Program of Los Angeles Unified School District,3
 "ACLU of Northern California, Southern California, and San Diego and Imperial Counties",3
+ANC Rental Corporation (the parent of Alamo and National),3
 "Air Force Sergeants Association, Reserve Officers Association",3
 Alliance for AC Transit/Bus Riders Union,3
 Alliance for Democracy/D.C. Office,3
@@ -235,7 +236,6 @@ Santa Clara County Victim/Witness Assistance Center,3
 United Nurse Association of California/Union of Health Care,3
 University of San Francisco Seed Library at Gleeson Library/Geschke Center,3
 Women's Policy Institute/Women's Foundation of California,3
-ANC Rental Corporation (the parent of Alamo and National),3
 ", Greater Los Angeles, and Orange County",2
 "350: Bay Area Action, Butte County, Conejo, San Fernando Valley, Humboldt, Sacramento, San Diego, SoCal Climate Action, South Bay Los Angeles, Southland Legislative Alliance, and Ventura County Climate Hub",2
 "350: Bay Area Action, Petaluma, Sacramento, SoCal Climate Action, and Ventura",2
@@ -262,8 +262,12 @@ AFL-CIO Northern California District Council,2
 AFL-CIO Peace Officers Research Association of California,2
 AFL-CIO SMART-Transportation Division,2
 AFL-CIO Sheet Metal,2
+"APLA Health, Black Women for Wellness Action Project, Equality California, Essential Access Health, Los Angeles LGBT Center",2
+"Additionally, the California Medical Association (CMA)",2
 Adelphia |City of La Palma |Springs,2
+AdvancePCS and Express Scripts,2
 Advisory Council/Area Agency on Aging,2
+Affairs (South San Francisco) California State Automobile Association,2
 "Agency on Aging Advisory Council (Nevada, Placer, Sacramento, Sierra, Sutter, Yolo, & Yuba)",2
 Alameda Corridor-East Construction |Gateway Chamber Alliance,2
 Alameda County Health Care for the Homeless Program Consumer/Community Advisory Board,2
@@ -285,11 +289,17 @@ American College of OB/GYN's District IX (ACOG),2
 "American Planning Association-California Chapter, California State Association of Counties, League of California",2
 "American River College, YESS/ILP Program",2
 American River Fire Department Jennifer Baues,2
+Americans Against Crime Mothers Against Drunk Drivers Stockton City Council Police Departments of: Antioch,2
 Anderson Valley Community Services District / Fire Department,2
+"Angeles (CHIRLA, National Immigration Law Center (NILC), and Services Immigrant Rights and Education Network (SIREN))",2
+"Angeles County Board of Supervisors Members, Michael Antonovich, Deana Dana and Yvonne Brathwaite Burke",2
+Angeles County and Beverly Hills Bar Associations,2
 Area 4 Board/Office of the State Council on Developmental Disabilities,2
 Area Agency on Aging Advisory Council/Los Angeles County,2
+Arsen's Recycling Californians Against Waste,2
 Artelias S. Guyton & |City of La Verne |City of Santa Monica,2
 "Assistance League Girls'/Teen Club, Ventura",2
+Associated General Contractors-San Diego. Association of California Water Agencies,2
 Associates |City of Lafayette |City of Santa Rosa,2
 Association (the California Peace Officers Association and the California Police Chiefso),2
 Association Association,2
@@ -513,16 +523,6 @@ U.S. Coast Guard Chief Petty Officers Association and Enlisted Association,2
 "U.S. Department of Justice/FBI, San Francisco Office",2
 Walnut Creek Planning and Conservation League Sealed Air Corporation,2
 West Coast Traffic School/Orange County,2
-"APLA Health, Black Women for Wellness Action Project, Equality California, Essential Access Health, Los Angeles LGBT Center",2
-Americans Against Crime Mothers Against Drunk Drivers Stockton City Council Police Departments of: Antioch,2
-"Angeles (CHIRLA, National Immigration Law Center (NILC), and Services Immigrant Rights and Education Network (SIREN))",2
-"Angeles County Board of Supervisors Members, Michael Antonovich, Deana Dana and Yvonne Brathwaite Burke",2
-Angeles County and Beverly Hills Bar Associations,2
-"Additionally, the California Medical Association (CMA)",2
-AdvancePCS and Express Scripts,2
-Affairs (South San Francisco) California State Automobile Association,2
-Arsen's Recycling Californians Against Waste,2
-Associated General Contractors-San Diego. Association of California Water Agencies,2
 . ACLHIC and CMTA,1
 1 |UNKNOWN |Final |YES |UNKNOWN|UNKNOW|UNKNOW|NO |NONE,1
 "21, Engineers and Scientists of CA, IFPTE Local 20, International Longshore and Warehouse Union",1
@@ -639,10 +639,17 @@ AFSCME and La Raza Roundtable,1
 "AFSCME, Planning and Conservation League, Sierra Club California",1
 AIDS Emergency Fund/Breast Cancer Emergency Fund,1
 "AMCAL Multi-Housing, Bay Area Community Land Trust, Beverly-Vermont Community Land Trust, Bolina Community Land Trust, California Association of Local Housing Finance Agencies, California Housing Consortium, Community Land Trust Association of Western Marin, The Dellums Institute of Social Justice, Enterprise Community Partners, Greenlining Institute, Grounded Solutions Network, Habitat for Humanity, Housing Land Trust of Sonoma County, Irvine Community Land Trust, Marty's House Affordable Housing Corporation, Northern California Land Trust, Oakland Community Land Trust, PolicyLink, Preserving Affordable Housing Assets Longterm Incorporated",1
+"APLA Health, the California Association of Alcohol and Drug Program Executives, the California Society of Addiction Medicine, and Equality California, HealthRIGHT",1
+"Acclamation Insurance Management Services, Allied Managed Care, California Chapter of the American Fence Association",1
+Accredited Out-of-State Colleges and Universities in California Corinthian Colleges,1
+"Administrative Law Economy Drug, Inc",1
+Administrative Law Judges (ACSA) Southern California Gas,1
 "Administrators, Sierra Club of California",1
 "Advanced Medical Technology Association, African American Farmers of California, Airlines for America, American Pistachio Growers, Association of California Life and Health Insurance Companies, Bay Area Council, Biocom, Building Owners and Managers Association of California, California Agricultural Aircraft Association, California Bankers Association, California Business Properties Association, California Business Roundtable, California Chamber of Commerce, California Cotton Ginners and Growers Association, California Farm Bureau Federation, California Forestry Association, California Hotel & Lodging Association, California Independent Petroleum Association, California League of Food Producers, California Life Sciences Association, California Manufacturers & Technology Association, California Railroads, California Taxpayers Association, California Trucking Association, Camarillo Chamber of Commerce, Chambers of Commerce Alliance of Ventura & Santa Barbara Counties, CompTIA, Contra Costa County Taxpayers Association, Council on State Taxation, Family Business Association of California, Farwest Equipment Dealers Association, International Council of Shopping Centers, Kern County Taxpayers Association, Maersk Inc,.NAIOP of California, National Federation of Independent Business, Nisei Farmers League, North Orange County Chamber, Orange County Business Council, Orange County Taxpayers Association, Oxnard Chamber of Commerce, Plant California Alliance Qualcomm, San Gabriel Valley Economic Partnership, Santa Maria Valley Chamber of Commerce, Silicon Valley Leadership Group, Solano County Taxpayers Association, Sutter County Taxpayers Association, TechNet, Valley Industry and Commerce Association, West Coast Lumber & Building Material Association, Western Agricultural Processors Association, Western Growers Association, Western Manufactured Housing Communities Association, Western Plant Health Association, Western States Petroleum Association, Wine Institute",1
+"Adventist Health, the California Hospital Association, and the District",1
 Advisory Group Planning and Conservation League,1
 Advocacy Institute/Center for Public Interest Law,1
+"AeA, Agilent Technologies, Philips Medical Systems",1
 "Affordable Housing Management Association, Northern CA Hawaii Apartment Association, AIDS Healthcare Foundation",1
 Afl-cio California State Sheriffs' Association National Association of Social Workers,1
 "African American Health Institute, NAACP - San Bernardino",1
@@ -650,17 +657,35 @@ African American Student Social Work|Environmental Health Coalition,1
 "African American, California Asian Pacific, California Hispanic, Carlsbad, Chula Vista, Dana Point, Danville Area, Downey, Garden Grove, Greater",1
 Agencies (ACWA) and the Regional Council of Rural Counties,1
 "Agencies, Santa Clara Valley Water District, Sierra Club",1
+Agency on Aging Advisory Council (San Luis Obispo and Santa AB 137-Correa Barbara Counties),1
 Agency on Aging\Area 4 (AAA4),1
 Agricultural Commissioner of the City/County,1
 "Agricultural Council of California, Auto Care Association, Brea Chamber of Commerce, California Business Properties Association, California Chamber of Commerce, California Construction and Industrial Materials Association, California Farm Bureau Federation, California Fuels and Convenience Alliance, California League of Food Producers, Camarillo Chamber of Commerce, CAWA, Greater Conejo Valley Chamber of Commerce, Murieta Wildomar Chamber of Commerce, National Federation of Independent Business, Orange County Business Council, Oxnard Chamber of Commerce, San Gabriel Valley Economic Parnership, Santa Maria Valley Chamber of Commerce, Southwest California Legislative Council, Torrance Area Chamber of Commerce, Tulare Chamber of Commerce, Western Independent Refiners Association, Western States Petroleum Association",1
 Agriculture Council of California |Hedgerow Farms,1
+Air Conditioning Trade Association Associated Builders and Contractors of California City and County of San Francisco (prior version) City of Brawley,1
+Air Conditioning Trade Association Associated Builders and Contractors of California City of Arcadia,1
 "Aircraft Owners and Pilots Association, California Aviation Business Association, City of San",1
 "Alameda Corridor Transportation Authority, Gilbert Hicks, General Manager",1
 Alameda County Community Food Bank Nadia Leal,1
+Alameda County Fire Department & Sheriff's Department,1
+Alameda County Transportation AuthorityAssociation for Los Angeles Deputy Sheriffs,1
+"Alameda County, Concerned Citizens About Vasco Experiences (CRAVE), Contra Costa",1
 "Alameda Labor Council American Federation of State, County and Municipal Employees",1
 "Alameda Unified School District, California Professional Firefighters Association, California School Employees Association, California State PTA, California Teachers Association, Howard Jarvis Taxpayers Association",1
 Alameda Unified School District/Woodstock Child Developmental Center,1
+Alameda Unified School DistrictMiddletown High School (Shasta Co),1
+"Alhambra, Azusa, Baldwin Park, El Monte, Industry, Irwindale, La Puente, Los Angeles, Monterey Park, South",1
+"Alhambra, Benicia, Carlsbad, Carson, Claremont, Coronodo",1
+Alley Cat AlliesAbby Pet Hospital American Domestic Varieties Council,1
+Alliance for Children's Rights/ California Coalition for Youth/ Children Now/ Grace Institute - End Child Poverty in Ca,1
+"Alliance for Managed Care (Aetna Health Plans, Cigna, The Prudential, and United HealthCare)",1
+"Alliance for Managed Care (Aetna Health Plans, Cigna, The United HealthCare)",1
+"Alliance for Managed Care (Aetna, Cigna, Metra, and Companies)",1
+"Alliance for Managed Care (Aetna, Cigna, Metra, and Prudential)",1
+Alliance for Rural Community HealthAPLA Health,1
+"Alliance of American Insurers, Consulting Engineers and Land Surveyors of California (CELSOC)",1
 Alliance of American Insurers\Association of California Insurance Companies,1
+"Alliance of Automobile Manufacturers, Silicon Valley Leadership Group",1
 Alliance |Rio Bravo Poso,1
 Alpine Firefighters Association Bonita Firefighters Association CA State Firefighters' Association,1
 Alum Rock United Methodist Church |Christ,1
@@ -672,41 +697,66 @@ American Addiction Institute of Mind and Medicine/ Harm Reduction Institute,1
 "American Association of University Women, the California Family Health Council, Maternal Child Health Access, and Planned Parenthood Affiliates of California",1
 American Career College / West Coast University,1
 American Civil Liberties Union Andre Jones,1
+"American Civil Liberties Union of California, Center for Advocacy and Policy California Association of Nonprofits",1
+American College of Obstetricians and Gynecologists Blue Cross,1
+American College of Obstetricians and Gynecologists California Catholic,1
+"American Council of Engineering Companies, CA American Society of Civil Engineers, Region 9",1
+American Council of Engineering Cos. of CA California Pear Growers Association,1
 American Council on Renewable Energy/Biomass Coordinating Council Athens Services,1
+American Electronics Association Amazon.Com,1
 American Electronics Association |Coca-Coal Bottling Co. of Southern,1
 "American Federation of State, County and Municipal Employees, Sierra Club",1
 "American Federation of State, County, and Municipal Employees (AFSCME) AFL-CIO and Service Employees International Union (SEIU)",1
 "American Federation of State, County, and Municipal Employees (AFSCME) and Franchise of Americans Needing Sports",1
 American G.I Forum of California/American Legion Department of California/AMVETS-Department of California/California Association of County Veterans Service Officers/Military Officers Association of America/California Council of Chapters/Vietnam Veterans of America -California State Council,1
+"American GI Forum, AMVETS - Department of California, California Association of County Veterans Services Officers, California State Commanders Veterans Council, Vietnam Veterans of America - California State Chapter",1
 "American GI-Forum of California, American Legion - Department of California, AMVETS - Department of California, California Association of County Veteran Service Officers, California State Commanders Veterans Council, Military Officers Association of America - California Council of Chapters, Vietnam Veterans of America - California State Council",1
 American Hairbraiders and Hair Care Association Bonita Barnes,1
 American Health Association/American Stroke Association,1
+"American Heart Association, American Cancer Society Cancer Action Network",1
 "American Import Shippers Association|Columbine Vineyards of Delano, CA",1
 American Insurance Association American International Group (AIG) Association of California Insurance Companies,1
 "American Legion Department of California, California Apartment Association, California Association of Veteran Service Agencies, Construction Employers Association",1
 American Lung Association - Inland Counties American Lung Association - Los Angeles County American Lung Association - Orange County California Contract Cities Association California Council for Environmental and Economic Balance Coachella Valley Association of Governments Coalition for Clean Air Communities for a Better Environment County of Riverside,1
 American Lung Association Sierra Club,1
+"American Lung Association of California, California Communities Against Toxics, California Environmental Rights Alliance, Clean",1
 "American Lung Association of California, California District Attorneys Association, Los",1
 "American Lung Association, Sierra Club California",1
 "American Motorcycle Association, Mark Jones",1
 American Planning Association - California Chapter California State Association of Counties City of Adelanto,1
 American Planning Association - California Chapter California State Association of Counties City of Alameda,1
 American Planning Association California League of Conservation Voters California State Association of Counties City of Alhambra,1
+"American Planning Association-California Chapter, League of California Cities",1
 "American Planning Association-California Chapter, Planning and Conservation League",1
 "American Postal Workers Union, California State President Isabelle Bailey",1
 "American Resort Development Association, California Business Properties Association, California Escrow Association, California Land Title Association, California Mortgage Association, California Pool and Spa Association, California Taxpayers Association, Community Associations Institute California Legislative Action Committee, County Recorders Association of California, Howard Jarvis Taxpayers Assocation, National Federation of Independent Business, United Trustees Association",1
 American River College/West Coast University,1
+American Society for the Prevention of Cruelty to Animals and the California Partnership to End Domestic Violence,1
+"American Society of Appraisers, American Society of Farm Managers and Rural Appraisers",1
 "American Society of Civil Engineers-Region 9, Association of California Construction Managers, Association of California School Administrators, Atascadero Unified School District, Bakersfield City School District",1
 American Solar Energy Society |Pacific Gas and Electric Company,1
+American Specialty Health Plans (ASHP) also,1
+American Staffing Association/California Staffing Professionals,1
+Americans for Medical Rights/Campaign for New Drug Policies,1
+"Americans for Safe Access, Drug Policy Alliance",1
+"Amond Court, Inc., Anderson Valley Housing Association",1
 Anaheim Duck Hockey Club/ Anaheim Ducks Foundation,1
+Anderson Union High School District (Shasta Co)Moorpark,1
 Anderson Valley Community Services District/Fire Department,1
 "Angeles County District Attorney's Office, Planning and Conservation League",1
 Angeles Planning and Conservation League,1
 "Animal Legal Defense Fund, Director Chris Green",1
+AntiochArcadia Arcata Arroyo Grande,1
+"Anver Bioscience Design, Incorporated Biomeda Corporation",1
 "Apartment Association of Greater Los Angeles, Apartment Association of Orange County",1
 "Apartment Association, California Southern Association",1
 "Apartment Owners Association of California, Building Owners and Managers Association",1
+Apollo Alliance and The State Building and Construction Trades,1
+"Apollo Education Group, INC. & its Subsidiaries University of Phoenix, Insight",1
+"Apollo Education Group, INC. & its Subsidiaries University of Phoenix, Insight Schools",1
+"Apollo Education Group, INC. & its Subsidiaries University of Phoenix, Insight Schools & College for Financial Business",1
 "Arcadia Police Officers Association, Burbank Police Officers Association, California Association of Highway Patrolmen, California Coalition of School Safety Professionals, Claremont Police Officers Association, Corona Police Officers Association, Culver City Police Officers Association, Deputy Sheriffs' Association of Monterey County, Fullerton Police Officers Association, Los Angeles School Police Officers Association, Murrieta Police Officers Association, Newport Beach Police Association, Palos Verdes Police Officers Association, Placer County Deputy Sheriffs Association, Pomona Police Officers Association, Riverside Police Officers Association, Riverside Sheriffs Association, Santa Ana Police Officers Association, Upland Police Officers Association",1
+"Arroyo Grande, French and Marian Medical Centers",1
 Asian Pacific American Legal Center |California Teachers Association,1
 Asian Pacific Environmental Network |Centers,1
 Asian Pacific Environmental Network |Green For All,1
@@ -717,9 +767,20 @@ Asian Pacific Islander Law Students |California Women's Agenda,1
 "Asian Pacific Islander Parents, |Families & |Friends of Lesbians and Gays",1
 Asian Pacific Islander Pride Council|Chinese for Affirmative Action,1
 Asian Pacific Islander Small Business Program WBC/LTSC Community Development Corp,1
+Asian Pacific Islanders for Human Rights/`Ohana House,1
 "Asian Pacific Student Association, |Altadena",1
+"Asian, Inc., Association of Asian American Attorney and CPA Firms (SF)",1
+Assoc. of CA Water Agencies/Joint,1
+"Associate Director, Beach Center on Disability, University of Kansas",1
+Associate Professor at UCB Electronic Frontier Foundation Greater Western Library Alliance Sunita Pullela Ho,1
+"Associated Builders and Contractors, Central California, Southern California & San Diego Chapters",1
 "Associated Electric & Gas Insurance Services Limited, AKA Marine & Aviation Insurance (U.K.) Limited, Great Lakes Insurance (U.K.) PLC, Heddington Insurance (U.K.) Limited, Liberty Mutual Insurance Company(U.K) Limited, Norwich Union Fire Insurance Society Limited, St. Paul Reinsurance Company Limited, Skandia International Insurance Corporation, SR International Business Insurance Company Limited, Terra Nova Insurance Company Limited",1
+"Associated General Contractors (AGC) The California Chapters, Building Owners and Managers Association of California (BOMA-CA)",1
+"Associated General Contractors of California, Associated General Contractors of America - San",1
 "Associated General Contractors of California, California Bankers Association, California Chamber of Commerce, California Retailers Association, California Society of CPAs, California Taxpayers Association, Cellular Telecommunications and Internet Association, Civil Justice Association of California, Computing Technology Industry Association, Council on State Taxation, Family Business Association of California, Motion Picture Association of America, National Federation of Independent Business, Tracfone Wireless",1
+"Associated General Contractors,The Port of Long Beach San Diego Chapter",1
+"Associated Students of the University of California, California State Student Association, California State University, California Teamsters, University of California",1
+"Association (CMA), the California Society of Plastic Surgeons, Inc. (CSPS), and the California Chapter of the American",1
 Association (the California Peace Officers Association),1
 Association California District Attorneys Association,1
 "Association California Health Care Districts, California Association of Catholic Hospitals",1
@@ -1307,6 +1368,7 @@ City of Porterville/Porterville Redevelopment Agency,1
 "City of Rolling Hills Estates |Thomas Properties Group, Inc",1
 "City of Roseville, Contra Costa Transportation Authority, Environmental Health Coalition, Humboldt County Association of Governments, Lincoln Area Chamber of Commerce, LiUNA , Placer County, Placer County Association of Realtors, Placer County Transportation Planning Agency, Placer County Visitor's Bureau, Rocklin Area Chamber of Commerce, Roseville Area Chamber of Commerce, Sacramento Area Council of Governments, San Diego 350, Solano Transportation Authority, Ventura County Transportation Commission, Westpark Communities, Yolo County",1
 City of Sacramento City of Santa Rosa,1
+City of Sacramento. SB 695 - 04/27/93 Alta Irrigation District,1
 City of San Diego and City of Oakland,1
 "City of San Diego, Sierra Club",1
 City of San Diego. The City of San Diego,1
@@ -1465,6 +1527,7 @@ Family Caregiver Alliance/National Center on Caregiving,1
 "Federation, AFL-CIO, Single Parents United 'N Kids",1
 "Federation, Agricultural Council of California",1
 "Federation, Western States Petroleum",1
+Flasher Barricade Association and Acclamation Insurance Management Services,1
 "Flasher Barricade Association, California Manufacturers and Technology Association, National Federation of Independent Business California",1
 Flasher\Barricade Association and License Information Service,1
 Flintridge | | Commission,1
@@ -1955,68 +2018,6 @@ the Advancement of Colored People Coastwalk California,1
 "the American GI Forum of California, American Legion-Department of California, AMVETS-Department of California, California Association of County Veterans Service Officers, California State Commanders Veterans Council, National Guard Association of California, and the Vietnam Veterans of America-California State Council",1
 the Environment |City of Laguna Niguel |City of Sausalito,1
 the Environment |City of Lake Forest |City of Scotts Valley,1
-"American Civil Liberties Union of California, Center for Advocacy and Policy California Association of Nonprofits",1
-American College of Obstetricians and Gynecologists Blue Cross,1
-American College of Obstetricians and Gynecologists California Catholic,1
-"American Council of Engineering Companies, CA American Society of Civil Engineers, Region 9",1
-American Council of Engineering Cos. of CA California Pear Growers Association,1
-American Electronics Association Amazon.Com,1
-"American GI Forum, AMVETS - Department of California, California Association of County Veterans Services Officers, California State Commanders Veterans Council, Vietnam Veterans of America - California State Chapter",1
-"American Heart Association, American Cancer Society Cancer Action Network",1
-"American Lung Association of California, California Communities Against Toxics, California Environmental Rights Alliance, Clean",1
-"American Planning Association-California Chapter, League of California Cities",1
-"APLA Health, the California Association of Alcohol and Drug Program Executives, the California Society of Addiction Medicine, and Equality California, HealthRIGHT",1
-American Society for the Prevention of Cruelty to Animals and the California Partnership to End Domestic Violence,1
-"American Society of Appraisers, American Society of Farm Managers and Rural Appraisers",1
-American Specialty Health Plans (ASHP) also,1
-American Staffing Association/California Staffing Professionals,1
-Americans for Medical Rights/Campaign for New Drug Policies,1
-"Americans for Safe Access, Drug Policy Alliance",1
-"Amond Court, Inc., Anderson Valley Housing Association",1
-Anderson Union High School District (Shasta Co)Moorpark,1
-AntiochArcadia Arcata Arroyo Grande,1
-"Anver Bioscience Design, Incorporated Biomeda Corporation",1
-Apollo Alliance and The State Building and Construction Trades,1
-"Apollo Education Group, INC. & its Subsidiaries University of Phoenix, Insight",1
-"Apollo Education Group, INC. & its Subsidiaries University of Phoenix, Insight Schools",1
-"Apollo Education Group, INC. & its Subsidiaries University of Phoenix, Insight Schools & College for Financial Business",1
-Alameda County Fire Department & Sheriff's Department,1
-Alameda County Transportation AuthorityAssociation for Los Angeles Deputy Sheriffs,1
-"Alameda County, Concerned Citizens About Vasco Experiences (CRAVE), Contra Costa",1
-Alameda Unified School DistrictMiddletown High School (Shasta Co),1
-"Alhambra, Azusa, Baldwin Park, El Monte, Industry, Irwindale, La Puente, Los Angeles, Monterey Park, South",1
-"Alhambra, Benicia, Carlsbad, Carson, Claremont, Coronodo",1
-Alley Cat AlliesAbby Pet Hospital American Domestic Varieties Council,1
-Alliance for Children's Rights/ California Coalition for Youth/ Children Now/ Grace Institute - End Child Poverty in Ca,1
-"Alliance for Managed Care (Aetna Health Plans, Cigna, The Prudential, and United HealthCare)",1
-"Alliance for Managed Care (Aetna Health Plans, Cigna, The United HealthCare)",1
-"Alliance for Managed Care (Aetna, Cigna, Metra, and Companies)",1
-"Alliance for Managed Care (Aetna, Cigna, Metra, and Prudential)",1
-Alliance for Rural Community HealthAPLA Health,1
-"Alliance of American Insurers, Consulting Engineers and Land Surveyors of California (CELSOC)",1
-"Alliance of Automobile Manufacturers, Silicon Valley Leadership Group",1
-"Acclamation Insurance Management Services, Allied Managed Care, California Chapter of the American Fence Association",1
-Accredited Out-of-State Colleges and Universities in California Corinthian Colleges,1
-"Administrative Law Economy Drug, Inc",1
-Administrative Law Judges (ACSA) Southern California Gas,1
-"Adventist Health, the California Hospital Association, and the District",1
-"AeA, Agilent Technologies, Philips Medical Systems",1
-Agency on Aging Advisory Council (San Luis Obispo and Santa AB 137-Correa Barbara Counties),1
-Air Conditioning Trade Association Associated Builders and Contractors of California City and County of San Francisco (prior version) City of Brawley,1
-Air Conditioning Trade Association Associated Builders and Contractors of California City of Arcadia,1
-Flasher Barricade Association and Acclamation Insurance Management Services,1
-"Arroyo Grande, French and Marian Medical Centers",1
-Asian Pacific Islanders for Human Rights/`Ohana House,1
-"Asian, Inc., Association of Asian American Attorney and CPA Firms (SF)",1
-Assoc. of CA Water Agencies/Joint,1
-"Associate Director, Beach Center on Disability, University of Kansas",1
-Associate Professor at UCB Electronic Frontier Foundation Greater Western Library Alliance Sunita Pullela Ho,1
-"Associated Builders and Contractors, Central California, Southern California & San Diego Chapters",1
-"Associated General Contractors (AGC) The California Chapters, Building Owners and Managers Association of California (BOMA-CA)",1
-"Associated General Contractors of California, Associated General Contractors of America - San",1
-"Associated General Contractors,The Port of Long Beach San Diego Chapter",1
-"Associated Students of the University of California, California State Student Association, California State University, California Teamsters, University of California",1
-"Association (CMA), the California Society of Plastic Surgeons, Inc. (CSPS), and the California Chapter of the American",1
 "LOCAL 684, AND LOCAL 1245",0
 "Orange County Central Labor Council, UFCW",0
 "Orange County Central Labor Council, UFCW Local 324",0
