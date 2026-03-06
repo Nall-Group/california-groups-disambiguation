@@ -66,6 +66,14 @@
 (?i)\s*\[per\s[^\]]*\]\s*$
 (?i)\s*\[as of\s[^\]]*\]\s*$
 
+# Trailing "(if)", "(as)", "(c osponsor )", "(Recommendation)", "(page)", "(Member)" metadata - END
+(?i)\s*\(if\)\s*$
+(?i)\s*\(as\)\s*$
+(?i)\s*\(c\s*osponsor\s*\)\s*$
+(?i)\s*\(recommendation\)\s*$
+(?i)\s*\(page\)\s*$
+(?i)\s*\(member\)\s*$
+
 # Trailing "(N letters)" or "(N individuals)" metadata suffix - END
 (?i)\s*\(\d+\s+(?:letters|individuals)\)\s*$
 (?i)\s*-\s*\(\d+\s+(?:letters|individuals)\)\s*$
