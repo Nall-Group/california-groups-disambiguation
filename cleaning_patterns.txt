@@ -74,6 +74,13 @@
 (?i)\s*\(page\)\s*$
 (?i)\s*\(member\)\s*$
 
+# Trailing "(UNREG)", "(continued)", "(cont.)", "(Fall)", "(pending)" metadata flags - END
+(?i)\s*\(UNREG\)\s*$
+(?i)\s*\(continued\)\s*$
+(?i)\s*\(cont\.\)\s*$
+(?i)\s*\(Fall\)\s*$
+(?i)\s*\(pending\)\s*$
+
 # Trailing "(N letters)" or "(N individuals)" metadata suffix - END
 (?i)\s*\(\d+\s+(?:letters|individuals)\)\s*$
 (?i)\s*-\s*\(\d+\s+(?:letters|individuals)\)\s*$
