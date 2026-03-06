@@ -11,13 +11,15 @@ To edit this file (post questions, write answers), join this queue first. Only t
 ## Open Questions
 
 ### Q8 (Task 53, RA-Alpha)
-**Status:** Open
+**Status:** Answered
 
 While handling Task 53 (move generic single-word entries to partial CSV), I moved "Access" and "Action" as specified. Scanning the crosswalk, I found 52 additional single-word canonicals with NO children that are common English words. Some might be real orgs (e.g., "Amazon" the company, "Homeboy" likely Homeboy Industries, "Habitat" possibly Habitat for Humanity).
 
 Here's the full list — which should be moved to `org_names_partial.csv` as too generic?
 
 Advance, Amazon, Assembly, Balance, Bridge, Change, Common, Connect, Conservation, Democracy, Design, Direct, Excellence, Focus, Freedom, Global, Guardian, Habitat, Harvest, Haven, Home, Homeboy, Hope, Horizon, Insight, Lead, Liberty, Light, Link, Local, Momentum, Opportunity, Options, Partners, Pathway, People, Pioneer, Practice, Quality, Reach, Response, Restore, Rural, Safety, Share, Strategy, Together, Transit, Unity, Village, Voice, Volunteer
+
+**Answer:** We web-searched each one. **Keep only "Amazon"** (Amazon.com, Inc. — major corporation that lobbies CA legislature). Move all other 51 to `org_names_partial.csv` — every one is too generic/ambiguous as a standalone word, and the crosswalk already has separate entries for the full-named organizations they might be fragments of (e.g., "Homeboy Industries", "Habitat for Humanity", etc.).
 
 ### Q7 (Task 40, RA-Alpha)
 **Status:** Answered

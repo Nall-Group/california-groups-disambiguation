@@ -34,6 +34,26 @@ If the entry only exists in the JSON and not in any CSV file, just remove it fro
 - `2_webapp/org_clusters_crosswalk.json` - live file, all updates go here
 - For the CSV file some of the items in the file contain commas and you need to parse it properly. Don't just parse it by comma use CSV parsing libraries
 
+## Coordination Queues
+
+To prevent concurrent edits from overwriting each other, `TASKS.md` and `QUESTIONS.md` each have their own write queue (in addition to the existing data file write queue). **Everyone** — management assistant and worker RAs alike — must join the relevant queue before editing these files.
+
+### TASKS.md Write Queue
+Located at the top of `TASKS.md` under "## TASKS.md Write Queue". To edit TASKS.md (mark tasks in-progress/done, add tasks, update the data write queue, etc.):
+1. Add your name to the bottom of the TASKS.md Write Queue.
+2. Wait until your name is at the top.
+3. Make your edits.
+4. Remove yourself from the queue.
+
+### QUESTIONS.md Write Queue
+Located at the top of `QUESTIONS.md` under "## QUESTIONS.md Write Queue". To edit QUESTIONS.md (post questions, write answers, etc.):
+1. Add your name to the bottom of the QUESTIONS.md Write Queue.
+2. Wait until your name is at the top.
+3. Make your edits.
+4. Remove yourself from the queue.
+
+**Important:** These queues are separate from the data file Write Queue (for crosswalk JSON and CSVs). You may hold a position in multiple queues simultaneously.
+
 ## Management Assistant Role
 
 The management assistant is a dedicated Claude Code session that coordinates between the human supervisor and worker RAs. It does NOT do worker tasks itself.
@@ -44,24 +64,28 @@ The management assistant is a dedicated Claude Code session that coordinates bet
 - Present open questions to the human supervisor and collect answers
 - Write the human's answers back into `QUESTIONS.md` and change status to "Answered"
 - Give the human status updates by reading `TASKS.md` (what's done, in progress, blocked)
+- Continuously scan `2_webapp/org_clusters_crosswalk.json` for issues and create new tasks
 
 **Workflow:**
 1. Human gives task descriptions -> management assistant adds them to `TASKS.md`
 2. Management assistant periodically checks `QUESTIONS.md` for unanswered questions -> presents them to the human
 3. Human answers -> management assistant writes answers to `QUESTIONS.md`
 4. Human asks for status -> management assistant reads `TASKS.md` and summarizes
+5. Management assistant scans the crosswalk JSON for issues (invalid entries, duplicates, etc.) and proposes new tasks
+
+**Scanning protocol:** The management assistant scans `2_webapp/org_clusters_crosswalk.json` in 5000-line chunks using background agents. Progress is tracked in the memory file `scan_status.md`.
 
 ## Worker RA Role
 
 Each worker RA session is given a name by the user (e.g. "RA-Alpha", "RA-Beta").
 
 **Task workflow:**
-1. Read `TASKS.md` and pick a task that is "Not Started". Mark it "In Progress" with your name.
+1. Join the TASKS.md Write Queue to mark a task "In Progress" with your name.
 2. **Plan phase (read-only)**: Read all relevant files, research the task, and plan out exactly what changes you will make. Do NOT edit any project files yet.
-3. **Join the write queue**: Add your name to the bottom of the Write Queue in `TASKS.md`.
-4. **Wait for your turn**: Periodically re-read `TASKS.md`. When your name is at the top of the queue, you have write access.
+3. **Join the data Write Queue**: Add your name to the bottom of the Data Write Queue in `TASKS.md`.
+4. **Wait for your turn**: Periodically re-read `TASKS.md`. When your name is at the top of the data queue, you have write access to project data files.
 5. **Execute**: Make all your changes and commit with a descriptive message.
-6. **Release**: Remove yourself from the write queue and mark your task "Done" in `TASKS.md`.
+6. **Release**: Join the TASKS.md Write Queue again to remove yourself from the data write queue and mark your task "Done".
 
 **CSV handling rules:**
 - **Consolidating within the crosswalk** (reorganizing existing entries): No CSV changes needed.
@@ -76,9 +100,9 @@ Each worker RA session is given a name by the user (e.g. "RA-Alpha", "RA-Beta").
 **Commit discipline:** One task per commit. Keep commits atomic and descriptive. Delete any temporary/processing scripts you created before committing — only commit the data changes.
 
 **Blocked tasks:**
-- If a task is ambiguous or you're unsure how to proceed, mark it "Blocked" in `TASKS.md` and **clear the Assignee field** so another RA can potentially pick it up once answered.
-- Post your question in `QUESTIONS.md` with the task number and your RA name.
-- Remove yourself from the write queue if you're in it.
+- If a task is ambiguous or you're unsure how to proceed, use the TASKS.md Write Queue to mark it "Blocked" and **clear the Assignee field**.
+- Use the QUESTIONS.md Write Queue to post your question with the task number and your RA name.
+- Remove yourself from the data write queue if you're in it.
 - Move on to another task.
 
 **Picking up blocked tasks:** Any RA (not just the original one) can pick up a "Blocked" task. Before picking a new "Not Started" task, check `QUESTIONS.md` for answered questions on blocked tasks. If a blocked task's question has been answered, you can claim it — mark it "In Progress" with your name and resume work on it.
