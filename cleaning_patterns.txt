@@ -66,6 +66,9 @@
 (?i)\s*\[per\s[^\]]*\]\s*$
 (?i)\s*\[as of\s[^\]]*\]\s*$
 
+# Trailing "(Month Day" date fragment (e.g. "(July 10", "(April 23") - END
+(?i)\s*\((?:January|February|March|April|May|June|July|August|September|October|November|December)\s+\d+\s*$
+
 # Patterns to remove from the BEGINNING of organization names
 # These are procedural notes, not part of the org name
 
@@ -104,6 +107,9 @@
 
 # Leading "year: " prefix (e.g. "1998: American Farmland Trust") - BEGINNING
 ^\d{4}:\s+
+
+# Leading "year) " prefix (e.g. "2007) American Cancer Society (July 10") - BEGINNING
+^\d{4}\)\s+
 
 # Leading "None on file" prefix - BEGINNING
 (?i)^\s*None on file\.\s*
