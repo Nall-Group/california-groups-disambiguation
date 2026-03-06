@@ -1,5 +1,5 @@
 org_name,count
-CALIFORNIA CHAMBER OF COMMERCE,11430
+CALIFORNIA CHAMBER OF COMMERCE,11431
 "AMERICAN FEDERATION OF STATE , COUNTY AND MUNICIPAL EMPLOYEES",10057
 Sierra Club,9404
 CALIFORNIA STATE ASSOCIATION OF COUNTIES,9032
@@ -32,7 +32,7 @@ CONGRESS OF CALIFORNIA SENIORS,3821
 California Catholic Conference,3818
 ASSOCIATION OF CALIFORNIA WATER AGENCIES,3749
 NATIONAL ASSOCIATION OF SOCIAL WORKERS - CALIFORNIA CHAPTER,3732
-SERVICE EMPLOYEES' INTERNATIONAL UNION,3562
+SERVICE EMPLOYEES' INTERNATIONAL UNION,3563
 CALTAX,3520
 California Building Industry Association,3513
 CALIFORNIA PEACE OFFICERS' ASSOCIATION,3488
@@ -192,7 +192,7 @@ CALIFORNIA COMMISSION ON AGING,1109
 California Fire Chiefs Association,1101
 AUTOMOBILE CLUB OF SOUTHERN CALIFORNIA,1099
 CALIFORNIA LEAGUE OF FOOD PROCESSORS,1099
-California State Firefighter's Association,1098
+California State Firefighter's Association,1099
 CITY OF WEST HOLLYWOOD,1095
 CITY OF SANTA MONICA,1095
 California Communities United Institute,1091
@@ -215,7 +215,7 @@ San Francisco Unified School District,1036
 HEALTH OFFICERS ASSOCIATION OF CALIFORNIA,1029
 California Forestry Association,1028
 Protection and Advocacy,1025
-Associated Builders and Contractors,1020
+Associated Builders and Contractors,1021
 Faculty Association of California Community Colleges,1020
 CALIFORNIA ASSOCIATION OF JOINT POWERS AUTHORITIES,1018
 COMMUNITY COLLEGE LEAGUE OF CALIFORNIA,1016
@@ -484,7 +484,7 @@ City of Norwalk,522
 City of Santa Barbara,522
 Juvenile Court Judges of California,520
 Newport Beach Police Association,519
-American Institute of Architects,518
+American Institute of Architects,519
 Culver City Police Officers Association,517
 CALIFORNIA ASIAN PACIFIC CHAMBER OF COMMERCE,514
 Greenbelt Alliance,514
@@ -690,7 +690,7 @@ County of San Mateo,387
 GREATER COACHELLA VALLEY CHAMBER OF COMMERCE,386
 RETIRED PUBLIC EMPLOYEES' ASSOCIATION,386
 Kaiser Permanente Medical Care Program,386
-CENTER FOR PUBLIC INTEREST LAW,385
+CENTER FOR PUBLIC INTEREST LAW,386
 ASIAN AMERICANS FOR CIVIL RIGHTS AND EQUALITY,384
 Legal Community Against Violence,384
 Western United Dairymen,384
@@ -806,7 +806,7 @@ American Civil Liberties Union (ACLU),344
 Hotel Employees Restaurant Employees International Union,343
 California Association of Public Authorities,342
 NorCal Waste Systems,342
-AMERICAN FEDERATION OF STATE,341
+AMERICAN FEDERATION OF STATE,342
 CITY OF FOUNTAIN VALLEY,341
 SONOMA COUNTY BOARD OF SUPERVISORS,340
 United Farm Workers,340
@@ -1277,7 +1277,7 @@ California Coalition on Workers' Compensation,227
 Marin County Council of Mayors and Councilmembers,227
 Water Replenishment District of Southern California,227
 California Orthopedic Association,227
-American Farmland Trust,226
+American Farmland Trust,227
 CLERGY AND LAITY UNITED FOR ECONOMIC JUSTICE,226
 California Natural Gas Vehicle Coalition,226
 City of Laguna Hills,226
@@ -1607,9 +1607,9 @@ Napa County Board of Supervisors,179
 California Association of Clerks and Elections Officials,179
 California Dispute Resolution Council,179
 California Apple Commission,179
+California Thoroughbred Breeders Association,179
 Applied Research Center,178
 California Society of Certified Public Accountants,178
-California Thoroughbred Breeders Association,178
 City of Elk Grove,178
 Compton Unified School District,178
 Culver City Democratic Club,178
@@ -1963,6 +1963,7 @@ Associated Builders and Contractors - San Diego Chapter,142
 California Blueberry Commission,142
 Fresno County Board of Supervisors,142
 Sustainable Rossmoor,142
+American Legion,142
 CALIFORNIA IATSE COUNCIL,141
 CITY OF HUNTINGTON PARK,141
 California Self-Insurers Association,141
@@ -1976,7 +1977,6 @@ Southern California,141
 California Police,141
 Madera County Board of Supervisors,141
 Shasta Community Health Center,141
-American Legion,140
 CITY OF LA QUINTA,140
 California Airports Council,140
 Family Caregiver Alliance,140
@@ -5027,13 +5027,13 @@ San Gabriel Basin Water Quality Authority,50
 San Ramon Valley Unified School District,50
 Self-help for the Elderly,50
 Strategic Alliance for Healthy Food and Activity Environments,50
-Superintendent of Public Instruction Jack O'Connell,50
 United Contractors (UCON),50
 Vacaville Unified School District,50
 Visalia,50
 Watts/Century Latino Organization,50
 Westside Regional Center,50
 Wu Yee Children's Services,50
+Superintendent of Public Instruction Jack O'Connell,50
 ASTHMA COALITION OF LOS ANGELES COUNTY,49
 Affirmed Housing,49
 Alameda County Sheriffs Department,49
@@ -5797,6 +5797,7 @@ St. Elizabeth Community Hospital,43
 DOI,43
 BART,43
 California Conference of Bar Associations,43
+People's Advocate,43
 350 Santa Barbara,42
 6beds,42
 ALS ASSOCIATION,42
@@ -5838,7 +5839,6 @@ Norco College,42
 Orange County Congregation Community Organization,42
 PACIFIC BUSINESS GROUP ON HEALTH,42
 PEOPLE ASSISTING THE HOMELESS,42
-People's Advocate,42
 "Professional & Technical Engineers, IFPTE Local 21, AFL-CIO",42
 Reed Elsevier,42
 SHASTA-TEHAMA-TRINITY JOINT COMMUNITY COLLEGE DISTRICT,42
@@ -6394,7 +6394,6 @@ Santa Monica Spoke,38
 Save the Frogs,38
 Screen Actors Guild-American Federation of Television and Radio Artists,38
 Shasta Regional Medical Center,38
-State Superintendent of Public Instruction Jack O'Connell,38
 "Strategic Committee of Public Employees, Laborers International",38
 Sycuan Band of Mission Indians,38
 Tehama County Department of Social Services,38
@@ -6404,6 +6403,7 @@ Yuba County Water Agency,38
 Hispanic Access Foundation,38
 Paramount,38
 Mercy General Hospital,38
+State Superintendent of Public Instruction Jack O'Connell,38
 ASPCA,37
 Alliance for Democracy,37
 Association of Financial Development Corporations,37
@@ -7081,6 +7081,7 @@ Tax Collectors,34
 Huntington Hospital,34
 STATE BAR BUSINESS LAW SECTION,34
 State Bar Conference of Delegates,34
+Universal Studios,34
 A Better Way,33
 AG,33
 ASSOCIATION FOR ENERGY AFFORDABILITY,33
@@ -7159,7 +7160,6 @@ The Little Hoover Commission,33
 The Sierra Fund,33
 Transportation Agency for Monterey County (TAMC),33
 United of California,33
-Universal Studios,33
 Western States Petroleum Association (WSPA),33
 the Aging,33
 California Department of Aging,33
@@ -11799,6 +11799,7 @@ Yuba City,19
 La Maestra Family Clinic,19
 Xerox,19
 Calaveras County,19
+Associated Builders & Contractors,19
 AIDS Health Care Foundation,18
 Abrazar,18
 Accrediting Commission for Community and Junior Colleges,18
@@ -11811,7 +11812,6 @@ Alta Housing,18
 American Numismatic Association,18
 "Apple Computer, Inc",18
 Aquahydrex,18
-Associated Builders & Contractors,18
 "Association of American Publishers, Inc",18
 Association of CA School Administrators,18
 Autodesk,18
@@ -16324,7 +16324,6 @@ International Youth Tobacco Control,13
 Investigators Association,13
 Irish Terrier Club of Southern California,13
 Jack Berman Advocacy Center,13
-"Jack O'Connell, Superintendent of Public Instruction",13
 Janet Goeske Foundation,13
 Japan Business Association of Southern California,13
 Japantown Task Force,13
@@ -16748,6 +16747,7 @@ Interest,13
 California Center for Assisted Living,13
 Bay Area Water Supply & Conservation Agency,13
 Health Access California,13
+"Jack O'Connell, Superintendent of Public Instruction",13
 350 Humboldt Grassroots Climate Action,12
 AAA,12
 AAUW,12
@@ -30106,7 +30106,6 @@ J&J Air Conditioning,7
 "JHRI, Inc",7
 JJJ Floor Co,7
 "JTT Thorpe & Son, Inc",7
-"Jack O'Connell, State Superintendent of Public Instruction",7
 Jackie Jank Studio,7
 Jail Guitar Doors,7
 James Henry,7
@@ -31697,6 +31696,7 @@ The California Optometric Association,7
 SEIU California,7
 The California Dental Association (CDA),7
 AIDS Healthcare Foundation (AHF),7
+"Jack O'Connell, State Superintendent of Public Instruction",7
 "for Animals, Inc",6
 350 Contra Costa,6
 350 San Diego,6
@@ -37247,6 +37247,7 @@ ARCA,6
 CAHF,6
 Essential Access Health,6
 Sirum,6
+Board of Trustees,6
 "100 Black Men of the Bay Area, Inc",5
 350 SoCal Climate Action,5
 ACOG,5
@@ -39395,7 +39396,6 @@ Board of Pilot Commissioners,5
 Board of Supervisors County of Sacramento,5
 Board of Supervisors County of Solano,5
 Board of Supervisors of Alameda County,5
-Board of Trustees,5
 Boards,5
 Boatsafe Nw,5
 Bob Anderson Property Management,5
@@ -59485,6 +59485,7 @@ The City of Anaheim,4
 OHD,4
 The City of Sacramento,4
 Service Employees International Union California,4
+Southern Wine and Spirits of America,4
 LACOE,3
 "1 Bag at a Time, Inc",3
 "100 Black Men of Sacramento, Inc",3
@@ -78840,7 +78841,6 @@ Southern Pacific Industries,3
 Southern San Joaquin Irrigation District,3
 Southern San Joaquin Municipal Utility District,3
 Southern Sierra Cyclists,3
-Southern Wine and Spirits of America,3
 Southgate Recreation and Parks District,3
 Southland Resistance,3
 Southside Spirit House,3
@@ -85907,7 +85907,6 @@ The Foundation,2
 1stDibbs,2
 20 Pacific Institutes,2
 2004) and AB 2472 (Wolk,2
-2009: American Legion,2
 2020 Moms,2
 2020 Recycling Centers,2
 2020 Vet Intelligent Logistics Solutions,2
@@ -115606,7 +115605,6 @@ State Seismic Safety Commission,2
 State Senate,2
 State Sheet Metal Workers,2
 State Sheriffso Association,2
-State Superintendent Jack O'Connell,2
 State Superintendent of Public Instruction - Delaine,2
 "State Superintendent, Tom Torlakson",2
 State Surgeon,2
@@ -120140,12 +120138,13 @@ The California Primary Care Association (CPCA),2
 Independent Hospitality Coalition (IHC),2
 The California Chiropractic Association (CCA),2
 the Board of Pharmacy,2
+Compline,2
+State Superintendent Jack O'Connell,2
 "1 Plus 1 Senior Care, Inc",1
 100 Black Men of Sacramento,1
 "100 Black Men of Sacramento, Incorporated",1
 16 Planned Parenthood Affiliates,1
 16 Planned Parenthood Affiliates of California,1
-1997: California Chamber of Commerce,1
 21st Century Van Lines,1
 350 Bay Area Legislative Bill Review Committee,1
 350 Bay Area/Marin,1
@@ -122125,7 +122124,6 @@ Compassion & Choices CA,1
 "Compassion & Choices, California",1
 Compassion and Choices (CC),1
 Compassion and Choices Action Network (CCAN),1
-Compline,1
 "Comprehensive Community Health Centers, Inc",1
 Compton Unified School District (CUSD),1
 Compute Exchange,1
@@ -127401,17 +127399,10 @@ The Network,1
 1887 Allotment Act,1
 18th District PTA,1
 "1994, Inc., California Forum",1
-1997: Board of Trustees,1
-1997: Universal Studios,1
 1998) Outdoor Sportsmen's Coalition of California (April 9,1
-1998: American Farmland Trust,1
-1998: American Institute of Architects,1
-1998: Associated Builders & Contractors,1
-1998: Service Employees International Union,1
 1999-2000 Stanislaus County,1
 1999-2000 Stanislaus County Civil Grand Jury,1
-1999: Associated Builders and Contractors,1
-1999: City of Santa Cruz Gary Loustalot,1
+City of Santa Cruz Gary Loustalot,1
 19th District Agricultural Association,1
 19th District Agricultural District,1
 1AMprojects,1
@@ -127434,20 +127425,11 @@ People's Advocate Inc,1
 20 Million Minds Foundation,1
 "20, AFL-CIO",1
 "20, IFPTE",1
-2002: People's Advocate,1
 2003 to August 1,1
 2005 to September 1,1
-2005: Maria Shriver,1
-2006: Compline,1
 2007 California Groundwater Coalition,1
-2007: Southern Wine and Spirits of America,1
 2009 Senior Games Local Organizing Committee,1
-2009: California State Firefighters' Association,1
-2009: Center for Public Interest Law,1
-2009: Jack O'Connell,1
-2011: Gondola Adventures,1
-2013: American Federation of State,1
-2013: California Thoroughbred Breeders Association,1
+Gondola Adventures,1
 2018 PyeongChang Winter Olympics Supporters Association of Korean-American (USA),1
 2020 VET,1
 2020Vet Intelligent Logistics Solutions,1
@@ -142688,7 +142670,6 @@ California State Student Association of Community Colleges,1
 "California State Student Association, CSU Stanislaus",1
 California State Student Organization,1
 California State Superintendent of Public,1
-"California State Superintendent of Public Instruction, Jack O'Connell",1
 California State Tax Section,1
 California State Teachers Retirement Board (STRS),1
 California State Teachers' Retirement,1
@@ -158897,7 +158878,6 @@ Former Independent Data Processing Center Employees,1
 "Former Legislator, Wesley Chesbro",1
 Former Republican Leader of the California Assembly Pat Nolan,1
 Former Speaker of the U.S. House of Representatives Newt Gingrich,1
-"Former Superintendent of Public Instruction, Jack O'Connell",1
 Formosa Residents' Association,1
 Formosan Association for Public Affairs Sacramento,1
 "Formosan Association for Public Affairs, Los Angeles",1
@@ -165757,9 +165737,6 @@ Jack Miller,1
 "Jack Newman, Cofounder and VP Research, Amyris",1
 "Jack Nilles, President, JALA International, Inc",1
 "Jack Norris, Registered Dietitian",1
-"Jack O'Connell, California State Superintendent of Schools",1
-"Jack O'Connell, Former California Superintendent of Public Instruction",1
-"Jack O'Connell, St",1
 Jack Oudiz,1
 Jack Perry,1
 "Jack Porter Insurance, Inc",1
@@ -193075,7 +193052,6 @@ State Students Association,1
 "State Superintendent of Education, Delaine Eastin",1
 "State Superintendent of Instruction, Tom Torlakson",1
 State Superintendent of Public Instruction Tony Thurman,1
-"State Superintendent of Public Instruction, Jack O' Connell",1
 "State Superintendent of Public Instruction, State",1
 State Supervisors,1
 State Teachers Retirement Systems,1
@@ -202929,3 +202905,9 @@ iCare4Macs,1
 "oIn Concept,o California State Association",1
 oThe Original Rookie Ball Companyo - Ed McMunn,1
 . Training in Early Abortion for Comprehensive Healthcare (TEACH),1
+"California State Superintendent of Public Instruction, Jack O'Connell",1
+"Former Superintendent of Public Instruction, Jack O'Connell",1
+"Jack O'Connell, California State Superintendent of Schools",1
+"Jack O'Connell, Former California Superintendent of Public Instruction",1
+"Jack O'Connell, St",1
+"State Superintendent of Public Instruction, Jack O' Connell",1

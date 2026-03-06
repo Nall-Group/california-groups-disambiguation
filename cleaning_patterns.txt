@@ -102,6 +102,9 @@
 (?i)^\s*According to the\s+
 (?i)^\s*According to\s+
 
+# Leading "year: " prefix (e.g. "1998: American Farmland Trust") - BEGINNING
+^\d{4}:\s+
+
 # Leading "None on file" prefix - BEGINNING
 (?i)^\s*None on file\.\s*
 (?i)^\s*None on file\s+
