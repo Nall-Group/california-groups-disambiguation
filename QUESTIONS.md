@@ -4,6 +4,17 @@ RAs post questions here when blocked. The human supervisor answers them.
 
 ## Open Questions
 
+### Q6 (Task 29, RA-Beta)
+**Status:** Open
+
+While scanning for generic/non-specific entries similar to "Board of Trustees", I found these additional questionable entries:
+
+1. **"City Council (12-0)"** (count=1) — Looks like a vote tally fragment (12-0 is a vote count), not a real org. Should this go to `org_names_invalid.csv`?
+
+2. **"Board of Directors Art Naldoza"** (count=4) — Looks like a conjoined entry (generic "Board of Directors" + individual name "Art Naldoza"). Should this go to `org_names_conjoined.csv`?
+
+I'm proceeding with moving the clearly generic entries (Board of Trustees, Board of Directors, Advisory Board, Advisory Commission, City Council, Task Force, Working Group) to `org_names_partial.csv` without waiting for this answer.
+
 ## Answered Questions
 
 ### Q5 (Task 13, RA-Beta)
