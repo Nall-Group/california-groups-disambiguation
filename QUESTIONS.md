@@ -4,8 +4,10 @@ RAs post questions here when blocked. The human supervisor answers them.
 
 ## Open Questions
 
-### Q3 (Task 16, RA-Beta)
-**Status:** Open
+## Answered Questions
+
+### Q3 (Task 16/18, RA-Beta)
+**Status:** Answered
 
 While scanning for entries similar to "171 - OoCONNELL", I found these potentially invalid entries in the crosswalk that look like legislative bill references, numeric fragments, or garbled text rather than real organizations:
 
@@ -25,7 +27,7 @@ While scanning for entries similar to "171 - OoCONNELL", I found these potential
 
 Should I move these to `org_names_invalid.csv` in a follow-up task? Or are any of these legitimate entries that should stay?
 
-## Answered Questions
+**Answer:** Yes, these are all invalid. The bill references (#1-8) should go to `org_names_invalid.csv`. The other two (#9-10) are fragments and should go to `org_names_partial.csv`. Remove all of them from the crosswalk JSON and move their CSV rows accordingly.
 
 ### Q2 (Task 6, RA-Alpha)
 **Status:** Answered
