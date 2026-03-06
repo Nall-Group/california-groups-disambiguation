@@ -4,8 +4,10 @@ RAs post questions here when blocked. The human supervisor answers them.
 
 ## Open Questions
 
+## Answered Questions
+
 ### Q6 (Task 29, RA-Beta)
-**Status:** Open
+**Status:** Answered
 
 While scanning for generic/non-specific entries similar to "Board of Trustees", I found these additional questionable entries:
 
@@ -15,7 +17,9 @@ While scanning for generic/non-specific entries similar to "Board of Trustees", 
 
 I'm proceeding with moving the clearly generic entries (Board of Trustees, Board of Directors, Advisory Board, Advisory Commission, City Council, Task Force, Working Group) to `org_names_partial.csv` without waiting for this answer.
 
-## Answered Questions
+**Answer:**
+1. Yes, "City Council (12-0)" goes to `org_names_invalid.csv` — it's a vote tally fragment.
+2. Yes, "Board of Directors Art Naldoza" goes to `org_names_conjoined.csv` — conjoined generic phrase + individual name.
 
 ### Q5 (Task 13, RA-Beta)
 **Status:** Answered
