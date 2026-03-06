@@ -182,7 +182,7 @@ COUNTY OF SACRAMENTO,1155
 National Association of Social Workers,1146
 CITY OF THOUSAND OAKS,1146
 CALIFORNIA WOMEN'S LAW CENTER,1141
-California Senior Legislature,1139
+California Senior Legislature,1141
 CALIFORNIA ASSOCIATION OF SCHOOL BUSINESS OFFICIALS,1134
 CALIFORNIA NATIONAL ORGANIZATION FOR WOMEN,1133
 CITY OF SACRAMENTO,1130
@@ -226,7 +226,7 @@ Privacy Rights Clearinghouse,999
 CALIFORNIA NEWSPAPER PUBLISHERS' ASSOCIATION,997
 HEALTH NET,997
 CALIFORNIA CHURCH IMPACT,991
-Inc,988
+Inc,991
 California Optometric Association,987
 ENGINEERING CONTRACTORS ASSOCIATION,986
 Associated General Contractors,985
@@ -1523,6 +1523,7 @@ Systems,189
 UTILITY CONSUMERS' ACTION NETWORK,189
 Advanced Medical Technology Association,189
 Los Angeles Regional Food bank,189
+Greater Fresno Area Chamber of Commerce,189
 AMERICAN FOREST & PAPER ASSOCIATION,188
 California Attorney General,188
 California Board of Accountancy,188
@@ -1544,7 +1545,6 @@ San Francisco Bay Physicians for Social Responsibility,187
 CALIFORNIA LEGISLATIVE COUNCIL FOR OLDER AMERICANS,186
 California Space Authority,186
 City of Indian Wells,186
-Greater Fresno Area Chamber of Commerce,186
 PALM DESERT AREA CHAMBER OF COMMERCE,186
 The Ocean Conservancy,186
 United Trustees Association,186
@@ -1910,6 +1910,7 @@ South Pasadena Residents for Responsible Growth,146
 Forests Forever,146
 Stanford University,146
 Criminal Justice,146
+Voices for Progress Education Fund,146
 CALIFORNIA AUTOBODY ASSOCIATION,145
 "Communications Workers of America, District 9",145
 Esperanza Community Housing Corporation,145
@@ -1917,7 +1918,6 @@ Ford Motor Company,145
 Mental Health Advocacy Services,145
 California Alcohol Policy Alliance,145
 Pacific Egg & Poultry Association,145
-Voices for Progress Education Fund,145
 AMIGOS DE LOS RIOS,144
 Asian Business Association,144
 Biocom California,144
@@ -3471,6 +3471,7 @@ Techequity Action,75
 Vallecitos Water District,75
 Western Independent Refiners Association,75
 Desert Citizens Against Pollution,75
+San Diego Humane Society and Spca,75
 ACTIVESGV,74
 Association of California Health Care Districts,74
 California State Foster Parent Association,74
@@ -3515,7 +3516,6 @@ Pacific Gas and Electric Company (PG&E),74
 Pasadena Unified School District,74
 Rails to Trails Conservancy,74
 Riverside Temple Beth El,74
-San Diego Humane Society and Spca,74
 Seamless Bay Area,74
 Stanislaus County Office of Education,74
 Zanker Recycling,74
@@ -5695,6 +5695,7 @@ State and Consumer Services Agency,44
 California Adolescent Nutrition and Fitness Program,44
 Citrus Valley Health Partners,44
 AdvaMed,44
+Foster Farms,44
 Advancement Project California,43
 Association for Los Angeles County Deputy Sheriffs,43
 Association of Asian Pacific Community Health Organizations,43
@@ -5746,7 +5747,6 @@ Coalition for Sustainable Transportation,43
 County of Colusa,43
 County of Plumas,43
 Engineering & Utility Contractors Association dba United Contractors,43
-Foster Farms,43
 Fremont Unified School District,43
 Good Farmers Great Neighbors,43
 Hemet Unified School District,43
@@ -6267,6 +6267,7 @@ Norwalk,39
 CTIA-the Wireless Association,39
 Yuba,39
 Los Angeles Conservancy,39
+Comcast,39
 American Atheists,38
 American Dog Owners Association,38
 Bear River Band of Rohnerville Rancheria,38
@@ -6590,7 +6591,6 @@ Casa De Esperanza,36
 City of Calimesa,36
 City of Jackson,36
 Civil Justice Association,36
-Comcast,36
 Community Action Fund of Planned Parenthood of Orange and San Bernardino Counties,36
 Comprehensive Community Health Centers,36
 Congress of Racial Equality of California,36
@@ -6887,6 +6887,7 @@ Del Norte,35
 Sunnyvale,35
 Yolo,35
 First 5 Marin Children and Families Commission,35
+Citizens,35
 AMERICANS FOR MEDICAL RIGHTS,34
 African-American Farmers of California,34
 "Alliance for Reparations, Reconciliation, and Truth",34
@@ -7721,7 +7722,6 @@ Capitol Racing LLC,30
 Children's Hospital of Orange County,30
 Children's Rights Council,30
 Chula Vista Elementary School District,30
-Citizens,30
 Civic Center Barrio Housing Corp,30
 Clif Bar,30
 Coalition for Humane Immigrant Rights of Los Angeles (CHIRLA),30
@@ -8140,6 +8140,7 @@ California Electric Sign Association,29
 Voters Corrections Reform Coalition,29
 Advisory Council,29
 Mariposa,29
+South Baylo University,29
 350 Marin,28
 Access to Independence,28
 American Red Cross of California,28
@@ -8631,7 +8632,6 @@ Sheet Metal Workers' Local Union No. 104,27
 Shelter Inc of Contra Costa County,27
 Solano Economic Development Corporation,27
 Songwriters of North America,27
-South Baylo University,27
 Southern California Association of Nonprofit,27
 Squaw Valley Public Service District,27
 St. Johns Pleasant Valley Hospital,27
@@ -11271,6 +11271,7 @@ Los Angeles County Fair,20
 Prevention,20
 San Diego Chapter,20
 Whittier,20
+Center for Elders' Independence,20
 ANTI-EVICTION MAPPING PROJECT,19
 ARC and United Cerebral Palsy,19
 ASSOCIATION FOR RETARDED CITIZENS,19
@@ -11324,7 +11325,6 @@ Californians for Resident Ownership,19
 Calle 24 Latino Cultural District,19
 Cambodian Family Community Center,19
 Car and Truck Renting and Leasing Association of California,19
-Center for Elders' Independence,19
 Center for LGBTQ Economic Advancement & Research,19
 Chicobag Company,19
 Chief Probation Officer,19
@@ -13056,6 +13056,7 @@ St Joseph Health System - Humboldt County,17
 Coalition to Abolish Slavery and Trafficking (CAST),17
 The California Medical Association (CMA),17
 Health Access California,17
+Zacky Farms,17
 21st Century Insurance,16
 350 Petaluma,16
 AARP of California,16
@@ -13272,7 +13273,6 @@ Western Occupational and Environmental Medical Association,16
 Western Sierra Medical Clinic,16
 Wider Opportunities for Women,16
 Wine & Spirits Wholesalers of California,16
-Zacky Farms,16
 Zero Foodprint,16
 Coalition of California Welfare Rights Organizations (CCWRO),16
 Big Creek Lumber Company,16
@@ -15603,6 +15603,7 @@ CTC,14
 CIWMB,14
 CDFA,14
 Health Access California (HAC),14
+Culligan,14
 AT&T California,13
 Aerojet,13
 Alameda County Public Health Department,13
@@ -16143,7 +16144,6 @@ County of Mendocino Board of Supervisors,13
 Courageous Resistance of the Desert,13
 Credo Beauty,13
 Crocodile Specialist Group,13
-Culligan,13
 DBL Investors,13
 Danville Town Council,13
 Darren Chesin,13
@@ -21847,6 +21847,7 @@ California Childrens Lobby,10
 MTC,10
 Houchin Community Blood Bank,10
 Human Rights Watch,10
+Hospice Care of California,10
 100% Campaign: Health Insurance for Every California Child,9
 350 Chico,9
 350 East Bay,9
@@ -22104,7 +22105,6 @@ Hispanic Chamber of Commerce,9
 Home Warranty Association of California,9
 "Homer J. Olsen, Inc",9
 Homies Organizing the Mission to Empower Youth,9
-Hospice Care of California,9
 Housing Equality Law Project,9
 IDEC Pharmaceuticals Corp,9
 IHI Power Services Corp,9
@@ -24544,6 +24544,8 @@ Corona-Norco United Way,9
 "Western Center on Law and Poverty, Inc.",9
 Hills Valley Irrigation District,9
 The California Chapter of the American College of Emergency Physicians,9
+Accent Care,9
+Rayne Water Conditioning,9
 1 Bag At A Time,8
 AAUW of California,8
 ABF Freight System,8
@@ -24552,7 +24554,6 @@ ACTION CENTER ON RACE AND THE ECONOMY,8
 "AFT GUILD, LOCAL 1931",8
 APL,8
 ASSOC. FOR CALIFORNIA TORT REFORM,8
-Accent Care,8
 Advanced Energy Economy (AEE),8
 Against Domestic Violence,8
 "Agency Services, Inc",8
@@ -24971,7 +24972,6 @@ Probation Officers,8
 Professional Engineers of California,8
 Professional Fiduciaries Association of California,8
 Professional Peace Officers' Association,8
-Rayne Water Conditioning,8
 Redwood Coast Watersheds Alliance,8
 Redwood Empire Doberman Pinscher Club,8
 Regency Outdoor Advertising,8
@@ -27729,6 +27729,9 @@ Home Savings of America,8
 CHA,8
 The American Heart Association,8
 American Property Casualty Insurance Association (APCIA),8
+"Community Hospice, Inc",8
+Madrone Hospice,8
+West Coast Services,8
 CRLAF,7
 "A-Z Bus Sales, Inc",7
 ADT,7
@@ -27942,7 +27945,6 @@ Community Action Partnership of San Luis Obispo,7
 Community Child Care Council of Santa Clara County,7
 Community Church,7
 Community Colleges League,7
-"Community Hospice, Inc",7
 Compassion & Choices Action Network,7
 Concord Chamber of Commerce,7
 "Concord Child Care Center, Inc",7
@@ -28129,7 +28131,6 @@ MHACTION,7
 MLC Group,7
 MONTEREY COUNTY ASSOCIATION OF REALTORS,7
 Madera County Deputy Sheriff's Association,7
-Madrone Hospice,7
 Majestic Insurance,7
 Marin County Deputy Sheriffs Association,7
 Martinez Chamber of Commerce,7
@@ -31523,7 +31524,6 @@ Wendel Rosen Black & Dean LLP,7
 Wendys,7
 Wesley Westmoreland,7
 West Coast Painting,7
-West Coast Services,7
 West Coast United Egg Producers,7
 West Covina Redevelopment Agency,7
 West End YMCA,7
@@ -32845,7 +32845,6 @@ Antelope Valley Partners for Health,6
 Antelope Valley Schools Transportation Agency,6
 "Anthem Blue Cross (a Subsidiary of Wellpoint, Inc.)",6
 Anthony's Seafood Group,6
-"Antonio R. Villaraigosa, Mayor of Los Angeles",6
 AnuPower Corp,6
 Apartment Association Orange County,6
 Apex Auto Glass,6
@@ -37214,6 +37213,8 @@ CAHF,6
 Essential Access Health,6
 Sirum,6
 Lafayette City Council,6
+Paradigm Tax Group,6
+Gardner Children's Center,6
 "100 Black Men of the Bay Area, Inc",5
 350 SoCal Climate Action,5
 ACOG,5
@@ -38004,7 +38005,6 @@ Pacific States Environmental Contractors,5
 Pacific Steel Group,5
 "Pacifica, LLC",5
 Panthera,5
-Paradigm Tax Group,5
 Paralyzed Veterans of America (PVA),5
 Paramount Petroleum,5
 Pasadena Chamber of Commerce & Civic Association,5
@@ -38617,7 +38617,6 @@ Acupuncture & Herbal Care of Los Altos,5
 Adat Shalom,5
 Addiction Research and Treatment,5
 Administrators Association San Diego City Schools,5
-"Adonay Kelete, Los Gatos",5
 "Adult Protective Services, Inc",5
 Adult and Aging Commission,5
 Advance Education Inc,5
@@ -38706,7 +38705,6 @@ Alameda District Attorney's Office,5
 Alameda-Contra Costa Transportation District,5
 Alamo Incorporation Movement,5
 Alamo-Lafayette Cemetery District,5
-"Alan Steinbach, MD, Ph.D., Associate Clinical Professor",5
 Alarm.com,5
 Albany,5
 Albert Einstein Academies Charter Schools,5
@@ -38958,7 +38956,6 @@ Antelope Valley-East Kern Water Agency,5
 Anthem Blue Cross (Blue Cross),5
 Anthony Pools (Montebello),5
 Anti-defamation League (UNREG),5
-"Antonio R. Villaraigosa, Mayor",5
 Apartment Association of Southern California Cities,5
 Apex Door and Frame,5
 Apex Painting Inc,5
@@ -41369,7 +41366,6 @@ Gamlake Dairy,5
 Gamma Zeta Boulé Foundation,5
 "Garamendi, John (Insurance Commissioner)",5
 Gardenworks Inc,5
-Gardner Children's Center,5
 Garibay Tax Service,5
 Garment Contractors Association,5
 "Garvanza Elementary School, Los Angeles Unified",5
@@ -45452,6 +45448,21 @@ The California Pharmacists Association,5
 The California Hospital Association (CHA),5
 The California Nurses Association,5
 "K"" Line America",5
+Liquid Solutions,5
+Advanced Water Systems,5
+ECO Water Systems,5
+Highland Well Service,5
+Ionics,5
+Kinetico/AAA Water Systems,5
+Park International Corp,5
+Purified Water Systems,5
+Quality Home Products,5
+Rayne Quality Water,5
+Richetti Water Conditioning Systems,5
+Versatax Consulting,5
+Water Quality Systems,5
+Western Salt Company,5
+Western Water Products,5
 2035 Initiative,4
 "350 East Bay, Legislative Committee",4
 350 Humboldt County,4
@@ -46406,7 +46417,6 @@ Liberties Union of California,4
 "LightSail Energy, Inc",4
 Lilly USA,4
 Linda Vista Planning Group,4
-Liquid Solutions,4
 Little Kamper,4
 Little League Baseball,4
 Little Tokyo Service Center Community Development Corporation (Los Angeles),4
@@ -47628,7 +47638,6 @@ Advanced Eye Surgery Center,4
 "Advanced Marketing Concepts, Inc",4
 "Advanced Network Consulting, So Cal Inc",4
 Advanced Targeting Systems,4
-Advanced Water Systems,4
 "Advantage Receivables Management, Inc",4
 Advantec Consulting Engineers,4
 Advantica Restaurant Group Inc,4
@@ -47746,7 +47755,6 @@ Alameda Recycling & Metals,4
 Alamo Improvement Association,4
 Alamo Painting,4
 "Alan Lee, Member, Big Bear Lake City Council",4
-"Alan Uke, President, Underwater Kinetics",4
 "Alana's Cafe, Burlingame",4
 Alandale Mutual Water Company,4
 Alara Inc,4
@@ -47767,7 +47775,6 @@ Alec Action,4
 Alegria Community Living,4
 Alejandrina 4 Recycling,4
 Alexander Hamilton Post 448,4
-"Alexandre Monteiro, Councilmember, Hawthorne",4
 Alexian Brothers Homecare,4
 Alexis Wong of AGI Capital,4
 Algalita,4
@@ -47794,7 +47801,6 @@ All West,4
 "All of Us or None, Orange County Chapter",4
 All-State Plastics,4
 All-electric California,4
-"Allan Favish, Attorney at Law",4
 "Allen Company, Papermaking",4
 Allen Temple Health and Social Services,4
 Allen United,4
@@ -48109,7 +48115,6 @@ Angeles Southern California Housing Development,4
 "Angelica Salas, Executive Director, Coalition for Humane",4
 Angels Camp Business Association's Farmers' Market,4
 Angels for Life Foundation,4
-"Angie Reyes English, Councilmember, Hawthorne",4
 Anheuser-Busch InBev,4
 Animal Activists of Central Florida,4
 Animal Birth Control,4
@@ -48124,7 +48129,6 @@ Animal Shelter Relief Rescue,4
 Animal Welfare Services for Atwater Village,4
 "Anisha I. Patel, Md, Msph, Mshs",4
 "Anjac-Doron Plastics, Inc",4
-"Ann F. Haas, M.D., Senior Dermatologist, Sutter Medical",4
 Annapurna Pictures,4
 Anonymous Content,4
 Another Brilliant Idea,4
@@ -48200,7 +48204,6 @@ Area Agency on Aging of Lake and Mendocino County,4
 Area Board IV Legislative Committee,4
 Area Governments,4
 Area XI Developmental Disability Board,4
-"Ariel Kelley, Councilmember, Healdsburg",4
 Arise/Waco Scaffolding & Equipment,4
 Aristea Therapeutics,4
 Arizona Highlands Race and Training Center,4
@@ -51547,7 +51550,6 @@ E.I. DuPont de Nemours & Co,4
 E.L. Williams Realty,4
 E.R. Taylor Elementary School (San Francisco),4
 E3 Advisors,4
-ECO Water Systems,4
 ECO2 Plastic Inc,4
 "ECOM USA, Inc",4
 EDITORIAL-Chico State University The Orion,4
@@ -52883,7 +52885,6 @@ High Sierra Hikers Association,4
 High Tech High,4
 Highland Avenue Area Business Association,4
 Highland Events,4
-Highland Well Service,4
 Highlands Dispensary,4
 Highlands High School,4
 Highridge Costa,4
@@ -53345,7 +53346,6 @@ Inyo County Clerk/recorder,4
 Inyo County Health and Human Services,4
 Inyo County Health and Human Services Department,4
 Inyo County Registrar of Voters,4
-Ionics,4
 Iran of Tomorrow Movement/SOS Iran,4
 Iranian American Bar Association,4
 Irene's Day Care,4
@@ -53680,7 +53680,6 @@ Kimpton Hotel & Restaurant Group Inc,4
 Kindred Hospital South Bay,4
 Kine Hearts Media LLC,4
 Kinetico Quality Water,4
-Kinetico/AAA Water Systems,4
 King City Joint Unified High School District,4
 King City Union School District,4
 "King Videocable Company, Riverside County",4
@@ -55799,7 +55798,6 @@ Parents for the Rights of Developmentally Disabled Children,4
 Pari & Gershon Inc,4
 Parivarbayarea,4
 Park Cypress RV Storage,4
-Park International Corp,4
 Park Sierra Rail Group,4
 Parkowners Alliance,4
 Partnered for Progress,4
@@ -56237,7 +56235,6 @@ Pupil Transportation Cooperative,4
 Puppy Coalition Foundation,4
 Purchase,4
 Pure Pacific Organics,4
-Purified Water Systems,4
 Purism,4
 "Purple Heart Association, Modesto Chapter",4
 Purpose. The California Dental Association,4
@@ -56252,7 +56249,6 @@ Q8 Empowering Change,4
 "QMP, Inc",4
 Qazizada Multicultural Therapy Clinic,4
 "Quadel Industires, Inc",4
-Quality Home Products,4
 Quality Pallets Inc,4
 Quality Testing Lab,4
 Quantum,4
@@ -56345,7 +56341,6 @@ Ray Main Sales,4
 "Ray Tufts, Head Athletic Trainer, San Jose Sharks",4
 "Rayco Electric, Inc",4
 "Rayne Corporation, Santa Barbara",4
-Rayne Quality Water,4
 "Rayne Water Conditioning, Palm Springs",4
 "Rayne Water Systems, Santa Monica",4
 Re/Max Elite Team,4
@@ -56532,7 +56527,6 @@ Richard Riordan - Mayor,4
 "Richard Winger, Editor, Ballot Access News",4
 Richardson Bay Regional Agency,4
 Richardson Bay Sanitary District,4
-Richetti Water Conditioning Systems,4
 "Richmond Village Beacon at Washington H.S., San Francisco",4
 Richmond Works,4
 Richwell Steel Company Inc,4
@@ -58883,7 +58877,6 @@ Venture Port District,4
 Vern Jones Oil and Gas Co,4
 Vern Jones Oil and Gas Corporation,4
 Vernon Police Officers' Benefit Association,4
-Versatax Consulting,4
 Vertex Coatings Inc,4
 Vesper Hospice Home Health of the East Bay,4
 Veteran Tickets Foundation,4
@@ -59029,7 +59022,6 @@ Water Company,4
 Water Conditioning & Purification Magazine,4
 Water Emergency Transportation Authority,4
 Water Keepers,4
-Water Quality Systems,4
 Water Resorts Inc,4
 "Water Resources International, Inc",4
 Water Techniques,4
@@ -59123,7 +59115,6 @@ Western Nebraska Resources Council,4
 Western Nevada College,4
 Western Placer Unified School District Superintendent,4
 Western Riverside Council of Governments (WRCOG),4
-Western Salt Company,4
 Western Star Transportation,4
 Western States Association of Sheet Meet Workers,4
 Western States Council Sheet Metal,4
@@ -59133,7 +59124,6 @@ Western States SMART Council,4
 Western States Tire & Automotive Service Association,4
 "Western Unit, Inc",4
 Western Urban Water Coalition,4
-Western Water Products,4
 "Western Wheelers Bicycle Club, Inc",4
 Westime,4
 Westlake Farms,4
@@ -59411,6 +59401,8 @@ The City of Sacramento,4
 Service Employees International Union California,4
 Southern Wine and Spirits of America,4
 Support The California Nightlife Association,4
+"Property Tax Assistance Company, Inc",4
+Sharp Hospice Care,4
 LACOE,3
 "1 Bag at a Time, Inc",3
 "100 Black Men of Sacramento, Inc",3
@@ -60971,7 +60963,6 @@ Progressive Surface Solutions LLC,3
 "Progressive Transportation Services, Inc",3
 "Project 10, Inc",3
 Property Tax Assistance Company,3
-"Property Tax Assistance Company, Inc",3
 Protecting Earth and Animals with Compassion and Education (PEACE),3
 "Proteus,Inc",3
 Prothero Homeowners Association,3
@@ -62062,11 +62053,9 @@ AXOS Acupuncture,3
 "AZUSA UNIFIED 11,636",3
 Aacsa,3
 Aardvark Ant & Pest Control Inc,3
-"Aaron Myers, Attorney at Law",3
 Abacus Wealth Partners,3
 Abalone & Marine Resources Council,3
 Abbott Labs,3
-"Abe Safleddime, 76 Station Dealer, La Palma",3
 Abell Auctions,3
 Abibinsroma Foundation,3
 Ability NOWBay Area,3
@@ -62729,7 +62718,7 @@ American Nostalgia Racing Association,3
 American Optometric Student Association,3
 American Orthopaedic Society for Sports Medicine,3
 American Osteopathic College of Radiology,3
-American Pacific College-Palmdale Campus (24 individuals),3
+American Pacific College-Palmdale Campus,3
 American Parkinson's Disease Association,3
 American Partnership for Eosinophilic Disorders,3
 "American Patriot Insurance Agency, Inc",3
@@ -62918,7 +62907,6 @@ Antioch Automotive Supply,3
 Antioch High School,3
 Antioch Muffler,3
 Antioch Parts Depot,3
-"Antoinio Villaraigosa, Councilmember",3
 "Antora Energy, INC",3
 Anuvu Incorporated,3
 Anvil,3
@@ -66603,7 +66591,6 @@ Citizen Climate Lobby Santa Cruz,3
 Citizen Health Inc,3
 Citizen Watch Company,3
 Citizen for Los Angeles Wildlife,3
-Citizens (2 letters),3
 Citizens Against,3
 Citizens Against Violent Crimes,3
 Citizens Commission on Human Rights (Church of Scientology),3
@@ -67296,7 +67283,6 @@ Columbus CDS Data Services,3
 Colusa County Department of Agriculture,3
 Colusa Drain Mutual Water Company,3
 Combe Inc,3
-Comcast (76 letters),3
 Comedy School TVS,3
 Comfort Zones Garden Design,3
 Comite Por Un Shafter Mejor,3
@@ -78155,7 +78141,6 @@ Shark Allies,3
 Sharon Yao Acupuncture Clinic,3
 Sharp Coronado Hospital,3
 Sharp Electric,3
-Sharp Hospice Care,3
 Sharp Memorial Hospital,3
 Sharp Park Elementary Students,3
 Shasta College - Inspiring & Fostering Independence (SCI*FI),3
@@ -81706,6 +81691,12 @@ The Western Center on Law and Poverty,3
 The California Academy of Family Physicians,3
 Support The Paw Project,3
 San Francisco District Attorney's Family violence Project,3
+Center for Elders' Independence (CEI),3
+Hospice of San Joaquin,3
+La Habra Water Guardians,3
+Lake and Mendocino Counties Council on Aging,3
+Leading Scientists,3
+Neighbors United Against Crime -,3
 for Animals,2
 ", AFL-CIO",2
 1 Plus 1 Senior Care,2
@@ -82541,7 +82532,6 @@ Center California Environmental Justice Network,2
 Center Point,2
 Center for Bio-Ethical Reform,2
 Center for Connection,2
-Center for Elders' Independence (CEI),2
 "Center for Family Health & Education, INC",2
 Center for Independence of the Disabled,2
 Center for Sustainable Energy California,2
@@ -83208,7 +83198,6 @@ Greater Arden Chamber of Commerce,2
 Greater Bakersfield Chamber Commerce,2
 Greater Cornejo Valley Chamber of Commerce,2
 Greater East Los Angeles Chamber of Commerce,2
-Greater Fresno Area Chamber of Commerce (5 letters),2
 Greater Grass Valley Chamber of Commerce,2
 Greater LA African American Chamber of Commerce,2
 Greater Pasadena Jews for Justice (GPJJ),2
@@ -85845,7 +85834,6 @@ The Foundation,2
 "31 Robbins Ice Cream & Yogurt, Westwood Village",2
 32 Por Mexico,2
 32nd Street Canyon Task Force,2
-3492 (North Antelope),2
 35 for Palm Drive LLC,2
 360 Accelerator,2
 360 Accelerator Education Partners,2
@@ -85966,7 +85954,6 @@ A. K. Bean Foundation,2
 "A. Oseguera Company, Inc",2
 "A. Philip Randolph Institute, San Francisco Chapter",2
 A. Support: The State Bar of California,2
-A. Waxman,2
 A.B.C. Mowers & Supply,2
 A.B.C. Tree Farms,2
 A.C.L.C,2
@@ -86167,8 +86154,6 @@ Aaa Fence Company Inc,2
 Aarin Reed & Associates,2
 Aaron Metals Company,2
 Aaron's,2
-Aaronson,2
-"Aarshdeep Kahlon, Chair, San José Bicycle and Pedestrian Advisory Committee",2
 Aauw San Jose Branch,2
 Abalone Alliance,2
 Abbot,2
@@ -86312,13 +86297,9 @@ Ad Hoc NBRID Residents' Committee,2
 "Ad Valorem Solutions, LLC",2
 "Ad-Art, Incorporated",2
 AdRoll,2
-"Adam Hill, Supervisor, District Three of San Luis Obispo County",2
 Adam Nutrition,2
-"Adam Schiff, Member of Congress",2
-"Adam Schiff, US Representative, 28th District",2
 Adams and Adams Consulting and Training,2
 Adams and Anderson Insurance Brokers,2
-Adan Ortega Jr. Representative of the City of San Fernando,2
 "Adapt Consulting, Inc. (Van Nuys, CA)",2
 Adaptive Business Leaders Organization,2
 Adat Shalom Los Angeles,2
@@ -86357,7 +86338,6 @@ Adopt-A-Chow LA,2
 Adoption Lawyers,2
 Adoption Triad Ministry,2
 Adoptlink,2
-"Adrienne Tissier, San Mateo County Supervisor",2
 Adspec Promotional Products,2
 Adubon Society of California,2
 Adult Independence Development Center,2
@@ -86580,7 +86560,6 @@ Agua Limpia,2
 Agudath Isreal of California,2
 Ague Caliente Band of Cahuilla,2
 "Ahead With Horses, Inc",2
-"Ahmad Zahra, Councilmember",2
 Aid Society,2
 Aida Grey Insitut de Beaute,2
 Aidkit,2
@@ -86855,7 +86834,6 @@ Allen Hancock College,2
 "Allen Hirsch, ICON Securities Corp",2
 Allen Kornenstein Law Office,2
 "Allen L. Bender, Inc",2
-"Allen Warren, Councilmember",2
 Allen and Dahl Funeral Chapel,2
 Allen-English & Estrada,2
 Allenberg Cotton Co,2
@@ -87659,7 +87637,6 @@ Andrew Berman - Mill Valley Mayor (FORMER),2
 "Andrew Musilli Insurance Agency, LLC",2
 Andrew R. Smith,2
 Andrew S. Huang,2
-"Andrew T. Koenig, Attorney at Law",2
 Andrews,2
 Andrews & Van Lohn Insurance,2
 "Andria's Harborside Restaurant, Santa Barbara",2
@@ -94420,7 +94397,6 @@ Citizen Against the Daytime Loitering Law,2
 "Citizen Hotel, Sacramento",2
 Citizen Watch Corporation,2
 Citizen's Climate Lobby LA West Clean Coalition,2
-Citizens (4 letters),2
 "Citizens Advisory Council, Orange County",2
 Citizens Against Daytime Curfews,2
 Citizens Against Law Suit Abuse - Orange County and San Diego County,2
@@ -100147,7 +100123,7 @@ Fresno Area,2
 Fresno Art Museum,2
 Fresno Arts Council,2
 Fresno Business Journal,2
-Fresno Chamber Members (22 individuals),2
+Fresno Chamber Members,2
 Fresno Chapter No. 269,2
 Fresno Chief of Police,2
 Fresno City College Radiologic Technology Program,2
@@ -102062,7 +102038,6 @@ Hospice of Amador,2
 Hospice of Desert Communities,2
 Hospice of Fresno,2
 "Hospice of Humbolt ,Inc",2
-Hospice of San Joaquin,2
 Hospice of the Canyon (Calabasas),2
 "Hospice of the Central Coast, of the Desert Communities, of the East San",2
 Hospice of the North Coast,2
@@ -104299,7 +104274,6 @@ La Famiglia di Robert Mondavi Winery,2
 La Familia,2
 La Fuente Hollywood Treatment Center,2
 La Habra Police Association,2
-La Habra Water Guardians,2
 La Hermandad Hank Lacayo Youth & Family Center,2
 La Jolla,2
 La Jolla Band of Indians,2
@@ -104417,7 +104391,6 @@ Lake Tahoe Marina Alliance,2
 Lake Tahoe Police Department,2
 Lake Tahoe Wildlife Care Center,2
 Lake Veterinary Hospital,2
-Lake and Mendocino Counties Council on Aging,2
 Lakelund Tours,2
 Lakeport Baker Park Apartments,2
 Lakeside Ditch Company,2
@@ -104712,7 +104685,6 @@ Leadership Institute,2
 Leadership Network,2
 Leadership of Mt. Shasta,2
 "Leading Purpose, INC",2
-Leading Scientists,2
 League (JACL),2
 League of American Homeowners,2
 League of American Investors,2
@@ -107952,7 +107924,6 @@ Neighbors Against Landfill Exemptions,2
 Neighbors Against Phibro-Tech,2
 Neighbors Opposing Planned Expansion,2
 Neighbors United,2
-Neighbors United Against Crime - (65 letters),2
 Neighbors for Palm Drive,2
 "Neighborworks Homeownership, Sacramento",2
 Nelson Adams Division of A. Lawer Corp,2
@@ -114849,7 +114820,6 @@ South Bay Partnership,2
 South Bay Perinatal Access Project,2
 South Bay Rod & Gun Club,2
 South Bay School District,2
-South Baylo University (37 individuals),2
 South Bayside Waste Management Authority (Rethink Waste),2
 South Carolina Campaign to End AIDS,2
 South Central Coast Basinwide Air Pollution Control Council,2
@@ -120027,6 +119997,10 @@ State Superintendent Jack O'Connell,2
 "California, LP",2
 AIACC,2
 Support Didi Hirsch Mental Health Services,2
+Mission Hospice,2
+Taarcom,2
+Community Hospice of Victor Valley,2
+Ryan Innovative Solutions to Taxing Problems,2
 "1 Plus 1 Senior Care, Inc",1
 100 Black Men of Sacramento,1
 "100 Black Men of Sacramento, Incorporated",1
@@ -122777,7 +122751,6 @@ Greater Corona Valley Chamber,1
 Greater Desert Hot Springs Chamber,1
 Greater East Los Angeles Chamber of Commerced,1
 "Greater Eureka Chamber Of Commerce, The Helix Water District",1
-Greater Fresno Area Chamber of Commerce (4 letters),1
 Greater Fresno Health Organization,1
 "Greater Fresno Health Organization, INC",1
 Greater Greater Washington,1
@@ -123622,7 +123595,6 @@ Mind Medicine,1
 Mind Medicine INC,1
 MiraMar Mobilehome Community HomeOwners Association (Oceanside),1
 Miracle Mile Chamber of Commerce,1
-Mission Hospice,1
 "Mission Hospice, Inc",1
 Mission Housing Development,1
 Mission Mobile Manor,1
@@ -125078,7 +125050,6 @@ TEXCOM,1
 TIA,1
 TKV Containers,1
 TWR Enterprises,1
-Taarcom,1
 Taft Chamber of Commerce,1
 Taft District Chamber of Commerce,1
 Taft District Chamber of Commerce in Kern County,1
@@ -127328,7 +127299,6 @@ CLTA,1
 24 Hour Oakland Parent Teacher Children Center,1
 24-7 RealMedia,1
 241 Main LLC,1
-261 (CAMPBELL),1
 "2620, AFL-CIO",1
 "26th DAA, Amador County Fair",1
 278 U.S. 300,1
@@ -127535,7 +127505,6 @@ A Better Valley Crane,1
 A California Corporation,1
 "A California Process & Attorney Service, Inc",1
 A Catered Affair,1
-"A Cecilia Mogal, Medical Doctor",1
 "A Change in Trajectory, ACT",1
 "A Choice for Advocacy, Inc",1
 A Coalition of Continuing Care Retirement Communities,1
@@ -127626,7 +127595,6 @@ A-Vacuum & Sewing,1
 "A. Associates, Inc",1
 A. L. Diary,1
 A. Lima Dairy,1
-"A. Mark Doggett, Humboldt State University",1
 "A. Philip Randolph Institute, AFL-CIO",1
 "A. Philip Randolph Institute, Western Regional Chapters",1
 A. Police Protective League,1
@@ -128056,12 +128024,7 @@ Aanheuser Busch Brewing Company,1
 Aantorik INC,1
 Aarob Read and Associates,1
 Aaron DelloIacono Thies,1
-"Aaron Greenspan, President and CEO of Think Computer",1
-"Aaron Koski and Kris Grufft, FV Miss Kelley",1
 Aaron Metals Co,1
-"Aaron Myers, Attorney",1
-"Aaron Perzanowski, Professor of Law & Oliver C. Schroeder Jr. Distinguished Research Scholar",1
-"Aaron Peskin, President, San Francisco Board of Supervisors",1
 Aaron Read and Associates,1
 "Aaron Reed and Associates, LLC",1
 Aarowhead pond of Anaheim,1
@@ -128076,7 +128039,6 @@ Abbott Home Inspection Reports,1
 "Abbott and Kindermann, LLP",1
 Abcow Staffing,1
 "Abdulaziz, esq., Law Offices of Abdulaziz & Grossbart",1
-"Abel Padilla, Constituent",1
 Abel Pet Clinic,1
 Abell,1
 "Abercrombie & Co. Broker (Santa Barbara, CA)",1
@@ -128184,7 +128146,6 @@ Acapulco Mexican Restaurant y Cantina,1
 Accel Partners,1
 Accelerate Resilience L.A,1
 Accell North America,1
-Accent Care (8 individuals),1
 Access California - A Program of Cal Voices,1
 Access California-Cal Voices,1
 "Access Capital Management Inc., Corte Madera",1
@@ -128365,12 +128326,7 @@ Adadptec,1
 "Adam & Brooks, Inc",1
 "Adam Bros. Farming, Inc",1
 "Adam Christianson, Stanislaus County Sheriff-Coroner",1
-"Adam Dalton, Tribal Chairman, Jackson Rancheria Band of Miwuk Indians",1
 Adam Greenfield Photography,1
-"Adam Hill, Supervisor, District Three of San Luis Obispo",1
-Adam Rak - Mayor of San Carlos,1
-"Adam Raskin, Investigator",1
-"Adam Schiff, Member of the United States Congress",1
 Adam Scow,1
 Adam Williams,1
 Adam/Vermont & Gardena CFMS,1
@@ -128496,14 +128452,9 @@ Adoption Reality,1
 Adora Salon,1
 Adrian C. Wilcox High School (2),1
 Adrian Dominican Sisters,1
-"Adriana Gardner, Pharmacist",1
-Adriana Martínez,1
-Adriana Ramirez,1
 Adrians Beauty College of Tracy,1
 Adriel Designs,1
 Adrienne Arsht-Rockefeller Foundation Resilience Center,1
-Adrienne Dickinson,1
-"Adrienne L Krikorian, Attorney at Law",1
 Adry's Fiesta Boutique,1
 Adult & Aging Commission,1
 "Adult & Child Guidance Center, San Jose",1
@@ -128576,7 +128527,6 @@ Advanced Therapy Center,1
 "Advanced Transit Vehicle Consortium, Los Angeles County MTA",1
 Advanced Veterinary Specialists,1
 "Advanced Wall Systems, Inc",1
-Advanced Water Systems (3 letters),1
 Advancement Foundation (HOAF),1
 "Advancement Project California, Albany Unified School District",1
 Advancement Via Individual Determination,1
@@ -128686,7 +128636,6 @@ Advocacy for Respect and Choice - Long Beach,1
 "Advocacy, Re-entry, Resources, Outreach (A.R.R.O.)",1
 AdvocacyInstitute,1
 Advocate Committee for Green Foothills,1
-Advocate Harvey Rosenfeld,1
 Advocate from Moreno Valley,1
 Advocates For Equity,1
 Advocates Office/CASA of Los Angeles,1
@@ -129065,9 +129014,6 @@ Al Davis Furniture,1
 Al Grimmett Automobile Repair Service,1
 Al Guzman,1
 "Al Guzman, Union City Chief of Police",1
-"Al Mijares, Ph.D., County Superintendent of Schools, Orange County Department of Education",1
-"Al Rich, CEO, Solarroofs",1
-"Al Rowlett, Commissioner on the Commission for Behavioral Health",1
 Al Sayad,1
 Al Stein,1
 Al Stone,1
@@ -129097,9 +129043,7 @@ Alameda Construction,1
 "Alameda Construction Services, Inc",1
 Alameda Contra Costa Fire Extinguisher Co,1
 Alameda Corridor,1
-"Alameda Corridor Transportation Authority, Gilbert Hicks, General Manager",1
 "Alameda Corridor-East Construction Authority, American Council",1
-Alameda County Assessor John N. Scott,1
 Alameda County Bd. of Supervisors,1
 Alameda County Board of Supervisor,1
 Alameda County Board of Supervisor's Health,1
@@ -129112,7 +129056,6 @@ Alameda County Children of Incarcerated Parents Partnership,1
 Alameda County Community,1
 Alameda County Community Asset Network,1
 Alameda County Community Development Agency,1
-Alameda County Community Food Bank Nadia Leal,1
 Alameda County Community Medical Center,1
 Alameda County Congestion Management Agency (Alameda),1
 Alameda County Congestion Management Agency California Association,1
@@ -129260,16 +129203,12 @@ Alan Amaro Construction,1
 Alan Boroskin MFCC Professional Corp,1
 "Alan Carlson, Chief Executive Officer, San Francisco Superior",1
 Alan Duckworth,1
-"Alan Haffa, Councilmember",1
 Alan Hancock Community College Board of Trustees,1
 "Alan Ishida, Chairman, Tulare County Board",1
-"Alan L. Rosen, esq., Rosen and Loeb",1
 Alan Lee - Big Bear Lake City Councilmember,1
 "Alan P. Feren, MD",1
 Alan Pryor,1
-"Alan Sanders, President of the Ormond Beach Observers",1
 Alan Uke,1
-"Alan Uke, President, San Diego Aircraft Carrier Museum",1
 "Alan, Kumin & Associates",1
 "Alanis Security Service, Inc",1
 "Alaris Medical Systems, Inc",1
@@ -129329,7 +129268,6 @@ Alder Grove Charter School - Director,1
 Aldersgate Retreat Center,1
 Aldersgate United Methodist Church Environmental Task,1
 Alef Construction,1
-"Alejandra Sotelo-Solis, Mayor, National City",1
 Alejandro Ruiz Chapter California Labor Federation,1
 "Aleman's Repair Service, Inc",1
 "Alene Taylor, Supervisor",1
@@ -129385,7 +129323,6 @@ Alhambra Unified School District (USD),1
 Alhambra Valley Physical Therapy,1
 "Alhambra, Azusa, Baldwin Park, El Monte, Industry, Irwindale, La Puente, Los Angeles, Monterey Park, South",1
 "Alhambra, Benicia, Carlsbad, Carson, Claremont, Coronodo",1
-"Ali Hasan, President, Parchester Village Neighborhood Council",1
 Ali's Animail,1
 Aliance for Habitat Conservation,1
 Aliano Iron,1
@@ -129411,7 +129348,6 @@ Alice Cortez Bail Bonds,1
 Alice M. Birney Dad's Club,1
 Alice Stokes,1
 Alicia Bautista,1
-"Alicia Boccellari, Ph.D",1
 Alicia K. Designs,1
 "Align Architecture, LLP",1
 "Align-Rite International, Inc",1
@@ -129514,8 +129450,6 @@ Allegis Development Services,1
 Allegis Redwood Maxim Public Affairs,1
 Allen Brand Public Relations,1
 Allen Chapel African Methodist Episcopal Church,1
-"Allen Garfield, Attorney",1
-"Allen Garfield, Attorney at Law",1
 Allen Lawrence & Associates Insurance Brokers,1
 Allensworth Town Council,1
 Allensworth-Richgrove Districts Collaborative,1
@@ -129911,7 +129845,6 @@ Alum-Rock Union Elementary School District,1
 Aluminum Company of America,1
 "Aluminum Precision Products, Inc",1
 Alumni Association,1
-"Alvara Garza, M.D., M.P.H., Stanislaus County Health",1
 Alvarado Court Reporters,1
 Alvarado Law Group,1
 Alvarado Parkway,1
@@ -129920,10 +129853,8 @@ Alvarado Rey Agency,1
 "Alvarado and Associates, LLC",1
 AlvaradoSmith a Professional Corporation,1
 Alvarez Jaguar,1
-"Alvaro Garza, M.D., Public Health Officer, Stanislaus County",1
 Alvaro Unified School District,1
 Alvia Corporation,1
-"Alvin Duskin, CEO, Clean Coal Energy",1
 Alviso in Action,1
 Alvord Unified School District (Riverside Co)Monache High,1
 Always Home,1
@@ -130008,7 +129939,6 @@ Amalgamated Transit Union--California Conference Board,1
 Amalgamated TransitUnion,1
 Amalgated Transit Union - California Conference Board,1
 Amami Branch Kagoshima Shochu Makers Assocation,1
-"Amanda Millstein, Medical Doctor",1
 Amanecer Community Counseling Service,1
 "Amante & Shaffer, LLP",1
 Amaral Design Associates,1
@@ -131186,15 +131116,10 @@ Andrea Atkinson,1
 Andreessen Horowitz,1
 "Andresen, Lee",1
 Andretti Winery,1
-"Andrew Beebe, President, Energy Innovations",1
-"Andrew Deitz, Director, Symphony Technology Group",1
-"Andrew E. Katz, Esq",1
 Andrew G. Pasmant,1
-"Andrew Galef, CEO, MagneTek, Inc",1
 Andrew Gross,1
 "Andrew H. Chen, D.D.S. Ambulatory",1
 Andrew Ko,1
-"Andrew Lewis, Councilmember, North Westwood Nc",1
 "Andrew M. Martin Company, Inc",1
 "Andrew Mills, Eureka Police Chief",1
 Andrew Moore (Belmont),1
@@ -131204,7 +131129,6 @@ Andrew University Berkeley,1
 Andria's Seafood Specialists,1
 Andriaos Harborside Restaurant,1
 "Andy Ball, Los Angeles Gay and Lesbian Center, Carmichael, CA",1
-"Andy Funk, CEO, Chairman & Managing Director, Funk Ventures",1
 "Andy Molina, Council Member",1
 Andy's Transfer & Storage,1
 Andy's Transfer & Storage (an Interstate Agent for North American Van),1
@@ -131334,7 +131258,6 @@ Angeles/Santa Monica Mountains Chapter,1
 Angeles/Universal City General Manager Mark Davis,1
 "Angelica Gonzalez, Ellwood School Crossing Guard",1
 Angelina Bates,1
-"Angelina Crans Yoo, Medical Doctor",1
 Angelina Romano,1
 Angelope Valley Committee on Aging,1
 Angelos,1
@@ -131398,7 +131321,6 @@ Animal Issues Movement (Los Angeles/Orange County),1
 Animal Issues Movement (Los),1
 Animal Legal Defense Fund A Purposeful Rescue,1
 "Animal Legal Defense Fund, California Western School of Law Chapter",1
-"Animal Legal Defense Fund, Director Chris Green",1
 Animal Legal and Veterinary,1
 Animal Legal and Veterinary Medical Consulting Services,1
 "Animal Legislative Action Network, Angeles Chapter",1
@@ -131440,10 +131362,7 @@ Animals In Science Policy Institute,1
 Animals Protected in Entertainment,1
 Animals in Entertainment,1
 Animo Venice Charter High School,1
-"Anirvan Chatterjee, CEO, Bookfinder.com",1
 "Anissa Wong, CSDA Design Group",1
-"Anita Stuazo, Superintendent, Garvey School District",1
-"Anita Suazo, Superintendent, Garvey School District",1
 Anivive Lifesciences,1
 "Anixter, Inc",1
 Anjess,1
@@ -131451,9 +131370,7 @@ Ankur Diamond Inc,1
 Ann Atkinson,1
 "Ann Bartow, University of New Hampshire Franklin Pierce School of Law",1
 Ann Blackwood,1
-"Ann Cousineau, Director of Library Services, Solano County Library",1
 Ann Ellis,1
-"Ann Harvey, Medical Doctor",1
 Ann Kelly's By The Lake,1
 Ann Klinefelter,1
 "Ann Kulchin, Carlsbad City Councilmember",1
@@ -131553,9 +131470,6 @@ Anthony,1
 "Anthony Duarte, Vice President, Haciendas La Puente Unified School District",1
 "Anthony E. Saville, Ramona, CA",1
 Anthony F. Cardenas,1
-"Anthony J. Addams, O.D., Ph.D., Dean UC Berkeley",1
-"Anthony J. Addams, O.D., Ph.D., Dean UC Berkeley School of Optometry",1
-"Anthony J. Intintoli, Jr., Mayor",1
 "Anthony Laurita, Government Affairs Manager, Sma America",1
 "Anthony Molina, M.D",1
 "Anthony P. Alba, Police Chief, San Fernando",1
@@ -131777,8 +131691,6 @@ Aquarius Pool & Spa Service,1
 Aquatic Genesis LLC,1
 Aqueo US Vets,1
 AqueoUSvets,1
-"Ara Najarian, Councilmember",1
-"Ara Najarian, Director, MTA, Councilmember",1
 "Ara Najarian, Glendale City Councilmember",1
 Arab American Caucus CA Dems,1
 "Arab American Caucus, CA Democratic Party",1
@@ -132096,7 +132008,6 @@ Art Chacon,1
 Art D's Concrete Co,1
 "Art Directors Guild & Scenic, Title",1
 "Art Directors Guild & Scenic, Title & Graphic",1
-"Art Gage, Councilmember",1
 Art Krause & Associates,1
 Art Lessons & Events,1
 Art Machine LLC,1
@@ -132132,7 +132043,6 @@ Arthur C. Brown- Mayor of Buena Park,1
 Arthur J. Gallgher & Co,1
 "Arthur J. Maillet, Inyo County District Attorney",1
 Arthur Murray Studios,1
-"Arthur W. Anderson Jr., M.D., F.A.P.A",1
 Arthur and Evelyn Woodworth,1
 Artic Fox Hair Color,1
 Artican Air Conditioning & Heating,1
@@ -132170,7 +132080,6 @@ Artspace Projects,1
 "Arturo Venegas, Sacramento Police Chief",1
 Arval Legal Services,1
 Arvin Community Health Center,1
-"Arvin, Mayor, Jose Gurrola",1
 "Arvin-Edison Water Storage District, Belridge",1
 Arya Pratinidhi Sabha America,1
 "As Amended May 7, None Known",1
@@ -132253,8 +132162,6 @@ Ascend Consumer Finance,1
 Ascension Lutheran Church,1
 Ascertain,1
 Asean Corporation,1
-"Ash Kalra, Councilmember",1
-"Ash Kalra, Councilmember, District 2",1
 Ash Tree Ranch Rescue,1
 Ashbeck Company,1
 "Ashcroft v. Free Speech Coalition , 535 U.S. 234 (2002)",1
@@ -132263,7 +132170,6 @@ Ashland Cherryland Together,1
 Ashland Community Alcohol Policy Coalition,1
 Ashley,1
 "Ashley & Vance Engineering, Inc",1
-"Ashley Mcclure, Medical Doctor",1
 Ashlie & Hobie Animal Welfare,1
 "Ashod Mooradian, City Treasurer for City of Montebello",1
 Ashored,1
@@ -132557,7 +132463,6 @@ Assistant Dean Mary D'Amour John Adams Academy Charter School,1
 "Assistant Director, Public",1
 "Assistant Director, UCLA Medical Center",1
 Assistant District Attorney,1
-"Assistant Professor Dawn B. Mabalon, Ph.D., San Francisco State",1
 Assistant Professor at UCSF Karen Butter,1
 Assistant Professor at UCSF Laurence Peiperl,1
 Assistant Professor at UCSF Richard Schneider,1
@@ -133614,7 +133519,6 @@ Auditor-Controller of Sutter County,1
 Auditor-Controller/Treasurer/Tax Collector of San Bernardino County,1
 Auditory Research,1
 Audoban Society,1
-"Audrey Clarke, Superintendent, Lynwood School District",1
 Augustine Band of Mission,1
 Aung Research Group,1
 Aunt Ann's Agency,1
@@ -136968,7 +136872,7 @@ Butte County Superior Court,1
 Butte County of Orange,1
 Butte Environmental,1
 Butte Glenn Central Labor Council,1
-Butte Home Health and Hospice (4 individuals),1
+Butte Home Health and Hospice,1
 "Butte Sink Waterfowl Assoc., Inc",1
 Butte Valley - Tuleake Rural Health Projects,1
 Butte Valley - Tulelake Rural Health,1
@@ -142059,8 +141963,6 @@ California Self-Storage,1
 California Senior League,1
 California Senior Legal Hotline,1
 California Senior Legislator,1
-California Senior Legislature (16 individuals),1
-California Senior Legislature (8 individuals),1
 California Senior Legislature AARP California,1
 California Senior Legislature CalPERS,1
 "California Senior Legislature, Sunnyvale Mobile",1
@@ -144190,8 +144092,6 @@ Center for Educational,1
 Center for Educational Partnerships,1
 Center for Elders,1
 "Center for Elders Independence, Inc, Oakland",1
-Center for Elders' Independence (53 individuals),1
-Center for Elders' Independence (CEI) (53 individuals),1
 Center for Elders' Independence (Oakland),1
 Center for Elders' Indpendence,1
 Center for Employment Training (Coachella Valley),1
@@ -149330,9 +149230,6 @@ Community Home Care,1
 Community Home Partners dba,1
 Community Hospice Care (San Diego),1
 Community Hospice Care (Torrance),1
-Community Hospice of Victor Valley,1
-Community Hospice of Victor Valley (9 individuals),1
-"Community Hospice, Inc. (2 individuals)",1
 Community Hospital of Central Valley,1
 Community Hospital of Monterey,1
 Community Hospital of Monterey Peninsula,1
@@ -152423,7 +152320,6 @@ Culbertson and Associates,1
 Culinary Institute of America - Greystone,1
 "Cullen Financial Services, Inc",1
 "Cullen-Sherry & Associates, Inc",1
-Culligan (36 letters),1
 Culligan San Paso Co,1
 Culligan Store Solutions,1
 Culligan Water Solutions (& affiliates),1
@@ -155052,7 +154948,6 @@ ECHO (Executive),1
 ECHO Housing Services (Hayward),1
 ECHO Incorporated,1
 ECHO-Executive Council of Homeowners,1
-ECO Water Systems (23 letters),1
 "ECO-AIR PRODUCTS, INC",1
 ECOCAIMAN S.A.S,1
 ECOSLO (The Environmental Center of San Luis Obispo),1
@@ -158732,7 +158627,6 @@ Foster City Fire Department,1
 Foster City Fountain Valley Fowler Fremont,1
 Foster Coalition,1
 Foster Crossman Distributors,1
-Foster Farms (15 letters),1
 Foster Lumber Yard,1
 "Foster Lumber Yards, Inc. Vallejo",1
 Foster Parent Association,1
@@ -159095,7 +158989,7 @@ Fresco Unified School District,1
 Fresh Lifelines for Youth Bay Area,1
 Fresh Outta Plans,1
 Fresh State Victorian Cat Shelter,1
-Fresh Water Systems (11 letters),1
+Fresh Water Systems,1
 Freshwater,1
 "Freshwater Farms, Inc",1
 "Freshwater Trust, The Grassland Water District",1
@@ -159789,7 +159683,6 @@ Gardens Residents Management Corporation,1
 Gardens at Heather Farms,1
 Gardiner Farms,1
 Gardner Children Center,1
-Gardner Children's Center - (2 individuals),1
 Gardner Family Care Corporation,1
 "Gardner Family Health Network, Inc., San Jose",1
 Garehim Corporation,1
@@ -162561,7 +162454,6 @@ Highland Art Center,1
 Highland Electric Fleets,1
 Highland Park Skilled Nursing and Wellness Centre,1
 Highland Recreation District,1
-Highland Well Service (2 letters),1
 Highland Winds/High Ground Communities,1
 Highlanders Boxing Club,1
 Highlands Christian High School,1
@@ -163109,7 +163001,6 @@ Horvath,1
 Horvitz & Levy LLP,1
 Horwath HTL,1
 Hosokawa Alpine American,1
-Hospice Care of California (2 individuals),1
 Hospice Care of the West,1
 "Hospice Care, Director of Reimbursement Services",1
 Hospice Caring Project,1
@@ -163124,7 +163015,6 @@ Hospice of Lake County,1
 Hospice of Palliative Care of Contra Costa,1
 Hospice of Roseville,1
 Hospice of Saddleback Valley,1
-Hospice of San Joaquin (2 individuals),1
 "Hospice of Tulare County, Inc",1
 Hospice of the Desert Communities,1
 Hospice of the Visiting Nurses of the Inland Counties,1
@@ -164001,9 +163891,6 @@ Inaja Cosmit Band,1
 "Inc, Los Angeles",1
 "Inc, Pacoima",1
 "Inc, Ventura",1
-Inc. (14 letters),1
-Inc. (28 letters),1
-Inc. (3 letters),1
 Inc. (Gilroy),1
 Inc. (KEET-TV),1
 Inc. (Maricopa),1
@@ -165167,7 +165054,6 @@ Ione Bank of Miwok Indians,1
 Ione Board of Me-Wuk Indians,1
 Ione Business & Community Association,1
 Ione Memorial District,1
-Ionics (2 letters),1
 "Iota Technology Inc., San Jose",1
 Ipse - The Association Of Independent Workers,1
 Ira Newman Automotive,1
@@ -167466,7 +167352,6 @@ Kinds County Library,1
 Kinergy Resources,1
 Kinetico Inc,1
 Kinetico Water Processing Systems,1
-Kinetico/AAA Water Systems (3 letters),1
 Kinfoil,1
 "King & Gardiner Farms, LLC",1
 King American Ambulance Company,1
@@ -168466,7 +168351,6 @@ Lake Tahoe Wolf Rescue,1
 Lake View Terrace Improvement Assn,1
 Lake Water Agency,1
 Lake and Mendocino,1
-Lake and Mendocino Counties Council on Aging (16 individuals),1
 Lake of the Woods Mutual Water Company,1
 "Lake, Mendocino, and Sonoma County Offices",1
 Lakeland Tours,1
@@ -169689,7 +169573,7 @@ Life Science Cares,1
 Life Sharing Community Organ and Tissue Donation,1
 Life Skills Training & Educational Programs (LifeSTEPS),1
 Life Skills Training and Educational,1
-Life Time Solutions (29 letters),1
+Life Time Solutions,1
 "Life and Health Insurance Companies (ACLHIC), California Association of HMOs (CAHMO), and Health Net",1
 Life in the Pause,1
 Life-AIDS,1
@@ -169857,7 +169741,6 @@ Lippold Pools,1
 Lipstick & Politics,1
 Lipton,1
 Lipton & Margolin,1
-Liquid Solutions (9 letters),1
 "Liquid Sugars, Inc",1
 Liquid Tribe,1
 LiquidGoldConcept,1
@@ -171658,7 +171541,6 @@ Madres Del este De,1
 Madrone Art Bar & Pops Bar,1
 Madrone Audobon Society,1
 Madrone Engineering,1
-Madrone Hospice (2 individuals),1
 Maersk Inc. and APM Terminals,1
 Maersk Line / Maersk Agency USA,1
 Maestros Ensenando English (Teachers Teaching English),1
@@ -173974,7 +173856,6 @@ Mission Hearing Aid Center,1
 Mission Hills (San Diego),1
 Mission Hills Bowl,1
 Mission Hills at Rancho Mirage,1
-Mission Hospice (2 individuals),1
 Mission Hospital (St. Joseph Health),1
 Mission Hospital Mission,1
 Mission Hospital and Mission Hospital Laguna Beach,1
@@ -175117,7 +174998,7 @@ NCCUSL Commissioners Diane Boyer-Vine,1
 NCJW of Kansas City,1
 NCJWSF,1
 NCLR/CSULB Center for Latino Community Health,1
-NCO / Area Agency on Aging (16 individuals),1
+NCO / Area Agency on Aging,1
 NCP West LLC,1
 NCSL and the Federal Funds Information for States,1
 NCTA - The Internet & Television Association,1
@@ -176398,7 +176279,6 @@ Neighborhoods in Transition,1
 "Neighborhoods, Community Development Department",1
 Neighbors Against Graffiti (NAG),1
 Neighbors Against Landfill Expansion,1
-Neighbors United Against Crime,1
 Neighbors for Responsible Logging,1
 Neighbors for a Livable San Diego,1
 Neighborworks Capital,1
@@ -179309,7 +179189,7 @@ PMSI,1
 PMT Ambulance,1
 PNK Digger Cosmetics LLC,1
 PODER (People Organizing to Demand Environmental & Economic Rights),1
-POER (3 individuals),1
+POER,1
 POLICY ISSUES,1
 POLICY ISSUES AND QUESTIONS,1
 "POMS and Associates Insurance Brokers, LLC",1
@@ -179960,7 +179840,6 @@ Parable of the Sower Healing Center,1
 Parable of the Sower International Community Cooperative,1
 Parachute Center,1
 Paradigm Sports Club,1
-Paradigm Tax Group (6 individuals),1
 Paradise Adventist Academy,1
 Paradise Cove Homeowners Association,1
 Paradise Guide Service,1
@@ -180101,7 +179980,6 @@ Park Creation and Outdoor Access,1
 Park Department of Public Safety,1
 Park Dr Ste,1
 Park Imperial Townhouses,1
-Park International Corp. (32 letters),1
 Park Owners (13),1
 Park Place Condominium,1
 Park Place GMAC Real Estate Division,1
@@ -182512,7 +182390,6 @@ Property Rights Alliance,1
 Property Services,1
 Property Tax,1
 Property Tax Assistance Co,1
-"Property Tax Assistance Company, Inc. (9 individuals)",1
 Property of The People,1
 "Prophets Apostolic Church, Office of the Prophet",1
 "Proportionate Advancement, LLC",1
@@ -182821,7 +182698,6 @@ PureWest Energy,1
 "Purewest Energy, LLC",1
 Purex Industrial,1
 "Purfoods, LLC",1
-Purified Water Systems (3 letters),1
 Purisima Water District,1
 "Purism, SPC",1
 PuroClean,1
@@ -182992,7 +182868,6 @@ Quality Fence Company Inc,1
 Quality Grain,1
 "Quality Hearing Systems, Solana Beach, CA",1
 "Quality Hearing Systems, Vista, CA",1
-Quality Home Products (3 letters),1
 Quality Homecare Coalition,1
 Quality Machinery Center (Tulare),1
 "Quality Management District, Mojave Desert Air Quality",1
@@ -183201,7 +183076,7 @@ RSA Consulting Civil Engineers and Surveyors,1
 "RSI Security, Inc",1
 RSI/Medic Ambulance,1
 "RST Cranes, Inc",1
-RSVP (2 individuals),1
+RSVP,1
 "RT Engineering & Associates, Inc",1
 RTA Investigative and Consulting Services,1
 RTODD It is true,1
@@ -183527,8 +183402,6 @@ Raymond C. Jolla,1
 Raymond Fox & Associates,1
 "Raymond Interior Systems/North Reco, Inc",1
 Raymundo Engineering Company Inc,1
-Rayne Quality Water (5 letters),1
-Rayne Water Conditioning (46 letters),1
 "Raypak, Inc",1
 "Rayvern Lighting Supply Co., Inc",1
 Raza Recruitment and Retention Center,1
@@ -184561,7 +184434,6 @@ Richardson,1
 Richardson Appliance Service LLC,1
 Richardson Bay Cemetery District,1
 Richer Poorer,1
-Richetti Water Conditioning Systems (4 letters),1
 Richey (retired),1
 Richgrove Elementary School District,1
 Richie Ross,1
@@ -185525,14 +185397,12 @@ Ry-Den Truck Centre,1
 "Ryals & Associates, Inc",1
 Ryan & Company,1
 "Ryan Coonerty, Santa Cruz County Board of Supervisors, District 3",1
-Ryan Innovative Solutions to Taxing Problems (7 individuals),1
 "Ryan Jackson, Chairman, Hoop Valley Tribe",1
 "Ryan Jackson, Chairman, Hoopa Valley Tribe",1
 "Ryan McCreary, President, Gamma Chi Lambda Chapter, Alpha Phi Alpha",1
 Ryan Newkirk,1
 Ryan Porter Computer Services,1
 Ryan Snyder and Associates Inc. (Transportation and Planning),1
-Ryan: Innovative Solutions to Taxing Problems,1
 "Ryba Consultants, Woodside",1
 "Ryder System, Inc",1
 Río Hondo College,1
@@ -186954,7 +186824,6 @@ San Diego Human Trafficking & CSEC Advisory Counsel,1
 "San Diego Human Trafficking & Csec Advisory Council, Health Subcommittee",1
 San Diego Humane Society Best Friends Animal Society,1
 San Diego Humane Society and SCPA,1
-San Diego Humane Society and SPCA (2 individuals),1
 San Diego Humane Society and SPCS,1
 San Diego Hunger Action Coalition,1
 San Diego Hunger Advocacy Network & San Diego Hunger Coalition,1
@@ -189772,7 +189641,6 @@ Sharp Electronics Corp. (Sharp),1
 Sharp Employees Health Service,1
 "Sharp HealthCare, San Diego",1
 "Sharp HealthCare, San Diego (Ann Pumpian)",1
-Sharp Hospice Care (2 individuals),1
 Sharp Laboratories of America,1
 Sharp Livestock and Energy,1
 Sharp Mary Birch Hospital,1
@@ -194119,7 +193987,7 @@ T.Y.R.E.S,1
 TAAC Triple-A Council of California,1
 TACC - Chairpersons of the 33 Area Agencies on Aging Advisory Counsels,1
 TACC Governmental Affairs Policy Group,1
-TACC Triple A Council of California (3 individuals),1
+TACC Triple A Council of California,1
 TACC Triple-A Council of California (Area Agencies on),1
 TACC Triple-A Council of California (Area),1
 TALECU,1
@@ -194215,7 +194083,6 @@ TW Metals in Commerce California,1
 TWB & Associates,1
 TWR AB 2552 - 6/26/96 Enterprises,1
 Ta Fang,1
-Taarcom (6 individuals),1
 Taber Chaitin Associates,1
 Tabernacle Baptist Church,1
 Table,1
@@ -199394,7 +199261,6 @@ Vernon Public Utilities,1
 Vernon and the Imperial Irrigation District,1
 Veronica,1
 Veronica Kessler Thomas,1
-Versatax Consulting (2 individuals),1
 Vertex Pharmaceuticals Inc,1
 Vertical Aerospace,1
 Vertical Flight Society,1
@@ -200320,7 +200186,6 @@ Water District of Southern California,1
 Water For Us,1
 Water Kern County Board of Supervisors,1
 Water Management District,1
-Water Quality Systems (6 letters),1
 "Water Rate Advocates for Transparency, Equity and Sustainability",1
 "Water Rate Advocates for Transparency, Equity, and Sustainability (WRATES)",1
 Water Replacement District of Southern California,1
@@ -200560,7 +200425,6 @@ West Coast Protective,1
 "West Coast Recycling, LLC",1
 West Coast Rendering Co,1
 West Coast Self Storage,1
-West Coast Services (2 letters),1
 "West Coast Times, Pinole",1
 West Coast Trailers,1
 West Coast Turf,1
@@ -200860,7 +200724,6 @@ Western Riverside County Judicial District Municipal Court,1
 Western Riverside County Organization of Governments,1
 Western Riverside County Transportation NOW,1
 Western Rottweiler,1
-Western Salt Company (3 letters),1
 "Western Scrap, Inc",1
 Western Service Workers,1
 Western Sierra Bancorp,1
@@ -200934,7 +200797,6 @@ Western Wall & Ceiling Contractors,1
 Western Wall & Ceiling Contractors Assoc,1
 Western Wall and Ceiling Contractors Association o,1
 Western Water Company,1
-Western Water Products (8 letters),1
 "Western Water Ways, Inc",1
 Western Wood Preservatives Institute,1
 Western Wood Preserve Institute,1
@@ -202280,7 +202142,6 @@ Zach Hilton,1
 Zach Hilton-City Council Member,1
 Zachy Farms,1
 Zacks & Freedman,1
-Zacky Farms (7 letters),1
 Zacky Farms (poultry),1
 "Zacky Farms, Fresno",1
 Zahav,1
