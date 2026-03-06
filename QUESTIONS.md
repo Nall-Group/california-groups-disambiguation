@@ -4,8 +4,30 @@ RAs post questions here when blocked. The human supervisor answers them.
 
 ## Open Questions
 
+## Answered Questions
+
+### Q5 (Task 13, RA-Beta)
+**Status:** Answered
+
+Web research for "1065 (PEACE)" was inconclusive. I searched for:
+- AFSCME Local 1065 PEACE California
+- SEIU Local 1065 California
+- "PEACE" as a union acronym with local numbers
+
+No results identify a specific union local 1065 called "PEACE" in California. The entry appears only once in the dataset (count=1). It could be:
+1. A truncated/garbled reference to a peace officers union local
+2. A data artifact (the number 1065 could be a bill number — AB 1065 exists — combined with "PEACE" from surrounding text)
+3. An obscure local chapter not well-documented online
+
+Should I:
+- A) Move it to `org_names_partial.csv` as a fragment (since it's ambiguous and low-frequency)?
+- B) Move it to `org_names_invalid.csv`?
+- C) Leave it in the crosswalk and rename it to something more descriptive if you know what it is?
+
+**Answer:** Option A — move it to `org_names_partial.csv` as a fragment.
+
 ### Q4 (Task 21, RA-Alpha)
-**Status:** Open
+**Status:** Answered
 
 While scanning for narrative text fragments, I found 19 entries with the pattern "year: OrgName" (e.g., "1998: American Farmland Trust", "2009: American Legion"). These have real org names but with a year prefix, suggesting they were extracted from legislative history text.
 
@@ -34,6 +56,8 @@ Should I:
 - A) Move all 19 to `org_names_embedded_in_narrative_text.csv` since they have year prefixes that make them narrative-embedded?
 - B) Add a cleaning pattern to strip the "year: " prefix and merge into existing crosswalk entries?
 - C) Something else? (Note: #10 and #16 are individuals, #18 is a fragment)
+
+**Answer:** Skip these for now — they're covered by a new Task 22, which will add a cleaning pattern to strip the "year: " prefix. You can mark Task 21 as Done with what you've already completed (the narrative fragments).
 
 ## Answered Questions
 
