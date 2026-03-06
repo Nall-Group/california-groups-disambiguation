@@ -2,10 +2,25 @@
 
 RAs post questions here when blocked. The human supervisor answers them.
 
+## QUESTIONS.md Write Queue
+
+To edit this file (post questions, write answers), join this queue first. Only the name at the top may edit.
+
+(empty)
+
 ## Open Questions
 
-### Q7 (Task 40, RA-Alpha)
+### Q8 (Task 53, RA-Alpha)
 **Status:** Open
+
+While handling Task 53 (move generic single-word entries to partial CSV), I moved "Access" and "Action" as specified. Scanning the crosswalk, I found 52 additional single-word canonicals with NO children that are common English words. Some might be real orgs (e.g., "Amazon" the company, "Homeboy" likely Homeboy Industries, "Habitat" possibly Habitat for Humanity).
+
+Here's the full list — which should be moved to `org_names_partial.csv` as too generic?
+
+Advance, Amazon, Assembly, Balance, Bridge, Change, Common, Connect, Conservation, Democracy, Design, Direct, Excellence, Focus, Freedom, Global, Guardian, Habitat, Harvest, Haven, Home, Homeboy, Hope, Horizon, Insight, Lead, Liberty, Light, Link, Local, Momentum, Opportunity, Options, Partners, Pathway, People, Pioneer, Practice, Quality, Reach, Response, Restore, Rural, Safety, Share, Strategy, Together, Transit, Unity, Village, Voice, Volunteer
+
+### Q7 (Task 40, RA-Alpha)
+**Status:** Answered
 
 While scanning for other "number (city)" entries that might be unnamed union locals, I found:
 
@@ -16,6 +31,8 @@ Both have count=1. Should I:
 - A) Move them to `org_names_partial.csv` as ambiguous fragments?
 - B) Research further to identify the specific unions?
 - C) Leave them as-is in the crosswalk?
+
+**Answer:** Option A — move both to `org_names_partial.csv`. Web research found that Laborers' Local 261 (LIUNA) exists but covers SF/San Mateo/Marin, not Campbell — so "CAMPBELL" is ambiguous. No union local 3492 was found in any search, and "North Antelope" doesn't correspond to a California location. Both are too ambiguous to keep.
 
 ## Answered Questions
 
