@@ -11,6 +11,7 @@ To edit this file (mark tasks, update queues, add tasks), join this queue first.
 Only the RA at the top of this list has write access to project data files (crosswalk JSON, CSVs). Add yourself to the bottom when you're ready to write. Remove yourself when done.
 
 RA-Beta
+RA-Alpha
 
 ## Task List
 
@@ -89,7 +90,7 @@ RA-Beta
 | 72 | Consolidate "Accessing Health Services for California's Children in Foster Care Task Force" variants — 5 entries of varying completeness plus "Californias" (missing apostrophe). Consolidate under full name as canonical. Run the cleaning/dedup/stats pipeline before committing. | Done | RA-Alpha | Merged 7 variants + 2 Statewide Task Force variants. |
 | 73 | Consolidate Accreditation Commission for Acupuncture variants: merge "for" vs "of" versions under ACAOM canonical. Also: "Access to Specialty Care Coalition" / "Access of Specialty Care Coalition". Also: "Adubon Society of California" → alt spelling of existing Audubon entry. Run the cleaning/dedup/stats pipeline before committing. | Done | RA-Alpha | Consolidated 3 ACAOM variants under canonical, merged Access of/to Specialty Care, added Adubon as alt spelling of Audubon California. |
 | 74 | Consolidate Agricultural Council of California variants (5+ entries): "Agricultural Council of Calif", "AGRICULTURAL COUNCIL OF CALIFORNIA", "(Ag Council)", "(AgCouncil)", "Agricultural Counsel of California" (typo). Consolidate under one canonical. Run the cleaning/dedup/stats pipeline before committing. | In Progress | RA-Beta | |
-| 75 | Consolidate Agricultural Energy Consumers Association variants (5+ entries) with different abbreviations and misspelling ("Assocation"). Run the cleaning/dedup/stats pipeline before committing. | Not Started | | |
+| 75 | Consolidate Agricultural Energy Consumers Association variants (5+ entries) with different abbreviations and misspelling ("Assocation"). Run the cleaning/dedup/stats pipeline before committing. | In Progress | RA-Alpha | |
 | 76 | Consolidate AGC variants (10+ entries): "AGC America", "Agc America INC. and Subsidiaries", "AGC of Calif", "AGC of California", chapter variants, etc. Note: AGC Chemicals America is a different company from AGC/Associated General Contractors — keep separate. Run the cleaning/dedup/stats pipeline before committing. | Not Started | | |
 | 77 | Consolidate "Against Family Violence" variants (4 entries incl. "Familly" typo). Also "Against Bigotry, Responding with/With Action (ABRA)" variants. Run the cleaning/dedup/stats pipeline before committing. | Not Started | | |
 | 78 | Fix spelling errors as alt spellings: (1) "Agudath Isreal of California" → "Israel". (2) "Alameda County Deputy Sherriff's Association" → "Sheriff". (3) "...Sheriffos Association" → "Sheriffs". (4) "...Sheriff's Association SB46X" — strip bill ref and consolidate. Run the cleaning/dedup/stats pipeline before committing. | Not Started | | |
