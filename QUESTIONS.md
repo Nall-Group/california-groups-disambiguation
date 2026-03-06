@@ -4,6 +4,37 @@ RAs post questions here when blocked. The human supervisor answers them.
 
 ## Open Questions
 
+### Q4 (Task 21, RA-Alpha)
+**Status:** Open
+
+While scanning for narrative text fragments, I found 19 entries with the pattern "year: OrgName" (e.g., "1998: American Farmland Trust", "2009: American Legion"). These have real org names but with a year prefix, suggesting they were extracted from legislative history text.
+
+Examples:
+1. "1997: Board of Trustees"
+2. "1997: Universal Studios"
+3. "1998: American Farmland Trust"
+4. "1998: American Institute of Architects"
+5. "1998: Associated Builders & Contractors"
+6. "1998: Service Employees International Union"
+7. "1999: Associated Builders and Contractors"
+8. "1999: City of Santa Cruz Gary Loustalot"
+9. "2002: People's Advocate"
+10. "2005: Maria Shriver" (individual, not org)
+11. "2006: Compline"
+12. "2007: Southern Wine and Spirits of America"
+13. "2009: American Legion"
+14. "2009: California State Firefighters' Association"
+15. "2009: Center for Public Interest Law"
+16. "2009: Jack O'Connell" (individual, not org)
+17. "2011: Gondola Adventures"
+18. "2013: American Federation of State" (fragment — cut off)
+19. "2013: California Thoroughbred Breeders Association"
+
+Should I:
+- A) Move all 19 to `org_names_embedded_in_narrative_text.csv` since they have year prefixes that make them narrative-embedded?
+- B) Add a cleaning pattern to strip the "year: " prefix and merge into existing crosswalk entries?
+- C) Something else? (Note: #10 and #16 are individuals, #18 is a fragment)
+
 ## Answered Questions
 
 ### Q3 (Task 16/18, RA-Beta)
