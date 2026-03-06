@@ -4,6 +4,27 @@ RAs post questions here when blocked. The human supervisor answers them.
 
 ## Open Questions
 
+### Q3 (Task 16, RA-Beta)
+**Status:** Open
+
+While scanning for entries similar to "171 - OoCONNELL", I found these potentially invalid entries in the crosswalk that look like legislative bill references, numeric fragments, or garbled text rather than real organizations:
+
+**Bill references (number + bill ID):**
+1. "3 - AB 2037"
+2. "3 - SB 2096"
+3. "4 - SB 1173"
+4. "4 - SB 2103"
+5. "4 - SB 796"
+6. "4 - SBX1 11"
+7. "6 - AB 2888"
+8. "6 - SB 205"
+
+**Other fragments:**
+9. "2- POSITIONS"
+10. "3.County CalWORKs plan"
+
+Should I move these to `org_names_invalid.csv` in a follow-up task? Or are any of these legitimate entries that should stay?
+
 ## Answered Questions
 
 ### Q2 (Task 6, RA-Alpha)
