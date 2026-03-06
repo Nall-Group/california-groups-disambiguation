@@ -132,6 +132,58 @@ XX. Move things that are obviously not organization names (like sponsor or SB) t
 
 
 
+## Managing Robot RAs (Claude Code Workers)
+
+This project supports parallel task execution using multiple Claude Code sessions as "Research Assistants" (RAs), coordinated through `TASKS.md` and `QUESTIONS.md`. See `CLAUDE.md` for the full protocol.
+
+### Setup
+
+You need three terminal sessions running Claude Code in this directory:
+
+1. **Management Assistant** — coordinates between you and the workers
+2. **Worker RA sessions** (2+) — do the actual tasks
+
+### Starting the Management Assistant
+
+```
+claude
+```
+
+Then prompt:
+
+```
+You are the Management Assistant. Read CLAUDE.md and follow the Management Assistant instructions. Poll QUESTIONS.md every 10 seconds for unanswered RA questions and present them to me. Also report task status (done/in progress/blocked/not started) with each check. When I send you a task description, add it to TASKS.md.
+```
+
+### Starting Worker RAs
+
+Open separate terminals, run `claude` in each, and prompt:
+
+```
+You are RA-Alpha. Read CLAUDE.md and follow the Worker RA instructions. Pick a task from TASKS.md and get started.
+```
+
+```
+You are RA-Beta. Read CLAUDE.md and follow the Worker RA instructions. Pick a task from TASKS.md and get started.
+```
+
+Use a different name for each session (RA-Alpha, RA-Beta, RA-Gamma, etc.).
+
+### Day-to-Day Workflow
+
+1. **Adding tasks**: Describe tasks to the Management Assistant in plain language. It formats and adds them to `TASKS.md`.
+2. **Answering questions**: The manager polls `QUESTIONS.md` and surfaces RA questions to you. Give your answer and the manager writes it back.
+3. **Status checks**: Ask the manager for a status update — it reads `TASKS.md` and summarizes.
+4. **Blocked tasks**: When an RA gets stuck, it posts a question, unassigns itself, and moves on. Any RA can pick up a blocked task once the question is answered.
+
+### Key Files
+
+| File | Purpose |
+|------|---------|
+| `CLAUDE.md` | Full protocol for both roles |
+| `TASKS.md` | Task list and write queue |
+| `QUESTIONS.md` | Q&A between RAs and human |
+
 ## Crosswalk Relationship Types
 
 - canonical
