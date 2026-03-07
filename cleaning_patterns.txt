@@ -88,6 +88,13 @@
 # Trailing "(Month Day" date fragment (e.g. "(July 10", "(April 23") - END
 (?i)\s*\((?:January|February|March|April|May|June|July|August|September|October|November|December)\s+\d+\s*$
 
+# Trailing enrollment/vote numbers after school district keywords (e.g. "ALAMEDA CITY UNIFIED 10,295") - END
+(?i)(?<=ELEMENTARY)\s+\d{1,3}(?:,\d{3})+\s*$
+(?i)(?<=UNIFIED)\s+\d{1,3}(?:,\d{3})+\s*$
+(?i)(?<=HIGH)\s+\d{1,3}(?:,\d{3})+\s*$
+(?i)(?<=JOINT)\s+\d{1,3}(?:,\d{3})+\s*$
+(?i)(?<=UNION)\s+\d{1,3}(?:,\d{3})+\s*$
+
 # Patterns to remove from the BEGINNING of organization names
 # These are procedural notes, not part of the org name
 
