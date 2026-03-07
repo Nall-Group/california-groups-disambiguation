@@ -7,8 +7,8 @@ AFL-CIO American Federation of State,35
 AFL-CIO California Labor Federation,35
 AFL-CIO Housing Investment Trust,26
 California Nurses Association/ National Nurses United,24
-"Jewish Federation of Greater Los Angeles, the Jewish Federation of Greater Santa Barbara",18
 "Black Brant Group, the Cal-ore Wetlands and Waterfowl Council",18
+"Jewish Federation of Greater Los Angeles, the Jewish Federation of Greater Santa Barbara",18
 California Council/American Society of Landscape Architects,15
 California Nurses Association/ National Nurses Organizing Committee,15
 Issue | | |days |days,15
@@ -61,6 +61,7 @@ Safari Club International/Safari Club International Foundation,6
 Southland Partnership Corporation/P.O.W.E.R. Collaborative Network,6
 Alameda County Juvenile Justice/Delinquency Prevention Commission,5
 Apartment Association of San Fernando Valley/Ventura County,5
+"Bay, Torrance, Tehama County, Tulare County, Ventura",5
 "California Communities Against Toxics, Planning and Conservation League",5
 California Nurses Association/National Nurses United,5
 California Nurses Association/National Nurses United (CNA),5
@@ -77,7 +78,6 @@ Ocean Voyage Institute/Project Kaisei,5
 Pacific Coast Federation of Fishermen's Associations/Institute for Fisheries Resources,5
 Registered Nurses of the California Nurse Association/National Nurses,5
 Surfrider Foundation West LA/Malibu Chapter,5
-"Bay, Torrance, Tehama County, Tulare County, Ventura",5
 AFL-CIO California Tax Reform Association,4
 AFL-CIO California Teachers Association,4
 AFL-CIO Cement Masons,4
@@ -91,7 +91,10 @@ American Staffing Association/California Staffing,4
 American Trucking Associations' Agricultural Food Transporters Conference and Intermodal Motor Carrier Conference,4
 "Appvion Holding Corp/Appvion Operations, Inc",4
 Arizona State University Planning and Conservation League Positive Energy,4
+Benicia. California Specialty Extrusion Corporation,4
 Board of Directors Art Naldoza,4
+Brady Campaign and Brady California,4
+"Brady Campaign to Prevent Violence, United with the Million",4
 Calif. Municipal Utilities Assn.Sierra Club of California,4
 California Association of Clerks and Elections Officials California State Association of Counties Counties of Alameda,4
 California Association of Councils of Governments/Self Help Counties Coalition,4
@@ -132,7 +135,6 @@ San Mateo County/Silicon Valley Film Commission,4
 Sierra Club California Coastal Committee,4
 "Sierra Club California, Planning and Conservation League",4
 UAW 2865 Joint Council/Executive Board,4
-Benicia. California Specialty Extrusion Corporation,4
 1621 International Brotherhood of Paintes and Allied Trades JJJ Floor Covering,3
 18|8 Fine Men's Hair Salon of Playa Vista,3
 "1heartcares of LA Jolla, San Diego, Del Mar, Oceanside and LA Mesa",3
@@ -151,10 +153,13 @@ American Federation of Teachers California Federation of Teachers,3
 "Audubon California, Defenders of Wildlife, The Nature",3
 "Audubon Society, The Nature Conservancy, The Trust for",3
 BSA|The Software Alliance,3
+"Bennett, Samuelsen, Reynolds, Allard, Cowperthwaite, and Gelini",3
 "Better Choices, Inc/Ready for Life Foster Agency",3
+"Black Brant Group, the California Bowmen Hunters/state Archery Association",3
 Board of Directors/Mendocino Coast Healthcare District,3
 Board of Equalization Chair Betty Yee,3
 Board of Governors of the California Community Colleges/Chancellor's Office,3
+Brady Campaign for the Prevention of Gun Violence United,3
 California Association of Health Plans and the Association of California Life and Health Insurance Companies are,3
 California Association of Joint Powers Association,3
 "California Association of Public Hospitals and Health Systems, California Association of Social Rehabilitation Agencies",3
@@ -241,8 +246,6 @@ Santa Clara County Victim/Witness Assistance Center,3
 United Nurse Association of California/Union of Health Care,3
 University of San Francisco Seed Library at Gleeson Library/Geschke Center,3
 Women's Policy Institute/Women's Foundation of California,3
-"Bennett, Samuelsen, Reynolds, Allard, Cowperthwaite, and Gelini",3
-"Black Brant Group, the California Bowmen Hunters/state Archery Association",3
 ", Greater Los Angeles, and Orange County",2
 "350: Bay Area Action, Butte County, Conejo, San Fernando Valley, Humboldt, Sacramento, San Diego, SoCal Climate Action, South Bay Los Angeles, Southland Legislative Alliance, and Ventura County Climate Hub",2
 "350: Bay Area Action, Petaluma, Sacramento, SoCal Climate Action, and Ventura",2
@@ -329,8 +332,13 @@ AssociationCDF Firefighters,2
 "Atascadero, Chico, Colfax, Elk Grove, Fairfield, Folsom, Grass Valley, Lincoln, Nevada City, Orland, Oroville, Portola, Rancho Cordova, Red",2
 Baldwin Park City Council Susan Rubio,2
 Bay Area Electric Railroad Museum/Western Railway Museum,2
+"Bernardino, Orange, Riverside, Imperial, and Inyo Counties",2
+"Black Brant Group, the Blood Origins, INC",2
+"Black Brant Group, the Blue Seas Fabrication",2
+"Black Brant Group, the California Cattlemen's Association",2
 Bluewater Network/Friends of the Earth,2
 Both the California Federation of Teachers (CFT),2
+"Brady Campaign to Prevent Gun Violence, ""Data",2
 "Breast Cancer Fund, California League of California Voters, Environment California, Sierra Club",2
 Buddiga Family Allergy | Asthma | Skin | Immunology,2
 CA Association of Realtors CA Municipal Utilities Association,2
@@ -540,10 +548,6 @@ U.S. Coast Guard Chief Petty Officers Association and Enlisted Association,2
 Union Bet Tzedek Legal Services,2
 Walnut Creek Planning and Conservation League Sealed Air Corporation,2
 West Coast Traffic School/Orange County,2
-"Bernardino, Orange, Riverside, Imperial, and Inyo Counties",2
-"Black Brant Group, the Blood Origins, INC",2
-"Black Brant Group, the Blue Seas Fabrication",2
-"Black Brant Group, the California Cattlemen's Association",2
 . ACLHIC and CMTA,1
 1 |UNKNOWN |Final |YES |UNKNOWN|UNKNOW|UNKNOW|NO |NONE,1
 "21, Engineers and Scientists of CA, IFPTE Local 20, International Longshore and Warehouse Union",1
@@ -913,17 +917,37 @@ Bay Area Action & Peninsula Conservation Center Foundation CALPIRG,1
 Bay Area Immigrant Rights Coalition |Coalition for Humane Immigrant,1
 "Bay Area Residents for Responsible Development, Planning and Conservation League, Richmond",1
 Bay Area Stormwater Management Agencies Assoc. Calpirg,1
+"Bay Area Water Supply and Conservation Agency, California Water Service Company",1
+"Bay Institute, The California Central Valley Flood Control Association",1
+"Bay, Healdsburg, Hermosa Beach, Highland, Huron, Laguna Hills, Lakewood, Lathrop, Livingston, Lodi, Long Beach, Los Altos Hills, Madera, Merced, Monterey Park, Moreno Valley, Mountain View, Murrieta, Newman, Norwalk, Pamona, Pasadena, Pinole, Placentia, Rancho Cucamonga, Red Bluff, Redding, Redwood City, Santa Clara, Santa Rosa, Signal Hill, South San",1
+"Bay, Ojai, Palm Desert, Palo Alto, Paso Robles, Pismo Beach, Portola, Poway, Rancho",1
+"Bay, Palm Springs/Desert, Palos Verdes/South Bay, Sacramento, San Diego County, San Francisco, Southern Pacific Region, Temecula Valley, Ventura",1
+"BayBio, California Small Business Association, and National Tax Limitation Committee",1
+Bayview NOW of Newport Beach and Los Angeles NOW,1
 Beach | |Rohnert Park City,1
 Beach | |of,1
 Beach |El Dorado Hills |Sac. Metropolitan,1
 "Benicia Housing Authority, Bet Tzekek",1
+Berkeley High School (Alameda Co)Paramount High School (Los),1
+"Berkeley, Livermore, and West Hollywood",1
+"Berkeley, West Hollywood and Santa Monica",1
+"Bernardino, San Joaquin, San Luis Obispo, San Mateo, Santa Clara, Santa Cruz, Shasta, Solano, Sonoma, Stanislaus, Ventura, Yolo, Yuba",1
+"Bernardino, Upland, Yorba Linda",1
 Bet Tzedek Legal Services and Coalition to Abolish Slavery and Trafficking,1
 "Bet Tzedek, the California Advocates for Nursing Home Reform, Disability Rights California, Justice in Aging, Senior and Disability Action SF, and Western Center on Law & Poverty",1
 Beverly Community Hospital Association/Beverly Hospital,1
 Beverly Hills Transfer & Storage |Nor-Cal Moving Services,1
 Bill of Rights Defense Committee / Defending Dissent Foundation,1
+"Black Brant Group, The Botswana Wildlife Producers Association (BWPA)",1
 "Black Brant Group, The California Bowmen Hunters/ State Archery Association",1
+"Black Brant Group, The California Deer Association",1
+"Black Brant Group, The California Rice Commission",1
+"Black Brant Group, The Suisun Resource Conservation District",1
+"Black Brant Group, the Burbank Police Officers' Association",1
+"Black Brant Group, the California Bowman Hunters",1
 "Black Brant Group, the California Bowman Hunters Association and State Archery Association",1
+"Black Brant Group, the California Farm Bureau Federation",1
+"Black Brant Group, the California Sportsman's Lobby, Inc",1
 "Blue Chip Moving & Storage, Inc. |North Bay Moving & Storage",1
 Blue Cross of California CalChamber,1
 Blue Cross of California and FHP/Take,1
@@ -961,11 +985,13 @@ Both Pacific Gas and Electric and Southern,1
 "Both Pacific High School, Inc. and Private",1
 Both TURN and the California Community Technology Policy Group,1
 Both the Colusa Unified School,1
+Brady Campaign and Brady Campaign California,1
 "Brady Campaign to Prevent Gun Violence, Brotherhood Crusade",1
 Brady Company / Central California Inc,1
 "Brady Company/Central California, Inc",1
 "Brady Company/Los Angeles, Inc",1
 "Brady Company/San Diego, Inc",1
+Brady United Against Gun Violence (National) and Brady California,1
 "Brandt Company, Inc. Brawley Beef",1
 "Breast Cancer Prevention Partners, California Association of Environmental Health Administrators, California Communities Against Toxics, California League Of Conservation Voters, California New Car Dealers Association",1
 "Breathe California of Los Angeles County, Climate Resolve, Coalition for Clean Air, Environmental Defense Fund, MoveLA, Pacific Merchant Shipping Association",1
@@ -2092,26 +2118,6 @@ the Advancement of Colored People Coastwalk California,1
 "the American GI Forum of California, American Legion-Department of California, AMVETS-Department of California, California Association of County Veterans Service Officers, California State Commanders Veterans Council, National Guard Association of California, and the Vietnam Veterans of America-California State Council",1
 the Environment |City of Laguna Niguel |City of Sausalito,1
 the Environment |City of Lake Forest |City of Scotts Valley,1
-"Bay Area Water Supply and Conservation Agency, California Water Service Company",1
-"Bay Institute, The California Central Valley Flood Control Association",1
-"Bay, Healdsburg, Hermosa Beach, Highland, Huron, Laguna Hills, Lakewood, Lathrop, Livingston, Lodi, Long Beach, Los Altos Hills, Madera, Merced, Monterey Park, Moreno Valley, Mountain View, Murrieta, Newman, Norwalk, Pamona, Pasadena, Pinole, Placentia, Rancho Cucamonga, Red Bluff, Redding, Redwood City, Santa Clara, Santa Rosa, Signal Hill, South San",1
-"Bay, Ojai, Palm Desert, Palo Alto, Paso Robles, Pismo Beach, Portola, Poway, Rancho",1
-"Bay, Palm Springs/Desert, Palos Verdes/South Bay, Sacramento, San Diego County, San Francisco, Southern Pacific Region, Temecula Valley, Ventura",1
-"BayBio, California Small Business Association, and National Tax Limitation Committee",1
-Bayview NOW of Newport Beach and Los Angeles NOW,1
-Berkeley High School (Alameda Co)Paramount High School (Los),1
-"Berkeley, Livermore, and West Hollywood",1
-"Berkeley, West Hollywood and Santa Monica",1
-"Bernardino, San Joaquin, San Luis Obispo, San Mateo, Santa Clara, Santa Cruz, Shasta, Solano, Sonoma, Stanislaus, Ventura, Yolo, Yuba",1
-"Bernardino, Upland, Yorba Linda",1
-"Black Brant Group, The Botswana Wildlife Producers Association (BWPA)",1
-"Black Brant Group, The California Deer Association",1
-"Black Brant Group, The California Rice Commission",1
-"Black Brant Group, The Suisun Resource Conservation District",1
-"Black Brant Group, the Burbank Police Officers' Association",1
-"Black Brant Group, the California Bowman Hunters",1
-"Black Brant Group, the California Farm Bureau Federation",1
-"Black Brant Group, the California Sportsman's Lobby, Inc",1
 "LOCAL 684, AND LOCAL 1245",0
 "Orange County Central Labor Council, UFCW",0
 "Orange County Central Labor Council, UFCW Local 324",0
