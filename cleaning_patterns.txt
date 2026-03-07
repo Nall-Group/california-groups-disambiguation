@@ -81,6 +81,27 @@
 (?i)\s*\(Fall\)\s*$
 (?i)\s*\(pending\)\s*$
 
+# Trailing stance/procedural annotations in parens - END
+(?i)\s*\(concerns?\)\s*$
+(?i)\s*\(neutral\)\s*$
+(?i)\s*\(watch\)\s*$
+(?i)\s*\(with\)\s*$
+(?i)\s*\(in\)\s*$
+(?i)\s*\(Unless[^)]*\)\s*$
+(?i)\s*\(Judicial discretion[^)]*\)\s*$
+
+# Trailing "--" or "-" stance/procedural annotations - END
+(?i)\s*-{1,2}\s*Neutral\s*$
+(?i)\s*-{1,2}\s*END\s*$
+(?i)\s*-{1,2}\s*Oppose\s*$
+(?i)\s*-\s*Verified\b.*$
+
+# Trailing "also" metadata - END
+(?i)\s+also\s*$
+
+# Trailing bare date in parens like (5/22/98) or (6/14/07) - END
+\s*\(\d{1,2}/\d{1,2}/\d{2,4}\)\s*$
+
 # Trailing "(N letters)" or "(N individuals)" metadata suffix - END
 (?i)\s*\(\d+\s+(?:letters|individuals)\)\s*$
 (?i)\s*-\s*\(\d+\s+(?:letters|individuals)\)\s*$
