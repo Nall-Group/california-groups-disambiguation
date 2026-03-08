@@ -106,6 +106,32 @@
 (?i)\s*\(\d+\s+(?:letters|individuals)\)\s*$
 (?i)\s*-\s*\(\d+\s+(?:letters|individuals)\)\s*$
 
+# Trailing "None to date" suffix (with or without space) - END
+(?i)(?<=\S)[,\s]*None to date\s*$
+
+# Trailing "- Oppose Unless" or similar stance annotations with dash - END
+(?i)\s*-\s*Oppose Unless.*$
+
+# Trailing procedural parens: (press release), ("approve"), (co-ssource), (co-source), etc. - END
+(?i)\s*\(press release\)\s*$
+(?i)\s*\("approve"\)\s*$
+(?i)\s*\(co-?s?source\)\s*$
+(?i)\s*\(\d+\s+property owners?\)\s*$
+(?i)\s*\(club membership[^)]*\)\s*$
+(?i)\s*\(as to[^)]*\)\s*$
+(?i)\s*\(which consists[^)]*\)\s*$
+(?i)\s*\(re:[^)]*\)\s*$
+
+# Trailing ", this bill" or ", this" fragment - END
+(?i),?\s*this bill\s*$
+(?i),\s*this\s*$
+
+# Trailing bare "0" artifact - END
+(?i)\s+0\s*$
+
+# Trailing date in square brackets like [May 22, 2012] - END
+(?i)\s*\[(?:January|February|March|April|May|June|July|August|September|October|November|December)\s+\d{1,2},?\s*\d{4}\]\s*$
+
 # Trailing "Unknown" suffix (with or without space/comma, requires preceding content) - END
 (?i)(?<=\S)[,\s]*Unknown\s*$
 
