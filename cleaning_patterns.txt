@@ -109,6 +109,21 @@
 # Trailing "Unknown" suffix (with or without space/comma, requires preceding content) - END
 (?i)(?<=\S)[,\s]*Unknown\s*$
 
+# Trailing procedural annotations in parens - END
+(?i)\s*\([^)]*see attach[^)]*\)\s*$
+(?i)\s*\(only if\)\s*$
+(?i)\s*\(cash bond[^)]*\)\s*$
+(?i)\s*\([^)]*small businesses\)\s*$
+(?i)\s*\(payments in nature[^)]*\)\s*$
+(?i)\s*\(lobbying expense[^)]*\)\s*$
+(?i)\s*\(with suggestions\)\s*$
+(?i)\s*\(testified\)\s*$
+(?i)\s*\(per\)\s*$
+(?i)\s*\(if amended\)\s*$
+
+# Trailing ", if" fragment - END
+(?i),\s*if\s*$
+
 # Trailing "(Month Day" date fragment (e.g. "(July 10", "(April 23") - END
 (?i)\s*\((?:January|February|March|April|May|June|July|August|September|October|November|December)\s+\d+\s*$
 
