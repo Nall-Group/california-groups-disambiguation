@@ -59,13 +59,13 @@ AFL-CIO Judy Michaels,6
 "American of Federal, State, County and Municipal Employees, AFL-CIO Peace Officers Research Association of California",6
 CA Assoc. of Marriage and Family,6
 Children's Advocacy Institute/University of San Diego,6
+Cities of Arcadia,6
+Cities of: Agoura Hills,6
 Insurance Commissioner Ricardo Lara/California Department of Insurance,6
 Jefferson Smurfit Corporation/Container Co. of America,6
 "National Lawyers Guild, San Francisco/Bay Area Chapter",6
 Safari Club International/Safari Club International Foundation,6
 Southland Partnership Corporation/P.O.W.E.R. Collaborative Network,6
-Cities of Arcadia,6
-Cities of: Agoura Hills,6
 Alameda County Juvenile Justice/Delinquency Prevention Commission,5
 Apartment Association of San Fernando Valley/Ventura County,5
 "Bay, Torrance, Tehama County, Tulare County, Ventura",5
@@ -75,6 +75,8 @@ California Nurses Association/National Nurses United (CNA),5
 "California Nurses Association/National Nurses United, AFL-CIO",5
 California Teachers Association/Community College Association,5
 Child Abuse Prevention Center/California Family Resource Association,5
+Cities of Oakland,5
+"Cities of: Adelanto, Agoura Hills, American Canyon, Antioch, Arvin, Atascadero, Azusa, Bell Gardens, Bellflower, Belmont, Benicia, Berkeley, Beverly Hills, Bishop, Blythe, Brea, Brisbane, Burbank, Burlingame, California City, Calistoga, Camarillo, Carlsbad, Carmel-by-the-Sea, Carson, Chowchilla, Citrus Heights, Clayton, Cloverdale, Clovis, Coalinga, Colfax, Commerce, Concord, Costa Mesa, Cotati, Covina, Cypress, Daly City, Diamond Bar, Dixon, El Cajon, El Segundo, Emeryville, Encinitas, Exeter, Fairfield, Folsom, Fontana, Fortuna, Foster City, Fountain Valley, Fowler, Fremont, Fullerton, Glendora, Grand Terrace, Greenfield, Gridley, Guadalupe, Half Moon Bay, Hanford, Healdsburg, Hermosa Beach, Hesperia, Highland, Hollister, Huntington Beach, Huntington Park, Huron, Imperial Beach, Irvine, Irwindale, Jackson, Kingsburg, La Palma, La Puente, La Verne, Lafayette, Laguna Beach, Laguna",5
 City of San Diego State Board of Equalization Burbank Chamber of Commerce Aris Helicopters,5
 City of Windsor City of Arcata Councilmember,5
 County and Municipal Employees California Labor Federation,5
@@ -87,8 +89,6 @@ Ocean Voyage Institute/Project Kaisei,5
 Pacific Coast Federation of Fishermen's Associations/Institute for Fisheries Resources,5
 Registered Nurses of the California Nurse Association/National Nurses,5
 Surfrider Foundation West LA/Malibu Chapter,5
-Cities of Oakland,5
-"Cities of: Adelanto, Agoura Hills, American Canyon, Antioch, Arvin, Atascadero, Azusa, Bell Gardens, Bellflower, Belmont, Benicia, Berkeley, Beverly Hills, Bishop, Blythe, Brea, Brisbane, Burbank, Burlingame, California City, Calistoga, Camarillo, Carlsbad, Carmel-by-the-Sea, Carson, Chowchilla, Citrus Heights, Clayton, Cloverdale, Clovis, Coalinga, Colfax, Commerce, Concord, Costa Mesa, Cotati, Covina, Cypress, Daly City, Diamond Bar, Dixon, El Cajon, El Segundo, Emeryville, Encinitas, Exeter, Fairfield, Folsom, Fontana, Fortuna, Foster City, Fountain Valley, Fowler, Fremont, Fullerton, Glendora, Grand Terrace, Greenfield, Gridley, Guadalupe, Half Moon Bay, Hanford, Healdsburg, Hermosa Beach, Hesperia, Highland, Hollister, Huntington Beach, Huntington Park, Huron, Imperial Beach, Irvine, Irwindale, Jackson, Kingsburg, La Palma, La Puente, La Verne, Lafayette, Laguna Beach, Laguna",5
 AFL-CIO California Tax Reform Association,4
 AFL-CIO California Teachers Association,4
 AFL-CIO Cement Masons,4
@@ -133,6 +133,14 @@ California Teachers Association Community College Association,4
 Center for Public Interest Law/Children's Advocacy Institute,4
 Center/Pathways Domestic Violence Program,4
 Children's Advocacy Institute/Center for Public Interest Law,4
+"Christi Baker, Chrysalis Consulting Group, LLC",4
+Cities of Benicia,4
+"Cities of Benicia, Lakewood, Stockton",4
+Cities of Carlsbad,4
+"Cities of Thousand Oaks, Encinitas, Los Angeles, Norwalk, Poway, San Carlos, San Luis Obispo, Santa Maria, Signal Hill, Tracy Kemnitzer, Dickinson, Anderson & Barron",4
+"Cities of: Arcadia, Bellflower, Carlsbad, Chico, Chino",4
+Cities of: Downey,4
+"Cities of: Long Beach, Palm Desert, Poway, Sacramento, San",4
 "Citizens Against Lawsuit Abuse of Central California, Los",4
 "Citizens Against Lawsuit Abuse of Central California, Northern California, Orange County, San Diego and Silicon",4
 "Citizens Commission on Human Rights (established by the Church of Scientology), Los Angeles/Hollywood Chapter",4
@@ -159,15 +167,8 @@ San Mateo County/Silicon Valley Film Commission,4
 Sierra Club California Coastal Committee,4
 "Sierra Club California, Planning and Conservation League",4
 "Southern California Air Quality Alliance, California Manufacturers' Association",4
+"Tri-City Prevention Collaboration (Cities of Carlsbad, Oceanside & Vista)",4
 UAW 2865 Joint Council/Executive Board,4
-Cities of Benicia,4
-"Cities of Benicia, Lakewood, Stockton",4
-Cities of Carlsbad,4
-"Cities of Thousand Oaks, Encinitas, Los Angeles, Norwalk, Poway, San Carlos, San Luis Obispo, Santa Maria, Signal Hill, Tracy Kemnitzer, Dickinson, Anderson & Barron",4
-"Cities of: Arcadia, Bellflower, Carlsbad, Chico, Chino",4
-Cities of: Downey,4
-"Cities of: Long Beach, Palm Desert, Poway, Sacramento, San",4
-"Christi Baker, Chrysalis Consulting Group, LLC",4
 1621 International Brotherhood of Paintes and Allied Trades JJJ Floor Covering,3
 18|8 Fine Men's Hair Salon of Playa Vista,3
 "1heartcares of LA Jolla, San Diego, Del Mar, Oceanside and LA Mesa",3
@@ -234,7 +235,19 @@ California Thoroughbred Breeders Association and Pacific Quarter Horse Racing As
 "Casa de Amparo, Children's Hospital Los Angeles",3
 Center for Public Interest Law/Children's Advocacy Institute University of San Diego,3
 Cerritos Community College District/Cerritos College,3
+"Chief's of Milpitas, El Monte, Monterey Park, Ontario, Brea, Palms Springs",3
+"Chiefs of Police of: Alhambra, Azusa, Baldwin Park, El Monte, Los Angeles, Monterey Park, and San Gabriel",3
+"Chino Hills, Laguna Hills, Santa Fe Springs",3
 Church of Scientology - Los Angeles/Hollywood Chapter,3
+Cities of Alhambra,3
+Cities of Culver City,3
+Cities of El Cajon,3
+Cities of Los Angeles,3
+"Cities of: Berkeley, Claremont, Culver City, Cupertino, Del",3
+"Cities of: Blue Lake, Burbank, Chula Vista, El Centro, Huntington Beach, Lakewood, Los Angeles, Sacramento, San Marcos, Visalia, and Vista",3
+"Cities of: Calabasas, Dana Point, El Segundo, Hermosa Beach, Huntington",3
+"Cities of: Camarillo, Chino Hills, Rancho Cucamonga",3
+"Cities of: Merced, Chula Vista, El Cajon, Modesto, Barstow, Ceres",3
 "Citizens Commission on Human Rights, L.A./Hollywood Chapter",3
 City and County of Sacramento Hunan Rights/Fair Housing Commission,3
 City of Buelton Towns of Yucca Valley,3
@@ -247,6 +260,7 @@ City of Sacramento City of San Bernardino,3
 City of South El Monte City of Atascadero,3
 Clare|Matrix,3
 "Coalition for Engaged Education, C/FORWARD Program",3
+County of Cities of Anaheim,3
 County of County of San Diego,3
 County of Santa Barbara and County of Ventura,3
 County of Santa Clara County of Los Angeles,3
@@ -276,6 +290,7 @@ Indonesian Parrot Project/Project Bird Watch,3
 Jefferson Smurfit Corporation/Container Corporation of America,3
 "Kids in Common, a program of Planned Parenthood Mar Monte",3
 Ladbroke Racing Association/Pacific Racing Association,3
+League of California Cities Cities of: Alameda,3
 "League of California Cities, Sierra Club California",3
 Mark Wheetley Friends of Redding Library Friends of the Camarillo Library Howard Jarvis Taxpayers Association League of California Cities Library Systems & Services,3
 Mission Lodge - Alzheimer/Dementia Center,3
@@ -304,18 +319,6 @@ Santa Clara County Victim/Witness Assistance Center,3
 United Nurse Association of California/Union of Health Care,3
 University of San Francisco Seed Library at Gleeson Library/Geschke Center,3
 Women's Policy Institute/Women's Foundation of California,3
-Cities of Alhambra,3
-Cities of Culver City,3
-Cities of El Cajon,3
-Cities of Los Angeles,3
-"Cities of: Berkeley, Claremont, Culver City, Cupertino, Del",3
-"Cities of: Blue Lake, Burbank, Chula Vista, El Centro, Huntington Beach, Lakewood, Los Angeles, Sacramento, San Marcos, Visalia, and Vista",3
-"Cities of: Calabasas, Dana Point, El Segundo, Hermosa Beach, Huntington",3
-"Cities of: Camarillo, Chino Hills, Rancho Cucamonga",3
-"Cities of: Merced, Chula Vista, El Cajon, Modesto, Barstow, Ceres",3
-"Chief's of Milpitas, El Monte, Monterey Park, Ontario, Brea, Palms Springs",3
-"Chiefs of Police of: Alhambra, Azusa, Baldwin Park, El Monte, Los Angeles, Monterey Park, and San Gabriel",3
-"Chino Hills, Laguna Hills, Santa Fe Springs",3
 ", Greater Los Angeles, and Orange County",2
 "350: Bay Area Action, Butte County, Conejo, San Fernando Valley, Humboldt, Sacramento, San Diego, SoCal Climate Action, South Bay Los Angeles, Southland Legislative Alliance, and Ventura County Climate Hub",2
 "350: Bay Area Action, Petaluma, Sacramento, SoCal Climate Action, and Ventura",2
@@ -562,17 +565,58 @@ Central San Fernando Valley Contra Costa,2
 "Chambers of Commerce: Brea, Camarillo, El Centro, Fullerton, Goleta, Greater Conejo Valley, Irwindale, Irvine, Long Beach, Oxnard, Palm Desert, Rancho, Redondo, San Gabriel Valley Regional, and Simi Valley",2
 Chambers of Commerce: California Chamber of Commerce,2
 "Chief of Police, Town of Los Gatos/City of Monte Sereno",2
+"Cites of Bellflower, Carlsbad, Carson, Cathedral City, Ceres, Cerritos, Chula Vista, Concord, Corona, Downey, El Cajon, El Monte, Escalon, Escondido, Gilroy, Hayward, Huntington Park, Lancaster, Lemon Grove, Loma Linda, Monrovia, Newport Beach, Norco, Oxnard, Petaluma, Poway, Roseville, San Bernardino, Santa Clarita, Santa Maria, Santa Rosa, Stockton, Thousand Oaks, Vista, West Covina",2
+Cities of Alturas,2
+"Cities of American Canyon, Calistoga, Napa, St. Helena",2
+Cities of Antioch,2
+Cities of Apple Valley,2
+"Cities of Camarillo, Commerce, La Mirada, Moreno Valley, Norwalk, Paramount, Santa Fe Springs, South Gate, (co-sources)",2
+Cities of Carpinteria,2
+"Cities of Cerritos, Costa Mesa, Lakewood, Santa Barbara",2
+"Cities of Novato, Tustin, San Bernardino, Sunnyvale & Victorville",2
+Cities of San Jose,2
+Cities of: Adelanto,2
+"Cities of: Alameda, Albany, Dublin, Emeryville, Fremont Hayward Livermore, Newark, Oakland, Piedmont, Pleasanton, San Leandro, and Union City",2
+Cities of: American Canyon,2
+Cities of: Angeles,2
+Cities of: Angels,2
+"Cities of: Apple Valley, Cathedral City, Hermosa Beach, San Diego",2
+"Cities of: Arroyo Grande, Berkeley, Clovis, Dublin, Garden",2
+"Cities of: Azusa, Berkeley, Brawley, Burbank, Calistoga, Capitola, Ceres, Chico, Colma, Coronado, Emeryville, Fort Bragg, Lodi, Los Altos, Los Angeles, Oakland, Pasadena, Riverside, Salinas, San Diego, San Jose, San Mateo, San",2
+"Cities of: Bellflower, Cathedral City, Culver City, El Segundo, Gardena, Gilroy, Redwood City, Sacramento, San Gabriel, San Luis Obispo, Santa Barbara, Santa Fe Springs, Consolidated Communications Inc",2
+Cities of: Brea,2
+"Cities of: Brea, Camarillo, Foster City, Glendale, Huntington Beach, Moorpark, Pasadena, Redwood City, Sacramento, San Clemente, Salinas, Vista, and West Hollywood",2
+"Cities of: Brea, Daly City, Salinas, Santa Monica",2
+"Cities of: Brisbane, Hercules, and Los Gatos",2
+Cities of: Ceres,2
+"Cities of: Cerritos, El Cajon, Fremont, Moreno Valley, Santa",2
+"Cities of: Chino, Chino Hills, Corona, Covina, Dana Point, Davis, Inglewood. La Verne, Ontario, Pomona, Redondo",2
+"Cities of: Cotati, Healdsburg, Sonoma",2
+"Cities of: Mission Viejo, Placentia, Brea, Buena Park, San",2
+Cities of: Pacific Grove,2
+"Cities of: Pomona, Chino, Ontario, and Fontana",2
+"Cities of: Sacramento, Signal Hill",2
 "Citizens Against Lawsuit Abuse - Orange County, Central Cal and N. Cal",2
+"City of Alhambra, American Canyon, Bellflower, Carlsbad, Corona, Costa",2
+"City of Bell, Commerce, and Huntington Park",2
 City of Berkeley City of Cupertino,2
+City of Camarillo Cities of Rancho Cucamonga,2
 City of City of Rohnert Park,2
 City of City of Turlock,2
 City of Conservation League Sierra Club,2
 "City of La Mirada, California Manufacturers",2
+City of Laguna Hills Civil Justice Association of California California Joint Powers Insurance Authority League of California Cities,2
+City of Long Beach Cities of Pittsburg,2
+City of Los Angeles & San Jose,2
 City of Los Angeles County Sanitation Districts City of Lodi,2
+"City of Los Angeles, Oakland, and Sacramento",2
+City of Mountain View Counties of San Mateo,2
+City of Pasadena County of Contra Costa,2
 City of Vernon City of Whittier,2
 "Clara County, Shasta, Solano/Napa, Southern California, Stockton, Valley, Inc",2
 "Coachella Valley Association of Governments, Southern California Association of Governments",2
 Coalition California Professional Firefighters California School Employees,2
+Colton Redevelopment Agency Cities of Merced,2
 Committee of Interns and Residents/Service Employees International Union,2
 Communications |City of La Quinta |City of Santa Maria,2
 Community College Association/California Teachers Association,2
@@ -586,10 +630,13 @@ Contra Costa County Public Guardian/Conservators Department,2
 "Council for Environmental and Economic Balance, California Manufacturers and Technology",2
 County School Facilities Consortium |Tim Lewis Communities,2
 County and Municipal Employees (AFSCME) American Legion,2
+County of Cities of Adelanto,2
+County of Cities of Berkeley,2
 County of County of San Bernardino,2
 County of County of San Mateo,2
 County of County of Yolo,2
 County of Santa Clara Health Department (cont'd) County of San Luis Obispo Health Agency,2
+County of Yuba Cities of Barstow,2
 Courageous Resistance and Indivisible of the Desert,2
 "Dean Logan, Los Angeles County Registrar-Recorder/ County Clerk",2
 "Dean Logan, Los Angeles County Registrar-Recorder/County Clerk",2
@@ -653,11 +700,13 @@ Kings River Conservation District / Kings River Water Association,2
 LA County Solid Waste Management |Inc,2
 "LIUNA California Labor Federation, AFL-CIO",2
 League of California Cities California State Association of Counties California State Association of Counties City of Cupertino,2
+League of California Cities Sacramento Municipal Utility District Lake County LAFCO California Firefighters Cities of: Angeles,2
 "League of California Cities, Sierra Club",2
 Lompoc e Lake California Nurses Association California Police Chiefs Association Long Beach Police Officers Association Police Chief's of Milpitas,2
 MALDEF: Bet Tzedek Legal Services,2
 "Manuel Duran, Bet Tzedek Legal",2
 Mark Wheetley Friends of Redding Library Howard Jarvis Taxpayers Association League of California Cities Library Systems & Services,2
+"Mayors of the Cities of: Carmel-by-the-Sea, Del Rey Oaks, Monterey, Pacific Grove, Sand City, and Seaside",2
 "Mt. San Antonio College, EOPS/CARE Program",2
 Municipal Employees - United Nurses Associations of California- Union of Health Care Professionals Alameda Labor Council,2
 "National Assn for the Advancement of Colored People: California State Conference, Inglewood/South Bay Branch, Los Angeles County, Riverside Branch, Ventura County Branch",2
@@ -666,6 +715,7 @@ National Audubon Society (TURN) CALPIRG,2
 "National Organization for Women, San Gabriel Valley/Whittier Chapter",2
 "Nature Conservancy, The Planning and Conservation League",2
 Offense |§ 44011,2
+Orange County Division Cities of Arcadia,2
 "Organizations, California Hispanic Chambers of Commerce, Filipino-American Political Association, Latino Issues Forum, Mexican American Political Association",2
 Physicians for Progress Ventura County / Ventura Chapter Physicians for National Health Program,2
 Planned Parenthood Affiliates of CACommittee on Moral Concerns,2
@@ -708,6 +758,7 @@ Terra Linda High School/San Rafael (Marin County),2
 The Association of California Life and Health Insurance Companies (ACLHIC) and the National Association of Financial Advisors of California (NAIFA-California),2
 "The California Family Health Council, Planned Parenthood",2
 The Riley Center/Emergency Center,2
+"Tri-Valley Cities of Dublin, Livermore, Pleasanton, San Ramon",2
 Tri-Valley Regional Occupational Center/Program,2
 "U. C. San Diego, Center for Public Interest Law, Children's",2
 U.S. Coast Guard Chief Petty Officers Association and Enlisted Association,2
@@ -715,37 +766,7 @@ U.S. Coast Guard Chief Petty Officers Association and Enlisted Association,2
 Union Bet Tzedek Legal Services,2
 Walnut Creek Planning and Conservation League Sealed Air Corporation,2
 West Coast Traffic School/Orange County,2
-Cities of Alturas,2
-"Cities of American Canyon, Calistoga, Napa, St. Helena",2
-Cities of Antioch,2
-Cities of Apple Valley,2
-"Cities of Camarillo, Commerce, La Mirada, Moreno Valley, Norwalk, Paramount, Santa Fe Springs, South Gate, (co-sources)",2
-Cities of Carpinteria,2
-"Cities of Cerritos, Costa Mesa, Lakewood, Santa Barbara",2
-"Cities of Novato, Tustin, San Bernardino, Sunnyvale & Victorville",2
-Cities of San Jose,2
-Cities of: Adelanto,2
-"Cities of: Alameda, Albany, Dublin, Emeryville, Fremont Hayward Livermore, Newark, Oakland, Piedmont, Pleasanton, San Leandro, and Union City",2
-Cities of: American Canyon,2
-Cities of: Angeles,2
-Cities of: Angels,2
-"Cities of: Apple Valley, Cathedral City, Hermosa Beach, San Diego",2
-"Cities of: Arroyo Grande, Berkeley, Clovis, Dublin, Garden",2
-"Cities of: Azusa, Berkeley, Brawley, Burbank, Calistoga, Capitola, Ceres, Chico, Colma, Coronado, Emeryville, Fort Bragg, Lodi, Los Altos, Los Angeles, Oakland, Pasadena, Riverside, Salinas, San Diego, San Jose, San Mateo, San",2
-"Cities of: Bellflower, Cathedral City, Culver City, El Segundo, Gardena, Gilroy, Redwood City, Sacramento, San Gabriel, San Luis Obispo, Santa Barbara, Santa Fe Springs, Consolidated Communications Inc",2
-Cities of: Brea,2
-"Cities of: Brea, Camarillo, Foster City, Glendale, Huntington Beach, Moorpark, Pasadena, Redwood City, Sacramento, San Clemente, Salinas, Vista, and West Hollywood",2
-"Cities of: Brea, Daly City, Salinas, Santa Monica",2
-"Cities of: Brisbane, Hercules, and Los Gatos",2
-Cities of: Ceres,2
-"Cities of: Cerritos, El Cajon, Fremont, Moreno Valley, Santa",2
-"Cities of: Chino, Chino Hills, Corona, Covina, Dana Point, Davis, Inglewood. La Verne, Ontario, Pomona, Redondo",2
-"Cities of: Cotati, Healdsburg, Sonoma",2
-"Cities of: Mission Viejo, Placentia, Brea, Buena Park, San",2
-Cities of: Pacific Grove,2
-"Cities of: Pomona, Chino, Ontario, and Fontana",2
-"Cities of: Sacramento, Signal Hill",2
-"Cites of Bellflower, Carlsbad, Carson, Cathedral City, Ceres, Cerritos, Chula Vista, Concord, Corona, Downey, El Cajon, El Monte, Escalon, Escondido, Gilroy, Hayward, Huntington Park, Lancaster, Lemon Grove, Loma Linda, Monrovia, Newport Beach, Norco, Oxnard, Petaluma, Poway, Roseville, San Bernardino, Santa Clarita, Santa Maria, Santa Rosa, Stockton, Thousand Oaks, Vista, West Covina",2
+Western Riverside Council of Governments Cities of : Aliso Viejo,2
 . ACLHIC and CMTA,1
 1 |UNKNOWN |Final |YES |UNKNOWN|UNKNOW|UNKNOW|NO |NONE,1
 "21, Engineers and Scientists of CA, IFPTE Local 20, International Longshore and Warehouse Union",1
@@ -1043,6 +1064,7 @@ Association of California Water Agencies CA Special Districts Association CA Sta
 Association of California/Union of Health Care Professionals,1
 "Association of Clinical Social Work, California Nurses Association, California",1
 Association of College and Research Libraries Association of Research Libraries Elias H Botvinick,1
+Association of Monterey Bay Area Governments Cities of: Carmel by the Sea,1
 "Association of Regional Center Agencies, BRIDGE Housing, California Council for Affordable Housing , California Housing Consortium, EAH Housing, Jamboree, Non-Profit Housing Association of Northern California, Related California, Resources for Community Development",1
 Association of the California Independent Petroleum Association,1
 Association of |City of Laverne |City of Sierra Madre,1
@@ -1250,6 +1272,7 @@ CA Professional FirefightersCities of: Association,1
 "CA Public Parking Association, CA Firefighters",1
 CA Retired Teachers Association Association,1
 CA School Employees Association CA Association of Counties,1
+"CA State Assoc. of Counties,Cities of: Camarillo",1
 CA State Association of Counties (CSAC) California Professional Fire Fighters League of Women Voters of California Planning and Conservation League County of Contra Costa,1
 CA State Association of Counties CA State Sheriffs' Association Counties of: Los Angeles,1
 CA State Association of CountiesCA Bankers Association League of CA Cities,1
@@ -1602,6 +1625,7 @@ California Sportsman's Lobby Crossroads of the West Gun Shows,1
 "California Sportsman's Lobby, Inc., The California State Chapter - National Wild Turkey Federation",1
 "California Sportsman's Lobby, Inc., The Outdoor Sportsmen's Coalition of California",1
 "California Sportsman's Lobby, The Outdoor Sportsmen's Coalition of California",1
+California State Association of Counties Cities of Buena Park,1
 California State Association of Counties League of California Cities Urban Counties Caucus Counties of: Alameda,1
 "California State Association of Counties, Association of Low Wealth Schools",1
 "California State Association of Counties, California Special Districts Association",1
@@ -1745,13 +1769,172 @@ Charter |Beach |City of Thousand Oaks,1
 Charter |City of Long Beach |Francisco,1
 Charter |City of Manhattan |City of Stockton,1
 Charter |City of Maywood |City of Tracy,1
+Chief Information Officer Calaveras County Community Television Charter Communications,1
+"Chief Probation Officers for the Counties of Mariposa, Monterey, Sacramento, San Francisco, San Luis Obispo, Santa Barbara, Sutter",1
+Chief Probation Officers of California Rural County Representatives of California,1
+"Chief Probation Officers of California, California State",1
+Chief of Police from 31 Cities,1
 Chief |City of Live Oak |City of Sonoma,1
 Chief |City of Lomita |Francisco,1
 "Chiefs Association, the CA Public Defenders Association, the Chief",1
+Chiefs of Police for the Cities of Berkeley,1
+"Chiefs of Police of the Cities of Sand City, Monterey, Seaside, Scotts Valley, Oakland",1
+"Chiefs of Police of the Cities of Santa Maria, Livermore, Claremont, Glendora, Downey, Capitola, Rialto, Hemet, San Bernardino, Port Hueneme, Brawley, San Jose, Brentwood, Pomona, Rio Dell, Signal Hill",1
 Childrenos Advocacy Institute and California,1
 Childrenos Rights Council and Fatheros Rights and Equality,1
+"Chino, Chula Vista, Cloverdale, Cotati, Fairfax, Hayward, Healdsburg, Huntington Park, Monterey Park, Morgan Hill, Oakland, Petaluma, Pleasanton, Rialto, Rohnert Park, Sacramento, San Francisco, San Luis Obispo, San Mateo, Santa Cruz, Santa Monica, Santa Rosa, Sebastopol, Sonoma, South San Francisco, Stockton, Sunnyvale, West Hollywood, Contra",1
+Christine Mulholland and Allen Settle,1
+"Chula Vista, Carlsbad, Huntington Beach, Claremont, San",1
+Cites of Fountain Valley and Palo Alto,1
 Cities Association |City of Lakeport |City of Seal Beach,1
 Cities Association |City of Lakewood |City of Sebastopol,1
+"Cities of : Aliso Viejo, Arcadia, Banning, Bell Gardens, Burbank, Cerritos, Commerce, Covina, Downey, El Monte, Gardena, Inglewood, La Verne, Maywood, Monrovia, Montebello, Pico Rivera, San Bernardino, South El Monte, South Pasadena",1
+Cities of Alameda,1
+"Cities of Alameda, Long Beach, Monterey & Victorville",1
+Cities of Albany,1
+"Cities of Arcadia, Barstow, Berkeley, Brentwood, Chino. Chula Vista, Claremont, Concord, Costa Mesa, Culver City, Dana Point, El Cajon, Encinitas, Fontana, Hayward, Huntington Beach, Laguna Hills, Lakewood, Lompoc, Manhattan Beach, Merced, Moreno Valley, Mountain View, Oxnard, Poway, Rancho Cucamonga, Richmond, Riverside, San Carlos, San Jose, San Luis Obispo, San Rafael, Santa Barbara, Santa Clara, Santa Fe Springs, Santa Maria, Santa Rosa, Selma, Stockton, Sunnyvale, Tehachapi",1
+"Cities of Azusa, Burlingame. Daly City, Foster City, Glendale, Hermosa Beach, Irvine, La Canada Flintridge, Lake Forest, Loma Linda, Lomita, Manhattan Beach, Menlo Park, Milpitas, Mission Viejo, Monterey Park, Orange, Redondo Beach, Rolling Hills, Rolling Hills Estates, San Carlos, San Gabriel, San Marino, San Mateo, Santa Fe Springs, Stockton, Temple City, Carmel, Thousand Oaks, Torrance",1
+"Cities of Azusa, Burlingame. Daly City, Foster City, Glendale, Hermosa Beach, Irvine, La Canada Flintridge, Lake Forest, Loma Linda, Lomita, Manhattan Beach, Menlo Park, Milpitas, Monterey Park, Orange, Redondo Beach, Rolling Hills, Rolling Hills Estates, San Carlos, San Gabriel, San",1
+"Cities of Azusa, Burlingame. Daly City, Foster City, Glendale, Hermosa Beach, Irvine, La Canada Flintridge, Lake Forest, Loma Linda, Lomita, Manhattan Beach, Menlo Park, Milpitas, Monterey Park, Orange, Redondo Beach, Rolling Hills, Rolling Hills Estates, San Carlos, San Gabriel, San Marino, San Mateo, Santa Fe Springs, Temple City, Carmel, Thousand Oaks, Torrance",1
+Cities of Bakersfield,1
+Cities of Bell,1
+Cities of Buena Park,1
+Cities of Burbank,1
+Cities of Burbank and Glendale,1
+"Cities of Burbank, Claremont, Concord",1
+"Cities of Burbank, Claremont, Monterey",1
+Cities of Campbell,1
+Cities of Carlsbad and San Diego,1
+"Cities of Carmel-By-The-Sea, Del Rey Oaks, Marina, Monterey, Pacific Grove, Salinas, Sand, Seaside",1
+"Cities of Carmel-By-The-Sea, Del Rey Oaks, Marina, Monterey, Pacific Grove, Salinas, Sand, Seaside SB",1
+"Cities of Carmel-by-the-Sea, Del Rey Oaks, Gonzales, Greenfield, King City, Marina, Monterey, Pacific Grove, Salinas, Sand City, Seaside, Soledad",1
+"Cities of Carmel-by-the-Sea, Pacific Grove",1
+"Cities of Cathedral City, Coachella, Desert Hot Springs, Indio",1
+Cities of Cerritos,1
+Cities of Chico,1
+"Cities of Corona, Murrieta, Temecula",1
+"Cities of Costa Mesa, Moreno Valley, Newport Beach",1
+"Cities of Cupertino, Los Altos Hills, Monte Sereno, Saratoga",1
+Cities of Daly City,1
+"Cities of Downey, Norwalk, Signal Hill",1
+Cities of Emeryville,1
+Cities of Fontana and Torrance,1
+Cities of Hemet,1
+Cities of Hesperia and Upland,1
+"Cities of Hesperia, Indian Wells, Lakewood, Mendota, Rosemead, Sacramento, Salinas, Thousand Oaks",1
+"Cities of Hollister, Thousand Oaks",1
+"Cities of Imperial Beach, So. San Francisco, San Rafael & Sunnyvale",1
+Cities of Lomita,1
+Cities of Los Angeles & Palm Desert,1
+"Cities of Los Angeles, South Gate",1
+"Cities of Merced, Atwater, Long Beach. Monterey, Vista, Victorville",1
+Cities of Oceanside and Hemet,1
+Cities of Sunnyvale & Victorville,1
+"Cities of: Adelanto, Alameda, Chino Hills, Cloverdale, Dublin, Duarte, Eureka, Fremont, Goleta, Hesperia, Hillsborough, Indio, Indian Wells, Lake Elsinore, Lakeport, Livermore, Lodi, Montclair, Palmdale, Pismo Beach, Rancho Cucamonga, San Leandro, Thousand Oaks, Vallejo, and Walnut Creek",1
+"Cities of: Adelanto, Brisbane, Chino Hills, Clayton, Danville, Dublin, Fillmore, Foster City, Fremont, Gilroy, Los Altos, Milpitas, Monte Sereno,Moreno",1
+"Cities of: Adelanto, Brisbane, Clayton, Danville, Dublin, Fillmore, Fremont, Foster City, Gilroy, Los Altos, Milpitas, Monte Sereno, Moreno Valley, Ojai, Port",1
+"Cities of: Adelanto, Canyon Lake, Chino, Chino Hills, Colton, Diamond Bar, Eastvale, Fontana, Glendora, Grand Terrace, Highland, Jurupa Valley, Lakewood, Montclair, Monterey Park, Newport Beach, Norco, Palmdale, Rancho",1
+"Cities of: Agoura Hills, Anaheim, Atwater, Berkeley, Brentwood, Burbank, Culver City, Escalan, Escondido, Fort Bragg, Gardena, Laguna Niguel, Long Beach, Marina, Modesto, Montebello, Oceanside, Oxnard, Napa, Riverside, Sacramento, San Buenaventura, San Carlos, San",1
+"Cities of: Agoura Hills, Colton, Concord, Culver City, Cypress, Del Mar, El Centro, Fountain Valley, Fremont, Highland, Lakewood, Norwalk, Ontario, Rancho Cucamonga, Rancho Cordova, Sacramento, San Luis Obispo, Santa",1
+"Cities of: Alameda, Albany, Aliso Viejo, American Canyon, Arcadia, Azusa, Bakersfield, Bellflower, Benicia, Berkeley, Beverly Hills, Big Bear Lake, Brawley, Brentwood, Buena Park, Burbank, Calabasas, Camarillo, Capitola, Carpinteria, Chino, Chino Hills, Chula Vista, Citrus Heights, Claremont, Clayton, Clearlake, Cloverdale, Colfax, Concord, Corona Costa, Mesa, Capitola, Culver City, Cupertino, Cypress, Danville, Davis, Diamond Bar, Duarte, Dublin, Eastvale, El Centro, Elk Grove, Encinitas, Escalon, Fairfax, Farmersville, Fontana, Fortuna, Foster City, Fountain Valley, Fremont, Fresno, Garden Grove, Goleta, Gustine, Hanford, Hayward, Hemet, Hermosa Beach, Hesperia, Highland, Huntington Beach, Huntington Park, Indian Wells, Indio, Inglewood, Irvine, Jurupa Valley, King City, La Canada Flintridge, La Mirada, La Quinta, Lafayette, Laguna Beach, Laguna Hills, Lake Elsinore, Lakeport, Lakewood, Lathrop, Laverne, Livermore, Lodi, Lomita, Long Beach, Los Alamitos, Los Angeles, Los Banos, Mammoth Lakes, Manhattan Beach, Manteca, Martinez, Merced, Mill Valley, Menifee, Mission Viejo, Modesto, Monrovia, Montclair, Monterey, Moreno Valley, Morgan Hill, Mountain View, Murrieta, National City, Nevada City, Norco, Norwalk, Oakdale, Oakland, Oakley, Oceanside, Ontario, Orland, Pacific Grove, Palm Desert, Palmdale, Palos Verdes Estates, Paramount, Pasadena, Paso Robles, Petaluma, Pico Rivera, Piedmont, Pinole, Placentia, Placerville, Pleasant Hill, Pleasanton, Point Arena, Pomona, Rancho Cordova, Rancho Cucamonga, Rancho Palos Verdes, Ripon, Riverbank, Riverside, Rocklin, Rohnert Park, Rosemead, Roseville, Salinas, San Buenaventura, San Carlos, San Gabriel, San Jose, San Leandro, San Marcos, San Marino, San Mateo, San Pablo, San Rafael, Santa Ana, Santa Barbara, Santa Clarita, Santa Cruz, Santa Fe Springs, Santa Maria, Santa Monica, Santa Rosa, Santee, Scotts Valley, Shasta Lake, Signal Hill, Simi Valley, South Pasadena, South San Francisco, Sunnyvale, Thousand Oaks, Torrance, Turlock, Ukiah, Upland, Vacaville, Vallejo ,Vernon, Victorville, Vista, Walnut, West Covina, West Hollywood, Whittier, Yuba City, Yucca Valley, and Yucaipa",1
+"Cities of: Alameda, Albany, Arcata, Atascadero, Beverly Hills, Brentwood, Burbank, Camarillo, Cerritos, Cloverdale, Clovis, Concord, Cotati, Covina, Crescent City, Cupertino, Downey, East Palo Alto, Encinitas, Escondido, Eureka, Farmersville, Fort Bragg, Fountain Valley, Garden Grove, Glendale, Goleta, Half Moon Bay, La Mirada, Lafayette, Laguna Beach",1
+"Cities of: Albany, Dublin, Fremont Hayward Livermore, Pleasanton, San",1
+"Cities of: Alhambra, Arcadia, Carson, Cerritos, Claremont, Diamond Bar, Downey, Glendora, Industry, Lakewood, Lomita, Long Beach, Monterey Park, Norwalk, Palos Verdes Estates, Pasadena, Rancho Palos Verdes, Rosemead, San",1
+"Cities of: American Canyon, Alameda, Anaheim, Camarillo, Campbell, Chula Vista, Claremont, Coronado, Covina, Crescent City, Danville, Fillmore, Half Moon Bay, Hayward, Hercules, Hermosa Beach, Los Angeles, Manhattan Beach, Millbrae, Moreno Valley, Oakland, Pomona, Redondo Beach, San Bruno, San Diego, Santa Monica, Suisun City, Tehachapi, Temecula, Whittier",1
+"Cities of: American Canyon, Alameda, Anaheim, Camarillo, Campbell, Chula Vista, Claremont, Coronado, Covina, Crescent City, Danville, Fillmore, Half Moon Bay, Hayward, Hercules, Hermosa Beach, Manhattan Beach, Millbrae, Moreno",1
+"Cities of: American Canyon, Antioch, Apple Valley, Atherton, Azusa, Bellflower, Beverly Hills, Burlingame, Campbell, Ceres, Clayton, Cloverdale, Costa Mesa, Culver City, Danville, Diamond Bar, Encinitas, Fontana, Foster City, Fountain Valley, Fresno, Goleta, Gustine, Half Moon",1
+"Cities of: American Canyon, Belmont, Lakewood, Livermore, Long",1
+"Cities of: Anaheim, Beaumont, Burbank , Camarillo, Chino Hills, Cupertino, Downey , El Segundo, Garden Grove, Los Alamitos , Morgan Hill , Rancho Cucamonga , San Dimas, San Marcos, Santa Clarita, Thousand Oaks, Torrance , Vista",1
+"Cities of: Anaheim, Brea, Irvine, Laguna Hills, Laguna Woods, Mission Viejo, Newport Beach, Orange, Rancho Santa Margarita, Santa Ana, and Tustin",1
+"Cities of: Anaheim, Buena Park, Culver City, Moreno Valley, Roseville",1
+"Cities of: Anaheim, Irvine, Laguna Woods, Mission Viejo, Newport Beach, Orange, Rancho Santa Margarita, Santa Ana, and Tustin",1
+"Cities of: Apple Valley, Cathedral City, Hermosa Beach, Morgan",1
+"Cities of: Aradia, Bellflower, Carlsbad, Chico, Chino",1
+"Cities of: Aradia, Carlsbad, Chico, Chula Vista, Claremont, Culver City, El Cajon, Lakewood, Lompoc, Monterey, Moorpark, Moreno",1
+"Cities of: Arcadia, Azusa, Duarte, Glendora, Irwindale, La Verne, Los",1
+"Cities of: Arcadia, Bakersfield, Lakewood, Merced",1
+"Cities of: Arcadia, Burbank, Carson, Claremont, Culver City, El",1
+"Cities of: Arcadia, Carlsbad, Chico, Chula Vista, Claremont, Culver City, El",1
+"Cities of: Arcadia, Culver City, La Canada Flintridge, Lakewood, Los Angeles, Manhattan",1
+"Cities of: Arcadia, Fountain Valley, Moreno Valley and Signal Hill",1
+"Cities of: Arcadia, Lakewood, Los Angeles, Moreno Valley",1
+"Cities of: Avenal, Coalinga, Hanford, and San Joaquin",1
+Cities of: Azusa,1
+"Cities of: Azusa, Berkeley, Brawley, Burbank, Calistoga, Capitola, Ceres, Chico, Centro, El Cerrito, Emeryville, Fort Bragg, Hillsborough, King City, Lathrop, Livingston, Lodi, Los Altos, Mill Valley, Monterey, Napa, Novato, Pasadena, Riverside, Salinas, San Jose, San Mateo, San Rafael, Santa Monica, South San Francisco, Turlock, Union City, Vista, Wasco, City",1
+"Cities of: Azusa, Berkeley, Brawley, Burbank, Calistoga, Capitola, Ceres, Chico, Cloverdale, Colma, Cerrito, Emeryville, Fort Bragg, Hillsborough, King City, Lathrop, Livingston, Lodi, Los Altos, Los Angeles, Mill Valley, Monterey, Napa, Novato, Oakland, Pasadena, Riverside, Salinas, San Diego, San Jose, San",1
+"Cities of: Bakersfield, Lakewood",1
+Cities of: Baldwin Park,1
+"Cities of: Baldwin Park, Banning, Bradbury, Chino, Diamond Bar, Moreno Valley, Redlands, Riverside, Temple City, Upland",1
+"Cities of: Barstow, Chino Hills, Costa Mesa, Dana Point, Davis, El Cajon, Lake Elsinore, Los",1
+"Cities of: Bell Gardens, Lomita, Los Angeles, Rolling Hills",1
+"Cities of: Bell, Bellflower, Bell Gardens, Cerritos, Commerce, Culver City, Downey, Hawaiian Gardens, Lakewood, Lomita, Manhattan Beach, Montebello, Norwalk, Paramount, Pico Rivera, Santa Fe Springs, Signal Hill, Torrance, Whittier",1
+"Cities of: Bellflower, Cerritos, Downey, Lakewood, Norwalk, Pico Rivera, Signal Hill, South Gate, Vernon, and Whittier",1
+"Cities of: Bellflower, Downey, Signal HillCity of Rolling Hills",1
+"Cities of: Belmont, Brisbane, Burlingame, Daly City, East Palo Alto, Foster",1
+"Cities of: Belmont, Brisbane, Chino Hills, Dublin, Escalon, Fillmore, Gilroy, Los Altos, Milpitas, Monte Sereno, Moorpark, Moreno Valley, Newark, Ojai, Port Hueneme, Ripon, San Buenaventura, San Carlos, San Luis",1
+"Cities of: Belmont, Burlingame, Daly City, Foster City, Half Moon Bay, Menlo Park, Millbrae, Pacifica, Redwood City, San Bruno, San Carlos, San Mateo, South San",1
+"Cities of: Benicia, Chino Hills, Chula Vista, Dana Point, Los",1
+"Cities of: Benicia, Emeryville, Goleta, Oakland, Palmdale, West",1
+"Cities of: Berkeley, Claremont, Culver City, Cupertino, Del Mar, Los Angeles, Manhattan Beach, Merced, Palo Alto, Piedmont, Santa Barbara, Santa Monica, Thousand",1
+"Cities of: Berkeley, El Cerrito, Martinez, Richmond, and Sunnyvale",1
+"Cities of: Berkeley, Morgan Hill, Saratoga, and Solano Beach",1
+"Cities of: Berkeley,Davis, Morgan Hill, Saratoga, and Solano Beach",1
+"Cities of: Beverly Hills, Concord, Cupertino, Diamond Bar, Los Altos, San Marcos, and Sunnyvale",1
+"Cities of: Brea, Burlingame, Camarillo, Chico, Chino, Cloverdale, Colton, Corcoran, Delano, Dinuba, El Centro, Fontana, Fountain Valley, Hayward, Hesperia, La Habra, Lakeport, Los Alamitos, Manteca, Montclair, Palmdale, Rancho Cucamonga, Riverside, Roseville, San Bernardino, San Ramon, Santa Barbara, Santa Clarita, Temecula, Thousand Oaks, Tulare, Twentynine Palms, Yuba City",1
+"Cities of: Brentwood, Hercules, Lafayette, Martinez, Richmond, and San Pablo",1
+"Cities of: Brisbane, Burlingame, Daly City, Hayward, Mountain",1
+"Cities of: Buena Park, Lakewood, Stockton",1
+"Cities of: Burbank, Concord, Lakewood, and Rancho",1
+"Cities of: California City, Lancaster, Ridgecrest, Tehachapi",1
+"Cities of: Campbell, Cupertino, Gilroy, Los Gatos, Milpitas, Morgan Hill, Saratoga",1
+"Cities of: Canyon Lake, Roseville, and San Diego",1
+Cities of: Carmel by the Sea,1
+"Cities of: Carmel-by-the-Sea, Salinas, Sand City, Santa Cruz, Seaside, Watsonville",1
+"Cities of: Cathedral, Indio, La Quinta, and Palm Desert",1
+"Cities of: Ceres, Commerce, Lakewood, Patterson, Pico",1
+"Cities of: Cerritos, Costa Mesa, Highland, Moorpark, Palmdale, Placentia, Redding, and Vista",1
+"Cities of: Cerritos, Fountain Valley, Glendora, Hanford, Palmdale, Palo",1
+"Cities of: Chino Hills, Corona, Davis, El Centro, Highland, Moreno Valley, National City, Oceanside, San Buenaventura, Santa Rosa, Torrance",1
+"Cities of: Chula Vista, Corona, Hayward, Lake Forest, Los",1
+"Cities of: Claremont, Temecula, and Moreno Valley",1
+Cities of: Corona,1
+Cities of: Corona and Poway,1
+"Cities of: Coronado, Cupertino, Dublin, Fillmore, Fremont, Gilroy, Los Altos, Milpitas, Monte Sereno, Moreno Valley",1
+"Cities of: Culver City, El Cajon, Garden Grove",1
+"Cities of: Culver City, El Segundo, Hawthorne, Lomita, Manhattan Beach, Palos Verdes Estates, Redondo Beach, Torrance, West Hollywood",1
+"Cities of: Cupertino, Gilroy, Milpitas, Mountain View, Palo",1
+"Cities of: Cypress, Lakewood, Norwalk, Sacramento, Selma, and Vista",1
+"Cities of: Dana Point, Monterey, Morro Bay",1
+"Cities of: Dana Point, Santa Fe Springs",1
+"Cities of: Dinuba, Fowler, Kingsburg, Livingston, Los",1
+Cities of: Duarte,1
+"Cities of: Duarte, La Verne, Montclair, Ontario Pasadena",1
+"Cities of: Eastvale, Fontana, Indian Wells, Jurupa Valley, Lake Elsinore, La Mirada, La Quinta, Menifee, Murrieta, Norco, Palm Desert, Santa",1
+"Cities of: El Cajon, Indian Wells, La Mesa, Los Alamito, Chula Vista",1
+"Cities of: El Segundo, Long Beach and Manhattan Beach",1
+"Cities of: Fillmore, Ojai, Oxnard, San Buenaventura, and Simi",1
+"Cities of: Fontana, Merced, Newport Beach, Oceanside, San",1
+Cities of: Foster City and San Jose,1
+"Cities of: Fountain Valley, Glendora, Hanford, Palmdale, Palo Alto, Rancho Cordova, Rancho Cucamonga, Salinas, San Francisco, Santa",1
+"Cities of: Fresno, Merced, Visalia, Vista, Wasco, West Covina, and Whittier",1
+"Cities of: Gilroy, Los Altos, Los Altos Hills, Milpitas, Monte",1
+"Cities of: Hayward, King City, La Quinta, Merced, Palo Alto, Santa Maria, and Stockton",1
+"Cities of: Hermosa Beach, Manhattan Beach, Rancho Palos Verdes, Rolling",1
+"Cities of: Holtville, Indian Wells, Indio, La Quinta, Palm",1
+"Cities of: Inglewood, Lomita, and Manhattan Beach",1
+"Cities of: La Habra, San Clemente, Tustin, Buena Park, Stanton, Santa Ana, Placentia, San Juan Capistrano, Irvine, Fullerton, and Laguna Hills",1
+"Cities of: Los Angeles, Moreno Valley",1
+"Cities of: Los Angeles, Moreno Valley, Redding",1
+"Cities of: Los Angeles, Sunnyvale",1
+"Cities of: Moorpark, Oxnard, San Buenaventura, and Thousand",1
+"Cities of: Moreno Valley, Oakland, Ontario, Rancho Cucamonga, Thousand Oaks, Victorville",1
+"Cities of: Mountain View, Palo Alto",1
+"Cities of: Port Hueneme, Thousand Oaks",1
+"Cities of: Salinas, Soledad",1
+"Cities of:Cerritos, Downey, Lakewood, Long Beach, Manhattan",1
+"Cities of:Dana Point, Hayward, King City, La Quinta, Merced, Palo Alto, Stockton, Torrance, San Luis",1
+"Cities/Towns of Apple Valley, Arroyo Grande, Atascadero, Bellflower, Buellton, Camarillo, Ceres, Chula Vista, Claremont, Commerce, Coronado, Cotati, Culver City, Daly City, Dana Point, Dixon, El",1
+Citizens Advisory Council (Orange County) Fame Renaissance,1
 "Citizens Against Lawsuit Abuse - Central Cal., Los Angeles, N",1
 "Citizens Against Lawsuit Abuse - Central California, Northern California, Los Angeles, Orange County, Silicon Valley and San Diego County Chapters",1
 Citizens Against Lawsuit Abuse of Central,1
@@ -1785,6 +1968,7 @@ City of Benicia |City of Morro Bay |City of Walnut,1
 City of Benicia |City of Mt. Shasta |City of Yreka,1
 City of Berkeley |City of Mountain View |City of Walnut Creek,1
 City of Berkeley |City of Murrieta |City of Yuba City,1
+City of Beverly Hills Gateway Cities Council of Governments League of California Cities,1
 City of Beverly Hills |City of Mt. Shasta |City of West Covina,1
 City of Blue Lake |City of Murrieta |City of West,1
 City of Blue Lake |City of Nevada |City of Yucaipa,1
@@ -1793,6 +1977,7 @@ City of Brea |City of Norwalk |City of West,1
 City of Brentwood |City of Novato |Sacramento,1
 City of Buena Park |City of Oakland | San Mateo County,1
 City of Buena Park |City of Oakland |City of Whittier,1
+City of Burbank & the Burbank Redevelopment Agency,1
 City of Burbank |City of Oceanside |City of Woodland,1
 City of Calabasas |City of Oceanside |City/County of San,1
 City of Calabasas |City of Ontario |City of Yreka,1
@@ -1846,6 +2031,7 @@ City of Compton |City of Pittsburg | Consumer Rights,1
 City of Compton |City of Pleasant Hill |Association,1
 City of Concord |City of Pleasant Hill |Las Virgenes-Malibu,1
 City of ConcordCity of Corte Madera,1
+City of Coronado San Diego Association of Governments,1
 City of Coronado |City of Porterville |Supervisors,1
 City of Costa Mesa |City of Porterville | Governments,1
 City of Costa Mesa |City of Poway |Las Virgenes-Malibu,1
@@ -1920,29 +2106,51 @@ City of Grover Beach |City of Santa Cruz |Gloryanna Rhodes,1
 City of Hawaiian |County of Sacramento |Mayor,1
 City of HaywardCity of Hesperia,1
 City of Hercules |Bernardino |Rohnert Park City,1
+City of Highland Upland,1
 City of Hollister |City of Santa Cruz |Gloryanna Rhodes,1
 City of Hollister |County of Santa |Council,1
 City of Hughson | |Mayor,1
 City of HughsonCity of Huntington Beach,1
+City of Huntington BeachLakewood,1
 City of Huntington | | Lathrop,1
 City of Huntington |Community Svc Dist. |Cable Television,1
 City of Huntington |County of Santa Cruz |Supervisors,1
 City of Imperial | |Council,1
 City of Imperial | |San Diego Association,1
+City of Inc. Contra Costa Solid Waste Authority Counties of Los Angeles,1
+City of Inc. Del Norte Disposal Edco Disposal,1
+City of Inc. Feather River Disposal,1
+City of Inc. Fontana Rubbish Collectors,1
+City of Inc. Foothill Disposal Gilton Solida Waste Management,1
+City of Inc. Golden Gate Disposal Grass Valley Disposal,1
+City of Inc. Inland Empire Recycling Integrated Environmental Systems Jack's Disposal & Recycling Service Laidlaw Waste Systems League of California Cities Los Altos Garbage Company Marin Recycling & Resource Recovery Association Marin Sanitary Services Mark's Disposal Mashburn Waste & Recycling Services Napa Garbage Service,1
+City of Inc. Norcal Waste Systems,1
+City of Inc. Operating Engineers Local Union No. 3 Oroville Solid Waste Disposal,1
+City of Inc. Rainbow Disposal Co,1
+City of Inc. Rainbow Transfer/Recycling,1
+City of Inc. Rancho Disposal Service,1
+City of Inc. Richmond Sanitary Services Salinas Disposal Services,1
+City of Inc. Sacramento Valley Environmental Waste Disposal San Bruno Garbage Company Sanitary Fill Company Solid Waste Association of North America South Tahoe Refuse Co. Inc. South Valey Refuse Disposal,1
+City of Inc. Specialty Solid Waste,1
+"City of Indio, City Of Lakewood, City Of Norwalk",1
 City of Industry | | Governments,1
 City of Inglewood | |San Diego County,1
 City of Inglewood | |Supervisors,1
 City of Irvine | |Sac. Metropolitan,1
+City of Irwindale Public Water Agencies Group Reclamation District No. 108 San Bernardino Valley Water Conservation District San Diego Association of Governments South Bay Cities Council of Governments Towns of: Apple Valley,1
 City of Irwindale | | Supervisors,1
 City of Jackson California Peace Officers Association California Police Chiefs Association Alameda County Sheriff California Organization of Police,1
 City of La Canada | |Cable Television,1
 City of La Mesa | |San Diego County,1
 "City of Lakewood, and City of San Marcos, Town of Loomis",1
+City of Lathrop Rohnert Park City Council Sacramento County Board of Supervisors Sacramento Metropolitan Cable Television Commission San Diego County Board of Supervisors San Mateo County Telecommunications Authority Santa Barbara Channel Santa Clara County Board of Supervisors Santa Rosa Community Media Center Sutter Medical Center of Santa Rosa Towns of Apple Valley,1
 City of Los Angeles Atlantic Recovery Services California Charter Schools Association City of Huntington Park,1
 City of Los Angeles City of Los Angeles City Attorney,1
+City of Los Angeles and Friends Committee on Legislation,1
 "City of Los Angeles, Coalition for a Safe Environment, Consumer Attorneys of California, Desert Citizens Against Pollution, East Yard Communities for Environmental Justice, Environmental Working Group, Los Angeles County Board Of Supervisors, Los Angeles County Solid Waste Management Committee/Integrated Waste Management Task Force, Mothers of East Los Angeles, Prouno, South Coast Air Quality Management District",1
 "City of Los Angeles, and the City of Oakland",1
 City of Los Angeles/Department of Aging,1
+City of Montclair Communications Workers of America,1
 City of National City City of UkiahCity,1
 "City of Oakland, Council President Nikki Fortunato Bas / District 2",1
 City of Oakland/Oakland Fire Services Agency,1
@@ -1956,12 +2164,14 @@ City of San Diego and City of Oakland,1
 "City of San Diego, Sierra Club",1
 City of San Diego. The City of San Diego,1
 City of San Francisco Plumbing-Heating-Cooling Contractors Association of California Western Electrical Contractors Association,1
+City of San Marcos Cities of Fountain Valley,1
 City of San Rafael/Marin County Council of Mayors and Council Members,1
 City of Santa Barbara (Mayor/Redevelopment Agency),1
 City of Santa Cruz Gary Loustalot,1
 "City of Santa Monica, City Of Thousand Oaks, City Of Torrance, CTIA - the Wireless Association, League of California Cities, MuniServices",1
 City of Santa RosaCity of Santee,1
 City of SelmaCity of Signal Hill,1
+"City of Signal Hill Cities of Alhambra, Arcadia, Azusa, Bell Gardens, Carson, Cerritos, Claremont, Commerce, Culver City, Diamond Bar, Downey, El Segundo, Hermosa Beach, Industry, La Puente, Lomita, Long Beach, Monterey Park, Palos Verdes Estates, Pasadena, Rancho Palos Verdes, Rosemead, San Dimas, Santa Fe Springs, Sierra Madre, South El Monte, South Gate, Temple City, Torrance, Walnut, West Covina, West Hollywood, and Whittier",1
 City of TulareCity of Tustin,1
 City of Visalia City of Wasco,1
 City of VisaliaCity of Vista,1
@@ -2032,6 +2242,8 @@ County Juvenile Justice/Delinquency Prevention Commission,1
 "County Supervisors Association of California, Association of California Water Agencies, State Association",1
 County Welfare Directors Association/Children Now/County Behavioral Health Directors Association,1
 County of Agency on Aging \ Area 4,1
+County of Cities of Camarillo,1
+County of Cities of Gilroy,1
 County of City & County of San Francisco,1
 County of City of City of El Segundo Jean Warnes,1
 County of City of City of El Segundo Sandra Jacobs,1
@@ -2046,15 +2258,20 @@ County of County of San Joaquin,1
 County of County of Solano,1
 "County of Fresno, County of Kings",1
 County of Indivisible CA-29 Indivisible CA-33 Indivisible CA-37,1
+County of Los Angeles California Public Parking Association Police Departments of the Cities of Pomona,1
 County of Los Angeles Registrar-Recorder/County Clerk,1
 "County of Los Angeles, California State Association of Counties, League of California Cities",1
 County of Merced (Karen D. Adams/County Clerk),1
 County of Planning Agency/Napa Valley Transportation Authority,1
 County of Riverside Riverside Sheriff's Association Sheriff's Employees' Benefit Association,1
 "County of Sacramento, County Clerk/Recorder Department",1
+County of San Bernardino Cities of Los Angeles,1
+County of Santa Clara Cities of: Chino Hills,1
 "County of Santa Clara, California State Association of Counties, Urban County of California",1
 County of Santa Cruz (Gail L. Pellerin/County Clerk),1
+County of Shasta Cities of: Arcadia,1
 County of Solano County of San Benito,1
+County of Tuolumne Chiefs of Police of the Cities of Arroyo Grande,1
 "County of Ventura, Sierra Club of California",1
 County of Yuba County of Alameda's Personnel,1
 Courageous Resistance of The Desert and Indivisible,1
@@ -2075,8 +2292,10 @@ Department of Justice/Office of the Attorney General,1
 Department of Justice/Riverside County Sheriff's,1
 "Department, Town of Paradise",1
 Department/National Guard,1
+"Departments, Cities of: Alameda, Anaheim, Bakersfield, Barstow, Belmont, Benicia, Berkeley",1
 Diocese of Sacramento/Saint Francis High School,1
 Director of Friends of the Santa Cruz City/County Public Libraries,1
+District Council 36 Cities of Bell Gardens,1
 District Council of Ironworkers/California Ironworker Employer Council,1
 District IX/CA American Federation of State,1
 "District, Planning and Conservation League, and Sierra Club",1
@@ -2295,10 +2514,13 @@ LP |Mariani Nut Company | |Pacific Inspection |Pacific Oroville |Pacific Ultra P
 Ladbroke Racing Corporation/Pacific Racing Association,1
 League and Ca Organic Recycling Co,1
 League of California Cities (League) and the California State Association of Counties,1
+League of California Cities CONTINUED California State Association of Counties Cities of Baldwin Park,1
 League of California Cities California Professional Firefighters California State Association of Counties Cities of Alhambra,1
 League of California Cities California State Association of Counties Cities of Baldwin Park,1
 League of California Cities California State Association of Counties Cities of Modesto,1
+League of California Cities Cities of Carlsbad,1
 League of California Cities League of California Cities City of Arcata,1
+"League of California Cities, Cities of El Segundo",1
 "League of California Cities, Planning and Conservation League",1
 "League, Legion of Valor",1
 "League, Sierra Club California, StopWaste.Org (Alameda)",1
@@ -2306,6 +2528,7 @@ Local 3299 California Faculty Association California Labor Federation,1
 Local 3299 United Nurses of California/Union of Health Care Professionals,1
 Long Term Care Interagency Commission/County,1
 Long Valley Fire |Mammoth-Pacific,1
+Los Altos Cities of: Belvedere,1
 "Los Angeles County Assessor Jeffrey Prang, California Alliance of Taxpayer Advocates, California Association of County Clerks and Elections Officials, California Taxpayers Association, Los Angeles County Board of Supervisors, San Diego County",1
 "Los Angeles County Board of Supervisors, Supervisor Hilda Solis, Los Angeles Indivisible",1
 Los Angeles County Division California Contract Cities Association League of California Cities San Gabriel Valley Council of Governments Browning Ferris Industries Independent Cities Association Cities of Bellflower,1
@@ -2429,6 +2652,10 @@ Planning and Conservation League and Sierra Club,1
 "Planning and Conservation League, Sierra Club, South Coast Air Quality Management District",1
 "Planning and Conservation League, South Coast",1
 "Planning and Conservation League, Trust for Public",1
+"Police Chiefs of the Cities of Inglewood, Isleton, Livingston, Lodi, Marysville, Monrovia, Monterey Park, Montebello, Napa, Palm Springs, Redding, Sacramento, San Buenaventura, San Diego,, San",1
+"Police Departments of the Cities of Claremont, Long Beach, Montebello, Orange, Pasadena, Santa Monica",1
+"Police Departments, Cities of : Alameda, Anaheim, Bakersfield, Barstow, Belmont, Benicia, Berkeley, Brentwood, Buena Park, Chino, Corning, Cypress",1
+"Police Departments, Cities of: Baldwin Park, El Monte, Fontana, Fresno, La Habra, Long Beach, Monrovia, Napa, Pasadena, Pleasanton, Ridgecrest, Selma, and Suisun City",1
 Presidential | Registered,1
 "Primary Care Association, California Hospital Association, and University",1
 Professional Insurance Agents Group (PIA) California Manufacturers and Technology Association Allied Pacific Insurance Services,1
@@ -2531,11 +2758,13 @@ Southern California California Traffic School Association Castro Valley School o
 "Southern Company Gas/Central Valley Gas Storage, LLC",1
 St. Athanasius Church/Parish,1
 St. John's Regional Medical Center/St. John's Pleasant Valley Hospital,1
+Stanislaus BKK Corporation Browning-Ferris Industries Butte County California Refuse Removal Council California State Association of Counties Cities of Azusa,1
 Stanley Foundation Research Programs/NAMI Research Institute,1
 State Association of County Auditors California Association of County Treasurers-Tax Collectors California Association of Joint Powers Authorities Counties of Riverside,1
 State Bar National Audubon Society,1
 "State Board of Equalization, BOE Member Fiona Ma, BOE Member George Runner, Air Logistics Corporation, California Chamber of Commerce, California Grocers Association, California Independent Petroleum Association, California Retailers Association, California Society of Enrolled Agents, California Tank Lines Inc., California Taxpayers Association, Chemical Transfer Co., Family Business Association, Flasher Barricade Association, League of California Cities, National Federation of Independent Business, Orange County Taxpayers Association, Superior Tank Wash Inc., West Coast Leasing, LLC",1
 "State Board of Equalization, BOE Member Fiona Ma, BOE Member George Runner, California Asian Pacific Chamber of Commerce, California Society of Enrolled Agents, Castro Valley/Eden Area Chamber of Commerce",1
+"State Board of Equalization, Cities of El Cajon",1
 "State Controller Betty Yee, California Association of County Treasurer-Tax Collectors, California Special Districts Association, California State Association of Counties, League of California Cities, Retired Public Employees Association, Rural County Representatives of California, Santa Clara County Board of Supervisors",1
 "State Controller Betty Yee, California State Association of Counties, California Special Districts Association",1
 "State Controller Betty Yee, State Treasurer Fiona Ma , California Association of County Treasurer-Tax Collectors, California Bankers Association, California Chamber of Commerce, California Community Banking Network, California Credit Union League, California Taxpayers Association",1
@@ -2599,6 +2828,7 @@ Transportation Authority and the City/County Association of Governments,1
 Traveling Times Inc./Travel Center of Santa Clarita,1
 Tri-County Foster Grandparent/Senior Companion Program,1
 Tulare County/District SELPA,1
+Tustin City and County of San Francisco Cities of: Agoura Hills,1
 "U.C. San Diego, Center for Public Interest Law, Children's",1
 U.S. Coast Guard Chief Petty Officers Association & Enlisted Association,1
 UC San Diego - Center for Public Interest Law CALPIRG,1
@@ -2622,13 +2852,17 @@ WHO and UNICEF,1
 Western Center on Law and PovertyBay Area Legal Aid,1
 Western Diocese/Armenian General Benevolent Union,1
 Western Mobilehome Association Association,1
+Western Municipal Water District Cities of : Arcadia,1
 "Western Painting & Coating Contractors Association, Western Wall & Ceiling Contractors Association",1
+Westside Cities Council of Governments. Cities of Arcardia,1
 "William J. Craven, State Director, Sierra Club California",1
 "Wilson Group, The, Yolo Audubon Society",1
 Women's Foundation California/Women's Policy Institute,1
 Workers California Teamsters Public Affairs Council,1
 Yolo County Office of Education/Davis Unified School District,1
 Yolo County's Assessor/Clerk Recorder Elections Office,1
+Yorba Linda Water District. Cities of Alhambra,1
+Yuba City Cities of: Arroyo Grande,1
 Yuba County Victim/Witness Assistance Program,1
 Yucaipa County of Orange League of CA Cities League of CA Cities,1
 al | |5 days,1
@@ -2641,163 +2875,6 @@ the Advancement of Colored People Coastwalk California,1
 "the American GI Forum of California, American Legion-Department of California, AMVETS-Department of California, California Association of County Veterans Service Officers, California State Commanders Veterans Council, National Guard Association of California, and the Vietnam Veterans of America-California State Council",1
 the Environment |City of Laguna Niguel |City of Sausalito,1
 the Environment |City of Lake Forest |City of Scotts Valley,1
-"Cities of : Aliso Viejo, Arcadia, Banning, Bell Gardens, Burbank, Cerritos, Commerce, Covina, Downey, El Monte, Gardena, Inglewood, La Verne, Maywood, Monrovia, Montebello, Pico Rivera, San Bernardino, South El Monte, South Pasadena",1
-Cities of Alameda,1
-"Cities of Alameda, Long Beach, Monterey & Victorville",1
-Cities of Albany,1
-"Cities of Arcadia, Barstow, Berkeley, Brentwood, Chino. Chula Vista, Claremont, Concord, Costa Mesa, Culver City, Dana Point, El Cajon, Encinitas, Fontana, Hayward, Huntington Beach, Laguna Hills, Lakewood, Lompoc, Manhattan Beach, Merced, Moreno Valley, Mountain View, Oxnard, Poway, Rancho Cucamonga, Richmond, Riverside, San Carlos, San Jose, San Luis Obispo, San Rafael, Santa Barbara, Santa Clara, Santa Fe Springs, Santa Maria, Santa Rosa, Selma, Stockton, Sunnyvale, Tehachapi",1
-"Cities of Azusa, Burlingame. Daly City, Foster City, Glendale, Hermosa Beach, Irvine, La Canada Flintridge, Lake Forest, Loma Linda, Lomita, Manhattan Beach, Menlo Park, Milpitas, Mission Viejo, Monterey Park, Orange, Redondo Beach, Rolling Hills, Rolling Hills Estates, San Carlos, San Gabriel, San Marino, San Mateo, Santa Fe Springs, Stockton, Temple City, Carmel, Thousand Oaks, Torrance",1
-"Cities of Azusa, Burlingame. Daly City, Foster City, Glendale, Hermosa Beach, Irvine, La Canada Flintridge, Lake Forest, Loma Linda, Lomita, Manhattan Beach, Menlo Park, Milpitas, Monterey Park, Orange, Redondo Beach, Rolling Hills, Rolling Hills Estates, San Carlos, San Gabriel, San",1
-"Cities of Azusa, Burlingame. Daly City, Foster City, Glendale, Hermosa Beach, Irvine, La Canada Flintridge, Lake Forest, Loma Linda, Lomita, Manhattan Beach, Menlo Park, Milpitas, Monterey Park, Orange, Redondo Beach, Rolling Hills, Rolling Hills Estates, San Carlos, San Gabriel, San Marino, San Mateo, Santa Fe Springs, Temple City, Carmel, Thousand Oaks, Torrance",1
-Cities of Bakersfield,1
-Cities of Bell,1
-Cities of Buena Park,1
-Cities of Burbank,1
-Cities of Burbank and Glendale,1
-"Cities of Burbank, Claremont, Concord",1
-"Cities of Burbank, Claremont, Monterey",1
-Cities of Campbell,1
-Cities of Carlsbad and San Diego,1
-"Cities of Carmel-by-the-Sea, Del Rey Oaks, Gonzales, Greenfield, King City, Marina, Monterey, Pacific Grove, Salinas, Sand City, Seaside, Soledad",1
-"Cities of Carmel-By-The-Sea, Del Rey Oaks, Marina, Monterey, Pacific Grove, Salinas, Sand, Seaside",1
-"Cities of Carmel-By-The-Sea, Del Rey Oaks, Marina, Monterey, Pacific Grove, Salinas, Sand, Seaside SB",1
-"Cities of Carmel-by-the-Sea, Pacific Grove",1
-"Cities of Cathedral City, Coachella, Desert Hot Springs, Indio",1
-Cities of Cerritos,1
-Cities of Chico,1
-"Cities of Corona, Murrieta, Temecula",1
-"Cities of Costa Mesa, Moreno Valley, Newport Beach",1
-"Cities of Cupertino, Los Altos Hills, Monte Sereno, Saratoga",1
-Cities of Daly City,1
-"Cities of Downey, Norwalk, Signal Hill",1
-Cities of Emeryville,1
-Cities of Fontana and Torrance,1
-Cities of Hemet,1
-Cities of Hesperia and Upland,1
-"Cities of Hesperia, Indian Wells, Lakewood, Mendota, Rosemead, Sacramento, Salinas, Thousand Oaks",1
-"Cities of Hollister, Thousand Oaks",1
-"Cities of Imperial Beach, So. San Francisco, San Rafael & Sunnyvale",1
-Cities of Lomita,1
-Cities of Los Angeles & Palm Desert,1
-"Cities of Los Angeles, South Gate",1
-"Cities of Merced, Atwater, Long Beach. Monterey, Vista, Victorville",1
-Cities of Oceanside and Hemet,1
-Cities of Sunnyvale & Victorville,1
-"Cities of: Adelanto, Alameda, Chino Hills, Cloverdale, Dublin, Duarte, Eureka, Fremont, Goleta, Hesperia, Hillsborough, Indio, Indian Wells, Lake Elsinore, Lakeport, Livermore, Lodi, Montclair, Palmdale, Pismo Beach, Rancho Cucamonga, San Leandro, Thousand Oaks, Vallejo, and Walnut Creek",1
-"Cities of: Adelanto, Brisbane, Chino Hills, Clayton, Danville, Dublin, Fillmore, Foster City, Fremont, Gilroy, Los Altos, Milpitas, Monte Sereno,Moreno",1
-"Cities of: Adelanto, Brisbane, Clayton, Danville, Dublin, Fillmore, Fremont, Foster City, Gilroy, Los Altos, Milpitas, Monte Sereno, Moreno Valley, Ojai, Port",1
-"Cities of: Adelanto, Canyon Lake, Chino, Chino Hills, Colton, Diamond Bar, Eastvale, Fontana, Glendora, Grand Terrace, Highland, Jurupa Valley, Lakewood, Montclair, Monterey Park, Newport Beach, Norco, Palmdale, Rancho",1
-"Cities of: Agoura Hills, Anaheim, Atwater, Berkeley, Brentwood, Burbank, Culver City, Escalan, Escondido, Fort Bragg, Gardena, Laguna Niguel, Long Beach, Marina, Modesto, Montebello, Oceanside, Oxnard, Napa, Riverside, Sacramento, San Buenaventura, San Carlos, San",1
-"Cities of: Agoura Hills, Colton, Concord, Culver City, Cypress, Del Mar, El Centro, Fountain Valley, Fremont, Highland, Lakewood, Norwalk, Ontario, Rancho Cucamonga, Rancho Cordova, Sacramento, San Luis Obispo, Santa",1
-"Cities of: Alameda, Albany, Aliso Viejo, American Canyon, Arcadia, Azusa, Bakersfield, Bellflower, Benicia, Berkeley, Beverly Hills, Big Bear Lake, Brawley, Brentwood, Buena Park, Burbank, Calabasas, Camarillo, Capitola, Carpinteria, Chino, Chino Hills, Chula Vista, Citrus Heights, Claremont, Clayton, Clearlake, Cloverdale, Colfax, Concord, Corona Costa, Mesa, Capitola, Culver City, Cupertino, Cypress, Danville, Davis, Diamond Bar, Duarte, Dublin, Eastvale, El Centro, Elk Grove, Encinitas, Escalon, Fairfax, Farmersville, Fontana, Fortuna, Foster City, Fountain Valley, Fremont, Fresno, Garden Grove, Goleta, Gustine, Hanford, Hayward, Hemet, Hermosa Beach, Hesperia, Highland, Huntington Beach, Huntington Park, Indian Wells, Indio, Inglewood, Irvine, Jurupa Valley, King City, La Canada Flintridge, La Mirada, La Quinta, Lafayette, Laguna Beach, Laguna Hills, Lake Elsinore, Lakeport, Lakewood, Lathrop, Laverne, Livermore, Lodi, Lomita, Long Beach, Los Alamitos, Los Angeles, Los Banos, Mammoth Lakes, Manhattan Beach, Manteca, Martinez, Merced, Mill Valley, Menifee, Mission Viejo, Modesto, Monrovia, Montclair, Monterey, Moreno Valley, Morgan Hill, Mountain View, Murrieta, National City, Nevada City, Norco, Norwalk, Oakdale, Oakland, Oakley, Oceanside, Ontario, Orland, Pacific Grove, Palm Desert, Palmdale, Palos Verdes Estates, Paramount, Pasadena, Paso Robles, Petaluma, Pico Rivera, Piedmont, Pinole, Placentia, Placerville, Pleasant Hill, Pleasanton, Point Arena, Pomona, Rancho Cordova, Rancho Cucamonga, Rancho Palos Verdes, Ripon, Riverbank, Riverside, Rocklin, Rohnert Park, Rosemead, Roseville, Salinas, San Buenaventura, San Carlos, San Gabriel, San Jose, San Leandro, San Marcos, San Marino, San Mateo, San Pablo, San Rafael, Santa Ana, Santa Barbara, Santa Clarita, Santa Cruz, Santa Fe Springs, Santa Maria, Santa Monica, Santa Rosa, Santee, Scotts Valley, Shasta Lake, Signal Hill, Simi Valley, South Pasadena, South San Francisco, Sunnyvale, Thousand Oaks, Torrance, Turlock, Ukiah, Upland, Vacaville, Vallejo ,Vernon, Victorville, Vista, Walnut, West Covina, West Hollywood, Whittier, Yuba City, Yucca Valley, and Yucaipa",1
-"Cities of: Alameda, Albany, Arcata, Atascadero, Beverly Hills, Brentwood, Burbank, Camarillo, Cerritos, Cloverdale, Clovis, Concord, Cotati, Covina, Crescent City, Cupertino, Downey, East Palo Alto, Encinitas, Escondido, Eureka, Farmersville, Fort Bragg, Fountain Valley, Garden Grove, Glendale, Goleta, Half Moon Bay, La Mirada, Lafayette, Laguna Beach",1
-"Cities of: Albany, Dublin, Fremont Hayward Livermore, Pleasanton, San",1
-"Cities of: Alhambra, Arcadia, Carson, Cerritos, Claremont, Diamond Bar, Downey, Glendora, Industry, Lakewood, Lomita, Long Beach, Monterey Park, Norwalk, Palos Verdes Estates, Pasadena, Rancho Palos Verdes, Rosemead, San",1
-"Cities of: American Canyon, Alameda, Anaheim, Camarillo, Campbell, Chula Vista, Claremont, Coronado, Covina, Crescent City, Danville, Fillmore, Half Moon Bay, Hayward, Hercules, Hermosa Beach, Los Angeles, Manhattan Beach, Millbrae, Moreno Valley, Oakland, Pomona, Redondo Beach, San Bruno, San Diego, Santa Monica, Suisun City, Tehachapi, Temecula, Whittier",1
-"Cities of: American Canyon, Alameda, Anaheim, Camarillo, Campbell, Chula Vista, Claremont, Coronado, Covina, Crescent City, Danville, Fillmore, Half Moon Bay, Hayward, Hercules, Hermosa Beach, Manhattan Beach, Millbrae, Moreno",1
-"Cities of: American Canyon, Antioch, Apple Valley, Atherton, Azusa, Bellflower, Beverly Hills, Burlingame, Campbell, Ceres, Clayton, Cloverdale, Costa Mesa, Culver City, Danville, Diamond Bar, Encinitas, Fontana, Foster City, Fountain Valley, Fresno, Goleta, Gustine, Half Moon",1
-"Cities of: American Canyon, Belmont, Lakewood, Livermore, Long",1
-"Cities of: Anaheim, Beaumont, Burbank , Camarillo, Chino Hills, Cupertino, Downey , El Segundo, Garden Grove, Los Alamitos , Morgan Hill , Rancho Cucamonga , San Dimas, San Marcos, Santa Clarita, Thousand Oaks, Torrance , Vista",1
-"Cities of: Anaheim, Brea, Irvine, Laguna Hills, Laguna Woods, Mission Viejo, Newport Beach, Orange, Rancho Santa Margarita, Santa Ana, and Tustin",1
-"Cities of: Anaheim, Buena Park, Culver City, Moreno Valley, Roseville",1
-"Cities of: Anaheim, Irvine, Laguna Woods, Mission Viejo, Newport Beach, Orange, Rancho Santa Margarita, Santa Ana, and Tustin",1
-"Cities of: Apple Valley, Cathedral City, Hermosa Beach, Morgan",1
-"Cities of: Aradia, Bellflower, Carlsbad, Chico, Chino",1
-"Cities of: Aradia, Carlsbad, Chico, Chula Vista, Claremont, Culver City, El Cajon, Lakewood, Lompoc, Monterey, Moorpark, Moreno",1
-"Cities of: Arcadia, Azusa, Duarte, Glendora, Irwindale, La Verne, Los",1
-"Cities of: Arcadia, Bakersfield, Lakewood, Merced",1
-"Cities of: Arcadia, Burbank, Carson, Claremont, Culver City, El",1
-"Cities of: Arcadia, Carlsbad, Chico, Chula Vista, Claremont, Culver City, El",1
-"Cities of: Arcadia, Culver City, La Canada Flintridge, Lakewood, Los Angeles, Manhattan",1
-"Cities of: Arcadia, Fountain Valley, Moreno Valley and Signal Hill",1
-"Cities of: Arcadia, Lakewood, Los Angeles, Moreno Valley",1
-"Cities of: Avenal, Coalinga, Hanford, and San Joaquin",1
-Cities of: Azusa,1
-"Cities of: Azusa, Berkeley, Brawley, Burbank, Calistoga, Capitola, Ceres, Chico, Centro, El Cerrito, Emeryville, Fort Bragg, Hillsborough, King City, Lathrop, Livingston, Lodi, Los Altos, Mill Valley, Monterey, Napa, Novato, Pasadena, Riverside, Salinas, San Jose, San Mateo, San Rafael, Santa Monica, South San Francisco, Turlock, Union City, Vista, Wasco, City",1
-"Cities of: Azusa, Berkeley, Brawley, Burbank, Calistoga, Capitola, Ceres, Chico, Cloverdale, Colma, Cerrito, Emeryville, Fort Bragg, Hillsborough, King City, Lathrop, Livingston, Lodi, Los Altos, Los Angeles, Mill Valley, Monterey, Napa, Novato, Oakland, Pasadena, Riverside, Salinas, San Diego, San Jose, San",1
-"Cities of: Bakersfield, Lakewood",1
-Cities of: Baldwin Park,1
-"Cities of: Baldwin Park, Banning, Bradbury, Chino, Diamond Bar, Moreno Valley, Redlands, Riverside, Temple City, Upland",1
-"Cities of: Barstow, Chino Hills, Costa Mesa, Dana Point, Davis, El Cajon, Lake Elsinore, Los",1
-"Cities of: Bell Gardens, Lomita, Los Angeles, Rolling Hills",1
-"Cities of: Bell, Bellflower, Bell Gardens, Cerritos, Commerce, Culver City, Downey, Hawaiian Gardens, Lakewood, Lomita, Manhattan Beach, Montebello, Norwalk, Paramount, Pico Rivera, Santa Fe Springs, Signal Hill, Torrance, Whittier",1
-"Cities of: Bellflower, Cerritos, Downey, Lakewood, Norwalk, Pico Rivera, Signal Hill, South Gate, Vernon, and Whittier",1
-"Cities of: Bellflower, Downey, Signal HillCity of Rolling Hills",1
-"Cities of: Belmont, Brisbane, Burlingame, Daly City, East Palo Alto, Foster",1
-"Cities of: Belmont, Brisbane, Chino Hills, Dublin, Escalon, Fillmore, Gilroy, Los Altos, Milpitas, Monte Sereno, Moorpark, Moreno Valley, Newark, Ojai, Port Hueneme, Ripon, San Buenaventura, San Carlos, San Luis",1
-"Cities of: Belmont, Burlingame, Daly City, Foster City, Half Moon Bay, Menlo Park, Millbrae, Pacifica, Redwood City, San Bruno, San Carlos, San Mateo, South San",1
-"Cities of: Benicia, Chino Hills, Chula Vista, Dana Point, Los",1
-"Cities of: Benicia, Emeryville, Goleta, Oakland, Palmdale, West",1
-"Cities of: Berkeley, Claremont, Culver City, Cupertino, Del Mar, Los Angeles, Manhattan Beach, Merced, Palo Alto, Piedmont, Santa Barbara, Santa Monica, Thousand",1
-"Cities of: Berkeley, El Cerrito, Martinez, Richmond, and Sunnyvale",1
-"Cities of: Berkeley, Morgan Hill, Saratoga, and Solano Beach",1
-"Cities of: Berkeley,Davis, Morgan Hill, Saratoga, and Solano Beach",1
-"Cities of: Beverly Hills, Concord, Cupertino, Diamond Bar, Los Altos, San Marcos, and Sunnyvale",1
-"Cities of: Brea, Burlingame, Camarillo, Chico, Chino, Cloverdale, Colton, Corcoran, Delano, Dinuba, El Centro, Fontana, Fountain Valley, Hayward, Hesperia, La Habra, Lakeport, Los Alamitos, Manteca, Montclair, Palmdale, Rancho Cucamonga, Riverside, Roseville, San Bernardino, San Ramon, Santa Barbara, Santa Clarita, Temecula, Thousand Oaks, Tulare, Twentynine Palms, Yuba City",1
-"Cities of: Brentwood, Hercules, Lafayette, Martinez, Richmond, and San Pablo",1
-"Cities of: Brisbane, Burlingame, Daly City, Hayward, Mountain",1
-"Cities of: Buena Park, Lakewood, Stockton",1
-"Cities of: Burbank, Concord, Lakewood, and Rancho",1
-"Cities of: California City, Lancaster, Ridgecrest, Tehachapi",1
-"Cities of: Campbell, Cupertino, Gilroy, Los Gatos, Milpitas, Morgan Hill, Saratoga",1
-"Cities of: Canyon Lake, Roseville, and San Diego",1
-Cities of: Carmel by the Sea,1
-"Cities of: Carmel-by-the-Sea, Salinas, Sand City, Santa Cruz, Seaside, Watsonville",1
-"Cities of: Cathedral, Indio, La Quinta, and Palm Desert",1
-"Cities of: Ceres, Commerce, Lakewood, Patterson, Pico",1
-"Cities of: Cerritos, Costa Mesa, Highland, Moorpark, Palmdale, Placentia, Redding, and Vista",1
-"Cities of: Cerritos, Fountain Valley, Glendora, Hanford, Palmdale, Palo",1
-"Cities of: Chino Hills, Corona, Davis, El Centro, Highland, Moreno Valley, National City, Oceanside, San Buenaventura, Santa Rosa, Torrance",1
-"Cities of: Chula Vista, Corona, Hayward, Lake Forest, Los",1
-"Cities of: Claremont, Temecula, and Moreno Valley",1
-Cities of: Corona,1
-Cities of: Corona and Poway,1
-"Cities of: Coronado, Cupertino, Dublin, Fillmore, Fremont, Gilroy, Los Altos, Milpitas, Monte Sereno, Moreno Valley",1
-"Cities of: Culver City, El Cajon, Garden Grove",1
-"Cities of: Culver City, El Segundo, Hawthorne, Lomita, Manhattan Beach, Palos Verdes Estates, Redondo Beach, Torrance, West Hollywood",1
-"Cities of: Cupertino, Gilroy, Milpitas, Mountain View, Palo",1
-"Cities of: Cypress, Lakewood, Norwalk, Sacramento, Selma, and Vista",1
-"Cities of: Dana Point, Monterey, Morro Bay",1
-"Cities of: Dana Point, Santa Fe Springs",1
-"Cities of: Dinuba, Fowler, Kingsburg, Livingston, Los",1
-Cities of: Duarte,1
-"Cities of: Duarte, La Verne, Montclair, Ontario Pasadena",1
-"Cities of: Eastvale, Fontana, Indian Wells, Jurupa Valley, Lake Elsinore, La Mirada, La Quinta, Menifee, Murrieta, Norco, Palm Desert, Santa",1
-"Cities of: El Cajon, Indian Wells, La Mesa, Los Alamito, Chula Vista",1
-"Cities of: El Segundo, Long Beach and Manhattan Beach",1
-"Cities of: Fillmore, Ojai, Oxnard, San Buenaventura, and Simi",1
-"Cities of: Fontana, Merced, Newport Beach, Oceanside, San",1
-Cities of: Foster City and San Jose,1
-"Cities of: Fountain Valley, Glendora, Hanford, Palmdale, Palo Alto, Rancho Cordova, Rancho Cucamonga, Salinas, San Francisco, Santa",1
-"Cities of: Fresno, Merced, Visalia, Vista, Wasco, West Covina, and Whittier",1
-"Cities of: Gilroy, Los Altos, Los Altos Hills, Milpitas, Monte",1
-"Cities of: Hayward, King City, La Quinta, Merced, Palo Alto, Santa Maria, and Stockton",1
-"Cities of: Hermosa Beach, Manhattan Beach, Rancho Palos Verdes, Rolling",1
-"Cities of: Holtville, Indian Wells, Indio, La Quinta, Palm",1
-"Cities of: Inglewood, Lomita, and Manhattan Beach",1
-"Cities of: La Habra, San Clemente, Tustin, Buena Park, Stanton, Santa Ana, Placentia, San Juan Capistrano, Irvine, Fullerton, and Laguna Hills",1
-"Cities of: Los Angeles, Moreno Valley",1
-"Cities of: Los Angeles, Moreno Valley, Redding",1
-"Cities of: Los Angeles, Sunnyvale",1
-"Cities of: Moorpark, Oxnard, San Buenaventura, and Thousand",1
-"Cities of: Moreno Valley, Oakland, Ontario, Rancho Cucamonga, Thousand Oaks, Victorville",1
-"Cities of: Mountain View, Palo Alto",1
-"Cities of: Port Hueneme, Thousand Oaks",1
-"Cities of: Salinas, Soledad",1
-"Cities of:Cerritos, Downey, Lakewood, Long Beach, Manhattan",1
-"Cities of:Dana Point, Hayward, King City, La Quinta, Merced, Palo Alto, Stockton, Torrance, San Luis",1
-Cites of Fountain Valley and Palo Alto,1
-"Cities/Towns of Apple Valley, Arroyo Grande, Atascadero, Bellflower, Buellton, Camarillo, Ceres, Chula Vista, Claremont, Commerce, Coronado, Cotati, Culver City, Daly City, Dana Point, Dixon, El",1
-Chief Information Officer Calaveras County Community Television Charter Communications,1
-"Chief Probation Officers for the Counties of Mariposa, Monterey, Sacramento, San Francisco, San Luis Obispo, Santa Barbara, Sutter",1
-Chief Probation Officers of California Rural County Representatives of California,1
-"Chief Probation Officers of California, California State",1
-"Chiefs of Police of the Cities of Sand City, Monterey, Seaside, Scotts Valley, Oakland",1
-"Chiefs of Police of the Cities of Santa Maria, Livermore, Claremont, Glendora, Downey, Capitola, Rialto, Hemet, San Bernardino, Port Hueneme, Brawley, San Jose, Brentwood, Pomona, Rio Dell, Signal Hill",1
-"Chino, Chula Vista, Cloverdale, Cotati, Fairfax, Hayward, Healdsburg, Huntington Park, Monterey Park, Morgan Hill, Oakland, Petaluma, Pleasanton, Rialto, Rohnert Park, Sacramento, San Francisco, San Luis Obispo, San Mateo, Santa Cruz, Santa Monica, Santa Rosa, Sebastopol, Sonoma, South San Francisco, Stockton, Sunnyvale, West Hollywood, Contra",1
-"Chula Vista, Carlsbad, Huntington Beach, Claremont, San",1
-Christine Mulholland and Allen Settle,1
-Chief of Police from 31 Cities,1
 "LOCAL 684, AND LOCAL 1245",0
 "Orange County Central Labor Council, UFCW",0
 "Orange County Central Labor Council, UFCW Local 324",0
