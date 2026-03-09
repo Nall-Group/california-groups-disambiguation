@@ -96,6 +96,7 @@ Group,44
 American College of Emergency Physicians State Chapter of,43
 of Los Angeles,43
 COUNTY DISTRICT ENROLLMENT AS OF,42
+City of San,42
 Insurance,42
 Club,41
 Court,41
@@ -170,6 +171,7 @@ Coalition of California,21
 El,21
 National Federation of,21
 Accountants,20
+City of West,20
 Gun,20
 Rwe,20
 State Public Affairs Committee of the Junior Leagues of,20
@@ -288,6 +290,7 @@ California Association of Area Agencies on,11
 California Department,11
 California Farm,11
 City and County of,11
+City of Valley,11
 National Center for,11
 National Organization for,11
 Trusts and Estates Section of the State Bar of,11
@@ -417,6 +420,7 @@ California State Conference of,7
 California Union,7
 Catholic Charities of,7
 "Center, Inc",7
+City Manager,7
 DG,7
 Defenders of,7
 Executive Committee of the Trusts and Estates Section of the State Bar of,7
@@ -454,7 +458,6 @@ of Police,7
 of the 2015-16 Legislative Session,7
 s,7
 www,7
-City Manager,7
 2,6
 AGSJ,6
 Administrator,6
@@ -578,6 +581,7 @@ Change,5
 "Chaplain, Sylmar, CA",5
 Chiefs,5
 City of California,5
+City of South,5
 "Committee, Inc",5
 Concerned Women for,5
 Contra Costa County Advisory Council on,5
@@ -715,6 +719,7 @@ Chamber of,4
 Chub,4
 City County Association of Governments of,4
 City of Community,4
+City of Yolo,4
 Club California,4
 Coalition for Humane Immigrant Rights of,4
 Coalition to Actively Treat and Educate for,4
@@ -955,6 +960,9 @@ Chief of Policy,3
 Chip,3
 Christ Church of,3
 City of Rancho Cucamonga and City of,3
+City of Santa Barbara - Office of the Mayor,3
+City of Springs,3
+City of Youth,3
 Coalition of Apparel Industries in,3
 "Coalition, Inc",3
 Collateral Loan and Secondhand Dealers Association of,3
@@ -1203,7 +1211,6 @@ of Veteran Service Agencies,3
 of the Children,3
 of the San Bernardino County Sheriff,3
 the Advancement of Colored People (NAACP),3
-City of Santa Barbara - Office of the Mayor,3
 3492 (North Antelope),2
 434-B,2
 6,2
@@ -1431,6 +1438,7 @@ City Administrator of,2
 "City Attorney, Los",2
 City Chamber of Commerce,2
 City Council of the City of,2
+City Professional Firefighters,2
 City of Bob,2
 City of Child,2
 City of City of,2
@@ -1441,6 +1449,7 @@ City of Mission,2
 City of Redding Chief of,2
 City of San Juan Capistrano Consumer Attorneys of,2
 City of Santa Barbara Chief of,2
+"City of Seaside, California - Office of the Mayor",2
 City of Torrance Chief of,2
 City of Town of,2
 City/County of San Francisco Department on,2
@@ -2074,7 +2083,6 @@ seq,2
 t,2
 the Paralyzed Veterans of,2
 "the Senate Health Committee. AB 75 (Frommer and Chan), with",2
-"City of Seaside, California - Office of the Mayor",2
 $30,1
 104 Individual Letters from Representatives of,1
 1065 (PEACE),1
@@ -2783,14 +2791,19 @@ City Attorney of San,1
 City Council and Commission on the Status of Women of,1
 City Council of,1
 "City Managers' Association, Association of",1
+City Police Department,1
 City Police Departments of,1
+City School District,1
 City and County Library of,1
 City and County of San Francisco Board of,1
 City and County of San Francisco Department of,1
 City and County of San Francisco Department on the Status of,1
+City of Arcadia (Mayor),1
 City of Association of,1
+City of Bell Interim City Attorney,1
 City of Brea |City of Norwalk |City/County Assn. of,1
 City of Brentwood |City of Novato |Governments of,1
+City of Burbank (Mayor),1
 City of California Professional,1
 City of Canyon,1
 City of Capitola |City of Palm Desert |City/County Assn. of,1
@@ -2805,13 +2818,16 @@ City of Commerce |City of Pinole |Taxpayers and,1
 City of Commerce |City of Pismo Beach |Taxpayers and,1
 City of Commission,1
 City of Concord |City of Pomona |Kern County Board of,1
+City of Corona - Office of the Mayor,1
 City of Coronado |City of Pomona |Council of,1
 City of Cotati |City of Rancho Cordova |Council of,1
 City of Council,1
 City of Councilmembers,1
 "City of Cupertino, City of",1
+City of El Cajon (Mayor),1
 City of Emeryville |City of Salinas |Marin County Board of,1
 City of Escondido |City of San Clemente | Association of,1
+City of Fairfield - Office of the Mayor,1
 City of Fairfield |City of San Dimas | Association of,1
 City of Fresno |City of San Pablo |Television of,1
 City of Garden Grove |City of San Marcos |Television of,1
@@ -2823,9 +2839,12 @@ City of Human,1
 City of Independent,1
 City of Irvine | |Board of,1
 "City of La Habra, City of",1
+City of Lakewood (Mayor),1
 City of League of,1
 "City of Livermore, City of",1
 "City of Lodi, Greater Stockton Chamber of",1
+City of Los Angeles (Mayor's),1
+City of Los Angeles - Mayor's Office of Economic Development,1
 City of Los Angeles Commission on,1
 "City of Los Angeles, Board of",1
 "City of Los Angeles, Harbor Association of",1
@@ -2835,12 +2854,16 @@ City of Mt,1
 City of Non,1
 City of Order,1
 "City of Palm Desert, California Association for",1
+City of Pasadena - Office of the Mayor,1
 City of Peace,1
 City of Point,1
 City of Power,1
+City of Rancho Cucamonga (Mayor),1
 "City of Richmond, Office of",1
 "City of Rohnert Park, Department of",1
 City of San Diego as part of,1
+"City of San Diego, The City Attorney Office",1
+City of San Juan Capistrano - Office of the Mayor,1
 City of Santa Cruz Parks and Recreation District \Cities of,1
 City of Santa Monica Chief of,1
 "City of Seaside, City of",1
@@ -2849,6 +2872,7 @@ City of Santa Monica Chief of,1
 City of Walnut & Diamond Bar and,1
 "City of West Sacramento, West Sacramento Chamber of",1
 City of the Los Angeles Department of,1
+"City, CA",1
 City/County of San Francisco Department on the Status of,1
 Civil Rights of,1
 Claremont Counties of,1
@@ -4745,19 +4769,6 @@ the San Francisco Bay Area Chapter of,1
 the bill but DOF has not had the,1
 too,1
 use,1
-City of Arcadia (Mayor),1
-City of Bell Interim City Attorney,1
-City of Burbank (Mayor),1
-City of Corona - Office of the Mayor,1
-City of El Cajon (Mayor),1
-City of Fairfield - Office of the Mayor,1
-City of Lakewood (Mayor),1
-City of Los Angeles - Mayor's Office of Economic Development,1
-City of Los Angeles (Mayor's),1
-City of Pasadena - Office of the Mayor,1
-City of Rancho Cucamonga (Mayor),1
-"City of San Diego, The City Attorney Office",1
-City of San Juan Capistrano - Office of the Mayor,1
 542,0
 "542, Local 572",0
 AFL-CIO Local 11,0
