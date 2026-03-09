@@ -199,6 +199,9 @@
 (?i)^\s*According to the\s+
 (?i)^\s*According to\s+
 
+# Leading "EDITORIAL - " / "Editorial: " prefix - BEGINNING
+(?i)^\s*EDITORIAL\s*[-:]\s*
+
 # Leading "year: " prefix (e.g. "1998: American Farmland Trust") - BEGINNING
 ^\d{4}:\s+
 
