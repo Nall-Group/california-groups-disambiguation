@@ -122,6 +122,7 @@ Superintendent,15
 Treasurer Bill Lockyer,15
 US Senator Dianne Feinstein,15
 California Attorney General Bill Lockyer,14
+Frederick W. Kline Jr,14
 "Honorable Dan Albert, Mayor of Monterey",14
 Individuals - 4,14
 Kern County Supervisor Jeff Flores,14
@@ -129,7 +130,6 @@ Long Beach Mayor Robert Garcia,14
 San Francisco Mayor London Breed,14
 Sheriff Leroy D. Baca,14
 "Supervisor Hilda Solis, Los Angeles County Board of Supervisors",14
-Frederick W. Kline Jr,14
 4 Private Citizens,13
 Assembly Member Sher,13
 City of Berkeley Councilmember Rashi Kesarwani,13
@@ -579,6 +579,7 @@ El Monte Mayor Ernie G. Gutierrez,5
 Fiona Ma,5
 "Fiona Ma, Board of Equalization",5
 "Fiona Ma, California State Treasurer",5
+"Frederick Jordan, Former Technical Advisor, U.S",5
 Fresno City Council Member Henry Perea,5
 "Governor Gavin Newsom, State of California",5
 "Greenfield Mayor John Huerta, Jr",5
@@ -670,7 +671,6 @@ Tulare County Supervisor Larry Micari,5
 Two Individual Attorneys,5
 United States Senator Diane Feinstein,5
 Vice President,5
-"Frederick Jordan, Former Technical Advisor, U.S",5
 13 Individual Attorneys,4
 14 Attorneys,4
 25 Letters from Constituents,4
@@ -1568,11 +1568,16 @@ Farbod Barsum,3
 "Faridoon ""Fred"" Saif, Dealer/Owner, Los Altos 76",3
 "Fiona Ma, Member, State Board of Equalization",3
 Former California State Senator Dean Florez,3
+Former FPPC Commissioner Bill Hauck,3
+Former FPPC Commissioner Colleen McAndrews,3
+Former FPPC Commissioner James Hall,3
+Former FPPC Commissioner Tony Quinn,3
 Former Governor Deukmejian,3
 Former Governor George Deukmejian,3
 Former Riverside District Attorney Grover Trask,3
 Former Senator Robert Presley,3
 Former United States Attorney General Edwin Meese III,3
+"Francine Bartfield, Ph.D",3
 Fremont City Councilmember Jenny Kassan,3
 "Fresno Councilmember Oliver Baines, III",3
 Fresno Mayor Alan Autry,3
@@ -1912,11 +1917,6 @@ West Hollywood Councilmember John Erickson,3
 West Valley Mayors/Managers,3
 Yolo County Supervisor Jim Provenza,3
 Yuba County Supervisor Gary Bradford,3
-Former FPPC Commissioner Bill Hauck,3
-Former FPPC Commissioner Colleen McAndrews,3
-Former FPPC Commissioner James Hall,3
-Former FPPC Commissioner Tony Quinn,3
-"Francine Bartfield, Ph.D",3
 (former) Senator Patrick Johnston,2
 1 Certified Massage Therapist,2
 1 Concerned Citizen,2
@@ -2684,6 +2684,7 @@ Eric Carlson,2
 "Eric Swalwell, Member of Congress",2
 FROM INDIVIDUALS,2
 "Fiona Ma, Chair, Board of Equalization",2
+"Food Allergy Psychologist, Don't Feed the Fear Podcast",2
 Former California State Senator Fran Pavley,2
 "Former Lieutenant Governor of California, Cruz Bustamante",2
 Former Mayor of the City of Huntington Park,2
@@ -2692,8 +2693,12 @@ Former Senator Mark Leno,2
 Former State Senator Wes Chesbro,2
 Four (4) Individuals,2
 Four Concerned Citizens,2
+"Fran Grattan, Supervisor, Nevada County",2
+"Frank C. Robert, Councilman",2
 "Frank Roberts, Mayor",2
+"Frank Schmehr, Esq",2
 "Frank Sieferman, Supervisor Yolo County",2
+"Frederick Lear, El Cajon Municipal Court Administrator",2
 Fresno City Councilmember Steve Brandau,2
 Fresno County Supervisor Henry Fresno Metro Ministry,2
 Fresno County Supervisor Nathan Magsig,2
@@ -3404,10 +3409,6 @@ Writers Guild of America West Numerous Individuals,2
 Yolo County Supervisor Helen M. Thomson,2
 Yolo County Supervisor Mariko Yamada,2
 Yreka Mayor David Simmen,2
-"Fran Grattan, Supervisor, Nevada County",2
-"Frank C. Robert, Councilman",2
-"Frank Schmehr, Esq",2
-"Frederick Lear, El Cajon Municipal Court Administrator",2
 1 Constituent,1
 1 Constituent Letter,1
 1 Deputy Chief of Police,1
@@ -5826,17 +5827,23 @@ Fiona Ma Treasurer,1
 "Fiona Ma, State Board of Equalization, Second District",1
 First District Honorable Mick Gleason,1
 First District Honorable Mike Maggard,1
+First Lady of California,1
+Folsom John Tucker,1
 Former Alameda Co. District Attorney Nancy O'Malley,1
 Former Assemblyman John Laird,1
 Former Assemblymember Alister McAlister,1
 Former Assemblymember Bob Campbell,1
 Former Assemblymember Fabian Nunez,1
 Former Assemblymember Mel Levine,1
+Former Bar Trustee Heather Linn Rosing,1
 Former California State Assemblymember Roger Dickinson,1
 Former California State Assemblymember Wes Chesbro,1
 Former California State Senator Dr. Edward Hernández,1
 Former Cerritos Mayor Bruce Barrows,1
 "Former Cerritos Mayor Bruce Barrows, California",1
+"Former Commissioners of Corporations Willie R. Barnes, Anthony Pierno",1
+"Former Commissioners of Corporations Willie R. Barnes, Anthony Pierno and Robert L. Toms",1
+"Former Legislator, Wesley Chesbro",1
 Former Senator Alan Sieroty,1
 Former Senator Fran Pavley,1
 Former Senator John Burton,1
@@ -5851,8 +5858,19 @@ Former State Senator Sam Blakeslee (co-author of Proposition 54),1
 Former U.S. Attorney General Edwin Meese III,1
 Fourteen Individuals,1
 Fourth District Sonoma County Supervisor James Gore,1
+"Fran Gage, Judge, Los Angeles International Extra-Virgin Olive Oil",1
+"Fran Pavley, Senator (ret.)",1
+Francine Bartfield,1
+"Francine Bradley, Ph.D., University of California",1
+"Francine Bradley, Ph.D., University of California Cooperative Extension Poultry",1
 Francisco Supervisor John Avalos,1
+"Frank C. Blair, Jr., D.D.S., Long Beach",1
+"Frank L. Kuccers, Esq",1
+Frank Schiavo (Professor San Jose State University),1
+"Frederick Jordan, Former Technical Advisor, U.S. Environmental",1
 Frederick M. Jahnkow (individual),1
+"Frederick Vars, Professor of Law",1
+"Fredrick A. Wentworth, San Joaquin County Superintendent",1
 Fremont City Councilmember Bill Harrison,1
 Fremont City Vice Mayor Ann Natajaran,1
 Fresno City Council Member Linda Calandra,1
@@ -5878,6 +5896,7 @@ Gabriel Quinto- Mayor Pro Tem City of El Cerrito,1
 "Gavin Newsom, Mayor of San Francisco",1
 "Gavin Newsom, Mayor of the City and County of San Francisco",1
 "Gavin Newsom, San Francisco Mayor",1
+Geoff Long / APPR. / (916) 319-2081,1
 Gilroy City Council Member Office of Zach Hilton,1
 Gilroy City Councilmember Zach Hilton,1
 Glenn County Supervisor Charles E. Harris Jr,1
@@ -7565,23 +7584,6 @@ ZG International Health Care Division Individuals,1
 "Zareh Sinenyan, Mayor of the City of Glendale",1
 for Northern California 43 Individuals,1
 of Stockton Council Member Moses Zapien,1
-First Lady of California,1
-Folsom John Tucker,1
-"Former Commissioners of Corporations Willie R. Barnes, Anthony Pierno",1
-"Former Commissioners of Corporations Willie R. Barnes, Anthony Pierno and Robert L. Toms",1
-"Former Legislator, Wesley Chesbro",1
-"Fran Gage, Judge, Los Angeles International Extra-Virgin Olive Oil",1
-"Fran Pavley, Senator (ret.)",1
-Francine Bartfield,1
-"Francine Bradley, Ph.D., University of California",1
-"Francine Bradley, Ph.D., University of California Cooperative Extension Poultry",1
-"Frank C. Blair, Jr., D.D.S., Long Beach",1
-"Frank L. Kuccers, Esq",1
-Frank Schiavo (Professor San Jose State University),1
-"Frederick Jordan, Former Technical Advisor, U.S. Environmental",1
-"Frederick Vars, Professor of Law",1
-"Fredrick A. Wentworth, San Joaquin County Superintendent",1
-Former Bar Trustee Heather Linn Rosing,1
 "COUNCIL MEMBER JON WIZARD, CITY OF SEASIDE",0
 "ERIC GARCETTI, MAYOR OF LOS ANGELES",0
 "ERIC GARCETTI, MAYOR, CITY OF LOS ANGELES",0
