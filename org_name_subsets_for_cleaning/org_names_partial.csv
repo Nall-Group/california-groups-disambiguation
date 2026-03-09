@@ -89,8 +89,8 @@ Consumers Attorneys of California,47
 Federation of California,47
 LLC,47
 Service,47
-Public,45
 Chief Probation,45
+Public,45
 Connect,44
 Group,44
 American College of Emergency Physicians State Chapter of,43
@@ -118,6 +118,7 @@ Chief Probation Officers of,34
 Colored People,34
 Legal Services for Prisoners with,34
 Los Angeles Affiliate of the National Association of,34
+City and County of San,33
 La,33
 Legal Services for,33
 PhD,32
@@ -128,14 +129,14 @@ MM,30
 Access,29
 Action,29
 California Business,29
+Chief Probation Officers,29
 Civil Justice Association of,29
 E2,29
 home,29
-Chief Probation Officers,29
 Assessor,28
 "California Attorneys, Administrative Law Judges and Hearing Officers in",28
-of Counties,28
 Chino,28
+of Counties,28
 California Association of Homes and Services for,27
 Judicial Council of,27
 Town of,27
@@ -145,10 +146,10 @@ California Association for the Education of,26
 Engineers and Scientists of,26
 laws,26
 Affiliate,25
+Chapter,25
 Coalition for,25
 Committee on,25
 RS,25
-Chapter,25
 American Association of,24
 Flo,24
 Organization of Farmworker Women Leaders in,24
@@ -174,8 +175,8 @@ Rwe,20
 State Public Affairs Committee of the Junior Leagues of,20
 of California Cities,20
 California Attorney,19
-Juvenile Court Judges of,19
 Chief Probation Officer,19
+Juvenile Court Judges of,19
 California Conference Board of,18
 Center on Race,18
 Dpa,18
@@ -207,6 +208,7 @@ Aids,15
 Balance,15
 California Association for Health Services at,15
 California Immigrant,15
+City of City,15
 Los Angeles Affiliate of the National Association of Counsel for,15
 Options,15
 "Planned Parenthood of Santa Barbara, Ventura and San Luis",15
@@ -219,6 +221,7 @@ California Coalition of,14
 California Commission on,14
 California Commission on the Status of,14
 California Union of,14
+Christ,14
 Family Law Section of the State Bar of,14
 Human Rights/Fair Housing Commission of the City and County of,14
 ING,14
@@ -233,7 +236,6 @@ also,14
 of California Seniors,14
 of Los Angeles County,14
 of bill,14
-Christ,14
 Alliance of,13
 California Academy of,13
 California Association of Services for,13
@@ -243,6 +245,7 @@ California Land Title,13
 California State Council of,13
 Chinese for,13
 City Council,13
+City of Beach,13
 Money Out Voters in,13
 Practice,13
 "San Francisco, City and County of",13
@@ -260,6 +263,7 @@ Bay,12
 California Financial,12
 "California, Los Angeles",12
 Campaign for,12
+City of La,12
 Consulting,12
 Consumer Coalition of California,12
 DK,12
@@ -299,6 +303,7 @@ California City,10
 California Coalition of Agencies Serving the Deaf and Hard of,10
 California Council of,10
 California Society for,10
+City of Palm,10
 Commission on,10
 Esq,10
 "Foundation, Inc",10
@@ -569,6 +574,8 @@ Capital,5
 Center on,5
 Chambers of,5
 Change,5
+"Chaplain, Sylmar, CA",5
+Chiefs,5
 City of California,5
 "Committee, Inc",5
 Concerned Women for,5
@@ -643,8 +650,6 @@ of Santa Monica,5
 of Schools,5
 of Social Workers - California Chapter,5
 pic,5
-"Chaplain, Sylmar, CA",5
-Chiefs,5
 $10,4
 AHS,4
 Academy,4
@@ -706,7 +711,9 @@ Center for Responsible,4
 Centers and Programs,4
 Central California Education,4
 Chamber of,4
+Chub,4
 City County Association of Governments of,4
+City of Community,4
 Club California,4
 Coalition for Humane Immigrant Rights of,4
 Coalition to Actively Treat and Educate for,4
@@ -842,7 +849,6 @@ of the 2019-20 Legislative Session,4
 of the City of Los Angeles,4
 of the United States,4
 pe,4
-Chub,4
 29 AFL-CIO and CLC,3
 3,3
 8vdx,3
@@ -942,7 +948,10 @@ Central American Resource,3
 Central CA Chapter of the Peace Officers Research,3
 Central Labor Council of,3
 "Chico, City of",3
+Chief Probation Officer of California,3
+Chief of Policy,3
 "Child/Adolescent Services, Department of Mental Health, Commonwealth of",3
+Chip,3
 Christ Church of,3
 City of Rancho Cucamonga and City of,3
 Coalition of Apparel Industries in,3
@@ -1193,9 +1202,6 @@ of Veteran Service Agencies,3
 of the Children,3
 of the San Bernardino County Sheriff,3
 the Advancement of Colored People (NAACP),3
-Chief of Policy,3
-Chip,3
-Chief Probation Officer of California,3
 3492 (North Antelope),2
 434-B,2
 6,2
@@ -1398,6 +1404,7 @@ Central Contra Costa,2
 Central Pet,2
 Centro Legal de la,2
 Chambers of Commerce Alliance of,2
+Chap.,2
 Chapter of,2
 "Charles Chrietzberg, Member, Governor's Task Force on",2
 "Chief of Police (Acting) Howard Jordan, City of",2
@@ -1409,20 +1416,26 @@ Child Abuse Prevention Council of,2
 Child Protection Center Department of,2
 Child and Family Protection AssociationNational Association of,2
 "Children's Advocacy Institute, California League of",2
+Childrenos,2
 Childrenos Advocacy Institute and California Consortium for,2
 Chinatown Community for,2
 "Chino Hills, City of",2
 "Chino, City of",2
 "Christian Collier, Administrator of a Housing Facility in",2
 Christian Science Committee on Publication for,2
+Chute,2
 "Cindy Miscikowski, Councilwoman, Eleventh District, City of",2
 City Administrator of,2
+"City Attorney, Los",2
 City Chamber of Commerce,2
 City Council of the City of,2
+City of Bob,2
+City of Child,2
 City of City of,2
 City of County of,2
 City of Inglewood Chief of,2
 "City of Los Angeles, Executive Council of",2
+City of Mission,2
 City of Redding Chief of,2
 City of San Juan Capistrano Consumer Attorneys of,2
 City of Santa Barbara Chief of,2
@@ -2059,9 +2072,6 @@ seq,2
 t,2
 the Paralyzed Veterans of,2
 "the Senate Health Committee. AB 75 (Frommer and Chan), with",2
-Chap.,2
-Chute,2
-Childrenos,2
 $30,1
 104 Individual Letters from Representatives of,1
 1065 (PEACE),1
@@ -2671,6 +2681,7 @@ Carlsbad Chief of,1
 Cash 1,1
 Castro Valley School of,1
 "Cathedral, City of",1
+Cedars,1
 Ceh,1
 Center For Integrated Services For Families And,1
 Center for Competitive,1
@@ -2712,8 +2723,16 @@ Certified Family Law Specialists of,1
 "Chamber of Commerce, California Council for",1
 Chambers of Commerce of,1
 "Chancellor Carol Tomlinson-Keasey, University of",1
+Chaplain,1
 Chatworth Chamber of,1
 "Chemistry Council, the American Electronics Association, the Bromine Science and Environmental Forum, California Women for",1
+Chief Administrative,1
+Chief Administrative Office,1
+Chief Operating Officer,1
+Chief Ranger,1
+Chief Scientist for Climate Change Programs,1
+"Chief Student Services Administrators Association, California Community",1
+Chief Sustainability Officer & Vp Operations,1
 "Chief of Police Paul Cooper, City of",1
 Chiefs of Police & Sheriff's Association of,1
 Chiefs of Police for the Cities of,1
@@ -2728,11 +2747,16 @@ Children's Advocacy Institute/ Center for,1
 Children's Bureau of,1
 "Children's Hospital Allergy/Immunology Division, University of",1
 Children's Law Center of,1
+Childrenos Convalescent Hospital of San,1
 Chinese Chamber of Commerce of,1
 Chino Hills Cities Of,1
+Chris,1
 "Chris Norby, Supervisor, Fourth District, Orange County Board of",1
+"Christ, El",1
 Christian Science Committee on,1
 Christian Science Committees on Publication for,1
+Christine,1
+Christy,1
 "Chula Vista, City of",1
 Church of,1
 Church of Jesus Christ of,1
@@ -2741,6 +2765,7 @@ Cities/Counties/Towns of,1
 Citizen's Review Board of,1
 Citizens Committee for,1
 Citizens for the,1
+City Attorney of San,1
 City Council and Commission on the Status of Women of,1
 City Council of,1
 "City Managers' Association, Association of",1
@@ -2752,24 +2777,35 @@ City and County of San Francisco Department on the Status of,1
 City of Association of,1
 City of Brea |City of Norwalk |City/County Assn. of,1
 City of Brentwood |City of Novato |Governments of,1
+City of Canyon,1
 City of Capitola |City of Palm Desert |City/County Assn. of,1
 City of Carlsbad |City of Palmdale |Governments of,1
+City of Casino,1
 "City of Claremont, Chief of",1
+City of Clean,1
+City of Coalition,1
 City of Colusa |City of Petaluma |Foundation for,1
 City of Colusa |City of Pinole |Foundation for,1
 City of Commerce |City of Pinole |Taxpayers and,1
 City of Commerce |City of Pismo Beach |Taxpayers and,1
+City of Commission,1
 City of Concord |City of Pomona |Kern County Board of,1
 City of Coronado |City of Pomona |Council of,1
 City of Cotati |City of Rancho Cordova |Council of,1
+City of Council,1
+City of Councilmembers,1
 "City of Cupertino, City of",1
 City of Emeryville |City of Salinas |Marin County Board of,1
 City of Escondido |City of San Clemente | Association of,1
 City of Fairfield |City of San Dimas | Association of,1
 City of Fresno |City of San Pablo |Television of,1
 City of Garden Grove |City of San Marcos |Television of,1
+City of Grove,1
 City of Hayward/Office of,1
+City of Housing,1
 City of Hughson |Barbara |Sac. County Board of,1
+City of Human,1
+City of Independent,1
 City of Irvine | |Board of,1
 "City of La Habra, City of",1
 City of League of,1
@@ -2780,7 +2816,13 @@ City of Los Angeles Commission on,1
 "City of Los Angeles, Harbor Association of",1
 "City of Monterey, City of",1
 "City of Moreno Valley, Sanitation Districts of Los Angeles County, League of",1
+City of Mt,1
+City of Non,1
+City of Order,1
 "City of Palm Desert, California Association for",1
+City of Peace,1
+City of Point,1
+City of Power,1
 "City of Richmond, Office of",1
 "City of Rohnert Park, Department of",1
 City of San Diego as part of,1
@@ -4688,20 +4730,6 @@ the San Francisco Bay Area Chapter of,1
 the bill but DOF has not had the,1
 too,1
 use,1
-Cedars,1
-Chaplain,1
-Chief Administrative,1
-Chief Administrative Office,1
-Chief Operating Officer,1
-Chief Ranger,1
-Chris,1
-"Christ, El",1
-Christine,1
-Christy,1
-Childrenos Convalescent Hospital of San,1
-Chief Scientist for Climate Change Programs,1
-Chief Sustainability Officer & Vp Operations,1
-"Chief Student Services Administrators Association, California Community",1
 542,0
 "542, Local 572",0
 AFL-CIO Local 11,0
