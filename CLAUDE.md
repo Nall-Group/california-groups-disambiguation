@@ -15,7 +15,7 @@ When an entry in the crosswalk turns out to not be a real organization, two thin
 
 | File | What goes here |
 |------|---------------|
-| `org_names_that_are_actually_individuals.csv` | People's names (e.g. "Attorney General Rob Bonta") |
+| `org_names_that_are_actually_individuals.csv` | People's names (e.g. "Attorney General Rob Bonta"). **Exception:** If the person holds a leadership role (Mayor, President, Director, Sheriff, Chief, Superintendent, CEO, Chair, etc.) at an identifiable org, make the entry an alternate spelling of that org instead. Only move to individuals CSV if no org is identifiable or the person is just a member/employee, not a leader. |
 | `org_names_partial.csv` | Incomplete/fragment names (e.g. "LOS", "SAN") |
 | `org_names_conjoined.csv` | Multiple orgs joined together (e.g. "Sierra Club Planning and Conservation League") |
 | `org_names_invalid.csv` | Not organizations at all (e.g. legislative bills, procedural text like "GOVERNOR'S VETO MESSAGE") |
@@ -74,6 +74,20 @@ The management assistant is a dedicated Claude Code session that coordinates bet
 5. Management assistant scans the crosswalk JSON for issues (invalid entries, duplicates, etc.) and proposes new tasks
 
 **Scanning protocol:** The management assistant scans `2_webapp/org_clusters_crosswalk.json` in 5000-line chunks using background agents. Progress is tracked in the memory file `scan_status.md`.
+
+**Task proposal format:** When presenting proposed tasks to the human for review:
+- For each task, briefly explain what the RA will DO (the workflow/instructions), not just list the entries
+- List org names VERTICALLY (one per line, bulleted) so they are easy for a human to scan — never inline in a paragraph
+- Always show specific org names so the human can review before approval
+
+**Categorization rules for scan findings:**
+- **Leadership roles** that make an entry an alt spelling of the org (not an individual): Mayor, President, Director (of whole org), Sheriff, Chief, Superintendent, CEO, Chair, Owner of a business
+- **NOT leadership** — these are plain individuals: Councilmembers, Supervisors, Commissioners, Trustees (unless Chair), Legislators, Vice/Deputy/Associate roles, and department-level Directors (e.g. "Director of Strategic Planning" or "Chief of a branch/division")
+- **Out-of-state orgs** that lobby the CA legislature are legitimate — keep in crosswalk
+- **Truncated entries**: Search the crosswalk AND the internet before moving to partial. If the full org name is unambiguous, add the full name as canonical (if not already present) and make the truncated version an alternate spelling. Only move to partial if truly ambiguous after both searches.
+- **Dirty entries**: After cleaning (stripping metadata/prefixes/suffixes), check if the clean version is still invalid (might be an individual, fragment, etc.) and move to the appropriate CSV
+- **Conjoined entries**: Split out the individual orgs and ensure each one is present in the crosswalk
+- **OCR/typo entries**: Make the typo version an alternate spelling under the correct canonical
 
 ## Worker RA Role
 
