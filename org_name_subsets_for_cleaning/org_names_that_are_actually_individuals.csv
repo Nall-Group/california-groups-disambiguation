@@ -190,6 +190,7 @@ Controller of the State of California,10
 Councilmember Dawn Murdock,10
 Councilmember Jim Madaffer,10
 "Fiona Ma, State Board of Equalization Member",10
+Gayle Paul,10
 "HONORABLE ERIC GARCETTI, MAYOR",10
 "Judge James R. Brandlin, Los Angeles Superior Court",10
 "Libby Schaaf, Mayor of Oakland",10
@@ -209,7 +210,6 @@ San Francisco Mayor's Office,10
 Senator Kehoe,10
 State of California Attorney General Rob Bonta,10
 Treasurer Phil Angelides,10
-Gayle Paul,10
 14 Individual Letters,9
 5 Private Citizens,9
 7 INDIVIDUAL LETTERS,9
@@ -897,6 +897,8 @@ Former Mayor Steinberg,4
 "Franz E. Miller, Individual",4
 "Freddy Puza, Councilmember, Culver City",4
 Fresno Mayor Ashley Swearengin,4
+"George Syrop, Councilmember, Hayward",4
+"George Weiss, Councilmember, Laguna Beach",4
 Goleta City Council Member Roger Aceves,4
 Goleta City Council Member Tony Vallejo,4
 Governor Jerry Brown,4
@@ -1084,8 +1086,6 @@ Vice Mayor Henry Chang,4
 "Vice Mayor of the City of Santa Cruz, Martine Watkins",4
 "Xavier Becerra, Attorney General, State of California",4
 "Yasmine-imani Mcmorrin, Mayor, Culver City",4
-"George Syrop, Councilmember, Hayward",4
-"George Weiss, Councilmember, Laguna Beach",4
 10 Individual Business Owners and Representatives and Franchisees,3
 109 Local Elected Officials,3
 12 Instructors of Cosmetology/Cosmetologists/Barbers,3
@@ -1584,8 +1584,11 @@ Former United States Attorney General Edwin Meese III,3
 Fremont City Councilmember Jenny Kassan,3
 "Fresno Councilmember Oliver Baines, III",3
 Fresno Mayor Alan Autry,3
+Gabriel,3
+"Garrett W. Zimmon, Chief of Policy",3
 "Gavin Newsom, California Lieutenant Governor",3
 General Bill Lockyer,3
+"Georggette Tadros, M.D., Pediatrics",3
 "Gray Davis, Lieutenant Governor, State of California",3
 "HONORABLE CRUZ BUSTAMANTE, LIEUTENANT GOVERNOR",3
 "HONORABLE DEAN F. ANDAL, MEMBER, BOARD OF EQUALIZATION",3
@@ -1920,9 +1923,6 @@ West Hollywood Councilmember John Erickson,3
 West Valley Mayors/Managers,3
 Yolo County Supervisor Jim Provenza,3
 Yuba County Supervisor Gary Bradford,3
-Gabriel,3
-"Garrett W. Zimmon, Chief of Policy",3
-"Georggette Tadros, M.D., Pediatrics",3
 (former) Senator Patrick Johnston,2
 1 Certified Massage Therapist,2
 1 Concerned Citizen,2
@@ -2709,12 +2709,22 @@ Fresno City Councilmember Steve Brandau,2
 Fresno County Supervisor Henry Fresno Metro Ministry,2
 Fresno County Supervisor Nathan Magsig,2
 "Gabriel Quinto, Mayor",2
+"Gail Steele, Alameda County Supervisor",2
 "Garrett Huff, Fire Captain of Santa Barbara County Fire Department, and President of Santa Barbara County Fire Fighter's Benevolent Foundation",2
+"Gary Bredefeld, Fresno City Councilmember, District 6",2
 "Gay Abarbanell, CFP, Culver City, CA",2
 Geoff Ellsworth Mayor,2
+"George C. Cunningham, M.D., Chief, Genetic Disease Branch of the California Department of Health Services",2
+"George Shirakawa, Jr., Councilmember, City",2
+"Georgette Gomez, Councilmember",2
 "Gilroy City Council Member Office, Councilmember Zack Hilton",2
 Gilroy City Council Member Zach Hilton,2
+Gina Lamourelle,2
+Gisela Larkin,2
+Glassey Smith,2
+"Glenn F. Zurawski, M.D",2
 "Glenn Pope, Individual",2
+"Gloria Molina, County Board of Supervisors, 1st District",2
 Goleta Mayor Edward Easton,2
 Governor Leo McCarthy,2
 HERCULES MAYOR CHRIS KELLEY,2
@@ -3415,16 +3425,6 @@ Writers Guild of America West Numerous Individuals,2
 Yolo County Supervisor Helen M. Thomson,2
 Yolo County Supervisor Mariko Yamada,2
 Yreka Mayor David Simmen,2
-"Gail Steele, Alameda County Supervisor",2
-"Gary Bredefeld, Fresno City Councilmember, District 6",2
-"George C. Cunningham, M.D., Chief, Genetic Disease Branch of the California Department of Health Services",2
-"George Shirakawa, Jr., Councilmember, City",2
-"Georgette Gomez, Councilmember",2
-Gina Lamourelle,2
-Gisela Larkin,2
-Glassey Smith,2
-"Glenn F. Zurawski, M.D",2
-"Gloria Molina, County Board of Supervisors, 1st District",2
 1 Constituent,1
 1 Constituent Letter,1
 1 Deputy Chief of Police,1
@@ -5901,22 +5901,48 @@ Fresno County Supervisor Sal Quintero,1
 Fresno County Supervisor Stan Oken,1
 Fresno Mayor Lee Brand,1
 Fullerton Mayor Chris Norby,1
+"G. Boynton, Attorney at Law",1
 GOVERNOR'S BUDGET . The Governor's Aging with Dignity,1
+"Gabe Quinto, Councilmember",1
+Gabriel Quinto,1
 Gabriel Quinto- Mayor Pro Tem City of El Cerrito,1
+Gail Hayek,1
 "Garcetti, Mayor of the City of Los Angeles",1
+"Garen Wintemute, M.D., MPH, Professor and Director, Violence",1
 "Garrett Huff, Fire Captain, Santa Barbara County Fire Department, and President, Santa Barbara",1
+"Gary C. Ovitt, San Bernardino County Supervisor",1
 "Gary Davis, Mayor",1
+"Gary Gilbert, Madera County Supervisor, District Five",1
 "Gary Yates, Mayor",1
 "Gary Yates, Mayor of San Mateo",1
 "Gavin Newsom, Lieutenant Governor, State of California",1
 "Gavin Newsom, Mayor of San Francisco",1
 "Gavin Newsom, Mayor of the City and County of San Francisco",1
 "Gavin Newsom, San Francisco Mayor",1
+Gaynes,1
+"Gene Lucas, PhD - Executive Vice Chancellor, University of California Santa",1
 Geoff Long / APPR. / (916) 319-2081,1
+George Corbin,1
+"George Dies, Director, Strategic Planning, HP Labs, Hewlett-Packard Company",1
+"George G. Alongi, Councilmember",1
+George Narancic,1
+"George Stevens, Deputy Mayor City of San Diego",1
+"Gib Myers, Partner Emeritus, Mayfield Fund & Founder/Board",1
+"Gil Cedillo, Councilmember, First District of the City of Los Angeles",1
+Gil Rebollar - Brawley City Councilmember,1
 Gilroy City Council Member Office of Zach Hilton,1
 Gilroy City Councilmember Zach Hilton,1
+Gini Richardson,1
+Gleam Davis - City of Santa Monica Councilmember,1
+Gleam Davis City Councilmember,1
 Glenn County Supervisor Charles E. Harris Jr,1
+"Glenn F. Zurawski, M.D. (w/ Anesthesia Care)",1
 "Glenn Miller, Mayor of City of Indio",1
+"Gloria Bosco, State Surgeon, Veterans of Foreign Wars, Department of California",1
+"Gloria C. Sigafoos, PT, OCS",1
+"Gloria Molina, Supervisor",1
+"Gloria Molina, Supervisor, Los Angeles County",1
+"Goldberg, Michael (Former Senior Writer/Associate Editor, Rolling Stone Magazine)",1
 Governor Arnold Schwarzenegger and the State,1
 Governor Arnold Schwarzenneger,1
 Governor Cruz Bustamante,1
@@ -5940,6 +5966,7 @@ Grover Beach Councilmember Mariah Shah,1
 "HONORABLE BETTY T. YEE, CALIFORNIA STATE CONTROLLER",1
 "HONORABLE DAVID ALVAREZ, COUNCILMEMBER",1
 "HONORABLE SAM LICCARDO, MAYOR",1
+"Hanselmann, Chief Librarian",1
 "Harriet Miller, Mayor of Santa Barbara",1
 "Harry Sidhu, Mayor",1
 Hayward Mayor Barbara Halliday,1
@@ -7600,32 +7627,6 @@ ZG International Health Care Division Individuals,1
 "Zareh Sinenyan, Mayor of the City of Glendale",1
 for Northern California 43 Individuals,1
 of Stockton Council Member Moses Zapien,1
-"G. Boynton, Attorney at Law",1
-"Gabe Quinto, Councilmember",1
-Gabriel Quinto,1
-Gail Hayek,1
-"Garen Wintemute, M.D., MPH, Professor and Director, Violence",1
-"Gary C. Ovitt, San Bernardino County Supervisor",1
-"Gary Gilbert, Madera County Supervisor, District Five",1
-Gaynes,1
-"Gene Lucas, PhD - Executive Vice Chancellor, University of California Santa",1
-George Corbin,1
-"George Dies, Director, Strategic Planning, HP Labs, Hewlett-Packard Company",1
-"George G. Alongi, Councilmember",1
-George Narancic,1
-"George Stevens, Deputy Mayor City of San Diego",1
-"Gib Myers, Partner Emeritus, Mayfield Fund & Founder/Board",1
-"Gil Cedillo, Councilmember, First District of the City of Los Angeles",1
-Gil Rebollar - Brawley City Councilmember,1
-Gini Richardson,1
-Gleam Davis - City of Santa Monica Councilmember,1
-Gleam Davis City Councilmember,1
-"Glenn F. Zurawski, M.D. (w/ Anesthesia Care)",1
-"Gloria Bosco, State Surgeon, Veterans of Foreign Wars, Department of California",1
-"Gloria C. Sigafoos, PT, OCS",1
-"Gloria Molina, Supervisor",1
-"Gloria Molina, Supervisor, Los Angeles County",1
-"Goldberg, Michael (Former Senior Writer/Associate Editor, Rolling Stone Magazine)",1
 "COUNCIL MEMBER JON WIZARD, CITY OF SEASIDE",0
 "ERIC GARCETTI, MAYOR OF LOS ANGELES",0
 "ERIC GARCETTI, MAYOR, CITY OF LOS ANGELES",0
