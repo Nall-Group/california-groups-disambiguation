@@ -2,7 +2,7 @@ org_name,count
 CALIFORNIA CHAMBER OF COMMERCE,11434
 "AMERICAN FEDERATION OF STATE , COUNTY AND MUNICIPAL EMPLOYEES",10064
 Sierra Club,9404
-CALIFORNIA STATE ASSOCIATION OF COUNTIES,9043
+CALIFORNIA STATE ASSOCIATION OF COUNTIES,9046
 California Labor Federation,9020
 LEAGUE OF CALIFORNIA CITIES,7768
 CALIFORNIA TEACHER'S ASSOCIATION,7698
@@ -14,7 +14,7 @@ California School Employees Association,6035
 CALIFORNIA PUBLIC DEFENDER'S ASSOCIATION,5796
 California,5442
 ACLU CALIFORNIA,5381
-PLANNING AND CONSERVATION LEAGUE,5251
+PLANNING AND CONSERVATION LEAGUE,5252
 California Nurses Association,5134
 CALIFORNIA FEDERATION OF TEACHERS,5122
 California Professional Firefighters,5107
@@ -53,7 +53,7 @@ CONSUMER FEDERATION OF CALIFORNIA,2775
 Los Angeles Unified School District,2744
 Disability Rights,2729
 CHILDREN NOW,2707
-Health Access,2660
+Health Access,2661
 CALIFORNIA MANUFACTURERS AND TECHNOLOGY ASSOCIATION,2634
 CALIFORNIA STATE PTA,2535
 California Special Districts Association,2462
@@ -62,7 +62,7 @@ RURAL COUNTY REPRESENTATIVES OF CALIFORNIA,2410
 Western Center on Law Poverty,2372
 CITY AND COUNTY OF SAN FRANCISCO,2348
 California Immigrant Policy Center,2297
-California Bankers Association,2268
+California Bankers Association,2269
 Howard Jarvis Taxpayers Association,2264
 Judicial Council,2236
 CLEAN WATER ACTION,2234
@@ -71,7 +71,7 @@ COUNTY OF LOS ANGELES BOARD OF SUPERVISORS,2198
 Association for Los Angeles Deputy Sheriff's,2154
 COUNTY WELFARE DIRECTOR'S ASSOCIATION,2152
 "Planned Parenthood, Affiliates of California",2130
-CALIFORNIA ASSOCIATION OF HEALTH PLANS,2127
+CALIFORNIA ASSOCIATION OF HEALTH PLANS,2128
 STATE BUILDING AND CONSTRUCTION TRADES COUNCIL,2126
 LEGAL SERVICES FOR PRISONERS WITH CHILDREN,2027
 Crime Victim's United,2024
@@ -107,7 +107,7 @@ Housing California,1675
 CALIFORNIA ACADEMY OF FAMILY PHYSICIANS,1634
 California Faculty Association,1621
 Bay Area Council,1613
-UNIVERSITY OF CALIFORNIA,1612
+UNIVERSITY OF CALIFORNIA,1613
 Western Growers Association,1600
 ACLU California Action,1593
 COALITION FOR CLEAN AIR,1548
@@ -141,7 +141,7 @@ Nature Conservancy,1333
 Initiate Justice,1328
 CALIFORNIA ADVOCATES FOR NURSING HOME REFORM,1325
 CALIFORNIA STATE COMMANDERS VETERANS COUNCIL,1325
-CALIFORNIA ASSOCIATION OF HEALTH FACILITIES,1319
+CALIFORNIA ASSOCIATION OF HEALTH FACILITIES,1320
 CALIFORNIA STATE COUNCIL OF LABORERS,1319
 ENVIRONMENTAL DEFENSE FUND,1319
 Attorney General,1315
@@ -203,7 +203,7 @@ CALIFORNIA ASSOCIATION OF COUNTY VETERANS SERVICE OFFICERS,1082
 Office of the Attorney General,1082
 Western Electrical Contractors Association,1082
 Association of California Life and Health Insurance Companies,1076
-California Psychological Association,1073
+California Psychological Association,1074
 COMMITTEE ON MORAL CONCERNS,1068
 TRUST FOR PUBLIC LAND,1068
 ALAMEDA COUNTY BOARD OF SUPERVISORS,1062
@@ -258,7 +258,7 @@ California School Nurses Organization,891
 ALLIANCE FOR CHILDREN'S RIGHTS,887
 American Association of University Women,886
 Los Angeles County,884
-MEDICAL BOARD OF CALIFORNIA,882
+MEDICAL BOARD OF CALIFORNIA,883
 California Transit Association,878
 CALIFORNIA NATIVE PLANT SOCIETY,877
 ENGINEERS AND SCIENTISTS OF CALIFORNIA,874
@@ -566,7 +566,7 @@ California Council of Community Mental Health Agencies,460
 CALIFORNIA CORRECTIONAL SUPERVISOR'S ORGANIZATION,459
 California Veterinary Medical Association,459
 LOS ANGELES LGBT CENTER,458
-California Assisted Living Association,457
+California Assisted Living Association,458
 California Conference Board of the Amalgamated Transit,457
 NATIONAL COUNCIL OF LA RAZA,457
 Smart Justice California,457
@@ -2481,10 +2481,10 @@ Sheriffs,111
 Superintendent of Public Instruction Tom Torlakson,111
 Visalia Chamber of Commerce,111
 WOMEN LAWYERS OF SACRAMENTO,111
+California Hepatitis C Task Force,111
 Alzheimer's Association California Council,110
 CITY OF HALF MOON BAY,110
 California Association of Mortgage Brokers,110
-California Hepatitis C Task Force,110
 City of Selma,110
 Community Economics,110
 Elder Law & Advocacy,110
@@ -3206,10 +3206,10 @@ The Child Abuse Prevention Center,83
 United,83
 Urban Peace Institute,83
 Valley,83
+Alliance of California Autism Organizations,83
 Acterra Action for a Healthy Planet,82
 Alameda Labor Council,82
 Alchemist CDC,82
-Alliance of California Autism Organizations,82
 American Beverage Association,82
 Attorney General of California,82
 CALIFORNIA DEPARTMENT OF FORESTRY EMPLOYEES' ASSOCIATION,82
@@ -21744,6 +21744,7 @@ Yuba City Unified School District,10
 Yusen Terminals,10
 Z-Best Products,10
 Zipmarc Working Retrievers,10
+"Protection and Advocacy, Inc.",10
 100% Campaign: Health Insurance for Every California Child,9
 350 Chico,9
 350 East Bay,9
@@ -23702,7 +23703,6 @@ Project Rescue,9
 Property Association,9
 Property ID,9
 ProtectRWildlife - Palmdale,9
-"Protection and Advocacy, Inc.",9
 Protective Parents Association,9
 Providence Health System,9
 Providian Financial Corporation,9
@@ -65069,7 +65069,6 @@ Concerned Women for America of California (CWA),3
 "Concerned Women for America of California (San Diego, Riverside and Imperial Counties)",3
 "Concerned Women for America of California, San Diego and Imperial Counties",3
 Concerns/Other,3
-Concerns: California State Association of Counties,3
 Conco,3
 Conco Companies,3
 Concord Cable,3
@@ -118628,6 +118627,7 @@ the The Association of Plastic Recyclers,2
 the United Food and Commercial Workers Union,2
 the University of the Pacific,2
 "the Wellhead Electric Company, Inc",2
+California Pharmacists Association (CPhA),2
 . Training in Early Abortion for Comprehensive Healthcare (TEACH),1
 1 + 1 Senior Care,1
 1 Hour Appliance Repair,1
@@ -129568,7 +129568,6 @@ COLUSA COUNTY OFFICE OF EDUCATION CHILDREN'S SERVICES,1
 COMMITTEE COMMENTS AND QUESTIONS,1
 COMMITTEE.[1],1
 COMP,1
-CONCERN: Planning and Conservation League,1
 "CONFERENCE COMMITTEE VOTE: p. 6221,",1
 "CONNECT, the UCSD Program in Technology Entrepreneurship",1
 CONSTRUCTION AND OPERATIONS,1
@@ -133383,7 +133382,6 @@ California Permanente Medical Group,1
 California Pesticide Action Network,1
 California Phamacists Association,1
 California Pharmaceutical Association,1
-California Pharmacists Association (CPhA),1
 California Pharmacists Assocition,1
 California Pharmacy Board,1
 California Philanthropy,1
@@ -141166,8 +141164,6 @@ Concern California Perfusionist,1
 Concern Citizens of Leisure World,1
 Concern Foundation for Cancer Research,1
 Concern/Other,1
-Concern: California Bankers Association,1
-Concern: California Psychological Association,1
 Concerned Animal Lovers,1
 Concerned Business Owners,1
 Concerned California Pefusionists,1
@@ -141217,16 +141213,6 @@ Concerns of Police,1
 "Concerns of Police Survivors, Northern California",1
 "Concerns. The California State Association of Counties, the Urban",1
 Concerns. Western Center on Law & Poverty and the California Rural,1
-Concerns: Alliance of California Autism Organizations,1
-Concerns: California Assisted Living Association,1
-Concerns: California Association of Health Facilities,1
-Concerns: California Association of Health Plans,1
-Concerns: California Pharmacists Association (CPhA),1
-Concerns: Health Access,1
-"Concerns: Protection and Advocacy, Inc",1
-Concerns: University of California,1
-Concerns:California Hepatitis C Task Force,1
-Concerns:Medical Board of California,1
 Conciliation,1
 Concilio,1
 "Concilio Immigration Proyecto (Fresno, CA)",1

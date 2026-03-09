@@ -189,6 +189,9 @@
 (?i)^\s*ARGUMENTS IN SUPPORT\s*:?\s*
 (?i)^\s*Staff Comments\s*:\s*
 
+# Leading "Concern:" / "Concerns:" / "Concerns: " prefix - BEGINNING
+(?i)^\s*Concerns?\s*:\s*
+
 # Leading "Support." / "SUPPORT." / "Support:" / "Support and Opposition." prefix - BEGINNING
 (?i)^\s*Support and Opposition[\.:]\s*
 (?i)^\s*SUPPORT[\.:]\s*
