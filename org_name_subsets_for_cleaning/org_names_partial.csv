@@ -127,9 +127,9 @@ Los Angeles Affiliate of the National Association of,34
 City and County of San,33
 La,33
 Legal Services for,33
-PhD,32
 Corp,32
 Counsel,32
+PhD,32
 Jr,31
 Board of,30
 "Council, Inc",30
@@ -147,10 +147,10 @@ Assessor,28
 Chino,28
 of Counties,28
 California Association of Homes and Services for,27
+Counselors,27
 Judicial Council of,27
 Town of,27
 of Realtors,27
-Counselors,27
 Business,26
 California Association for the Education of,26
 Clue,26
@@ -161,8 +161,8 @@ Chapter,25
 Civil,25
 Coalition for,25
 Committee on,25
-RS,25
 Control,25
+RS,25
 American Association of,24
 Flo,24
 Organization of Farmworker Women Leaders in,24
@@ -194,6 +194,7 @@ Clara,19
 Juvenile Court Judges of,19
 California Conference Board of,18
 Center on Race,18
+Contra,18
 Dpa,18
 Junior Leagues of,18
 LLP,18
@@ -201,16 +202,15 @@ People,18
 Rural County Representative of California,18
 State Coalition of,18
 vote,18
-Contra,18
 Air,17
 Belmont,17
 Communications,17
+Controller,17
 IX,17
 "Los Angeles, City of",17
 "Planned Parenthood Action Fund of Santa Barbara, Ventura and San Luis",17
 of Women,17
 two,17
-Controller,17
 California Building,16
 California Council on Alcohol,16
 California National Organization for,16
@@ -241,6 +241,7 @@ California Commission on,14
 California Commission on the Status of,14
 California Union of,14
 Christ,14
+Constituent,14
 Family Law Section of the State Bar of,14
 Human Rights/Fair Housing Commission of the City and County of,14
 ING,14
@@ -255,7 +256,6 @@ also,14
 of California Seniors,14
 of Los Angeles County,14
 of bill,14
-Constituent,14
 Alliance of,13
 California Academy of,13
 California Association of Services for,13
@@ -392,6 +392,7 @@ California Conference of Local,8
 California League of Food,8
 California National Organization for the Reform of,8
 Construction Materials Association of,8
+Control District,8
 Council of,8
 Electrical Contractors Association of,8
 "Estate Planning, Trust and Probate Law Section of",8
@@ -419,7 +420,6 @@ ago,8
 j,8
 of California (PORAC),8
 of the San Francisco Bay Area,8
-Control District,8
 Accountability,7
 Afghan Hound Club of California,7
 Agents,7
@@ -610,6 +610,7 @@ Com.,5
 "Committee, Inc",5
 Concerned Women for,5
 Contra Costa County Advisory Council on,5
+Coroner,5
 Council of Asian American Business Associations of,5
 County Alcohol and Drug Program Administrators Assoc. of,5
 "County, City of",5
@@ -680,7 +681,6 @@ of Santa Monica,5
 of Schools,5
 of Social Workers - California Chapter,5
 pic,5
-Coroner,5
 $10,4
 AHS,4
 Academy,4
@@ -753,6 +753,7 @@ Coalition to Actively Treat and Educate for,4
 College of Veterinary Medicine at Western University of,4
 Communications Workers of,4
 Conservation,4
+Contra Council,4
 Council on,4
 County of Humboldt . California State Association of,4
 Cox,4
@@ -882,7 +883,6 @@ of the 2019-20 Legislative Session,4
 of the City of Los Angeles,4
 of the United States,4
 pe,4
-Contra Council,4
 29 AFL-CIO and CLC,3
 3,3
 8vdx,3
@@ -1000,10 +1000,17 @@ Community Adult Day Care of Community Hospital of San,3
 Community and Children's,3
 Conference of Private Organizations in California,3
 Conference of the NAACP,3
+Confermed,3
 Contra Costa County Office of,3
+Contractor,3
+Control Agency,3
+Control Board,3
+Control Commission,3
 "Corona, City of",3
+Correction,3
 Council of Asian American Business Association of,3
 "Counties of Humboldt, Placer, Madera, and",3
+Countrywide,3
 County Chamber of Commerce,3
 County of Los Angeles Board of,3
 "Cruz Counties, Community Housing Improvement Systems and Planning Association, Monterey County Association of",3
@@ -1243,13 +1250,6 @@ of Veteran Service Agencies,3
 of the Children,3
 of the San Bernardino County Sheriff,3
 the Advancement of Colored People (NAACP),3
-Confermed,3
-Contractor,3
-Control Agency,3
-Control Board,3
-Control Commission,3
-Correction,3
-Countrywide,3
 3492 (North Antelope),2
 434-B,2
 6,2
@@ -1502,11 +1502,14 @@ Colleges and,2
 Colorado,2
 "Colusa, County of",2
 Commander Department of,2
+"Commander, California",2
 Commercial Real Estate Development Association - National Association of,2
 Commercial Transactions Committee of the California Business Law Section of,2
 Committee for,2
 Common,2
 Communication Co,2
+Communications Manager,2
+Communications Operations Supervisor,2
 Communities (RCRC) and the California State Association of,2
 Communities United for,2
 Community & Children's Advocates Against,2
@@ -1519,9 +1522,12 @@ Company of,2
 "Compton, City of",2
 Concerned Citizens Commission on Pornography and,2
 Concerned Citizens for,2
+Conference of Social Justice Coordinators of S,2
 Conference of the National Association for the Advancement of Colored,2
 Conference of the National Association for the Advancement of Colored People,2
+Congas,2
 Congress of Racial Equality of,2
+Conselho Supremo da Uniao Portuguesa do Estado da,2
 Construction Industry Crime Prevention Program of,2
 Consulate General of the Republic of,2
 Consulting Engineer and Land Surveyors of California,2
@@ -1529,6 +1535,7 @@ Consumeros Union and Consumer Attorneys of,2
 Contra Costa County Board of,2
 "Contra Costa, County of",2
 Corinthian Colleges' National Institute of Technology at,2
+Coroner-Marshal,2
 Corporation for,2
 Corporations Committee of the Business Law Section of the,2
 "Corporations Committee, Business Law Section, State Bar of",2
@@ -2127,13 +2134,6 @@ seq,2
 t,2
 the Paralyzed Veterans of,2
 "the Senate Health Committee. AB 75 (Frommer and Chan), with",2
-"Commander, California",2
-Communications Manager,2
-Communications Operations Supervisor,2
-Congas,2
-Conference of Social Justice Coordinators of S,2
-Conselho Supremo da Uniao Portuguesa do Estado da,2
-Coroner-Marshal,2
 $30,1
 104 Individual Letters from Representatives of,1
 1065 (PEACE),1
@@ -2506,6 +2506,7 @@ CF,1
 CHIRLA-Coalition for Humane Immigrant Rights of,1
 CMS,1
 CONSTRUCTION AND OPERATIONS HEARD THIS BILL AND VOTED 2-0 TO,1
+CONTAINED,1
 CPCA,1
 CPP-City of,1
 CRC,1
@@ -2958,6 +2959,7 @@ Coastal - 06/27/96 District,1
 Coastal Communities Hospital's Department of,1
 Coleman Advocates for,1
 Colored People (NAACP),1
+Colusa Indian Community Co,1
 Command,1
 "Commerce, Consulting Engineers and Land Surveyors of",1
 "Commerce, the California State Association of Counties, and the Motion Picture Association of America. According to the",1
@@ -2971,6 +2973,7 @@ Committee of California,1
 "Committee of Public Employees, Laborers' International Union of",1
 Committee to Eliminate Sales/Use Tax on,1
 "Committee, the American College of Obstetricians and",1
+Commuities,1
 Communication Workers of,1
 Communities in Harmony Advocating for,1
 Community Action Fund of,1
@@ -3012,14 +3015,24 @@ Conference of Private Organizations in,1
 Conference of Private Organizations of,1
 Conference of the,1
 Conference of the National Association for the Advancement of,1
+Confinement,1
+Confirmed,1
+Congestion,1
 Congestion Management Agency of County of,1
 Congregational Church of,1
 Congregations Organizing for,1
+Conselho Supremo da Uniao Portuguesa Protectora do Estado da,1
+Consequently,1
 "Conservation Voters, California League of",1
+Consideration,1
 Consolidated Superior & Municipal Courts of,1
+Constituent Records,1
+"Constituent, Sacramento",1
+"Constituent, San Diego",1
 Construction Industry Federation of,1
 Construction Legislative Council of,1
 Consul General of,1
+Consultation,1
 Consulting Engineer and Land Surveyors of,1
 "Consulting, Inc",1
 Consumer Coalition of,1
@@ -3027,11 +3040,16 @@ Consumer Credit Counseling Service of,1
 "Consumer Healthcare Products Association, ""With NPLEx in",1
 Consumers Attorneys of,1
 Consumers for,1
+Container,1
 Contractors of,1
+Control Group Science,1
 Cooperative of,1
 Coronado Chief of,1
 "Coronado, City of",1
 Corporation Committee of the Business Law Section of the State Bar of,1
+Correctional,1
+Corridor,1
+Corruption,1
 "Costa County, Marin County Supervisors, Town of",1
 "Cotati, City of",1
 "Council Member Caity Maple, Chair, Law and Legislation Committee, City of",1
@@ -3040,6 +3058,8 @@ Corporation Committee of the Business Law Section of the State Bar of,1
 Council of CA,1
 Council of California Departments of,1
 Councilmember-Elect Gil Cedillo to the Los Angeles City Council for,1
+Counicl,1
+Counselos,1
 Counties California Association of,1
 "Counties of El Dorado, Fresno, Orange, Ventura Supervisor Gary L. Lewis, District 3, Lake County Board of",1
 County Alcohol and Drug Administrators Association of,1
@@ -3174,6 +3194,7 @@ Emergency Medical Services Administrators' Association in,1
 Emergency Nurses Association of,1
 Emergency Services Network of,1
 Emeryville Chamber of,1
+Employees-CWA,1
 Employers Insurance Group and the California Association of,1
 "Employment Development Department, State of California",1
 Encino Chamber of,1
@@ -3221,6 +3242,7 @@ Family Services Council of California,1
 Family Services of,1
 Family-School Partnership Award and Grant Program to,1
 Fantasy Forest At,1
+Farmers (CAFF),1
 Federal Bureau of,1
 Federation of Retired Union Members - SF Council of,1
 Federation of Retired Union Members of,1
@@ -4837,25 +4859,6 @@ the San Francisco Bay Area Chapter of,1
 the bill but DOF has not had the,1
 too,1
 use,1
-Commuities,1
-CONTAINED,1
-Confinement,1
-Confirmed,1
-Congestion,1
-Consequently,1
-Consideration,1
-Constituent Records,1
-"Constituent, Sacramento",1
-"Constituent, San Diego",1
-Consultation,1
-Container,1
-Control Group Science,1
-Correctional,1
-Corridor,1
-Corruption,1
-Counicl,1
-Counselos,1
-Conselho Supremo da Uniao Portuguesa Protectora do Estado da,1
 542,0
 "542, Local 572",0
 AFL-CIO Local 11,0
