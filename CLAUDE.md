@@ -89,6 +89,26 @@ The management assistant is a dedicated Claude Code session that coordinates bet
 - **Conjoined entries**: Split out the individual orgs and ensure each one is present in the crosswalk
 - **OCR/typo entries**: Make the typo version an alternate spelling under the correct canonical
 
+## General Crosswalk Workflow Principles
+
+These apply to ALL task types (consolidation, OCR fixes, conjoined splitting, narrative extraction, dirty cleaning, etc.):
+
+1. **Always search the crosswalk first.** Before adding any new canonical, search the crosswalk thoroughly. The org you're looking for is most likely already present — as a canonical, chapter, or alternate spelling. Only create a new canonical if the org genuinely doesn't exist anywhere in the crosswalk.
+
+2. **Place entries at the correct hierarchy level.** The crosswalk is a forest of trees. When inserting an entry, decide whether it should be:
+   - An **alternate spelling** of a canonical (e.g. "JCPenny" → alt spelling of "JC Penney")
+   - A **chapter** of a canonical (e.g. "Sierra Club, San Francisco Chapter" → chapter of "Sierra Club")
+   - An **alternate spelling of a chapter** (e.g. "SF Sierra Club" → alt spelling of the San Francisco chapter, not of the national canonical)
+   Don't default to making everything a flat alt spelling of the top-level canonical.
+
+3. **Preserve org names — don't discard them.** Even dirty, truncated, or narrative-embedded entries that contain identifiable org names should not just be moved to an invalidity CSV — the org name must be preserved in the crosswalk. For dirty/truncated entries, make the entry an alternate spelling (or chapter) of the real org. For narrative-embedded entries (e.g. "In to the bill, the California Hospital"), **extract** the clean org name from the narrative text; don't use the narrative text itself as an alt spelling. Ensure the extracted org exists in the crosswalk (search first — it's most likely already there), then move the narrative entry to the appropriate CSV.
+
+4. **Location suffixes may be chapter information.** Don't strip location data from org names (e.g. "Inner City Law Center, Los Angeles") — these may indicate chapters or regional offices. Only strip clearly extraneous metadata like dates, phone numbers, counts, or person names.
+
+5. **Conjoined entries: check before adding.** When splitting a conjoined entry, search the crosswalk for each individual org. They're most likely already present. Only add new canonicals for orgs that genuinely aren't anywhere in the crosswalk.
+
+6. **Narrative/dirty entries with extractable org names:** Identify the embedded org and search the crosswalk (most likely already present). For dirty entries, make the dirty version an alt spelling or chapter of the clean org — placed at the correct hierarchy level. For narrative entries, **extract** the clean org name (don't use the narrative text as an alt spelling) and ensure the org exists in the crosswalk. Move the CSV row to the appropriate invalidity CSV. If the org genuinely isn't in the crosswalk, add it as a new canonical.
+
 ## Worker RA Role
 
 Each worker RA session is given a name by the user (e.g. "RA-Alpha", "RA-Beta").
