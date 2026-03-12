@@ -1,6 +1,6 @@
 {
-  "canonical_orgs": 173102,
-  "total_in_crosswalk": 203074,
+  "canonical_orgs": 173055,
+  "total_in_crosswalk": 203066,
   "not_in_crosswalk": 124,
-  "invalid_entries": 64221
+  "invalid_entries": 64230
 }

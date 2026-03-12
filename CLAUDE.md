@@ -73,7 +73,7 @@ The management assistant is a dedicated Claude Code session that coordinates bet
 4. Human asks for status -> management assistant reads `TASKS.md` and summarizes
 5. Management assistant scans the crosswalk JSON for issues (invalid entries, duplicates, etc.) and proposes new tasks
 
-**Scanning protocol:** The management assistant scans `2_webapp/org_clusters_crosswalk.json` in 5000-line chunks using background agents. Progress is tracked in the memory file `scan_status.md`.
+**Scanning protocol:** The management assistant scans `2_webapp/org_clusters_crosswalk.json` in 5000-line chunks using background agents. Progress is tracked in the memory file `scan_status.md`. **Always auto-launch the next scan batch immediately after creating tasks from the current batch — don't wait to be asked.** If no scan is currently running, launch one.
 
 **Task proposal format:** When presenting proposed tasks to the human for review:
 - For each task, briefly explain what the RA will DO (the workflow/instructions), not just list the entries
