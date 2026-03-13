@@ -1,5 +1,4 @@
 org_name,count
-,61196
 END --,6174
 None to date,1516
 None Registered,1285
@@ -70,8 +69,8 @@ THE PEOPLE OF THE STATE OF CALIFORNIA DO ENACT AS FOLLOWS,12
 "As of June 21, 1996",11
 "As of June 22, 2012",11
 "As of June 27, 2003",11
-Statutes of 2017,11
 Lobby,11
+Statutes of 2017,11
 "As of April 20, 2012",10
 "As of September 12, 2001",10
 Bill No,10
@@ -100,9 +99,9 @@ Californians for Safety and Justice - Timedone,8
 "Hearing Date: April 28, 2004 SB",8
 "Hearing Date: July 9, 2003 AB",8
 "Hearing Date: June 23, 2004 AB",8
+Lighting Act of 1972,8
 SB 844,8
 Statutes of 2020,8
-Lighting Act of 1972,8
 11XXXX,7
 AB 34 X2,7
 "As of April 11, 1997",7
@@ -123,12 +122,12 @@ DUAL REFERRAL: Senate Committee on Rules,7
 "Hearing Date: June 28, 2006 AB",7
 "Hearing Date: May 14, 2002 SB",7
 "Hearing Date: May 9, 2001 SB",7
+Materevolve,7
 PRIOR ACTIONS,7
 PageG,7
 Prior Version of the Bill,7
-Statutes of 2011,7
-Materevolve,7
 Purpose. According to the Author who,7
+Statutes of 2011,7
 AB 1 X4,6
 "As of April 10, 1998",6
 "As of April 22, 2011",6
@@ -155,16 +154,16 @@ Improvement Act,6
 "JAILS (4 for $1,525 million)",6
 "MASS TRANSIT (2 for $2,900 million)",6
 MISCELLANEOUS (2 for $125 million),6
+Oppose As Amended,6
+Oppostion,6
 "PARKS AND OPEN SPACE (3 for $1,246 million)",6
 "SCHOOLS (8 for $6,850 million)",6
+Seven Private Citizens,6
 Statutes of 2010,6
 Statutes of 2012,6
 Statutes of 2013,6
 WATER QUALITY AND SEWERS (4 for $600 million),6
 WATER SUPPLIES (3 for $250 million),6
-Oppostion,6
-Seven Private Citizens,6
-Oppose As Amended,6
 "AB 393, Page",5
 "AB 591, Page",5
 "Aptos, California",5
@@ -199,12 +198,12 @@ Family Court Awareness Month,5
 "Hearing Date: June 23, 2004 SB",5
 "Hearing Date: June 27, 2001 AB",5
 "Hearing Date: May 8, 2002 SB",5
-METHODS OF FINANCING,5
-SB 24,5
-SB 284,5
 IX/CA,5
 Legislative Analyst,5
 Love and a 38,5
+METHODS OF FINANCING,5
+SB 24,5
+SB 284,5
 X1 72,5
 AB 1210 (La Suer),4
 AB 1463 (Cedillo),4
@@ -250,7 +249,14 @@ Gambling,4
 "Hearing Date: April 9, 2003 SB",4
 "Hearing Date: June 9, 2004 SB",4
 "Hearing Date: March 26, 2003 SB",4
+ITEM VETO,4
+Legislation Consortium,4
+Litigation,4
+Log Off,4
+Opposed Unless Amended,4
 PageH,4
+Purpose. The California Dental Association,4
+Revenue & Taxation: 7 -,4
 SB 101,4
 SB 1179 - Ducheny,4
 SB 1441 (Oller),4
@@ -271,14 +277,8 @@ Senate Bill 716,4
 Senate Bill 722,4
 Statutes of 2007,4
 Statutes of 2023,4
-ITEM VETO,4
-Legislation Consortium,4
-Litigation,4
-Log Off,4
-Purpose. The California Dental Association,4
-Revenue & Taxation: 7 -,4
 Tulare County Youth Crops,4
-Opposed Unless Amended,4
+SUGGESTED COMMITTEE AMENDMENTS,4
 11 0 6 1 3 1 (0%) (54.5%) (9.0%) (27.2%) (9.0%),3
 500 to $10,3
 6XXXX,3
@@ -361,9 +361,19 @@ Health and Human Services: Ayes 7 - Noes 1,3
 In re,3
 In re Terrell R.,3
 Latino Caucus Priority Bill Press Conference,3
+Legislative Platform for 2001,3
+Local Chambers of Commerce (numerous letters on file),3
 METHODS OF FINANCING PAGE c,3
 NC: KB 5/3/00 Senate Floor Analyses,3
 NC:ctl/jk/ctl 1/28/98 Senate Floor Analyses,3
+Oppositon,3
+Organizational Endorsements for the California Forward 2010 Reform,3
+Purpose . DPA,3
+Purpose. The California Chapter of the American College of Emergency Physicians,3
+Purpose. The California Medical Association,3
+Purpose. The California Pharmacists Association,3
+Purpose. The Commission,3
+Revenue & Taxation: 8 - 1,3
 SB 11XXXX,3
 SB 1234 (Kuehl) PageB,3
 SB 126 (Polanco),3
@@ -380,22 +390,12 @@ SB 721 (Battin) PageB,3
 SB 871 (Burton),3
 SCA 22,3
 SCR 30,3
-TSM:cm/ctl 1/26/98 Senate Floor Analyses,3
-Legislative Platform for 2001,3
-Oppositon,3
-Organizational Endorsements for the California Forward 2010 Reform,3
-Purpose . DPA,3
-Purpose. The California Chapter of the American College of Emergency Physicians,3
-Purpose. The California Medical Association,3
-Purpose. The California Pharmacists Association,3
-Purpose. The Commission,3
-Revenue & Taxation: 8 - 1,3
-Local Chambers of Commerce (numerous letters on file),3
 SPECIAL ELECTIONS 1961-1993,3
-TULARE CITY ELEMENTARY,3
 "Seat Belt Usage Committee for the Clarkstown PTA Council, New York",3
 Secs,3
 Similar Legislation,3
+TSM:cm/ctl 1/26/98 Senate Floor Analyses,3
+TULARE CITY ELEMENTARY,3
 (on or after 9/15/61) Contributing to the |(e),2
 "1 ""Non-Exemptible Crimes. Revised 4/10",2
 "1 Jacobs, Ken. ""Living Wage Policies and Big-Box Retail: How a Higher",2
@@ -624,6 +624,7 @@ Bill No.: AJR,2
 Board of Architectural Examiners Issues,2
 COMMENTS The Ventura County Transportation Commission,2
 COMPARISON OF SB 936 AND SB 1073,2
+CONFERENCE COMMITTEE VOTE:,2
 CP:cm/ctl/cm 5/19/98 Senate Floor Analyses,2
 CP:jk/ctl 1/26/98 Senate Floor Analyses,2
 CP:jk/sl 8/1/98 Senate Floor Analyses,2
@@ -666,6 +667,7 @@ Chapter 719,2
 Chapter 790,2
 "Citizens for Responsible and Constitutional Laws ""Working to Keep",2
 "City of ""Adjusters Almanac"" Bullseye Publishing",2
+City of U.N.I.T.E,2
 Civil Rights/Disabled/Fair Housing/Children's Groups,2
 Comment 2,2
 Comment 6,2
@@ -724,15 +726,48 @@ HR. 28,2
 Hundreds of Law School Students,2
 In 2001,2
 JA:d:n 9/9/13 Senate Floor Analyses,2
+Journalists,2
+Justice (Nonsuit),2
+LAAAWPPI,2
+Laches,2
+Last year,2
+Learn Everything About the Parole Process,2
+Letter from James Oberman,2
+Letters Received,2
 METHODS OF FINANCING PAGE b,2
+"Must Address Paterno And More. According to DWR, ""DWR",2
 NC:ctl/cm 5/6/98 Senate Floor Analyses,2
 NC:sl/ctl 7/22/98 Senate Floor Analyses,2
+OPOSITION,2
+OPPOSE: California Council of Churches (cont'd) California Federation of Teachers,2
+OPPOSE: League of Women Voters of California,2
+OPPOSED TO PREVIOUS VERSION,2
 OVERNOR'S VETO MESSAGE,2
 Opponents of,2
+Oppose None Reported to the Committee,2
+"Oppose: Mead Johnson Nutritionals, a Bristol-Myers Squibb",2
+Oppose:California Assessors Association,2
+PLEASE SEE CONTINUATION PAGES,2
+"PRISON CONSTRUCTION AND OPERATIONS FROM APRIL 14, 1998",2
 PageI,2
 PageO,2
 People v. Honig (1996) 48 Cal.App.4th 289,2
 Prior Vote: Senate Judiciary Committee 4-4,2
+Purpose of this bill: The Appraisal Institute,2
+Purpose. According to CalSTRS,2
+Purpose. According to the California Podiatric Medical Association,2
+Purpose. Growing Coachella Valley,2
+Purpose. SEIU California,2
+Purpose. The Board of Pharmacy,2
+Purpose. The California Association of Licensed Repossessors,2
+Purpose. The California Optometric Association,2
+Purpose. This Author,2
+Return to Custody Facilities,2
+Revenue & Taxation: 6 - 1,2
+Revenue & Taxation: 6 - 2,2
+Revenue & Taxation: 6 - 4,2
+Revenue & Taxation: 8 -,2
+Revenue & Taxation: 9 -,2
 S:\SINS\SB 2005-2006\SB 634\SB 634 Analysis .doc,2
 "SB 101, Page",2
 SB 1018 (Simitian),2
@@ -855,7 +890,12 @@ SCA 27,2
 SCA 39 (Killea),2
 SCR 12 (03) Alarcon - Joint Committee to Develop a Master,2
 SCR 78 (02) Polanco - Joint Legislative Committee on Prison,2
+SDE Monthly Child Care Report Oct,2
 SJR10,2
+STOP THE TRACTOR TAX PETITION (28 signatures),2
+Section 31,2
+Seven Private Constituents,2
+Several Food Service Directors from,2
 Statutes of 2002,2
 Statutes of 2004,2
 Statutes of 2013-14 First Extraordinary Session,2
@@ -863,54 +903,15 @@ Statutes of 2013-14 First Extraordinary Session and SBX1 2 (Hernandez),2
 Statutes of 2022,2
 TSM/AGB:do 8/28/06 Senate Floor Analyses,2
 TSM:DLW:do 8/27/10 Senate Floor Analyses,2
+This bill is,2
+Trust (CAP/MPT),2
+Tulare and Tulare Redevelopment Agency,2
 "[2] ""Carmakers Face Fresh China Import Threat",2
 "[3] ""U.S. Ordered to Return Assets Held in Crackdown of Luxury Cars Exported to China",2
 [3] SB 1052/SCA 22 (Alquist),2
 "[4] ""Prosecutors Ease Crackdown on Buyers of China-Bound Luxury Cars",2
 partial listing,2
 statutory rape,2
-City of U.N.I.T.E,2
-Journalists,2
-Justice (Nonsuit),2
-Laches,2
-LAAAWPPI,2
-Last year,2
-Learn Everything About the Parole Process,2
-Letter from James Oberman,2
-Letters Received,2
-"Must Address Paterno And More. According to DWR, ""DWR",2
-OPOSITION,2
-Purpose of this bill: The Appraisal Institute,2
-Purpose. According to CalSTRS,2
-Purpose. According to the California Podiatric Medical Association,2
-Purpose. Growing Coachella Valley,2
-Purpose. SEIU California,2
-Purpose. The Board of Pharmacy,2
-Purpose. The California Association of Licensed Repossessors,2
-Purpose. The California Optometric Association,2
-Purpose. This Author,2
-Return to Custody Facilities,2
-Revenue & Taxation: 6 - 1,2
-Revenue & Taxation: 6 - 2,2
-Revenue & Taxation: 6 - 4,2
-Revenue & Taxation: 8 -,2
-Revenue & Taxation: 9 -,2
-SDE Monthly Child Care Report Oct,2
-Section 31,2
-Seven Private Constituents,2
-Several Food Service Directors from,2
-STOP THE TRACTOR TAX PETITION (28 signatures),2
-This bill is,2
-Trust (CAP/MPT),2
-Tulare and Tulare Redevelopment Agency,2
-OPPOSE: California Council of Churches (cont'd) California Federation of Teachers,2
-OPPOSE: League of Women Voters of California,2
-OPPOSED TO PREVIOUS VERSION,2
-Oppose None Reported to the Committee,2
-"Oppose: Mead Johnson Nutritionals, a Bristol-Myers Squibb",2
-Oppose:California Assessors Association,2
-PLEASE SEE CONTINUATION PAGES,2
-"PRISON CONSTRUCTION AND OPERATIONS FROM APRIL 14, 1998",2
 000 AGI,1
 000 AGI and 400% FPL ($82),1
 000 of 90,1
@@ -977,6 +978,7 @@ PLEASE SEE CONTINUATION PAGES,2
 16XXXX,1
 171 - OoCONNELL,1
 17XXXX,1
+1887 Allotment Act,1
 18XX,1
 19 law,1
 1985 NO YES,1
@@ -992,6 +994,7 @@ PLEASE SEE CONTINUATION PAGES,2
 1992 NO NO,1
 1992-1994 = Arbitration type was Final Offer Package,1
 1994 YES NO,1
+"1994, Inc., California Forum",1
 1995 YES NO,1
 2 2003 Energy Action Plan (http://www.energy.ca.gov/energy_action_plan/2003-05-08_ACTION_PLAN.PDF),1
 "2 2015-16 Budget: ""Capital Outlay Program Review"". LAO, May 14, 2014",1
@@ -2033,6 +2036,7 @@ COMPARISON OF AB 1715 AND SB 1073 (SELF-CERTIFICATION REQUIREMENTS),1
 COMPARISON OF AB 463 (GOLDSMITH) AND AB 1317 (SPEIER),1
 COMPARISON OF DEADLINES,1
 COMPARISON OF SIMILAR REDEVELOPMENT PROJECT AREAS,1
+"CONFERENCE COMMITTEE VOTE: p. 6221,",1
 CONSTRUCTION AND OPERATIONS,1
 CP/NC:cm 6/24/98 Senate Floor Analyses,1
 CP:cm/ctl 5/26/98 Senate Floor Analyses,1
@@ -2340,6 +2344,7 @@ High School (Monterey Co),1
 High School (Ventura Co),1
 Hundreds of California ARCO Dealers and Employees,1
 Hundreds of California Citizens,1
+"IX, CA",1
 Impairments J Appl Behav Anal. 2010 Summer,1
 Imperial Beach v. Bailey (1980) 103 Cal.App.3d 191,1
 Implementation of Laura's Law,1
@@ -2350,6 +2355,12 @@ Inc. Hearing Date: April 13,1
 Inc. Hearing Date: March 29,1
 Inc. v. Stake (1980) 447 U.S. 429,1
 "Individuals, Inc",1
+Info@glitsinc.org,1
+Inform Policymakers. PLoS Med 9(7): e1001273,1
+Information Privacy Act,1
+"Inglewood, Barstow, Laguna Beach, Irvine, Taft, Palm Springs, San Jacinto, Capitola, Santa",1
+It has no,1
+It is,1
 JG:AL:nl:k 9/11/13 Senate Floor Analyses,1
 JG:nl:d 1/28/14 Senate Floor Analyses,1
 JG:nl:d 9/11/13 Senate Floor Analyses,1
@@ -2358,7 +2369,29 @@ JG:nl:k 9/11/13 Senate Floor Analyses,1
 JJA:RJG:do 2/15/11 Senate Floor Analyses,1
 JJA:nl:do 2/28/12 Senate Floor Analyses,1
 JL:e:n 4/4/14 Senate Floor Analyses,1
+Journal of Medicine,1
+Journal of Urban Economics,1
+Journal of the American Psychiatric Nurses Association. 2008,1
+Journalism Students,1
+Judicial Council (SEC. 4),1
+Judicial Council (both to jury duty exemption),1
+Judicial Council (contingent upon funding),1
+Judicial Council (if funded),1
+Kings County Administrative Officer,1
+Kings County Agricultural Commissioner,1
+Kings County Recorder,1
+LETTERS ALSO RECEIVED,1
+Laws (NCCUSL),1
+Laws (NORML),1
 Leg. Political Director California Labor Federation,1
+Legislation (FCL),1
+Legislative Monitoring Committee,1
+Letters from area,1
+Limitation Committee,1
+Limited Partnership,1
+LincolNEV,1
+Lingerie,1
+Loan,1
 "Lost, and Economic Costs -- United States 1997-2001."" MMWR, July 1, 2005",1
 METHODS OF FINANCING PAGE f,1
 METHODS OF FINANCING PAGE g,1
@@ -2366,6 +2399,7 @@ METHODS OF FINANCING PAGE h,1
 METHODS OF FINANCING PAGE i,1
 METHODS OF FINANCING PAGE j,1
 MW:d:e:n 9/10/13 Senate Floor Analyses,1
+Materus,1
 NC/DLW:ctl 5/15/98 Senate Floor Analyses,1
 NC:cm/ctk 6/19/98 Senate Floor Analyses,1
 NC:cm/ctl 3/25/98 Senate Floor Analyses,1
@@ -2396,8 +2430,39 @@ NC:nf/jk 1/28/98 Senate Floor Analyses,1
 NC:sl/ctl 8/28/98 Senate Floor Analyses,1
 NM:ctl 6/28//94 Senate Floor Analyses,1
 Neutral : Center for Public Interest Law,1
+OPPOITION,1
+OPPOSE UNLESS AMENEDED,1
+OPPOSE: California Council on Alcohol Problems,1
+OPPOSE: Pacific Association of Building Service,1
+"OPPOSED ROPAL Corporation (contd.) Sealright, Western Division",1
+"OPPOSED: ENDURO Products, Incorporated (contd.) Environmental Technology, Incorporated",1
+OPPPOSE : Friday Night,1
+OPPPOSITION,1
+ORIGINALLY CREATING PLAN'S REPAYING,1
+Oakland (3),1
 Opponents of the bill,1
+Oppose American Forest and Paper Association,1
+Oppose Bidwell Cigar,1
+Oppose California Tax Reform Association (opposed identical AB 218 (2005)),1
+Oppose California Taxpayers' Association,1
+Oppose Child Sierra County Children's Services (concerned),1
 "Oppose None on file as of March 19, 2010",1
+Oppose Unless Amended: California Association of Realtors (CAR),1
+Oppose as Amended: League of California Cities,1
+Oppose: (as amended) California Cable Television Association,1
+Oppose: California Adoption Alliance,1
+Oppose: California Association of Catholic Hospitals,1
+"Oppose: California Association of HMOs, Inc",1
+Oppose: Judicial Council of California,1
+Oppose:California Healthcare Association,1
+OpposeJudicial Council of California,1
+Oppose[list],1
+Opposed to SB 2122,1
+Oppostion: None Known,1
+Organizational Endorsements for SB 844,1
+Organizational Endorsements for SB 845,1
+Organizational Endorsements for SCA 19,1
+"Outcomes."" Health Psychology 27.5 (2008): 604 -615",1
 PQ/AL:k 5/27/14 Senate Floor Analyses,1
 PQ/RM:k 6/18/13 Senate Floor Analyses,1
 PQ:d:k:d 5/27/14 Senate Floor Analyses,1
@@ -2414,12 +2479,110 @@ PRISON CONSTRUCTION AND OPERATIONS HEARING,1
 PageJ,1
 PageN,1
 PageY,1
+"Part 3 of Division 2 of the Public Contract Code, to read",1
 Passed Senate E & R on 3/31/93 by 4-0 vote,1
+Performance-Based Health Plan Reimbursement [Sections 4 and 5],1
 Policy Issue: Should the Authority of the DPH to Inspect the Peer,1
 Prenatal Care Elimination A Long-Standing Administration,1
+"Previous Legislation. Chapter 442, Statutes of 2006 (AB2941, Koretz)",1
+Prior Committee Vote: 2-5,1
+Prior Committee Vote: 3-4,1
+Prior Senate Judiciary Vote: 4-4 (failed passage),1
 Prior Vote: Assembly Judiciary Committee 12-0,1
+Protection and SB 2077 (OoConnell),1
+Purpose . According to CSLB,1
+Purpose . According to the FTB,1
+Purpose . DOR,1
+Purpose . The State Treasurer,1
+Purpose and Background. The Author,1
+Purpose of this bill: The CSU Trustees,1
+Purpose. AG Rob Bonta,1
+Purpose. According the CalSTRS,1
+Purpose. According to American Friends Service Committee,1
+Purpose. According to CalPERS,1
+Purpose. According to Etheridge Farms,1
+Purpose. According to Jewish Public Affairs Committee of California,1
+Purpose. According to Los Angeles Unified School District,1
+Purpose. According to the California Pipe Trades Council,1
+Purpose. According to the California State Council of the Service Employees International Union,1
+Purpose. According to the California State Council on Developmental Disabilities,1
 Purpose. According to the Center for Public Interest Law,1
+Purpose. According to the City of Oakland,1
+Purpose. According to the Conservatorship Reform Project,1
+Purpose. According to the National College Players Association,1
+Purpose. According to the Public Health Advocates (PHA),1
+Purpose. According to the State Association of County Auditors,1
+Purpose. AltaMed,1
+Purpose. BHSOAC,1
+Purpose. BOE,1
+Purpose. Cal NORML,1
+Purpose. Equality California (EQ),1
+Purpose. Health Access California,1
+Purpose. MBC,1
+Purpose. NextGen California,1
+Purpose. Northeastern University,1
+"Purpose. OCHIN, Inc",1
+Purpose. Pacific Legal Foundation,1
+Purpose. Shatterproof,1
+Purpose. Signify Health,1
+Purpose. The ALS Association,1
+Purpose. The Alzheimer's Association,1
+Purpose. The American Association of University Women California,1
+Purpose. The American Institute of Architects,1
+Purpose. The American Society for the Prevention of Cruelty to Animals,1
+Purpose. The American Society for the Prevention of Cruelty to Animals (ASPCA),1
+"Purpose. The Assembly Committee on Jobs, Economic Development, and the Economy",1
+Purpose. The Autism Business Association,1
+Purpose. The Beach Cities Health District,1
+Purpose. The Blockchain Advocacy Coalition,1
+Purpose. The Board,1
+Purpose. The Board of Barbering and Cosmetology,1
+Purpose. The Board of Behavioral Sciences,1
+Purpose. The Board of Registered Nursing,1
+Purpose. The CA Agricultural Commissioners and Sealers Association,1
+Purpose. The CSLB,1
+Purpose. The California Academy of Family Physicians,1
+Purpose. The California Association of Clerks & Elections Officials,1
+Purpose. The California Association of Licensed Investigators,1
+Purpose. The California Association of Realtors,1
+Purpose. The California Association of Relators,1
+Purpose. The California Cannabis Industry Association,1
+Purpose. The California Cannabis Operators Association,1
+Purpose. The California Dental Association (CDA),1
+Purpose. The California Emerging Technology Fund,1
+Purpose. The California Hospital Association (CHA),1
+Purpose. The California Medical Association (CMA),1
+Purpose. The California Nurse Midwives Association,1
+Purpose. The California Nurses Association (CNA),1
+Purpose. The California Pan-Ethnic Health Network (CPEHN),1
+Purpose. The California Pawnbrokers Association,1
+Purpose. The California Pawnbrokers Association (CPA),1
+Purpose. The California Podiatric Medical Association,1
+Purpose. The California Society of Health-System Pharmacists (CSHP),1
+Purpose. The California Tour Guide Coalition,1
 Purpose. The Center for Public Interest Law,1
+Purpose. The Chula Vista Police Department,1
+Purpose. The City of El Monte,1
+Purpose. The Digital Restaurant Association,1
+Purpose. The District Council of Iron Workers of CA,1
+Purpose. The Goldwater Institute,1
+Purpose. The Judicial Council,1
+Purpose. The League of California Cities,1
+Purpose. The Los Angeles County Board of Supervisors,1
+Purpose. The Los Angeles Unified School District,1
+Purpose. The Medical Board of California,1
+Purpose. The National Union of Healthcare Workers,1
+Purpose. The Pest Control Operators of California,1
+Purpose. The Professional Fiduciary Association of California,1
+Purpose. The Rural County Representatives of California,1
+Purpose. The SCO,1
+Purpose. The Society of Cannabis Clinicians,1
+Purpose. The Steinberg Institute,1
+"Purpose. The UFCW Western States, San Diego/Imperial Counties Joint Labor Management Cannabis Committee",1
+Purpose. The Underground Service Alert of Southern California,1
+Purpose. The United Cannabis Business Association,1
+Purpose. Veterans Exploring Treatment Solutions (VETS),1
+Purpose. Visión y Compromiso,1
 RJG/DLW:ctl 8/27/97 Senate Floor Analyses,1
 RJG: do 5/3/11 Senate Floor Analyses,1
 RJG:cm/ctl 1/26/98 Senate Floor Analyses,1
@@ -2431,7 +2594,13 @@ RM:nl:d 8/26/14 Senate Floor Analyses,1
 RM:nl:d 9/9/13 Senate Floor Analyses,1
 RM:nl:ej 5/28/13 Senate Floor Analyses,1
 RM:nl:ej 9/11/13 Senate Floor Analyses,1
+Revenue & Taxation: 10 -,1
 Revised 07/02/18 at 4:06 p.m,1
+Revised 6-28-93,1
+"Revised: June 20, 1994",1
+"Rice v. Santa Fe Elevator Corp., 331 U.S. 218 (1947)",1
+Russian AB 616 - 3/13/96 River Fire Protection District,1
+SAME CHARACTERISTICS,1
 SB 10 (Soto),1
 SB 1007 (Knight),1
 SB 1015 - Karnette,1
@@ -3021,12 +3190,38 @@ SCR 37,1
 SCR 39 Advisory Panel,1
 SCR 39 PEMHCA Advisory Panel,1
 SCR 41,1
+SEC. 2. Section 480 of the Business and Professions Code is,1
+SECTION 1,1
+SECTION 1. Section 7.5 of the Business and Professions Code,1
+SECTION 2,1
 SJR 1XX,1
 SJR 7 (KARNETTE),1
 SR 125 South,1
 SR 22 (Florez),1
+Sacramento Enterprise Zone Monthly Report October 2012,1
+San Diego (3),1
+San Diego. San Luis Obispo,1
+San Francisco (6),1
+Seat Belt Usage Com. for the Clarkstown PTA,1
+Secs. 1 and 3: Judicial Council,1
+Section 1203.1abc,1
+"Section 2: Steven W. Murray, Esq",1
+Section 3: Author,1
+"Section 4: Steven W. Murray, Esq",1
+Section 5: Author,1
+Section 707(b). (The serious offense list for juveniles.),1
+Section 8,1
+"Section, Committee",1
+"Section, Committee in part",1
+Sections 3 and 4 of,1
 See attached chart,1
 Senate Bill 1389,1
+Senate Health Committee Vote: Ayes 9 - Noes,1
+Senate Judiciary Committee Vote: Ayes 5 - Noes 2,1
+"Senate Rev & Tax, 4/21/93, do pass, 7-0",1
+Seven Presidents and/or CEOs of Hospitals,1
+"Sheriff, AB 854 (Koretz)",1
+"Similarly, the Kern, Los Angeles, Los Rios, Rio Hondo, San Jose",1
 Statutes of 1997,1
 Statutes of 1998,1
 Statutes of 1999,1
@@ -3036,8 +3231,10 @@ Statutes of 2008,1
 Statutes of 2009,1
 Statutes of 2018. AB 1299 (Ridley-Thomas),1
 Statutes of 2024,1
+Stores. AB 2491-Horton,1
 Supportive,1
 Supports,1
+TRIPLE REFERRAL: Senate Judiciary Committee,1
 TSM/DLW:ctl 4/29/98 Senate Floor Analyses,1
 TSM/DLW:ctl 5/19/98 Senate Floor Analyses,1
 TSM/DLW:ctl 8/28/98 Senate Floor Analyses,1
@@ -3057,12 +3254,26 @@ TSM:sl/cm 5/12/98 Senate Floor Analyses,1
 TSM:sl/cm 5/20/98 Senate Floor Analyses,1
 TSM:sl/cm 7/21/98 Senate Floor Analyses,1
 The California Labor Federation adds,1
+The Pledge of Allegiance to the Flag,1
 The following was the on AB 718,1
+"The to this bill, the Executive Committee of the Family Law",1
+Theis bill,1
+Trial Date,1
+"Trial Deputy, San Diego County Department of the Alternative Public Defender",1
+Trucking Deregulation,1
+Trust (UHT),1
 USA.pdf,1
 Unknown at time of writing,1
+"Violence and Victims, Volume 24, Number 2, 2009, p",1
+Violet Fulton. SB 1666,1
+"WEGGELAND, CALDERA, KILLEA - AB 1482",1
+Welfare and Institutions Code Section 5855.5,1
 What do Sections 2116 and 219 do,1
 Workers XXX,1
 "Writing in of this bill, the California Labor Federation",1
+X2 10 - KILLEA,1
+X2 14 - KOPP,1
+Young's Market Company (3) Letters General Public,1
 based on testimony on SB 482,1
 end - see attached chart,1
 held at Assembly,1
@@ -3071,210 +3282,7 @@ note ABX4 19 (Evans),1
 pending,1
 taken from Assembly analyses,1
 to SB 1438 on 6/15/04 was as follows:,1
-1887 Allotment Act,1
-"1994, Inc., California Forum",1
-Inform Policymakers. PLoS Med 9(7): e1001273,1
-Information Privacy Act,1
-Info@glitsinc.org,1
-"Inglewood, Barstow, Laguna Beach, Irvine, Taft, Palm Springs, San Jacinto, Capitola, Santa",1
-"IX, CA",1
-It has no,1
-It is,1
-Journal of Medicine,1
-Journal of Urban Economics,1
-Journal of the American Psychiatric Nurses Association. 2008,1
-Journalism Students,1
-Judicial Council (SEC. 4),1
-Judicial Council (both to jury duty exemption),1
-Judicial Council (contingent upon funding),1
-Judicial Council (if funded),1
-Kings County Administrative Officer,1
-Kings County Agricultural Commissioner,1
-Kings County Recorder,1
-LETTERS ALSO RECEIVED,1
-Laws (NCCUSL),1
-Laws (NORML),1
-Legislation (FCL),1
-Legislative Monitoring Committee,1
-Letters from area,1
-Limitation Committee,1
-Limited Partnership,1
-LincolNEV,1
-Lingerie,1
-Loan,1
-Materus,1
-OPPOITION,1
-OPPPOSITION,1
-Oppostion: None Known,1
-ORIGINALLY CREATING PLAN'S REPAYING,1
-Organizational Endorsements for SB 844,1
-Organizational Endorsements for SB 845,1
-Organizational Endorsements for SCA 19,1
-"Part 3 of Division 2 of the Public Contract Code, to read",1
-Performance-Based Health Plan Reimbursement [Sections 4 and 5],1
-Prior Committee Vote: 2-5,1
-Prior Committee Vote: 3-4,1
-Prior Senate Judiciary Vote: 4-4 (failed passage),1
-Purpose . According to CSLB,1
-Purpose . According to the FTB,1
-Purpose . DOR,1
-Purpose . The State Treasurer,1
-Purpose and Background. The Author,1
-Purpose of this bill: The CSU Trustees,1
-Purpose. AG Rob Bonta,1
-Purpose. According the CalSTRS,1
-Purpose. According to American Friends Service Committee,1
-Purpose. According to CalPERS,1
-Purpose. According to Etheridge Farms,1
-Purpose. According to Jewish Public Affairs Committee of California,1
-Purpose. According to Los Angeles Unified School District,1
-Purpose. According to the California Pipe Trades Council,1
-Purpose. According to the California State Council of the Service Employees International Union,1
-Purpose. According to the California State Council on Developmental Disabilities,1
-Purpose. According to the City of Oakland,1
-Purpose. According to the Conservatorship Reform Project,1
-Purpose. According to the National College Players Association,1
-Purpose. According to the Public Health Advocates (PHA),1
-Purpose. According to the State Association of County Auditors,1
-Purpose. AltaMed,1
-Purpose. BHSOAC,1
-Purpose. BOE,1
-Purpose. Cal NORML,1
-Purpose. Equality California (EQ),1
-Purpose. Health Access California,1
-Purpose. MBC,1
-Purpose. NextGen California,1
-Purpose. Northeastern University,1
-"Purpose. OCHIN, Inc",1
-Purpose. Pacific Legal Foundation,1
-Purpose. Shatterproof,1
-Purpose. Signify Health,1
-Purpose. The ALS Association,1
-Purpose. The Alzheimer's Association,1
-Purpose. The American Association of University Women California,1
-Purpose. The American Institute of Architects,1
-Purpose. The American Society for the Prevention of Cruelty to Animals,1
-Purpose. The American Society for the Prevention of Cruelty to Animals (ASPCA),1
-"Purpose. The Assembly Committee on Jobs, Economic Development, and the Economy",1
-Purpose. The Autism Business Association,1
-Purpose. The Beach Cities Health District,1
-Purpose. The Blockchain Advocacy Coalition,1
-Purpose. The Board,1
-Purpose. The Board of Barbering and Cosmetology,1
-Purpose. The Board of Behavioral Sciences,1
-Purpose. The Board of Registered Nursing,1
-Purpose. The CA Agricultural Commissioners and Sealers Association,1
-Purpose. The CSLB,1
-Purpose. The California Academy of Family Physicians,1
-Purpose. The California Association of Clerks & Elections Officials,1
-Purpose. The California Association of Licensed Investigators,1
-Purpose. The California Association of Realtors,1
-Purpose. The California Association of Relators,1
-Purpose. The California Cannabis Industry Association,1
-Purpose. The California Cannabis Operators Association,1
-Purpose. The California Dental Association (CDA),1
-Purpose. The California Emerging Technology Fund,1
-Purpose. The California Hospital Association (CHA),1
-Purpose. The California Medical Association (CMA),1
-Purpose. The California Nurse Midwives Association,1
-Purpose. The California Nurses Association (CNA),1
-Purpose. The California Pan-Ethnic Health Network (CPEHN),1
-Purpose. The California Pawnbrokers Association,1
-Purpose. The California Pawnbrokers Association (CPA),1
-Purpose. The California Podiatric Medical Association,1
-Purpose. The California Society of Health-System Pharmacists (CSHP),1
-Purpose. The California Tour Guide Coalition,1
-Purpose. The Chula Vista Police Department,1
-Purpose. The City of El Monte,1
-Purpose. The Digital Restaurant Association,1
-Purpose. The District Council of Iron Workers of CA,1
-Purpose. The Goldwater Institute,1
-Purpose. The Judicial Council,1
-Purpose. The League of California Cities,1
-Purpose. The Los Angeles County Board of Supervisors,1
-Purpose. The Los Angeles Unified School District,1
-Purpose. The Medical Board of California,1
-Purpose. The National Union of Healthcare Workers,1
-Purpose. The Pest Control Operators of California,1
-Purpose. The Professional Fiduciary Association of California,1
-Purpose. The Rural County Representatives of California,1
-Purpose. The SCO,1
-Purpose. The Society of Cannabis Clinicians,1
-Purpose. The Steinberg Institute,1
-"Purpose. The UFCW Western States, San Diego/Imperial Counties Joint Labor Management Cannabis Committee",1
-Purpose. The Underground Service Alert of Southern California,1
-Purpose. The United Cannabis Business Association,1
-Purpose. Veterans Exploring Treatment Solutions (VETS),1
-Purpose. Visión y Compromiso,1
-Revenue & Taxation: 10 -,1
-Revised 6-28-93,1
-"Revised: June 20, 1994",1
-SEC. 2. Section 480 of the Business and Professions Code is,1
-SECTION 1,1
-SECTION 1. Section 7.5 of the Business and Professions Code,1
-SECTION 2,1
-Section 1203.1abc,1
-"Section 2: Steven W. Murray, Esq",1
-Section 3: Author,1
-"Section 4: Steven W. Murray, Esq",1
-Section 5: Author,1
-Section 707(b). (The serious offense list for juveniles.),1
-Section 8,1
-"Section, Committee",1
-"Section, Committee in part",1
-Senate Health Committee Vote: Ayes 9 - Noes,1
-Senate Judiciary Committee Vote: Ayes 5 - Noes 2,1
-Seven Presidents and/or CEOs of Hospitals,1
-"Similarly, the Kern, Los Angeles, Los Rios, Rio Hondo, San Jose",1
-Stores. AB 2491-Horton,1
-The Pledge of Allegiance to the Flag,1
-"The to this bill, the Executive Committee of the Family Law",1
-Theis bill,1
-TRIPLE REFERRAL: Senate Judiciary Committee,1
-Trial Date,1
-"Trial Deputy, San Diego County Department of the Alternative Public Defender",1
-Trucking Deregulation,1
-Trust (UHT),1
-"Violence and Victims, Volume 24, Number 2, 2009, p",1
-Violet Fulton. SB 1666,1
-"WEGGELAND, CALDERA, KILLEA - AB 1482",1
-Welfare and Institutions Code Section 5855.5,1
-X2 10 - KILLEA,1
-X2 14 - KOPP,1
-Young's Market Company (3) Letters General Public,1
-OPPOSE UNLESS AMENEDED,1
-OPPOSE: California Council on Alcohol Problems,1
-OPPOSE: Pacific Association of Building Service,1
-"OPPOSED ROPAL Corporation (contd.) Sealright, Western Division",1
-"OPPOSED: ENDURO Products, Incorporated (contd.) Environmental Technology, Incorporated",1
-OPPPOSE : Friday Night,1
-Oakland (3),1
-Oppose American Forest and Paper Association,1
-Oppose Bidwell Cigar,1
-Oppose California Tax Reform Association (opposed identical AB 218 (2005)),1
-Oppose California Taxpayers' Association,1
-Oppose Child Sierra County Children's Services (concerned),1
-Oppose Unless Amended: California Association of Realtors (CAR),1
-Oppose as Amended: League of California Cities,1
-Oppose: (as amended) California Cable Television Association,1
-Oppose: California Adoption Alliance,1
-Oppose: California Association of Catholic Hospitals,1
-"Oppose: California Association of HMOs, Inc",1
-Oppose: Judicial Council of California,1
-Oppose:California Healthcare Association,1
-OpposeJudicial Council of California,1
-Oppose[list],1
-Opposed to SB 2122,1
-"Outcomes."" Health Psychology 27.5 (2008): 604 -615",1
-Protection and SB 2077 (OoConnell),1
-"Rice v. Santa Fe Elevator Corp., 331 U.S. 218 (1947)",1
-Russian AB 616 - 3/13/96 River Fire Protection District,1
-SAME CHARACTERISTICS,1
-Sacramento Enterprise Zone Monthly Report October 2012,1
-San Diego (3),1
-San Diego. San Luis Obispo,1
-San Francisco (6),1
-Seat Belt Usage Com. for the Clarkstown PTA,1
-Secs. 1 and 3: Judicial Council,1
-Sections 3 and 4 of,1
-"Sheriff, AB 854 (Koretz)",1
+STAFF ANALYSIS OF ASSEMBLY BILL 1576,1
+STAFF ANALYSIS OF ASSEMBLY BILL 798,1
+Superior Court (1995) 9 Cal.4th 559,1
+"TESTIMONY WAS TAKEN IN THIS COMMITTEE ON APRIL 1, 2003",1
