@@ -24,11 +24,21 @@
 (?i)\s*\(per\s[^)]*\)\s*$
 (?i)\s*\(as of\s[^)]*\)\s*$
 
+# Trailing "(updated date)" / "(dated date)" metadata - END
+(?i)\s*\(updated\s+[^)]+\)\s*$
+(?i)\s*\(dated\s+[^)]+\)\s*$
+
+# Trailing "/prior version" without parens - END
+(?i)\s*/prior version\s*$
+
 # General: trailing round brackets containing metadata keywords - END
-(?i)\s*\([^)]*(?:\bversion\b|\bamend|\boppose|\bsponsor|\bsource\b|\bcommittee\b|\bletter\b|\bbill\b|\bintroduced\b|\bconcept\b|\bprior\b|\bverified|\breceived\b|\bsubmitted\b|\breflects|\bunable\b|\bper\s|\bas\sof\b|\bnone\s|\bsection\s*\d)[^)]*\)\s*$
+(?i)\s*\([^)]*(?:\bversion\b|\bamend|\boppose|\bsponsor|\bsource\b|\bcommittee\b|\bletter\b|\bbill\b|\bintroduced\b|\bconcept\b|\bprior\b|\bverified|\breceived\b|\bsubmitted\b|\breflects|\bunable\b|\bper\s|\bas\sof\b|\bnone\s|\bsection\s*\d|\bupdated\b|\bdated\b)[^)]*\)\s*$
 
 # General: trailing square brackets containing metadata keywords - END
-(?i)\s*\[[^\]]*(?:\bversion\b|\bamend|\boppose|\bsponsor|\bsource\b|\bcommittee\b|\bletter\b|\bbill\b|\bintroduced\b|\bconcept\b|\bprior\b|\bverified|\breceived\b|\bsubmitted\b|\breflects|\bunable\b|\bper\s|\bas\sof\b|\bnone\s|\bsection\s*\d)[^\]]*\]\s*$
+(?i)\s*\[[^\]]*(?:\bversion\b|\bamend|\boppose|\bsponsor|\bsource\b|\bcommittee\b|\bletter\b|\bbill\b|\bintroduced\b|\bconcept\b|\bprior\b|\bverified|\breceived\b|\bsubmitted\b|\breflects|\bunable\b|\bper\s|\bas\sof\b|\bnone\s|\bsection\s*\d|\bupdated\b|\bdated\b)[^\]]*\]\s*$
+
+# Trailing "Hearing Date:" metadata (strips from "Hearing Date:" onward) - END
+(?i),?\s*Hearing Date:.*$
 
 # Trailing bare date stamps with year component - END
 \s+-\s*\d{1,2}/\d{1,2}/\d{2,4}\s*$
