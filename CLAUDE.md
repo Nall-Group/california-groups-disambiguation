@@ -67,7 +67,7 @@ The management assistant is a dedicated Claude Code session that coordinates bet
 - Continuously scan `2_webapp/org_clusters_crosswalk.json` for issues and create new tasks
 
 **Workflow:**
-1. Human gives task descriptions -> management assistant adds them to `TASKS.md`
+1. Human gives task descriptions -> management assistant adds them to `TASKS.md` and commits the change (e.g. "Add tasks 530-535")
 2. Management assistant periodically checks `QUESTIONS.md` for unanswered questions -> presents them to the human
 3. Human answers -> management assistant writes answers to `QUESTIONS.md`
 4. Human asks for status -> management assistant reads `TASKS.md` and summarizes
@@ -120,6 +120,7 @@ Each worker RA session is given a name by the user (e.g. "RA-Alpha", "RA-Beta").
 4. **Wait for your turn**: Periodically re-read `TASKS.md`. When your name is at the top of the data queue, you have write access to project data files.
 5. **Execute**: Make all your changes and commit with a descriptive message.
 6. **Release**: Join the TASKS.md Write Queue again to remove yourself from the data write queue and mark your task "Done".
+7. **Commit TASKS.md update**: After marking your task Done (or In Progress, or Blocked), commit the TASKS.md change with a message like "Mark task N done" or "Update task N status".
 
 **CSV handling rules:**
 - **Consolidating within the crosswalk** (reorganizing existing entries): No CSV changes needed.
