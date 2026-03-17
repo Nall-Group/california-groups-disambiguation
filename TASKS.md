@@ -4,11 +4,11 @@
 
 To edit this file (mark tasks, update queues, add tasks), join this queue first. Only the name at the top may edit.
 
-Management Assistant
 
 ## Data Write Queue
 
 Only the RA at the top of this list has write access to project data files (crosswalk JSON, CSVs). Add yourself to the bottom when you're ready to write. Remove yourself when done.
+
 
 
 
@@ -589,11 +589,11 @@ Only the RA at the top of this list has write access to project data files (cros
 | 559c | **REDO adjacent-canonical review: C.** Same as Task 559. Examine EVERY adjacent pair for letter C. No auto-merge scripts. Web search if unsure. Run cleaning/dedup/stats pipeline. | Not Started | | |
 | 559d | **REDO adjacent-canonical review: D.** Same as Task 559. Examine EVERY adjacent pair for letter D. No auto-merge scripts. Web search if unsure. Run cleaning/dedup/stats pipeline. | Not Started | | |
 | 560 | **REDO adjacent-canonical review: E.** Same as Task 559. Examine EVERY adjacent pair for letter E. No auto-merge scripts. Web search if unsure. Run cleaning/dedup/stats pipeline. | Not Started | | Reviewed through line ~600 of 14,102 (~200 pairs of 4,700). Merges found so far: E&E Development & Investment/Corporation (alt), E*Trade/Group/Securities (alt), E-Coat/Kelly-Moore division (alt), E-recycling of CA/Hayward (chapter), E-Z Way Driving School/Auburn (chapter), E.M. Schaffran/El Cerrito (chapter), EA Independent Franchisee/Association (alt), EAH Housing/San Rafael (chapter), Ear Piercing Manufacturers/Manufactures variants (alt+truncated), Eagle Driving School/Santa Clarita (chapter), Eagle Forum/Long Beach+OC+Sacramento chapters, Eagle Rock High School/Jr-Sr (alt), Early Edge/EARLY EDGE CALIFORNIA/EarlyEdge (alt), Early Ford V-8 Club/of America (alt), Earn/EARN.org/EARNED ASSETS RESOURCE NETWORK (alt). ~20 merges pending execution. Couldn't get data write queue (RA-Beta holding it). |
-| 560a | **REDO adjacent-canonical review: F.** Same as Task 559. Examine EVERY adjacent pair for letter F. Run cleaning/dedup/stats pipeline. | In Progress | RA-Alpha | |
+| 560a | **REDO adjacent-canonical review: F.** Same as Task 559. Examine EVERY adjacent pair for letter F. Run cleaning/dedup/stats pipeline. | Done | RA-Alpha | Reviewed all 5,266 pairs. Merged ~745 entries: alt spellings (typos, truncations, abbreviations), chapters (location variants), individuals, partials, invalids, conjoined. |
 | 560b | **REDO adjacent-canonical review: G.** Same as Task 559. Examine EVERY adjacent pair for letter G. Run cleaning/dedup/stats pipeline. | Not Started | | |
 | 560c | **REDO adjacent-canonical review: H.** Same as Task 559. Examine EVERY adjacent pair for letter H. Run cleaning/dedup/stats pipeline. | Not Started | | |
 | 560d | **REDO adjacent-canonical review: I.** Same as Task 559. Examine EVERY adjacent pair for letter I. Run cleaning/dedup/stats pipeline. | Not Started | | |
-| 560e | **REDO adjacent-canonical review: J.** Same as Task 559. Examine EVERY adjacent pair for letter J. Run cleaning/dedup/stats pipeline. | In Progress | RA-Beta | |
+| 560e | **REDO adjacent-canonical review: J.** Same as Task 559. Examine EVERY adjacent pair for letter J. Run cleaning/dedup/stats pipeline. | Done | RA-Beta | Reviewed all 2,290 J pairs. Merged 60 canonicals. |
 | 561 | **REDO adjacent-canonical review: K.** Same as Task 559. Examine EVERY adjacent pair for letter K. No auto-merge scripts. Web search if unsure. Run cleaning/dedup/stats pipeline. | Not Started | | |
 | 562 | **REDO adjacent-canonical review: L.** Same as Task 559. Examine EVERY adjacent pair for letter L. Run cleaning/dedup/stats pipeline. | Not Started | | |
 | 563 | **REDO adjacent-canonical review: M.** Same as Task 559. Examine EVERY adjacent pair for letter M. Run cleaning/dedup/stats pipeline. | Not Started | | |
