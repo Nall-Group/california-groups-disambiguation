@@ -9,7 +9,7 @@ To edit this file (mark tasks, update queues, add tasks), join this queue first.
 
 Only the RA at the top of this list has write access to project data files (crosswalk JSON, CSVs). Add yourself to the bottom when you're ready to write. Remove yourself when done.
 
-RA-Beta
+
 
 
 
@@ -586,7 +586,7 @@ RA-Beta
 | 557 | Investigate and consolidate "Abode" entries. Web search each to determine which are separate orgs. Known: "ABODE COMMUNITIES" (has children incl. "ADOBE COMMUNITIES" typo), "Abode Communities (Los Angeles)", "Abode Housing Development", "Abode Property Management", "ABODE SERVICES", "Abode Services, Fremont". Note: "Abode Communities" (LA-based affordable housing) and "Abode Services" (Fremont-based homeless services) are likely **different orgs** — verify. "Abode Communities (Los Angeles)" should merge into "ABODE COMMUNITIES". "Abode Services, Fremont" should merge into "ABODE SERVICES". Consolidate confirmed same-org entries, keep separate orgs separate. Run the cleaning/dedup/stats pipeline before committing. | Done | RA-Beta | Consolidated. |
 | 558 | **REDO adjacent-canonical review: Re-run the helper script** (`scripts/list_adjacent_pairs.py`) against the current crosswalk to generate a fresh list of ALL adjacent canonical pairs, grouped by first letter. Output to files by letter group. This is needed because Tasks 540a-e only auto-merged "high-confidence" pairs and skipped thousands of others. Commit output files only. | Done | RA-Beta | Generated files by letter in temp directory. 152,149 total pairs. |
 | 559 | **REDO adjacent-canonical review: # and A (through "Against").** Examine EVERY adjacent pair. No auto-merge scripts. For each pair decide: alt spelling, chapter, truncation, or different orgs. Web search if unsure. Run cleaning/dedup/stats pipeline. | Done | RA-Beta | Reviewed all # (350 pairs) and A through "Against" (~3,550 pairs). Merged 241 canonicals. |
-| 559a | **REDO adjacent-canonical review: A continued (Ag... through Az...).** Same as Task 559. Examine EVERY adjacent pair for remaining A canonicals starting from "Ag" through "Az" (~9,150 pairs). No auto-merge scripts. Web search if unsure. Run cleaning/dedup/stats pipeline. | In Progress | RA-Beta | |
+| 559a | **REDO adjacent-canonical review: A continued (Ag... through Az...).** Same as Task 559. Examine EVERY adjacent pair for remaining A canonicals starting from "Ag" through "Az" (~9,150 pairs). No auto-merge scripts. Web search if unsure. Run cleaning/dedup/stats pipeline. | Done | RA-Beta | Reviewed all ~9,944 Ag-Az pairs. 85 HIGH merges + 320 MEDIUM alt spellings + 30 chapters + 8 conjoined + 2 individuals. Net reduction: 444 canonicals. |
 | 559b | **REDO adjacent-canonical review: B.** Same as Task 559. Examine EVERY adjacent pair for letter B. No auto-merge scripts. Web search if unsure. Run cleaning/dedup/stats pipeline. | Not Started | | |
 | 559c | **REDO adjacent-canonical review: C.** Same as Task 559. Examine EVERY adjacent pair for letter C. No auto-merge scripts. Web search if unsure. Run cleaning/dedup/stats pipeline. | Not Started | | |
 | 559d | **REDO adjacent-canonical review: D.** Same as Task 559. Examine EVERY adjacent pair for letter D. No auto-merge scripts. Web search if unsure. Run cleaning/dedup/stats pipeline. | Not Started | | |
