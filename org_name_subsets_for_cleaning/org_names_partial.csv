@@ -1,4 +1,5 @@
 org_name,count
+WORKSAFE,775
 Union,718
 Council,663
 District,459
@@ -10,6 +11,7 @@ Angeles,308
 Los,304
 Center,302
 SAN,282
+Wildcoast,280
 CIO,265
 Industry,255
 Concerns,203
@@ -25,6 +27,7 @@ California Attorneys for,159
 Consumer,157
 San Francisco,151
 PATH,147
+Weave,147
 Alliance,144
 Cities of,143
 Secretary of,139
@@ -33,10 +36,12 @@ Mojave Water Agency,137
 League,133
 Merced,130
 Oakland,129
+Yolo County,126
 for Criminal Justice,125
 Ventura County,123
 Network,122
 BILL,121
+Women,121
 PG&E,116
 Stockton,115
 Sheriffs,111
@@ -73,6 +78,7 @@ Valley,83
 California School,79
 of,79
 ASSOCIATIONS,78
+Western,77
 "Strategic Committee of Public Employees, Laborers International Union of",75
 Firefighters,74
 County Sheriff,72
@@ -186,6 +192,7 @@ care,36
 Legal Services,36
 California State Conference of the National Association for,35
 Yolo,35
+Yuba County,35
 Chief Probation Officers of,34
 Colored People,34
 Legal Services for Prisoners with,34
@@ -200,6 +207,7 @@ Corp,32
 Counsel,32
 PhD,32
 Palmdale,32
+Water District,32
 Jr,31
 Lawyers,31
 Medicine,31
@@ -226,6 +234,8 @@ of Counties,28
 Force,28
 Montebello,28
 Pomona,28
+Western States,28
+WOMAN,28
 California Association of Homes and Services for,27
 Counselors,27
 Indians,27
@@ -237,6 +247,7 @@ of Realtors,27
 La Quinta,27
 Taxpayers,27
 Tuolumne,27
+West Hollywood,27
 Business,26
 California Association for the Education of,26
 Clue,26
@@ -246,6 +257,8 @@ laws,26
 Member,26
 Natura,26
 Personal,26
+Youth Together,26
+Watsonville,26
 Affiliate,25
 Chapter,25
 Civil,25
@@ -270,6 +283,8 @@ Pharmaceutical Research and Manufacturers of,23
 Planned Parenthood Affiliates of,23
 Older Women's,23
 Pediatrics,23
+West Covina,23
+Work Equity,23
 California Conference of,22
 Co,22
 Coalition of,22
@@ -281,6 +296,7 @@ Management District,22
 Pharmacists,22
 Pacific Life,22
 Placentia,22
+West Sacramento,22
 ANIMAL,21
 California Coalition for,21
 California Law,21
@@ -300,6 +316,7 @@ State Public Affairs Committee of the Junior Leagues of,20
 of California Cities,20
 Montclair,20
 Prevention,20
+Whittier,20
 California Attorney,19
 Chief Probation Officer,19
 Clara,19
@@ -307,6 +324,8 @@ Juvenile Court Judges of,19
 Pinole,19
 Professional,19
 The Center,19
+Yuba City,19
+Working Solutions,19
 California Conference Board of,18
 Center on Race,18
 Contra,18
@@ -341,6 +360,7 @@ of Women,17
 two,17
 Management,17
 Obispo Counties,17
+Welcoming Neighbors Home,17
 California Building,16
 California Council on Alcohol,16
 California National Organization for,16
@@ -383,6 +403,8 @@ Mission Blue,15
 Mission College,15
 National Center,15
 Technicians,15
+Water Agencies,15
+Women Against Gun,15
 Alamo,14
 Association for the Advancement of Colored People,14
 Brentwood,14
@@ -415,6 +437,8 @@ Mercy,14
 Marijuana Laws,14
 Office of the Attorney,14
 Planning,14
+Western Milling,14
+Woodland,14
 Alliance of,13
 California Academy of,13
 California Association of Services for,13
@@ -453,6 +477,7 @@ N. America,13
 Older,13
 Pittsburg,13
 Palos Verdes Estates,13
+Westminster,13
 Advisor,12
 Agri,12
 Attorneys,12
@@ -535,6 +560,10 @@ Page D,11
 PPIC,11
 Petaluma,11
 Tahoe,11
+Wild Iris,11
+Waves National,11
+Yucca Valley,11
+YWCA of San Diego,11
 Accountable,10
 Alameda County Board of,10
 Association of Korean Oriental Medicine & Acupuncture of,10
@@ -592,6 +621,8 @@ Period,10
 Traditional,10
 Therapy,10
 Temecula,10
+Waste,10
+Ways & Means,10
 AMVETS-Department of,9
 Asian Americans for,9
 Asian Law,9
@@ -639,6 +670,8 @@ Orange County Transportation,9
 Page j,9
 Party,9
 Porterville,9
+West Contra Costa,9
+Weed for Warriors,9
 Aguilas,8
 American Academy of,8
 Associated General Contractors of,8
@@ -709,6 +742,9 @@ Patrol,8
 Page f,8
 Telos,8
 Tarzana,8
+Women Lawyers,8
+Washington,8
+West Marine,8
 Accountability,7
 Afghan Hound Club of California,7
 Agents,7
@@ -799,6 +835,11 @@ Plans,7
 PACE,7
 Page H,7
 Parole,7
+Women's Crisis,7
+Windsor,7
+YWCA-Wings,7
+Weatherford,7
+Yuba College,7
 2,6
 AGSJ,6
 Administrator,6
@@ -930,6 +971,14 @@ Pharmacy,6
 PLANT,6
 Page n,6
 Patients,6
+West Oakland Health,6
+Water Agency,6
+Women for America,6
+Women Alive,6
+Watch,6
+Washington Mutual,6
+Western Electrical,6
+Ward AME,6
 1245 (Walnut Creek),5
 21st Century,5
 4.,5
@@ -1109,6 +1158,15 @@ Placerville,5
 Protect,5
 Technologies,5
 Technology (CAMLT),5
+Wings,5
+We the People,5
+World,5
+What's Up Dog LA,5
+Yuba CCD,5
+Yorba Linda,5
+Werner,5
+Western Regional,5
+Woodside,5
 AHS,4
 Academy,4
 Accountancy,4
@@ -1417,6 +1475,14 @@ Title,4
 Tribes,4
 Tenderloin,4
 Tribe,4
+Wheels,4
+WIND,4
+Western Union,4
+Waterford,4
+World Relief,4
+Woodlake,4
+West Marin Compost,4
+Yucaipa,4
 29 AFL-CIO and CLC,3
 3,3
 3rd District,3
@@ -1929,6 +1995,25 @@ Transgender,3
 Tempo,3
 The Education of Trust-West,3
 Town,3
+Well,3
+Youth Justice,3
+Western Air,3
+Walnut House,3
+Wilson,3
+Young,3
+Watson,3
+Willow,3
+Women's Leadership,3
+Working,3
+Weil,3
+Wild Heritage,3
+Walk,3
+Women Escaping,3
+Women's March,3
+Western Auto,3
+Western Dental,3
+Webb Schools,3
+WESCO,3
 26th District,2
 2nd District,2
 3492 (North Antelope),2
@@ -3116,6 +3201,48 @@ Three Valleys Municipal Water,2
 The Pointe,2
 Thomas J,2
 Table 1,2
+West Sacramento Police Officers,2
+Western Shasta,2
+Wild Rescue,2
+Western League,2
+YWCA of Sonoma,2
+Water Replenishment,2
+YWCA Santa,2
+Welfare,2
+White,2
+Western Contract,2
+Warren,2
+Western States Region,2
+Washington D.C,2
+Women's Health,2
+Wolf,2
+Women Prosecutors,2
+Women Fight Back,2
+Wisk,2
+Youth Leadership,2
+Western Water,2
+West Company (Ukiah),2
+We Are Homicide,2
+West Coast,2
+Workplace,2
+War II,2
+Wells,2
+World Privacy,2
+West Fresno,2
+Weekly,2
+Worldwide,2
+Warner,2
+Wagner,2
+Winters,2
+Western Area,2
+We Care,2
+Wave,2
+Woodland Hills,2
+Ziegler,2
+Ward,2
+YWCA Santa Monica,2
+Workforce,2
+Whispering,2
 $30,1
 104 Individual Letters from Representatives of,1
 1065 (PEACE),1
@@ -6588,6 +6715,91 @@ Transitional,1
 Teacher,1
 The California Association of Competitive,1
 TRAP,1
+Western Steel,1
+West Hollywood Democratic,1
+West Sonoma County,1
+Wilderness Unlimited,1
+Wyland,1
+Wardens Protective,1
+West Shield,1
+Water Department,1
+Wounded Warrior,1
+Western Farm,1
+Westrux,1
+YWCA Rape,1
+Warehouse,1
+Workers West,1
+Westfield Galleria,1
+Whittier City,1
+Zoological Society,1
+Workforce Investment,1
+Wounded,1
+West Kern Community,1
+Wesley United,1
+Wilmington,1
+"WEAVE, Women",1
+Wine Country,1
+WB Television,1
+Western Allied,1
+Watts Friendship,1
+Western Wall,1
+Wounded Heroes,1
+Western Rottweiler,1
+Wars,1
+Workers' Compensation Fraud,1
+Windflower Point Mutual,1
+Western Propane Gas,1
+Weed,1
+Women of Color Resource,1
+Westside Residents,1
+Western Riverside,1
+Weco Industries,1
+Western Floor,1
+Waterjet,1
+"Western Sign Company, Inc",1
+WAMM,1
+Window,1
+Whittier Chapter,1
+Woodland Hills Home,1
+Worldcolor,1
+Zero Waste,1
+Wilton,1
+Westminster Jewelry,1
+Wild Goose,1
+Wick,1
+Waterways Restoration,1
+Wonder Dog Rescue,1
+Westside Fair Housing,1
+YWCA Pasadena Foothill,1
+Youth Mentoring,1
+West Angeles,1
+Westport Fire,1
+Water and Power,1
+Western State,1
+Youth Build,1
+Westlands,1
+YWCA - MC,1
+Zebra,1
+West Los Angeles,1
+West LA Community,1
+Yermo Community,1
+Worth,1
+Youth Speak Collective,1
+Walnut Valley Water,1
+Westburne,1
+Youth Services,1
+West Hills,1
+Youth and Family,1
+Western Manufactured,1
+Western Service Workers,1
+Western Agricultural,1
+Wireless,1
+Washington State Maritime,1
+Waters,1
+West Contra,1
+Waterkeeper,1
+YWCA of Monterey,1
+Western Freedom,1
 542,0
 "542, Local 572",0
 AFL-CIO Local 11,0
