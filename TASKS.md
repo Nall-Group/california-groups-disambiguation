@@ -9,7 +9,7 @@ To edit this file (mark tasks, update queues, add tasks), join this queue first.
 
 Only the RA at the top of this list has write access to project data files (crosswalk JSON, CSVs). Add yourself to the bottom when you're ready to write. Remove yourself when done.
 
-
+RA-Beta
 
 
 
@@ -651,8 +651,8 @@ Only the RA at the top of this list has write access to project data files (cros
 | 599 | **Review nested canonicals (depth 3), batch 9 of 30.** Same as 591. Canonicals from "Labor/Community Strategy Center's (LCSC) Community Rights Campaign" through "Legal Services for Seniors, Pacific Grove". Run cleaning/dedup/stats pipeline. | Done | RA-Beta | 32 fixes across 34 canonicals: flattened 21 alt-under-alt chains; LIUNA moved 13 locals from under alt to top; Law Section + Legal Assistance moved chapters from under alts; League of CA Cities merged 4 dup chapter pairs + moved division alts; League of Women Voters merged dup CA + moved 4 CA alts. |
 | 600 | **Review nested canonicals (depth 3), batch 10 of 30.** Same as 591. Canonicals from "Leveleg, Precision Solar Mounting Systems, San Diego" through "MARIN AGRICULTURAL LAND TRUST MCCOLLUM ASSOCIATES". Run cleaning/dedup/stats pipeline. | Done | RA-Alpha | Reviewed 43 canonicals. Flattened 30 alt-under-alt chains. Fixed 5 inverted hierarchies (Macy's, Madera USD, Manatt, Manteca USD, March of Dimes). Merged duplicate Make-Up Artists Local 706 chapters. |
 | 601 | **Review nested canonicals (depth 3), batch 11 of 30.** Same as 591. Canonicals from "MARINE CORPS LEAGUE" through "Manteca Unified School District, Health Services Department". Run cleaning/dedup/stats pipeline. | Done | RA-Beta | 17 fixes across 21 canonicals: flattened 10 alt-under-alt chains; moved misplaced chapters from under alts (Marin Community Clinics, Office of Ed, Public Defender); Marine Corps League moved 4 flat alts under correct chapters. |
-| 602 | **Review nested canonicals (depth 3), batch 12 of 30.** Same as 591. Canonicals from "Manufacturers Association of Calif" through "Masonry Concepts Inc". Run cleaning/dedup/stats pipeline. | In Progress | RA-Alpha | |
-| 603 | **Review nested canonicals (depth 3), batch 13 of 30.** Same as 591. Canonicals from "Master Builders Solutions - No. California" through "Mental Health Directors Association". Run cleaning/dedup/stats pipeline. | Not Started | | |
+| 602 | **Review nested canonicals (depth 3), batch 12 of 30.** Same as 591. Canonicals from "Manufacturers Association of Calif" through "Masonry Concepts Inc". Run cleaning/dedup/stats pipeline. | Done | RA-Alpha | Reviewed 12 canonicals. Flattened 6 alt-under-alt chains. Fixed Marin County Advisory Board truncated chapter→alt spelling. Consolidated 2 Marriott canonicals. |
+| 603 | **Review nested canonicals (depth 3), batch 13 of 30.** Same as 591. Canonicals from "Master Builders Solutions - No. California" through "Mental Health Directors Association". Run cleaning/dedup/stats pipeline. | In Progress | RA-Beta | |
 | 604 | **Review nested canonicals (depth 3), batch 14 of 30.** Same as 591. Canonicals from "Mental Health Systems, Inc., Pegasus East" through "Million Women Mentors, CA". Run cleaning/dedup/stats pipeline. | Not Started | | |
 | 605 | **Review nested canonicals (depth 3), batch 15 of 30.** Same as 591. Canonicals from "Mills Legal Clinic, Stanford University Law School, Youth & Education Law" through "Monterey/Santa Cruz Counties Building and Construction Trades Council". Run cleaning/dedup/stats pipeline. | Not Started | | |
 | 606 | **Review nested canonicals (depth 3), batch 16 of 30.** Same as 591. Canonicals from "Montgomery Watson Harza" through "Multipurpose Senior Services Program Site Association, Inc. (MSA)". Run cleaning/dedup/stats pipeline. | Not Started | | |
