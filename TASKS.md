@@ -9,6 +9,8 @@ To edit this file (mark tasks, update queues, add tasks), join this queue first.
 
 Only the RA at the top of this list has write access to project data files (crosswalk JSON, CSVs). Add yourself to the bottom when you're ready to write. Remove yourself when done.
 
+RA-Beta
+
 
 
 
@@ -645,8 +647,8 @@ Only the RA at the top of this list has write access to project data files (cros
 | 595 | **Review nested canonicals (depth 3), batch 5 of 30.** Same as 591. Canonicals from "DESERT PROTECTIVE COUNCIL" through "FAMILY LAW SECTION OF THE STATE BAR". Run cleaning/dedup/stats pipeline. | Done | RA-Alpha | Reviewed 21 canonicals. Flattened 4 alt-under-alt chains. Fixed 5 inverted hierarchies (Diablo Solar, Dollar Driving School, Domestic Abuse Center, Ducks Unlimited, East Bay Sanctuary). Fixed District Attorneys misplaced entries. Moved flat NorCal/SoCal alts under Elders Climate Action chapters. Merged duplicate CA chapters (Electrical Contractors, EMSAA, Family Law Section). |
 | 596 | **Review nested canonicals (depth 3), batch 6 of 30.** Same as 591. Canonicals from "FEDERATION OF CALIFORNIA RACING ASSOCIATIONS" through "Hearing Healthcare Providers". Run cleaning/dedup/stats pipeline. | Done | RA-Beta | 18 fixes across 21 canonicals: flattened 6 alt-under-alt chains; merged 4 dup CA chapter pairs; moved CA alts under chapters for 5 orgs; GSMOL fixed misplaced Chapter 776 + truncated alt; GRACE fixed nested chapter under alt. |
 | 597 | **Review nested canonicals (depth 3), batch 7 of 30.** Same as 591. Canonicals from "Hewlett-Packard" through "Korean American National Museum". Run cleaning/dedup/stats pipeline. | Done | RA-Beta | 23 fixes across 27 canonicals: flattened 13 alt-under-alt chains; IATSE merged 101 duplicate local chapters across 38 locals; SMART merged 15 dup CA State Legislative Board chapters + 3 Western States Council + Local 104/105; JVP merged dup SD chapters; Judicial Council + Korean Am Grocers moved CA alts under chapters. |
-| 598 | **Review nested canonicals (depth 3), batch 8 of 30.** Same as 591. Canonicals from "Koreisha Senior Care and Advisory" through "Labor Occupational Health Program". Run cleaning/dedup/stats pipeline. | In Progress | RA-Alpha | |
-| 599 | **Review nested canonicals (depth 3), batch 9 of 30.** Same as 591. Canonicals from "Labor/Community Strategy Center's (LCSC) Community Rights Campaign" through "Legal Services for Seniors, Pacific Grove". Run cleaning/dedup/stats pipeline. | Not Started | | |
+| 598 | **Review nested canonicals (depth 3), batch 8 of 30.** Same as 591. Canonicals from "Koreisha Senior Care and Advisory" through "Labor Occupational Health Program". Run cleaning/dedup/stats pipeline. | Done | RA-Alpha | Reviewed 10 canonicals. Flattened 9 alt-under-alt chains (Koreisha, Kraft, Krimson, Kumeyaay, La Clínica, La Jolla Band, LA Raza Community, La Raza Law Student, La Raza Roundtable). Labor Occupational Health correct. |
+| 599 | **Review nested canonicals (depth 3), batch 9 of 30.** Same as 591. Canonicals from "Labor/Community Strategy Center's (LCSC) Community Rights Campaign" through "Legal Services for Seniors, Pacific Grove". Run cleaning/dedup/stats pipeline. | In Progress | RA-Beta | |
 | 600 | **Review nested canonicals (depth 3), batch 10 of 30.** Same as 591. Canonicals from "Leveleg, Precision Solar Mounting Systems, San Diego" through "MARIN AGRICULTURAL LAND TRUST MCCOLLUM ASSOCIATES". Run cleaning/dedup/stats pipeline. | Not Started | | |
 | 601 | **Review nested canonicals (depth 3), batch 11 of 30.** Same as 591. Canonicals from "MARINE CORPS LEAGUE" through "Manteca Unified School District, Health Services Department". Run cleaning/dedup/stats pipeline. | Not Started | | |
 | 602 | **Review nested canonicals (depth 3), batch 12 of 30.** Same as 591. Canonicals from "Manufacturers Association of Calif" through "Masonry Concepts Inc". Run cleaning/dedup/stats pipeline. | Not Started | | |
