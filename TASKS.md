@@ -10,6 +10,7 @@ Management Assistant
 
 Only the RA at the top of this list has write access to project data files (crosswalk JSON, CSVs). Add yourself to the bottom when you're ready to write. Remove yourself when done.
 
+RA-Beta
 
 
 
@@ -680,5 +681,7 @@ Only the RA at the top of this list has write access to project data files (cros
 | 637 | Investigate "A Violent Environment (WEAVE [Sacramento])" — WEAVE stands for "Women Escaping A Violent Environment". This entry is likely a truncated/dirty version of WEAVE Sacramento. Search the crosswalk for "WEAVE" and "Women Escaping A Violent Environment". If found, make this entry an alt spelling of the WEAVE canonical (or Sacramento chapter). Move the CSV row to `org_names_embedded_in_narrative_text.csv` since the name is a partial phrase, not the org name itself. Run cleaning/dedup/stats pipeline. | Not Started | | |
 | 638 | Add cleaning pattern for "A. Support:" prefix to `cleaning_patterns.txt`. Pattern: `(?i)^\s*[A-Z]\.\s*Support:\s*` (matches any single letter + ". Support:" at the start). This is legislative metadata, not part of the org name. 3 entries currently affected. After adding the pattern, run: `python3 scripts/clean_crosswalk.py`, `python3 scripts/regenerate_org_subsets.py`, `python3 generate_stats.py`. | Not Started | | |
 | 639 | Consolidate "A Woman's Place" entries. "A Woman's Place" is likely the parent or truncation, "A Woman's Place of Merced" (has alt spelling "A Woman's Place of Merced County") is a chapter, and "A Women's Place" is a typo (Woman's vs Women's). Web search to confirm relationships. Consolidate accordingly. Run cleaning/dedup/stats pipeline. | Not Started | | |
+| 640 | Consolidate "A.F. Mendes & Sons" and "A.F. Mendes, Inc" — likely the same company with different legal name variants. Web search to confirm. Make one an alt spelling of the other. Run cleaning/dedup/stats pipeline. | Not Started | | |
+| 641 | Consolidate AAA entries. "AAA Northern California, Nevada and Utah Insurance Exchange" is likely the insurance arm of "AAA of Northern California, Nevada and Utah" (which already has 7 alt spellings) — make it an alt spelling or chapter. Also check if "AAA of Southern California" should be a chapter of a parent "AAA" canonical, or if NorCal and SoCal should remain separate canonicals. Search crosswalk for any other AAA entries. Run cleaning/dedup/stats pipeline. | Not Started | | |
 | 621 | Consolidate 3M entries. Web search each to determine relationship to the parent company "3m". Known entries: "3m" (has alt spellings "3M Corporation", "3m Company"), "3M Automotive Electrification Program", "3M Company/National Advertising Company", "3M National", "3M Purification, Inc". These are likely all divisions/subsidiaries of 3M — web search to confirm, then make them chapters or alt spellings of "3m" as appropriate. "3M Company/National Advertising Company" may be conjoined (3M + National Advertising Company). Search crosswalk for any other 3M variants. Run cleaning/dedup/stats pipeline. | Not Started | | |
 
