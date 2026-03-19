@@ -4,13 +4,11 @@
 
 To edit this file (mark tasks, update queues, add tasks), join this queue first. Only the name at the top may edit.
 
-Management Assistant
 
 ## Data Write Queue
 
 Only the RA at the top of this list has write access to project data files (crosswalk JSON, CSVs). Add yourself to the bottom when you're ready to write. Remove yourself when done.
 
-RA-Alpha
 RA-Beta
 
 
@@ -611,7 +609,7 @@ RA-Beta
 | 569 | **REDO adjacent-canonical review: T.** Same as Task 559. Examine EVERY adjacent pair for letter T. Run cleaning/dedup/stats pipeline. | Done | RA-Alpha | Reviewed all 6,694 T pairs. 222 merges, 13 individuals + 66 partials. |
 | 570 | **REDO adjacent-canonical review: U, V.** Same as Task 559. Examine EVERY adjacent pair for letters U and V. Run cleaning/dedup/stats pipeline. | Done | RA-Beta | Reviewed all 5,628 U+V pairs. 202 alt merges + 13 chapters + 2 individuals. Net reduction: 217 canonicals. |
 | 571 | **REDO adjacent-canonical review: W, X, Y, Z.** Same as Task 559. Examine EVERY adjacent pair for letters W, X, Y, Z. Run cleaning/dedup/stats pipeline. Delete helper script output files after this final batch. | Done | RA-Alpha | Reviewed all 5,064 W+X+Y+Z pairs. 449 merges, 2 individuals + 217 partials. |
-| 572 | **Categorize "not in crosswalk" entries: lines 1-105 (~100 entries).** There are ~524 entries in `org_name_subsets_for_cleaning/org_names_not_in_crosswalk.csv` that need to be categorized and moved. For each entry, examine and decide: (1) **Real org** — add to crosswalk as a new canonical (search first — it may already exist as an alt spelling/chapter, in which case just leave it). (2) **Partial/fragment** — move to `org_names_partial.csv` (e.g. "National", "Association of", "League of"). (3) **Individual** — move to `org_names_that_are_actually_individuals.csv` (e.g. "Maxine Waters, Member of Congress"). (4) **Invalid** — move to `org_names_invalid.csv` (e.g. "WRITTEN COMMUNICATIONS: On file with Committee"). (5) **Truncated** — search crosswalk for full name, make truncated version an alt spelling if found, otherwise move to `org_names_partial.csv`. (6) **Conjoined** — move to `org_names_conjoined.csv`. Web search any entry you're unsure about. Run cleaning/dedup/stats pipeline. | In Progress | RA-Alpha | |
+| 572 | **Categorize "not in crosswalk" entries: lines 1-105 (~100 entries).** There are ~524 entries in `org_name_subsets_for_cleaning/org_names_not_in_crosswalk.csv` that need to be categorized and moved. For each entry, examine and decide: (1) **Real org** — add to crosswalk as a new canonical (search first — it may already exist as an alt spelling/chapter, in which case just leave it). (2) **Partial/fragment** — move to `org_names_partial.csv` (e.g. "National", "Association of", "League of"). (3) **Individual** — move to `org_names_that_are_actually_individuals.csv` (e.g. "Maxine Waters, Member of Congress"). (4) **Invalid** — move to `org_names_invalid.csv` (e.g. "WRITTEN COMMUNICATIONS: On file with Committee"). (5) **Truncated** — search crosswalk for full name, make truncated version an alt spelling if found, otherwise move to `org_names_partial.csv`. (6) **Conjoined** — move to `org_names_conjoined.csv`. Web search any entry you're unsure about. Run cleaning/dedup/stats pipeline. | Done | RA-Alpha | 104 entries: 65 partial, 17 new canonicals, 14 alt spellings, 4 individuals, 2 invalid, 1 conjoined, 1 chapter. Not-in-crosswalk 524→420. |
 | 573 | **Categorize "not in crosswalk" entries: lines 106-210 (~100 entries).** Same workflow as Task 572. Examine each entry, categorize, and move to the correct CSV or add to crosswalk. Run cleaning/dedup/stats pipeline. | In Progress | RA-Beta | |
 | 574 | **Categorize "not in crosswalk" entries: lines 211-315 (~100 entries).** Same workflow as Task 572. Run cleaning/dedup/stats pipeline. | Not Started | | |
 | 575 | **Categorize "not in crosswalk" entries: lines 316-420 (~100 entries).** Same workflow as Task 572. Run cleaning/dedup/stats pipeline. | Not Started | | |
