@@ -1512,6 +1512,7 @@ TVG,4
 Tenderloin,4
 The Greater Los Angeles African-American Chamber of,4
 The Trust,4
+"Tia, Inc",4
 Title,4
 Tribe,4
 Tribes,4
@@ -1571,7 +1572,6 @@ of the 2019-20 Legislative Session,4
 of the City of Los Angeles,4
 of the United States,4
 pe,4
-"Tia, Inc",4
 29 AFL-CIO and CLC,3
 3,3
 3rd District,3
@@ -2165,6 +2165,8 @@ American Society for the Protection of,2
 American Society of,2
 Americans United for Separation of,2
 "Angeles - Chief Administrative Office, The County of Los Angeles - Department of",2
+Angeles Co,2
+"Angeles, Inc",2
 Archdiocese of,2
 Asian Communities for,2
 Asian Pacific American Legal Board of the California Conference Board of,2
@@ -2247,6 +2249,8 @@ California Assn. of Homes and Services for,2
 California Association for the Preservation of,2
 California Association of Community Organizations for,2
 California Association of County Treasurers and,2
+California Association of Mortgage,2
+California Association of Museum,2
 California Association of Psychiatric Mental Health Nurses in,2
 California Association of Supervisors of,2
 California Black Chamber of,2
@@ -2274,9 +2278,11 @@ California Hispanic,2
 California Index,2
 California League for Environmental,2
 California Legislative Conference of,2
+California Lobby,2
 California Manufacturers And,2
 California Manufacturers AssociationConsumer Attorneys of,2
 California Marine,2
+California Mexican,2
 California Military,2
 "California Military Department, Office of",2
 "California Municipal Business Tax Association, California State Association of Counties, League of",2
@@ -2332,6 +2338,7 @@ Chapter of,2
 "Chief of Police Phillip Green, Cities of",2
 "Chief of Police Susan Jones, City of",2
 "Chief of Police, City of",2
+Chiefs of,2
 Child Abuse Council of,2
 Child Abuse Prevention Council of,2
 Child Protection Center Department of,2
@@ -2372,6 +2379,7 @@ Coalition to Protect Animals in,2
 Coca-Cola Bottling Company of,2
 Coca-Cola Bottling Company of California,2
 Colleges and,2
+Color,2
 Colorado,2
 "Colusa, County of",2
 Commander Department of,2
@@ -2383,6 +2391,7 @@ Common,2
 Communication Co,2
 Communications Manager,2
 Communications Operations Supervisor,2
+"Communications, Inc",2
 Communities (RCRC) and the California State Association of,2
 Communities United for,2
 Community & Children's Advocates Against,2
@@ -2391,6 +2400,7 @@ Community Action Fund of Planned Parenthood of Orange and San,2
 Community Alliance for,2
 Community Alliance with,2
 Community Coalition for,2
+"Community, Inc",2
 Company of,2
 "Compton, City of",2
 Concerned Citizens Commission on Pornography and,2
@@ -2407,6 +2417,8 @@ Consulting Engineer and Land Surveyors of California,2
 Consumeros Union and Consumer Attorneys of,2
 Contra Costa County Board of,2
 "Contra Costa, County of",2
+"Control, Inc",2
+Controller of California,2
 Corinthian Colleges' National Institute of Technology at,2
 Coroner-Marshal,2
 Corporation for,2
@@ -2465,6 +2477,7 @@ Detective,2
 Detectives,2
 Development (CALED),2
 Development Agency,2
+Development Company,2
 Development Policy Committee,2
 Development Program,2
 Development Programs,2
@@ -2488,6 +2501,7 @@ Director Tulare County Public Law Library,2
 "Director of Library Services, County",2
 Director of Planning,2
 "Director of Public Works, Santa Cruz",2
+Directors of California,2
 Disabled In,2
 "District Attorney, County of",2
 District Attorneys of,2
@@ -2544,6 +2558,7 @@ Feral Cat,2
 Ferndale,2
 Fields,2
 Films,2
+Financial Corporation,2
 Fire-Rescue Department,2
 "Foreign Wars, Department of California",2
 Forfeiture,2
@@ -2700,6 +2715,7 @@ Legal Assistants,2
 Legal Barriers to,2
 Legal Defense,2
 Legal Services Section of the State Bar of,2
+"Legal Services, Inc",2
 Legislative Committee of the California County Boards of,2
 Lesbian,2
 Library Association,2
@@ -2721,6 +2737,7 @@ Lucile Packard Children's Health Services at,2
 Luis Obispo and Santa Barbara Counties,2
 Luis Obispo and Yuba,2
 Lumber Association of,2
+Lumber Inc,2
 M.A,2
 MACC Project,2
 MLKCH,2
@@ -2733,6 +2750,7 @@ Madres,2
 Madres Del,2
 Madrone Art Bar,2
 Mamava,2
+"Management, Inc",2
 Manor Bowl,2
 Mar,2
 Marathon,2
@@ -2767,6 +2785,7 @@ Minnesota,2
 Mirage,2
 Mobility,2
 Moms Demand Action for Gun Sense in,2
+Mono County California,2
 Monterey Bay,2
 Monterey County Board of,2
 Monterey Zoo,2
@@ -2791,6 +2810,7 @@ NDS,2
 NORA,2
 NOTE: According to,2
 "Napa, City of",2
+National Alliance for the Mentally,2
 National Alliance of Korean Asian Medicine & Acupuncture of,2
 National Alliance on Mental,2
 National Alliance on Mental Health,2
@@ -2905,6 +2925,7 @@ Precast/ Prestressed Concrete Manufacturers Association of,2
 Precast/Prestressed Concrete Manufacturers Association of,2
 Presiding Judges Advisory Committee of,2
 Pride,2
+Principal and Assistant Principal,2
 Prison,2
 Prisoners with,2
 Private,2
@@ -3044,12 +3065,17 @@ Tem,2
 Temple,2
 Thai,2
 The Area Agency on Aging Council of,2
+The Attorney,2
 The California Academy of Physician,2
 The California Association of Harbor,2
+The Chiefs of,2
 The Greater Merced County Multi-Cultural Chamber of,2
 "The Honorable Ed Chavez, Mayor, and the City Council of",2
 The Kevin Collins Foundation for,2
+The Law Center,2
 The MWA,2
+The Mutual,2
+The National Association of,2
 The Parent,2
 The Pointe,2
 The Police Chiefos,2
@@ -3140,6 +3166,7 @@ Western League,2
 Western Mobilehome Association American Association of,2
 Western Mobilehome Parkowners AssociationConsumer Attorneys of,2
 Western Prelacy Board of Regents of Armenian Schools in,2
+Western Region,2
 Western Shasta,2
 Western States Region,2
 Western University of Health Sciences - College of,2
@@ -3353,38 +3380,9 @@ p,2
 r,2
 seq,2
 t,2
+the Legion of,2
 the Paralyzed Veterans of,2
 "the Senate Health Committee. AB 75 (Frommer and Chan), with",2
-Angeles Co,2
-"Angeles, Inc",2
-California Association of Mortgage,2
-California Association of Museum,2
-California Lobby,2
-California Mexican,2
-Chiefs of,2
-Color,2
-"Communications, Inc",2
-"Community, Inc",2
-"Control, Inc",2
-Development Company,2
-Directors of California,2
-Financial Corporation,2
-"Legal Services, Inc",2
-Lumber Inc,2
-"Management, Inc",2
-National Alliance for the Mentally,2
-Principal and Assistant Principal,2
-The Attorney,2
-The Chiefs of,2
-The Law Center,2
-The Mutual,2
-The National Association of,2
-Western Region,2
-the Legion of,2
-Grocery Manufacturers/Food Products,2
-Monrovia Police Chief,2
-Mono County California,2
-Controller of California,2
 $30,1
 104 Individual Letters from Representatives of,1
 1065 (PEACE),1
@@ -3446,8 +3444,10 @@ Affiliate of the National Association of Counsel for,1
 Afghan Hound Club of,1
 African American Blood Drive and Bone Marrow Registry for,1
 AgLantis,1
+"Again, LLC",1
 Against,1
 "Agencies, California Coalition for Rural Housing, League of",1
+"Agencies, Inc",1
 "Agency of Monterey County and the County of Monterey, both of",1
 "Agency, INC",1
 Agenda,1
@@ -3697,6 +3697,7 @@ Boards of Supervisors of,1
 Bond in,1
 Books,1
 Boy Scouts of,1
+Boys and Girls Club,1
 Breastfeeding Coalition of Greater,1
 Brian,1
 Brice,1
@@ -3849,6 +3850,7 @@ California Coalition of Accredited Career Schools (The Coalition),1
 California Coalition of Agencies Serving the,1
 California Coalition on Crimes Against People with,1
 California Commission on the Fair Administration of,1
+California Communications,1
 California Community College Association of,1
 California Conference of Directors of,1
 California Conference of the National Association for the Advancement of,1
@@ -3910,10 +3912,12 @@ California National Organization for the Reformation of,1
 California Nurses for,1
 California OPO and Tissue Banks to,1
 "California Outdoor Engagement Coalition, University of California, Berkeley, College of",1
+California Pan,1
 California Partnership of the National Campaign for Jobs and,1
 California Peace Officers Research Association of,1
 California Peace Officerso Association and the,1
 California People of,1
+California Plant,1
 "California Police Activities League, San",1
 "California Portland Cement Company, Construction Materials Association of",1
 "California Probation, Parole and",1
@@ -4233,7 +4237,9 @@ Committee to Eliminate Sales/Use Tax on,1
 "Committee, the American College of Obstetricians and",1
 Commuities,1
 Communication Workers of,1
+"Communications, LLC",1
 Communities in Harmony Advocating for,1
+"Communities, Inc",1
 Community Action Fund of,1
 Community Action Fund of Planned Parenthood,1
 Community Action Fund of the Planned Parenthood of Orange and San,1
@@ -4244,7 +4250,9 @@ Community Adult Day Care of Community Hospital of,1
 Community Alliance for Special,1
 Community Care Council of,1
 Community Child Care Coordinating Council of,1
+Community Co,1
 Community College League of,1
+Community Corporation,1
 Community Development Commission of,1
 Community Foundation of,1
 Community Foundation of the Jewish Federation Council of,1
@@ -4299,6 +4307,7 @@ Consumer Credit Counseling Service of,1
 Consumers Attorneys of,1
 Consumers for,1
 Container,1
+Contractor Inc,1
 Contractors of,1
 Control Group Science,1
 Cooperative of,1
@@ -4317,6 +4326,8 @@ Council of CA,1
 Council of California Departments of,1
 Councilmember-Elect Gil Cedillo to the Los Angeles City Council for,1
 Counicl,1
+Counsel of California,1
+"Counseling, Inc",1
 Counselos,1
 Counties California Association of,1
 "Counties of El Dorado, Fresno, Orange, Ventura Supervisor Gary L. Lewis, District 3, Lake County Board of",1
@@ -4423,6 +4434,7 @@ Defenderos Association,1
 Defense Center,1
 Defense Collaborative,1
 Defense Committee for the Veterans Legal Institute,1
+Defense Fund California,1
 Defense Network,1
 Defensores Del Valle Central Para,1
 "Del Norte, County of",1
@@ -4761,6 +4773,7 @@ HMOs,1
 HOCOA,1
 HOK,1
 HSG,1
+Habitat for Humanity East,1
 Habitat for Humanity of,1
 Hacienda La Puente Unified School District Board of,1
 "Harlan Kelly, Chair of the Concerned Citizen's Committee of",1
@@ -4990,6 +5003,7 @@ Lacey,1
 Lactation Education and Promotion for,1
 Ladies Auxiliary to the Veterans,1
 Lady,1
+Laguna Hill,1
 Lake County Board of,1
 Lake Park,1
 Lake Rancheria,1
@@ -5033,7 +5047,9 @@ League of America,1
 League of Latin,1
 "League of United Latin American Citizens (LULAC) Councils 3122, 3036 and",1
 Leagues,1
+Leagues of CA,1
 Learning,1
+Learning Corporation,1
 Leasing,1
 Leff,1
 Legal Advocacy,1
@@ -5043,9 +5059,11 @@ Legal Aid of,1
 Legal Assistance to the,1
 Legal Corps of,1
 Legal Services Section of,1
+Legion of,1
 Legion of Valor of,1
 Legislation of,1
 "Legislative Action Committee, Executive Council of",1
+Legislative Council (ABL),1
 Legislative Screening Committee of the California Federation of,1
 Lesbian & Gay,1
 Lexington,1
@@ -5062,6 +5080,7 @@ Liondow,1
 Little Tokyo Service,1
 Livable,1
 Livermore Valley Joint Unified School District Board of,1
+Livingston California,1
 Local 1,1
 Local 10,1
 Local 5,1
@@ -5125,6 +5144,7 @@ Loyola,1
 Lt,1
 Lucile,1
 Luis,1
+"Luis Obispo Counties, Inc",1
 "Luis Obispo Counties, Shasta-Diablo, and Six Rivers",1
 Lumber,1
 "Lymphoma Research Foundation of America, State of",1
@@ -5140,6 +5160,7 @@ MC,1
 MIG,1
 MIGRA,1
 MJZ,1
+"MMLG, LLC",1
 MMWC,1
 MOHR,1
 MOSO,1
@@ -5170,6 +5191,7 @@ Marshal,1
 Marshals Association of,1
 Mart,1
 Martin,1
+Martin Corporation,1
 "Mary Erickson Community Housing, San",1
 Marygold,1
 Masco,1
@@ -5198,6 +5220,7 @@ Mendocino Coast,1
 Mendocino County Board of,1
 "Menlo Park, City of",1
 Mental Illness,1
+Mental Illness California,1
 Merced County Association of,1
 Merced County Superintendent of,1
 "Merced, County of",1
@@ -5206,6 +5229,7 @@ Mercy Hospitals of,1
 Metal Association,1
 Metal Finishing Association of,1
 Metals,1
+"Metals, LLC",1
 Metropolitan Area,1
 Metropolitan Community Church in,1
 Metropolitan Water District of Southern California Board of,1
@@ -5446,6 +5470,7 @@ Oceanic,1
 "Office of Foreign Trade, Economic Development Agency for the County of",1
 Office of Kern County Superintendent of,1
 "Office of the Attorney General, Department of",1
+Office of the CIO,1
 Office of the California,1
 Office of the City Attorney of Los Angeles and,1
 Office of the District Attorney of,1
@@ -5454,16 +5479,22 @@ Office of the Public Defender City and County of,1
 Office of the Secretary of,1
 Office of the Sheriff and Coroner of,1
 Office of the Sheriff of,1
+Officers Assoc,1
 Officers Assoc. Cities of,1
+Officers Association of California,1
+Officerso Assn,1
 Official Court,1
 Ojai Chamber of,1
 Ojai Valley,1
 Ojai Valley Chamber of,1
 Olivia's,1
+"Ombudsman, Inc",1
 Oncology,1
 OpenAI,1
 Operating,1
+"Operating, Inc",1
 Operation Care of,1
+"Opportunities, Inc",1
 Orange Co,1
 "Orange Council Council, Boy Scouts of",1
 Orange County Business Council and Interfaith Coalition for,1
@@ -5480,6 +5511,7 @@ Orange County People for,1
 Orange County Professional,1
 Orange County Transportation Authority Board of,1
 Orcutt,1
+Organizaci?n en California,1
 Organization for Women (CA NOW) Center for,1
 Organization for Women: Consumer Attorneys of,1
 Organization of California,1
@@ -5492,6 +5524,7 @@ Organizations of Area Boards of,1
 Organizations of California,1
 Organizations: Central Brain Tumor Registry of,1
 Organizing Network,1
+"Origin, Inc",1
 Oro,1
 "Oroville, City of",1
 Ospi,1
@@ -5530,6 +5563,8 @@ PVNOW,1
 PVWMA,1
 Pablo,1
 Pacific Association,1
+Pacific Co,1
+Pacific Coast Region,1
 Pacific Egg,1
 Pacific Grove Chamber of Commerce Board of,1
 "Pacific Grove, City of",1
@@ -5540,6 +5575,8 @@ Page L,1
 Page R,1
 Page Two,1
 Page u,1
+"Paint Co., Inc",1
+Palace,1
 Palm Desert Chamber of,1
 "Palm Drive Health Care District, Association of",1
 Palomar,1
@@ -5566,6 +5603,7 @@ Peace Officers Research Assistance Association of,1
 Peace Officers Research Assocation of,1
 Peace Officers of the City of LA Department of,1
 Pediatric,1
+"Pediatrics, California",1
 Peers Envisioning and Engaging in,1
 Penal,1
 Pennsylvania,1
@@ -5575,7 +5613,11 @@ People for the Ethical Treatment of,1
 People in,1
 Performing Animal,1
 Perinatal Advisory Council,1
+Period. Inc,1
+Perry,1
+Persons Inc,1
 Persons with,1
+"Persons, California",1
 Pest Control Operators of,1
 "Pesticide Action Network of North America, Physicians for",1
 "Petaluma, City of",1
@@ -5630,6 +5672,8 @@ Plumas Association of,1
 Plumas County Board of,1
 "Plumas, County of",1
 "Plumbers, Steamfitters & Refrigeration Fitters",1
+"Plus, Inc",1
+"Point, Inc",1
 Police Chiefos Association,1
 Police Chiefs of,1
 Police Department of the City and County,1
@@ -5749,6 +5793,7 @@ Richardson,1
 Ride to,1
 Rights/Fair Housing Commission of the City and County of,1
 "Ripon, City of",1
+Riverside County Board of Supervisors Counties,1
 "Robert Erickson, LCSW, MPA, Director of Health Services, County of",1
 Robinson Rancheria Band of,1
 "Rockard J. Delgadillo, Office of the City Attorney, City of",1
@@ -5760,6 +5805,7 @@ Rural County Representative of,1
 "S. Sue Johnson, Member, University of California Board of",1
 S.D. North,1
 S.J,1
+SACReD,1
 "SB 38 (Alquist), PageF of",1
 SB 930 (Hughes) (CalPIRG),1
 SCCBW,1
@@ -6035,10 +6081,12 @@ Table Bluff,1
 "Taft, City of",1
 "Tahoe City Public Utilities District, Association of",1
 Tavern,1
+"Taxpayers, Inc",1
 Teacher,1
 Teamsers,1
 Teamsters Joint Council No,1
 Teamsters Local,1
+Technologies Corporation,1
 "Technology (CAMLT), the California Association of Public",1
 Technology and the California Association of Bioanalysts,1
 Tehachipi,1
@@ -6054,6 +6102,7 @@ The 100% Campaign: Health Insurance for,1
 "The ACLU, the CA Teamsters, CA Attorneys for",1
 The Actors Fund of,1
 The American Congress of Obstetricians and,1
+The Anti,1
 The Arc of,1
 "The Assembly Committee on Jobs, Economic Development and",1
 The Asthma and Allergy Foundation of,1
@@ -6075,7 +6124,9 @@ The California Association of Oral and,1
 The California Association of Schools of,1
 The California Chiropractic Association and the,1
 The California Clinical Laboratory Association (CCLA) and,1
+The California Hospital,1
 The California Land Title Association (CLTA) is in,1
+The California Mental Health,1
 The California Office of the Secretary for,1
 "The California Pharmacists Association (CPhA), the United Food and Commercial Workers (UFCW), the Congress of",1
 The California Professional Firefighters are also in,1
@@ -6088,9 +6139,12 @@ The Cemetery and Mortuary Association of,1
 The Center Against Sexual Assault of,1
 "The Center for Public Interest Law (CPIL), in",1
 The Center of,1
+The Committee of,1
 The Committee on,1
 The Corporations Committee of the Business Law Section of the State Bar of,1
+The Counseling,1
 The Disease Management Association of,1
+The Free,1
 The Hawkins Center for Law and Services to People with,1
 The Health Consumer Center of,1
 "The Hispanic Dental Association, California Academy of",1
@@ -6099,10 +6153,20 @@ The Health Consumer Center of,1
 "The Honorable Steve A. Perez, Kern County Board of",1
 The Humane Society of the,1
 The Klaas Foundation for Children best sums op the,1
+The Land Conservancy,1
+The Latino Council,1
 The Law,1
+The Marin,1
+The Metropolitan,1
+The Mexican,1
+The Mission,1
 The National Guard Association of,1
 The North Coast Restoration Jobs Initiative Of the Alliance for,1
+The Office of,1
 The Office of the Secretary for,1
+The Palace,1
+The Pasadena,1
+The Point,1
 The Postdoctoral Scholars Association at,1
 "The Priory of Saint Francis, The Sovereign Military Order of the Temple of",1
 The Prudential Insurance Companies of,1
@@ -6115,6 +6179,7 @@ The Sun,1
 The Superior Court of the State of,1
 The TV Corporation,1
 The Trust for,1
+The University Corporation,1
 The Western Center on Law and,1
 The Women's Center of,1
 The Women's Zionist Organization of,1
@@ -6130,6 +6195,7 @@ Through Service with the California Commission on,1
 Thurmond,1
 Thus,1
 Tile,1
+Tile Co. Inc,1
 "Tim Seward, General Counsel, Washoe Tribe of",1
 Time Warner AxS of,1
 Toltec Center of,1
@@ -6140,6 +6206,7 @@ Trade & Commerce Agency and the City of,1
 Traffic Safety Taught With,1
 Transit,1
 Transitional,1
+"Transportation, Inc",1
 Traumatic Brain Injury,1
 Travel,1
 Treasurer and,1
@@ -6220,6 +6287,7 @@ University Professional & Technical Employees-Communications Workers of,1
 University Professional and,1
 University School of,1
 University State University,1
+University Women California,1
 University of CA All Campus Consortium on Research for,1
 "University of California Employees, American Federation of",1
 "University of California, Los Angeles, Professor of",1
@@ -6240,6 +6308,7 @@ Ventura County Certified Farmers,1
 Ventura County Coastal Association,1
 "Ventura County Council, Boy Scouts of",1
 Ventura County Parents and Friends of,1
+"Ventura County, Inc",1
 "Ventura, City of",1
 Veterans Advisory Committee of the Board of Supervisors of,1
 Veterans Advisory Council of,1
@@ -6283,6 +6352,7 @@ Waters,1
 Waterways Restoration,1
 Watsonville Association of,1
 Watts Friendship,1
+"Wave, Inc",1
 Weco Industries,1
 Weed,1
 Wesley United,1
@@ -6291,6 +6361,7 @@ West Contra,1
 West Contra County Association of,1
 West Hills,1
 West Hollywood Democratic,1
+West Inc,1
 West Kern Community,1
 West LA Community,1
 West Los Angeles,1
@@ -6317,6 +6388,8 @@ Western State,1
 Western Steel,1
 Western United Dairymen and California Grain and,1
 Western Wall,1
+Western Water Company,1
+"Western, Inc",1
 Westfield Galleria,1
 Westlands,1
 Westminister Chamber of,1
@@ -6331,6 +6404,7 @@ While the California Association of,1
 Whittier Chapter,1
 Whittier City,1
 "Whittier, City of",1
+Whole,1
 Wick,1
 Wild Goose,1
 Wilderness Unlimited,1
@@ -6342,6 +6416,7 @@ Windflower Point Mutual,1
 Window,1
 Wine Country,1
 Wireless,1
+Women For: California,1
 Women Lawyers Association of,1
 Women Lawyers of,1
 Women Organized to Respond to,1
@@ -6357,6 +6432,7 @@ Workers' Compensation Fraud,1
 "Workers, California Chapter National Council of",1
 Workerso Compensation Law Section of the State Bar of,1
 Workforce Investment,1
+"World Relief, Inc",1
 Worldcolor,1
 Worth,1
 Wounded,1
@@ -6374,7 +6450,9 @@ YWCA of Greater,1
 YWCA of Monterey,1
 Yermo Community,1
 Yolo County Office of,1
+Yolo Housing,1
 "Yorba Linda, City of",1
+"Young, LLP",1
 Youth Alive! Law Center to,1
 Youth Build,1
 Youth Mentoring,1
@@ -6530,7 +6608,9 @@ for the Town of San Martin,1
 from NHANES III and,1
 iab,1
 is,1
+labor,1
 like the,1
+made,1
 no,1
 of (MSPA),1
 "of 1999 and SB 696 (Speier), Chapter 696, Statutes of 2001",1
@@ -6935,20 +7015,18 @@ ten,1
 that,1
 the Advancement of Colored People (CANAACP),1
 "the Advancement of Colored People (NAACP), California State",1
+the Association of,1
 the California Alliance to Combat Trafficking and Slavery Task Force in,1
+the California Federation of,1
+the City Manager,1
 the County of San Mateo and the County and City of San Francisco to,1
 the League of California Cities and California State Association of,1
+the Peninsula,1
 the San Francisco Bay Area Chapter of,1
+the West,1
 the bill but DOF has not had the,1
 too,1
 use,1
-"Again, LLC",1
-"Agencies, Inc",1
-Boys and Girls Club,1
-California Communications,1
-California Pan,1
-California Plant,1
-California Controller,1
 542,0
 "542, Local 572",0
 AFL-CIO Local 11,0
