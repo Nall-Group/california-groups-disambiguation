@@ -16,8 +16,8 @@ Individual,114
 Mayor Eric Garcetti,112
 Several Individual Letters,92
 1 Private Citizen,89
-STATE TREASURER FIONA MA,87
 SENATE RULES COMMITTEE: Sandy Kenyon/323-8897,87
+STATE TREASURER FIONA MA,87
 David Felderstein,74
 State Treasurer Phil Angelides,74
 State Controller Steve Westly,73
@@ -69,23 +69,23 @@ Mayor Darrell Steinberg,27
 San Francisco Mayor Gavin Newsom,27
 Attorney General Kamala D. Harris,26
 "Bill Lockyer, California State Treasurer",25
+Board of Equalization Member Fiona Ma,25
 Councilmember Zach Hilton,25
 Individual Letters (3),25
 Los Angeles Mayor Antonio R. Villaraigosa,25
-Board of Equalization Member Fiona Ma,25
 City of Los Angeles Mayor Antonio Villaraigosa,24
 Individuals - 1,24
 Individuals - 2,24
 Sacramento County Deputy,24
 San Francisco District Attorney Kamala Harris,22
 City of Oakland Mayor Sheng Thao,21
+Five Private Citizens,21
 Governor Davis,21
 "John Chiang, California State Controller",21
 Mayor Antonio R. Villaraigosa,21
 "Mayor London Breed, City and County of San Francisco",21
 San Diego Councilmember Donna Frye,21
 State Attorney General Bill Lockyer,21
-Five Private Citizens,21
 1 Individual Letter,20
 "California Secretary of State Shirley N. Weber, Ph.D",20
 Lodi,20
@@ -183,11 +183,11 @@ Los Angeles County Supervisor Sheila Kuehl,11
 Los Angeles Mayor James Hahn,11
 Lt. Governor,11
 Lt. Governor Leo McCarthy,11
+"Maxine Waters, Member of Congress",11
 Office of Mayor Antonio R. Villaraigosa,11
 San Francisco District Attorney George Gascon,11
 State Controller Malia M. Cohen,11
 State Controller Steve Westley,11
-"Maxine Waters, Member of Congress",11
 AG Rob Bonta,10
 Baldwin Park Chief of Police,10
 Bell Gardens Mayor Pro Tem Salvador Franco,10
@@ -255,6 +255,7 @@ Congressman Wally Herger,9
 Congresswoman Jackie Speier,9
 "Cruz M. Bustamante, Lieutenant Governor",9
 "Eric Sakach, Faculty Member, California Law Enforcement Training Academy",9
+Four Private Citizens,9
 Individual Letters (6),9
 "John Chiang, Treasurer, State of California",9
 John Martin,9
@@ -262,6 +263,7 @@ Jose,9
 Judge Quentin L. Kopp,9
 Lawrence J. Sokol,9
 "Linda Williamson, General Contractor - Palm Springs",9
+"Mark Dinan - Vice Mayor, East Palo Alto",9
 Mayor Blanca M. Figueroa,9
 Mayor G. Dana Hobart,9
 Mayor Grace Vargas,9
@@ -281,8 +283,6 @@ Senator Rosenthal,9
 Senator Thompson,9
 State Treasurer Kathleen Brown,9
 "Tom Ramirez, Animal Control Supervisor, Stockton Police Department",9
-Four Private Citizens,9
-"Mark Dinan - Vice Mayor, East Palo Alto",9
 7 Private Citizens,8
 Alameda County Supervisor Alice Lai-Bitker,8
 "Alexander Pedersen - Vice Mayor, Capitola",8
@@ -357,11 +357,14 @@ Councilmember Steve Castaneda,7
 Councilmember Toni Atkins,7
 "Dean Andal, Member State Board of Equalization",7
 Fresno City Councilmember Henry T. Perea,7
+Gary Miller,7
+George Runner,7
 "Honorable Maxine Waters, Member of Congress",7
 Individual Letters (8),7
 Individual Letters: 24,7
 Individuals - 8,7
 "Janice Hahn, Board Supervisor, Los Angeles",7
+"Joe Baca, Member of Congress",7
 "John Chiang, State Controller",7
 "Kamala D. Harris, Attorney General",7
 "Kathleen Connell, State Controller",7
@@ -404,12 +407,9 @@ Solano County Supervisor Monica Brown,7
 "Supervisor Keith Carson, Alameda County",7
 "The Honorable Betty T. Yee, California State Controller",7
 "The Honorable Eric Garcetti, Mayor",7
+"Thomas W. Wilson, Supervisor, Orange County",7
 Ventura County Supervisor John K. Flynn,7
 "Zach Hilton, Member, Gilroy City Council",7
-"Joe Baca, Member of Congress",7
-Gary Miller,7
-George Runner,7
-"Thomas W. Wilson, Supervisor, Orange County",7
 46 Constituents,6
 "Antonio R. Villaraigosa, Mayor of Los Angeles",6
 "Antonio Villaraigosa, Mayor",6
@@ -454,12 +454,14 @@ Councilmember Sean Elo-rivera,6
 "Donald Rocha, San Jose City Councilmember",6
 Doris Day,6
 "Doug Haaland, Sr",6
+Family of Tyler Hutchinson,6
 Five Individual Letters,6
 "Gavin Newsom, Lieutenant Governor",6
 "Governor of Lousiana, Kathleen Blanco",6
 Governor's Public Employee Post-Employment Benefits,6
 "Greg Victoroff, Attorney",6
 "HONORABLE DIANNE FEINSTEIN, UNITED STATES SENATOR",6
+"Hon. Dean Andal, Member, Board of Equalization",6
 "Honorable Adam Schiff, Member of the United States Congress",6
 "Honorable Anna G. Eshoo, Member of Congress",6
 Individual Classified Senates,6
@@ -469,6 +471,7 @@ Individual Pharmacists,6
 Individual Physical Therapists,6
 Joan Irvine Smith,6
 Joaquin,6
+"Kevin McCarthy, Councilmember",6
 LOS ANGELES COUNTY SUPERVISOR MICHAEL ANTONOVICH,6
 "Libby Schaaf, Mayor",6
 Lieutenant Governor Cruz Bustamonte,6
@@ -493,11 +496,14 @@ Oakland Mayor Jean Quan,6
 Office of the Attorney General Bill Lockyer,6
 Orange County Supervisor Doug Chaffee,6
 "Paul Koretz, Los Angeles City Council",6
+Priscilla Eiden,6
 "Professor Bill Neill, Ret., San Diego",6
 Professor of Law,6
 Richmond City Councilmember Gayle Mclaughlin,6
+Ross Valley School Board Trustee,6
 Sacramento City Councilmember Steve Cohn,6
 Sacramento Mayor Kevin McCarty,6
+"San Diego Board of Supervisor, Nathan Fletcher",6
 San Francisco City and County District Attorney,6
 San Francisco City and County District Attorney's Office,6
 "San Francisco District Attorney's Office, Victim Witness",6
@@ -513,18 +519,12 @@ Senator Rogers,6
 "Supervisor Das Williams, First District",6
 "Supervisor Gloria Molian, Los Angeles County",6
 Supervisor Joan Hartmann,6
+Tiffany Franchetti,6
 U.S. Representative Maxine Waters,6
+"Will Rogers, Columnist -- Leader Newspapers",6
 Xavier Becerra,6
 Zach Hilton - City of Gilroy Council Member,6
 "Zoe Lofgren, Member of Congress",6
-Tiffany Franchetti,6
-Family of Tyler Hutchinson,6
-"Hon. Dean Andal, Member, Board of Equalization",6
-"Kevin McCarthy, Councilmember",6
-"Will Rogers, Columnist -- Leader Newspapers",6
-Priscilla Eiden,6
-Ross Valley School Board Trustee,6
-"San Diego Board of Supervisor, Nathan Fletcher",6
 16 Private Citizens,5
 20 Private Citizens,5
 22 Private Citizens,5
@@ -630,10 +630,12 @@ El Monte Mayor Ernie G. Gutierrez,5
 Fiona Ma,5
 "Fiona Ma, Board of Equalization",5
 "Fiona Ma, California State Treasurer",5
+"Fr. Gregory J. Boyle, S.J",5
 "Frederick Jordan, Former Technical Advisor, U.S",5
 Fresno City Council Member Henry Perea,5
 "Governor Gavin Newsom, State of California",5
 "Greenfield Mayor John Huerta, Jr",5
+"Gregg Emerald, La Mesa",5
 "Harvey Rarback, Vice Mayor Half Moon Bay",5
 "Honorable Jerry Brown, Mayor",5
 "Honorable Jimmy Panetta, Member of Congress",5
@@ -649,6 +651,7 @@ Judge Eli Chernow,5
 "Karl Hansen, Imperial Beach",5
 "Kate Harrison, Berkeley City Councilmember",5
 Kathleen Treseder - Irvine City Councilmember,5
+"Kevin McKeown, Councilmember",5
 Korean,5
 Leonard Padilla,5
 Leslie Marden Ragsdale - Hillsborough City Councilmember,5
@@ -663,9 +666,11 @@ Los Angeles Councilmember Antonio Villaraigosa,5
 "Los Angeles Councilmember Paul Koretz, 5th District",5
 Los Angeles County Supervisor Yvonne Burke,5
 Los Angeles Mayor Richard Riordan,5
+Los Angeles Unified School District Board Member Jose Huizar,5
 Lt. Gov. Cruz Bustamante,5
 Lynwood Mayor Fernando Pedroza,5
 MONTEREY COUNTY SUPERVISOR JANE PARKER,5
+Maurice Pitesky,5
 Mayor Clyde Roberson,5
 Mayor Don Higginson,5
 Mayor Gayle McLaughlin,5
@@ -690,14 +695,21 @@ Mayor of San Clemente,5
 "Mayor of San Francisco, Gavin Newsom",5
 Mayor of Tulare,5
 Mayor of the City of San Diego,5
+Michael Ross (consumer advocate),5
+"Mike Thompson, Member of Congress",5
 "Mr. Randy Paige, Consumer Reporter, KABC-TV, Los Angeles",5
 Ms. Audrey Wilson,5
 Napa County Supervisor Mark Luce,5
 "Nithya Raman, LA City Councilmember 4th District",5
 Numerous Physician and Surgeons,5
 Oakland City Councilman Danny Wan,5
+Office of Congressman Joe Baca,5
+Paul,5
+"Paul Koretz, Councilmember",5
+"Pete Chacon, Placerville Community Services District",5
 "Philip Angelides, State Treasurer",5
 Pico Rivera Councilmember Gregory Salcido,5
+"Rebecca Saltzman, El Cerrito Councilmember",5
 "Representative Bill Patmon, Ohio House of Representatives",5
 "Representative Jeff McClain, Ohio House of Representatives",5
 "Rev. Carolyn Taylor Guidry, Elder for Western Region, 5th",5
@@ -735,18 +747,9 @@ Tulare County Supervisor Dennis Townsend,5
 Tulare County Supervisor Larry Micari,5
 Two Individual Attorneys,5
 United States Senator Diane Feinstein,5
+"Valerie Stallings, San Diego City Councilmember",5
 Vice President,5
 "Zach Hilton, Council Member",5
-"Mike Thompson, Member of Congress",5
-Office of Congressman Joe Baca,5
-"Fr. Gregory J. Boyle, S.J",5
-"Gregg Emerald, La Mesa",5
-"Kevin McKeown, Councilmember",5
-Los Angeles Unified School District Board Member Jose Huizar,5
-Michael Ross (consumer advocate),5
-Maurice Pitesky,5
-"Pete Chacon, Placerville Community Services District",5
-Paul,5
 13 Individual Attorneys,4
 14 Attorneys,4
 25 Letters from Constituents,4
@@ -776,8 +779,10 @@ Bakersfield Councilmember Hanson,4
 "Bill Horn, San Diego County Supervisor",4
 "Bill Lockyer, Attorney General, State of California",4
 "Bill Rosendahl, Los Angeles City Council",4
+Bob Barker (animal rights spokesperson),4
 "Brad Seligmen, Executive Director, The Impact Fund",4
 "Brian Leighton, Esq",4
+Brigadier General Cone (Army - Commanding General - Fort),4
 "Bryan Osorio, Mayor, Delano",4
 "C. Everett Koop, M.D",4
 CA State Controller,4
@@ -835,6 +840,7 @@ City of Santa Barbara Mayor Helene Schneider,4
 City of Santa Cruz Mayor Donna Meyers,4
 City of Santa Monica Councilmember Gleam Davis,4
 "Claudia Kawczynska, Editor, The Berkeley Bark",4
+"Commissioner Becker, San Diego County Cable TV Review Commission",4
 Congressman Adam Schiff,4
 Congressman Bill Thomas,4
 Congressman Bob Filner,4
@@ -965,11 +971,14 @@ Delano Mayor Anthony Martinez,4
 Doug Haaland,4
 "Dr. Christine Haller, UCSF",4
 Dr. Sandra's Sanctuary,4
+"E. Randol Schoenberg, Esq",4
 "Edward Eegg, Samtee",4
+"Felipe Hernandez, Supervisor, Santa Cruz",4
 "Fiona Ma, Board of Equalization Member",4
 Former Attorney General John Van de Kamp,4
 Former Mayor Steinberg,4
 "Franz E. Miller, Individual",4
+Fred and Andrea Ransdell,4
 "Freddy Puza, Councilmember, Culver City",4
 Fresno Mayor Ashley Swearengin,4
 "George Syrop, Councilmember, Hayward",4
@@ -998,11 +1007,13 @@ Individuals (885),4
 "Jack Shu, Councilmember, LA Mesa",4
 Jackie Kinney,4
 "James Breitling, Mayor Pro Tem, Upland",4
+"Jane Y. Fong, Ph.D",4
 "Jay Vandenburg, Councilmember, Galt",4
 "Jen Cavenaugh, Mayor, Piedmont",4
 Jennie Bretschneider,4
 "Jessie Lopez, Member, Santa Ana City Council",4
 "Jill W. Macdonald, Councilmember, Solana Beach",4
+"John Garamendi, Member of Congress",4
 Johnson,4
 "Joseph A. Santoro, Monrovia Chief of Police",4
 "Joseph DeLucchi, San Francisco",4
@@ -1032,6 +1043,7 @@ Lindsay,4
 "Lisa Gillmor, Mayor",4
 Lockyer,4
 "Loretta Montgomery, Greenbrae",4
+Los Angeles City Attorney and the Attorney General,4
 Los Angeles City Council Member Paul Koretz,4
 Los Angeles City Councilmember Greig Smith,4
 Los Angeles City Councilmember Jose Huizar,4
@@ -1043,10 +1055,12 @@ Los Angeles Councilmember Ruth Galanter,4
 Los Angeles County Supervisor Michael D. Antonovich,4
 Los Angeles Mayor,4
 Los Angeles Mayoros Task Force on Gun Violence,4
+"Los Angeles Unified School District, Board President Jose",4
 Lt. Gov. Cruz M. Bustamante,4
 Lt. Governor Gavin Newsom,4
 Lynwood Councilmember José Luis Solache,4
 Lynwood Mayor Aide Castro,4
+"Major General Lehnert (Marines - Commander, Marine Corps)",4
 "Maria Pacheco, Mayor, Kerman",4
 "Mark Enmeier, Mayor Pro-tem, San Clemente",4
 "Matt Fong, State Treasurer",4
@@ -1081,10 +1095,13 @@ Mayor of the City of Concord,4
 Mayor of the City of Norwalk,4
 "Melissa Blaustein, Mayor of Sausalito",4
 Menlo Park City Councilmember Betsy Nash,4
+"Michael Mccorriston, Councilmember, Dublin",4
 Mickey Rooney & Jan Rooney,4
+"Monica Montgomery Steppe, Member, San Diego City Council",4
 Mr. Clean Maintenance Systems,4
 Mr. Transmission,4
 Multiple Individuals (488),4
+"Nanette K. Gartrell, M.D",4
 Numerous Citizens,4
 Numerous Individual Certified Public Accountants,4
 Numerous Insurance Agents and Brokers,4
@@ -1095,6 +1112,7 @@ Oakland Mayor Libby Shaaf,4
 Office of Attorney General Kamala D. Harris,4
 Office of Attorney General Rob Bonta,4
 Office of California Attorney General Bill Lockyer,4
+Office of Los Angeles Unified School District Board Vice President Nick Melvoin,4
 Office of Sacramento Mayor Darrell Steinberg,4
 Office of the Attorney General Kamala Harris,4
 Office of the Mayor Antonio R. Villaraigosa,4
@@ -1103,8 +1121,12 @@ Orange County Supervisor Tom Wilson,4
 "Oscar De LA Torre, Councilmember, Santa Monica",4
 "Otis Walker, San Joaquin County Probation Officer",4
 "Otto Lee, District 3 Supervisor, Santa Clara County",4
+"Patrick McCormick, Executive Officer, Santa Cruz LAFCO",4
+"Paul Krekorian, Los Angeles City Council",4
 Phil Angelides,4
+"Presiding Judge, Fresno County Juvenile Courts",4
 Private Citizen (1),4
+Probation Officer,4
 "Professor Erwin Chemerinsky, USC",4
 Professor Eugene Volokh,4
 Professor of Psychology,4
@@ -1118,9 +1140,11 @@ Rev Renewables,4
 Rev. William Monroe Cambell,4
 "Rex Parris, Mayor",4
 "Rich Tran, Mayor, Milpitas",4
+Riverside County Board of Supervisor John Tavaglione,4
 Riverside County Supervisor John J. Benoit,4
 "Rob Bonta, Attorney General",4
 "Robert Garcia, Mayor of Long Beach",4
+"Robert L. Weinmann, M.D",4
 SAN MATEO COUNTY SUPERVISOR WARREN SLOCUM,4
 Sacramento City Councilman Dave Jones,4
 Sacramento City Councilmember Mai Vang,4
@@ -1165,6 +1189,7 @@ Senator Steinberg,4
 "Shirley Horton, Mayor of Chula Vista",4
 Sir Paul McCartney,4
 "Solano County Supervisor Duane Kromm, District 3",4
+"Sue Griffith, Ph.D",4
 "Supervisor Alice Lai-Bitker, Alameda County",4
 "Supervisor Annette Rose, Marin County",4
 "Supervisor Bill Horn, San Diego County Board of Supervisors",4
@@ -1184,15 +1209,22 @@ Supervisor V. Manuel Perez,4
 Supervisor Warren Slocum,4
 Supervisor Yaroslavsky,4
 Supervisor Zev Yaroslavsky,4
+"Supervisors Ryan Coonerty and Bruce McPherson, Santa Cruz County",4
 Taft Mayor Hatch,4
 "Teresa Onoda, Mayor, Moraga",4
+"Terry Taplin, Member, Berkeley City Council",4
 "The Hon. Daniel E. Lungren, Attorney General",4
 "The Honorable Dianne Feinstein, United States Senator",4
 "The Honorable Heather Fargo, Mayor of Sacramento",4
 "The Honorable Janet Beautz, Santa Cruz County Supervisor",4
 "The Honorable Jennifer Hosterman, Pleasanton City",4
+"Tim Stroshane, Housing Planner",4
+"Tony Cardenas, Los Angeles City Council",4
+Treva Reid- Oakland City Councilmember,4
 "Trustee Linda Handy, Peralta Community College District",4
+"Tygarjas Twyrls Bigstyck, Councilmember, Pacifica",4
 U.S. Senator Barbara Boxer,4
+United States Congressman Brad Sherman,4
 "United States Representative Nancy Pelosi, Democratic",4
 Vallejo Mayor Robert Mcconnell,4
 Ventura County Supervisor Carmen Ramirez,4
@@ -1201,39 +1233,14 @@ Vice Mayor Henry Chang,4
 "Vice Mayor of the City of Santa Cruz, Martine Watkins",4
 "Vince Ferriole, Supervisor, Napa County",4
 "Vincent Brady, Cathedral of the Blessed Sacrament",4
+"William Holt, Attorney",4
+"William Stiener, Supervisor IV, Orange",4
 "Xavier Becerra, Attorney General, State of California",4
 "Xouhoa Bowen, Councilmember, San Leandro",4
 "Yasmine-imani Mcmorrin, Mayor, Culver City",4
+Yolo County Supervisor Duane Chamberlain,4
 Zach Hilton City Council Member,4
 "Zein E Obagi Jr., Councilmember, Redondo Beach",4
-"Tim Stroshane, Housing Planner",4
-"Tony Cardenas, Los Angeles City Council",4
-Treva Reid- Oakland City Councilmember,4
-"Tygarjas Twyrls Bigstyck, Councilmember, Pacifica",4
-United States Congressman Brad Sherman,4
-"William Stiener, Supervisor IV, Orange",4
-Yolo County Supervisor Duane Chamberlain,4
-"E. Randol Schoenberg, Esq",4
-"Jane Y. Fong, Ph.D",4
-"Nanette K. Gartrell, M.D",4
-"Robert L. Weinmann, M.D",4
-"Sue Griffith, Ph.D",4
-"John Garamendi, Member of Congress",4
-Fred and Andrea Ransdell,4
-"Felipe Hernandez, Supervisor, Santa Cruz",4
-"Los Angeles Unified School District, Board President Jose",4
-Los Angeles City Attorney and the Attorney General,4
-"Michael Mccorriston, Councilmember, Dublin",4
-"Monica Montgomery Steppe, Member, San Diego City Council",4
-"Major General Lehnert (Marines - Commander, Marine Corps)",4
-Bob Barker (animal rights spokesperson),4
-Brigadier General Cone (Army - Commanding General - Fort),4
-"Commissioner Becker, San Diego County Cable TV Review Commission",4
-Office of Los Angeles Unified School District Board Vice President Nick Melvoin,4
-"Paul Krekorian, Los Angeles City Council",4
-"Patrick McCormick, Executive Officer, Santa Cruz LAFCO",4
-"Presiding Judge, Fresno County Juvenile Courts",4
-"Terry Taplin, Member, Berkeley City Council",4
 10 Individual Business Owners and Representatives and Franchisees,3
 109 Local Elected Officials,3
 12 Instructors of Cosmetology/Cosmetologists/Barbers,3
@@ -1250,6 +1257,7 @@ Office of Los Angeles Unified School District Board Vice President Nick Melvoin,
 40 Private Individuals,3
 412 Individuals,3
 45 Private Citizens,3
+51st District of California Congresswoman Susan Davis,3
 532 Individuals,3
 77 Private Individuals,3
 9 Private Citizens,3
@@ -1258,6 +1266,7 @@ Office of Los Angeles Unified School District Board Vice President Nick Melvoin,
 "Abe Safleddime, 76 Station Dealer, La Palma",3
 Acting Chief of Police,3
 Acting Sheriff of Stanislaus,3
+"Alameda Board of Supervisors, President",3
 "Alameda County Board of Supervisors President, Keith Carson",3
 Alameda County Supervisor Richard Valle,3
 "Alex Padilla, Secretary of State",3
@@ -1266,6 +1275,8 @@ Alhambra Unified School District Board Member Jane Anderson,3
 Alhambra Unified School District Board Member Robert Gin,3
 "Andrew Katz, Member, UCLA Foundation Board",3
 "Angela J. Froehlich, Redondo Beach",3
+"Angelo A. Salvucci, Jr., M.D",3
+"Anna G. Eshoo, Member of Congress",3
 "Antoinio Villaraigosa, Councilmember",3
 Arcadia Chief of Police,3
 Arroyo Grande City Manager Steven Adams,3
@@ -1302,6 +1313,8 @@ Azusa Chief of Police,3
 Bill Hoy,3
 "Bill Lutze, Sheriff of Inyo County",3
 Bill Schwandt,3
+"Board of Supervisors Member, San Mateo County",3
+"Board of Supervisors Member, Santa Clara County",3
 "Bonnie Dumanis, San Diego County District Attorney",3
 "Bourns, Gordon Bourns, CEO",3
 Brad Sherman,3
@@ -1696,6 +1709,7 @@ Dr. Nick Tranmissions,3
 "Dr. Prasad Krishnamurthy, J.D. Ph.D",3
 "Dr. Robert Garcia, Long Beach City Council",3
 "Drew Boyles, Mayor",3
+"Dvorah Markman, Esq",3
 East Palo Alto City Councilmember Ruben Abrica,3
 East Palo Alto Vice Mayor Ruben Abrica,3
 Eco Office of Asuc Senator China Duff,3
@@ -1717,6 +1731,8 @@ Fairfield Mayor Karin MacMillan,3
 Fakir Musafar,3
 Farbod Barsum,3
 "Faridoon ""Fred"" Saif, Dealer/Owner, Los Altos 76",3
+"Felice Urban, L.C.S.W., M.S.G",3
+Finen Family,3
 "Fiona Ma, Member, State Board of Equalization",3
 Former California State Senator Dean Florez,3
 Former FPPC Commissioner Bill Hauck,3
@@ -1729,6 +1745,7 @@ Former Riverside District Attorney Grover Trask,3
 Former Senator Robert Presley,3
 Former United States Attorney General Edwin Meese III,3
 "Francine Bartfield, Ph.D",3
+"Frank Hotchkiss, Councilmember",3
 Fremont City Councilmember Jenny Kassan,3
 "Fresno Councilmember Oliver Baines, III",3
 Fresno Mayor Alan Autry,3
@@ -1736,18 +1753,27 @@ Gabriel,3
 "Garrett W. Zimmon, Chief of Policy",3
 "Gavin Newsom, California Lieutenant Governor",3
 General Bill Lockyer,3
+George Stevens,3
 "Georggette Tadros, M.D., Pediatrics",3
+Gerald P. OoHara,3
+"Gerald Rogan, M.D",3
+Gloria Allred,3
 "Gray Davis, Lieutenant Governor, State of California",3
 "HONORABLE CRUZ BUSTAMANTE, LIEUTENANT GOVERNOR",3
 "HONORABLE DEAN F. ANDAL, MEMBER, BOARD OF EQUALIZATION",3
 "HONORABLE PAUL KORETZ, LOS ANGELES CITY COUNCIL, 5TH DISTRICT",3
 HUMBOLDT COUNTY SUPERVISOR STEVE MADRONE,3
 "Haciendas La Puente Unified School District, Vice President, Anthony Duarte",3
+Hal Holbrook,3
+Hank Azaria,3
+Harriet Fox,3
+Harry Wu,3
 "Heather Fargo, Mayor",3
 Helen Hunt,3
 Henry G. Eilerg (walnuts),3
 "Henry T. Perea, Councilmember 7th District",3
 "Herb Fawcett DDS, General Denistry",3
+"Herb J. Wesson, Jr. Councilmember",3
 Herbert Frenery (walnuts),3
 "Hon. Brian Bilbray, Member of Congress",3
 Hon. John Ladner,3
@@ -1757,13 +1783,16 @@ Hon. John Ladner,3
 "Honorable Antonio R. Villaraigosa, Mayor of Los Angeles",3
 "Honorable Barbara Lee, Member of Congress, 9th District, California",3
 "Honorable Clint Olivier, Council President, District 7",3
+"Honorable Diane Dillon, Supervisor, District 3, Napa County Board of Supervisors",3
 "Honorable Gavin Newsom, Mayor of the City and County of San Francisco",3
 "Honorable Henry Waxman, U.S. Representative, 30th District, California",3
 "Honorable John Garamendi, Member of Congress",3
 "Honorable Josh Harder, Member of Congress",3
 "Honorable Lynn DeCoite, 13th District Representative, State of Hawaii",3
 "Honorable Matt Fong, Treasurer",3
+"Honorable Norman Yee, San Francisco Board of Supervisors, District 7",3
 "Honorable Sophie Maxwell, Supervisor - District 10, City and County of San",3
+"Honorable TJ Cox, Member of Congress",3
 "Honorable Terry Friedman, Presiding Judge, Los Angeles",3
 Individual - Andrea Jaeger,3
 "Individual - Resident, Ladera Ranch, Orange County",3
@@ -1835,6 +1864,7 @@ Keenan,3
 Kennon B. Raines (individual),3
 Kern County Hon. Don McDonald,3
 Kern County Hon. Gregory Strickland,3
+Kevin Kilner,3
 Kingpen,3
 Kings County Hon. Jim Maready,3
 Kings County Supervisor Tony Barba,3
@@ -1851,6 +1881,7 @@ Leah V,3
 "Lee Brand, Councilmember",3
 Leeza Gibbons,3
 "Leonard Padilla, Bounty Hunter",3
+"Lieutenant Chris Pappas, Santa Barbara County Sheriff's",3
 Lieutenant Governor Bustamante,3
 Lieutenant Governor Cruz Bustamente,3
 Lieutenant Governor Gavin Newsome,3
@@ -1859,6 +1890,7 @@ Lieutenant Governor Gavin Newsome,3
 "Linda Seifert, Solano County Supervisor",3
 "Lindsey P. Horvath, Los Angeles County Supervisor",3
 Lisa Holder - California Reparations Task Force Member,3
+"Lisa M. Garcia, Ph.D",3
 Lisa Seasholtz Elgorriaga,3
 Lorna Peterson (walnuts),3
 Los Altos City Council Member Jonathan Weinberg,3
@@ -1880,8 +1912,11 @@ Los Angeles City Councilwoman Nury Martinez,3
 "Los Angeles Councilmember Tony Cardenas, 6th District",3
 Los Angeles County Supervisor Don Knabe,3
 Los Angeles County Supervisor Hilda Solis,3
+"Los Angeles County Supervisor, District 3, Sheila Kuehl",3
+Los Angeles County Supervisors Yvonne Braithwaite Burke and Don Knabe,3
 "Los Angeles Superior Court Judge, James Brandlin",3
 Los Angeles Supervisor Kathryn Barger,3
+Los Angeles Unified School District School Board Member Nury Martinez,3
 "Lou La Monte, Councilmember",3
 "Lou Papan, Kevin Shelley and Joe Simitian",3
 Lt. Gov. Leo McCarthy,3
@@ -1890,10 +1925,13 @@ Lt. Governor Cruz Bustamante,3
 "Lucas Ramirez, Vice Mayor",3
 Lucy Arnez,3
 "Luis Chavez, Councilmember for District 5",3
+"Luis Chavez, Trustee, Fresno Unified School District",3
 "MAYOR OF SACRAMENTO, DARRELL STEINBERG",3
 MS Management Services,3
 Madera County Agricultural Commissioner,3
+Manager Belinda Mobley Lake County Office of Education,3
 "Marilyn Ashcraft, Mayor",3
+"Martin Tucker, Senior Assemblymember",3
 "Matt Mahan, Mayor City of San Jos",3
 Mayor Albert,3
 Mayor Albert Robles,3
@@ -1949,14 +1987,19 @@ Mayor of West Hollywood Chelsea Byers,3
 Mayor of the City of Fresno,3
 Mayor of the City of Oakland,3
 Mayor of the City of Santa Ana,3
+"McElroy, Most Reverend Robert W., Auxiliary Bishop of San Francisco",3
 Menlo Park Mayor Jen Wolosin,3
 "Michael J. Patterson, Individual",3
+Michael McDermott (Men's Civil Rights Advocate),3
+"Michael Schoenleber, esq",3
 "Michael Touhey, Mayor",3
 "Mike Antonovich, Supervisor, Los Angeles County",3
 "Mike Spence, Councilmember",3
 "Mike Spence, Mayor Pro Tem",3
 Milpitas Councilmember Anthony Phan,3
+"Miramonte High School, Administrators",3
 Miss Kitty's Rescue,3
+Monica Montgomery Steppe - City of San Diego Council President Pro Tem,3
 Monterey County Office of Supervisor Luis A. Alejo,3
 Monterey Mayor Albert,3
 Monterey Park Councilmember Thomas Wong,3
@@ -1970,14 +2013,20 @@ Muhammad Ali,3
 NCCUSL California Commissioner Bion Gregory,3
 NCCUSL Commissioners Diane Boyer-Vine (Legislative Counsel),3
 "Nancy O'Malley, District Attorney of Alameda County",3
+"Napa County Board of Supervisors, Mark Luce",3
+"Nate Miley, Alameda County Board of Supervisors",3
+"Nate Miley, Alameda County Supervisor",3
 National City Councilmember Richard Ramos,3
 New York Attorney General Andrew Cuomo,3
 "Nithya Raman, Member, Los Angeles City Council",3
+"Norman Tabachnick, M.D",3
 Numerous County Psychological Associations,3
 Numerous Donor Family Members,3
 Numerous Letters from Educational Technology Directors,3
 "Numerous Physicians, and Physician Assistants (approximately 1200)",3
 Numerous Transplant Recipients,3
+"Nury Martinez, Board of Education Member, Los Angeles Unified School",3
+"Nury Martinez, Los Angeles Board of Education",3
 Oakland City Councilmember Abel Gullien,3
 Oakland City Councilmember Nancy Nadel,3
 Oakland City Mayor Jerry Brown,3
@@ -1991,7 +2040,14 @@ Orange County Supervisor Michelle Steel,3
 Orange County Supervisor Thomas W. Wilson,3
 Park Overall,3
 "Patricia I. O'Reilly, Individual",3
+"Paul Koretz Council Member, 5th District, Los Angeles City Council",3
+"Paul Koretz, Los Angeles City Council, 5th District",3
+"Paul Krekorian, Los Angeles City Councilmember",3
+Perris Councilmember A.B. Torres,3
 Petaluma City Council Member Brian Barnacle,3
+Peter A,3
+"Peter Foy, Supervisor, Ventura County Board of Supervisors",3
+"Peter Weiner, Esq",3
 "Phil Angelides, State Treasurer",3
 "Philip Angelides, Treasurer of the State of California",3
 Port Hueneme City Councilwoman Marciela P. Morales,3
@@ -2002,14 +2058,19 @@ REV Ocean,3
 "Ray Waller, Mayor",3
 Representative Maxine Waters,3
 Retired Persons,3
+"Richard Braun, M.D",3
+"Richard Thompson, M.D",3
 Riverside County Supervisor Jeff Stone,3
 "Rob Bonta, California Attorney General",3
 "Robert Bruesch, Mayor pro Tem",3
 "Robert Silva, Mayor",3
+"Robert Weinmann, M.D",3
+"Rockard J. Delgadillo, City Attorney",3
 Rohnert Park City Council Member Jake Mackenzie,3
 Roseville Mayor Pauline Roccucci,3
 "Rudy Mendoza, Mayor",3
 "Russ Curry, Mayor",3
+Ryan Coonerty,3
 "S. Joseph Simitian, Supervisor, Santa Clara County",3
 Sacramento City Councilmember Heather Fargo,3
 Sacramento City Mayor Heather Fargo,3
@@ -2023,6 +2084,7 @@ Sacramento County Supervisor Roger Dickinson,3
 Salinas Council Member Steve Mcshane,3
 Salinas Mayor Dennis Donohue,3
 "Salud Carbajal, Santa Barbara County Board of Supervisors",3
+"Sam Farr, Member of Congress",3
 San Anselmo Councilmember Brian Colbert,3
 San Anselmo Mayor Steve Burdo,3
 San Bernardino County Supervisor Josie Gonzalez,3
@@ -2075,6 +2137,7 @@ Senator Quentin L. Kopp,3
 Senator Roberti,3
 Senator Wiggins,3
 Several Individual Certified Public Accountants,3
+Several Winnemem Wintu Tribal Members,3
 Sheriff Dick Williams,3
 Sheriff Gary Penrod,3
 Sheriff Sherman,3
@@ -2118,6 +2181,8 @@ Supervisor Terrance P. Withrow,3
 "Supervisor Tony Hall, City and County of San",3
 "Supervisor Wilma Chan, Alameda County",3
 Sutter County Supervisor Dan Flores,3
+"Terry Lamphier, County Supervisor, District III",3
+"Terry Withrow, Supervisor, Stanislaus County Board of Supervisors",3
 "The Honorable Bill Jones, Secretary of State",3
 "The Honorable Cruz Bustamante, Lieutenant Governor",3
 "The Honorable Eleni Kounalakis, Lieutenant Governor of California",3
@@ -2132,11 +2197,15 @@ The Honorable Jerry Sanders,3
 "The Honorable Terry Friedman, Supervising Judge, Los",3
 "The Honorable Tom Butt, Mayor",3
 "Tom Perkins, Supervisor Monterey County",3
+"Tom Stallard, Woodland City Council Member",3
+Tom Torlakson,3
+"Tony Cardenas, Councilmember",3
 Treasurer Fiona Ma,3
 "Trustee Bob Duff, La Mesa-Spring Valley School District",3
 "Trustee John Norman, San Jacinto Unified School District",3
 Tulare County Supervisor Ennis,3
 U.S. Congressman Henry Waxman,3
+U.S. Rep. Nanette Diaz Barragán,3
 U.S. Representative Alan Lowenthal,3
 U.S. Representative Juan Vargas,3
 U.S. Senator Diane Feinstein,3
@@ -2146,73 +2215,19 @@ United States Senator Barbara Boxer,3
 United States Senator David Pryor,3
 "United States Senator, Honorable Mary Landrieu",3
 "Ventura County Librarian, Dixie Adeniran",3
+"Veronica Kessler Thomas, Ph.D",3
+"Vice Chair Michelle Steel, California State Board of Equalization",3
 Vice Mayor Jack Shu,3
 Vice Mayor Jovanka Beckles,3
 West Hollywood Councilmember John Erickson,3
 West Valley Mayors/Managers,3
+"William A MacLaughlin, Presiding Judge, Superior Court of Los",3
+William F. Taylor,3
 Yolo County Supervisor Jim Provenza,3
 Yuba County Supervisor Gary Bradford,3
 "Yvonne McMurray, Constituent",3
 "Zach Hilton - Councilmember, Gilroy",3
 "Zach Hilton, Gilroy City Council Member",3
-"Tom Stallard, Woodland City Council Member",3
-"Vice Chair Michelle Steel, California State Board of Equalization",3
-"William A MacLaughlin, Presiding Judge, Superior Court of Los",3
-Tom Torlakson,3
-"Angelo A. Salvucci, Jr., M.D",3
-"Dvorah Markman, Esq",3
-"Gerald Rogan, M.D",3
-"Lisa M. Garcia, Ph.D",3
-"Michael Schoenleber, esq",3
-"Norman Tabachnick, M.D",3
-"Peter Weiner, Esq",3
-"Richard Braun, M.D",3
-"Richard Thompson, M.D",3
-"Robert Weinmann, M.D",3
-"Veronica Kessler Thomas, Ph.D",3
-51st District of California Congresswoman Susan Davis,3
-"Anna G. Eshoo, Member of Congress",3
-"Honorable TJ Cox, Member of Congress",3
-"Martin Tucker, Senior Assemblymember",3
-"Sam Farr, Member of Congress",3
-U.S. Rep. Nanette Diaz Barragán,3
-"Felice Urban, L.C.S.W., M.S.G",3
-"Frank Hotchkiss, Councilmember",3
-Finen Family,3
-Gerald P. OoHara,3
-Gloria Allred,3
-George Stevens,3
-Hank Azaria,3
-Harry Wu,3
-Hal Holbrook,3
-Harriet Fox,3
-"Herb J. Wesson, Jr. Councilmember",3
-"Honorable Diane Dillon, Supervisor, District 3, Napa County Board of Supervisors",3
-"Honorable Norman Yee, San Francisco Board of Supervisors, District 7",3
-Kevin Kilner,3
-"Luis Chavez, Trustee, Fresno Unified School District",3
-"Lieutenant Chris Pappas, Santa Barbara County Sheriff's",3
-Los Angeles County Supervisors Yvonne Braithwaite Burke and Don Knabe,3
-"Los Angeles County Supervisor, District 3, Sheila Kuehl",3
-"Alameda Board of Supervisors, President",3
-"Miramonte High School, Administrators",3
-Manager Belinda Mobley Lake County Office of Education,3
-"McElroy, Most Reverend Robert W., Auxiliary Bishop of San Francisco",3
-Monica Montgomery Steppe - City of San Diego Council President Pro Tem,3
-Michael McDermott (Men's Civil Rights Advocate),3
-"Board of Supervisors Member, San Mateo County",3
-"Board of Supervisors Member, Santa Clara County",3
-"Napa County Board of Supervisors, Mark Luce",3
-"Nury Martinez, Board of Education Member, Los Angeles Unified School",3
-"Nate Miley, Alameda County Board of Supervisors",3
-"Nury Martinez, Los Angeles Board of Education",3
-"Rockard J. Delgadillo, City Attorney",3
-Peter A,3
-Perris Councilmember A.B. Torres,3
-"Paul Krekorian, Los Angeles City Councilmember",3
-"Peter Foy, Supervisor, Ventura County Board of Supervisors",3
-"Terry Withrow, Supervisor, Stanislaus County Board of Supervisors",3
-"Terry Lamphier, County Supervisor, District III",3
 1 Certified Massage Therapist,2
 1 Concerned Citizen,2
 1 Individual Physician,2
@@ -2267,7 +2282,9 @@ Perris Councilmember A.B. Torres,3
 50+ Letters from Constituents,2
 519 Private Citizens,2
 52 Private Individuals,2
+6 Neighborhood Crime Prevention Councils,2
 7 Sheriffs and Sheriff-Coroners,2
+73 Registered Dieticians,2
 84 Individuals,2
 87 Private Individuals,2
 89 Private Citizens,2
@@ -2301,6 +2318,7 @@ Alpine County Supervisor Terry Woodrow,2
 Amir Mansour,2
 Amrik Chand CPA,2
 "Andrew T. Koenig, Attorney at Law",2
+Anne R. Bernardo,2
 Antonio Villaraigosa (41st Mayor of Los Angeles),2
 Antonovich,2
 "Approximately 1,300 Individuals",2
@@ -2403,6 +2421,13 @@ Bill Lockyer,2
 "Bill Scroggins, President, College of the Sequoias",2
 "Bill Weld, Republican Candidate for President 2020",2
 Board President Keith Carson,2
+Board of Equalization Member Diane L. Harkey,2
+"Board of Equalization Member, District 1",2
+"Board of Equalization Vice Chair, Judy Chu",2
+"Boardmember Greg Hodge, Oakland Board of Education",2
+"Boardmember Kerry Hamill, Oakland Board of Education",2
+"Boardmember Noel Gallo, Oakland Board of Education",2
+"Bob Blumenfield, Los Angeles Councilmember",2
 "Bob Wilkinson, Sequoia Audubon Society",2
 "Bonnie Burns, Consumer Advocate",2
 "Bonnie Maxwell, Dobbins",2
@@ -2410,6 +2435,7 @@ Bonnie Tabor,2
 Brady Campaign and Attorney General Rob Bonta,2
 Burbank Council Member Todd Campbell,2
 Butch Coley Sheriff-Coroner of Tulare County,2
+By: Jan L. Owen,2
 "C. Brent Wallace, Inyo County Past",2
 C. Robert Ferguson,2
 "C.E. Scott Brewster, CFP?,MBA",2
@@ -2613,6 +2639,7 @@ City of Seal Beach Solano County Police Chiefs and Sheriff Association Michael R
 City of Seaside Councilmember Jon Wizard,2
 "City of Shasta Lake, Greg Watkins, City Councilman",2
 "City of Simi Valley, Mayor Huber",2
+"City of South El Monte, Director of Community Services",2
 City of Supervisor Fourth District,2
 City of Torrance Mayor Frank Scotto,2
 City of Turlock Councilmember DeHart,2
@@ -2638,6 +2665,7 @@ Clint Black,2
 "Cois M. Byrd, Sheriff, Riverside County",2
 "Colleen Setzer, County Clerk",2
 Commerce Mayor Joe Aguilar,2
+"Commissioner Becker, San Diego County Cable Television Review Commission",2
 "Commissioner General, Special Envoy and Personal",2
 Commissioner John R. Dean (Lake Isabella),2
 Commissioner William O. Scott,2
@@ -2965,6 +2993,7 @@ Edward D. Banta,2
 "Edward Taras, M.D",2
 "Edwin Lee, Mayor",2
 "Edwin Lee, Mayor of the City and County of San Francisco",2
+"Effie Turnbull, Esq",2
 Einar Asbo,2
 El Monte City Mayor Andre,2
 Eleanor Roosevelt,2
@@ -2979,8 +3008,12 @@ Eric Carlson,2
 "Eric Smith, Placerville",2
 "Eric Swalwell, Member of Congress",2
 FROM INDIVIDUALS,2
+Family of Kristie,2
+Family of Kristie Priano,2
+Filner,2
 "Fiona Ma, Chair, Board of Equalization",2
 "Food Allergy Psychologist, Don't Feed the Fear Podcast",2
+"Forest Bazat, PharmD, Assistant Clinical Professor, School of Pharmacy, University of California, San Francisco",2
 Former California State Senator Fran Pavley,2
 "Former Lieutenant Governor of California, Cruz Bustamante",2
 Former Mayor of the City of Huntington Park,2
@@ -2990,23 +3023,35 @@ Former State Senator Wes Chesbro,2
 Four (4) Individuals,2
 Four Concerned Citizens,2
 "Fran Grattan, Supervisor, Nevada County",2
+Fran Larson,2
 "Frank C. Robert, Councilman",2
 "Frank Roberts, Mayor",2
 "Frank Schmehr, Esq",2
+Frank Scotto,2
 "Frank Sieferman, Supervisor Yolo County",2
+"Fred Silberberg of Silberberg & Ross, L.L.P",2
 "Frederick Lear, El Cajon Municipal Court Administrator",2
+Fredrick Frost,2
 Fresno City Councilmember Steve Brandau,2
 Fresno County Supervisor Henry Fresno Metro Ministry,2
 Fresno County Supervisor Nathan Magsig,2
+Fresno Police Department Sgt. Jay Crawford,2
+Frieda Rapoport,2
 "Gabriel Quinto, Mayor",2
 "Gail Steele, Alameda County Supervisor",2
 "Garrett Huff, Fire Captain of Santa Barbara County Fire Department, and President of Santa Barbara County Fire Fighter's Benevolent Foundation",2
 "Gary Bredefeld, Fresno City Councilmember, District 6",2
+Gary Knight,2
+Gary Maggiore,2
+Gary Verwers,2
 "Gay Abarbanell, CFP, Culver City, CA",2
 Geoff Ellsworth Mayor,2
 "George C. Cunningham, M.D., Chief, Genetic Disease Branch of the California Department of Health Services",2
 "George Shirakawa, Jr., Councilmember, City",2
 "Georgette Gomez, Councilmember",2
+Gerald O'Brien,2
+Gerald R. Davis,2
+Gil Topete,2
 "Gilroy City Council Member Office, Councilmember Zack Hilton",2
 Gilroy City Council Member Zach Hilton,2
 Gina Lamourelle,2
@@ -3017,6 +3062,9 @@ Glassey Smith,2
 "Gloria Molina, County Board of Supervisors, 1st District",2
 Goleta Mayor Edward Easton,2
 Governor Leo McCarthy,2
+"Grace Napolitano, Member of Congress",2
+"Greg Cox, San Diego County Board of Supervisors",2
+Gretchen U. Kingsbury,2
 "Gwen Goodmanlowe, Ph.D., Marine Biology Undergraduate Advisor, CSU-Long Beach",2
 "H. J. Green, Assistant Superintendent, High Schools",2
 "H. William Taeusch, M.D., Chief, Pediatric Service San",2
@@ -3026,6 +3074,7 @@ HERCULES MAYOR CHRIS KELLEY,2
 "HONORABLE JERRY BROWN, MAYOR OF OAKLAND",2
 "HONORABLE TOM BUTT, MAYOR",2
 "Halstead R. Holman, M.D., Guggenheim Professor of Medicine, Emeritus - Stanford University",2
+Harold A. Lail,2
 Hayward City Councilmember Kevin Dowling,2
 "Heather Hutt, Los Angeles City Council, 10th District",2
 Henry F. Trione (neighbor of the facility),2
@@ -3076,6 +3125,7 @@ Honorable Cruz Bustamante,2
 "Honorable Cruz Bustamante, California Lt. Governor",2
 "Honorable Cynthia Mathews, Mayor, city of Santa Cruz",2
 "Honorable David Tokofsky, Board of Education",2
+"Honorable Dean Andal, State Board of Equalization - 2nd District",2
 "Honorable Debra Bowen, California Secretary of State",2
 "Honorable Dominic L. Cortese, Assemblymember 1980-1996",2
 "Honorable Edwin M. Lee, Mayor",2
@@ -3091,6 +3141,7 @@ Honorable Jerome Horton,2
 "Honorable Libby Schaaf, Mayor",2
 "Honorable Lynn Robinson, Mayor",2
 Honorable Mary Salas,2
+"Honorable Michael Feuer, City Council of Los Angeles",2
 "Honorable Michael Nash, Presiding Judge, Juvenile Court, Monterey Park",2
 Honorable Phil Angelides,2
 "Honorable Ro Khanna, Member of the United States Congress",2
@@ -3152,6 +3203,7 @@ Jackie Speier,2
 "James Hahn, Mayor of Los Angeles",2
 Jamie O'Neal,2
 Jane Meadows (Allen),2
+"Janice Hahn, Member of Congress",2
 Jennifer Micheli,2
 Jennifer Newell,2
 "Jennifer Valiente, Davis",2
@@ -3161,6 +3213,8 @@ Jerry Diller,2
 "Jerry Dunkin, Councilmember",2
 Jess Leiter,2
 "Jesse Arreguin, Mayor",2
+"Jim Costa, Member of Congress",2
+"Jim Lingl, Esq",2
 Jim Liontas,2
 Joan Lichterman,2
 Joel,2
@@ -3169,11 +3223,13 @@ John Brooks,2
 "John Chiang, Acting Member, BOE, Fourth District",2
 "John Chiang, California State Treasurer and Chair of California Pollution Control Financing Authority",2
 John Coleman,2
+"John Davids, Esq",2
 "John Duran, Mayor of West Hollywood",2
 John Fall,2
 "John Leopold, First District Supervisor, Santa Cruz County Board of Supervisors",2
 John Mellor,2
 "John Myers, Mayor City of King",2
+"John Walsh (host of ""America's Most Wanted"" TV show)",2
 Jones,2
 Joni Marie Barr,2
 "Jose Gurrola, Mayor Pro Tem",2
@@ -3204,7 +3260,9 @@ Judge Roderic Duncan (Ret.),2
 Judge Ronald R. Combest,2
 Judge Stephen V. Manley,2
 "Judge William F. Ferroggiaro, Jr., Superior Court of Eureka",2
+"Judy Chu, Member of Congress",2
 "Judy Pennycook, Supervisor Monterey County",2
+"Julia Brownley, Member of Congress",2
 Julian Leldman,2
 "Justice Donald B. King, First Appellate District Court",2
 "KATHLEEN J. DEROSA, CATHEDRAL CITY MAYOR",2
@@ -3227,10 +3285,12 @@ Kern County Supervisor Barbara Patrick,2
 "Kern County Supervisor Barbara Patrick, 3rd District",2
 Kern County Supervisor Don Maben,2
 Kern County Supervisor Ken Peterson,2
+Kern County Tax Collector Jordan Kaufman,2
 Kingsburg Mayor Bruce Blayney,2
 Kohler,2
 Kolender,2
 Komag,2
+"Kopp, Judge of the San Mateo County Superior",2
 Koretz,2
 L. James Lea,2
 L.A. County Supervisor Mark Ridley-Thomas,2
@@ -3238,6 +3298,7 @@ LA City Councilmember Paul Koretz,2
 LA County Supervisor Michael Antonovich,2
 "LOS ANGELES CITY COUNCIL MEMBER, MITCH O'FARRELL",2
 Lakewood Mayor Diane DuBois,2
+"Laurance S. Smith, Esq",2
 "Lee Brand, Mayor",2
 "Leonard Dart, Mayor City of Greenfield",2
 "Lester Breslow, Dean Emeritus, U.C.L.A. School of Public Health",2
@@ -3278,8 +3339,10 @@ Los Angeles City Councilwoman Traci Park,2
 "Los Angeles Councilmember Mitch O'farrell, 13th District",2
 Los Angeles Councilmember Paul Krekorian,2
 Los Angeles County Assessor Kenneth P. Hahn,2
+Los Angeles County Public Defender Michael Judge,2
 Los Angeles County Supervisor Hilda L. Solis,2
 Los Angeles County Supervisor Kathryn Barger,2
+Los Angeles County Supervisor Michael,2
 Los Angeles County Supervisor Yvonne B. Burke,2
 Los Angeles Mayor Antonio Villaraigosa (former),2
 Los Angeles Mayor Villaraigosa,2
@@ -3288,26 +3351,42 @@ Los Angeles Superior Court Commissioner Richard A. Curtis,2
 Los Angeles Superior Court Judge Joseph A. Brandolino,2
 "Los Angeles Superior Court, Juvenile Division, Hon",2
 Los Angeles Supervisor Michael Antonovich,2
+Los Angeles Unified School District Board Member Marguerite,2
+"Los Angeles Unified School District, District 5 Board Member",2
 Los Angles Mayor Eric Garcetti,2
 "Lou Correa, Orange",2
 Louisiana Governor Bobby Jindal,2
 Lt. Governor Cruz,2
 Lt. Governor Gray Davis,2
+"Lucille Roybal-Allard, Member of Congress",2
 Lucinda Williams,2
 "Luis Chavez, Fresno City Councilmember, District 5",2
 "Lynn Compton, District Four Supervisor, San Luis Obispo County",2
 MODESTO CITY COUNCIL MEMBER TONY MADRIGAL,2
+"Madera County Board Supervisor, Rick Farinelli, District III",2
+"Madera County Board Supervisor, Tom Wheeler, District V",2
+Major General Lehnert - Commanding General of Marine Corps Installation,2
 "Malia Cohen, Member, Board of Supervisors, City and County of San Francisco",2
 Malia M. Cohen - California State Controller,2
+"Manuel Ontal, Jr., Councilman for the City of Carson",2
+"Marcos, Santa Rosa, Sunnyvale, Thousand Oaks, Tustin, Vista",2
+Marin County Clerk Michael Smith,2
 Marin County Mayors Council,2
+Marin Health Care District Board,2
+"Marina Martinez, Program Director, Mi Casita Parent",2
+"Mark E. Farrell, Mayor of San Francisco",2
+"Mark Lee, Esq., Manatt, Phelps and Phillips, LLP",2
 "Mark Nuaimi, Mayor",2
 "Mark Ridley-Thomas, LA County Supervisor",2
+"Mark Takano, Member of Congress",2
 "Marti Emerald, San Diego 9th District Councilmember",2
+"Marvin Braud, Los Angeles City Councilman",2
 Marvin J. Rezac,2
 "Mary Griffin, San Mateo County Supervisor",2
 Massachusetts State Senator Marc R. Pacheco,2
 "Matt Jiminez, Councilmember",2
 "Matt Mahan, Mayor",2
+Maurice Johannessen AMVETS Post 4,2
 Mayor Alejandra Sotelo-solis,2
 Mayor Alma Beltran,2
 "Mayor Alma Beltran, Parlier",2
@@ -3445,18 +3524,33 @@ Mayor of the City of Richmond,2
 "Mayor of the City of Taft, Dave Noerr",2
 Mayor pro Tem Mary England,2
 Mayor pro Tempore,2
+"Member of Congress, Maxine Waters",2
+"Member, First District, State Board of Equalization",2
+"Member, Second District, State Board of Equalization",2
+"Members Armenta, Lindley, Calcagno, and Johnsen of the Monterey",2
 "Members of California's Congressional Delegation: Pete Aguilar, Salud Carbajal, Tony Cardenas, Lou Correa, Jim Costa, Mark DeSaulnier, Jimmy Gomez, Ted Lieu, Grace Napolitano, Alan Lowenthal, Doris Matsui, Jerry McNerney, Jimmy Panetta, Linda Sanchez, Mike Thompson, Norma Torres, and Juan Vargas",2
 Members of the California Congressional Delegation,2
+Mendocino College Nursing Program Director,2
 Menlo Park Vice Mayor Jen Wolosin,2
 "Michael Antonovich, Mayor",2
 "Michael Antonovich, Supervisor",2
 "Michael Antonovich, Supervisor, Los Angeles County",2
+"Michael D. Antonovich, County Board of Supervisors, 5th District",2
+"Michael Schumacher, Orange County",2
 "Miguel Pulido, Mayor",2
+"Mike Barranco, Firearms Dealer",2
+"Mike Feuer, City Attorney",2
+"Mike Feuer, City Attorney, Los Angeles",2
+"Mike Honda, Member of Congress",2
 "Mike McGowan, Yolo County Supervisor",2
 "Mike McGowan, Yolo County Supervisor, First District",2
+"Mike Thompson, Member of Congress, 1st Congressional",2
+Monrovia Chief of Police,2
+Monterey County Public Defender Susan E. Chapman,2
 Monterey Mayor Chuck Della Sala,2
 Moreno Valley Mayor's Office,2
 Mountain View Council Member Alison Hicks,2
+Mountain View Police Department Beth Kafer,2
 "Mr. Bob Lavin, Manager, Tandem Computers",2
 Mr. Corner Modular Cabinets,2
 "Mr. David A. Lash, Executive Director",2
@@ -3487,12 +3581,15 @@ Ms. Fits Consignments,2
 Ms. Sherry McCoy,2
 Ms. Sonia Lagan,2
 "Nancy O'Malley, District Attorney, Alameda County",2
+"Nate Miley, Supervisor, Alameda County, District 4",2
+"Nathan Fletcher, San Diego County Supervisor",2
 National City Councilmembers Alejandra Sotelo-Solis and Mona Rios,2
 National City Mayor Ron Morrison,2
 National Senior Citizens Law Center Individuals (4),2
 "Neal Kelley, Retired Chief Election Official, Registrar of Voters for Orange",2
 Nevada State Assemblyman Tom Collins,2
 Nick and Amanda Wilcox,2
+Nicole,2
 "Noelia Corzo, San Mateo County Supervisor (district 2)",2
 "Nora Vargas - Supervisor, San Diego County",2
 Norwalk Councilmember Jennifer Perez,2
@@ -3517,32 +3614,50 @@ Numerous Physician Letters,2
 Numerous Private Parties,2
 Numerous Roofing Companies,2
 Numerous Veterans,2
+"Nury Martinez, Board Member, Los Angeles Unified School District Board",2
+"Nury Martinez, Member, Board of Education",2
 Oakland City Council Danny Wan,2
+"Oakland Unified School District, Lydell K Willis",2
 "Oakley, California Mayor Sue Higgins",2
 Oceanside City Councilmember Jack Feller,2
 Oceanside City Councilmember Jerome Kern,2
 Office of Assemblymember Laura Friedman,2
 Office of California Governor Gavin Newsom,2
+Office of Congressman Sam Farr,2
 Office of Councilmember Raul Peralez,2
 Office of Governor Pete Wilson,2
 "Office of Long Beach Councilmember Al Austin, 8th District",2
 Office of Los Angeles Mayor Antonio R. Villaraigosa,2
 Office of Mayor Gayle McLaughlin,2
 Office of Supervisor Nora Vargas,2
+Office of US Rep. Young Kim (CA-39),2
 Office of the San Francisco Mayor London N. Breed,2
+"Officers Research Association of California, Catherine",2
 Orange County Supervisor Andrew Do,2
 Orange County Supervisor Bill Campbell,2
 Orange County Supervisor Lisa Bartlett,2
+Orange County Supervisor for the Second District,2
 Orange Cove Mayor Victor Lopez,2
 Pacific Grove Mayor Carmelita Garcia,2
 Pam Slater-Price,2
 "Pam Slater-Price, Supervisor Third District, San Diego County",2
+"Pamela & Daniel Leal, Paso Robles",2
+"Pamela Foust, Workers Compensation Judge, Santa Monica Court",2
+Pastor Bob Jackson,2
+"Patricia & Donald Wills, Placerville",2
 "Patricia C. Bates, Orange County Board of Supervisors",2
 "Patricia Mahan, Mayor of the City of Santa Clara",2
+Patrick,2
 "Patrick J. Morris, Mayor",2
+Patrick Johnston (former State Senator),2
+"Pete McHugh, Chairman, Santa Clara County Board of Supervisors",2
+"Pete McHugh, Santa Clara County Supervisor",2
+Peter G,2
 "Phil Angelides, California State Treasurer",2
 "Phil Angelides, Treasurer of California",2
 "Phil Angelides, Treasurer, State of California",2
+Phil Ting,2
+"Phil Ting, Assessor-Recorder of San Francisco",2
 Philip Angelides,2
 "Philip Angelides, Treasurer, State of California",2
 Pismo Beach Mayor Dwayne Chisam,2
@@ -3551,10 +3666,13 @@ Planned Parenthood Affiliates Of California Individuals (35),2
 "Pleasant Valley State Prison, Senior Psychologist",2
 "Pleasant Valley State Prison, Senior Psychologist Supervisor",2
 Police Edward Medrano,2
+"Pomona City Council Member, Paula Lantz",2
+"Pomona City Council Member, Willie White",2
 Pomona City Councilmember Daniel Rodriguez,2
 Pomona City Councilmember Debra Martin,2
 Pomona City Councilmember Freddie,2
 Pomona City Councilmember John Nolte,2
+"Presiding Judge, Juvenile Division, San Diego Superior",2
 Private Citizens (1),2
 Private Constituents,2
 Prof. Frank Beall of the University of California,2
@@ -3585,10 +3703,16 @@ Reverend Johnson of Good Shepherd Homes,2
 Richmond City Councilmember Jovanka Beckles,2
 Riverside County Supervisor Marion Ashley,2
 "Rob Bonta, Attorney General, State of California",2
+"Robert A. Rose, M.D",2
 "Robert Cullen, Mayor, King City",2
 "Robert Garcia, Mayor",2
 Rocklin Mayor Brett Storey,2
+"Roderick D. Wright, Assemblyman, 48th",2
+"Roderick D. Wright, Assemblyman, 48th District",2
 "Roger Dickenson, Assembly Member Emeritus",2
+"Ron Roberts, San Diego County Board of Supervisor",2
+"Ronald Wiksell, Esq",2
+"Ross Mirkarimi, Member, San Francisco Board of Supervisors",2
 Russell Gibbon (Individual),2
 SAN MATEO COUNTY SUPERVISOR DAVID J. CANEPA,2
 SIGNATURES FROM INDIVIDUAL,2
@@ -3650,6 +3774,7 @@ San Mateo City Councilmember Claire Mack,2
 San Mateo County Mosquito and Vector Control District Trustee Joe Galligan,2
 San Mateo Supervisor Rich Gordon,2
 San Rafael City Councilman Damon,2
+"Sandi Flores, RN",2
 Santa Ana City Councilwoman Michele Martinez,2
 Santa Barbara County Supervisor Joan Hartmann,2
 Santa Clara City Councilmember Kevin Moore,2
@@ -3707,10 +3832,14 @@ Six Individuals with Resurrection Theatre Company,2
 Solano County Second District Supervisor Linda J. Seifert,2
 Sonya Winchell,2
 Speaker Nunez and Senator Lowenthal,2
+State Board of Equalization Dean Andal,2
+State Board of Equalization Vice Chair Michelle Steel,2
 State Representative Jonathan Paton,2
 "State Senator Henry Mello, Retired",2
 "State Treasurer Philip Angelides, East Bay",2
 State Treasurer Phillip Angelides,2
+"Stephen Rohde, Esq",2
+"Steve Rohde, Esq",2
 "Steve Westly, California State Controller and Chair, State",2
 "Steve Westly, State Controller",2
 Summary. Assemblyman Knowles,2
@@ -3771,11 +3900,13 @@ Supervisor Steve Brandau,2
 Supervisor Timothy J. Staffel,2
 "Supervisor Vicente Sarmiento, Orange County Board of Supervisors",2
 "Supervisor Vincente Sarmiento, Orange County Board of Supervisors",2
+"Ted Lieu, Member of Congress",2
 "The City of Los Angeles, Office of the Mayor Antonio R. Villaraigosa",2
 "The Hon. Roger G. Bunch, Mayor",2
 "The Honorable Adam Adkisson, Councilmember",2
 "The Honorable Alan Autry, Mayor of Fresno",2
 "The Honorable Ashley Swearengin, Mayor",2
+"The Honorable Betty Yee, Board of Equalization",2
 "The Honorable Bill Dennison, Plumas County Supervisor",2
 "The Honorable Brian Pacheco, Supervisor",2
 "The Honorable Buddy Mendes, Supervisor",2
@@ -3808,103 +3939,30 @@ The Honorable Terry Friedman,2
 "The Honorable Willie L. Brown, Mayor",2
 The Office of Governor Gray Davis,2
 The Office of San Diego County Supervisor Terra Lawson-remer,2
+"Thomas H. Downing, DDS",2
+"Thomas W. Wilson, Supervisor of Orange County, Fifth District",2
 "Tim Carroll, Mayor of City of Cypress",2
+Tim Gunn,2
+"Tim Johnson, County Clerk",2
 "Tim Sandoval, Mayor of the City of Pomona",2
+Todd Gloria,2
+"Todd Gloria, San Diego City Council Member",2
+"Todd Spitzer, Orange County Supervisor",2
 "Tom Butt, Mayor",2
 "Tom Stallard, Supervisor Yolo County",2
+Tom Torlakson United States Marine Corps,2
 Trisha Bridenstine,2
 "Trustee Rick Winet, La Mesa-Spring Valley School District",2
 Tuolumne County Supervisor Jaron E. Brandon,2
 U.S. Congressman Jim Costa,2
 U.S. Congressman Juan Vargas,2
 U.S. Congressman Ro Khanna,2
+U.S. Congressmember Gary G. Miller,2
 U.S. Representative Ted Lieu,2
 U.S. Senator Byron Dorgan (D-North Dakota),2
 U.S. Senator Jackie Speier,2
 "U.S. Senator, the Honorable Diane Feinstein",2
 U.S. Senators Mary Landrieu and David Vitter,2
-"United State Senator, Dianne Feinstein",2
-United States Representative Duncan Hunter,2
-"United States Representative, Adam Schiff",2
-"VFW, Past Commander, Robert Marr",2
-"VFW, Vice Commander, Robert S. Hockenhull",2
-Vallejo Mayor Robert H. McConnell,2
-"Vallerie Chiappone, Individual",2
-Ventura County Supervisor Judy Mikels,2
-Ventura County Supervisor Steve Bennett,2
-"Ventura County Supervisor, 5th District, John C. Zaragoza",2
-"Vice Mayor Barbara Coler, Town of Fairfax",2
-Vice Mayor Linda Maio,2
-Vice Mayor Martine Watkins,2
-Violet Parker,2
-Vishnu Menom,2
-"Vito Chiesa, Stanislaus County Supervisor, District 2",2
-Wasco City Councilmember Cherylee Wegman,2
-"Weldon Jackson, Individual",2
-"Wendy Gruel, Member, Los Angeles City Council",2
-West Hollywood City Councilmember Jeffrey Prang,2
-West Hollywood City Councilmember Lindsey Horvath,2
-West Sacramento Mayor Martha Guerrero,2
-Wildomar City Councilmember Joseph Morabito,2
-Writers Guild of America West Numerous Individuals,2
-Yolo County Supervisor Helen M. Thomson,2
-Yolo County Supervisor Mariko Yamada,2
-"Yolo County Supervisor, District 4, Mariko Yamada",2
-Yreka Mayor David Simmen,2
-"Ysabel Jurado, Los Angeles City Council, 14th District",2
-"Yuba County Supervisor, Gary Bradford, 4th District",2
-"Yvonne Brathwaite Burke, Los Angeles County",2
-"Yvonne Brathwaite Burke, Los Angeles County Supervisor, 2nd",2
-Yvonne Fong,2
-Zach Hilton - City of Gilroy Councilmember,2
-"Ted Lieu, Member of Congress",2
-Tim Gunn,2
-"Tim Johnson, County Clerk",2
-"Todd Spitzer, Orange County Supervisor",2
-United States Congressman Ted W. Lieu,2
-United States Congresswoman Maxine Waters,2
-"V. Manual Perez, 4th District Supervisor, Riverside County",2
-State Board of Equalization Vice Chair Michelle Steel,2
-Vice Chairman of the San Diego County Veterans Advisory,2
-Walter Perry Jr,2
-Walter Sterling,2
-Yosemite Community College District Trustee,2
-"Yuba Co. Supervisor, Gary Bradford, 4th District",2
-Todd Gloria,2
-"Todd Gloria, San Diego City Council Member",2
-Tom Torlakson United States Marine Corps,2
-"John Walsh (host of ""America's Most Wanted"" TV show)",2
-"Zev Yarosolsky, Member, Los Angeles County Board of Supervisors",2
-6 Neighborhood Crime Prevention Councils,2
-73 Registered Dieticians,2
-Anne R. Bernardo,2
-"Effie Turnbull, Esq",2
-"Jim Lingl, Esq",2
-"John Davids, Esq",2
-"Laurance S. Smith, Esq",2
-"Robert A. Rose, M.D",2
-"Ronald Wiksell, Esq",2
-"Sandi Flores, RN",2
-"Stephen Rohde, Esq",2
-"Steve Rohde, Esq",2
-"Thomas H. Downing, DDS",2
-"Willie L. Brown, Jr., Esq.",2
-"Grace Napolitano, Member of Congress",2
-"Janice Hahn, Member of Congress",2
-"Jim Costa, Member of Congress",2
-"Judy Chu, Member of Congress",2
-"Julia Brownley, Member of Congress",2
-"Lucille Roybal-Allard, Member of Congress",2
-"Mark Takano, Member of Congress",2
-"Member of Congress, Maxine Waters",2
-"Mike Honda, Member of Congress",2
-"Mike Thompson, Member of Congress, 1st Congressional",2
-Office of Congressman Sam Farr,2
-Office of US Rep. Young Kim (CA-39),2
-Patrick Johnston (former State Senator),2
-"Roderick D. Wright, Assemblyman, 48th",2
-"Roderick D. Wright, Assemblyman, 48th District",2
-U.S. Congressmember Gary G. Miller,2
 US Congressmember Anna Eshoo,2
 US Congressmember Barbara Lee,2
 US Congressmember George Miller,2
@@ -3915,93 +3973,51 @@ US Congressmember Lynn Woolsey,2
 US Congressmember Michael Honda,2
 US Congressmember Mike Thompson,2
 US Congressmember Sam Farr,2
-Family of Kristie,2
-Family of Kristie Priano,2
-Fredrick Frost,2
-Frieda Rapoport,2
-Fran Larson,2
-Filner,2
-"Forest Bazat, PharmD, Assistant Clinical Professor, School of Pharmacy, University of California, San Francisco",2
-Frank Scotto,2
-"Fred Silberberg of Silberberg & Ross, L.L.P",2
-Fresno Police Department Sgt. Jay Crawford,2
-Gary Verwers,2
-Gerald R. Davis,2
-Gil Topete,2
-Gretchen U. Kingsbury,2
-Gary Knight,2
-Gary Maggiore,2
-Gerald O'Brien,2
-"Greg Cox, San Diego County Board of Supervisors",2
-Harold A. Lail,2
-"Honorable Dean Andal, State Board of Equalization - 2nd District",2
-"Honorable Michael Feuer, City Council of Los Angeles",2
-Kern County Tax Collector Jordan Kaufman,2
-"Kopp, Judge of the San Mateo County Superior",2
-Los Angeles Unified School District Board Member Marguerite,2
-"Los Angeles Unified School District, District 5 Board Member",2
-Los Angeles County Supervisor Michael,2
-Los Angeles County Public Defender Michael Judge,2
-Marin Health Care District Board,2
-"Mike Barranco, Firearms Dealer",2
-"Michael D. Antonovich, County Board of Supervisors, 5th District",2
-Mountain View Police Department Beth Kafer,2
-"Madera County Board Supervisor, Rick Farinelli, District III",2
-"Marina Martinez, Program Director, Mi Casita Parent",2
-"Michael Schumacher, Orange County",2
-"Manuel Ontal, Jr., Councilman for the City of Carson",2
-"Member, Second District, State Board of Equalization",2
-"Madera County Board Supervisor, Tom Wheeler, District V",2
-"Mark Lee, Esq., Manatt, Phelps and Phillips, LLP",2
-Major General Lehnert - Commanding General of Marine Corps Installation,2
-Monterey County Public Defender Susan E. Chapman,2
-"Marcos, Santa Rosa, Sunnyvale, Thousand Oaks, Tustin, Vista",2
-Maurice Johannessen AMVETS Post 4,2
-"Mike Feuer, City Attorney",2
-Monrovia Chief of Police,2
-Mendocino College Nursing Program Director,2
-"Mike Feuer, City Attorney, Los Angeles",2
-Marin County Clerk Michael Smith,2
-"Members Armenta, Lindley, Calcagno, and Johnsen of the Monterey",2
-"Mark E. Farrell, Mayor of San Francisco",2
-"Marvin Braud, Los Angeles City Councilman",2
-"Member, First District, State Board of Equalization",2
-Board of Equalization Member Diane L. Harkey,2
-"Board of Equalization Member, District 1",2
-"Board of Equalization Vice Chair, Judy Chu",2
-"Boardmember Greg Hodge, Oakland Board of Education",2
-"Boardmember Kerry Hamill, Oakland Board of Education",2
-"Boardmember Noel Gallo, Oakland Board of Education",2
-"Bob Blumenfield, Los Angeles Councilmember",2
-By: Jan L. Owen,2
-"Nathan Fletcher, San Diego County Supervisor",2
-"Nury Martinez, Board Member, Los Angeles Unified School District Board",2
-Nicole,2
-"Nury Martinez, Member, Board of Education",2
-"Nate Miley, Supervisor, Alameda County, District 4",2
-"City of South El Monte, Director of Community Services",2
-"Commissioner Becker, San Diego County Cable Television Review Commission",2
-Orange County Supervisor for the Second District,2
-"Oakland Unified School District, Lydell K Willis",2
-"Officers Research Association of California, Catherine",2
-"Ron Roberts, San Diego County Board of Supervisor",2
-"Ross Mirkarimi, Member, San Francisco Board of Supervisors",2
-Peter G,2
-Phil Ting,2
-"Pomona City Council Member, Paula Lantz",2
-"Pamela Foust, Workers Compensation Judge, Santa Monica Court",2
-"Pomona City Council Member, Willie White",2
-Patrick,2
-"Pete McHugh, Chairman, Santa Clara County Board of Supervisors",2
-"Presiding Judge, Juvenile Division, San Diego Superior",2
-"Patricia & Donald Wills, Placerville",2
-Pastor Bob Jackson,2
-"Pete McHugh, Santa Clara County Supervisor",2
-"Pamela & Daniel Leal, Paso Robles",2
-State Board of Equalization Dean Andal,2
-"The Honorable Betty Yee, Board of Equalization",2
-"Thomas W. Wilson, Supervisor of Orange County, Fifth District",2
+"United State Senator, Dianne Feinstein",2
+United States Congressman Ted W. Lieu,2
+United States Congresswoman Maxine Waters,2
+United States Representative Duncan Hunter,2
+"United States Representative, Adam Schiff",2
+"V. Manual Perez, 4th District Supervisor, Riverside County",2
+"VFW, Past Commander, Robert Marr",2
+"VFW, Vice Commander, Robert S. Hockenhull",2
+Vallejo Mayor Robert H. McConnell,2
+"Vallerie Chiappone, Individual",2
+Ventura County Supervisor Judy Mikels,2
+Ventura County Supervisor Steve Bennett,2
+"Ventura County Supervisor, 5th District, John C. Zaragoza",2
+Vice Chairman of the San Diego County Veterans Advisory,2
+"Vice Mayor Barbara Coler, Town of Fairfax",2
+Vice Mayor Linda Maio,2
+Vice Mayor Martine Watkins,2
+Violet Parker,2
+Vishnu Menom,2
+"Vito Chiesa, Stanislaus County Supervisor, District 2",2
+Walter Perry Jr,2
+Walter Sterling,2
+Wasco City Councilmember Cherylee Wegman,2
 Water District Boardmember Raul Romero,2
+"Weldon Jackson, Individual",2
+"Wendy Gruel, Member, Los Angeles City Council",2
+West Hollywood City Councilmember Jeffrey Prang,2
+West Hollywood City Councilmember Lindsey Horvath,2
+West Sacramento Mayor Martha Guerrero,2
+Wildomar City Councilmember Joseph Morabito,2
+"Willie L. Brown, Jr., Esq.",2
+Writers Guild of America West Numerous Individuals,2
+Yolo County Supervisor Helen M. Thomson,2
+Yolo County Supervisor Mariko Yamada,2
+"Yolo County Supervisor, District 4, Mariko Yamada",2
+Yosemite Community College District Trustee,2
+Yreka Mayor David Simmen,2
+"Ysabel Jurado, Los Angeles City Council, 14th District",2
+"Yuba Co. Supervisor, Gary Bradford, 4th District",2
+"Yuba County Supervisor, Gary Bradford, 4th District",2
+"Yvonne Brathwaite Burke, Los Angeles County",2
+"Yvonne Brathwaite Burke, Los Angeles County Supervisor, 2nd",2
+Yvonne Fong,2
+Zach Hilton - City of Gilroy Councilmember,2
+"Zev Yarosolsky, Member, Los Angeles County Board of Supervisors",2
 1 Constituent,1
 1 Constituent Letter,1
 1 Deputy Chief of Police,1
@@ -4141,10 +4157,14 @@ Water District Boardmember Raul Romero,2
 286 Private Citizens,1
 29 Individual Letters,1
 29 Letters by Individuals,1
+29 Ventura County Official Court Reporters,1
 290 Individuals,1
 295 Individuals,1
+3 Endocrinologists,1
+3 Geology Professionals,1
 3 Individual CLSs,1
 3 Individual Research Scientists,1
+3 Licensed Vocational Nurses,1
 3 Members of the Public,1
 3 Private Individual,1
 "3,025 Individuals",1
@@ -4158,6 +4178,7 @@ Water District Boardmember Raul Romero,2
 333 Individuals,1
 337 Individuals,1
 343+ Individuals,1
+36 Heating and Air Conditioning Contractors,1
 366 Individuals,1
 37 Individual Members or Representatives of Identified Unions,1
 370 Individuals,1
@@ -4168,12 +4189,17 @@ Water District Boardmember Raul Romero,2
 394 Individuals,1
 3rd District Supervisor,1
 3rd District Trustee Joe Galligan,1
+4 Home Inspection Companies,1
 4 Individual -Vasconcellos,1
 4 Individual Senior Legislators,1
 4 Individuals SB 173-Maldonado,1
 4 Labor Organizations,1
+4 Pathologists,1
+40 Affiliates of Dolly Parton's Imagination,1
+40 Plumbing Contractors,1
 400+ Individuals,1
 409 Private Citizens,1
+41 Clients of Joe A. Gonsalves & Son,1
 417 Individuals,1
 42 Individual Letters,1
 420 Concerned Private Citizens,1
@@ -4181,6 +4207,7 @@ Water District Boardmember Raul Romero,2
 427 Individual Letters,1
 438 Individuals,1
 440 Individuals,1
+45 Amusement Machine Operators and Distributors,1
 450 Individuals,1
 450 Members of California Park & Recreation Society,1
 452 Individuals,1
@@ -4193,8 +4220,11 @@ Water District Boardmember Raul Romero,2
 488 Individuals,1
 49 Chiefs of Police,1
 490 Private Citizens,1
+5 Descendants of Chavez Ravine Residents,1
 5 East Alameda County Ranchers,1
 5 Individual,1
+5 Licensed Clinical Social Workers,1
+50 California Bicycle Clubs and Advocacy Groups,1
 50+ Individual Letters,1
 50-80 Individuals,1
 512 Individuals,1
@@ -4213,6 +4243,7 @@ Water District Boardmember Raul Romero,2
 574 Individuals,1
 584 Individuals,1
 597 Private Individuals,1
+6 California Latin-x Academics and Scholars,1
 "6 Individual Professors/Dean from California Polytechnic University, Scripps Institute of Oceanography, and UC Santa Barbara",1
 "6 Individuals, Extended Opportunity Programs and Services and Disabled",1
 6 M.D.s,1
@@ -4222,27 +4253,37 @@ Water District Boardmember Raul Romero,2
 6094 Individuals,1
 61 Individual Letters,1
 622 Individuals,1
+63 California Farmers,1
 63 Registered Nurses,1
 632 Individuals,1
+64 Bars and Taverns,1
 64 Eastvale Residents,1
 65 Individual Members of AMTA-CA,1
+66 Local Elected Officials From Around California,1
 68 I\individuals,1
+7 Accounting Professionals,1
 7 Private Patrol Operators,1
+7 R.N.s,1
 70 Individual Letters,1
 71 Asian American and Pacific Islander Individuals,1
 721 Letters from Individuals,1
 723 Individuals,1
+74 Animal Welfare Organizations,1
 75 Individual RDos,1
 75+ Individual Letters,1
 78 Private Individuals,1
 7922 Individuals,1
+"8 Administrators, University of LaVerne",1
 8 General Contractors,1
 8 Individuals (Massage Therapists),1
 8 PAST DIRECTORS OF THE DEPARTMENT OF HOUSING AND COMMUNITY DEVELOPMENT,1
 80+ Individual Letters,1
 82 Private Citizens,1
 84 Private Citizens,1
+85 Naturopathic Doctors,1
 85 Private Individuals,1
+88 Registered Dieticians,1
+9 Former Members of the Marin County Grand Jury,1
 91 Individual,1
 92 Individual,1
 92 Private Citizens,1
@@ -4336,6 +4377,7 @@ Ana Validzic,1
 Anaheim Mayor Curt Pringle,1
 Anastasia Hunt,1
 Andaz West Hollywood General Manager Lin,1
+Anderson Cemetery District Manager Eric Kapaska,1
 "Andra Hoffman, Vice President, Los Angeles Community College District",1
 "Andrea L. Dooley, Arbitrator (INDIVIDUAL)",1
 "Andresen, Lee",1
@@ -4360,9 +4402,11 @@ Angeles Mayor Richard,1
 "Ann Cousineau, Director of Library Services, Solano County Library",1
 "Ann Harvey, Individual",1
 "Ann Harvey, Medical Doctor",1
+"Anne Spiegel, D.D.S",1
 "Anthony J. Addams, O.D., Ph.D., Dean UC Berkeley",1
 "Anthony J. Addams, O.D., Ph.D., Dean UC Berkeley School of Optometry",1
 "Anthony J. Intintoli, Jr., Mayor",1
+"Anthony Molina, M.D",1
 "Antonio R. Villaraigosa, Mayor of the City of Los Angeles",1
 "Antonio Vazquez, California State Board of Equalization Member",1
 Antonio Villaraigosa,1
@@ -4386,6 +4430,7 @@ Ariel Kelley - Mayor of Healdsburg,1
 "Arlene Inouye, Individual",1
 "Arlo Smith, District Attorney of San",1
 "Arlo Smith, Member, California Gambling",1
+"Arnold Leff, M.D",1
 "Arnulfo Cedillo, Chabot-Las Positas Community College District Trustee",1
 Arroyo Grande Manager Steven Adams,1
 "Art Gage, Councilmember",1
@@ -4536,7 +4581,10 @@ Attorney at Law Joseph Rhine,1
 "Aubrey Patterson, Division Chief, Santa Maria Police Department",1
 "Audrey Clarke, Superintendent, Lynwood School District",1
 "Auxiliary Bishop Joseph Sartons, Archdiocese of Los Angeles",1
+BOE Member Antonio Vazquez,1
 BOE Member Fiona Ma,1
+BOE Member Michelle Steele,1
+"BOE Member Michelle Steele, Howard Jarvis Taxpayers' Association",1
 "BRIAN BACA, FORMER SMGB BOARD MEMBER",1
 "Bakersfield City Councilmember, Andrae Gonzales",1
 Bakersfield Councilmember Russell Johnson,1
@@ -4574,6 +4622,7 @@ Benicia Mayor Elizabeth Patterson,1
 Benicia Police Department Larry Profitt,1
 "Benjamin ""Frank"" Venti, Monterey Park City Councilman",1
 "Benjamin Duran, Superintendent/President, Merced Community College District",1
+Berkeley City Auditor Ann-Marie Hogan,1
 Berkeley City Councilmember Cecilia Lunaparra,1
 Berkeley City Councilmember Darryl Morre,1
 Berkeley City Councilmember Igor Tregub,1
@@ -4584,6 +4633,8 @@ Berkeley Councilmember Lori Droste,1
 Berkeley Councilmember Rigel Robinson,1
 Bernard Parks,1
 "Bernard Parks, Councilman City of Los Angeles",1
+Bernard S,1
+Bernard T. Delaney,1
 "Bernard Venter, Senior Account Manager, Bpi",1
 Bernardino County Supervisor,1
 "Beth Grimm, Attorney, Public Relations Chair, California",1
@@ -4638,6 +4689,7 @@ Billy Crystal,1
 Bion Gregory,1
 "Bion Gregory, Legislative Counsel",1
 Black Business Association Leslie A. Irving,1
+"Block Captain, Bixby Way's Neighborhood Watch",1
 Blong Xiong,1
 "Blong Xiong, Councilmember",1
 "Blong Xiong, Fresno City Council Member",1
@@ -4647,8 +4699,15 @@ Blue Pacific Mobile Home Owners Association 39 Individuals,1
 Board Member Ernest Dronenburg,1
 Board Member Genethia Hudley-Hayes Los Angeles Unified,1
 Board Member Nury Martinez,1
+Board President Ethan Bertrand,1
+"Board President Ethan Bertrand, Isla Vista Community Services District",1
+Board of Equalization Member Ernie,1
+"Board of Equalization Member, District 2",1
+"Board of Equalization Member, District 3",1
+"Board of Equalization Vice Chair, Sally Lieber",1
 "Board of Supervisor Keith Carson, Alameda County",1
 Board of Supervisors President Keith Carson,1
+Bob Blumenfield - City of Los Angeles Councilmember,1
 "Bob Campbell, Mayor Pro Tem, Vista",1
 "Bob Fellmeth, Center for Public Interest Law, University of San Diego Law School",1
 "Bob Filner, Mayor, San Diego",1
@@ -4659,6 +4718,7 @@ Bonnie Lieberman - Santa Clara Unified School District Governing Board Member,1
 "Bonnie Lieberman, Governing Board Member, Santa Clara Unified School District",1
 "Bonnie Pannel, Sacramento City Council Member, District 8",1
 "Bonnie Turnbull, Board Trustee, Lake Tahoe Unified School District",1
+Boston Scientific Neuromodulation Manager,1
 Brad Goodrow,1
 Brad Hall,1
 "Brad Lewis, Vice President of Systems and Information, Snap-on Inc",1
@@ -4687,7 +4747,10 @@ Brian Tabatabai - Mayor Pro Tempore of West Covina,1
 "Brian Zick, Graphic Artist, of Los Angeles",1
 "Brianna Egan, Medical Student and Nutritionist",1
 "Bruce Alberts, Chancellor's Leadership Chair in Biochemistry and Biophysics for Science and Education, University of California, San Francisco",1
+Bruce Delgado - Mayor of Marina,1
+"Bruce Delgado, May",1
 Bryan Macdonald - Mayor Pro Tempore of Oxnard,1
+"Buckley, Thomas M., Esq",1
 Burbank Fire Chief Michael Davis,1
 Burlingame Councilmember Donna Colson,1
 Burlingame Mayor Jerry Deal,1
@@ -4696,6 +4759,7 @@ Burney Cemetery District Manager Jackwellen Young,1
 "Bustamante, Lieutenant Governor",1
 "Butch Lindley, Monterey County Supervisor",1
 Butte County Supervisor Gordon Thomas. SCA 22,1
+By: JAN OWEN 445-6306,1
 "Byng Hunt, Mono County Supervisors, District 5",1
 "Byron Spicci, Biology Instructor, Reedley College",1
 "Byron Wear, San Diego City Councilmember",1
@@ -4754,6 +4818,7 @@ CSU Fresno Richard K. Propster,1
 "Caity Maple, Councilmember District 5",1
 Cal-Tax Several Individuals,1
 Calabasas Mayor Lucy Martin,1
+"Calaveras County Clerk-Recorder, Rebecca Turner",1
 California (former Shasta County District Attorney),1
 California AG Rob Bonta,1
 California Appellate Court Justice Stewart,1
@@ -4792,6 +4857,7 @@ California State Treasure Bill Lockyer,1
 California The Honorable US Representative Mike Thompson,1
 Campbell Chief of Police James A. Cost,1
 Campbell City Vice-Mayor Paul Resnikoff,1
+Candace Marie Greco R.N,1
 "Captain Badel, Lodi Police Department",1
 "Captain Bryan J. Buckley, Usmc (RET.)",1
 "Captain D. K. Hahn, CHP, Monterey area",1
@@ -4861,12 +4927,14 @@ Catherine Jones,1
 Cathy Haagen-Smit,1
 "Cathy Murillo, Mayor Pro-Tem",1
 "Cathy Pace, President of the Board, Phelan Pinon Hills Community Services District",1
+"Cecil H. Bullard, MD, FACP",1
 "Cecilia Lunaparra, Berkeley Councilmember, District 7",1
 Ceres Councilmember Rosalinda Vierra,1
 "Chairman Allen Ishida, Tulare County Board of Supervisors",1
 Chairman of the Board,1
 "Chaplain Catherine Conneally-Salazar, Ventura Youth Correctional",1
 "Chaplain Sr. Claudia Romero, Barry Nidorf Juvenile Hall",1
+"Charles ""Chappie"" Jones, Councilmember, District 1",1
 "Charles Baker, M.D",1
 Charles C. Bell,1
 "Charles C. Plummer, Alameda County Sheriff",1
@@ -4997,6 +5065,7 @@ Cindy Wilson,1
 "Cities of San Fernando, and Simi Valley Councilmember Glen T. Becerra",1
 City & County of San Francisco Mayor London Breed,1
 City Attorney Mike Feuer,1
+City Attorney of San Francisco David Chiu,1
 City Council Member Alysa Cisneros,1
 City Council Member Brian Barnacle,1
 "City Council Member Dave Jones, District 6",1
@@ -5702,6 +5771,7 @@ County Assessor Larry Stone,1
 County Board of Supervisor Blanca Alvarado,1
 County District Attorney Jan Scully,1
 County District Attorney Steve Cooley,1
+"County Grand Jury, Past Members (11)",1
 County Sheriff Gary Kuntz,1
 County Sheriff Jon E. Lopey,1
 County Sheriff Scott Jones,1
@@ -6062,6 +6132,8 @@ Deborah Ruddock - Half Moon Bay City Council Member,1
 "Deirdre Alpert, Chair - Women Legislators Caucus",1
 "Deirdre Bernard-Pearl, Medical Doctor",1
 Del Norte County Supervisor Gerry Hemmingsen,1
+"Delaine Eastin, State Superintendent of Public Instructions",1
+"Delaine Eastin, State Superintendent of Schools",1
 "Dency Nelson, Rooftop Solar Owner & Advocate Since 1999",1
 Denis Bilodeau,1
 "Denise Athas, Novato City",1
@@ -6142,6 +6214,7 @@ Dick Rider (plaintiff in Rider v Rider lawsuit in San Diego County),1
 "Dick Williams, San Bernardino County Sheriff",1
 "Dick Williams, Sheriff of San Bernardino County",1
 Diego Councilmember Donna Frye,1
+Diego County Sheriff William D. Gore,1
 Diego Mayor Jerry Sanders,1
 Dimas Romero,1
 "Dinh V. Le, D.C",1
@@ -6162,6 +6235,7 @@ District Commissoner Michael Kreeger,1
 Div. Commander,1
 Division 4 Phil Hawkins,1
 Dobie Dolphin - Private Citizen,1
+"Doctor ""J",1
 Doctor Andrew Weil,1
 Dodson,1
 "Dolores Garcia Wright, Senior Senator",1
@@ -6326,7 +6400,9 @@ Dr. Stephen Phillips,1
 "Dr. Vicki Barber, El Dorado County Superintendent of Schools",1
 "Dr. William Plummer, Dept. of Animal Science, Cal Poly University",1
 Dr. Yuen's TCM Acupuncture Clinic,1
+"Duane E. Spencer, D.D.S",1
 "EIGHT INDIVIDUAL LETTERS (INDIAN WELLS, INDIO, INDIO HILLS, LA QUINTA, AND PALM SPRINGS)",1
+"Earvin ""Magic"" Johnson",1
 East Bay Regional Park District (former) Senator Patrick Johnston,1
 "Ed Begley, Jr",1
 "Ed Donaldson, San Francisco Housing Development Corporation",1
@@ -6336,6 +6412,7 @@ Ed Meyer,1
 Edare Carroll,1
 "Eddie Rose, Councilmember",1
 Edgar Jolts,1
+"Edmund G. Brown Jr, California Attorney General",1
 "Edward A. Panelli, Retired",1
 Edward B. Rosenstiel (Constituent),1
 Edward C. Wundram,1
@@ -6390,6 +6467,7 @@ Emeryville Mayor Dianne Martinez,1
 Emily Brandt,1
 Emily Graham Watson: Ambassador for Discovery Tree,1
 "Emily Maloney, Attorney at Law",1
+"Ena Valikov, DVM",1
 Encinitas City Councilmember Tasha Boerner,1
 Eric,1
 "Eric Bowen, VP Energy and Director Biofuels, Sigma Capital",1
@@ -6410,10 +6488,19 @@ Esther Fine,1
 Eugene Moses,1
 "Eugene Sun, Mayor",1
 "FIONA MA, CPA, VICE CHAIR, STATE BOARD OF EQUALIZATION, DISTRICT 2",1
+Family of Jason Alderman,1
+Family of Tyler Scott Rushing,1
 Faye E. Nennig,1
 "Feinstein and Honorable Pete Stark, House of Representatives",1
+Felice Urban,1
+"Felipe Hernandez, Council Member, District One",1
+"Felipe Hernandez, District 4, Santa Cruz County Board of Supervisors",1
+"Fenley, District 5",1
+"Fernandes, San Jose",1
 Few Individuals,1
+"Field, Los Angeles Community College Board of Trustees",1
 Fifty Individuals,1
+"Fightmaster, Commissioner, Sonoma County Superior Court",1
 Fiona Ma Treasurer,1
 "Fiona Ma, Board of Equalization Chair, and Member Second District",1
 "Fiona Ma, CPA, California State Board of Equalization",1
@@ -6428,8 +6515,10 @@ Fiona Ma Treasurer,1
 First District Honorable Mick Gleason,1
 First District Honorable Mike Maggard,1
 First Lady of California,1
+Five MDs,1
 Five Private Constituents,1
 Folsom John Tucker,1
+"Forest Bazat, PharmD, Assistant Clinical Professor, School of Pharmacy",1
 Former Alameda Co. District Attorney Nancy O'Malley,1
 Former Assemblyman John Laird,1
 Former Assemblymember Alister McAlister,1
@@ -6457,21 +6546,38 @@ Former State Senator George Runner,1
 Former State Senator Jerry Hill,1
 Former State Senator Sam Blakeslee (co-author of Proposition 54),1
 Former U.S. Attorney General Edwin Meese III,1
+"Forrest J. Stowells, III, D.D.S",1
+"Fors, M.S.W., L.C.S.W",1
 Fourteen Individuals,1
 Fourth District Sonoma County Supervisor James Gore,1
 "Fran Gage, Judge, Los Angeles International Extra-Virgin Olive Oil",1
 "Fran Pavley, Senator (ret.)",1
+Frances Roth,1
+"Francesca Segre, Trustee, Menlo Park City School District",1
 Francine Bartfield,1
 "Francine Bradley, Ph.D., University of California",1
 "Francine Bradley, Ph.D., University of California Cooperative Extension Poultry",1
+Francisco Garcia,1
 Francisco Supervisor John Avalos,1
+Frank & Lucy Shivak,1
+Frank A. Duckworth,1
 "Frank C. Blair, Jr., D.D.S., Long Beach",1
 "Frank L. Kuccers, Esq",1
+Frank Parra,1
 Frank Schiavo (Professor San Jose State University),1
+Frank Scialdone,1
+"Frank. R. Mecham, Supervisor, San Luis Obispo County",1
+Fred Hirsch,1
+Fred Keeley,1
+"Fred Keeley, Former Member of the Assembly",1
+Fred and Andrea,1
+Frederick C. Hoey,1
 "Frederick Jordan, Former Technical Advisor, U.S. Environmental",1
 Frederick M. Jahnkow (individual),1
+Frederick O. Bott,1
 "Frederick Vars, Professor of Law",1
 "Fredrick A. Wentworth, San Joaquin County Superintendent",1
+Fremont Al Morgan,1
 Fremont City Councilmember Bill Harrison,1
 Fremont City Vice Mayor Ann Natajaran,1
 Fresno City Council Member (retired) Rod Anaforian,1
@@ -6482,9 +6588,11 @@ Fresno City Councilmember Henry Perea,1
 Fresno City Councilmember Lee Brand,1
 Fresno City Councilperson Cynthia Sterling,1
 Fresno Council Member Nick Richardson,1
+Fresno County Supervisor Borgeas,1
 Fresno County Supervisor Buddy Mendes,1
 Fresno County Supervisor Doug Vagim,1
 Fresno County Supervisor Juan Arambula,1
+Fresno County Supervisor Mendes,1
 Fresno County Supervisor Sal Quintero,1
 Fresno County Supervisor Stan Oken,1
 Fresno Mayor Lee Brand,1
@@ -6495,44 +6603,87 @@ GOVERNOR'S BUDGET . The Governor's Aging with Dignity,1
 Gabriel Quinto,1
 Gabriel Quinto- Mayor Pro Tem City of El Cerrito,1
 Gail Hayek,1
+Gail K Lightfoot,1
 "Garcetti, Mayor of the City of Los Angeles",1
 "Garen Wintemute, M.D., MPH, Professor and Director, Violence",1
+Garilee Cave,1
+"Garland Petty, FV Miss Jessie",1
+"Garrett Broad, Los Angeles",1
 "Garrett Huff, Fire Captain, Santa Barbara County Fire Department, and President, Santa Barbara",1
+"Garry Bredefeld, Fresno City Council",1
+"Garry Bredefeld, Fresno City Council Member",1
+Garry Lion,1
+"Garry M. Brown, Esq",1
 "Gary C. Ovitt, San Bernardino County Supervisor",1
 "Gary Davis, Mayor",1
+"Gary Farwell, Esq",1
+"Gary Gardner, Council Member",1
+"Gary Gardner, Councilman, Desert Hot Springs",1
 "Gary Gilbert, Madera County Supervisor, District Five",1
+"Gary Kendrick, City Council",1
+Gary L. Kirkland,1
+Gary Lendennie,1
+"Gary Lucks, Esq",1
+"Gary M. Cohen, Esq",1
+Gary M. Fiegener,1
+Gary R. Holzhausen,1
+Gary Reichard,1
+Gary Seals,1
 "Gary Yates, Mayor",1
 "Gary Yates, Mayor of San Mateo",1
 "Gavin Newsom, Lieutenant Governor, State of California",1
 "Gavin Newsom, Mayor of San Francisco",1
 "Gavin Newsom, Mayor of the City and County of San Francisco",1
 "Gavin Newsom, San Francisco Mayor",1
+Gavin Scott,1
+"Gayle Bishop, Contra Costa County Supervisor",1
 Gaynes,1
 "Gene Lucas, PhD - Executive Vice Chancellor, University of California Santa",1
 Geoff Long / APPR. / (916) 319-2081,1
 George Corbin,1
 "George Dies, Director, Strategic Planning, HP Labs, Hewlett-Packard Company",1
 "George G. Alongi, Councilmember",1
+George H. Cullins,1
+"George H. Koenig, M.D",1
+George M. Marcus,1
+George Mannon,1
 George Narancic,1
+"George Runner, 2nd District, State Board of Equalization",1
 "George Shirakawa, Jr., San Jose",1
 "George Shirakawa, Santa Clara - District 2",1
 "George Stevens, Deputy Mayor City of San Diego",1
+George White,1
+Georgia Travis,1
+Gerald L. Hobrecht,1
+Gerald R. Harper,1
+Geraldine Edwards,1
+Gerard Ange,1
+"Gerard M. Nieblas, S.E",1
+Gerry Gras,1
 "Gib Myers, Partner Emeritus, Mayfield Fund & Founder/Board",1
 "Gil Cedillo, Councilmember, First District of the City of Los Angeles",1
 Gil Rebollar - Brawley City Councilmember,1
 Gilroy City Council Member Office of Zach Hilton,1
 Gilroy City Councilmember Zach Hilton,1
 Gini Richardson,1
+Gladys Perry,1
+Gladys Rodriguez,1
 Gleam Davis - City of Santa Monica Councilmember,1
 Gleam Davis City Councilmember,1
 Glenn County Supervisor Charles E. Harris Jr,1
 "Glenn F. Zurawski, M.D. (w/ Anesthesia Care)",1
 "Glenn Miller, Mayor of City of Indio",1
+Glenn Vice,1
 "Gloria Bosco, State Surgeon, Veterans of Foreign Wars, Department of California",1
 "Gloria C. Sigafoos, PT, OCS",1
 "Gloria Molina, Supervisor",1
 "Gloria Molina, Supervisor, Los Angeles County",1
+Gloria Pantoja,1
+Gloria Plasencia,1
+Gloria Soto,1
+Gloria Tristani,1
 "Goldberg, Michael (Former Senior Writer/Associate Editor, Rolling Stone Magazine)",1
+Gordon E. Pitter,1
 "Governing Board Member Nora E. Vargas, Southwestern Community College District",1
 "Governing Board Member Roberto C. Alcantar, Southwestern Community College District",1
 "Governing Board Member, Southwestern Community College District, Nora Vargas",1
@@ -6551,36 +6702,55 @@ Governor of Wisconsin,1
 Governor's Secretary of Education,1
 "Governor, who",1
 "Grace Chu, Attorney",1
+"Grace Vallejo, Council Member",1
 "Gracie Torres, Director, Western Municipal Water District",1
 "Graciela Ortiz, Mayor",1
 "Gray Davis, Controller of the State of California",1
 "Gray Davis, Lieutenant Governor, State of",1
+Greg Cox,1
 "Greg Cox, Supervisor, First District",1
 "Greg Cox, Supervisor, First District, San Diego County Board of Supervisors",1
 "Greg Cox, Supervisor, San Diego County",1
 "Greg Cox, Supervisor, San Diego County Board of Supervisors, First District",1
+Greg Keezer,1
+Gregory E. Koch (Anaheim CA),1
+Gregory Fitzgerald,1
 "Gregory S. Pettis, Mayor Pro Tem, Cathedral City Council",1
+Gregory Wonderwheel,1
 Grover Beach Councilmember Mariah Shah,1
+Grover Trask,1
+Guadulupe Perez,1
+Guy E. Eisenbrey,1
 "Gwen L. Dean, Ph.D",1
 "Gwen Yeo, PhD, Stanford University School of Medicine",1
+Gwyneth L. Brown,1
 "H. DuBose Montgomery, Managing Director and General Partner, Menlo Ventures",1
+"H. Rex Greene, M.D",1
 "HONORABLE BETTY T. YEE, CALIFORNIA STATE CONTROLLER",1
 "HONORABLE DAVID ALVAREZ, COUNCILMEMBER",1
 "HONORABLE SAM LICCARDO, MAYOR",1
 "Haidar Awad, Councilmember",1
+Hale Andrew Antico,1
 "Haney, Matt (Supervisor, San Francisco Board of Supervisors, District 6)",1
 "Hanselmann, Chief Librarian",1
+Harold & Lucille Jones,1
+Harold Bradford,1
 "Harold Fryday, Attorney at Law",1
+"Harold Nachlin, San Diego",1
 "Harriet Miller, Mayor of Santa Barbara",1
 "Harrison, Kate (Councilmember)",1
 "Harrison, MD, MPH (Professor of Medicine, Division of)",1
 "Harry Sidhu, Mayor",1
+Harry Sigman,1
+Harvard School of Biology Professor Emerita Ruth,1
+Harvard School of Biology Professor Emerita Ruth Hubbard,1
 Harvey Rarback - Half Moon Bay City Councilmember,1
 Hayward Mayor Barbara Halliday,1
 "Heal the Bay, Environment California, Lieutenant Governor John",1
 "Heather Costello, Marin County Sheriff's Office Communications Center",1
 "Heather Fargo, Sacramento City Council Member",1
 Heather Morse,1
+Heinz Naef,1
 "Helen Cagampang, PhD UCSF Center for Reproductive Health",1
 Helen Jacobsen,1
 Helen Rupert,1
@@ -6601,6 +6771,7 @@ Herbert Frenery,1
 Herbert Giron,1
 "Herbert Schreier MD, Department of Psychiatry, Children's Hospital Research Center",1
 "Herbert Schreier, MD, Chief of Psychiatry, Children's Hospital",1
+"Hershel Woodrow ""Woody"" Williams - Medal of Honor Recipient (1945)",1
 "Hesiquio Benitez Diaz, Head of the CITES Scientific Authority of Mexico",1
 Hetchman Six Individuals,1
 Hidden Hills Councilmember Laura McCorkindale,1
@@ -6615,6 +6786,7 @@ Hillsborough Robert A. Sessions,1
 "Holly Mitchell, Supervisor",1
 Hollywood City Councilmember Jeffrey Prang,1
 "Hon. Adam Schiff, U.S. Representative",1
+"Hon. Ann Klinger, Board of Supervisors, Merced County",1
 "Hon. Antonio Villaraigosa, Mayor",1
 "Hon. Arthur Gilbert, Presiding Justice, Court of",1
 "Hon. Ashley Swearengin, Mayor of Fresno",1
@@ -6707,6 +6879,7 @@ Honorable Abbe Land,1
 "Honorable Bill Cassidy, M.D., United States Senate",1
 "Honorable Bill Horn, Supervisor",1
 Honorable Bill Leonard,1
+"Honorable Bill Leonard, Member, State Board of Equalization",1
 "Honorable Bill Rosendahl, Councilman, 11th District",1
 "Honorable Bob Blumenfield, Councilmember",1
 "Honorable Casillas Salas, Mayor",1
@@ -6736,6 +6909,7 @@ Honorable Edmund G. Brown,1
 "Honorable Edwin M. Lee, Mayor of San Francisco",1
 "Honorable Emily Reilly, Mayor of Santa Cruz",1
 "Honorable Eric Guerra, Councilmember, City Of Sacramento",1
+"Honorable Fiona Ma, Board of Equalization, District 3",1
 "Honorable Fortney ""Pete"" Stark, United State Congress",1
 "Honorable Fortney ""Pete"" Stark, United States Congressman",1
 "Honorable Fred Keely, Treasurer",1
@@ -6775,6 +6949,7 @@ Honorable Lt. Governor Cruz M. Bustamante,1
 "Honorable Mark Ridley-Thomas, Los Angeles City Councilmember District 10",1
 "Honorable Mary Casillas Salas, Mayor",1
 "Honorable Maxine Waters, Member of Congress, 35th District",1
+"Honorable Mike Ennis, Tulare County Board of Supervisors, District Five",1
 "Honorable Mike Johnson, Member of Congress",1
 "Honorable Monica Brown, Solano County Supervisor, District 2",1
 "Honorable Nancy Pelosi, Member of Congress",1
@@ -6803,8 +6978,15 @@ Honorable Patricia Hunter,1
 "Honorable Todd Gloria, Councilmember",1
 "Honorable Tom Torlakson, State Superintendent of Education",1
 "Honorable Trish Herrera Spencer, Mayor",1
+"Honorable Wally Leimgruber, Member, Board of Supervisors, Imperial County",1
+"Howard Berman, Congressman",1
 Howard D. Hart - Mayor of San Juan Capistrano,1
+"Howard L. Hoffenberg, Esq",1
+"Howard P. ""Buck"" McKeon",1
+Howard Spellman,1
+"Howard Strong, Esq",1
 Howie Steinbeck,1
+"Hugo Soto-Martinez, Councilmember",1
 Hugo Weaving,1
 Humboldt County Supervisor Jimmy Smith,1
 Humboldt County Supervisors Jimmy Smith and Jill Giest,1
@@ -6917,6 +7099,7 @@ Iris L. Siegel,1
 Irvine Councilmember Melissa Fox,1
 Irvine Mayor Farrah N. Kahn,1
 Israel Salazar Villa,1
+"Iturriaga, Rodolfo H., Ph.D",1
 "J. Mark Nielsen, El Dorado County Supervisor",1
 "Jab Sabriskie, Mayor of Truckee",1
 Jacinto Mayor Alonzo Ledezma,1
@@ -6937,8 +7120,10 @@ Jackson Mayor Alfred Nunes,1
 Jacqueline Tran,1
 Jake Lee,1
 "James Butts, Mayor of Inglewood",1
+"James D. Woods, D.D.S",1
 James Randall Wooderson (Individual),1
 Jami Dean,1
+"Jan D. Vandersloot, M.D",1
 Jan L. Owen 445-6303,1
 Jan Owen445-6306,1
 Jane Fonda,1
@@ -6993,6 +7178,7 @@ Jerry Brown,1
 Jerry Cady,1
 "Jerry Dyer, Mayor",1
 "Jerry Dyer, Mayor of City of Fresno",1
+"Jerry M. Patterson, United States Congressman, Retired",1
 Jerry Nemier,1
 Jerry Rava,1
 Jerry Sanders,1
@@ -7038,6 +7224,7 @@ Joan Barkdull,1
 Joan Chang,1
 "Joan Darrah, Stockton",1
 Joan K. White,1
+"Joaquin Avila, Esq",1
 Joe G. Hernandez,1
 "Joe Gunter, Mayor",1
 Joe Neves,1
@@ -7050,6 +7237,7 @@ John Allen,1
 John Beccia,1
 John Billheimer,1
 "John Broderick, Chief of Police",1
+"John C. Wong, M.D",1
 John Campbell,1
 "John Chiang, California State Controller John Chiang",1
 "John Chiang, Member, Board of Equalization",1
@@ -7069,10 +7257,12 @@ John Long,1
 "John Shoals, Mayor of Grover Beach",1
 John Van de Kamp,1
 John Van de Kamp (Dewey & LeBoeuf),1
+"John Walsh (host of ""America's)",1
 Johnny Thompson,1
 Johnny Zamrzla,1
 "Jon ""Bowzer"" Bauman",1
 Jon Carlson,1
+"Jon Cooper, Esq",1
 Jon Fuller,1
 Jon Newland,1
 Jon Rachford,1
@@ -7081,14 +7271,17 @@ Jon Wizard - Councilmember,1
 Jon Wizard - Seaside City Council Member,1
 Jon Wizard City Councilmember,1
 Jon Wizard Council Member,1
+"Jonathan Freudman, MD",1
 "Jonathan Lu, Medical Doctor",1
 Jonathan Morrison,1
 Jordi,1
 "Jorgel Chavez, Mayor of Bell Gardens",1
 "Jose Gurrola, Mayor",1
 Jose L,1
+Jose R. Torres DDS,1
 "Jose Sigala, Mayor",1
 Joseph A. Santoro,1
+"Joseph E. Eiswert, D.M.D",1
 Joseph E. Johnston,1
 "Joseph Giannini, Esq",1
 "Joseph L. Everett, Ed.D., Sc.D",1
@@ -7218,6 +7411,7 @@ Karl Gage,1
 Karl Luft,1
 "Karl Olsen, Levy, Ram & Olsen Attorneys",1
 "Karl Olson, Attorney with Levy, Ram & Olson LLP",1
+"Karthyn M. Otto, Esq",1
 "Katcho Achadjian, Assemblyman (ret.)",1
 "Kate Daniels, District 5, Monterey County Board of Supervisors",1
 "Kate Meis, Executive Director, Local Government Commission",1
@@ -7245,6 +7439,7 @@ Keanu Reeves,1
 "Keith Carson, Board President, Alameda County",1
 "Keith Carson, President, Alameda County Board of Supervisors",1
 Keith Hansen Hansen,1
+"Keith Quirolo, M.D",1
 Keith Umemoto,1
 Keller,1
 Kelley,1
@@ -7265,6 +7460,9 @@ Kenneth Hersh,1
 Kenneth Klee,1
 Kenneth N. Cassidy,1
 Kenneth W,1
+"Kenneth W. Fors, M.S.W., L.C.S.W",1
+"Kent Williams, Pastor, Wells Road Baptist Church",1
+"Kent Williams, Pastor, Wells Road Baptist Church, Ventura",1
 "Keralyn Blecher, RN",1
 "Kern County Supervisor Barbara Patrick, 3rd",1
 Kern County Supervisor Chris Parlier,1
@@ -7274,11 +7472,25 @@ Kern County Supervisor David Couch,1
 Kern County Supervisor Michael Rubio,1
 Kern County Supervisor Mike Maggard,1
 Kern County Supervisor Pete Parra,1
+Kern County Tilo Cortez,1
+"Kevin Beiser, Board Member District B, San Diego Unified School District",1
+"Kevin Beiser, VP San Diego Unified School District",1
 "Kevin De Leon, Los Angeles City Councilmember District 14",1
 "Kevin Falconer, Mayor",1
 "Kevin Jenkins, Mayor",1
 "Kevin Johnson, Mayor",1
 "Kevin Lincoln, Mayor",1
+Kevin M. Chun,1
+"Kevin McCarty, Councilmember, District 6",1
+"Kevin McCarty, Sacramento City Councilmember",1
+"Kevin McKeown, Council Member, Santa Monica",1
+Kevin Mcdonnell - Petaluma City Councilmember,1
+"Kevin O'Neill, ""B.P.O.E. 1613",1
+Kevin Phillips,1
+"Khatchik H. ""Katcho"" Achadjian",1
+Kim Johnson,1
+Kim Lachance,1
+"Kimberly C. Brouwer, PhD",1
 Kimberly Hindley (individual),1
 Kings County Supervisor Pedersen,1
 Kings County Supervisor Valle,1
@@ -7291,12 +7503,15 @@ Kohn,1
 Koligian,1
 Koning,1
 Kopp,1
+"Kopp, Judge of the Superior Court of San Mateo",1
 Korea,1
 Koreatown,1
 "Koreen Cea, Cadem (ad 52 ) Elected Delegate",1
 Kounkuey,1
 Kristen Spada O'brien,1
 Kristopher's step dad Erin and Dennis Foley,1
+Kurt Perry,1
+Kurt Ribak,1
 L. Cuffie Joslin of the Wiyot Tribe,1
 L.A. City Councilman Mark Ridley-Thomas,1
 L.Ac. Chen,1
@@ -7321,6 +7536,13 @@ LaDoris Cordell (Ret.),1
 Laguna Beach Mayor Robert Whalen,1
 Laguna Hills Mr. Michael Williams,1
 Lake County Supervisor Eddie Crandell,1
+"Lake Forest Community Association, General Manager",1
+Lancaster Burns Construction Inc. Lawrence W,1
+"Larry A. Saltzman, M.D. Family Physician, Sacramento",1
+Larry J. Shaw,1
+Latino Times/former Chair,1
+"Laura Chick Council-member, Third District, Los",1
+"Laura Chick Councilmember, Third District, Los Angeles",1
 "Laura Schewel, an Individual",1
 Lauren Rava,1
 "Lauren Ward of Cupertino, California",1
@@ -7329,6 +7551,8 @@ Lawrence Fishburne,1
 Lawrence L. Szabo,1
 "Lawrence Nathan, Medical Doctor",1
 Lawson Spicer,1
+LeRoy Anderson,1
+Leaders of Tomorrow Board Members,1
 Lee Buffington (San Mateo Tax Collector),1
 "Lee Furtado, FV SEASTAR",1
 Lee Lockhart,1
@@ -7355,23 +7579,28 @@ Lieutenant Governor of California Cruz Bustamante,1
 "Lieutenant Governor, State of California, Cruz M. Bustamante",1
 "Lieutenant Governor, The Honorable Cruz Bustamante",1
 Linda Allen,1
+"Linda C. Cork, D.V.M., Ph.D",1
 Linda Hansen,1
 "Linda Parks, Board of Supervisors County of Ventura",1
 Linda Seeley,1
 Linda Smith,1
 Linda Wolcott,1
+Linda and Lonnie Wells,1
 Lindley,1
+"Lindsay Unified School District, Superintendent",1
 "Lindsey Horvath, Los Angeles County Supervisor",1
 Lisa Brenneis (Ojai),1
 Lisa Cardella-Presto,1
 Lisa Gauthier - Mayor of East Palo Alto,1
 Lisa Hartman,1
+"Lisa Kaas Boyle, Esq",1
 Lisa Kuhns,1
 Lisa Leopard,1
 "Lisa Mastramico, Santa Cruz, CA",1
 Lisa Murdock,1
 Lisa Norman,1
 Lisa Profeta,1
+Livermore Valley Joint Unified School District Superintendent,1
 Lloyd,1
 Local 112 Chris Woodard,1
 Local 1507 Steve Warner,1
@@ -7407,9 +7636,13 @@ Lori Y. Woods - Vice Mayor of Signal Hill,1
 Lorne Chang - Custom Iphones and Repairs,1
 Lorraine Thomas Amador County Animal Shelter,1
 "Los Angeles Board of Education, David Tokofsky",1
+Los Angeles City Attorney and the California,1
 Los Angeles City Council Member Bill Rosendahl,1
 Los Angeles City Council Member Bob Rosendahl,1
 Los Angeles City Council Member Mark Ridley-Thomas,1
+"Los Angeles City Council Member, Mitchell Englander",1
+"Los Angeles City Council Member, Ret., Nick Pacheco",1
+Los Angeles City Council President Nury Martinez,1
 Los Angeles City Councilman Dennis Zine,1
 Los Angeles City Councilman Greig Smith,1
 "Los Angeles City Councilman Hal Bernson, Twelfth District",1
@@ -7436,13 +7669,19 @@ Los Angeles City Mayor Karen Bass,1
 Los Angeles Council Member Paul Krekorian,1
 Los Angeles Councilmember Eric Garcetti,1
 "Los Angeles Councilmember Greig Smith, 12th District",1
+"Los Angeles County Assessor Jeffrey Prang, California Assessors' Association",1
+"Los Angeles County Assessor Jeffrey Prang, Equality California",1
 Los Angeles County Assessor Kenneth Hahn,1
 Los Angeles County Assessor Rick Auerbach,1
+Los Angeles County Board of Supervisor Yaroslavsky,1
+Los Angeles County Larry J. Todd,1
+"Los Angeles County Office of Education Superintendent of Schools, Arturo",1
 Los Angeles County Supervisor Gloria Molina,1
 Los Angeles County Supervisor Holly Mitchell,1
 Los Angeles County Supervisor Janice Hahn,1
 Los Angeles County Supervisor Shelia Kuehl,1
 "Los Angeles County Supervisor, Lindsey Horvath",1
+Los Angeles County Supervisors Yvonne B. Burke and Zev Yaroslavsky,1
 Los Angeles Environment Commissioner Maria Armoudian,1
 Los Angeles Mayor Hahn,1
 Los Angeles Mayor Richard,1
@@ -7455,6 +7694,10 @@ Los Angeles Superior Court Judge Ronald S. Coen,1
 Los Angeles Superior Court Judges: Sloan,1
 "Los Angeles Superior Court, Juvenile Division, Hon. Terry",1
 Los Angeles Supervisor Sheila Kuehl,1
+"Los Angeles Unified School District Board Member District 3, Scott M. Schmerelson",1
+Los Angeles Unified School District Superintendent John E. Deasy,1
+"Los Angeles Unified School District Superintendent, Michelle King",1
+"Los Angeles Unified School District, Board Member, Bennett Kayser",1
 Los Osos Supervisor Harry L. Ovitt,1
 Lou Barnett,1
 "Lou La Monte, Councilmember - City of Malibu",1
@@ -7485,45 +7728,85 @@ Lucas Ramirez - City of Mountain View Council Member,1
 "Luis Chavez, District 5 Councilmember, Fresno City Council",1
 "Luis R. Solórzano, Fire Fighter",1
 Luis Rodriguez,1
+"Lynette McElhaney, Oakland City",1
 "Lynn Compton, District Four Supervisor",1
 "Lynn Feintech, Managing Director, Citigroup Global",1
+"Lynne Yates-Carter, Esq",1
 "M. Ruth Niswander, A Concerned Citizen",1
 MS Property,1
+Madera County Board of Supervisor Al Ginsburg,1
+Madera County Clerk-Recorder and Registrar of Voters Rebecca Martinez,1
 Madera County Supervisor Rick Farinelli,1
 Madera County Supervisor Tom Wheeler,1
 Madison Nguyen Vice Mayor of the City of San Jose,1
+"Major General Eres, Adjutant General, California Military",1
+Major General Lehnert-Commanding General of Marine Corps Installation West,1
 "Malia Cohen, Member, California State Board of Equalization",1
 Malibu City Councilmember Mike Pierson,1
 Manhattan Beach Glenn A. Accornero,1
+"Manuel Ontal, Councilman for the City of Carson",1
 "Mara Madrigal-Weiss, Commissioner on the Commission for Behavioral Health",1
+"Marc Del Piero, Esq",1
+"Marcus Conant, M.D",1
 "Margaret Connell, Mayor",1
+"Margie Chen, Medical Doctor",1
+"Maria ""Sucy"" Collazo - Vice Mayor of Newark",1
 Maria Shriver,1
+"Marian Bergeson, Former State Senator, AARP",1
+Marian E. Washburn,1
+"Marian Wolfe, Housing Advisory Commissioner",1
+Marianne Elliston,1
+"Marilyn Grinsdale, Citrus Community College Protocol and Government Relations Officer",1
+"Marilyn Grinsdale, Protocol & Government Relations Officer for the Citrus Community College District",1
 "Marilyn Sanabria, Mayor",1
 Marilyn Wineman (individual),1
+"Marin County Assessor, Joan C. Thayer",1
+"Marin County Superintendent of Schools, Mary Jane Burke",1
 Marin County Supervisor Kathryn Sears,1
 Marin County Supervisor Katie Rice,1
+"Marina Martinez, Program Director, Mi Casita Parent Community",1
+"Marine County Grand Jury, Past Members (11)",1
+Mariposa County Assessor-Recorder Gary Estep,1
+"Mariposa McCall, MD",1
 Marjorie Hopkins (individual),1
+Mark Coats,1
+"Mark Dinan - Councilmember, East Palo Alto",1
+"Mark E. Farrell, Mayor",1
 "Mark Farrell, Mayor",1
 "Mark Farrell, Mayor, City and County of San Francisco",1
+"Mark Lee, Manatt, Phelps & Phillips",1
 "Mark Lewis, Mayor City of El Cajon",1
 "Mark Peterson, Mayor",1
 "Mark Ridley-Thomas, Los Angeles City Councilmember District 10",1
 "Mark Salwasser, Individual",1
+"Marshal Robert Gate, Solano County",1
+"Marshall ""Chip"" Holloway",1
+Marta Lindsey,1
+"Martha Rogers, Ph.D",1
+"Marti Emerald, 7th Dist",1
+"Marvin Braud, Los Angeles City Councilmember",1
 "Marvin Klotz, E.A",1
 "Marvin Pederson, Attorney-at-Law",1
+Mary Anne Pettyjohn,1
+Mary Anne Rand,1
 Mary Bedard,1
 Mary Bellon,1
+"Mary Beth Kitchens, BSN, PHN, RN",1
 Mary Emerson,1
 "Mary England, Councilmember",1
 "Mary England, Former Councilmember",1
+"Mary Lou Andrade, Treasurer-Tax Collector",1
 Mary Mason,1
 "Mary Minow, Commissioner, Cupertino Public Library",1
 Mary Parish,1
+"Mary Pat Toups, Esq",1
 Mary Stuck,1
 Mary Wilhelm,1
+Marysville Police Department Capt. Richard J. Doscher,1
 Matt Fong,1
 "Matt Fong, State Treasurer of California",1
 "Matt Rexroad, Yolo County Supervisor, 3rd District",1
+Maxwell and Virginia Doan,1
 Mayor Abbe Land,1
 Mayor Abbe Land Counties of San Luis Obispo and San Mateo ISTI (Sarasota Springs),1
 Mayor Abbe Land County of San Mateo Metropolitan Water District of California Town of Los Altos Hills University of California University of California,1
@@ -7721,9 +8004,16 @@ Mayor of the City of Pacifica,1
 Mayor of the City of Vallejo,1
 Mayor pro Tem Brad Reese,1
 Mayor pro Tem Doug McAllister,1
+"McGowan, Jack B., Esq",1
 Megan Beaman-Jacinto - Coachella City Councilmember,1
 Member Sonoma County Area Agency on Aging Advisory Council,1
 "Member of Congress, Adam B. Schiff",1
+"Member of Congress, Alan Lowenthal",1
+"Member of Congress, Jared Huffman",1
+"Member of Congress, Mike Levin",1
+"Member of Congress, Ted W. Lieu",1
+"Member, Fourth District, State Board of Equalization",1
+"Member, State Board of Equalization, District 1",1
 Members of Family Day Care Association of California,1
 Members of Gold Coast Child Care Association,1
 Members of the 940th Air Refueling Wing,1
@@ -7733,21 +8023,39 @@ Members of the California Senior Legislature,1
 Members of the Center for Energy Efficiency,1
 Members of the Center for Energy Efficiency & Renewable Technologies,1
 Mendocino County Illa Collin,1
+Mendocino County Superior Court Judge Nelson,1
+Mendocino County Treasurer-Tax Collector Shari Schapmire,1
 Menlo Park Vice-Mayor Jen Wolosin,1
 Merced City Council Member Noah Lor,1
 Merced City Councilmember Noah Lor,1
+"Michael A. Car, Ph.D",1
+"Michael A. Houlemard, Jr- Executive Officer of the Fort Ord Reuse Authority",1
 Michael Antonovich,1
 "Michael Antonovich, Los Angeles County",1
 "Michael Antonovich, Supervisor, Los Angeles",1
+"Michael B. Day, et al",1
+"Michael D. Antonovich, Supervisor, Los Angeles County Board of Supervisors",1
+"Michael D. Maurier, Ph.D",1
+"Michael G. Colantuono, Neufeld, Jaffe, Levin & Colantuono, LLP",1
+"Michael L. Threlkeld, Fire Chief",1
+"Michael L. Warren, Fire Chief",1
+Michael McDermott (Men's Civil Rights),1
+Michael Mccorriston - Vice Mayor of Dublin,1
+Michael Miller (attorney -- Sea Ranch case),1
+Michael R. Capizzi,1
 "Michael Shimansky, Mayor, Town of Danville",1
 "Michael Tubbs, Mayor",1
+"Michael W. Rabow, M.D., Assistant Clinical Professor, UCSF",1
+"Michael W. Rabow, M.D., Associate Professor at UCSF School",1
 Mick Ohanesian,1
+Miguel A. Pulido,1
 Miguel Arias - Fresno City Councilmember,1
 "Miguel Villapudua, District 1 San Joaquin County Supervisor",1
 "Mike A. Gipson, Councilmember",1
 "Mike Antonovich, Los Angeles County Supervisor",1
 "Mike Carroll, Councilmember",1
 "Mike Dierks, Director, Strategic Investments, Intel Capital",1
+"Mike Eng, Retired Assemblyman",1
 Mike Johnson - City of Ventura Councilmember,1
 "Mike Karbassi, District 2 Councilmember, Fresno City Council",1
 "Mike Kerns, Sonoma County Board of Supervisors",1
@@ -7760,12 +8068,29 @@ Millbrae Assistant Fire Chief,1
 Misty Perez - Mayor Pro Tempore of Port Hueneme,1
 Modesto Councilmember Tony Madrigal,1
 Modesto Vice Mayor and City Councilmember Tony Madrigal,1
+Monica Burcelis,1
 Monica Burcelis (Individual),1
+Monica Garcia,1
+"Monica Garcia, Board Member, District 2, Los Angeles Unified School",1
+Monica Montgomery Steppe - San Diego City Councilmember,1
+"Monica Montgomery Steppe, Supervisor, San Diego County Fourth District",1
+Monrovia Unified School District Vice President,1
+"Montclair Fire Department, Division Chief",1
+Montclair Hospital Medical Center Chief Nursing Officer,1
+"Monterey County Board of Supervisors, District 4",1
+"Monterey County Board of Supervisors, District 5 Supervisor, Dave Potter",1
+"Monterey County Board of Supervisors, Edith Johnsen and Dave",1
+"Monterey County Superintendent of Schools, Dr. William Barr",1
 Monterey County Supervisor Fernando Armenta,1
 Monterey County Supervisor Luis A. Alejo,1
+Monterey County Supervisors Edith Johnsen,1
+Monterey County Supervisors Edith Johnsen and Dave Potter,1
+"Moorpark College President, Julius Sokenu, Ed.D",1
 More than 20 Individuals,1
+Moss Landing Harbor District's Board of Harbor Commissioners,1
 Mountain View Councilmember Patricia Showalter,1
 Mountain View Vice Mayor Lucas Ramirez,1
+Mountain View Whisman School District Trustee Charles Difazio,1
 Mr Hip Marketing,1
 Mr. & Mrs Mastrangelo,1
 Mr. Appliance,1
@@ -7847,24 +8172,34 @@ Ms. Shirley Burnell,1
 Ms. Tiffany Romain,1
 "Ms. Valerie O. Lane of Huntington Beach, California",1
 "Ms. Yvonne Brathwaite Burke, Supervisor",1
+Mt. Pleasant School District John R. Porter,1
 Multiple Individual Letters (314),1
 Muriel Newberry,1
+"N. Scott Grant, Esq",1
 NCCUSL Commissioners Diane Boyer-Vine,1
+"Nancy Donkin Young, Ph.D",1
 Nancy E. Weber,1
 Nancy Evans,1
 Nancy Graves,1
 Nancy Hoagland,1
 Nancy O'Malley,1
+Napa County Board of Supervisors Delaine Eastin,1
 "Napa County Supervisor Diane Dillon, District 3",1
 Natasha Yankoffski,1
+"Nate Miley, Supervisor, Alameda County",1
+"Nate Miley, Supervisor, District 4",1
+"Nathan Fletcher, Supervisor, 4th District County of San Diego",1
 "Nathan Magsig, Mayor of Clovis",1
 Nathan Valdez,1
 National Bill of Rights for Children of the Incarcerated Policy Partnership 3 Individuals,1
 National City Councilmember Jose Rodriguez,1
 National City Councilmembers Mona Rios and Alejandra Sotelo-Solis,1
 National City Honorable Louis Scanlon,1
+National High School,1
+"National High School Journalism Teacher of the Year, Paul Kandell",1
 "Ned L. Nix, D.D.S",1
 "Nelson Esparza Fresno City Council, District 7",1
+Nevada County Clerk Kathleen Smith,1
 Nevada Governor Kenny Guinn,1
 Nevada State Assemblyman Tom Collins 8 Individuals,1
 New York Mayor's Office of Long-Term Planning and Sustainability,1
@@ -7876,6 +8211,7 @@ Nick Benson Sr,1
 Nick D'Antonio,1
 "Nicky Gonzales Yuen, Trustee, Peralta Community College Board",1
 "Nicol Jones, Mayor of Villa Park",1
+Nicola Duesberg,1
 Nikki Pérez - Burbank City Councilmember,1
 Nils Nehrenheim - Redondo Beach City Councilmember,1
 "Nina Taylor, Library Director",1
@@ -7921,8 +8257,13 @@ Numerous Redevelopment Agencies,1
 Numerous Registered Nurses,1
 Numerous Sureties,1
 Numerous U.S. Air Force Plant 42 Fire Department Employees,1
+"Nury Martinez, Los Angeles City Council",1
+"Nury Martinez, Los Angeles City Councilwoman",1
+"Nury Martinez, Los Angeles School Board Member, District 6",1
+"Nury Martinez, Member, Board of Education - City of Los Angeles, District 6",1
 "O'Malley M. Miller, Esq",1
 Oakland Board of Education Jean Quan,1
+Oakland City Council District 3,1
 Oakland City Council Member Noel Gallo,1
 Oakland City Councilmember Carroll Fife,1
 Oakland City Councilmember Charlene Wang,1
@@ -7934,6 +8275,8 @@ Oceanside City Councilmember Jerry Kern,1
 Office of Angelina Jolie,1
 "Office of C.R. Barclay, Trustee",1
 Office of City of Los Angeles Mayor Antonio Villaraigosa,1
+Office of Congressman Lou Correa,1
+Office of Congressman Lou Correa (CA-46),1
 Office of Councilman Mario Trujillo,1
 Office of Councilmember Al Austin,1
 Office of Councilmember Gabby Plascencia of Riverside,1
@@ -7942,6 +8285,7 @@ Office of Jess Swick,1
 "Office of John H. Gilman, M.D",1
 Office of Los Angeles City Councilmember Bob Blumenfield,1
 Office of Los Angeles County Supervisor Hilda L. Solis,1
+"Office of Los Angeles Unified School District Board, Nick Melvoin",1
 Office of Mary-Alice Coleman,1
 Office of Mayor Antonio R,1
 Office of Mayor Pro Tem Eric Guerra,1
@@ -7966,6 +8310,7 @@ Ojai USD Assistant Superitendent Dannielle Pusatere,1
 One Individual CLS,1
 One Individual Veteran,1
 Orange County Board of Supervisors - Supervisor Vincente Sarmiento,1
+Orange County Municipal Court Presiding Judge Wendy S,1
 Orange County Second District Supervisor Vicente Sarmiento,1
 "Orange County Supervisor Charles V. Smith, 1st District",1
 Orange County Supervisor Don Wagner,1
@@ -7974,6 +8319,7 @@ Orange County Supervisor Katrina Foley,1
 Orange County Supervisor Marian Bergeson,1
 Orange County Supervisor Pat Bates,1
 Orange County Supervisor Vicente Sarmiento,1
+"Orange County Supervisor, Third District",1
 Oregon State Representative Ken Helm,1
 Oregon State Senator Michael Dembrow,1
 "Orinda Union School District, Member, Sarah Butler",1
@@ -7986,21 +8332,46 @@ Palo Alto Councilmember George Lu,1
 Palo Alto Councilmember Julie Lythcott-haines,1
 "Paloma Aguirre, Mayor",1
 Pam Brown Schachter - Rolling Hills Estates City Councilmember,1
+Pamela,1
+Pamela Foust,1
 Parikh,1
 Park City Councilman Andy Molina,1
 Pasadena Mayor Bill Bogaard,1
 Pasadena Mayor Rick Cole,1
+"Pat Ziegler, RN, MPA, CPHQ, FNHQ, Sherman Oaks Hospital",1
+"Pat Ziegler, RN,MPA,CPHQ,FNHQ, Sherman Oaks Hospital and Health Center",1
+"Patient"" Robinson",1
+"Patient"" Soto",1
+"Patient"" Sterry",1
+Patricia,1
 "Patricia Bates, Orange County Supervisor",1
 "Patricia C. Bates, Orange County Board of Supervisors, Supervisor, Fifth",1
 Patricia M. Flahavan (individual),1
 "Patricia Wallach, Mayor of El Monte",1
+"Patrick & Geraldine Davis, FV Susan T",1
 "Patrick Furey, Mayor",1
+"Patrick J. Kennedy, Member of Congress, Retired",1
+Patrick McCormick,1
 "Paul Eaton, Mayor of Montclair",1
+"Paul Long, Board Member, Western Placer Unified School District",1
+"Paul, Council of L.A",1
+"Paul, Council of Los Angeles",1
+"Paula Tavrow Director, Bixby Program in Population and Reproductive Health, Fielding School of Public Health, UCLA",1
+"Paula Tavrow, PhD, Director, Bixby Program in Population and Reproductive",1
+"Pedro Peninsula, Santa Clarita, Santa Fe Springs, Santa",1
+"Pedro Peninsula, Santa Clarita, Santa Fe Springs, Santa Maria",1
 "Peggy Huang, Mayor",1
+Perry Benson,1
+Peter,1
+"Peter Foy, Ventura County Supervisor",1
+"Peter G. Keane, Attorney, Office of the San Francisco Public Defender",1
 "Peter Weiss, Mayor, Oceanside",1
 "Phil Angelides, Candidate for State Treasurer 98",1
 "Phil Angelides, State Treasurer's Office",1
+"Phil Ting, Assessor - Recorder of San Francisco",1
 "Philip Angelides, California State Treasurer",1
+"Philip McIlnay, Ph.D",1
+"Phillip Dreisbach, M.D",1
 Phillip P. Pflager (individual),1
 Pipe Fitting Industry of the United States and Canada (2) Individuals,1
 Pismo Beach James R. Nunes,1
@@ -8010,6 +8381,7 @@ Plymouth Mayor Patricia Shackleton,1
 Pomona City Council Member Debra Martin,1
 President and CEO of Cedars-Sinai,1
 "President of County of Santa Clara Supervisor Dave Cortese, Third District",1
+"Presiding Judge Charles W. McCoy, Jr., Los Angeles County Superior Court",1
 Private Citizen Howard Whitfield,1
 "Private Citizen, Claremont",1
 Private Citizens (10),1
@@ -8023,6 +8395,7 @@ Prof. George W. Pring,1
 Prof. William Sullivan of Humboldt,1
 Professor Alan Brownstein,1
 "Professor Alan Heeger, UCSB",1
+Professor Alpert at the University of South Carolina,1
 Professor Barnett,1
 Professor Catherine Fisk,1
 Professor Emeritus,1
@@ -8042,6 +8415,7 @@ Professor Richard,1
 Professor at UCSF Jeffrey O. Bush,1
 "Professor of Medicine, (UCSF)",1
 "Prospect Medical Group, Culver City (Jacob Y. Terner, MD)",1
+"Public Library Board of Trustees, Gary Knight, President",1
 REDWOOD CITY VICE MAYOR SHELLY MASUR,1
 ROHNERT PARK VICE MAYOR JACK MACKENZIE,1
 Ralph Cavanagh,1
@@ -8070,19 +8444,23 @@ Rev. John Anderson,1
 Reverend Lou Sheldon,1
 "Reverend Robert W., Auxiliary Bishop of San Francisco",1
 "Ric Loya, Mayor Pro Tem",1
+"Richard Deslauriers, M.D",1
 "Richard Riordan, Mayor, City of",1
 Richmond Mayor Tom Butt,1
 Richmond Vice Mayor Eduardo Martinez,1
 Rick Bonilla Mayor,1
 Ridgecrest City Councilwoman Lori Action,1
 "Ridgecrest City Vice Mayor Marshall ""Chip"" Holloway",1
+"Rita Walters, Los Angeles City Council",1
 Riverside County Supervisor John Tavaglione,1
 Riverside County Supervisor Kay Ceniceros,1
 Riverside County Supervisor Yxstian Gutierrez,1
 Riverside Mayor Ron Loveridge,1
 Rob Bonta - State of California Attorney General,1
+"Robert A. Pool, Esq",1
 "Robert Fellmeth, Center for Public Interest Law, University of San Diego Law",1
 "Robert Garcia, Mayor of the City of Long Beach",1
+"Robert M. Weygant, Placer County",1
 "Roberta Cooper, Mayor",1
 "Roger Delano, Individual",1
 Rohnert Park City Council Member Gerard Giudice,1
@@ -8092,11 +8470,13 @@ Rohnert Park City Council Member Gerard Giudice,1
 Roseville Mayor Susan Rohan,1
 Ruscal Cayangyang - Individual,1
 "Rusty Bailey, Mayor",1
+"Rutherford ""Bud"" Gaston, Past President of the United Black",1
 "S. Joseph Simitian, Senator (ret.)",1
 "S. R. Albertson, La Mesa",1
 "S. Stiven, U.S. Magistrate Judge (retired)",1
 SAN JOAQUIN COUNTY SUPERVISOR MIGUEL VILLAPUDUA,1
 SAN MATEO COUNTY SUPERVISOR DAVID CANEPA,1
+SENATE RULES COMMITTEE: Sandy Kenyon/(916) 323-8897,1
 "SF District Attorney, Kamala Harris",1
 SOLANO COUNTY SUPERVISOR JAMES P. SPERING,1
 SOS Shirley Weber,1
@@ -8128,6 +8508,7 @@ Sacramento Mayor Joe,1
 Sacramento Mayor Kevin Johnson,1
 "Sal Quintero, District 3 Fresno County Supervisor",1
 Sally,1
+"Salomon Stupp (Author of the ""Lizzie Initiative for Veterinary Pharmacy"")",1
 "Salud Carbajal, First District Supervisor, the Santa Barbara County Board",1
 "Salud Carbajal, Member of the United States Congress",1
 "Salud Carbajal, Santa Barbara County Supervisor",1
@@ -8139,6 +8520,7 @@ Sam Wan,1
 Samuels,1
 San Anselmo City Councilmember Ford Greene,1
 "San Benito County Clerk, Auditor, Recorder and Registrar of Voters Joe Gonzales",1
+San Bernardino City Councilmen Jerry Devlin and David Oberhelman,1
 San Bernardino County Auditor-Controller/Treasurer/Tax Collector Oscar Valdez Tehama County Auditor-Controller LeRoy M. Anderson,1
 San Bernardino County Supervisor Curt Hagman,1
 "San Bernardino County Supervisor James C. Ramos, San Luis Obispo Coastkeeper",1
@@ -8225,6 +8607,7 @@ Santa Monica Mayor Tony Vazquez,1
 Santa Rosa City Council Member Victoria Fleming,1
 Sara Fuller,1
 "Sara Lamin, Mayor Pro Tem City of Hayward",1
+"Sarah-Jeanne Royer, Phd",1
 "Scot Matas, Mayor, City Desert Hot Springs",1
 "Scott Matas, Mayor, Desert Hot Springs",1
 Sean Elo-Rivera - City of San Diego Councilmember,1
@@ -8355,9 +8738,11 @@ Sonora Craig T. Steckler,1
 South Gate City Councilmember Jorge Morales,1
 South Gate Mayor Maria Davila,1
 South San Francisco City Council Member Richard Garbarino,1
+"Speckels Greeley, Marybeth Halloran, Donna B",1
 Sr. Claudia Romero,1
 Sr. Teresa Doherty,1
 "Stacy Fortner, Officer Enviromental Caucus, Cadem",1
+Stanford Health Care (One individual),1
 Stanislaus County Supervisor Channce A. Condit,1
 Stanislaus County Supervisor Jeff Grover,1
 "State Attorney General, Honorable Bill Lockyer",1
@@ -8383,7 +8768,12 @@ Stephen Hall (individual),1
 "Steve Wesley, California State Controller",1
 Steve Westly,1
 "Steve Westly, California State",1
+Steve Young - City of Benicia Mayor,1
+Steve Young - Mayor of Benicia,1
 "Steven Hernandez, Mayor",1
+"Steven K. Hazen, Esq",1
+"Steven Sultan, Ph.D",1
+"Steven W. Murray, Esq",1
 Stockton Mayor Michael Tubbs,1
 "Sue Kempf, Mayor",1
 Sunnyvale City Council Member Mason Fong,1
@@ -8391,6 +8781,7 @@ Sunnyvale City Council Member Omar Din,1
 Superintendent Jack O'Connell,1
 Superintendent Tom Torlakson,1
 "Superintendent of Public Instruction, Honorable Jack O'Connell",1
+"Superior Court Presiding Judge William J. Howatt, Jr",1
 "Supervisor A.L.&E. Amaro, First District of Yuba County",1
 "Supervisor Aaron Peskin, District 3, City & County of San Francisco",1
 Supervisor Adrienne Tissier,1
@@ -8579,9 +8970,16 @@ Supervisor Thomas Wilson,1
 "Supervisor Wendy Otto, Trinity County Board of Supervisors",1
 Supervisor from Tulare County,1
 "Supervisor of Contra Costa County, John Gioia",1
+"Susan Bonilla, Assemblywoman, Eleventh Assembly District",1
 Susan Sonne - Mayor Pro Tempore of Buena Park,1
+"T.E. Houston, Ph.D",1
 "THE HONORABLE DEAN F. ANDAL, MEMBER, BOARD OF EQUALIZATION",1
 "Temple Beth El Second Graders in Aptos, California",1
+"Terry E. Crow, Esq",1
+"Terry Lamphier, Nevada County Supervisor, 3rd District",1
+"Terry Taplin, City Council Member",1
+"Terry Taplin, Council Member",1
+"Terry Withrow, District 3 Stanislaus County Supervisor",1
 The Administration of Governor Gray Davis,1
 "The City of Chula Vista, the Office of Councilmember Carolina Chavez",1
 "The City of Los Angeles , Mayor Antonio Villaraigosa",1
@@ -8596,10 +8994,13 @@ The Administration of Governor Gray Davis,1
 "The Honorable Antonio R. Villaraigosa, Mayor City of Los",1
 "The Honorable Antonio Villaraigosa, Mayor",1
 The Honorable Attorney General Kamala Harris,1
+"The Honorable Betty Yee, First District Member, State Board of Equalization",1
+"The Honorable Betty Yee, State Board of Equalization Member",1
 "The Honorable Bill Bogaard, Mayor City of Pasadena",1
 "The Honorable Bill Leonard, Member, State",1
 "The Honorable Bill Lockyer, Attorney General",1
 "The Honorable Bill Lockyer, California State Treasurer",1
+"The Honorable Brad Sherman, Member, State Board of Equalization",1
 "The Honorable Bryan Osorio, City Council Member, Delano",1
 "The Honorable Catherine Stefani, Supervisor",1
 "The Honorable Charles V. Smith, Supervisor/First District, Orange",1
@@ -8718,12 +9119,35 @@ Third District Honorable James C. Predmore,1
 Thirty Individuals,1
 "Thom Davis, President & Anthony Pawluc, Secretary Treasurer, California IATSE Council",1
 "Thomas Cromwell, Mayor",1
+"Tim Estes, FV Pacific Gayle",1
+"Tim Lundell, P.E",1
+"Tim Newell, Managing Director, Element Venture Partners",1
+"Tim Newell, Vice President & CFO, GetActive Software",1
+Tim Riordan,1
+Tim Schmelzer,1
+"Tim and Gail Fuller (individuals), Los Angeles",1
+"Todd Gloria, 3rd Dist",1
+"Todd Spitzer, Orange County Board of Supervisors, Third District",1
+"Todd Spitzer, Orange County Supervisor, Third District",1
 "Tom Bates, Mayor",1
+Tom Butt,1
 "Tom Carroll, Mayor",1
+"Tom Perkins, Supervisor, Third District",1
+Tom Stallard - Yolo County Board of Supervisors,1
+"Tom Stallard, Woodland",1
+"Tom Stallard, Yolo County Supervisor",1
+"Tom Watson, Stanislaus County Treasurer-Tax Collector",1
 "Tony Ayala, Mayor of Norwalk",1
+"Tony Campos, Supervisor",1
+Tony Cardenas (author of Proposition 20),1
+"Tony Cardenas, Council Member",1
+"Tony Cardenas, Los Angeles City Councilman, 6th District",1
+Tony Madrigal - Modesto Councilmember,1
+"Tony Madrigal, Modesto City Councilmember, District 2",1
 Town of Fairfax Mayor Chance Cutrano,1
 Treasure Bill Lockyer,1
 Treasurer Fong,1
+"Treva Reid, Oakland City Council Member, District 7",1
 "Trinity County Supervisors: Wendy Otto, District 5",1
 "Trixie Johnson, San Jose (Vice-Mayor)",1
 Tulare County Assessor Gregory Hardcastle,1
@@ -8736,11 +9160,22 @@ Twenty Individuals,1
 Twenty-Three Individuals,1
 Twenty-two Individuals,1
 Two Individual Veterans,1
+"Tyler Maxwell, Vice President, Fresno City Council",1
+Tyron Hampton - Pasadena City Councilmember,1
+"Tyron Hampton, Councilmember",1
 U.S. Congressman Brad Sherman,1
 U.S. Congressman Henry A. Waxman,1
 U.S. Congressman Howard Berman,1
 U.S. Congressman Howard L. Berman,1
+U.S. Congressmember Tony Cárdenas,1
 U.S. Congresswoman Ellen Tauscher,1
+"U.S. House of Representatives, Member of Congress, Alan Lowenthal",1
+"U.S. House of Representatives, Member of Congress, Jared Huffman",1
+"U.S. House of Representatives, Member of Congress, John Garamendi",1
+"U.S. House of Representatives, Member of Congress, Mark DeSaulnier",1
+"U.S. House of Representatives, Member of Congress, Michael Honda",1
+"U.S. House of Representatives, Member of Congress, Susan A. Davis",1
+"U.S. House of Representatives, Member of Congress, Ted Lieu",1
 U.S. Representative Grace Napolitano,1
 U.S. Representative Henry A. Waxman,1
 U.S. Representative Jackie Speier,1
@@ -8751,15 +9186,24 @@ U.S. Representative Young Kim (CA-39),1
 U.S. Representatives Charlie Melancon and Charles Boustany,1
 "U.S. Senate, Senator, Dianne Feinstein",1
 U.S. Senators Boxer and Feinstein,1
+"US Congressman, 5th District, John Garamendi",1
 United Animal Nations Numerous Individuals,1
 "United Cerebral Palsy Association, California Coalition 1 Individual",1
 United State Senator Barbara Boxer,1
+United States Congressmember Mark Takano,1
 United States Senator Boxer,1
 United States Senator Byron Dorgan (D-North Dakota),1
 United States Senator Feinstein,1
 United States Senators Mary Landrieu and David Vitter,1
+"V Manuel Perez, Riverside County Supervisor, District 4",1
+"V. Manuel Perez, Supervisor",1
 Vacaville Mayor Steve Hardy,1
+"Valdez, Vice Mayor of San Pablo",1
+"Valerie Stallings, San Diego City Council",1
+"Valerie Stallings, San Diego City Council Member",1
+Valley of the Moon Water District Board Member Jon L. Foreman,1
 Vanessa Quiroz-carter - Mayor Pro Tempore of Watsonville,1
+Various Constituent Letters (Over 450),1
 Various Individual Court Reporters,1
 "Varten Gharpetian, Mayor of the City of Glendale",1
 Ventura County Assessor Dan Goodwin,1
@@ -8769,6 +9213,7 @@ Ventura County Supervisors Peter Foy,1
 "Ventura County, Supervisor Foy",1
 Ventura Mayor Mike Tracy,1
 "Vera Valdiviez, Vice Mayor of City of South El Monte",1
+"Vice Chair Soli Alpert, Berkeley",1
 "Vice Mayor Adrian Fine, City Of Palo Alto",1
 Vice Mayor Francisco Ramirez,1
 Vice Mayor Giselle Hale,1
@@ -8782,6 +9227,7 @@ Vice Mayor of City of Santa Cruz,1
 Vice Mayor of San Jose Don Iglesias,1
 Vice Mayor of the City of Oakland Ignacio De La Fuente,1
 Vice-Mayor Andy Molina City of Long Beach,1
+"Viet Lam, MD",1
 "Vince Doyle, FV Verna Jean",1
 "Vincent Casalaina, Willard",1
 Vincent Mudd (individual),1
@@ -8795,18 +9241,40 @@ Vito Chiesa,1
 "Vivian Chen Photography, Oakland",1
 Vivian Marquez,1
 W. James Edwards,1
+Walt Brewer,1
 "Walt Shultz, El Dorado County Supervisor",1
+"Walter H. Gmelch, Dean of the School of Education, University of San",1
+Walter Mix,1
+Walton Emmick,1
 "Ward, Michael, Dean College of Engineering, Computer Science, and Construction Management, California State University, Chico",1
+"Warner Brothers Entertainment, Inc. - Vice President",1
 "Warren Slocum, Supervisor, District 4",1
 Watsonville Mayor Eduardo Montesino,1
 "WeDrop, Irvine City Council Member Melissa Fox",1
+Wendy Conner,1
+Wendy Gonzalez,1
+"Wendy Larner, Member Ventura County Board of Education",1
+"Wendy Lindley, Presiding Judge, South Orange County Municipal",1
+Wendy S. Lindley,1
+Wendy W. Smith,1
 West Hollywood City Council (Mayor John Heilman),1
 West Hollywood Councilmember Abbe Land,1
 West Hollywood Mayor Jeffrey Prang,1
 West Hollywood Mayor Pro Tempore John M Erickson,1
 "West Hollywood Mayor Pro Tempore John M Erickson, Ph.D",1
+"West Virginia University, Associate Vice President for Research",1
 Westminster Vice-Mayor Kimberly Ho,1
 "Wilderness Society, The Individuals (644)",1
+"William B. Grant, Ph.D",1
+"William J. Howatt, Jr., Presiding Judge Superior Court, San",1
+"William J. Howatt, Jr., Presiding Judge, Superior Court, San Diego County",1
+"William O'Brien, Stanislaus County Supervisor, District One",1
+William S. Choate,1
+"William S. Choate, Senior Assembly Member",1
+"William Silveira, Jr. Juvenile Court Judge",1
+Willows County of Sacramento Independent Cities Association Councilmember Laura Chick,1
+"Wilma Chan, District 3 Supervisor, Alameda County Board of Supervisors",1
+"Wilma Chan, Supervisor, Alameda County",1
 "WinWinWeb, LLC dba Everything Grows Interior Landscaping 1 Individual",1
 "Women Advancing the Valley Through Education, Attorney General Bill Lockyer",1
 Writers Guild of America West 1 Individual,1
@@ -8815,13 +9283,20 @@ Writers Guild of America West 20 Individuals,1
 Writers Guild of America West 98 Individuals,1
 Xochitl Rico,1
 Yolanda Hernandez,1
+Yolo County Agricultural Commissioner,1
 "Yolo County Assessor, Alan B. Flory",1
+Yolo County Ben Anderson,1
 "Yolo County Board of Supervisors, Mariko Yamada",1
+Yolo County Clerk Freddie Oakley,1
 Yolo County Supervisor Helen M,1
 "Yolo County Supervisor, District 2, Don Saylor",1
 Yota Batsaras,1
 "Young Kim, U.S Representative, CA-40",1
+Yuba City Deputy Sheriffs K9,1
+Yuba City Police Dept. Lt. Kristina Wraa,1
+Yuba County - District 2 Supervisor,1
 Yuba County Supervisor Andy Vasquez,1
+"Yuba County, Supervisor - District Two",1
 Yvette McDowell,1
 "Yvette Vartanian Davis, Board Trustee of the Glendale Community College",1
 "Yvonne Brathwaite Burke, Board of Supervisors",1
@@ -8841,468 +9316,9 @@ Zareh Sinanyan,1
 "Zella Knight, Housing Commissioner",1
 "Zev Yaroslavsky, Los Angeles County Board of Supervisors",1
 "Zoe Lofgren, Member of the United States Congress",1
+"Zoe-Anne Fitzhugh, RN",1
 for Northern California 43 Individuals,1
 of Stockton Council Member Moses Zapien,1
-Stanford Health Care (One individual),1
-"Tim Estes, FV Pacific Gayle",1
-"Tim Lundell, P.E",1
-"Tim Newell, Managing Director, Element Venture Partners",1
-"Tim Newell, Vice President & CFO, GetActive Software",1
-Tim Riordan,1
-Tim Schmelzer,1
-"Tim and Gail Fuller (individuals), Los Angeles",1
-"Todd Spitzer, Orange County Board of Supervisors, Third District",1
-"Todd Spitzer, Orange County Supervisor, Third District",1
-"Tom Perkins, Supervisor, Third District",1
-Tom Stallard - Yolo County Board of Supervisors,1
-"Tom Stallard, Woodland",1
-"Tom Stallard, Yolo County Supervisor",1
-"Tony Campos, Supervisor",1
-Tony Cardenas (author of Proposition 20),1
-"Tony Cardenas, Council Member",1
-"Tony Cardenas, Los Angeles City Councilman, 6th District",1
-Tony Madrigal - Modesto Councilmember,1
-"Tony Madrigal, Modesto City Councilmember, District 2",1
-"Treva Reid, Oakland City Council Member, District 7",1
-"Tyler Maxwell, Vice President, Fresno City Council",1
-Tyron Hampton - Pasadena City Councilmember,1
-"Tyron Hampton, Councilmember",1
-"US Congressman, 5th District, John Garamendi",1
-"V Manuel Perez, Riverside County Supervisor, District 4",1
-"V. Manuel Perez, Supervisor",1
-"Valdez, Vice Mayor of San Pablo",1
-"Superior Court Presiding Judge William J. Howatt, Jr",1
-Valley of the Moon Water District Board Member Jon L. Foreman,1
-Various Constituent Letters (Over 450),1
-"Vice Chair Soli Alpert, Berkeley",1
-Walt Brewer,1
-"Walter H. Gmelch, Dean of the School of Education, University of San",1
-Walter Mix,1
-Walton Emmick,1
-"Warner Brothers Entertainment, Inc. - Vice President",1
-Wendy Conner,1
-Wendy Gonzalez,1
-"Wendy Larner, Member Ventura County Board of Education",1
-"Wendy Lindley, Presiding Judge, South Orange County Municipal",1
-Wendy S. Lindley,1
-Wendy W. Smith,1
-"West Virginia University, Associate Vice President for Research",1
-"William J. Howatt, Jr., Presiding Judge Superior Court, San",1
-"William J. Howatt, Jr., Presiding Judge, Superior Court, San Diego County",1
-"William O'Brien, Stanislaus County Supervisor, District One",1
-William S. Choate,1
-"William S. Choate, Senior Assembly Member",1
-"William Silveira, Jr. Juvenile Court Judge",1
-Willows County of Sacramento Independent Cities Association Councilmember Laura Chick,1
-"Wilma Chan, District 3 Supervisor, Alameda County Board of Supervisors",1
-"Wilma Chan, Supervisor, Alameda County",1
-Yolo County Agricultural Commissioner,1
-Yuba City Deputy Sheriffs K9,1
-Yuba County - District 2 Supervisor,1
-"Yuba County, Supervisor - District Two",1
-"Todd Gloria, 3rd Dist",1
-Tom Butt,1
-"Tom Watson, Stanislaus County Treasurer-Tax Collector",1
-"Speckels Greeley, Marybeth Halloran, Donna B",1
-"Hershel Woodrow ""Woody"" Williams - Medal of Honor Recipient (1945)",1
-"Rutherford ""Bud"" Gaston, Past President of the United Black",1
-"Charles ""Chappie"" Jones, Councilmember, District 1",1
-"Doctor ""J",1
-"Earvin ""Magic"" Johnson",1
-"Howard P. ""Buck"" McKeon",1
-"John Walsh (host of ""America's)",1
-"Kevin O'Neill, ""B.P.O.E. 1613",1
-"Khatchik H. ""Katcho"" Achadjian",1
-"Maria ""Sucy"" Collazo - Vice Mayor of Newark",1
-"Marshall ""Chip"" Holloway",1
-"Patient"" Robinson",1
-"Patient"" Soto",1
-"Patient"" Sterry",1
-"Salomon Stupp (Author of the ""Lizzie Initiative for Veterinary Pharmacy"")",1
-Yolo County Ben Anderson,1
-Yolo County Clerk Freddie Oakley,1
-Yuba City Police Dept. Lt. Kristina Wraa,1
-29 Ventura County Official Court Reporters,1
-3 Endocrinologists,1
-3 Geology Professionals,1
-3 Licensed Vocational Nurses,1
-36 Heating and Air Conditioning Contractors,1
-4 Home Inspection Companies,1
-4 Pathologists,1
-40 Affiliates of Dolly Parton's Imagination,1
-40 Plumbing Contractors,1
-41 Clients of Joe A. Gonsalves & Son,1
-45 Amusement Machine Operators and Distributors,1
-5 Descendants of Chavez Ravine Residents,1
-5 Licensed Clinical Social Workers,1
-50 California Bicycle Clubs and Advocacy Groups,1
-6 California Latin-x Academics and Scholars,1
-63 California Farmers,1
-64 Bars and Taverns,1
-66 Local Elected Officials From Around California,1
-7 Accounting Professionals,1
-7 R.N.s,1
-74 Animal Welfare Organizations,1
-"8 Administrators, University of LaVerne",1
-85 Naturopathic Doctors,1
-88 Registered Dieticians,1
-9 Former Members of the Marin County Grand Jury,1
-"Anne Spiegel, D.D.S",1
-"Anthony Molina, M.D",1
-"Arnold Leff, M.D",1
-"Buckley, Thomas M., Esq",1
-Candace Marie Greco R.N,1
-"Cecil H. Bullard, MD, FACP",1
-"Duane E. Spencer, D.D.S",1
-"Ena Valikov, DVM",1
-"Forrest J. Stowells, III, D.D.S",1
-"Garry M. Brown, Esq",1
-"Gary Farwell, Esq",1
-"Gary Lucks, Esq",1
-"Gary M. Cohen, Esq",1
-"George H. Koenig, M.D",1
-"H. Rex Greene, M.D",1
-"Howard L. Hoffenberg, Esq",1
-"Howard Strong, Esq",1
-"Iturriaga, Rodolfo H., Ph.D",1
-"James D. Woods, D.D.S",1
-"Jan D. Vandersloot, M.D",1
-"Joaquin Avila, Esq",1
-"John C. Wong, M.D",1
-"Jon Cooper, Esq",1
-"Jonathan Freudman, MD",1
-Jose R. Torres DDS,1
-"Joseph E. Eiswert, D.M.D",1
-"Karthyn M. Otto, Esq",1
-"Keith Quirolo, M.D",1
-"Kimberly C. Brouwer, PhD",1
-"Linda C. Cork, D.V.M., Ph.D",1
-"Lisa Kaas Boyle, Esq",1
-"Lynne Yates-Carter, Esq",1
-"Marc Del Piero, Esq",1
-"Marcus Conant, M.D",1
-Marian E. Washburn,1
-"Mariposa McCall, MD",1
-"Martha Rogers, Ph.D",1
-"Mary Beth Kitchens, BSN, PHN, RN",1
-"Mary Pat Toups, Esq",1
-"McGowan, Jack B., Esq",1
-"Michael A. Car, Ph.D",1
-"Michael D. Maurier, Ph.D",1
-Miguel A. Pulido,1
-"N. Scott Grant, Esq",1
-"Nancy Donkin Young, Ph.D",1
-"Philip McIlnay, Ph.D",1
-"Phillip Dreisbach, M.D",1
-"Richard Deslauriers, M.D",1
-"Robert A. Pool, Esq",1
-"Sarah-Jeanne Royer, Phd",1
-"Steven K. Hazen, Esq",1
-"Steven Sultan, Ph.D",1
-"Steven W. Murray, Esq",1
-"T.E. Houston, Ph.D",1
-"Terry E. Crow, Esq",1
-"Viet Lam, MD",1
-"William B. Grant, Ph.D",1
-"Zoe-Anne Fitzhugh, RN",1
-"Howard Berman, Congressman",1
-"Jerry M. Patterson, United States Congressman, Retired",1
-"Member of Congress, Alan Lowenthal",1
-"Member of Congress, Jared Huffman",1
-"Member of Congress, Mike Levin",1
-"Member of Congress, Ted W. Lieu",1
-"Mike Eng, Retired Assemblyman",1
-Office of Congressman Lou Correa,1
-Office of Congressman Lou Correa (CA-46),1
-"Patrick J. Kennedy, Member of Congress, Retired",1
-"Susan Bonilla, Assemblywoman, Eleventh Assembly District",1
-U.S. Congressmember Tony Cárdenas,1
-"U.S. House of Representatives, Member of Congress, Alan Lowenthal",1
-"U.S. House of Representatives, Member of Congress, Jared Huffman",1
-"U.S. House of Representatives, Member of Congress, John Garamendi",1
-"U.S. House of Representatives, Member of Congress, Mark DeSaulnier",1
-"U.S. House of Representatives, Member of Congress, Michael Honda",1
-"U.S. House of Representatives, Member of Congress, Susan A. Davis",1
-"U.S. House of Representatives, Member of Congress, Ted Lieu",1
-United States Congressmember Mark Takano,1
-"County Grand Jury, Past Members (11)",1
-"Marine County Grand Jury, Past Members (11)",1
-Felice Urban,1
-Fred and Andrea,1
-Fresno County Supervisor Borgeas,1
-Frank Parra,1
-Fred Keeley,1
-Frederick C. Hoey,1
-Frederick O. Bott,1
-"Francesca Segre, Trustee, Menlo Park City School District",1
-Frank & Lucy Shivak,1
-Frances Roth,1
-"Frank. R. Mecham, Supervisor, San Luis Obispo County",1
-"Fors, M.S.W., L.C.S.W",1
-Five MDs,1
-"Fenley, District 5",1
-"Fernandes, San Jose",1
-"Field, Los Angeles Community College Board of Trustees",1
-"Fightmaster, Commissioner, Sonoma County Superior Court",1
-"Forest Bazat, PharmD, Assistant Clinical Professor, School of Pharmacy",1
-Fresno County Supervisor Mendes,1
-"Felipe Hernandez, District 4, Santa Cruz County Board of Supervisors",1
-"Felipe Hernandez, Council Member, District One",1
-"Fred Keeley, Former Member of the Assembly",1
-Family of Tyler Scott Rushing,1
-Frank Scialdone,1
-Fred Hirsch,1
-Francisco Garcia,1
-Frank A. Duckworth,1
-Fremont Al Morgan,1
-Family of Jason Alderman,1
-"Garry Bredefeld, Fresno City Council",1
-"Garry Bredefeld, Fresno City Council Member",1
-Guadulupe Perez,1
-Gail K Lightfoot,1
-Garilee Cave,1
-Garry Lion,1
-Gary Reichard,1
-Gary Seals,1
-Greg Keezer,1
-George M. Marcus,1
-Gladys Perry,1
-Gladys Rodriguez,1
-Gloria Tristani,1
-Gavin Scott,1
-Gwyneth L. Brown,1
-Guy E. Eisenbrey,1
-"Garrett Broad, Los Angeles",1
-Gregory E. Koch (Anaheim CA),1
-"Garland Petty, FV Miss Jessie",1
-Gloria Pantoja,1
-Gloria Plasencia,1
-Gloria Soto,1
-Gordon E. Pitter,1
-George H. Cullins,1
-George White,1
-George Mannon,1
-Gary L. Kirkland,1
-Gary Lendennie,1
-Gary R. Holzhausen,1
-Gary M. Fiegener,1
-Gerard Ange,1
-"Gerard M. Nieblas, S.E",1
-Gerry Gras,1
-Glenn Vice,1
-Gregory Fitzgerald,1
-Gregory Wonderwheel,1
-Grover Trask,1
-Gerald L. Hobrecht,1
-Gerald R. Harper,1
-Geraldine Edwards,1
-Georgia Travis,1
-"Gary Gardner, Council Member",1
-"Gary Gardner, Councilman, Desert Hot Springs",1
-"Gary Kendrick, City Council",1
-"Grace Vallejo, Council Member",1
-Greg Cox,1
-"George Runner, 2nd District, State Board of Equalization",1
-"Gayle Bishop, Contra Costa County Supervisor",1
-Harvard School of Biology Professor Emerita Ruth,1
-Harvard School of Biology Professor Emerita Ruth Hubbard,1
-"Honorable Bill Leonard, Member, State Board of Equalization",1
-Hale Andrew Antico,1
-Harold & Lucille Jones,1
-Harold Bradford,1
-Harry Sigman,1
-Heinz Naef,1
-"Harold Nachlin, San Diego",1
-Howard Spellman,1
-"Hugo Soto-Martinez, Councilmember",1
-"Honorable Fiona Ma, Board of Equalization, District 3",1
-"Honorable Wally Leimgruber, Member, Board of Supervisors, Imperial County",1
-"Hon. Ann Klinger, Board of Supervisors, Merced County",1
-"Honorable Mike Ennis, Tulare County Board of Supervisors, District Five",1
-"Kent Williams, Pastor, Wells Road Baptist Church",1
-"Kent Williams, Pastor, Wells Road Baptist Church, Ventura",1
-"Kevin Beiser, Board Member District B, San Diego Unified School District",1
-"Kevin Beiser, VP San Diego Unified School District",1
-"Kevin McCarty, Councilmember, District 6",1
-"Kevin McCarty, Sacramento City Councilmember",1
-Kevin Mcdonnell - Petaluma City Councilmember,1
-"Kevin McKeown, Council Member, Santa Monica",1
-Kevin M. Chun,1
-Kevin Phillips,1
-"Kenneth W. Fors, M.S.W., L.C.S.W",1
-Kim Johnson,1
-Kim Lachance,1
-Kurt Perry,1
-Kurt Ribak,1
-Kern County Tilo Cortez,1
-"Kopp, Judge of the Superior Court of San Mateo",1
-"Laura Chick Councilmember, Third District, Los Angeles",1
-"Lynette McElhaney, Oakland City",1
-Lancaster Burns Construction Inc. Lawrence W,1
-Larry J. Shaw,1
-"Lake Forest Community Association, General Manager",1
-"Larry A. Saltzman, M.D. Family Physician, Sacramento",1
-Latino Times/former Chair,1
-LeRoy Anderson,1
-Leaders of Tomorrow Board Members,1
-"Laura Chick Council-member, Third District, Los",1
-Linda and Lonnie Wells,1
-"Los Angeles Unified School District Board Member District 3, Scott M. Schmerelson",1
-"Los Angeles Unified School District, Board Member, Bennett Kayser",1
-Los Angeles County Board of Supervisor Yaroslavsky,1
-Los Angeles County Supervisors Yvonne B. Burke and Zev Yaroslavsky,1
-"Los Angeles County Assessor Jeffrey Prang, California Assessors' Association",1
-"Los Angeles County Assessor Jeffrey Prang, Equality California",1
-"Los Angeles City Council Member, Mitchell Englander",1
-"Los Angeles City Council Member, Ret., Nick Pacheco",1
-Los Angeles City Council President Nury Martinez,1
-"Los Angeles County Office of Education Superintendent of Schools, Arturo",1
-Los Angeles County Larry J. Todd,1
-"Lindsay Unified School District, Superintendent",1
-Livermore Valley Joint Unified School District Superintendent,1
-Los Angeles Unified School District Superintendent John E. Deasy,1
-"Los Angeles Unified School District Superintendent, Michelle King",1
-Los Angeles City Attorney and the California,1
-Anderson Cemetery District Manager Eric Kapaska,1
-"Manuel Ontal, Councilman for the City of Carson",1
-"Marilyn Grinsdale, Citrus Community College Protocol and Government Relations Officer",1
-Monterey County Supervisors Edith Johnsen and Dave Potter,1
-"Michael G. Colantuono, Neufeld, Jaffe, Levin & Colantuono, LLP",1
-Monica Burcelis,1
-Marta Lindsey,1
-Mariposa County Assessor-Recorder Gary Estep,1
-Monica Garcia,1
-Michael Miller (attorney -- Sea Ranch case),1
-Mendocino County Superior Court Judge Nelson,1
-Mary Anne Pettyjohn,1
-"Michael L. Warren, Fire Chief",1
-"Major General Eres, Adjutant General, California Military",1
-Monterey County Supervisors Edith Johnsen,1
-Madera County Board of Supervisor Al Ginsburg,1
-Mendocino County Treasurer-Tax Collector Shari Schapmire,1
-Michael McDermott (Men's Civil Rights),1
-Monrovia Unified School District Vice President,1
-Mary Anne Rand,1
-"Margie Chen, Medical Doctor",1
-"Marvin Braud, Los Angeles City Councilmember",1
-"Michael L. Threlkeld, Fire Chief",1
-"Michael W. Rabow, M.D., Assistant Clinical Professor, UCSF",1
-Montclair Hospital Medical Center Chief Nursing Officer,1
-"Mark E. Farrell, Mayor",1
-"Monterey County Superintendent of Schools, Dr. William Barr",1
-Marianne Elliston,1
-Mountain View Whisman School District Trustee Charles Difazio,1
-Marysville Police Department Capt. Richard J. Doscher,1
-"Monica Montgomery Steppe, Supervisor, San Diego County Fourth District",1
-"Member, State Board of Equalization, District 1",1
-Moss Landing Harbor District's Board of Harbor Commissioners,1
-Michael R. Capizzi,1
-"Marti Emerald, 7th Dist",1
-"Monterey County Board of Supervisors, Edith Johnsen and Dave",1
-"Michael W. Rabow, M.D., Associate Professor at UCSF School",1
-"Monterey County Board of Supervisors, District 4",1
-"Mark Dinan - Councilmember, East Palo Alto",1
-"Michael B. Day, et al",1
-Mark Coats,1
-Major General Lehnert-Commanding General of Marine Corps Installation West,1
-"Mark Lee, Manatt, Phelps & Phillips",1
-"Marshal Robert Gate, Solano County",1
-"Monica Garcia, Board Member, District 2, Los Angeles Unified School",1
-"Michael D. Antonovich, Supervisor, Los Angeles County Board of Supervisors",1
-"Montclair Fire Department, Division Chief",1
-"Moorpark College President, Julius Sokenu, Ed.D",1
-Monica Montgomery Steppe - San Diego City Councilmember,1
-"Marian Wolfe, Housing Advisory Commissioner",1
-Maxwell and Virginia Doan,1
-"Marin County Assessor, Joan C. Thayer",1
-"Mary Lou Andrade, Treasurer-Tax Collector",1
-"Michael A. Houlemard, Jr- Executive Officer of the Fort Ord Reuse Authority",1
-Mt. Pleasant School District John R. Porter,1
-"Marin County Superintendent of Schools, Mary Jane Burke",1
-"Member, Fourth District, State Board of Equalization",1
-"Marina Martinez, Program Director, Mi Casita Parent Community",1
-Michael Mccorriston - Vice Mayor of Dublin,1
-"Marian Bergeson, Former State Senator, AARP",1
-Madera County Clerk-Recorder and Registrar of Voters Rebecca Martinez,1
-"Monterey County Board of Supervisors, District 5 Supervisor, Dave Potter",1
-"Marilyn Grinsdale, Protocol & Government Relations Officer for the Citrus Community College District",1
-BOE Member Antonio Vazquez,1
-BOE Member Michelle Steele,1
-"BOE Member Michelle Steele, Howard Jarvis Taxpayers' Association",1
-Berkeley City Auditor Ann-Marie Hogan,1
-Bernard S,1
-Bernard T. Delaney,1
-"Block Captain, Bixby Way's Neighborhood Watch",1
-Board President Ethan Bertrand,1
-"Board President Ethan Bertrand, Isla Vista Community Services District",1
-Board of Equalization Member Ernie,1
-"Board of Equalization Member, District 2",1
-"Board of Equalization Member, District 3",1
-"Board of Equalization Vice Chair, Sally Lieber",1
-Bob Blumenfield - City of Los Angeles Councilmember,1
-Boston Scientific Neuromodulation Manager,1
-Bruce Delgado - Mayor of Marina,1
-"Bruce Delgado, May",1
-By: JAN OWEN 445-6306,1
-"Nury Martinez, Los Angeles City Councilwoman",1
-"Nathan Fletcher, Supervisor, 4th District County of San Diego",1
-"National High School Journalism Teacher of the Year, Paul Kandell",1
-"Nate Miley, Supervisor, District 4",1
-Napa County Board of Supervisors Delaine Eastin,1
-"Nury Martinez, Los Angeles School Board Member, District 6",1
-"Nury Martinez, Member, Board of Education - City of Los Angeles, District 6",1
-Nevada County Clerk Kathleen Smith,1
-"Nury Martinez, Los Angeles City Council",1
-"Nate Miley, Supervisor, Alameda County",1
-Nicola Duesberg,1
-National High School,1
-"Calaveras County Clerk-Recorder, Rebecca Turner",1
-City Attorney of San Francisco David Chiu,1
-Orange County Municipal Court Presiding Judge Wendy S,1
-Oakland City Council District 3,1
-"Office of Los Angeles Unified School District Board, Nick Melvoin",1
-"Orange County Supervisor, Third District",1
-"Delaine Eastin, State Superintendent of Public Instructions",1
-"Delaine Eastin, State Superintendent of Schools",1
-Diego County Sheriff William D. Gore,1
-"Rita Walters, Los Angeles City Council",1
-"Robert M. Weygant, Placer County",1
-Patrick McCormick,1
-"Phil Ting, Assessor - Recorder of San Francisco",1
-"Pat Ziegler, RN, MPA, CPHQ, FNHQ, Sherman Oaks Hospital",1
-"Presiding Judge Charles W. McCoy, Jr., Los Angeles County Superior Court",1
-Professor Alpert at the University of South Carolina,1
-Pamela Foust,1
-"Peter Foy, Ventura County Supervisor",1
-"Peter G. Keane, Attorney, Office of the San Francisco Public Defender",1
-"Patrick & Geraldine Davis, FV Susan T",1
-"Paul, Council of L.A",1
-"Paul Long, Board Member, Western Placer Unified School District",1
-"Paula Tavrow Director, Bixby Program in Population and Reproductive Health, Fielding School of Public Health, UCLA",1
-"Paul, Council of Los Angeles",1
-Patricia,1
-"Pedro Peninsula, Santa Clarita, Santa Fe Springs, Santa Maria",1
-Perry Benson,1
-"Pedro Peninsula, Santa Clarita, Santa Fe Springs, Santa",1
-"Pat Ziegler, RN,MPA,CPHQ,FNHQ, Sherman Oaks Hospital and Health Center",1
-"Public Library Board of Trustees, Gary Knight, President",1
-"Paula Tavrow, PhD, Director, Bixby Program in Population and Reproductive",1
-Pamela,1
-Peter,1
-SENATE RULES COMMITTEE: Sandy Kenyon/(916) 323-8897,1
-San Bernardino City Councilmen Jerry Devlin and David Oberhelman,1
-Steve Young - City of Benicia Mayor,1
-Steve Young - Mayor of Benicia,1
-"Terry Taplin, Council Member",1
-"The Honorable Betty Yee, First District Member, State Board of Equalization",1
-"Terry Withrow, District 3 Stanislaus County Supervisor",1
-"The Honorable Betty Yee, State Board of Equalization Member",1
-"The Honorable Brad Sherman, Member, State Board of Equalization",1
-"Terry Taplin, City Council Member",1
-"Terry Lamphier, Nevada County Supervisor, 3rd District",1
-"Valerie Stallings, San Diego City Council",1
-"Valerie Stallings, San Diego City Council Member",1
-"Edmund G. Brown Jr, California Attorney General",1
 "COUNCIL MEMBER JON WIZARD, CITY OF SEASIDE",0
 "ERIC GARCETTI, MAYOR OF LOS ANGELES",0
 "ERIC GARCETTI, MAYOR, CITY OF LOS ANGELES",0
