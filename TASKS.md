@@ -35,7 +35,6 @@ Only the RA at the top of this list has write access to project data files (cros
 
 
 
-
 ## Task List
 
 | # | Task | Status | Assignee | Notes |
@@ -658,7 +657,7 @@ Only the RA at the top of this list has write access to project data files (cros
 | 607 | **Review nested canonicals (depth 3), batch 17 of 30.** Same as 591. Canonicals from "Municipal Courts of South Bay" through "National Association for the Uniformed Services, Monterey Bay". Run cleaning/dedup/stats pipeline. | Done | RA-Beta | 15 fixes across 18 canonicals: flattened 14 alt-under-alt chains; NAIOP fixed inverted hierarchy. NAMI/NAIFA/NARAL reviewed OK. |
 | 608 | **Review nested canonicals (depth 3), batch 18 of 30.** Same as 591. Canonicals from "National Association of Counsel for Children, Los Angeles" through "Nossaman, Guthner, Knox & Elliott, LLP (a law firm)". Run cleaning/dedup/stats pipeline. | Done | RA-Beta | Flattened 22 alt-under-alt chains across 33 canonicals. 11 others reviewed OK. |
 | 609 | **Review nested canonicals (depth 3), batch 19 of 30.** Same as 591. Canonicals from "Novartis Corporation (makers of Gleevec and Femara)" through "PACIFIC COAST QUARTER HORSE RACING ASSOCIATION". Run cleaning/dedup/stats pipeline. | Done | RA-Beta | Flattened 21 alt-under-alt chains across 27 canonicals. 6 others reviewed OK. |
-| 610 | **Review nested canonicals (depth 3), batch 20 of 30.** Same as 591. Canonicals from "PACIFIC INSTITUTE FOR COMMUNITY ORGANIZATION CALIFORNIA" through "Pacific Genesis Group, Inc., Sacramento County". Run cleaning/dedup/stats pipeline. | Not Started | | |
+| 610 | **Review nested canonicals (depth 3), batch 20 of 30.** Same as 591. Canonicals from "PACIFIC INSTITUTE FOR COMMUNITY ORGANIZATION CALIFORNIA" through "Pacific Genesis Group, Inc., Sacramento County". Run cleaning/dedup/stats pipeline. | Done | RA-Beta | Flattened 4 alt-under-alt chains across 4 canonicals. |
 | 611 | **Review nested canonicals (depth 3), batch 21 of 30.** Same as 591. Canonicals from "Pacific Health Alliance" through "Pan Valley Institute - AFSC (Fresno, CA)". Run cleaning/dedup/stats pipeline. | Not Started | | |
 | 612 | **Review nested canonicals (depth 3), batch 22 of 30.** Same as 591. Canonicals from "Panda's Domestic Service Agency" through "Pat Brown Public Policy Institute". Run cleaning/dedup/stats pipeline. | Not Started | | |
 | 613 | **Review nested canonicals (depth 3), batch 23 of 30.** Same as 591. Canonicals from "Patagonia Surf" through "People's Parity Project, UCLA Law". Run cleaning/dedup/stats pipeline. | Not Started | | |
