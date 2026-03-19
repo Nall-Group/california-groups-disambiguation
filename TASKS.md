@@ -5,12 +5,11 @@
 To edit this file (mark tasks, update queues, add tasks), join this queue first. Only the name at the top may edit.
 
 
-
 ## Data Write Queue
 
 Only the RA at the top of this list has write access to project data files (crosswalk JSON, CSVs). Add yourself to the bottom when you're ready to write. Remove yourself when done.
 
-RA-Alpha
+
 
 
 
@@ -653,10 +652,10 @@ RA-Alpha
 | 601 | **Review nested canonicals (depth 3), batch 11 of 30.** Same as 591. Canonicals from "MARINE CORPS LEAGUE" through "Manteca Unified School District, Health Services Department". Run cleaning/dedup/stats pipeline. | Done | RA-Beta | 17 fixes across 21 canonicals: flattened 10 alt-under-alt chains; moved misplaced chapters from under alts (Marin Community Clinics, Office of Ed, Public Defender); Marine Corps League moved 4 flat alts under correct chapters. |
 | 602 | **Review nested canonicals (depth 3), batch 12 of 30.** Same as 591. Canonicals from "Manufacturers Association of Calif" through "Masonry Concepts Inc". Run cleaning/dedup/stats pipeline. | Done | RA-Alpha | Reviewed 12 canonicals. Flattened 6 alt-under-alt chains. Fixed Marin County Advisory Board truncated chapter→alt spelling. Consolidated 2 Marriott canonicals. |
 | 603 | **Review nested canonicals (depth 3), batch 13 of 30.** Same as 591. Canonicals from "Master Builders Solutions - No. California" through "Mental Health Directors Association". Run cleaning/dedup/stats pipeline. | Done | RA-Beta | 30 fixes across 30 canonicals: flattened 21 alt-under-alt chains; moved misplaced chapters from under alts (McDonald's, Meals on Wheels, Mechanical Contractors, Mental Health Assoc/Directors); Media Guild merged dup Local 39213 chapters. |
-| 604 | **Review nested canonicals (depth 3), batch 14 of 30.** Same as 591. Canonicals from "Mental Health Systems, Inc., Pegasus East" through "Million Women Mentors, CA". Run cleaning/dedup/stats pipeline. | In Progress | RA-Alpha | |
+| 604 | **Review nested canonicals (depth 3), batch 14 of 30.** Same as 591. Canonicals from "Mental Health Systems, Inc., Pegasus East" through "Million Women Mentors, CA". Run cleaning/dedup/stats pipeline. | Done | RA-Alpha | Reviewed 28 canonicals. Flattened 22 alt-under-alt chains. Fixed 3 inverted hierarchies (MTC, Million Mom March, Million Women Mentors). |
 | 605 | **Review nested canonicals (depth 3), batch 15 of 30.** Same as 591. Canonicals from "Mills Legal Clinic, Stanford University Law School, Youth & Education Law" through "Monterey/Santa Cruz Counties Building and Construction Trades Council". Run cleaning/dedup/stats pipeline. | Done | RA-Beta | Flattened 26 over-nested alt spelling chains across 28 canonicals. 2 others (Mission Viejo, Moms Demand Action) reviewed OK. |
 | 606 | **Review nested canonicals (depth 3), batch 16 of 30.** Same as 591. Canonicals from "Montgomery Watson Harza" through "Multipurpose Senior Services Program Site Association, Inc. (MSA)". Run cleaning/dedup/stats pipeline. | Done | RA-Beta | Flattened 26 over-nested alt spelling chains across 28 canonicals. 2 others reviewed OK. |
-| 607 | **Review nested canonicals (depth 3), batch 17 of 30.** Same as 591. Canonicals from "Municipal Courts of South Bay" through "National Association for the Uniformed Services, Monterey Bay". Run cleaning/dedup/stats pipeline. | Not Started | | |
+| 607 | **Review nested canonicals (depth 3), batch 17 of 30.** Same as 591. Canonicals from "Municipal Courts of South Bay" through "National Association for the Uniformed Services, Monterey Bay". Run cleaning/dedup/stats pipeline. | In Progress | RA-Beta | |
 | 608 | **Review nested canonicals (depth 3), batch 18 of 30.** Same as 591. Canonicals from "National Association of Counsel for Children, Los Angeles" through "Nossaman, Guthner, Knox & Elliott, LLP (a law firm)". Run cleaning/dedup/stats pipeline. | Not Started | | |
 | 609 | **Review nested canonicals (depth 3), batch 19 of 30.** Same as 591. Canonicals from "Novartis Corporation (makers of Gleevec and Femara)" through "PACIFIC COAST QUARTER HORSE RACING ASSOCIATION". Run cleaning/dedup/stats pipeline. | Not Started | | |
 | 610 | **Review nested canonicals (depth 3), batch 20 of 30.** Same as 591. Canonicals from "PACIFIC INSTITUTE FOR COMMUNITY ORGANIZATION CALIFORNIA" through "Pacific Genesis Group, Inc., Sacramento County". Run cleaning/dedup/stats pipeline. | Not Started | | |
