@@ -36,6 +36,7 @@ Only the RA at the top of this list has write access to project data files (cros
 
 
 
+
 ## Task List
 
 | # | Task | Status | Assignee | Notes |
@@ -648,8 +649,8 @@ Only the RA at the top of this list has write access to project data files (cros
 | 597 | **Review nested canonicals (depth 3), batch 7 of 30.** Same as 591. Canonicals from "Hewlett-Packard" through "Korean American National Museum". Run cleaning/dedup/stats pipeline. | Done | RA-Beta | 23 fixes across 27 canonicals: flattened 13 alt-under-alt chains; IATSE merged 101 duplicate local chapters across 38 locals; SMART merged 15 dup CA State Legislative Board chapters + 3 Western States Council + Local 104/105; JVP merged dup SD chapters; Judicial Council + Korean Am Grocers moved CA alts under chapters. |
 | 598 | **Review nested canonicals (depth 3), batch 8 of 30.** Same as 591. Canonicals from "Koreisha Senior Care and Advisory" through "Labor Occupational Health Program". Run cleaning/dedup/stats pipeline. | Done | RA-Alpha | Reviewed 10 canonicals. Flattened 9 alt-under-alt chains (Koreisha, Kraft, Krimson, Kumeyaay, La Clínica, La Jolla Band, LA Raza Community, La Raza Law Student, La Raza Roundtable). Labor Occupational Health correct. |
 | 599 | **Review nested canonicals (depth 3), batch 9 of 30.** Same as 591. Canonicals from "Labor/Community Strategy Center's (LCSC) Community Rights Campaign" through "Legal Services for Seniors, Pacific Grove". Run cleaning/dedup/stats pipeline. | Done | RA-Beta | 32 fixes across 34 canonicals: flattened 21 alt-under-alt chains; LIUNA moved 13 locals from under alt to top; Law Section + Legal Assistance moved chapters from under alts; League of CA Cities merged 4 dup chapter pairs + moved division alts; League of Women Voters merged dup CA + moved 4 CA alts. |
-| 600 | **Review nested canonicals (depth 3), batch 10 of 30.** Same as 591. Canonicals from "Leveleg, Precision Solar Mounting Systems, San Diego" through "MARIN AGRICULTURAL LAND TRUST MCCOLLUM ASSOCIATES". Run cleaning/dedup/stats pipeline. | In Progress | RA-Alpha | |
-| 601 | **Review nested canonicals (depth 3), batch 11 of 30.** Same as 591. Canonicals from "MARINE CORPS LEAGUE" through "Manteca Unified School District, Health Services Department". Run cleaning/dedup/stats pipeline. | Not Started | | |
+| 600 | **Review nested canonicals (depth 3), batch 10 of 30.** Same as 591. Canonicals from "Leveleg, Precision Solar Mounting Systems, San Diego" through "MARIN AGRICULTURAL LAND TRUST MCCOLLUM ASSOCIATES". Run cleaning/dedup/stats pipeline. | Done | RA-Alpha | Reviewed 43 canonicals. Flattened 30 alt-under-alt chains. Fixed 5 inverted hierarchies (Macy's, Madera USD, Manatt, Manteca USD, March of Dimes). Merged duplicate Make-Up Artists Local 706 chapters. |
+| 601 | **Review nested canonicals (depth 3), batch 11 of 30.** Same as 591. Canonicals from "MARINE CORPS LEAGUE" through "Manteca Unified School District, Health Services Department". Run cleaning/dedup/stats pipeline. | In Progress | RA-Beta | |
 | 602 | **Review nested canonicals (depth 3), batch 12 of 30.** Same as 591. Canonicals from "Manufacturers Association of Calif" through "Masonry Concepts Inc". Run cleaning/dedup/stats pipeline. | Not Started | | |
 | 603 | **Review nested canonicals (depth 3), batch 13 of 30.** Same as 591. Canonicals from "Master Builders Solutions - No. California" through "Mental Health Directors Association". Run cleaning/dedup/stats pipeline. | Not Started | | |
 | 604 | **Review nested canonicals (depth 3), batch 14 of 30.** Same as 591. Canonicals from "Mental Health Systems, Inc., Pegasus East" through "Million Women Mentors, CA". Run cleaning/dedup/stats pipeline. | Not Started | | |
