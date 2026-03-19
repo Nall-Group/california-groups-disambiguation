@@ -4,7 +4,6 @@
 
 To edit this file (mark tasks, update queues, add tasks), join this queue first. Only the name at the top may edit.
 
-Management Assistant
 
 ## Data Write Queue
 
@@ -614,3 +613,4 @@ Only the RA at the top of this list has write access to project data files (cros
 | 574 | **Categorize "not in crosswalk" entries: lines 211-315 (~100 entries).** Same workflow as Task 572. Run cleaning/dedup/stats pipeline. | Not Started | | |
 | 575 | **Categorize "not in crosswalk" entries: lines 316-420 (~100 entries).** Same workflow as Task 572. Run cleaning/dedup/stats pipeline. | Not Started | | |
 | 576 | **Categorize "not in crosswalk" entries: lines 421-525 (~100 entries).** Same workflow as Task 572. Run cleaning/dedup/stats pipeline. | Not Started | | |
+| 577 | **Fix flat children that should be nested under chapters.** Scan the crosswalk for canonicals that have both chapters AND flat alt spellings/chapters that clearly belong under one of those chapters instead of directly under the canonical. **Example:** "100 Black Men" has a chapter "100 Black Men of Sacramento" but also has "100 Black Men of Sacramento, Incorporated" as a flat alt spelling — that should be an alt spelling OF the Sacramento chapter, not of the national canonical. Similarly "100 Black Men of the Bay Area" is flat but should be under the "100 BLACK MEN OF THE BAY AREA, INC" chapter. And "100 Black Men -Sacramento Chapter" should be merged into the Sacramento chapter. **Workflow:** Write a Python script to find canonicals where a flat child's name contains the name of a sibling chapter (e.g. flat child contains "Sacramento" and there's a sibling chapter with "Sacramento" in its name). Output candidates for review. For each, manually verify and move the flat child under the correct chapter. Run cleaning/dedup/stats pipeline. | Not Started | | |
