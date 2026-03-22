@@ -9,6 +9,7 @@ To edit this file (mark tasks, update queues, add tasks), join this queue first.
 
 Only the RA at the top of this list has write access to project data files (crosswalk JSON, CSVs). Add yourself to the bottom when you're ready to write. Remove yourself when done.
 
+RA-Alpha
 
 
 
@@ -712,8 +713,8 @@ Only the RA at the top of this list has write access to project data files (cros
 | 648 | **Acronym-only canonical review: C (second half CI-CZ).** Same as 646. Manually examine remaining C acronyms (~118 entries). Run cleaning/dedup/stats pipeline. | In Progress | RA-Alpha | |
 | 649 | **Acronym-only canonical review: D, E, F.** Same as 646. (~90 entries). Run cleaning/dedup/stats pipeline. | Done | RA-Beta | Reviewed all 80 entries (21 D, 36 E, 23 F). Merged 13 acronyms into full-name canonicals (DADP, DJI+DJI Technologies, DSH, DTSC, EARTHJUSTICE, EBRPB, ECESF, ECOLA, EQCA, ENVIPCO, EXCEED, FRAMAX). Remaining 67 left as own canonicals. |
 | 650 | **Acronym-only canonical review: G, H, I.** Same as 646. (~95 entries). Run cleaning/dedup/stats pipeline. | Done | RA-Beta | Reviewed all 80 entries (17 G, 29 H, 34 I). Merged 14 acronyms: GREENLINING, HCEB, HFIAW, HMRI, HNTB, HOPICS, IAMAW, IBEW 1245, IBEW 569, IHSS, ITUP+variant, IUEC, IUPAT. Remaining 66 left as own canonicals. |
-| 651 | **Acronym-only canonical review: J, K, L.** Same as 646. (~89 entries). Run cleaning/dedup/stats pipeline. | Not Started | | |
-| 652 | **Acronym-only canonical review: M, N, O.** Same as 646. (~75 entries). Run cleaning/dedup/stats pipeline. | Not Started | | |
+| 651 | **Acronym-only canonical review: J, K, L.** Same as 646. (~89 entries). Run cleaning/dedup/stats pipeline. | Done | RA-Beta | Reviewed all 72 entries (16 J, 24 K, 32 L). Merged 14: JANEUNCHAINED, JOLT, KERNTAX, KMEX-TV, KMIR 6, LA RICS JPA, LACES, LARTA, LATHROP, LOCSD, LIVEFREE, LUINA, LISC LA. Remaining 58 left as own canonicals. |
+| 652 | **Acronym-only canonical review: M, N, O.** Same as 646. (~75 entries). Run cleaning/dedup/stats pipeline. | In Progress | RA-Beta | |
 | 653 | **Acronym-only canonical review: P, Q, R.** Same as 646. (~64 entries). Run cleaning/dedup/stats pipeline. | Not Started | | |
 | 654 | **Acronym-only canonical review: S.** Same as 646. (~94 entries). Run cleaning/dedup/stats pipeline. | Not Started | | |
 | 655 | **Acronym-only canonical review: T, U, V, W, X, Y, Z.** Same as 646. (~103 entries). Run cleaning/dedup/stats pipeline. | Not Started | | |
