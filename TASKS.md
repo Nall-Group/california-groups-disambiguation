@@ -48,6 +48,7 @@ Only the RA at the top of this list has write access to project data files (cros
 
 
 
+
 ## Task List
 
 | # | Task | Status | Assignee | Notes |
@@ -706,7 +707,7 @@ Only the RA at the top of this list has write access to project data files (cros
 | 644 | Consolidate "AADAP" (and alt spelling "AADAP, Inc") into the existing "Asian American Drug Abuse Program" canonical. Remove standalone "AADAP" canonical and add as alt spelling. Run cleaning/dedup/stats pipeline. | Done | RA-Alpha | Added "AADAP" and "AADAP, Inc" as alt spellings of ASIAN AMERICAN DRUG ABUSE PROGRAM. |
 | 645 | **Acronym-only canonical review: Write helper script.** Write a Python script that finds all canonicals that are acronym-only (3+ consecutive capital letters, total name ≤ 15 characters, all uppercase). Output the list grouped by first letter. ~949 entries expected. **Do NOT delete the script** — subsequent tasks need it. Commit the script + output only. | Done | RA-Alpha | Found 802 acronym-only canonicals. Script at scripts/find_acronym_canonicals.py, output at acronym_canonicals.txt. |
 | 646 | **Acronym-only canonical review: #, A.** Using the output from Task 645, manually examine EVERY acronym-only canonical starting with digits or A (~101 entries). For each one: (1) Web search to find what the acronym stands for. (2) Search the crosswalk for the full org name. (3) If the full name exists, make the acronym an alt spelling of that canonical. (4) If the full name doesn't exist, leave the acronym as its own canonical. **Do NOT skip any. Do NOT use scripts to decide. Personally look at each acronym, search it up, and check the crosswalk.** Run cleaning/dedup/stats pipeline. | Done | RA-Alpha | Reviewed all 93 entries (2 already removed by Task 642). Merged 24 acronyms into full-name canonicals. Moved AT&T IBM to conjoined CSV, ALF-CIO to partial. Remaining 67 left as own canonicals (companies, orgs with children, or no full name match). |
-| 647 | **Acronym-only canonical review: B, C (first half Ca-CH).** Same as 646. Manually examine every acronym for B and C through "CH" (~120 entries). Web search each, check crosswalk for full name. Run cleaning/dedup/stats pipeline. | In Progress | RA-Alpha | |
+| 647 | **Acronym-only canonical review: B, C (first half Ca-CH).** Same as 646. Manually examine every acronym for B and C through "CH" (~120 entries). Web search each, check crosswalk for full name. Run cleaning/dedup/stats pipeline. | Done | RA-Alpha | Reviewed all ~97 entries. Merged 13 acronyms into full-name canonicals. Remaining left as own canonicals (companies, orgs with children, city names, or no full name match). |
 | 648 | **Acronym-only canonical review: C (second half CI-CZ).** Same as 646. Manually examine remaining C acronyms (~118 entries). Run cleaning/dedup/stats pipeline. | Not Started | | |
 | 649 | **Acronym-only canonical review: D, E, F.** Same as 646. (~90 entries). Run cleaning/dedup/stats pipeline. | Not Started | | |
 | 650 | **Acronym-only canonical review: G, H, I.** Same as 646. (~95 entries). Run cleaning/dedup/stats pipeline. | Not Started | | |
