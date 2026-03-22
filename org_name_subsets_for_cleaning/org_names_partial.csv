@@ -3,6 +3,7 @@ CITY OF,1243
 WORKSAFE,775
 Union,718
 Council,663
+County,543
 District,459
 County of,393
 COUNTIES,351
@@ -166,6 +167,7 @@ Sheriff-Coroner,47
 Tri-valley City of Dublin,47
 Law Center,46
 Norco,46
+Concord,46
 Chief Probation,45
 Legislative Council,45
 Parent Teachers Association,45
@@ -197,6 +199,7 @@ Engine,39
 Menlo Park,39
 Prc,39
 Yuba,39
+Cupertino,39
 Council of California,38
 Lake,38
 School,38
@@ -232,6 +235,7 @@ Jr,31
 Lawyers,31
 Medicine,31
 Office of,31
+College,31
 Board of,30
 "Council, Inc",30
 MM,30
@@ -400,6 +404,7 @@ Welcoming Neighbors Home,17
 of Women,17
 two,17
 City of Inc,17
+Corona,17
 California Building,16
 California Council on Alcohol,16
 California National Organization for,16
@@ -801,6 +806,8 @@ j,8
 of California (PORAC),8
 of the San Francisco Bay Area,8
 City of LLC,8
+Cosmetic,8
+Cypress,8
 Accountability,7
 "Advocates, Inc",7
 Afghan Hound Club of California,7
@@ -1051,6 +1058,7 @@ of the Attorney General,6
 only,6
 or for bond,6
 this,6
+Cover,6
 1245 (Walnut Creek),5
 21st Century,5
 4.,5
@@ -1246,6 +1254,7 @@ of Santa Monica,5
 of Schools,5
 of Social Workers - California Chapter,5
 pic,5
+Courts,5
 AHS,4
 Academy,4
 Accountancy,4
@@ -1579,6 +1588,7 @@ of the 2019-20 Legislative Session,4
 of the City of Los Angeles,4
 of the United States,4
 pe,4
+Cornerstone,4
 29 AFL-CIO and CLC,3
 3,3
 3rd District,3
@@ -2124,6 +2134,7 @@ of the Children,3
 of the San Bernardino County Sheriff,3
 the Advancement of Colored People (NAACP),3
 California College,3
+The County,3
 26th District,2
 2nd District,2
 3492 (North Antelope),2
@@ -3396,6 +3407,9 @@ People's California,2
 "County, California",2
 CMDA,2
 CNHH,2
+The Commons,2
+The Cornerstone,2
+the Courts,2
 $30,1
 104 Individual Letters from Representatives of,1
 1065 (PEACE),1
@@ -7058,6 +7072,9 @@ California County,1
 COSM,1
 CODIS,1
 COSH,1
+Commons,1
+Crestview,1
+The College,1
 542,0
 "542, Local 572",0
 AFL-CIO Local 11,0
@@ -7146,20 +7163,3 @@ of the State Bar,0
 of the State Bar of California,0
 of the United States and Canada,0
 "of the United States and Canada, Local 78",0
-County,543
-Concord,46
-Cupertino,39
-College,31
-Corona,17
-Cosmetic,8
-Cypress,8
-Cover,6
-Courts,5
-Cornerstone,4
-The County,3
-The Commons,2
-The Cornerstone,2
-the Courts,2
-Commons,1
-Crestview,1
-The College,1
