@@ -1,9 +1,11 @@
 org_name,count
+CITY OF,1243
 WORKSAFE,775
 Union,718
 Council,663
 District,459
 County of,393
+COUNTIES,351
 Services,342
 Department,332
 Sacramento,331
@@ -312,6 +314,7 @@ Planned Parenthood Affiliates of,23
 West Covina,23
 Women's,23
 Work Equity,23
+"County, Inc",23
 California Conference of,22
 Co,22
 Coalition of,22
@@ -396,6 +399,7 @@ Obispo Counties,17
 Welcoming Neighbors Home,17
 of Women,17
 two,17
+City of Inc,17
 California Building,16
 California Council on Alcohol,16
 California National Organization for,16
@@ -475,6 +479,7 @@ also,14
 of California Seniors,14
 of Los Angeles County,14
 of bill,14
+"Counties, Inc",14
 Alliance of,13
 California Academy of,13
 California Association of Services for,13
@@ -795,6 +800,7 @@ ago,8
 j,8
 of California (PORAC),8
 of the San Francisco Bay Area,8
+City of LLC,8
 Accountability,7
 "Advocates, Inc",7
 Afghan Hound Club of California,7
@@ -2117,6 +2123,7 @@ of Veteran Service Agencies,3
 of the Children,3
 of the San Bernardino County Sheriff,3
 the Advancement of Colored People (NAACP),3
+California College,3
 26th District,2
 2nd District,2
 3492 (North Antelope),2
@@ -3386,6 +3393,9 @@ the Legion of,2
 the Paralyzed Veterans of,2
 "the Senate Health Committee. AB 75 (Frommer and Chan), with",2
 People's California,2
+"County, California",2
+CMDA,2
+CNHH,2
 $30,1
 104 Individual Letters from Representatives of,1
 1065 (PEACE),1
@@ -7039,6 +7049,15 @@ ALF-CIO,1
 Petroleum,1
 Petroleum Co,1
 Petroleum Company,1
+City of Company,1
+City of Incorporated,1
+City of LP,1
+Counties of California,1
+County of California,1
+California County,1
+COSM,1
+CODIS,1
+COSH,1
 542,0
 "542, Local 572",0
 AFL-CIO Local 11,0
