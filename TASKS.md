@@ -9,7 +9,7 @@ To edit this file (mark tasks, update queues, add tasks), join this queue first.
 
 Only the RA at the top of this list has write access to project data files (crosswalk JSON, CSVs). Add yourself to the bottom when you're ready to write. Remove yourself when done.
 
-
+RA-Alpha
 
 
 
@@ -658,7 +658,7 @@ Only the RA at the top of this list has write access to project data files (cros
 | 609 | **Review nested canonicals (depth 3), batch 19 of 30.** Same as 591. Canonicals from "Novartis Corporation (makers of Gleevec and Femara)" through "PACIFIC COAST QUARTER HORSE RACING ASSOCIATION". Run cleaning/dedup/stats pipeline. | Done | RA-Beta | Flattened 21 alt-under-alt chains across 27 canonicals. 6 others reviewed OK. |
 | 610 | **Review nested canonicals (depth 3), batch 20 of 30.** Same as 591. Canonicals from "PACIFIC INSTITUTE FOR COMMUNITY ORGANIZATION CALIFORNIA" through "Pacific Genesis Group, Inc., Sacramento County". Run cleaning/dedup/stats pipeline. | Done | RA-Beta | Flattened 4 alt-under-alt chains across 4 canonicals. |
 | 611 | **Review nested canonicals (depth 3), batch 21 of 30.** Same as 591. Canonicals from "Pacific Health Alliance" through "Pan Valley Institute - AFSC (Fresno, CA)". Run cleaning/dedup/stats pipeline. | Done | RA-Beta | Flattened 25 alt-under-alt chains across 25 canonicals. |
-| 612 | **Review nested canonicals (depth 3), batch 22 of 30.** Same as 591. Canonicals from "Panda's Domestic Service Agency" through "Pat Brown Public Policy Institute". Run cleaning/dedup/stats pipeline. | Not Started | | |
+| 612 | **Review nested canonicals (depth 3), batch 22 of 30.** Same as 591. Canonicals from "Panda's Domestic Service Agency" through "Pat Brown Public Policy Institute". Run cleaning/dedup/stats pipeline. | Done | RA-Beta | Flattened 24 alt-under-alt chains across 26 canonicals. 2 others reviewed OK. |
 | 613 | **Review nested canonicals (depth 3), batch 23 of 30.** Same as 591. Canonicals from "Patagonia Surf" through "People's Parity Project, UCLA Law". Run cleaning/dedup/stats pipeline. | Not Started | | |
 | 614 | **Review nested canonicals (depth 3), batch 24 of 30.** Same as 591. Canonicals from "People's Self Help Housing Corporation, San Luis Obispo" through "Planning and Services Area 2 Agency on Aging Long-Term Care Ombudsman". Run cleaning/dedup/stats pipeline. | Not Started | | |
 | 615 | **Review nested canonicals (depth 3), batch 25 of 30.** Same as 591. Canonicals from "Plumbers, Steamfitters & Refrigeration Fitters Local Union" through "Recorders Association". Run cleaning/dedup/stats pipeline. | Not Started | | |
@@ -701,5 +701,5 @@ Only the RA at the top of this list has write access to project data files (cros
 | 653 | **Acronym-only canonical review: P, Q, R.** Same as 646. (~64 entries). Run cleaning/dedup/stats pipeline. | Not Started | | |
 | 654 | **Acronym-only canonical review: S.** Same as 646. (~94 entries). Run cleaning/dedup/stats pipeline. | Not Started | | |
 | 655 | **Acronym-only canonical review: T, U, V, W, X, Y, Z.** Same as 646. (~103 entries). Run cleaning/dedup/stats pipeline. | Not Started | | |
-| 621 | Consolidate 3M entries. Web search each to determine relationship to the parent company "3m". Known entries: "3m" (has alt spellings "3M Corporation", "3m Company"), "3M Automotive Electrification Program", "3M Company/National Advertising Company", "3M National", "3M Purification, Inc". These are likely all divisions/subsidiaries of 3M — web search to confirm, then make them chapters or alt spellings of "3m" as appropriate. "3M Company/National Advertising Company" may be conjoined (3M + National Advertising Company). Search crosswalk for any other 3M variants. Run cleaning/dedup/stats pipeline. | Not Started | | |
+| 621 | Consolidate 3M entries. Web search each to determine relationship to the parent company "3m". Known entries: "3m" (has alt spellings "3M Corporation", "3m Company"), "3M Automotive Electrification Program", "3M Company/National Advertising Company", "3M National", "3M Purification, Inc". These are likely all divisions/subsidiaries of 3M — web search to confirm, then make them chapters or alt spellings of "3m" as appropriate. "3M Company/National Advertising Company" may be conjoined (3M + National Advertising Company). Search crosswalk for any other 3M variants. Run cleaning/dedup/stats pipeline. | In Progress | RA-Alpha | |
 
