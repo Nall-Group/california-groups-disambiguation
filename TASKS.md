@@ -9,7 +9,7 @@ To edit this file (mark tasks, update queues, add tasks), join this queue first.
 
 Only the RA at the top of this list has write access to project data files (crosswalk JSON, CSVs). Add yourself to the bottom when you're ready to write. Remove yourself when done.
 
-RA-Beta
+
 
 
 
@@ -675,7 +675,7 @@ RA-Beta
 | 612 | **Review nested canonicals (depth 3), batch 22 of 30.** Same as 591. Canonicals from "Panda's Domestic Service Agency" through "Pat Brown Public Policy Institute". Run cleaning/dedup/stats pipeline. | Done | RA-Beta | Flattened 24 alt-under-alt chains across 26 canonicals. 2 others reviewed OK. |
 | 613 | **Review nested canonicals (depth 3), batch 23 of 30.** Same as 591. Canonicals from "Patagonia Surf" through "People's Parity Project, UCLA Law". Run cleaning/dedup/stats pipeline. | Done | RA-Beta | Fixed 3 of 25 entries: Pebble Beach CSD (separated from Company), Peninsula Open Space Trust (flattened), People's Advocate (removed fragments to partial). Other 22 correct. |
 | 614 | **Review nested canonicals (depth 3), batch 24 of 30.** Same as 591. Canonicals from "People's Self Help Housing Corporation, San Luis Obispo" through "Planning and Services Area 2 Agency on Aging Long-Term Care Ombudsman". Run cleaning/dedup/stats pipeline. | Done | RA-Beta | Fixed 2 of 26: Petroleum Assoc (removed generic fragments to partial), Pillsbury (separated Company from law firm). Other 24 correct. |
-| 615 | **Review nested canonicals (depth 3), batch 25 of 30.** Same as 591. Canonicals from "Plumbers, Steamfitters & Refrigeration Fitters Local Union" through "Recorders Association". Run cleaning/dedup/stats pipeline. | In Progress | RA-Beta | |
+| 615 | **Review nested canonicals (depth 3), batch 25 of 30.** Same as 591. Canonicals from "Plumbers, Steamfitters & Refrigeration Fitters Local Union" through "Recorders Association". Run cleaning/dedup/stats pipeline. | Done | RA-Beta | Fixed 2 of 26: Proteus Inc (flattened Board of Directors metadata), Prudential (separated generic from real estate). Other 24 correct. |
 | 616 | **Review nested canonicals (depth 3), batch 26 of 30.** Same as 591. Canonicals from "Recording Musicians Association, Los Angeles Chapter" through "Talco Plastics, Inc. (No. Long Beach)". Run cleaning/dedup/stats pipeline. | Not Started | | |
 | 617 | **Review nested canonicals (depth 3), batch 27 of 30.** Same as 591. Canonicals from "Tawa Supermarkets Inc., 99 Ranch Market" through "URBAN WILDLANDS GROUP". Run cleaning/dedup/stats pipeline. | Not Started | | |
 | 618 | **Review nested canonicals (depth 3), batch 28 of 30.** Same as 591. Canonicals from "US Green Building Council" through "WOMEN'S BUILDING". Run cleaning/dedup/stats pipeline. | Not Started | | |
