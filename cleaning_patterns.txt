@@ -202,9 +202,10 @@
 # Leading "Concern:" / "Concerns:" / "Concerns: " prefix - BEGINNING
 (?i)^\s*Concerns?\s*:\s*
 
-# Leading "Support." / "SUPPORT." / "Support:" / "Support and Opposition." prefix - BEGINNING
+# Leading "Support." / "SUPPORT." / "Support:" / "Support and Opposition." / "A. Support:" prefix - BEGINNING
 (?i)^\s*Support and Opposition[\.:]\s*
 (?i)^\s*SUPPORT[\.:]\s*
+(?i)^\s*[A-Z]\.\s*Support:\s*
 
 (?i)^\s*According to the\s+
 (?i)^\s*According to\s+
