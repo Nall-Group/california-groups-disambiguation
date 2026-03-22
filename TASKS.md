@@ -9,7 +9,7 @@ To edit this file (mark tasks, update queues, add tasks), join this queue first.
 
 Only the RA at the top of this list has write access to project data files (crosswalk JSON, CSVs). Add yourself to the bottom when you're ready to write. Remove yourself when done.
 
-RA-Alpha
+
 
 
 
@@ -701,5 +701,5 @@ RA-Alpha
 | 653 | **Acronym-only canonical review: P, Q, R.** Same as 646. (~64 entries). Run cleaning/dedup/stats pipeline. | Not Started | | |
 | 654 | **Acronym-only canonical review: S.** Same as 646. (~94 entries). Run cleaning/dedup/stats pipeline. | Not Started | | |
 | 655 | **Acronym-only canonical review: T, U, V, W, X, Y, Z.** Same as 646. (~103 entries). Run cleaning/dedup/stats pipeline. | Not Started | | |
-| 621 | Consolidate 3M entries. Web search each to determine relationship to the parent company "3m". Known entries: "3m" (has alt spellings "3M Corporation", "3m Company"), "3M Automotive Electrification Program", "3M Company/National Advertising Company", "3M National", "3M Purification, Inc". These are likely all divisions/subsidiaries of 3M — web search to confirm, then make them chapters or alt spellings of "3m" as appropriate. "3M Company/National Advertising Company" may be conjoined (3M + National Advertising Company). Search crosswalk for any other 3M variants. Run cleaning/dedup/stats pipeline. | In Progress | RA-Alpha | |
+| 621 | Consolidate 3M entries. Web search each to determine relationship to the parent company "3m". Known entries: "3m" (has alt spellings "3M Corporation", "3m Company"), "3M Automotive Electrification Program", "3M Company/National Advertising Company", "3M National", "3M Purification, Inc". These are likely all divisions/subsidiaries of 3M — web search to confirm, then make them chapters or alt spellings of "3m" as appropriate. "3M Company/National Advertising Company" may be conjoined (3M + National Advertising Company). Search crosswalk for any other 3M variants. Run cleaning/dedup/stats pipeline. | Done | RA-Alpha | Consolidated 4 entries under "3m": 3M Automotive Electrification Program (chapter), 3M Company/National Advertising Company (chapter, with "3M National" as alt spelling), 3M Purification Inc (chapter). National Advertising Company was a 3M subsidiary, not conjoined. |
 
