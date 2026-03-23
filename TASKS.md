@@ -4,13 +4,13 @@
 
 To edit this file (mark tasks, update queues, add tasks), join this queue first. Only the name at the top may edit.
 
-RA-Alpha
-RA-Beta
 
 ## Data Write Queue
 
 Only the RA at the top of this list has write access to project data files (crosswalk JSON, CSVs). Add yourself to the bottom when you're ready to write. Remove yourself when done.
 
+RA-Alpha
+RA-Beta
 
 
 
@@ -747,6 +747,7 @@ Only the RA at the top of this list has write access to project data files (cros
 | 678 | **Consolidate ABM Industries entries.** "ABM Building Value" is a registered trademark/slogan of ABM Industries (a facilities management company founded 1909 in San Francisco). All three ABM entries are the same company. Consolidate under "ABM Industries" (which already has alt spelling "ABM Industries Incorporated"): (1) Make "Abm Building Value" an alt spelling of "ABM Industries". (2) Make "ABM Building Value - Industries" an alt spelling of "ABM Industries". (3) Search the crosswalk for any other ABM variants. Run cleaning/dedup/stats pipeline. | Done | RA-Beta | 4 entries consolidated (Building Value x2, Security Services, Worldwide). |
 | 679 | **Move "Abuse, Prevention" to partial CSV.** "Abuse, Prevention" is a topic description, not an organization name. Remove from the crosswalk JSON and move its CSV row to `org_names_partial.csv`. Run cleaning/dedup/stats pipeline. | Done | RA-Alpha | Moved to partial. |
 | 681 | **Consolidate Academia Avance entries.** "Academia Avance Charter School" is the same org as "Academia Advance" (which already has "Academia Avance" as an alt spelling — "Advance" is a misspelling of the Spanish "Avance"). Make "Academia Avance Charter School" an alt spelling of "Academia Advance". Consider renaming the canonical to "Academia Avance" since that's the correct Spanish name. No CSV changes needed (consolidation within crosswalk only). Run cleaning/dedup/stats pipeline. | Done | RA-Beta | Made Charter School an alt spelling. |
+| 689 | **Consolidate Achievement House entries.** "Achievement House & NCI Affiliates, INC" is the combined name for Achievement House, Inc. and NCI Affiliates, Inc. — two nonprofits that partnered in 2003 and now operate together serving adults with disabilities on the Central Coast. Make "Achievement House & NCI Affiliates, INC" an alt spelling of "Achievement House". No CSV changes needed (consolidation within crosswalk only). Run cleaning/dedup/stats pipeline. | Not Started | | |
 | 688 | **Consolidate Achieve entries.** Three separate consolidations: (1) **Achieve Charter Schools**: "Achieve Charter Schools" (no children) is the same as "Achieve Charter School" (has chapter "Achieve Charter School of Paradise"). Make "Achieve Charter Schools" an alt spelling of "Achieve Charter School". (2) **AchieveKids**: "ACHIEVE Nonpublic School" is the same org as "Achieve Kids" — "Achieve, Inc." is the old legal name of AchieveKids (founded 1960, special education schools in Palo Alto and San Jose). Make "ACHIEVE Nonpublic School" an alt spelling of "Achieve Kids". (3) **"Achieve" partial**: "Achieve" by itself is too generic to identify a specific org. Move to `org_names_partial.csv` and remove from crosswalk. Run cleaning/dedup/stats pipeline. | Not Started | | |
 | 687 | **Consolidate Accredited Home Care entries.** All three canonicals are the same company (family-owned home care company founded 1980 in LA, now part of Aveanna Healthcare). Keep "ACCREDITED (The Accredited Family of Home Care Services)" as the canonical (has 3 children). Make "Accredited Home Health Services" an alt spelling. Make "Accredited Nursing Care" a chapter (nursing division), and move its child "Accredited Nursing Care, Woodland Hills, CA" along. No CSV changes needed (consolidation within crosswalk only). Run cleaning/dedup/stats pipeline. | In Progress | RA-Beta | |
 | 686 | **Consolidate ACCESS Reproductive Justice entries.** Five canonicals are the same org under different names over time (founded 1993, now at accessrj.org). Keep "Access Reproductive Justice" (line 9747) as the canonical (current name). Make all others alt spellings: (1) "ACCESS Women's Health" (no children). (2) "Access Women's Health Justice" (no children). (3) "Access/Women's Health Rights Coalition" (has 1 child "Access Women's Health Rights Coalition") — move child along. (4) "Access Reproductive Health" (line 9742) — web search to confirm this is the same org or a different one. No CSV changes needed (consolidation within crosswalk only). Run cleaning/dedup/stats pipeline. | In Progress | RA-Alpha | |
