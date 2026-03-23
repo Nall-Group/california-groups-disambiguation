@@ -52,6 +52,7 @@ Only the RA at the top of this list has write access to project data files (cros
 
 
 
+
 ## Task List
 
 | # | Task | Status | Assignee | Notes |
@@ -681,7 +682,7 @@ Only the RA at the top of this list has write access to project data files (cros
 | 614 | **Review nested canonicals (depth 3), batch 24 of 30.** Same as 591. Canonicals from "People's Self Help Housing Corporation, San Luis Obispo" through "Planning and Services Area 2 Agency on Aging Long-Term Care Ombudsman". Run cleaning/dedup/stats pipeline. | Done | RA-Beta | Fixed 2 of 26: Petroleum Assoc (removed generic fragments to partial), Pillsbury (separated Company from law firm). Other 24 correct. |
 | 615 | **Review nested canonicals (depth 3), batch 25 of 30.** Same as 591. Canonicals from "Plumbers, Steamfitters & Refrigeration Fitters Local Union" through "Recorders Association". Run cleaning/dedup/stats pipeline. | Done | RA-Beta | Fixed 2 of 26: Proteus Inc (flattened Board of Directors metadata), Prudential (separated generic from real estate). Other 24 correct. |
 | 616 | **Review nested canonicals (depth 3), batch 26 of 30.** Same as 591. Canonicals from "Recording Musicians Association, Los Angeles Chapter" through "Talco Plastics, Inc. (No. Long Beach)". Run cleaning/dedup/stats pipeline. | In Progress | RA-Alpha | |
-| 617 | **Review nested canonicals (depth 3), batch 27 of 30.** Same as 591. Canonicals from "Tawa Supermarkets Inc., 99 Ranch Market" through "URBAN WILDLANDS GROUP". Run cleaning/dedup/stats pipeline. | Not Started | | |
+| 617 | **Review nested canonicals (depth 3), batch 27 of 30.** Same as 591. Canonicals from "Tawa Supermarkets Inc., 99 Ranch Market" through "URBAN WILDLANDS GROUP". Run cleaning/dedup/stats pipeline. | Done | RA-Beta | Only 1 canonical (US Chamber of Commerce) had depth 3+. Fixed 30 issues: removed nonsensical "County of California Chamber", merged duplicate Murrieta, removed 27 "County of [City] Chamber" artifacts, removed conjoined CalChamber/Camarillo entry. |
 | 618 | **Review nested canonicals (depth 3), batch 28 of 30.** Same as 591. Canonicals from "US Green Building Council" through "WOMEN'S BUILDING". Run cleaning/dedup/stats pipeline. | Not Started | | |
 | 619 | **Review nested canonicals (depth 3), batch 29 of 30.** Same as 591. Canonicals from "WOMEN'S FOUNDATION OF CALIFORNIA" through "Women and Religion Task Force, Pacific Central District, Unitarian". Run cleaning/dedup/stats pipeline. | Not Started | | |
 | 620 | **Review nested canonicals (depth 3), batch 30 of 30.** Same as 591. Canonicals from "Women's Army Corps Veterans Association" through "Zenith Bail Bonds". Run cleaning/dedup/stats pipeline. | Not Started | | |
