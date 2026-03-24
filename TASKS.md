@@ -4,8 +4,10 @@
 
 To edit this file (mark tasks, update queues, add tasks), join this queue first. Only the name at the top may edit.
 
-Management Assistant C
 RA-Alpha
+Management Assistant B
+RA-Beta
+Management Assistant D
 
 ## Data Write Queue
 
@@ -884,3 +886,4 @@ Only the RA at the top of this list has write access to project data files (cros
 | 723 | **Move "Advanced Communications" to partial CSV.** "Advanced Communications" is too generic — there are multiple unrelated companies with this name in California. Remove from the crosswalk JSON and move its CSV row to `org_names_partial.csv`. Run cleaning/dedup/stats pipeline. | Not Started | | |
 | 724 | **Move "Advanced Medicine" to partial CSV.** "Advanced Medicine" is too generic — there are multiple unrelated "Advanced Medicine" entities in California (Center for Advanced Medicine, Advanced Medicine Clinical Trials, etc.) and none with this exact bare name. Remove from the crosswalk JSON and move its CSV row to `org_names_partial.csv`. Run cleaning/dedup/stats pipeline. | Not Started | | |
 | 725 | **Handle conjoined "Advancement Project California, Albany Unified School District".** This is a conjoined entry (Advancement Project California + Albany Unified School District). Remove from the crosswalk and move CSV row to `org_names_conjoined.csv`. Ensure both orgs exist in the crosswalk — "Advancement Project California" already exists as a chapter under "ADVANCEMENT PROJECT". Search crosswalk for "Albany Unified School District" and ensure it exists; if not, add as new canonical. Run cleaning/dedup/stats pipeline. | Not Started | | |
+| 766 | **Consolidate Advancing Communities Together entries.** "ADVANCING COMMUNITIES TOGETHER" (line 15021, no children) and "Advancing Communities Together, Antelope Valley YouthBuild" (line 15026) are the same org — ACT is a Palmdale, CA nonprofit (EIN 45-1745040) and Antelope Valley YouthBuild is one of its programs. Keep "ADVANCING COMMUNITIES TOGETHER" as the canonical. Make "Advancing Communities Together, Antelope Valley YouthBuild" a chapter (program). Move its child "Advancing Communities Together-Antelope Valley" as an alt spelling of that chapter. No CSV changes needed (consolidation within crosswalk only). Run cleaning/dedup/stats pipeline. | Not Started | | |
