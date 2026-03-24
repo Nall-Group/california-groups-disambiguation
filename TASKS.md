@@ -4,14 +4,17 @@
 
 To edit this file (mark tasks, update queues, add tasks), join this queue first. Only the name at the top may edit.
 
-Management Assistant
 Management Assistant B
+Management Assistant C
+RA-Alpha
+Management Assistant D
 
 ## Data Write Queue
 
 Only the RA at the top of this list has write access to project data files (crosswalk JSON, CSVs). Add yourself to the bottom when you're ready to write. Remove yourself when done.
 
 RA-Beta
+RA-Alpha
 
 
 
@@ -809,6 +812,7 @@ RA-Beta
 | 711 | **Move "Acupuncture" to partial CSV.** "Acupuncture" is a single generic word, not an org name. Remove from crosswalk and move CSV row to `org_names_partial.csv`. Run cleaning/dedup/stats pipeline. | Not Started | | |
 | 708 | **Consolidate Action Partnership entries under Community Action Partnership.** Both are truncated names: (1) Make "Action Partnership" (line 11506) an alt spelling of "Community Action Partnership" (line 278607). (2) Make "Action Partnership of Orange County" (line 11511) an alt spelling of "COMMUNITY ACTION PARTNERSHIP OF ORANGE COUNTY" (line 278675). (3) Investigate "City of Community Action Partnership of Orange County" (line 245795) — "City of" is likely extraneous metadata. Make it an alt spelling of "COMMUNITY ACTION PARTNERSHIP OF ORANGE COUNTY". No CSV changes needed (consolidation within crosswalk only). Run cleaning/dedup/stats pipeline. | Not Started | | |
 | 712 | **Move "Adam Williams" to individuals CSV.** "Adam Williams" is an individual, not an organization. Remove from crosswalk JSON and move CSV row to `org_names_that_are_actually_individuals.csv`. Run cleaning/dedup/stats pipeline. | Not Started | | |
+| 714 | **Consolidate Acupuncture & Healing Arts Center entries.** Same practice in Visalia (326 S Divisadero St). Make "Acupuncture and Healing Arts Center" an alt spelling of "Acupuncture & Healing Arts Center of Visalia" (the more specific name with location). No CSV changes needed (consolidation within crosswalk only). Run cleaning/dedup/stats pipeline. | Not Started | | |
 | 713 | **Move "Adams" to partial CSV.** "Adams" is a generic surname fragment, not a specific organization. Remove from crosswalk JSON and move CSV row to `org_names_partial.csv`. Run cleaning/dedup/stats pipeline. | Not Started | | |
 | 706 | **Consolidate SAG-AFTRA / Screen Actors Guild entries.** There are many scattered canonicals for SAG-AFTRA (Screen Actors Guild - American Federation of Television and Radio Artists). Pick "Screen Actors Guild - American Federation of Television and Radio Artists" (line 784624, has SAG-AFTRA alt spelling) as the main canonical. Consolidate: (1) "Actors Guild" (line 11914) — truncated, alt spelling. (2) "SAG-AFRA" (line 747824) — typo, alt spelling. (3) "Sag-aftra" (line 747829) — alt spelling. (4) "Screen Actors Guild - American Federation of Television and Radio" (line 784619) — truncated, alt spelling. (5) "Screen Actors Guild - American Federation of Television and Radio Teamsters" (line 784634) — likely conjoined (SAG-AFTRA + Teamsters). Move to `org_names_conjoined.csv`, ensure both orgs exist. (6) "Screen Actors Guild - American Federation of Televisoin and Radio Artists" (line 784639) — typo, alt spelling. (7) "Screen Actors Guild Foundation" (line 784644) — chapter (separate foundation entity). (8) "Screen Actors Guild, AFL-CIO" (line 784649) — alt spelling. (9) "Screen Actors Guild, America Federation of Television and Radio Artists" (line 784654) — typo, alt spelling. (10) "Screen Actors Guild-American" (line 784659) — truncated, alt spelling. (11) "Screen Actors Guild-American Federation of Television & Radio Artists" (line 784664, has alt spellings) — alt spelling (& vs and). (12) "SCREEN ACTORS GUILD-AMERICAN FEDERATION OF TELEVISION AND RADIO ARTISTS, AFL-CIO" (line 784678, has alt spelling) — alt spelling. (13) "Screen Writers Guild - American Federation of Television and Radio Artists" (line 784693) — likely typo (Screen Writers vs Screen Actors), investigate. Could be conjoined or OCR error. (14) "Teamsters, SAG-AFTRA" (line 858978) — conjoined (Teamsters + SAG-AFTRA). Move to `org_names_conjoined.csv`. (15) "SAG Members: Malcolm-Jamal Warner and Mimi Gibson" (line 747814) — individuals, move to `org_names_that_are_actually_individuals.csv`. (16) "SAG Members: Shannon Bilbray, Angela Ohren and Chrissy Sonnek" (line 747819) — individuals, move to `org_names_that_are_actually_individuals.csv`. Search the crosswalk for any other SAG/AFTRA variants. Run cleaning/dedup/stats pipeline. | Not Started | | |
 | 712 | **Move "Acupuncture RN" to individuals CSV.** Not a real org — it's a credential/title (a registered nurse who does acupuncture). No business or nonprofit by this name exists. Remove from crosswalk and move CSV row to `org_names_that_are_actually_individuals.csv`. Run cleaning/dedup/stats pipeline. | Not Started | | |
