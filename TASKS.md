@@ -4,8 +4,8 @@
 
 To edit this file (mark tasks, update queues, add tasks), join this queue first. Only the name at the top may edit.
 
-Management Assistant B
 Management Assistant
+Management Assistant C
 
 ## Data Write Queue
 
@@ -876,3 +876,4 @@ Only the RA at the top of this list has write access to project data files (cros
 | 721 | **Consolidate Adult Day Services Networks.** Several "network" entries may be related: (1) "Adult Day Health Network" (line 13950) with its chapter "Adult Day Health Network of San Francisco" — keep as canonical with chapter. (2) "Adult Day Services Network of Contra Costa" (line 13960) — chapter of the Adult Day Health Network. (3) "Adult Day Services Network of San Mateo County" (line 13965) — chapter. (4) "Alameda County Adult Day Services Network" (line 22898) — chapter. (5) "San Francisco Adult Day Services Network" (line 759395) — may be same as "Adult Day Health Network of San Francisco", consolidate. (6) "Los Angeles County Adult Day Services Coalition" (line 547482) — investigate if related to the network or separate. Run cleaning/dedup/stats pipeline. | Not Started | | |
 | 722 | **Move "Adult Services" to partial CSV.** "Adult Services" is a generic fragment, not an organization name. Remove from the crosswalk JSON and move its CSV row to `org_names_partial.csv`. Run cleaning/dedup/stats pipeline. | Not Started | | |
 | 723 | **Move "Advanced Communications" to partial CSV.** "Advanced Communications" is too generic — there are multiple unrelated companies with this name in California. Remove from the crosswalk JSON and move its CSV row to `org_names_partial.csv`. Run cleaning/dedup/stats pipeline. | Not Started | | |
+| 724 | **Move "Advanced Medicine" to partial CSV.** "Advanced Medicine" is too generic — there are multiple unrelated "Advanced Medicine" entities in California (Center for Advanced Medicine, Advanced Medicine Clinical Trials, etc.) and none with this exact bare name. Remove from the crosswalk JSON and move its CSV row to `org_names_partial.csv`. Run cleaning/dedup/stats pipeline. | Not Started | | |
