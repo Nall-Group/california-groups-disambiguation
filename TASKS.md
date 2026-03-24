@@ -4,7 +4,6 @@
 
 To edit this file (mark tasks, update queues, add tasks), join this queue first. Only the name at the top may edit.
 
-Management Assistant B
 Management Assistant D
 RA-Alpha
 
@@ -894,3 +893,5 @@ RA-Beta
 | 768 | **Move "Advisory Council" to partial CSV.** Generic fragment — doesn't identify a specific organization. Remove from crosswalk JSON and move CSV row to `org_names_partial.csv`. Run cleaning/dedup/stats pipeline. | Not Started | | |
 | 726 | **Move "Advisors" entries to partial CSV.** "Advisors" (with its child "Advisors of California") and "Advisors-California" are all generic fragments — too vague to identify any specific organization. Remove all three from the crosswalk JSON and move their CSV rows to `org_names_partial.csv`. Run cleaning/dedup/stats pipeline. | Not Started | | |
 | 770 | **Merge "Advisory Council on Women" into San Mateo County Advisory Council on Women.** "Advisory Council on Women" (line 15804, no children) is a truncation of "San Mateo County Advisory Council on Women" (line 769627) — no state-level "Advisory Council on Women" exists in California (the state body is the California Commission on the Status of Women and Girls, a different name). Make "Advisory Council on Women" an alt spelling of "San Mateo County Advisory Council on Women". No CSV changes needed (consolidation within crosswalk only). Run cleaning/dedup/stats pipeline. | Not Started | | |
+| 727 | **Move generic fragments to partial CSV: "Advisory Group", "Advocacy and Leadership", "Advocacy and Services".** All three are generic fragments, not identifiable organizations. Remove from the crosswalk JSON and move their CSV rows to `org_names_partial.csv`. Run cleaning/dedup/stats pipeline. | Not Started | | |
+| 728 | **Investigate truncated "(CAA)" entries.** Several entries are truncated with just "(CAA)" as the acronym, but CAA is ambiguous (California Acupuncture Association, California Ambulance Association, Community Action Agency, etc.). For each, check CSV context and try to identify the full org: (1) "Advocacy (CAA)" (line 15875). (2) "Affirmative Action (CAA)" (line 17333). (3) "Association (CAA)" (line 77364). If identifiable, make each an alt spelling of the correct full-name canonical (search crosswalk first). If unidentifiable, move to `org_names_partial.csv`. Run cleaning/dedup/stats pipeline. | Not Started | | |
