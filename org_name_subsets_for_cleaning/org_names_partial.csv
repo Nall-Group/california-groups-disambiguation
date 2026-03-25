@@ -44,6 +44,7 @@ Alliance,144
 Cities of,143
 National Association,140
 Secretary of,139
+SMH:bjw,139
 Institute,137
 Mojave Water Agency,137
 League,133
@@ -94,6 +95,7 @@ Crime,83
 Valley,83
 California School,79
 of,79
+Federation,79
 ASSOCIATIONS,78
 Western,77
 "Strategic Committee of Public Employees, Laborers International Union of",75
@@ -118,6 +120,7 @@ Agriculture Council of California,67
 Community,67
 Programs,66
 Region,66
+SMH:bkh,66
 Advocacy,65
 Action Now,65
 Napa,64
@@ -139,6 +142,7 @@ Taxpayers for,60
 Authority,59
 Directors,59
 one,58
+Seniors,58
 County Welfare Directors Association of,57
 Friends Committee on Legislation in California,57
 Health,57
@@ -214,6 +218,7 @@ Council of California,38
 Lake,38
 School,38
 Judicial,38
+Glenn,38
 Apartment,37
 Department of,37
 Laguna Beach,37
@@ -224,6 +229,7 @@ Legal Services,36
 Lompoc,36
 arc,36
 care,36
+Resolve,36
 California State Conference of the National Association for,35
 PTA,35
 Yolo,35
@@ -234,6 +240,7 @@ Chief Probation Officers of,34
 Colored People,34
 Legal Services for Prisoners with,34
 Los Angeles Affiliate of the National Association of,34
+Governments,34
 City and County of San,33
 Floor,33
 La,33
@@ -247,17 +254,20 @@ Palmdale,32
 PhD,32
 Water District,32
 Emeryville,32
+Families,32
 Jr,31
 Lawyers,31
 Medicine,31
 Office of,31
 College,31
+SMH:dm,31
 Board of,30
 "Council, Inc",30
 MM,30
 Planned,30
 Police,30
 Problems,30
+Hospital,30
 Access,29
 Action,29
 California Business,29
@@ -296,6 +306,8 @@ Tuolumne,27
 West Hollywood,27
 Young Children,27
 of Realtors,27
+However,27
+System,27
 Business,26
 California Association for the Education of,26
 Clue,26
@@ -345,6 +357,7 @@ Work Equity,23
 "County, Inc",23
 Conservators,23
 Institutions,23
+Regional,23
 California Conference of,22
 Co,22
 Coalition of,22
@@ -398,6 +411,7 @@ Yuba City,19
 Branch,19
 Child,19
 Long,19
+Household,19
 California Conference Board of,18
 Center on Race,18
 Contra,18
@@ -422,6 +436,7 @@ Brea,18
 Campaign,18
 Insurers,18
 Outreach,18
+Rosa,18
 52nd District,17
 Air,17
 Belmont,17
@@ -470,6 +485,7 @@ Western Center on,16
 Equalization,16
 Executive,16
 Patrolmen,16
+Scientists,16
 ACT,15
 Accredited out of State Colleges and Universities in,15
 Agromin,15
@@ -498,6 +514,7 @@ Delano,15
 East,15
 Conservancy,15
 Investigators,15
+Suppliers,15
 Alamo,14
 Association for the Advancement of Colored People,14
 Brentwood,14
@@ -586,6 +603,8 @@ Brisbane,13
 Estate,13
 Concerned,13
 Interest,13
+Golden,13
+Handgun,13
 Advisor,12
 Agri,12
 Attorneys,12
@@ -623,6 +642,8 @@ X,12
 for Women,12
 of Police and Sheriffs,12
 of the bill,12
+Greater,12
+Honey,12
 Alpine,11
 Asian Pacific,11
 Asian Pacific American Legal Center of,11
@@ -681,6 +702,9 @@ Balanced,11
 Corrections,11
 Instruction,11
 Providers,11
+Handicapped,11
+Hills,11
+Relations,11
 Accountable,10
 Alameda County Board of,10
 Association of Korean Oriental Medicine & Acupuncture of,10
@@ -749,6 +773,8 @@ Drug,10
 Expansion,10
 Post,10
 Producers,10
+Homeowners,10
+Stand,10
 AMVETS-Department of,9
 Asian Americans for,9
 Asian Law,9
@@ -808,6 +834,12 @@ Corps,9
 Members,9
 Nurses,9
 Oncologists,9
+Healthcare,9
+Hotel,9
+Retired,9
+Roundtable,9
+Seiu-usww,9
+Select,9
 Aguilas,8
 Amendment,8
 American Academy of,8
@@ -894,6 +926,12 @@ Librarians,8
 Neglect,8
 Place,8
 Processors,8
+Hillcrest,8
+Received,8
+Sciences,8
+Societies,8
+Status,8
+Surgery,8
 Accountability,7
 "Advocates, Inc",7
 Afghan Hound Club of California,7
@@ -1012,6 +1050,11 @@ Neighborhoods,7
 Normative,7
 Nutritionists,7
 Policyholders,7
+Heart,7
+Homelessness,7
+Recorder,7
+Retailers,7
+Standards,7
 2,6
 AGSJ,6
 Administrator,6
@@ -1177,6 +1220,13 @@ Cooperative,6
 Coordinator,6
 Preservation,6
 Properties,6
+Farms,6
+Recreation,6
+Rehabilitation,6
+Reservation,6
+Sd-sequel,6
+Security,6
+Small,6
 1245 (Walnut Creek),5
 21st Century,5
 4.,5
@@ -1396,6 +1446,15 @@ John,5
 Lookup,5
 Medical,5
 Plumbing-Heating-Cooling,5
+Growers,5
+Herb,5
+Recording,5
+Reporters,5
+Resolution,5
+Responsible,5
+Self,5
+Social,5
+Structural,5
 AHS,4
 Academy,4
 Accountancy,4
@@ -1761,6 +1820,18 @@ Lifeguard,4
 Lutheran,4
 Patterns,4
 Province,4
+Facility,4
+Fighters,4
+Grand,4
+Records,4
+Recycling,4
+Representing,4
+Riggers,4
+Shows,4
+Special,4
+Strategic,4
+Subsectio,4
+Superintendents,4
 29 AFL-CIO and CLC,3
 3,3
 3rd District,3
@@ -2365,6 +2436,36 @@ Playground,3
 Principles,3
 Professor,3
 Psychiatry,3
+Federated,3
+Geologists,3
+Governors,3
+Great,3
+Grocery,3
+Heating,3
+Help,3
+Hill,3
+Reconciliation,3
+Recorder-Clerk,3
+Religious,3
+Rental,3
+Reproductive,3
+Resistance,3
+Resource,3
+Restaurants,3
+Riders,3
+Robert,3
+Seal,3
+Second,3
+Securities,3
+Sexual,3
+Shops,3
+Solution,3
+Specialists,3
+Sports,3
+Ssytems,3
+Strikes,3
+Survival,3
+Survivors,3
 26th District,2
 2nd District,2
 3492 (North Antelope),2
@@ -3761,6 +3862,49 @@ Press,2
 Projects,2
 Psychiatric,2
 Psychological,2
+Fairness,2
+Faith,2
+Fallbrook,2
+Fate,2
+Feather,2
+Fort,2
+Gamefowl,2
+Grandparents,2
+Gyres,2
+Happy,2
+Harbors,2
+Having,2
+Heights,2
+Hemp,2
+High,2
+Rail,2
+Records/Video/Books,2
+Referee,2
+Refrigeration,2
+Regional-Video,2
+Registries,2
+Registry,2
+Regulator,2
+Religion,2
+Remedial,2
+Reporting,2
+Reserve,2
+Restaurant,2
+Rolling,2
+Roof,2
+Savings,2
+Scientific,2
+Shores,2
+Smoking,2
+Specifically,2
+Stabilization,2
+Streetlights,2
+Struggle,2
+Studies,2
+Sudden,2
+Supply,2
+Susan,2
+Syndrome,2
 Acacia,1
 $30,1
 104 Individual Letters from Representatives of,1
@@ -7642,6 +7786,104 @@ Prohibition,1
 Project(TDICT),1
 Protections,1
 Protectors,1
+Fanciers,1
+Farm,1
+Fatherhood,1
+Fathers,1
+Feed,1
+Fishermen,1
+Fleet,1
+Florida,1
+Forresthill,1
+Funtime,1
+Furniture,1
+Gallery,1
+Gaming,1
+Garbage,1
+General's,1
+Georgetown,1
+Geriatrics,1
+Governance,1
+Grading,1
+Graffiti,1
+Grandparenting,1
+Greenville,1
+Grief,1
+Grossmont,1
+Guardians,1
+Guards,1
+Guided,1
+Hangtown,1
+Hardwood,1
+Headquarters,1
+Heal,1
+Hearth,1
+Hemlock,1
+Highway,1
+Homeschool,1
+Homicide,1
+Honoring,1
+Hospices,1
+Hypnosis,1
+Quakers,1
+R.N./N.P,1
+Racetracks,1
+Radiology,1
+Rafael,1
+Rain,1
+Rationale,1
+Real,1
+Reconstruction,1
+Recorder-Assessor,1
+Register,1
+Relationships,1
+Repair,1
+Reputable,1
+Researchers,1
+Resident,1
+Residents,1
+Responsibility/Sacramento,1
+Restorations,1
+Restraints,1
+Retail,1
+Ride,1
+Rigging,1
+Roberta,1
+Roberto,1
+Roll,1
+Ronald,1
+Root,1
+Runner,1
+Running,1
+Ruthie,1
+SMH:bkw,1
+Samuel,1
+Sane/Freeze,1
+Sansum/Santa,1
+Scavenger,1
+Schofiled,1
+Senate,1
+Settlement,1
+Shasta/Trinity/Lassen/Tehama,1
+Shelters,1
+Smoke,1
+Soil,1
+Sorority,1
+Specialized,1
+Species,1
+Stages,1
+Stairs,1
+Stefanie,1
+Storage,1
+Streetlight,1
+Strong,1
+Stuart,1
+Studely,1
+Subcontractor,1
+Suburban,1
+Sustainability,1
+Sustainable,1
+Symbol,1
 542,0
 "542, Local 572",0
 AFL-CIO Local 11,0
@@ -7730,90 +7972,3 @@ of the State Bar,0
 of the State Bar of California,0
 of the United States and Canada,0
 "of the United States and Canada, Local 78",0
-Federation,79
-Glenn,38
-Governments,34
-Families,32
-Hospital,30
-However,27
-Household,19
-Golden,13
-Handgun,13
-Greater,12
-Honey,12
-Handicapped,11
-Hills,11
-Homeowners,10
-Healthcare,9
-Hotel,9
-Hillcrest,8
-Heart,7
-Homelessness,7
-Farms,6
-Growers,5
-Herb,5
-Facility,4
-Fighters,4
-Grand,4
-Federated,3
-Geologists,3
-Governors,3
-Great,3
-Grocery,3
-Heating,3
-Help,3
-Hill,3
-Fairness,2
-Faith,2
-Fallbrook,2
-Fate,2
-Feather,2
-Fort,2
-Gamefowl,2
-Grandparents,2
-Gyres,2
-Happy,2
-Harbors,2
-Having,2
-Heights,2
-Hemp,2
-High,2
-Fanciers,1
-Farm,1
-Fatherhood,1
-Fathers,1
-Feed,1
-Fishermen,1
-Fleet,1
-Florida,1
-Forresthill,1
-Funtime,1
-Furniture,1
-Gallery,1
-Gaming,1
-Garbage,1
-General's,1
-Georgetown,1
-Geriatrics,1
-Governance,1
-Grading,1
-Graffiti,1
-Grandparenting,1
-Greenville,1
-Grief,1
-Grossmont,1
-Guardians,1
-Guards,1
-Guided,1
-Hangtown,1
-Hardwood,1
-Headquarters,1
-Heal,1
-Hearth,1
-Hemlock,1
-Highway,1
-Homeschool,1
-Homicide,1
-Honoring,1
-Hospices,1
-Hypnosis,1
