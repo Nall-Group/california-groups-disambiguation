@@ -17,6 +17,7 @@ Center,302
 SAN,282
 Wildcoast,280
 Author,278
+Coalition,274
 CIO,265
 Industry,255
 California Association,253
@@ -66,6 +67,7 @@ AB,101
 Project,101
 PODER,100
 Consumer Attorneys of,99
+Cities,99
 Bureau,98
 COMMITTEE,98
 Etta,98
@@ -194,6 +196,7 @@ Club,41
 Court,41
 Department of California,41
 Youth,41
+Clearinghouse,41
 Association for,40
 California Medical,40
 Pepperdine University,40
@@ -224,6 +227,7 @@ PTA,35
 Yolo,35
 Yuba County,35
 Administrators' Association,35
+Concern,35
 Chief Probation Officers of,34
 Colored People,34
 Legal Services for Prisoners with,34
@@ -323,6 +327,7 @@ Flo,24
 Organization of Farmworker Women Leaders in,24
 Target,24
 Duarte,24
+Collaborative,24
 California Society,23
 Californians for,23
 Maryvale,23
@@ -335,6 +340,7 @@ West Covina,23
 Women's,23
 Work Equity,23
 "County, Inc",23
+Conservators,23
 California Conference of,22
 Co,22
 Coalition of,22
@@ -374,6 +380,7 @@ Rwe,20
 State Public Affairs Committee of the Junior Leagues of,20
 Whittier,20
 of California Cities,20
+Caucus,20
 California Attorney,19
 Chief Probation Officer,19
 Clara,19
@@ -384,6 +391,7 @@ The Center,19
 Working Solutions,19
 Yuba City,19
 Branch,19
+Child,19
 California Conference Board of,18
 Center on Race,18
 Contra,18
@@ -405,6 +413,7 @@ Transportation,18
 vote,18
 Barstow,18
 Brea,18
+Campaign,18
 52nd District,17
 Air,17
 Belmont,17
@@ -477,6 +486,7 @@ Pivotal,15
 Boost,15
 Delano,15
 East,15
+Conservancy,15
 Alamo,14
 Association for the Advancement of Colored People,14
 Brentwood,14
@@ -515,6 +525,7 @@ of bill,14
 "Counties, Inc",14
 Budget,14
 Examiners,14
+Consortium,14
 Alliance of,13
 California Academy of,13
 California Association of Services for,13
@@ -559,6 +570,7 @@ Affirmative Action,13
 Agriculture,13
 Brisbane,13
 Estate,13
+Concerned,13
 Advisor,12
 Agri,12
 Attorneys,12
@@ -651,6 +663,7 @@ it,11
 of Machinists,11
 of North America,11
 Balanced,11
+Corrections,11
 Accountable,10
 Alameda County Board of,10
 Association of Korean Oriental Medicine & Acupuncture of,10
@@ -772,6 +785,7 @@ of the Amalgamated Transit Union,9
 POSITIONS,9
 County of Vacaville Chamber of Commerce,9
 Dublin,9
+Corps,9
 Aguilas,8
 Amendment,8
 American Academy of,8
@@ -852,6 +866,8 @@ Cypress,8
 49th Congressional District,8
 Assault,8
 Desert,8
+Compensation,8
+Criminal,8
 Accountability,7
 "Advocates, Inc",7
 Afghan Hound Club of California,7
@@ -961,6 +977,9 @@ Agricultural,7
 Associa,7
 Elections,7
 Endocrinologists,7
+Caregivers,7
+Chair,7
+Choices,7
 2,6
 AGSJ,6
 Administrator,6
@@ -1117,6 +1136,13 @@ Anesthesiologists,6
 County Municipal Court,6
 Enough,6
 Escalon,6
+Cardiology,6
+Catholic,6
+Chemical,6
+Claim-GV,6
+Contribute,6
+Cooperative,6
+Coordinator,6
 1245 (Walnut Creek),5
 21st Century,5
 4.,5
@@ -1324,6 +1350,12 @@ Buenaventura,5
 Dinuba,5
 Economic,5
 Extension,5
+Causes,5
+Churches,5
+Circuit,5
+Clients,5
+Collaboration,5
+Conduct,5
 AHS,4
 Academy,4
 Accountancy,4
@@ -1680,6 +1712,9 @@ Driving,4
 Dunsmuir,4
 Educational,4
 Express,4
+Cmte,4
+Consolidated,4
+Crisis,4
 29 AFL-CIO and CLC,3
 3,3
 3rd District,3
@@ -2252,6 +2287,21 @@ Emergent,3
 Envelope,3
 Everyday,3
 Everywhere,3
+Canal,3
+Cast,3
+Cellular,3
+Chancellor,3
+Circuses,3
+Classes,3
+Clementina,3
+Clinics,3
+Collective,3
+Commissioners,3
+Concerns/Other,3
+Congregation,3
+Constitution,3
+Creations,3
+Current,3
 26th District,2
 2nd District,2
 3492 (North Antelope),2
@@ -3613,6 +3663,22 @@ Examination,2
 Exchanges,2
 Exploitation,2
 Exeter,2
+Carts,2
+Casino,2
+Cell,2
+Cemeteries,2
+Chambers,2
+Charity,2
+Chemistry,2
+Childbirth,2
+Clinical,2
+Communicative,2
+Comte,2
+Congregations,2
+Corporations,2
+Countries,2
+Critical,2
+Cuisine,2
 Acacia,1
 $30,1
 104 Individual Letters from Representatives of,1
@@ -7392,6 +7458,48 @@ Earlimart,1
 Edgewood,1
 Eldorado,1
 Elsinore,1
+COEs,1
+CSP-Victim,1
+Cabinetry,1
+Camps,1
+Cancer,1
+Card,1
+Caretakers,1
+Carlos,1
+Carry,1
+Cecilia,1
+Certification,1
+Certified,1
+Chamber,1
+Champions,1
+Chapel,1
+Charlotte,1
+Cheryl,1
+Childcare,1
+Christian,1
+Coalitlion,1
+Collaboratives,1
+Collection,1
+Committee(CIDFAC),1
+Competition,1
+Complex,1
+Composers,1
+Concern/Other,1
+Conciliation,1
+Congregational,1
+Conservatees,1
+Contact,1
+Controls,1
+Council[1],1
+Counciman,1
+County's,1
+Credit,1
+Creditors,1
+Crimes,1
+Crown,1
+Crystal,1
+Culture,1
+Custom,1
 542,0
 "542, Local 572",0
 AFL-CIO Local 11,0
