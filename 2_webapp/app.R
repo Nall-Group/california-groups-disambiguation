@@ -8,7 +8,7 @@ options(shiny.maxRequestSize = 30 * 1024^2)
 source("cluster_functions.R")
 
 # Load cluster data once at startup
-cluster_data <- load_clusters("org_clusters.json")
+cluster_data <- load_clusters("org_clusters_crosswalk.json")
 
 # Function to disambiguate organization names using cluster data
 disambiguate_org <- function(input_name) {
