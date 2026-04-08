@@ -1,8 +1,40 @@
-# California Groups Disambiguation - Web App
+# California Groups Disambiguation - Web Apps
 
-A Shiny web application that provides access to the California Groups disambiguation data with a clean, professional interface.
+There are two ways to access the disambiguation tool: a public GitHub Pages app and a local R Shiny app.
 
-## Setup Instructions
+## GitHub Pages App (Public)
+
+**URL:** https://nall-group.github.io/california-groups-disambiguation/
+
+A static HTML/JavaScript app served from the `docs/` directory. It uses pre-built chunked lookup files so it only fetches the data it needs for each query (no large file downloads).
+
+### Features
+
+- **Single organization lookup** - type a name, get the canonical org name and relationship
+- **Batch CSV disambiguation** - upload a CSV with org names in the first column, download results with disambiguated names and match status added
+
+### Rebuilding After Crosswalk Changes
+
+Whenever `2_webapp/org_clusters_crosswalk.json` is updated, regenerate the chunk files:
+
+```bash
+python3 scripts/build_chunks.py
+```
+
+This reads the JSON crosswalk and generates `docs/chunks/` (a manifest plus ~1,300 chunked JSON files). Commit the updated `docs/chunks/` directory and push to deploy.
+
+### How It Works
+
+The build script groups all name-to-canonical mappings by prefix:
+- **2-character prefix** for most buckets (e.g. `chunks/AC.json`)
+- **3-character prefix** for large buckets like CA, CO, SA (e.g. `chunks/CA/CAR.json`)
+- **Hash-split** for very large 3-char buckets like CAL, THE, SAN (e.g. `chunks/CA/CAL_3.json`)
+
+A small `chunks/manifest.json` tells the JavaScript which strategy to use for each prefix. The browser fetches only the relevant chunk file for each lookup.
+
+## Local R Shiny App
+
+For development or when you need the full relationship narratives (lineage info like "was a former name", "merged in [date]").
 
 ### Prerequisites
 
@@ -11,103 +43,59 @@ A Shiny web application that provides access to the California Groups disambigua
 
 ### Environment Setup with renv
 
-This project uses `renv` for dependency management to ensure reproducible environments.
+This project uses `renv` for dependency management.
 
 #### Option 1: Automatic Setup (Recommended)
 
 From the **project root directory**:
 
 ```r
-# Run the setup script
 source("setup.R")
 ```
 
 #### Option 2: Manual Setup
 
-1. **Install renv** (if not already installed):
+1. Install renv: `install.packages("renv")`
+2. Restore the project environment: `renv::restore()`
+3. Install required packages: `install.packages(c("shiny", "jsonlite"))`
 
-   ```r
-   install.packages("renv")
-   ```
+### Running the App
 
-2. **Restore the project environment** (from project root):
-
-   ```r
-   renv::restore()
-   ```
-
-3. **Install required packages**:
-   ```r
-   install.packages(c("shiny", "tidyverse"))
-   ```
-
-### Running the Web Application
-
-Once the environment is set up, you can run the app in several ways:
-
-#### From R Console:
-
+From R console:
 ```r
-# Option 1: From project root
 shiny::runApp("2_webapp")
-
-# Option 2: From within 2_webapp directory
-shiny::runApp()
 ```
 
-#### From RStudio:
+From RStudio: open `2_webapp/app.R` and click "Run App".
 
-1. Open `2_webapp/app.R`
-2. Click the "Run App" button in RStudio
-
-#### From Command Line:
-
+From command line:
 ```bash
-# Navigate to the 2_webapp directory
 cd 2_webapp
 R -e "shiny::runApp()"
 ```
 
-The app will start a local server (typically at `http://127.0.0.1:XXXX`) and automatically open in your browser.
+The app starts a local server (typically `http://127.0.0.1:XXXX`) and opens in your browser.
 
-## App Features
+### App Structure
 
-- **Clean, responsive interface** with professional styling
-- **Direct link** to the California Groups spreadsheet on GitHub
-- **Opens in new tab** - GitHub link opens in a separate browser tab
-- **Mobile-friendly** design with hover effects
+- `app.R` - Main Shiny application (UI + server logic)
+- `cluster_functions.R` - JSON crosswalk loader, lookup index builder, narrative generator
+- `org_clusters_crosswalk.json` - Live crosswalk data (all updates go here)
 
-## App Structure
+## Data Source
 
-- `app.R` - Main Shiny application file containing UI and server logic
-- Uses **tidyverse** and **shiny** packages
-- Minimal server logic (static page with styled HTML link)
-
-## Customization
-
-The app uses custom CSS styling defined in the UI. Key style elements:
-
-- Bootstrap-style container layout
-- Blue button styling with hover effects
-- Centered layout with shadow effects
-- Responsive design
+Both apps use `2_webapp/org_clusters_crosswalk.json` as their data source. The CSV file `crosswalk.standardizenames.manualedits_clean.csv` is the original historical source and should not be edited.
 
 ## Troubleshooting
 
-### Common Issues:
+### Local App Issues
 
-1. **Package not found**: Make sure you've run the setup script from the project root
+1. **Package not found**: Run the setup script from the project root
 2. **Port already in use**: Shiny will automatically find an available port
-3. **renv not activated**: Make sure you're running R from the project root directory
-
-### Adding New Dependencies:
-
-If you need to add new R packages:
-
-1. Install the package: `install.packages("package_name")`
-2. Update the lock file: `renv::snapshot()`
-3. The package will be available for all users who run `renv::restore()`
+3. **renv not activated**: Run R from the project root directory
 
 ## Links
 
-- [California Groups Spreadsheet](https://github.com/Nall-Group/california-groups-disambiguation/blob/main/crosswalk.standardizenames.manualedits_clean.csv) - Main data source accessed by the app
+- [GitHub Pages App](https://nall-group.github.io/california-groups-disambiguation/)
+- [Disambiguation Summary CSV](https://github.com/Nall-Group/california-groups-disambiguation/blob/main/disambiguation_summary.csv)
+- [Report Issues](https://github.com/Nall-Group/california-groups-disambiguation/issues)
