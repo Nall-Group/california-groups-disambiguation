@@ -291,7 +291,12 @@ async function fetchChunk(url) {
   }
 }
 
-// --- Look up a single name ---
+// --- Tokenize a string into uppercase words ---
+function tokenize(s) {
+  return s.toUpperCase().replace(/[^A-Z0-9]+/g, " ").trim().split(/\s+/).filter(t => t);
+}
+
+// --- Look up a single name (returns {match, fuzzy, matches}) ---
 async function lookupName(name) {
   const trimmed = name.trim();
   if (!trimmed) return null;
@@ -303,18 +308,42 @@ async function lookupName(name) {
 
   // Exact match
   if (chunk[trimmed]) {
-    return chunk[trimmed];
+    return { match: { ...chunk[trimmed], name: trimmed }, fuzzy: false };
   }
 
-  // Case-insensitive match
+  // Case-insensitive exact match
   const upper = trimmed.toUpperCase();
   for (const key of Object.keys(chunk)) {
     if (key.toUpperCase() === upper) {
-      return chunk[key];
+      return { match: { ...chunk[key], name: key }, fuzzy: false };
     }
   }
 
-  return null;
+  // Token-based fuzzy match within the chunk
+  const queryTokens = tokenize(trimmed);
+  if (queryTokens.length === 0) return null;
+
+  const candidates = [];
+  for (const key of Object.keys(chunk)) {
+    const entryTokens = tokenize(key);
+    const allPresent = queryTokens.every(qt => entryTokens.some(et => et.includes(qt)));
+    if (allPresent) {
+      // Score: fewer extra tokens = better match
+      const extraTokens = entryTokens.length - queryTokens.length;
+      candidates.push({ name: key, ...chunk[key], score: extraTokens });
+    }
+  }
+
+  if (candidates.length === 0) return null;
+
+  // Sort by score (fewer extra tokens first), then alphabetically
+  candidates.sort((a, b) => a.score - b.score || a.name.localeCompare(b.name));
+
+  return {
+    match: candidates[0],
+    fuzzy: true,
+    matches: candidates.slice(0, 5)
+  };
 }
 
 // --- Single lookup UI ---
@@ -332,6 +361,7 @@ document.getElementById("lookup-btn").addEventListener("click", async () => {
   }
 
   resultBox.textContent = "Looking up...";
+  resultBox.innerHTML = "";
 
   const result = await lookupName(input);
 
@@ -340,13 +370,38 @@ document.getElementById("lookup-btn").addEventListener("click", async () => {
     return;
   }
 
-  resultBox.textContent = result.c;
+  const m = result.match;
 
-  if (result.r && result.r !== "self") {
-    const label = result.r.replace(/_/g, " ");
-    relText.textContent = input.trim() + " is " +
+  if (result.fuzzy) {
+    // Show fuzzy match results
+    const prefix = document.createElement("div");
+    prefix.style.color = "#856404";
+    prefix.style.marginBottom = "8px";
+    prefix.textContent = "No exact match. Closest:";
+    resultBox.appendChild(prefix);
+
+    for (const c of result.matches) {
+      const row = document.createElement("div");
+      row.style.marginBottom = "4px";
+      const nameSpan = document.createElement("strong");
+      nameSpan.textContent = c.name;
+      row.appendChild(nameSpan);
+      if (c.c !== c.name) {
+        const arrow = document.createTextNode(" \u2192 " + c.c);
+        row.appendChild(arrow);
+      }
+      resultBox.appendChild(row);
+    }
+  } else {
+    resultBox.textContent = m.c;
+  }
+
+  if (m.r && m.r !== "self") {
+    const label = m.r.replace(/_/g, " ");
+    const matchName = result.fuzzy ? m.name : input.trim();
+    relText.textContent = matchName + " is " +
       (label === "alternate spelling" ? "an" : "a") + " " + label +
-      " of " + result.c;
+      " of " + m.c;
     relBox.style.display = "block";
   }
 });
