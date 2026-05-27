@@ -4,6 +4,17 @@ This folder is the workspace for incorporating the **58,812 leginfo support-orgs
 crosswalk failed to match** when the crosswalk was applied to `leginfo_metadata.csv` to build
 the co-support graph. Every task numbered "leginfo gap" references this file.
 
+## ⚠️ NO SHORTCUTS — examine every org individually
+
+Supervisor directive: **do NOT bulk-process or rubber-stamp these.** Look at each individual org
+string, one at a time, and work with it deliberately:
+- Read the actual `leginfo_org` / `org_name` value and think about what it really is.
+- Find and inspect the real candidate entry in the crosswalk before merging — confirm it is genuinely
+  the same organization, not just a high fuzzy score. **This applies even to the ≥97 band.**
+- A high WRatio is a hint, not a decision. False positives exist at every confidence level.
+- When uncertain, search the crosswalk and the web before acting; if still unsure, mark the task
+  Blocked and post a question (per CLAUDE.md) rather than guessing.
+
 ## Worklist files (all sorted by `bills_supported` DESC — high-impact first)
 
 | File | Rows | Columns |
@@ -46,8 +57,10 @@ Candidate columns: `leginfo_org, leginfo_bills, suggested_canonical, matched_nam
 ## Per-band handling
 
 ### Candidate bands (`leginfo_cand_ge97 / 90to97 / 75to90`)
-For each row, the `leginfo_org` is a **suggested** variant of an existing crosswalk entry. **Verify
-it is truly the same org** (≥97 = light check; 90–97 and 75–90 = verify each carefully):
+For each row, the `leginfo_org` is a **suggested** variant of an existing crosswalk entry. **Examine
+each org individually and confirm it is truly the same org** — no bulk/mechanical merging at ANY
+confidence, including ≥97 (see the NO SHORTCUTS section above). Look at the actual string, find the
+real entry in the crosswalk, decide deliberately:
 
 - `matched_via=canonical`: find that canonical in the JSON. **If the leginfo spelling is the clean/
   correct one and the existing canonical is OCR-corrupted** (e.g. canonical `Cailfornia Federation of
