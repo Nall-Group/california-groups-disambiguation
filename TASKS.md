@@ -4,13 +4,13 @@
 
 To edit this file (mark tasks, update queues, add tasks), join this queue first. Only the name at the top may edit.
 
-RA-Beta
 RA-Alpha
 
 ## Data Write Queue
 
 Only the RA at the top of this list has write access to project data files (crosswalk JSON, CSVs). Add yourself to the bottom when you're ready to write. Remove yourself when done.
 
+RA-Beta
 
 
 
@@ -904,7 +904,7 @@ Only the RA at the top of this list has write access to project data files (cros
 | 797 | **Leginfo gap — candidates 90–97, rows 1051–1200 (Wave 2).** Same as task 780 but rows 1051–1200 of `org_name_for_cleaning/leginfo_cand_90to97.csv`. NO SHORTCUTS — examine each org individually. Run cleaning/dedup/stats pipeline before committing. | Done | RA-Alpha | Examined all 150 (low-confidence band). 99 covered. 51 acted: 15 incorporated as alts (officeholders→office per Q9: Lt.Gov Garamendi/Bustamante→LIEUTENANT GOVERNOR, SF DA Gascon→District Attorneys, Mayors Oakland/Jerry Brown→CITY OF OAKLAND, Riordan→CITY OF LA; cities West Hollywood/Santa Barbara; Planned Parenthood SB affiliates; CA Building Trades Council; SLO CCD/Cuesta; Mission Blue; Laborers Local 724; County Clerks Assoc). 7 individuals (4 LA Supervisors, Councilmember Frye, Maxine Waters, George Runner). 1 conjoined (Jewish Federations). 28 partial. Logged 15. Pipeline run, not_in_crosswalk=0. (Also swept in 3 uncommitted conjoined-removals from prior 796 state.) Committed. |
 | 798 | **Leginfo gap — candidates 90–97, rows 1201–1350 (Wave 2).** Same as task 780 but rows 1201–1350 of `org_name_for_cleaning/leginfo_cand_90to97.csv`. NO SHORTCUTS — examine each org individually. Run cleaning/dedup/stats pipeline before committing. | Done | RA-Beta | Examined all 150 individually (probable band). 88 already resolved. 62 remaining: 33 added as alt under correct verified canonical (officeholders→office per Q9: SoS Padilla/Weber, AG Bonta, Lt Gov Bustamante, Supt Torlakson→CDE, SF City Atty Chiu, BOE Leonard/Runner, Baldwin Park Chief→PD; cities Stockton/West Hollywood→real city gov; 3 SF DA Gascón variants; truncations API RISE, YWCA SD, Wildlands Conservancy, SCOPE, Sonoma SCTA/RCPA, San Mateo C/CAG, Western Center, 2 Santa Clara supervisor/board). 2 NEW canonicals: 'Western Milling' (real CA grain miller, not 'Western Drilling') & 'Strawberry Creek Monthly Meeting...Friends' (distinct Quaker meeting). 3 '(prior version)'/'(UNREG)' covered via cleaning (pipeline merged 1 redundant). 21 generic/fragment/placeholder→leginfo_partial.csv. 2 non-leadership officials (Supervisor Lawson-Remer, Councilmember Cisneros)→leginfo_individuals.csv. 1 document title→leginfo_invalid.csv. Logged 35. Clean stable, no clobbering. Committed. |
 | 799 | **Leginfo gap — candidates 90–97, rows 1351–1500 (Wave 2).** Same as task 780 but rows 1351–1500 of `org_name_for_cleaning/leginfo_cand_90to97.csv`. NO SHORTCUTS — examine each org individually. Run cleaning/dedup/stats pipeline before committing. | In Progress | RA-Alpha |  |
-| 800 | **Leginfo gap — candidates 75–90, rows 151–300 (Wave 2).** Same as task 784 but rows 151–300 of `org_name_for_cleaning/leginfo_cand_75to90.csv`. NO SHORTCUTS — examine each org individually per `org_name_for_cleaning/README.md` (candidate-band handling, low-confidence; many will be false positives → handle as novel). Run cleaning/dedup/stats pipeline before committing. | Not Started |  |  |
+| 800 | **Leginfo gap — candidates 75–90, rows 151–300 (Wave 2).** Same as task 784 but rows 151–300 of `org_name_for_cleaning/leginfo_cand_75to90.csv`. NO SHORTCUTS — examine each org individually per `org_name_for_cleaning/README.md` (candidate-band handling, low-confidence; many will be false positives → handle as novel). Run cleaning/dedup/stats pipeline before committing. | In Progress | RA-Beta |  |
 | 801 | **Leginfo gap — novel, rows 501–600 (Wave 2).** Same as task 785 but rows 501–600 of `org_name_for_cleaning/leginfo_novel.csv`. NO SHORTCUTS — examine each org individually per `org_name_for_cleaning/README.md` (novel-set handling: search crosswalk for acronym↔full-name, then web; add real orgs as new canonical, route junk to leginfo_*.csv). Run cleaning/dedup/stats pipeline before committing. | Not Started |  |  |
 | 802 | **Leginfo gap — novel, rows 601–700 (Wave 2).** Same as task 785 but rows 601–700 of `org_name_for_cleaning/leginfo_novel.csv`. NO SHORTCUTS — examine each org individually. Run cleaning/dedup/stats pipeline before committing. | Not Started |  |  |
 | 803 | **Leginfo gap — novel, rows 701–800 (Wave 2).** Same as task 785 but rows 701–800 of `org_name_for_cleaning/leginfo_novel.csv`. NO SHORTCUTS — examine each org individually. Run cleaning/dedup/stats pipeline before committing. | Not Started |  |  |
