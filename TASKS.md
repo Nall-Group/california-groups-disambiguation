@@ -4,12 +4,13 @@
 
 To edit this file (mark tasks, update queues, add tasks), join this queue first. Only the name at the top may edit.
 
+RA-Alpha
 
 ## Data Write Queue
 
 Only the RA at the top of this list has write access to project data files (crosswalk JSON, CSVs). Add yourself to the bottom when you're ready to write. Remove yourself when done.
 
-RA-Alpha
+RA-Beta
 
 
 
@@ -923,7 +924,7 @@ RA-Alpha
 | 815 | **Leginfo gap — candidates 90–97, rows 2251–2400 (Wave 3).** Same as task 780 but rows 2251–2400 of `org_name_for_cleaning/leginfo_cand_90to97.csv`. NO SHORTCUTS — examine each org individually. Run cleaning/dedup/stats pipeline before committing. | Done | RA-Beta | Examined all 150 individually (probable band). 73 already resolved. 77 new: 36 added as alt (supervisor person-canonicals Fletcher/Cox/Spitzer/Mar/Horn, DA Stephan, org variants USF Center/UCLA cityLAB/UFCW Western/Triple P/SF LGBT Ctr/Latino Coalition/State BCTC x2/Sycuan/CCOF/County of Stanislaus/SCAQMD). 4 new canonicals (Tri-County EDC, Tri-City Prevention Collab, Greenspan Co/Adjusters Intl, Support Network for Battered Women MV). 3 '(prior version)'/'(UNREG)' covered via cleaning. 1 conjoined, 7 narrative (Thoroughbred Owners CHRB x3, CWDA writes, State BCTC supported-by x2), 12 non-leadership officials (8 supervisors→generic match, Sen Feinstein, Councilmember Koretz, Trustee Duff), 14 generic/fragment→partial. Logged 40. Clean stable, no clobbering. Committed. |
 | 816 | **Leginfo gap — candidates 75–90, rows 301–450 (Wave 3).** Same as task 784 but rows 301–450 of `org_name_for_cleaning/leginfo_cand_75to90.csv`. NO SHORTCUTS — examine each org individually. Run cleaning/dedup/stats pipeline before committing. | In Progress | RA-Alpha |  |
 | 817 | **Leginfo gap — novel, rows 901–1000 (Wave 3).** Same as task 785 but rows 901–1000 of `org_name_for_cleaning/leginfo_novel.csv`. NO SHORTCUTS — examine each org individually. Apply Q9 policy: statewide constitutional officeholders ("Attorney General X", "Governor X", "Secretary of State X", "State Treasurer X", "State Controller X", "Lieutenant Governor X") go as alt_spelling under the office canonical, NOT to leginfo_individuals.csv. Run cleaning/dedup/stats pipeline before committing. | Done | RA-Beta | Examined all 100 individually. 49 already resolved. 51 new: 11 added as alt (Q9 officeholders: Controller Westley/Honorable Chiang/'Controller of State of CA'→Office of State Controller, Treasurer Chiang→CA STATE TREASURER, Gov Gray Davis→GOVERNOR'S OFFICE; Mayors Bass(LA)/Sanders(SD); Sheriff Baca→LA County Sheriff; cities West Sacramento/Lakewood/Encinitas). 5 new canonicals (W.O.M.A.N. Inc, Volunteer Centers of CA, Inland Agency, High Tech LA, LA Mas). 6 '(prior version)'/'(UNREG)' covered via cleaning (MapLight, FPPC, Ella Baker Ctr, Disability Voices United, Courage CA, Consumer Fed of CA). 3 Congress members→individuals, 4 narrative, 22 placeholder/generic/bare-city→partial. Logged 16. Clean stable, no clobbering. Committed. |
-| 818 | **Leginfo gap — novel, rows 1001–1100 (Wave 3).** Same as task 785 but rows 1001–1100 of `org_name_for_cleaning/leginfo_novel.csv`. NO SHORTCUTS — examine each org individually. Apply Q9 officeholder policy (alt_spelling under office canonical, not individuals). Run cleaning/dedup/stats pipeline before committing. | Not Started |  |  |
+| 818 | **Leginfo gap — novel, rows 1001–1100 (Wave 3).** Same as task 785 but rows 1001–1100 of `org_name_for_cleaning/leginfo_novel.csv`. NO SHORTCUTS — examine each org individually. Apply Q9 officeholder policy (alt_spelling under office canonical, not individuals). Run cleaning/dedup/stats pipeline before committing. | In Progress | RA-Beta |  |
 | 819 | **Leginfo gap — novel, rows 1101–1200 (Wave 3).** Same as task 785 but rows 1101–1200 of `org_name_for_cleaning/leginfo_novel.csv`. NO SHORTCUTS — examine each org individually. Apply Q9 officeholder policy. Run cleaning/dedup/stats pipeline before committing. | Not Started |  |  |
 | 820 | **Leginfo gap — novel, rows 1201–1300 (Wave 3).** Same as task 785 but rows 1201–1300 of `org_name_for_cleaning/leginfo_novel.csv`. NO SHORTCUTS — examine each org individually. Apply Q9 officeholder policy. Run cleaning/dedup/stats pipeline before committing. | Not Started |  |  |
 | 821 | **Leginfo gap — candidates ≥97, rows 3001–3250 (Wave 4).** Same as task 776 but rows 3001–3250 of `org_name_for_cleaning/leginfo_cand_ge97.csv`. NO SHORTCUTS — examine each org individually. Run cleaning/dedup/stats pipeline before committing. | Not Started |  |  |
