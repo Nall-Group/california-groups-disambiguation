@@ -4,12 +4,13 @@
 
 To edit this file (mark tasks, update queues, add tasks), join this queue first. Only the name at the top may edit.
 
+RA-Alpha
 
 ## Data Write Queue
 
 Only the RA at the top of this list has write access to project data files (crosswalk JSON, CSVs). Add yourself to the bottom when you're ready to write. Remove yourself when done.
 
-RA-Alpha
+RA-Beta
 
 
 
@@ -935,7 +936,7 @@ RA-Alpha
 | 827 | **Leginfo gap — candidates 90–97, rows 2851–3000 (Wave 4).** Same as task 780 but rows 2851–3000 of `org_name_for_cleaning/leginfo_cand_90to97.csv`. NO SHORTCUTS — examine each org individually. Run cleaning/dedup/stats pipeline before committing. | Done | RA-Alpha | Examined all 150. 64 covered. 86 acted: 42 incorporated as alts — mayors→city per Q9 (Villaraigosa/Garcetti→LA, Quan/Oakland, Arreguin/Berkeley, Greenfield/Hermosa Beach/Piedmont/Irvine/Lake Forest); officeholders→office (Lt Gov Bustamente, SF DA Harris); LA County Board of Supervisors variants, League of CA Cities/Conservation Voters, Learning Disabilities Assoc of CA, Komen, matched person/org canonicals. 20 individuals, 7 conjoined, 3 narrative, 14 partial. Logged 42. not_in_crosswalk=0. Committed. |
 | 828 | **Leginfo gap — candidates 90–97, rows 3001–3150 (Wave 4).** Same as task 780 but rows 3001–3150 of `org_name_for_cleaning/leginfo_cand_90to97.csv`. NO SHORTCUTS — examine each org individually. Run cleaning/dedup/stats pipeline before committing. | In Progress | RA-Alpha |  |
 | 829 | **Leginfo gap — candidates 90–97, rows 3151–3300 (Wave 4).** Same as task 780 but rows 3151–3300 of `org_name_for_cleaning/leginfo_cand_90to97.csv`. NO SHORTCUTS — examine each org individually. Run cleaning/dedup/stats pipeline before committing. | Done | RA-Beta | Examined all 150 individually. 44 already resolved. 106 new: 39 added as alt (officeholders per Q9: Garcetti LA, Penrose HMB, Gonzales mayor, Kounalakis Lt Gov, Bustamante, Lungren AG, BOE Andal+Fiona Ma, Superintendent Duardo→LACOE, Supervisors Gerber/Cortese, Chief Snowden; org variants MJ Fox Fdn, FTB, EDD, Adventist Health, DISCUS, DBSA CA, Davidon Homes, Rainbow Pride, DGS, DFA, Little Hoover CJTF, Disability Rights CA). 4 '(prior version)'/'(UNREG)' covered via cleaning. 5 conjoined, 8 narrative, 14 non-leadership officials, 36 generic/fragment/bare-place→partial. Logged 39; pipeline merged 1. Clean stable, no clobbering. Committed. |
-| 830 | **Leginfo gap — candidates 75–90, rows 451–600 (Wave 4).** Same as task 784 but rows 451–600 of `org_name_for_cleaning/leginfo_cand_75to90.csv`. NO SHORTCUTS — examine each org individually. Run cleaning/dedup/stats pipeline before committing. | Not Started |  |  |
+| 830 | **Leginfo gap — candidates 75–90, rows 451–600 (Wave 4).** Same as task 784 but rows 451–600 of `org_name_for_cleaning/leginfo_cand_75to90.csv`. NO SHORTCUTS — examine each org individually. Run cleaning/dedup/stats pipeline before committing. | In Progress | RA-Beta |  |
 | 831 | **Leginfo gap — novel, rows 1301–1400 (Wave 4).** Same as task 785 but rows 1301–1400 of `org_name_for_cleaning/leginfo_novel.csv`. NO SHORTCUTS — examine each org individually. Apply Q9 officeholder policy (alt_spelling under office canonical, not individuals). Run cleaning/dedup/stats pipeline before committing. | Not Started |  |  |
 | 832 | **Leginfo gap — novel, rows 1401–1500 (Wave 4).** Same as task 785 but rows 1401–1500 of `org_name_for_cleaning/leginfo_novel.csv`. NO SHORTCUTS — examine each org individually. Apply Q9 officeholder policy. Run cleaning/dedup/stats pipeline before committing. | Not Started |  |  |
 | 833 | **Leginfo gap — novel, rows 1501–1600 (Wave 4).** Same as task 785 but rows 1501–1600 of `org_name_for_cleaning/leginfo_novel.csv`. NO SHORTCUTS — examine each org individually. Apply Q9 officeholder policy. Run cleaning/dedup/stats pipeline before committing. | Not Started |  |  |
