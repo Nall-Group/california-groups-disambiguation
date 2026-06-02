@@ -4,13 +4,11 @@
 
 To edit this file (mark tasks, update queues, add tasks), join this queue first. Only the name at the top may edit.
 
-RA-Beta
 
 ## Data Write Queue
 
 Only the RA at the top of this list has write access to project data files (crosswalk JSON, CSVs). Add yourself to the bottom when you're ready to write. Remove yourself when done.
 
-RA-Beta
 RA-Alpha
 
 
@@ -952,7 +950,7 @@ RA-Alpha
 | 842 | **Leginfo gap — candidates 90–97, rows 4201–4350 (Wave 5).** Same as task 780 but rows 4201–4350 of `org_name_for_cleaning/leginfo_cand_90to97.csv`. NO SHORTCUTS — examine each org individually. Run cleaning/dedup/stats pipeline before committing. | Done | RA-Alpha | Slice almost entirely narrative sentence-fragments. Examined all 150. 1 covered. 149 acted: 7 alts (clean business names), 2 individuals, 18 partial (generic stubs), 122 narrative (mid-sentence fragments w/ embedded orgs already in crosswalk). Logged 7. not_in_crosswalk=0. Committed. |
 | 843 | **Leginfo gap — candidates 90–97, rows 4351–4500 (Wave 5).** Same as task 780 but rows 4351–4500 of `org_name_for_cleaning/leginfo_cand_90to97.csv`. NO SHORTCUTS — examine each org individually. Run cleaning/dedup/stats pipeline before committing. | Done | RA-Beta | Examined all 150. 2 already resolved, 13 covered via cleaning. Added 3 real orgs as alt spellings (ePaint→E Paint, car2go North America→Car2Go, de Vere's Irish Pub Sacramento→De Vere's Irish Pub). Routed 132 fragments: 3 conjoined, 89 narrative, 40 partial. Pipeline stable. |
 | 844 | **Leginfo gap — candidates 75–90, rows 601–730 (Wave 5, FINAL 75–90 batch).** Same as task 784 but rows 601–730 (130 rows, the last of the 75–90 band) of `org_name_for_cleaning/leginfo_cand_75to90.csv`. NO SHORTCUTS — examine each org individually. After this task, the entire 75–90 band is complete. Run cleaning/dedup/stats pipeline before committing. | Done | RA-Alpha | Lowest-confidence final batch. Examined all 130. 4 covered. 126 acted: 7 incorporated (3 alts + 4 new canonicals: Arlington Mortuary, Amos Temple Christian Methodist, Alchemical Hypnotherapy Institute, 4th Ave HOA), 25 individuals, 5 narrative, 89 partial (placeholder counts/acronyms/author-paren fragments). 75-90 band now complete. Logged 7. not_in_crosswalk=0. Committed. |
-| 845 | **Leginfo gap — novel, rows 1801–1900 (Wave 5).** Same as task 785 but rows 1801–1900 of `org_name_for_cleaning/leginfo_novel.csv`. NO SHORTCUTS — examine each org individually. Apply Q9 officeholder policy. Run cleaning/dedup/stats pipeline before committing. | In Progress | RA-Beta |  |
+| 845 | **Leginfo gap — novel, rows 1801–1900 (Wave 5).** Same as task 785 but rows 1801–1900 of `org_name_for_cleaning/leginfo_novel.csv`. NO SHORTCUTS — examine each org individually. Apply Q9 officeholder policy. Run cleaning/dedup/stats pipeline before committing. | Done | RA-Beta | Examined all 100. 21 resolved + 4 via cleaning. 8 added as alt spellings (3 officeholders via Q9: AG Lockyer/Bonta→ATTORNEY GENERAL, Villaraigosa→CITY OF LOS ANGELES; 5 org variants: Alzheimer's Assoc, Alameda City of, Aging Services of CA, AFL-CIO CFT, Access Support Network). Routed 67: 5 conjoined, 1 individual, 4 narrative, 14 invalid, 43 partial. Pipeline stable. |
 | 846 | **Leginfo gap — novel, rows 1901–2000 (Wave 5).** Same as task 785 but rows 1901–2000 of `org_name_for_cleaning/leginfo_novel.csv`. NO SHORTCUTS — examine each org individually. Apply Q9 officeholder policy. Run cleaning/dedup/stats pipeline before committing. | In Progress | RA-Alpha |  |
 | 847 | **Leginfo gap — novel, rows 2001–2100 (Wave 5).** Same as task 785 but rows 2001–2100 of `org_name_for_cleaning/leginfo_novel.csv`. NO SHORTCUTS — examine each org individually. Apply Q9 officeholder policy. Run cleaning/dedup/stats pipeline before committing. | Not Started |  |  |
 | 848 | **Leginfo gap — novel, rows 2101–2200 (Wave 5).** Same as task 785 but rows 2101–2200 of `org_name_for_cleaning/leginfo_novel.csv`. NO SHORTCUTS — examine each org individually. Apply Q9 officeholder policy. Run cleaning/dedup/stats pipeline before committing. | Not Started |  |  |
