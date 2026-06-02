@@ -9,7 +9,6 @@ To edit this file (mark tasks, update queues, add tasks), join this queue first.
 
 Only the RA at the top of this list has write access to project data files (crosswalk JSON, CSVs). Add yourself to the bottom when you're ready to write. Remove yourself when done.
 
-RA-Beta
 RA-Alpha
 
 
@@ -966,7 +965,7 @@ RA-Alpha
 | 855 | **Leginfo gap — candidates 90–97, rows 5101–5250 (Wave 6).** Same as task 780 but rows 5101–5250 of `org_name_for_cleaning/leginfo_cand_90to97.csv`. NO SHORTCUTS — examine each org individually. Run cleaning/dedup/stats pipeline before committing. | Done | RA-Beta | Examined all 150. 16 resolved + 17 via cleaning. 39 added (31 alt + 8 new canonicals). Routed 78: 28 individuals (incl. Vice Mayors), 27 conjoined, 2 narrative, 21 partial. Pipeline stable. |
 | 856 | **Leginfo gap — candidates 90–97, rows 5251–5400 (Wave 6).** Same as task 780 but rows 5251–5400 of `org_name_for_cleaning/leginfo_cand_90to97.csv`. NO SHORTCUTS — examine each org individually. Run cleaning/dedup/stats pipeline before committing. | Done | RA-Beta | Examined all 150. 19 resolved + 16 via cleaning. 44 added (38 alt + 6 new canonicals). Routed 71: 8 individuals, 26 conjoined, 2 narrative, 35 partial. Pipeline stable. |
 | 857 | **Leginfo gap — candidates 90–97, rows 5401–5550 (Wave 6).** Same as task 780 but rows 5401–5550 of `org_name_for_cleaning/leginfo_cand_90to97.csv`. NO SHORTCUTS — examine each org individually. Run cleaning/dedup/stats pipeline before committing. | In Progress | RA-Alpha |  |
-| 858 | **Leginfo gap — candidates 90–97, rows 5551–5700 (Wave 6).** Same as task 780 but rows 5551–5700 of `org_name_for_cleaning/leginfo_cand_90to97.csv`. NO SHORTCUTS — examine each org individually. Run cleaning/dedup/stats pipeline before committing. | In Progress | RA-Beta |  |
+| 858 | **Leginfo gap — candidates 90–97, rows 5551–5700 (Wave 6).** Same as task 780 but rows 5551–5700 of `org_name_for_cleaning/leginfo_cand_90to97.csv`. NO SHORTCUTS — examine each org individually. Run cleaning/dedup/stats pipeline before committing. | Done | RA-Beta | Examined all 150. 85 resolved + 12 via cleaning (high hit rate). 20 added (16 alt + 4 new canonicals). Routed 33: 5 conjoined, 2 narrative, 3 invalid, 23 partial. Pipeline stable. |
 | 859 | **Leginfo gap — candidates 90–97, rows 5701–5850 (Wave 6).** Same as task 780 but rows 5701–5850 of `org_name_for_cleaning/leginfo_cand_90to97.csv`. NO SHORTCUTS — examine each org individually. Run cleaning/dedup/stats pipeline before committing. | Not Started |  |  |
 | 860 | **Leginfo gap — novel, rows 2401–2500 (Wave 6).** Same as task 785 but rows 2401–2500 of `org_name_for_cleaning/leginfo_novel.csv`. NO SHORTCUTS — examine each org individually. Apply Q9 officeholder policy. Run cleaning/dedup/stats pipeline before committing. | Not Started |  |  |
 | 861 | **Leginfo gap — novel, rows 2501–2600 (Wave 6).** Same as task 785 but rows 2501–2600 of `org_name_for_cleaning/leginfo_novel.csv`. NO SHORTCUTS — examine each org individually. Apply Q9 officeholder policy. Run cleaning/dedup/stats pipeline before committing. | Not Started |  |  |
