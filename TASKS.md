@@ -4,12 +4,13 @@
 
 To edit this file (mark tasks, update queues, add tasks), join this queue first. Only the name at the top may edit.
 
+Management-Assistant
 
 ## Data Write Queue
 
 Only the RA at the top of this list has write access to project data files (crosswalk JSON, CSVs). Add yourself to the bottom when you're ready to write. Remove yourself when done.
 
-RA-Alpha
+
 
 
 
@@ -898,7 +899,7 @@ RA-Alpha
 | 788 | **Leginfo gap — novel, rows 301–400.** Same as task 785 but rows 301–400 of `org_name_for_cleaning/leginfo_novel.csv`. Run cleaning/dedup/stats pipeline before committing. | Not Started |  |  |
 | 789 | **Leginfo gap — novel, rows 401–500.** Same as task 785 but rows 401–500 of `org_name_for_cleaning/leginfo_novel.csv`. Run cleaning/dedup/stats pipeline before committing. | Not Started |  |  |
 | 790 | **Leginfo gap — candidates ≥97, rows 1001–1250 (Wave 2).** Same as task 776 but rows 1001–1250 of `org_name_for_cleaning/leginfo_cand_ge97.csv`. NO SHORTCUTS — examine each org individually per `org_name_for_cleaning/README.md`. Run cleaning/dedup/stats pipeline before committing. | Done | RA-Alpha | Examined all 250 individually. 51 gap variants added as alt, 158 covered variants explicitly added (pipeline merged 146 dupes), 4 OCR canonicals renamed (Dess→Dress Perkins, dup-Yolo→Yolo Board of Supervisors, Worksage→Worksafe, Weavervile→Weaverville). All 250 leg strings now resolve; not_in_crosswalk=0. Logged 250. Committed 009deaa. |
-| 791 | **Leginfo gap — candidates ≥97, rows 1251–1500 (Wave 2).** Same as task 776 but rows 1251–1500 of `org_name_for_cleaning/leginfo_cand_ge97.csv`. NO SHORTCUTS — examine each org individually. Run cleaning/dedup/stats pipeline before committing. | In Progress | RA-Alpha |  |
+| 791 | **Leginfo gap — candidates ≥97, rows 1251–1500 (Wave 2).** Same as task 776 but rows 1251–1500 of `org_name_for_cleaning/leginfo_cand_ge97.csv`. NO SHORTCUTS — examine each org individually. Run cleaning/dedup/stats pipeline before committing. | Not Started |  | Reset by MA after prior RA-Alpha session crashed mid-task; no partial commits left in tree. |
 | 792 | **Leginfo gap — candidates ≥97, rows 1501–1750 (Wave 2).** Same as task 776 but rows 1501–1750 of `org_name_for_cleaning/leginfo_cand_ge97.csv`. NO SHORTCUTS — examine each org individually. Run cleaning/dedup/stats pipeline before committing. | Not Started |  |  |
 | 793 | **Leginfo gap — candidates ≥97, rows 1751–2000 (Wave 2).** Same as task 776 but rows 1751–2000 of `org_name_for_cleaning/leginfo_cand_ge97.csv`. NO SHORTCUTS — examine each org individually. Run cleaning/dedup/stats pipeline before committing. | Not Started |  |  |
 | 794 | **Leginfo gap — candidates 90–97, rows 601–750 (Wave 2).** Same as task 780 but rows 601–750 of `org_name_for_cleaning/leginfo_cand_90to97.csv`. NO SHORTCUTS — examine each org individually per `org_name_for_cleaning/README.md` (candidate-band handling; PROBABLE not certain, verify each). Run cleaning/dedup/stats pipeline before committing. | Not Started |  |  |
