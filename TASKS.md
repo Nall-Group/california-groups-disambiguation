@@ -4,12 +4,13 @@
 
 To edit this file (mark tasks, update queues, add tasks), join this queue first. Only the name at the top may edit.
 
-RA-Beta
 RA-Alpha
 
 ## Data Write Queue
 
 Only the RA at the top of this list has write access to project data files (crosswalk JSON, CSVs). Add yourself to the bottom when you're ready to write. Remove yourself when done.
+
+RA-Beta
 
 
 
@@ -916,7 +917,7 @@ Only the RA at the top of this list has write access to project data files (cros
 | 809 | **Leginfo gap — candidates ≥97, rows 2751–3000 (Wave 3).** Same as task 776 but rows 2751–3000 of `org_name_for_cleaning/leginfo_cand_ge97.csv`. NO SHORTCUTS — examine each org individually. Run cleaning/dedup/stats pipeline before committing. | Done | RA-Alpha | Examined all 250. 191 covered. 59 acted — all genuine same-org OCR/spacing/typo variants. 2 renames (canonical OCR-corrupted, leginfo clean: Peteluma→Petaluma Police Dept, Loyola Maramount→Marymount), old demoted to alt. 57 alt_spellings under matched canonical (Catholic Charities/War Vets, CA State Sheriffs/Firefighters/PTA/CSAC, CA Peace Officers, Insurance Commissioner Lara→CA Dept of Insurance, Health+Advocates, etc.). Pipeline deduped 1 near-dup. Logged 59. not_in_crosswalk=0. Committed. |
 | 810 | **Leginfo gap — candidates 90–97, rows 1501–1650 (Wave 3).** Same as task 780 but rows 1501–1650 of `org_name_for_cleaning/leginfo_cand_90to97.csv`. NO SHORTCUTS — examine each org individually. Run cleaning/dedup/stats pipeline before committing. | Done | RA-Beta | Examined all 150 individually (probable band). 74 already resolved. 76 new: 35 added as alt under correct canonical (officeholders per Q9: Lt Gov Kounalakis x3+Bustamante, BOE Andal+Leonard, Controller Chiang, Ins Comm Lara x2, AG Bonta+Becerra, Mayors Gloria/Arreguin/McConnell, Councilmembers Koretz/Emerald/Hilton→person-canonicals; cities Elk Grove/Walnut Creek; org variants NAACP, CNA/NNU, CA Prof FF, CA Optometric/Dental, Yuba College, Youth Law Ctr, Weatherford, 20/20 Recycle). 5 '(prior version)'/'(in concept)' covered via cleaning. 3 conjoined, 2 narrative, 4 non-leadership officials (Congressman Garamendi, Councilmember Zwick, Supervisors Miley/Yamada), 27 generic/fragment/bare-place→partial. Logged 35; pipeline merged 1 redundant. Clean stable, no clobbering. Committed. |
 | 811 | **Leginfo gap — candidates 90–97, rows 1651–1800 (Wave 3).** Same as task 780 but rows 1651–1800 of `org_name_for_cleaning/leginfo_cand_90to97.csv`. NO SHORTCUTS — examine each org individually. Run cleaning/dedup/stats pipeline before committing. | In Progress | RA-Alpha |  |
-| 812 | **Leginfo gap — candidates 90–97, rows 1801–1950 (Wave 3).** Same as task 780 but rows 1801–1950 of `org_name_for_cleaning/leginfo_cand_90to97.csv`. NO SHORTCUTS — examine each org individually. Run cleaning/dedup/stats pipeline before committing. | Not Started |  |  |
+| 812 | **Leginfo gap — candidates 90–97, rows 1801–1950 (Wave 3).** Same as task 780 but rows 1801–1950 of `org_name_for_cleaning/leginfo_cand_90to97.csv`. NO SHORTCUTS — examine each org individually. Run cleaning/dedup/stats pipeline before committing. | In Progress | RA-Beta |  |
 | 813 | **Leginfo gap — candidates 90–97, rows 1951–2100 (Wave 3).** Same as task 780 but rows 1951–2100 of `org_name_for_cleaning/leginfo_cand_90to97.csv`. NO SHORTCUTS — examine each org individually. Run cleaning/dedup/stats pipeline before committing. | Not Started |  |  |
 | 814 | **Leginfo gap — candidates 90–97, rows 2101–2250 (Wave 3).** Same as task 780 but rows 2101–2250 of `org_name_for_cleaning/leginfo_cand_90to97.csv`. NO SHORTCUTS — examine each org individually. Run cleaning/dedup/stats pipeline before committing. | Not Started |  |  |
 | 815 | **Leginfo gap — candidates 90–97, rows 2251–2400 (Wave 3).** Same as task 780 but rows 2251–2400 of `org_name_for_cleaning/leginfo_cand_90to97.csv`. NO SHORTCUTS — examine each org individually. Run cleaning/dedup/stats pipeline before committing. | Not Started |  |  |
