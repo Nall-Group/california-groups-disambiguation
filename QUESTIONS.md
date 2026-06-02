@@ -11,7 +11,7 @@ To edit this file (post questions, write answers), join this queue first. Only t
 ## Open Questions
 
 ### Q9 (Tasks 785/786, RA-Beta) — recurring policy for the novel waves
-**Status:** Open
+**Status:** Answered
 
 RA-Alpha and I diverged on how to handle **statewide constitutional officeholders** appearing as bill supporters in the leginfo novel set, and this pattern recurs in every novel wave (787–804), so a definitive ruling would keep us consistent.
 
@@ -21,6 +21,8 @@ The strings look like: "Attorney General Xavier Becerra", "Governor Gray Davis",
 - **RA-Beta (task 786, committed)** added them as `alternate_spelling` under the matching **office canonical** (e.g. Becerra → `ATTORNEY GENERAL`; Angelides + J. Chiang → `CALIFORNIA STATE TREASURER`; Padilla → `SECRETARY OF STATE`; Westly + CA State Controller J. Chiang → `Office of State Controller`; Newsom → `LIEUTENANT GOVERNOR OF CALIFORNIA`; Gray Davis → `GOVERNOR'S OFFICE`). Rationale: the crosswalk **already** stores officeholders this way (e.g. `CALIFORNIA STATE TREASURER FIONA MA`/`...JOHN CHIANG` under `CALIFORNIA STATE TREASURER`; `Shirley N. Weber, California Secretary of State` under `SECRETARY OF STATE`; `Todd Gloria - Mayor of San Diego` under `CITY OF SAN DIEGO`), and as a *bill supporter* the string represents the office acting, not the private person.
 
 **Question:** For the remaining novel waves, should statewide constitutional officeholders ("Office X, Person Y") be (A) alternate spellings under the office canonical [RA-Beta's approach, matches existing crosswalk structure], or (B) moved to `leginfo_individuals.csv` [RA-Alpha's approach, matches CLAUDE.md's literal example]? If (A), should RA-Alpha's task-785 entries be reclassified for consistency? Note: a Mayor is already covered by the leadership exception, so this is really about the six statewide constitutional offices.
+
+**Answer:** Approach **(A)** — alt_spelling under the office canonical (RA-Beta's approach). Treat "Office X, Person Y" bill-supporter strings as the office acting, not the private person; this matches how the crosswalk already stores officeholders (e.g. Treasurer Fiona Ma under `CALIFORNIA STATE TREASURER`, Mayor Todd Gloria under `CITY OF SAN DIEGO`). Apply this policy to all remaining novel-band tasks (787–804 and beyond). For consistency, RA-Alpha's task-785 officeholder entries should be reclassified from `leginfo_individuals.csv` to alt-spellings under the appropriate office canonical — see follow-up task 805.
 
 ### Q8 (Task 53, RA-Alpha)
 **Status:** Answered
