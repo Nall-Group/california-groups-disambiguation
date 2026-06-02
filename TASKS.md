@@ -10,6 +10,7 @@ To edit this file (mark tasks, update queues, add tasks), join this queue first.
 Only the RA at the top of this list has write access to project data files (crosswalk JSON, CSVs). Add yourself to the bottom when you're ready to write. Remove yourself when done.
 
 RA-Alpha
+RA-Beta
 
 
 
@@ -960,7 +961,7 @@ RA-Alpha
 | 850 | **Leginfo gap — novel, rows 2301–2400 (Wave 5).** Same as task 785 but rows 2301–2400 of `org_name_for_cleaning/leginfo_novel.csv`. NO SHORTCUTS — examine each org individually. Apply Q9 officeholder policy. Run cleaning/dedup/stats pipeline before committing. | Done | RA-Beta | Examined all 100. 40 resolved + 2 via cleaning. 8 added as alt spellings (6 officeholders via Q9: Treasurer Fiona Ma, Garcetti Mayor, 2 Lt Govs, Controller Yee, Moraga Mayor; + UCSA, State Bar). Routed 50: 10 individuals (US legislators/supervisors/councilmembers), 3 conjoined, 15 narrative, 22 partial. Pipeline stable. |
 | 851 | **Leginfo gap — candidates 90–97, rows 4501–4650 (Wave 6).** Same as task 780 but rows 4501–4650 of `org_name_for_cleaning/leginfo_cand_90to97.csv`. NO SHORTCUTS — examine each org individually. Run cleaning/dedup/stats pipeline before committing. | In Progress | RA-Alpha |  |
 | 852 | **Leginfo gap — candidates 90–97, rows 4651–4800 (Wave 6).** Same as task 780 but rows 4651–4800 of `org_name_for_cleaning/leginfo_cand_90to97.csv`. NO SHORTCUTS — examine each org individually. Run cleaning/dedup/stats pipeline before committing. | Done | RA-Beta | Examined all 150. 21 resolved + 6 via cleaning. 39 added to crosswalk (37 alt + 2 new canonicals: Yuba Sutter Foster Parent Assoc, YMCA of Sonoma County [YMCA≠YWCA false-pos]). Routed 82: 15 individuals, 9 conjoined, 19 narrative, 1 invalid, 38 partial. Pipeline stable. |
-| 853 | **Leginfo gap — candidates 90–97, rows 4801–4950 (Wave 6).** Same as task 780 but rows 4801–4950 of `org_name_for_cleaning/leginfo_cand_90to97.csv`. NO SHORTCUTS — examine each org individually. Run cleaning/dedup/stats pipeline before committing. | Not Started |  |  |
+| 853 | **Leginfo gap — candidates 90–97, rows 4801–4950 (Wave 6).** Same as task 780 but rows 4801–4950 of `org_name_for_cleaning/leginfo_cand_90to97.csv`. NO SHORTCUTS — examine each org individually. Run cleaning/dedup/stats pipeline before committing. | In Progress | RA-Beta |  |
 | 854 | **Leginfo gap — candidates 90–97, rows 4951–5100 (Wave 6).** Same as task 780 but rows 4951–5100 of `org_name_for_cleaning/leginfo_cand_90to97.csv`. NO SHORTCUTS — examine each org individually. Run cleaning/dedup/stats pipeline before committing. | Not Started |  |  |
 | 855 | **Leginfo gap — candidates 90–97, rows 5101–5250 (Wave 6).** Same as task 780 but rows 5101–5250 of `org_name_for_cleaning/leginfo_cand_90to97.csv`. NO SHORTCUTS — examine each org individually. Run cleaning/dedup/stats pipeline before committing. | Not Started |  |  |
 | 856 | **Leginfo gap — candidates 90–97, rows 5251–5400 (Wave 6).** Same as task 780 but rows 5251–5400 of `org_name_for_cleaning/leginfo_cand_90to97.csv`. NO SHORTCUTS — examine each org individually. Run cleaning/dedup/stats pipeline before committing. | Not Started |  |  |
