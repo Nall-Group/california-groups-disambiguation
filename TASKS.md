@@ -4,13 +4,11 @@
 
 To edit this file (mark tasks, update queues, add tasks), join this queue first. Only the name at the top may edit.
 
-RA-Beta
 
 ## Data Write Queue
 
 Only the RA at the top of this list has write access to project data files (crosswalk JSON, CSVs). Add yourself to the bottom when you're ready to write. Remove yourself when done.
 
-RA-Beta
 
 
 
@@ -1044,7 +1042,7 @@ RA-Beta
 | 923 | **Leginfo gap — novel, rows 5101–5200 (Wave 10).** Same as task 785 but rows 5101–5200 of `org_name_for_cleaning/leginfo_novel.csv`. NO SHORTCUTS — examine each org individually. Apply Q9 officeholder policy. Run cleaning/dedup/stats pipeline before committing. | Not Started |  |  |
 | 924 | **Leginfo gap — novel, rows 5201–5300 (Wave 10).** Same as task 785 but rows 5201–5300 of `org_name_for_cleaning/leginfo_novel.csv`. NO SHORTCUTS — examine each org individually. Apply Q9 officeholder policy. Run cleaning/dedup/stats pipeline before committing. | Not Started |  |  |
 | 925 | **Leginfo gap — novel, rows 5301–5400 (Wave 10).** Same as task 785 but rows 5301–5400 of `org_name_for_cleaning/leginfo_novel.csv`. NO SHORTCUTS — examine each org individually. Apply Q9 officeholder policy. Run cleaning/dedup/stats pipeline before committing. | Not Started |  |  |
-| 926 | **Leginfo gap — candidates 90–97, rows 11251–11400 (Wave 11).** Same as task 780 but rows 11251–11400 of `org_name_for_cleaning/leginfo_cand_90to97.csv`. NO SHORTCUTS — examine each org individually. Run cleaning/dedup/stats pipeline before committing. | In Progress | RA-Beta |  |
+| 926 | **Leginfo gap — candidates 90–97, rows 11251–11400 (Wave 11).** Same as task 780 but rows 11251–11400 of `org_name_for_cleaning/leginfo_cand_90to97.csv`. NO SHORTCUTS — examine each org individually. Run cleaning/dedup/stats pipeline before committing. | Done | RA-Beta | Examined all 150 (Mr./Ms. individuals, Monterey/Modoc/Mono county offices, Mountain View/Modesto officials, churches/ministries). 21 covered + 6 cleaning-covered = 27. 123 routed: 73 alt (county sheriff/PD/superintendent/supervisor offices & person-canonicals; St Mark's Ministry & MADD/IATSE variants; CA Catholic Conference/Mission EDA/Mt SAC via casing-fix; CEOs/Presidents→org), 12 new canonicals (5 NEW candidates collapsed to existing→3 COV + 2 alt), 6 conjoined, 16 individuals (supervisors/councilmembers/teachers/farmers/managers/students), 6 narrative ('…also/on behalf of/Moreover…'), 1 invalid, 9 partial (ambiguous surnames/single-word fragments). 85 logged to added_to_crosswalk. Pipeline stable, not_in_crosswalk=0. |
 | 927 | **Leginfo gap — candidates 90–97, rows 11401–11550 (Wave 11).** Same as task 780 but rows 11401–11550 of `org_name_for_cleaning/leginfo_cand_90to97.csv`. NO SHORTCUTS — examine each org individually. Run cleaning/dedup/stats pipeline before committing. | Not Started |  |  |
 | 928 | **Leginfo gap — candidates 90–97, rows 11551–11700 (Wave 11).** Same as task 780 but rows 11551–11700 of `org_name_for_cleaning/leginfo_cand_90to97.csv`. NO SHORTCUTS — examine each org individually. Run cleaning/dedup/stats pipeline before committing. | Not Started |  |  |
 | 929 | **Leginfo gap — candidates 90–97, rows 11701–11850 (Wave 11).** Same as task 780 but rows 11701–11850 of `org_name_for_cleaning/leginfo_cand_90to97.csv`. NO SHORTCUTS — examine each org individually. Run cleaning/dedup/stats pipeline before committing. | Not Started |  |  |
