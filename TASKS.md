@@ -4,13 +4,11 @@
 
 To edit this file (mark tasks, update queues, add tasks), join this queue first. Only the name at the top may edit.
 
-RA-Beta
 
 ## Data Write Queue
 
 Only the RA at the top of this list has write access to project data files (crosswalk JSON, CSVs). Add yourself to the bottom when you're ready to write. Remove yourself when done.
 
-RA-Alpha
 
 
 
@@ -1003,9 +1001,9 @@ RA-Alpha
 | 891 | **Leginfo gap — novel, rows 3701–3800 (Wave 8).** Same as task 785 but rows 3701–3800 of `org_name_for_cleaning/leginfo_novel.csv`. NO SHORTCUTS — examine each org individually. Apply Q9 officeholder policy. Run cleaning/dedup/stats pipeline before committing. | Done | RA-Alpha | Examined all 100; 4 covered. 96 routed (mostly counts of individuals): 1 alt, 79 individuals, 6 narrative, 6 invalid, 2 conjoined, 2 partial. Pipeline stable. |
 | 892 | **Leginfo gap — novel, rows 3801–3900 (Wave 8).** Same as task 785 but rows 3801–3900 of `org_name_for_cleaning/leginfo_novel.csv`. NO SHORTCUTS — examine each org individually. Apply Q9 officeholder policy. Run cleaning/dedup/stats pipeline before committing. | Done | RA-Alpha | Examined all 100; 3 covered. 97 routed (all false positives): 17 individuals, 55 narrative, 21 invalid, 4 partial. No crosswalk additions. |
 | 893 | **Leginfo gap — novel, rows 3901–4000 (Wave 8).** Same as task 785 but rows 3901–4000 of `org_name_for_cleaning/leginfo_novel.csv`. NO SHORTCUTS — examine each org individually. Apply Q9 officeholder policy. Run cleaning/dedup/stats pipeline before committing. | Done | RA-Alpha | Examined all 100; 0 covered. All 100 pure narrative sentence fragments (no orgs) -> narrative CSV. No crosswalk additions. |
-| 894 | **Leginfo gap — novel, rows 4001–4100 (Wave 8).** Same as task 785 but rows 4001–4100 of `org_name_for_cleaning/leginfo_novel.csv`. NO SHORTCUTS — examine each org individually. Apply Q9 officeholder policy. Run cleaning/dedup/stats pipeline before committing. | In Progress | RA-Alpha |  |
+| 894 | **Leginfo gap — novel, rows 4001–4100 (Wave 8).** Same as task 785 but rows 4001–4100 of `org_name_for_cleaning/leginfo_novel.csv`. NO SHORTCUTS — examine each org individually. Apply Q9 officeholder policy. Run cleaning/dedup/stats pipeline before committing. | Done | RA-Alpha | Examined all 100; 0 covered. All 100 pure narrative sentence fragments (no orgs) -> narrative CSV. No crosswalk additions. |
 | 895 | **Leginfo gap — novel, rows 4101–4200 (Wave 8).** Same as task 785 but rows 4101–4200 of `org_name_for_cleaning/leginfo_novel.csv`. NO SHORTCUTS — examine each org individually. Apply Q9 officeholder policy. Run cleaning/dedup/stats pipeline before committing. | Not Started |  |  |
-| 896 | **Leginfo gap — candidates 90–97, rows 8551–8700 (Wave 9).** Same as task 780 but rows 8551–8700 of `org_name_for_cleaning/leginfo_cand_90to97.csv`. NO SHORTCUTS — examine each org individually. Run cleaning/dedup/stats pipeline before committing. | Not Started |  |  |
+| 896 | **Leginfo gap — candidates 90–97, rows 8551–8700 (Wave 9).** Same as task 780 but rows 8551–8700 of `org_name_for_cleaning/leginfo_cand_90to97.csv`. NO SHORTCUTS — examine each org individually. Run cleaning/dedup/stats pipeline before committing. | In Progress | RA-Beta |  |
 | 897 | **Leginfo gap — candidates 90–97, rows 8701–8850 (Wave 9).** Same as task 780 but rows 8701–8850 of `org_name_for_cleaning/leginfo_cand_90to97.csv`. NO SHORTCUTS — examine each org individually. Run cleaning/dedup/stats pipeline before committing. | Not Started |  |  |
 | 898 | **Leginfo gap — candidates 90–97, rows 8851–9000 (Wave 9).** Same as task 780 but rows 8851–9000 of `org_name_for_cleaning/leginfo_cand_90to97.csv`. NO SHORTCUTS — examine each org individually. Run cleaning/dedup/stats pipeline before committing. | Not Started |  |  |
 | 899 | **Leginfo gap — candidates 90–97, rows 9001–9150 (Wave 9).** Same as task 780 but rows 9001–9150 of `org_name_for_cleaning/leginfo_cand_90to97.csv`. NO SHORTCUTS — examine each org individually. Run cleaning/dedup/stats pipeline before committing. | Not Started |  |  |
