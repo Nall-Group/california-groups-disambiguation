@@ -9,7 +9,6 @@ To edit this file (mark tasks, update queues, add tasks), join this queue first.
 
 Only the RA at the top of this list has write access to project data files (crosswalk JSON, CSVs). Add yourself to the bottom when you're ready to write. Remove yourself when done.
 
-RA-Alpha
 
 
 
@@ -989,7 +988,7 @@ RA-Alpha
 | 880 | **Leginfo gap — novel, rows 3501–3600 (Wave 7).** Same as task 785 but rows 3501–3600 of `org_name_for_cleaning/leginfo_novel.csv`. NO SHORTCUTS — examine each org individually. Apply Q9 officeholder policy. Run cleaning/dedup/stats pipeline before committing. | Done | RA-Alpha | Examined all 100; 29 covered. 71 routed: 10 alt/new (AG/mayors via Q9, ADL/Red Cross/GI Forum; new ACES canonical), 32 narrative, 13 invalid (dates), 6 conjoined, 5 individuals, 5 partial. Pipeline stable. |
 | 881 | **Leginfo gap — candidates 90–97, rows 7201–7350 (Wave 8).** Same as task 780 but rows 7201–7350 of `org_name_for_cleaning/leginfo_cand_90to97.csv`. NO SHORTCUTS — examine each org individually. Run cleaning/dedup/stats pipeline before committing. | Done | RA-Alpha | Examined all 150; 37 covered. 113 routed: 53 alt (South/Sonoma/Solano/Society/Social variants; mayors->city per Q9), 14 individuals, 16 conjoined, 4 narrative, 26 partial. Pipeline stable. |
 | 882 | **Leginfo gap — candidates 90–97, rows 7351–7500 (Wave 8).** Same as task 780 but rows 7351–7500 of `org_name_for_cleaning/leginfo_cand_90to97.csv`. NO SHORTCUTS — examine each org individually. Run cleaning/dedup/stats pipeline before committing. | In Progress | RA-Beta |  |
-| 883 | **Leginfo gap — candidates 90–97, rows 7501–7650 (Wave 8).** Same as task 780 but rows 7501–7650 of `org_name_for_cleaning/leginfo_cand_90to97.csv`. NO SHORTCUTS — examine each org individually. Run cleaning/dedup/stats pipeline before committing. | In Progress | RA-Alpha |  |
+| 883 | **Leginfo gap — candidates 90–97, rows 7501–7650 (Wave 8).** Same as task 780 but rows 7501–7650 of `org_name_for_cleaning/leginfo_cand_90to97.csv`. NO SHORTCUTS — examine each org individually. Run cleaning/dedup/stats pipeline before committing. | Done | RA-Alpha | Examined all 150; 40 covered. 110 routed: 26 alt (Shasta/SEIU variants, courts), 57 individuals ('Several' cluster), 7 narrative, 5 conjoined, 1 invalid, 14 partial. Pipeline stable. |
 | 884 | **Leginfo gap — candidates 90–97, rows 7651–7800 (Wave 8).** Same as task 780 but rows 7651–7800 of `org_name_for_cleaning/leginfo_cand_90to97.csv`. NO SHORTCUTS — examine each org individually. Run cleaning/dedup/stats pipeline before committing. | Not Started |  |  |
 | 885 | **Leginfo gap — candidates 90–97, rows 7801–7950 (Wave 8).** Same as task 780 but rows 7801–7950 of `org_name_for_cleaning/leginfo_cand_90to97.csv`. NO SHORTCUTS — examine each org individually. Run cleaning/dedup/stats pipeline before committing. | Not Started |  |  |
 | 886 | **Leginfo gap — candidates 90–97, rows 7951–8100 (Wave 8).** Same as task 780 but rows 7951–8100 of `org_name_for_cleaning/leginfo_cand_90to97.csv`. NO SHORTCUTS — examine each org individually. Run cleaning/dedup/stats pipeline before committing. | Not Started |  |  |
