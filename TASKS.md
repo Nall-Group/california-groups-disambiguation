@@ -4,13 +4,11 @@
 
 To edit this file (mark tasks, update queues, add tasks), join this queue first. Only the name at the top may edit.
 
-RA-Beta
 
 ## Data Write Queue
 
 Only the RA at the top of this list has write access to project data files (crosswalk JSON, CSVs). Add yourself to the bottom when you're ready to write. Remove yourself when done.
 
-RA-Beta
 
 
 
@@ -999,7 +997,7 @@ RA-Beta
 | 887 | **Leginfo gap — candidates 90–97, rows 8101–8250 (Wave 8).** Same as task 780 but rows 8101–8250 of `org_name_for_cleaning/leginfo_cand_90to97.csv`. NO SHORTCUTS — examine each org individually. Run cleaning/dedup/stats pipeline before committing. | Done | RA-Alpha | Examined all 150; 55 covered. 95 routed: 44 alt/new (San Jose/Joaquin/Gabriel/Francisco; new SF District Attorney canonical w/9 variants), 20 individuals, 4 narrative, 16 conjoined, 11 partial. Pipeline stable. |
 | 888 | **Leginfo gap — candidates 90–97, rows 8251–8400 (Wave 8).** Same as task 780 but rows 8251–8400 of `org_name_for_cleaning/leginfo_cand_90to97.csv`. NO SHORTCUTS — examine each org individually. Run cleaning/dedup/stats pipeline before committing. | Done | RA-Alpha | Examined all 150; 37 covered. 113 routed: 62 alt/new (SF/SD orgs; new San Diego County DA canonical, SF DA, mayors/supervisors via Q9), 10 individuals, 12 narrative, 10 conjoined, 19 partial. Pipeline stable. |
 | 889 | **Leginfo gap — candidates 90–97, rows 8401–8550 (Wave 8).** Same as task 780 but rows 8401–8550 of `org_name_for_cleaning/leginfo_cand_90to97.csv`. NO SHORTCUTS — examine each org individually. Run cleaning/dedup/stats pipeline before committing. | Done | RA-Alpha | Examined all 150; 41 covered. 109 routed: 56 alt (San Diego/Bernardino/Benito orgs; SD County DA, sheriffs, mayors/supervisors via Q9), 27 individuals, 1 narrative, 10 conjoined, 15 partial. Pipeline stable. |
-| 890 | **Leginfo gap — novel, rows 3601–3700 (Wave 8).** Same as task 785 but rows 3601–3700 of `org_name_for_cleaning/leginfo_novel.csv`. NO SHORTCUTS — examine each org individually. Apply Q9 officeholder policy. Run cleaning/dedup/stats pipeline before committing. | In Progress | RA-Beta |  |
+| 890 | **Leginfo gap — novel, rows 3601–3700 (Wave 8).** Same as task 785 but rows 3601–3700 of `org_name_for_cleaning/leginfo_novel.csv`. NO SHORTCUTS — examine each org individually. Apply Q9 officeholder policy. Run cleaning/dedup/stats pipeline before committing. | Done | RA-Beta | Examined all 100 individually. 23 already covered + 3 cleaning-covered (American Diabetes Assn, Alameda County BoS, Agee Global Solutions — all pre-existing) = 26. 74 routed: 8 alt (3 AFSCME variants; Alzheimer's Assn (AA); Padilla→SECRETARY OF STATE & Becerra→ATTORNEY GENERAL per Q9; ACLU California Action→ACLU; AAP-CA→Amer. Academy of Pediatrics), 0 new (this slice was mostly variants+junk), 5 conjoined (AFL-CIO+NASW/IUOE/APA mashups, ACLU+Oakland Privacy, the two adoption-lawyer academies), 5 narrative ('…writes/further/also'), 23 invalid (AB-#### bill text, 'According to…', prose fragments), 7 individuals (councilmembers/supervisors/vice-mayor), 26 partial (ambiguous acronyms ASA/ADA/AMTA/ABMP, 'A coalition of…' placeholders). 8 logged to added_to_crosswalk. Pipeline stable, not_in_crosswalk=0. |
 | 891 | **Leginfo gap — novel, rows 3701–3800 (Wave 8).** Same as task 785 but rows 3701–3800 of `org_name_for_cleaning/leginfo_novel.csv`. NO SHORTCUTS — examine each org individually. Apply Q9 officeholder policy. Run cleaning/dedup/stats pipeline before committing. | Done | RA-Alpha | Examined all 100; 4 covered. 96 routed (mostly counts of individuals): 1 alt, 79 individuals, 6 narrative, 6 invalid, 2 conjoined, 2 partial. Pipeline stable. |
 | 892 | **Leginfo gap — novel, rows 3801–3900 (Wave 8).** Same as task 785 but rows 3801–3900 of `org_name_for_cleaning/leginfo_novel.csv`. NO SHORTCUTS — examine each org individually. Apply Q9 officeholder policy. Run cleaning/dedup/stats pipeline before committing. | In Progress | RA-Alpha |  |
 | 893 | **Leginfo gap — novel, rows 3901–4000 (Wave 8).** Same as task 785 but rows 3901–4000 of `org_name_for_cleaning/leginfo_novel.csv`. NO SHORTCUTS — examine each org individually. Apply Q9 officeholder policy. Run cleaning/dedup/stats pipeline before committing. | Not Started |  |  |
