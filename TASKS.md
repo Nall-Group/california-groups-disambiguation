@@ -4,13 +4,11 @@
 
 To edit this file (mark tasks, update queues, add tasks), join this queue first. Only the name at the top may edit.
 
-RA-Beta
 
 ## Data Write Queue
 
 Only the RA at the top of this list has write access to project data files (crosswalk JSON, CSVs). Add yourself to the bottom when you're ready to write. Remove yourself when done.
 
-RA-Beta
 RA-Alpha
 
 
@@ -1007,7 +1005,7 @@ RA-Alpha
 | 893 | **Leginfo gap — novel, rows 3901–4000 (Wave 8).** Same as task 785 but rows 3901–4000 of `org_name_for_cleaning/leginfo_novel.csv`. NO SHORTCUTS — examine each org individually. Apply Q9 officeholder policy. Run cleaning/dedup/stats pipeline before committing. | Done | RA-Alpha | Examined all 100; 0 covered. All 100 pure narrative sentence fragments (no orgs) -> narrative CSV. No crosswalk additions. |
 | 894 | **Leginfo gap — novel, rows 4001–4100 (Wave 8).** Same as task 785 but rows 4001–4100 of `org_name_for_cleaning/leginfo_novel.csv`. NO SHORTCUTS — examine each org individually. Apply Q9 officeholder policy. Run cleaning/dedup/stats pipeline before committing. | Done | RA-Alpha | Examined all 100; 0 covered. All 100 pure narrative sentence fragments (no orgs) -> narrative CSV. No crosswalk additions. |
 | 895 | **Leginfo gap — novel, rows 4101–4200 (Wave 8).** Same as task 785 but rows 4101–4200 of `org_name_for_cleaning/leginfo_novel.csv`. NO SHORTCUTS — examine each org individually. Apply Q9 officeholder policy. Run cleaning/dedup/stats pipeline before committing. | Done | RA-Alpha | Examined all 100; 0 covered. 99 narrative fragments -> narrative CSV; 1 new canonical (von Strasser Winery). Pipeline stable. |
-| 896 | **Leginfo gap — candidates 90–97, rows 8551–8700 (Wave 9).** Same as task 780 but rows 8551–8700 of `org_name_for_cleaning/leginfo_cand_90to97.csv`. NO SHORTCUTS — examine each org individually. Run cleaning/dedup/stats pipeline before committing. | In Progress | RA-Beta |  |
+| 896 | **Leginfo gap — candidates 90–97, rows 8551–8700 (Wave 9).** Same as task 780 but rows 8551–8700 of `org_name_for_cleaning/leginfo_cand_90to97.csv`. NO SHORTCUTS — examine each org individually. Run cleaning/dedup/stats pipeline before committing. | Done | RA-Beta | Examined all 150 individually (heavy on Sacramento city/county officials, DAs, sheriffs, 'SPONSOR!'-prefixed sponsors). 22 covered + 13 cleaning-covered = 35. 115 routed: 62 alt (consolidated supervisor/mayor/councilmember person-canonicals that already existed; SPONSOR!-prefixed orgs under matched canonical; county dept/sheriff/NAACP variants), 12 new canonicals (2 NEW candidates collapsed to existing: Sac Housing Alliance→alt, Sac Food Policy Council→COV), 10 conjoined, 23 individuals (supervisors/councilmembers/commissioners with NO existing canonical, per CLAUDE.md), 4 narrative, 2 invalid (veto-message text, SR-125 highway), 2 partial. 74 logged to added_to_crosswalk. Pipeline stable, not_in_crosswalk=0. |
 | 897 | **Leginfo gap — candidates 90–97, rows 8701–8850 (Wave 9).** Same as task 780 but rows 8701–8850 of `org_name_for_cleaning/leginfo_cand_90to97.csv`. NO SHORTCUTS — examine each org individually. Run cleaning/dedup/stats pipeline before committing. | In Progress | RA-Alpha |  |
 | 898 | **Leginfo gap — candidates 90–97, rows 8851–9000 (Wave 9).** Same as task 780 but rows 8851–9000 of `org_name_for_cleaning/leginfo_cand_90to97.csv`. NO SHORTCUTS — examine each org individually. Run cleaning/dedup/stats pipeline before committing. | Not Started |  |  |
 | 899 | **Leginfo gap — candidates 90–97, rows 9001–9150 (Wave 9).** Same as task 780 but rows 9001–9150 of `org_name_for_cleaning/leginfo_cand_90to97.csv`. NO SHORTCUTS — examine each org individually. Run cleaning/dedup/stats pipeline before committing. | Not Started |  |  |
