@@ -4,13 +4,11 @@
 
 To edit this file (mark tasks, update queues, add tasks), join this queue first. Only the name at the top may edit.
 
-RA-Alpha
 
 ## Data Write Queue
 
 Only the RA at the top of this list has write access to project data files (crosswalk JSON, CSVs). Add yourself to the bottom when you're ready to write. Remove yourself when done.
 
-RA-Alpha
 
 
 
@@ -1011,7 +1009,7 @@ RA-Alpha
 | 896 | **Leginfo gap — candidates 90–97, rows 8551–8700 (Wave 9).** Same as task 780 but rows 8551–8700 of `org_name_for_cleaning/leginfo_cand_90to97.csv`. NO SHORTCUTS — examine each org individually. Run cleaning/dedup/stats pipeline before committing. | Done | RA-Beta | Examined all 150 individually (heavy on Sacramento city/county officials, DAs, sheriffs, 'SPONSOR!'-prefixed sponsors). 22 covered + 13 cleaning-covered = 35. 115 routed: 62 alt (consolidated supervisor/mayor/councilmember person-canonicals that already existed; SPONSOR!-prefixed orgs under matched canonical; county dept/sheriff/NAACP variants), 12 new canonicals (2 NEW candidates collapsed to existing: Sac Housing Alliance→alt, Sac Food Policy Council→COV), 10 conjoined, 23 individuals (supervisors/councilmembers/commissioners with NO existing canonical, per CLAUDE.md), 4 narrative, 2 invalid (veto-message text, SR-125 highway), 2 partial. 74 logged to added_to_crosswalk. Pipeline stable, not_in_crosswalk=0. |
 | 897 | **Leginfo gap — candidates 90–97, rows 8701–8850 (Wave 9).** Same as task 780 but rows 8701–8850 of `org_name_for_cleaning/leginfo_cand_90to97.csv`. NO SHORTCUTS — examine each org individually. Run cleaning/dedup/stats pipeline before committing. | Done | RA-Alpha | Examined all 150; 43 covered. 107 routed: 83 alt ('SB [Org]' bill-prefix cluster, SEIU/SCR/SCA variants, SoS/SF DA via Q9), 7 conjoined, 6 narrative, 1 invalid, 10 partial. Pipeline stable. |
 | 898 | **Leginfo gap — candidates 90–97, rows 8851–9000 (Wave 9).** Same as task 780 but rows 8851–9000 of `org_name_for_cleaning/leginfo_cand_90to97.csv`. NO SHORTCUTS — examine each org individually. Run cleaning/dedup/stats pipeline before committing. | Done | RA-Alpha | Examined all 150; 18 covered. 132 routed: 76 alt ('SB [bill#] [Org]' cluster, person-canonicals, AG/leadership via Q9), 20 individuals, 10 conjoined, 5 narrative, 4 invalid, 17 partial. Pipeline stable. |
-| 899 | **Leginfo gap — candidates 90–97, rows 9001–9150 (Wave 9).** Same as task 780 but rows 9001–9150 of `org_name_for_cleaning/leginfo_cand_90to97.csv`. NO SHORTCUTS — examine each org individually. Run cleaning/dedup/stats pipeline before committing. | In Progress | RA-Alpha |  |
+| 899 | **Leginfo gap — candidates 90–97, rows 9001–9150 (Wave 9).** Same as task 780 but rows 9001–9150 of `org_name_for_cleaning/leginfo_cand_90to97.csv`. NO SHORTCUTS — examine each org individually. Run cleaning/dedup/stats pipeline before committing. | Done | RA-Alpha | Examined all 150; 20 covered. 130 routed: 40 alt (Riverside orgs, person-canonicals, mayors/CDI via Q9), 28 conjoined, 27 individuals, 4 narrative, 1 invalid, 30 partial. Pipeline stable. |
 | 900 | **Leginfo gap — candidates 90–97, rows 9151–9300 (Wave 9).** Same as task 780 but rows 9151–9300 of `org_name_for_cleaning/leginfo_cand_90to97.csv`. NO SHORTCUTS — examine each org individually. Run cleaning/dedup/stats pipeline before committing. | Not Started |  |  |
 | 901 | **Leginfo gap — candidates 90–97, rows 9301–9450 (Wave 9).** Same as task 780 but rows 9301–9450 of `org_name_for_cleaning/leginfo_cand_90to97.csv`. NO SHORTCUTS — examine each org individually. Run cleaning/dedup/stats pipeline before committing. | Not Started |  |  |
 | 902 | **Leginfo gap — candidates 90–97, rows 9451–9600 (Wave 9).** Same as task 780 but rows 9451–9600 of `org_name_for_cleaning/leginfo_cand_90to97.csv`. NO SHORTCUTS — examine each org individually. Run cleaning/dedup/stats pipeline before committing. | Not Started |  |  |
