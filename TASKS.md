@@ -4,13 +4,11 @@
 
 To edit this file (mark tasks, update queues, add tasks), join this queue first. Only the name at the top may edit.
 
-RA-Alpha
 
 ## Data Write Queue
 
 Only the RA at the top of this list has write access to project data files (crosswalk JSON, CSVs). Add yourself to the bottom when you're ready to write. Remove yourself when done.
 
-RA-Alpha
 RA-Beta
 
 
@@ -1001,7 +999,7 @@ RA-Beta
 | 888 | **Leginfo gap — candidates 90–97, rows 8251–8400 (Wave 8).** Same as task 780 but rows 8251–8400 of `org_name_for_cleaning/leginfo_cand_90to97.csv`. NO SHORTCUTS — examine each org individually. Run cleaning/dedup/stats pipeline before committing. | Done | RA-Alpha | Examined all 150; 37 covered. 113 routed: 62 alt/new (SF/SD orgs; new San Diego County DA canonical, SF DA, mayors/supervisors via Q9), 10 individuals, 12 narrative, 10 conjoined, 19 partial. Pipeline stable. |
 | 889 | **Leginfo gap — candidates 90–97, rows 8401–8550 (Wave 8).** Same as task 780 but rows 8401–8550 of `org_name_for_cleaning/leginfo_cand_90to97.csv`. NO SHORTCUTS — examine each org individually. Run cleaning/dedup/stats pipeline before committing. | Done | RA-Alpha | Examined all 150; 41 covered. 109 routed: 56 alt (San Diego/Bernardino/Benito orgs; SD County DA, sheriffs, mayors/supervisors via Q9), 27 individuals, 1 narrative, 10 conjoined, 15 partial. Pipeline stable. |
 | 890 | **Leginfo gap — novel, rows 3601–3700 (Wave 8).** Same as task 785 but rows 3601–3700 of `org_name_for_cleaning/leginfo_novel.csv`. NO SHORTCUTS — examine each org individually. Apply Q9 officeholder policy. Run cleaning/dedup/stats pipeline before committing. | In Progress | RA-Beta |  |
-| 891 | **Leginfo gap — novel, rows 3701–3800 (Wave 8).** Same as task 785 but rows 3701–3800 of `org_name_for_cleaning/leginfo_novel.csv`. NO SHORTCUTS — examine each org individually. Apply Q9 officeholder policy. Run cleaning/dedup/stats pipeline before committing. | In Progress | RA-Alpha |  |
+| 891 | **Leginfo gap — novel, rows 3701–3800 (Wave 8).** Same as task 785 but rows 3701–3800 of `org_name_for_cleaning/leginfo_novel.csv`. NO SHORTCUTS — examine each org individually. Apply Q9 officeholder policy. Run cleaning/dedup/stats pipeline before committing. | Done | RA-Alpha | Examined all 100; 4 covered. 96 routed (mostly counts of individuals): 1 alt, 79 individuals, 6 narrative, 6 invalid, 2 conjoined, 2 partial. Pipeline stable. |
 | 892 | **Leginfo gap — novel, rows 3801–3900 (Wave 8).** Same as task 785 but rows 3801–3900 of `org_name_for_cleaning/leginfo_novel.csv`. NO SHORTCUTS — examine each org individually. Apply Q9 officeholder policy. Run cleaning/dedup/stats pipeline before committing. | Not Started |  |  |
 | 893 | **Leginfo gap — novel, rows 3901–4000 (Wave 8).** Same as task 785 but rows 3901–4000 of `org_name_for_cleaning/leginfo_novel.csv`. NO SHORTCUTS — examine each org individually. Apply Q9 officeholder policy. Run cleaning/dedup/stats pipeline before committing. | Not Started |  |  |
 | 894 | **Leginfo gap — novel, rows 4001–4100 (Wave 8).** Same as task 785 but rows 4001–4100 of `org_name_for_cleaning/leginfo_novel.csv`. NO SHORTCUTS — examine each org individually. Apply Q9 officeholder policy. Run cleaning/dedup/stats pipeline before committing. | Not Started |  |  |
