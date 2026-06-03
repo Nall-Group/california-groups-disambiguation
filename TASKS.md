@@ -4,7 +4,7 @@
 
 To edit this file (mark tasks, update queues, add tasks), join this queue first. Only the name at the top may edit.
 
-RA-Beta
+RA-Alpha
 
 ## Data Write Queue
 
@@ -1029,7 +1029,7 @@ Only the RA at the top of this list has write access to project data files (cros
 | 913 | **Leginfo gap — candidates 90–97, rows 10201–10350 (Wave 10).** Same as task 780 but rows 10201–10350 of `org_name_for_cleaning/leginfo_cand_90to97.csv`. NO SHORTCUTS — examine each org individually. Run cleaning/dedup/stats pipeline before committing. | Not Started |  |  |
 | 914 | **Leginfo gap — candidates 90–97, rows 10351–10500 (Wave 10).** Same as task 780 but rows 10351–10500 of `org_name_for_cleaning/leginfo_cand_90to97.csv`. NO SHORTCUTS — examine each org individually. Run cleaning/dedup/stats pipeline before committing. | Not Started |  |  |
 | 915 | **Leginfo gap — candidates 90–97, rows 10501–10650 (Wave 10).** Same as task 780 but rows 10501–10650 of `org_name_for_cleaning/leginfo_cand_90to97.csv`. NO SHORTCUTS — examine each org individually. Run cleaning/dedup/stats pipeline before committing. | Done | RA-Beta | Examined all 150 ('Office of [officeholder]', councilmembers/supervisors, 'Numerous X' placeholders, real orgs). 28 covered + 3 cleaning-covered = 31. 119 routed: 36 alt (Office-of-Mayor→city & AG/Lt-Gov→office per Q9; DA/Supt/CSU/CPUC offices; OPEIU/OnTrack/Alguita/Kaisei etc.; 1 NEW candidate Nuestra Casa collapsed to existing→alt), 3 new canonicals, 10 conjoined, 26 individuals ('Office of [councilmember/supervisor/board-member]' & named council members — not leadership), 3 narrative ('…writes/strongly/to make technical'), 3 invalid (bare 'OPPOSITION', procedural notes), 38 partial ('Numerous [category]' placeholders, fragments). 39 logged to added_to_crosswalk. Pipeline stable, not_in_crosswalk=0. |
-| 916 | **Leginfo gap — candidates 90–97, rows 10651–10800 (Wave 10).** Same as task 780 but rows 10651–10800 of `org_name_for_cleaning/leginfo_cand_90to97.csv`. NO SHORTCUTS — examine each org individually. Run cleaning/dedup/stats pipeline before committing. | Not Started |  |  |
+| 916 | **Leginfo gap — candidates 90–97, rows 10651–10800 (Wave 10).** Same as task 780 but rows 10651–10800 of `org_name_for_cleaning/leginfo_cand_90to97.csv`. NO SHORTCUTS — examine each org individually. Run cleaning/dedup/stats pipeline before committing. | In Progress | RA-Beta |  |
 | 917 | **Leginfo gap — candidates 90–97, rows 10801–10950 (Wave 10).** Same as task 780 but rows 10801–10950 of `org_name_for_cleaning/leginfo_cand_90to97.csv`. NO SHORTCUTS — examine each org individually. Run cleaning/dedup/stats pipeline before committing. | Not Started |  |  |
 | 918 | **Leginfo gap — candidates 90–97, rows 10951–11100 (Wave 10).** Same as task 780 but rows 10951–11100 of `org_name_for_cleaning/leginfo_cand_90to97.csv`. NO SHORTCUTS — examine each org individually. Run cleaning/dedup/stats pipeline before committing. | Not Started |  |  |
 | 919 | **Leginfo gap — candidates 90–97, rows 11101–11250 (Wave 10).** Same as task 780 but rows 11101–11250 of `org_name_for_cleaning/leginfo_cand_90to97.csv`. NO SHORTCUTS — examine each org individually. Run cleaning/dedup/stats pipeline before committing. | Not Started |  |  |
