@@ -4,13 +4,11 @@
 
 To edit this file (mark tasks, update queues, add tasks), join this queue first. Only the name at the top may edit.
 
-RA-Beta
 
 ## Data Write Queue
 
 Only the RA at the top of this list has write access to project data files (crosswalk JSON, CSVs). Add yourself to the bottom when you're ready to write. Remove yourself when done.
 
-RA-Beta
 RA-Alpha
 
 
@@ -996,7 +994,7 @@ RA-Alpha
 | 883 | **Leginfo gap — candidates 90–97, rows 7501–7650 (Wave 8).** Same as task 780 but rows 7501–7650 of `org_name_for_cleaning/leginfo_cand_90to97.csv`. NO SHORTCUTS — examine each org individually. Run cleaning/dedup/stats pipeline before committing. | Done | RA-Alpha | Examined all 150; 40 covered. 110 routed: 26 alt (Shasta/SEIU variants, courts), 57 individuals ('Several' cluster), 7 narrative, 5 conjoined, 1 invalid, 14 partial. Pipeline stable. |
 | 884 | **Leginfo gap — candidates 90–97, rows 7651–7800 (Wave 8).** Same as task 780 but rows 7651–7800 of `org_name_for_cleaning/leginfo_cand_90to97.csv`. NO SHORTCUTS — examine each org individually. Run cleaning/dedup/stats pipeline before committing. | Done | RA-Alpha | Examined all 150; 33 covered. 117 routed: 57 alt (SEIU variants, SoS/BOE via Q9, committees, Desert Hot Springs), 12 individuals, 13 narrative, 14 conjoined, 3 invalid, 18 partial. Pipeline stable. |
 | 885 | **Leginfo gap — candidates 90–97, rows 7801–7950 (Wave 8).** Same as task 780 but rows 7801–7950 of `org_name_for_cleaning/leginfo_cand_90to97.csv`. NO SHORTCUTS — examine each org individually. Run cleaning/dedup/stats pipeline before committing. | Done | RA-Alpha | Examined all 150; 76 covered. 74 routed: 33 alt (Santa Rosa/Monica/Cruz/Clara orgs; mayors->city, supervisors via Q9), 15 individuals, 4 narrative, 10 conjoined, 12 partial. Pipeline stable. |
-| 886 | **Leginfo gap — candidates 90–97, rows 7951–8100 (Wave 8).** Same as task 780 but rows 7951–8100 of `org_name_for_cleaning/leginfo_cand_90to97.csv`. NO SHORTCUTS — examine each org individually. Run cleaning/dedup/stats pipeline before committing. | In Progress | RA-Beta |  |
+| 886 | **Leginfo gap — candidates 90–97, rows 7951–8100 (Wave 8).** Same as task 780 but rows 7951–8100 of `org_name_for_cleaning/leginfo_cand_90to97.csv`. NO SHORTCUTS — examine each org individually. Run cleaning/dedup/stats pipeline before committing. | Done | RA-Beta | Examined all 150 individually (heavy on Santa Barbara/San Mateo/San Luis Obispo county offices). 37 already covered + 9 cleaning-covered = 46. 104 routed: 56 alt (county dept/office/sheriff/labor-council variants; DAs & elected dept-heads as office-acting; mayors→city per leadership policy), 12 new canonicals (3 NEW candidates collapsed to existing on dup-check: San Ysidro Health Center, Santa Barbara Channelkeeper, San Luis Obispo Channelkeeper; 3 reclassified to alt: Santa Rosa City EA, San Mateo County Sheriff's Office), 8 conjoined, 15 individuals (supervisors/councilmembers/trustees per CLAUDE.md), 5 narrative ('…writes'/bill-ref/prose), 7 partial, 1 invalid. 68 logged to added_to_crosswalk. Pipeline stable, not_in_crosswalk=0. |
 | 887 | **Leginfo gap — candidates 90–97, rows 8101–8250 (Wave 8).** Same as task 780 but rows 8101–8250 of `org_name_for_cleaning/leginfo_cand_90to97.csv`. NO SHORTCUTS — examine each org individually. Run cleaning/dedup/stats pipeline before committing. | Done | RA-Alpha | Examined all 150; 55 covered. 95 routed: 44 alt/new (San Jose/Joaquin/Gabriel/Francisco; new SF District Attorney canonical w/9 variants), 20 individuals, 4 narrative, 16 conjoined, 11 partial. Pipeline stable. |
 | 888 | **Leginfo gap — candidates 90–97, rows 8251–8400 (Wave 8).** Same as task 780 but rows 8251–8400 of `org_name_for_cleaning/leginfo_cand_90to97.csv`. NO SHORTCUTS — examine each org individually. Run cleaning/dedup/stats pipeline before committing. | In Progress | RA-Alpha |  |
 | 889 | **Leginfo gap — candidates 90–97, rows 8401–8550 (Wave 8).** Same as task 780 but rows 8401–8550 of `org_name_for_cleaning/leginfo_cand_90to97.csv`. NO SHORTCUTS — examine each org individually. Run cleaning/dedup/stats pipeline before committing. | Not Started |  |  |
