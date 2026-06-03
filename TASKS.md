@@ -9,7 +9,6 @@ To edit this file (mark tasks, update queues, add tasks), join this queue first.
 
 Only the RA at the top of this list has write access to project data files (crosswalk JSON, CSVs). Add yourself to the bottom when you're ready to write. Remove yourself when done.
 
-RA-Alpha
 
 
 
@@ -978,7 +977,7 @@ RA-Alpha
 | 869 | **Leginfo gap — candidates 90–97, rows 6301–6450 (Wave 7).** Same as task 780 but rows 6301–6450 of `org_name_for_cleaning/leginfo_cand_90to97.csv`. NO SHORTCUTS — examine each org individually. Run cleaning/dedup/stats pipeline before committing. | Done | RA-Alpha | Examined all 150; 46 covered. 104 routed: 52 alt ('The [Org]' variants), 32 narrative (org+prose), 10 conjoined, 1 individual, 9 partial. Pipeline stable. |
 | 870 | **Leginfo gap — candidates 90–97, rows 6451–6600 (Wave 7).** Same as task 780 but rows 6451–6600 of `org_name_for_cleaning/leginfo_cand_90to97.csv`. NO SHORTCUTS — examine each org individually. Run cleaning/dedup/stats pipeline before committing. | Done | RA-Alpha | Examined all 150; 45 covered. 105 routed: 41 alt (Teamsters locals->IBT, Tenants Together, SF DA->CCSF, Surfrider/TACC), 26 narrative, 19 conjoined, 6 individuals, 13 partial. Pipeline stable. |
 | 871 | **Leginfo gap — candidates 90–97, rows 6601–6750 (Wave 7).** Same as task 780 but rows 6601–6750 of `org_name_for_cleaning/leginfo_cand_90to97.csv`. NO SHORTCUTS — examine each org individually. Run cleaning/dedup/stats pipeline before committing. | Done | RA-Alpha | Examined all 150; 1 covered. Band is almost all county supervisors (Q9 individuals). Routed 149: 37 alt (to pre-existing supervisor person-canonicals), 105 individuals, 6 partial, 1 invalid. Pipeline stable. |
-| 872 | **Leginfo gap — candidates 90–97, rows 6751–6900 (Wave 7).** Same as task 780 but rows 6751–6900 of `org_name_for_cleaning/leginfo_cand_90to97.csv`. NO SHORTCUTS — examine each org individually. Run cleaning/dedup/stats pipeline before committing. | In Progress | RA-Alpha |  |
+| 872 | **Leginfo gap — candidates 90–97, rows 6751–6900 (Wave 7).** Same as task 780 but rows 6751–6900 of `org_name_for_cleaning/leginfo_cand_90to97.csv`. NO SHORTCUTS — examine each org individually. Run cleaning/dedup/stats pipeline before committing. | Done | RA-Alpha | Examined all 150; 29 covered. 121 routed: 53 alt (supervisors->person canonicals, superintendents/SPI->office per Q9, courts/SCOPE/Benicia), 30 individuals, 10 narrative, 10 conjoined, 18 partial. Pipeline stable. |
 | 873 | **Leginfo gap — candidates 90–97, rows 6901–7050 (Wave 7).** Same as task 780 but rows 6901–7050 of `org_name_for_cleaning/leginfo_cand_90to97.csv`. NO SHORTCUTS — examine each org individually. Run cleaning/dedup/stats pipeline before committing. | Not Started |  |  |
 | 874 | **Leginfo gap — candidates 90–97, rows 7051–7200 (Wave 7).** Same as task 780 but rows 7051–7200 of `org_name_for_cleaning/leginfo_cand_90to97.csv`. NO SHORTCUTS — examine each org individually. Run cleaning/dedup/stats pipeline before committing. | Not Started |  |  |
 | 875 | **Leginfo gap — novel, rows 3001–3100 (Wave 7).** Same as task 785 but rows 3001–3100 of `org_name_for_cleaning/leginfo_novel.csv`. NO SHORTCUTS — examine each org individually. Apply Q9 officeholder policy. Run cleaning/dedup/stats pipeline before committing. | Not Started |  |  |
