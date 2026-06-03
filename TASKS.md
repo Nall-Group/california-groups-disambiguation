@@ -10,6 +10,7 @@ To edit this file (mark tasks, update queues, add tasks), join this queue first.
 Only the RA at the top of this list has write access to project data files (crosswalk JSON, CSVs). Add yourself to the bottom when you're ready to write. Remove yourself when done.
 
 RA-Alpha
+RA-Beta
 
 
 
@@ -974,7 +975,7 @@ RA-Alpha
 | 865 | **Leginfo gap — novel, rows 2901–3000 (Wave 6).** Same as task 785 but rows 2901–3000 of `org_name_for_cleaning/leginfo_novel.csv`. NO SHORTCUTS — examine each org individually. Apply Q9 officeholder policy. Run cleaning/dedup/stats pipeline before committing. | Done | RA-Beta | Examined all 100. 25 resolved + 4 via cleaning. 9 added (8 alt: Q9 officeholders Hon. Tom Butt/Jerry Brown/Heather Fargo Mayors, Bonta/Lungren AG, Chiang Controller, Lockyer Treasurer; 1 new canonical Hopcraft Communications). Routed 62: 4 individuals, 21 narrative, 1 invalid, 36 partial (mostly 'Individuals (N)' placeholders). Pipeline stable. |
 | 866 | **Leginfo gap — candidates 90–97, rows 5851–6000 (Wave 7).** Same as task 780 but rows 5851–6000 of `org_name_for_cleaning/leginfo_cand_90to97.csv`. NO SHORTCUTS — examine each org individually. Run cleaning/dedup/stats pipeline before committing. | Done | RA-Beta | Examined all 150. 20 resolved + 5 via cleaning. 41 added (35 alt + 6 new canonicals incl. created City of Norwalk for its Mayor). Routed 83: 27 individuals, 26 conjoined (heavy 'Trust for Public Land, X' block), 5 narrative, 25 partial. Pipeline stable. |
 | 867 | **Leginfo gap — candidates 90–97, rows 6001–6150 (Wave 7).** Same as task 780 but rows 6001–6150 of `org_name_for_cleaning/leginfo_cand_90to97.csv`. NO SHORTCUTS — examine each org individually. Run cleaning/dedup/stats pipeline before committing. | In Progress | RA-Alpha |  |
-| 868 | **Leginfo gap — candidates 90–97, rows 6151–6300 (Wave 7).** Same as task 780 but rows 6151–6300 of `org_name_for_cleaning/leginfo_cand_90to97.csv`. NO SHORTCUTS — examine each org individually. Run cleaning/dedup/stats pipeline before committing. | Not Started |  |  |
+| 868 | **Leginfo gap — candidates 90–97, rows 6151–6300 (Wave 7).** Same as task 780 but rows 6151–6300 of `org_name_for_cleaning/leginfo_cand_90to97.csv`. NO SHORTCUTS — examine each org individually. Run cleaning/dedup/stats pipeline before committing. | In Progress | RA-Beta |  |
 | 869 | **Leginfo gap — candidates 90–97, rows 6301–6450 (Wave 7).** Same as task 780 but rows 6301–6450 of `org_name_for_cleaning/leginfo_cand_90to97.csv`. NO SHORTCUTS — examine each org individually. Run cleaning/dedup/stats pipeline before committing. | Not Started |  |  |
 | 870 | **Leginfo gap — candidates 90–97, rows 6451–6600 (Wave 7).** Same as task 780 but rows 6451–6600 of `org_name_for_cleaning/leginfo_cand_90to97.csv`. NO SHORTCUTS — examine each org individually. Run cleaning/dedup/stats pipeline before committing. | Not Started |  |  |
 | 871 | **Leginfo gap — candidates 90–97, rows 6601–6750 (Wave 7).** Same as task 780 but rows 6601–6750 of `org_name_for_cleaning/leginfo_cand_90to97.csv`. NO SHORTCUTS — examine each org individually. Run cleaning/dedup/stats pipeline before committing. | Not Started |  |  |
