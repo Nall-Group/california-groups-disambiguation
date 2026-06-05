@@ -4,14 +4,11 @@
 
 To edit this file (mark tasks, update queues, add tasks), join this queue first. Only the name at the top may edit.
 
-RA-Beta
 RA-Alpha
 
 ## Data Write Queue
 
 Only the RA at the top of this list has write access to project data files (crosswalk JSON, CSVs). Add yourself to the bottom when you're ready to write. Remove yourself when done.
-
-RA-Beta
 
 
 ## Task List
@@ -1039,7 +1036,7 @@ RA-Beta
 | 953 | **Leginfo gap — novel, rows 6301–6400 (Wave 12).** Same as task 785 but rows 6301–6400 of `org_name_for_cleaning/leginfo_novel.csv`. NO SHORTCUTS — examine each org individually. Apply Q9 officeholder policy. Run cleaning/dedup/stats pipeline before committing. | Not Started |  |  |
 | 954 | **Leginfo gap — novel, rows 6401–6500 (Wave 12).** Same as task 785 but rows 6401–6500 of `org_name_for_cleaning/leginfo_novel.csv`. NO SHORTCUTS — examine each org individually. Apply Q9 officeholder policy. Run cleaning/dedup/stats pipeline before committing. | Not Started |  |  |
 | 955 | **Leginfo gap — novel, rows 6501–6600 (Wave 12).** Same as task 785 but rows 6501–6600 of `org_name_for_cleaning/leginfo_novel.csv`. NO SHORTCUTS — examine each org individually. Apply Q9 officeholder policy. Run cleaning/dedup/stats pipeline before committing. | Not Started |  |  |
-| 956 | **Leginfo gap — candidates 90–97, rows 13951–14100 (Wave 13).** Same as task 780 but rows 13951–14100 of `org_name_for_cleaning/leginfo_cand_90to97.csv`. NO SHORTCUTS — examine each org individually. Run cleaning/dedup/stats pipeline before committing. | In Progress | RA-Beta |  |
+| 956 | **Leginfo gap — candidates 90–97, rows 13951–14100 (Wave 13).** Same as task 780 but rows 13951–14100 of `org_name_for_cleaning/leginfo_cand_90to97.csv`. NO SHORTCUTS — examine each org individually. Run cleaning/dedup/stats pipeline before committing. | Done | RA-Beta | Examined all 150 — dominated by 'In support, [Org]' bill-analysis entries. 29 covered + 4 cleaning = 33. 117 routed: 82 alt ('In support/In part/In conclusion, [Org]' consolidated under matched canonical incl. PORAC/SEIU/CTA/ACLU/CMA/IBEW/NASW/CFI; Imperial county+city; IHSS/ALADS), 6 new canonicals (9 NEW candidates already existed→alt), 5 conjoined, 7 individuals, 9 narrative, 3 invalid, 5 partial. 88 logged. Pipeline stable, not_in_crosswalk=0. |
 | 957 | **Leginfo gap — candidates 90–97, rows 14101–14250 (Wave 13).** Same as task 780 but rows 14101–14250 of `org_name_for_cleaning/leginfo_cand_90to97.csv`. NO SHORTCUTS — examine each org individually. Run cleaning/dedup/stats pipeline before committing. | Not Started |  |  |
 | 958 | **Leginfo gap — candidates 90–97, rows 14251–14400 (Wave 13).** Same as task 780 but rows 14251–14400 of `org_name_for_cleaning/leginfo_cand_90to97.csv`. NO SHORTCUTS — examine each org individually. Run cleaning/dedup/stats pipeline before committing. | Not Started |  |  |
 | 959 | **Leginfo gap — candidates 90–97, rows 14401–14550 (Wave 13).** Same as task 780 but rows 14401–14550 of `org_name_for_cleaning/leginfo_cand_90to97.csv`. NO SHORTCUTS — examine each org individually. Run cleaning/dedup/stats pipeline before committing. | Not Started |  |  |
