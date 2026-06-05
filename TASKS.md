@@ -4,7 +4,6 @@
 
 To edit this file (mark tasks, update queues, add tasks), join this queue first. Only the name at the top may edit.
 
-RA-Beta
 
 ## Data Write Queue
 
@@ -1024,7 +1023,7 @@ RA-Alpha
 | 938 | **Leginfo gap — novel, rows 5701–5800 (Wave 11).** Same as task 785 but rows 5701–5800 of `org_name_for_cleaning/leginfo_novel.csv`. NO SHORTCUTS — examine each org individually. Apply Q9 officeholder policy. Run cleaning/dedup/stats pipeline before committing. | Not Started |  |  |
 | 939 | **Leginfo gap — novel, rows 5801–5900 (Wave 11).** Same as task 785 but rows 5801–5900 of `org_name_for_cleaning/leginfo_novel.csv`. NO SHORTCUTS — examine each org individually. Apply Q9 officeholder policy. Run cleaning/dedup/stats pipeline before committing. | Not Started |  |  |
 | 940 | **Leginfo gap — novel, rows 5901–6000 (Wave 11).** Same as task 785 but rows 5901–6000 of `org_name_for_cleaning/leginfo_novel.csv`. NO SHORTCUTS — examine each org individually. Apply Q9 officeholder policy. Run cleaning/dedup/stats pipeline before committing. | Not Started |  |  |
-| 941 | **Leginfo gap — candidates 90–97, rows 12601–12750 (Wave 12).** Same as task 780 but rows 12601–12750 of `org_name_for_cleaning/leginfo_cand_90to97.csv`. NO SHORTCUTS — examine each org individually. Run cleaning/dedup/stats pipeline before committing. | Not Started |  |  |
+| 941 | **Leginfo gap — candidates 90–97, rows 12601–12750 (Wave 12).** Same as task 780 but rows 12601–12750 of `org_name_for_cleaning/leginfo_cand_90to97.csv`. NO SHORTCUTS — examine each org individually. Run cleaning/dedup/stats pipeline before committing. | In Progress | RA-Beta |  |
 | 942 | **Leginfo gap — candidates 90–97, rows 12751–12900 (Wave 12).** Same as task 780 but rows 12751–12900 of `org_name_for_cleaning/leginfo_cand_90to97.csv`. NO SHORTCUTS — examine each org individually. Run cleaning/dedup/stats pipeline before committing. | Not Started |  |  |
 | 943 | **Leginfo gap — candidates 90–97, rows 12901–13050 (Wave 12).** Same as task 780 but rows 12901–13050 of `org_name_for_cleaning/leginfo_cand_90to97.csv`. NO SHORTCUTS — examine each org individually. Run cleaning/dedup/stats pipeline before committing. | Not Started |  |  |
 | 944 | **Leginfo gap — candidates 90–97, rows 13051–13200 (Wave 12).** Same as task 780 but rows 13051–13200 of `org_name_for_cleaning/leginfo_cand_90to97.csv`. NO SHORTCUTS — examine each org individually. Run cleaning/dedup/stats pipeline before committing. | Not Started |  |  |
