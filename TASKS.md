@@ -4,12 +4,14 @@
 
 To edit this file (mark tasks, update queues, add tasks), join this queue first. Only the name at the top may edit.
 
+RA-Alpha
 
 ## Data Write Queue
 
 Only the RA at the top of this list has write access to project data files (crosswalk JSON, CSVs). Add yourself to the bottom when you're ready to write. Remove yourself when done.
 
 RA-Alpha
+RA-Gamma
 
 ## Task List
 
@@ -1045,7 +1047,7 @@ RA-Alpha
 | 962 | **Leginfo gap — candidates 90–97, rows 14851–15000 (Wave 13).** Same as task 780 but rows 14851–15000 of `org_name_for_cleaning/leginfo_cand_90to97.csv`. NO SHORTCUTS — examine each org individually. Run cleaning/dedup/stats pipeline before committing. | Done | RA-Beta | Examined all 150 — 'G' orgs (Golden State/Gate, Glaziers locals→Architectural Metal & Glass Workers, George Runner BOE variants, Generation UP, Gateway COG). 35 covered. 115 routed: 62 alt (union locals, BOE/officeholder consolidation, Gilroy councilmember Zach Hilton), 5 new canonicals, 22 conjoined, 17 individuals, 2 narrative, 3 invalid (General Fund procedural text), 4 partial. 67 logged. Pipeline stable, not_in_crosswalk=0. |
 | 963 | **Leginfo gap — candidates 90–97, rows 15001–15150 (Wave 13).** Same as task 780 but rows 15001–15150 of `org_name_for_cleaning/leginfo_cand_90to97.csv`. NO SHORTCUTS — examine each org individually. Run cleaning/dedup/stats pipeline before committing. | Done | RA-Beta | Examined all 150 — 'F/G' orgs dominated by Franchise Tax Board variants, Friends-of-X libraries, Fresno orgs, and 'Further,/Furthermore,/Francisco,' narrative fragments. 18 covered. 132 routed: 56 alt (FTB consolidation, library friends, Fresno City College, FCL of California), 6 new canonicals, 22 conjoined, 14 individuals, 20 narrative, 2 invalid, 12 partial. 62 logged. Pipeline stable, not_in_crosswalk=0. |
 | 964 | **Leginfo gap — candidates 90–97, rows 15151–15300 (Wave 13).** Same as task 780 but rows 15151–15300 of `org_name_for_cleaning/leginfo_cand_90to97.csv`. NO SHORTCUTS — examine each org individually. Run cleaning/dedup/stats pipeline before committing. | Done | RA-Beta | Examined all 150 — 'F' orgs: Fiona Ma BOE variants (consolidated to existing person-canonicals), Firefighters locals→IAFF, First-[church] orgs, Foundation/Forum conjoined fragments, 'Finally,/Former' narrative. 8 covered. 142 routed: 77 alt, 8 new canonicals (Finishing-Trades 3 variants merged to one), 17 conjoined, 11 individuals, 17 narrative, 4 invalid, 8 partial. 85 logged. Pipeline stable, not_in_crosswalk=0. |
-| 965 | **Leginfo gap — novel, rows 6601–6700 (Wave 13).** Same as task 785 but rows 6601–6700 of `org_name_for_cleaning/leginfo_novel.csv`. NO SHORTCUTS — examine each org individually. Apply Q9 officeholder policy. Run cleaning/dedup/stats pipeline before committing. | Not Started |  |  |
+| 965 | **Leginfo gap — novel, rows 6601–6700 (Wave 13).** Same as task 785 but rows 6601–6700 of `org_name_for_cleaning/leginfo_novel.csv`. NO SHORTCUTS — examine each org individually. Apply Q9 officeholder policy. Run cleaning/dedup/stats pipeline before committing. | In Progress | RA-Gamma |  |
 | 966 | **Leginfo gap — novel, rows 6701–6800 (Wave 13).** Same as task 785 but rows 6701–6800 of `org_name_for_cleaning/leginfo_novel.csv`. NO SHORTCUTS — examine each org individually. Apply Q9 officeholder policy. Run cleaning/dedup/stats pipeline before committing. | Not Started |  |  |
 | 967 | **Leginfo gap — novel, rows 6801–6900 (Wave 13).** Same as task 785 but rows 6801–6900 of `org_name_for_cleaning/leginfo_novel.csv`. NO SHORTCUTS — examine each org individually. Apply Q9 officeholder policy. Run cleaning/dedup/stats pipeline before committing. | Not Started |  |  |
 | 968 | **Leginfo gap — novel, rows 6901–7000 (Wave 13).** Same as task 785 but rows 6901–7000 of `org_name_for_cleaning/leginfo_novel.csv`. NO SHORTCUTS — examine each org individually. Apply Q9 officeholder policy. Run cleaning/dedup/stats pipeline before committing. | Not Started |  |  |
