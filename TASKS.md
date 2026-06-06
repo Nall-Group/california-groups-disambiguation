@@ -4,12 +4,13 @@
 
 To edit this file (mark tasks, update queues, add tasks), join this queue first. Only the name at the top may edit.
 
+RA-Gamma
+
 
 ## Data Write Queue
 
 Only the RA at the top of this list has write access to project data files (crosswalk JSON, CSVs). Add yourself to the bottom when you're ready to write. Remove yourself when done.
 
-RA-Gamma
 
 ## Task List
 
@@ -1066,7 +1067,7 @@ RA-Gamma
 | 983 | **Leginfo gap — novel, rows 7501–7600 (Wave 14).** Same as task 785 but rows 7501–7600 of `org_name_for_cleaning/leginfo_novel.csv`. NO SHORTCUTS — examine each org individually. Apply Q9 officeholder policy. Run cleaning/dedup/stats pipeline before committing. | Done | RA-Alpha | Examined all 100 individually — pure prose tail ('mental…'/'members…'/'measure…'/'may…'/'many…'/'make…' lowercase fragments, all bills=1). 0 covered, 0 standalone orgs (CA Association/PMSA/ACOG/NAACP/City of Bell only inside prose). 100 routed: 85 narrative, 1 individual ('member (individual)'), 6 partial (vague 'members of the industry'/'marine conservation organizations'/'member Houseboats.com' etc.), 8 invalid (bare 'members'/'measure'/'manner'/'makes sense'/'make recommendations'). 0 to crosswalk → pipeline skipped; committed only the 4 leginfo CSVs. |
 | 984 | **Leginfo gap — novel, rows 7601–7700 (Wave 14).** Same as task 785 but rows 7601–7700 of `org_name_for_cleaning/leginfo_novel.csv`. NO SHORTCUTS — examine each org individually. Apply Q9 officeholder policy. Run cleaning/dedup/stats pipeline before committing. | Done | RA-Gamma | Examined all 100 individually — OCR'd bill-text fragment tail (all bills=1); org mentions only incidental. Routed: 93 invalid (org-less bill text), 7 partial (single words m/loans/like + generic noun-phrase fragments). 0 to crosswalk → pipeline skipped. Committed 82a0af8. |
 | 985 | **Leginfo gap — novel, rows 7701–7800 (Wave 14).** Same as task 785 but rows 7701–7800 of `org_name_for_cleaning/leginfo_novel.csv`. NO SHORTCUTS — examine each org individually. Apply Q9 officeholder policy. Run cleaning/dedup/stats pipeline before committing. | Done | RA-Alpha | Examined all 100 individually — pure prose tail ('licens…'/'levels…'/'letters…'/'legal…'/'law…' lowercase fragments, all bills=1). 0 covered, 0 standalone orgs (DOI/DOC/PUC/Board of Registered Nursing only inside prose). 100 routed: 84 narrative, 9 individuals ('letters from N individuals/taxpayers/sheriffs/motorcyclists' counts + 'leaders…parents'), 1 partial ('legal aid groups'), 6 invalid (bare 'licensure fees'/'license fees'/'legal requirements'/'laws be consistent' etc.). 0 to crosswalk → pipeline skipped; committed only the 4 leginfo CSVs. |
-| 986 | **Leginfo gap — candidates 90–97, rows 16651–16800 (Wave 15).** Same as task 780 but rows 16651–16800 of `org_name_for_cleaning/leginfo_cand_90to97.csv`. NO SHORTCUTS — examine each org individually. Run cleaning/dedup/stats pipeline before committing. | In Progress | RA-Gamma |  |
+| 986 | **Leginfo gap — candidates 90–97, rows 16651–16800 (Wave 15).** Same as task 780 but rows 16651–16800 of `org_name_for_cleaning/leginfo_cand_90to97.csv`. NO SHORTCUTS — examine each org individually. Run cleaning/dedup/stats pipeline before committing. | Done | RA-Gamma | Examined all 150 — 'Cr/Co/Court/County' tangled neighborhood. 50 crosswalk adds: 38 alt under matched node (Crime Victims United & CASA county chapters, Craig Steckler Fremont chief x5, Court Administrators, Cow Palace 1-A DAA, county depts/DAs), 1 chapter (Crescent City-Del Norte Chamber→USCC), 11 new canonicals (Crowne Plaza LAX, Court Reporters Board, CASA Orange/Imperial/Monterey, etc.). Routed 86: 47 conjoined ('County,[list]' fragments), 25 individuals (supervisors/judges/councilmembers), 14 partial. 4 covered. Pipeline run (clean deduped 2; regenerate moved 11→in_crosswalk). Committed 21df26e. |
 | 987 | **Leginfo gap — candidates 90–97, rows 16801–16950 (Wave 15).** Same as task 780 but rows 16801–16950 of `org_name_for_cleaning/leginfo_cand_90to97.csv`. NO SHORTCUTS — examine each org individually. Run cleaning/dedup/stats pipeline before committing. | In Progress | RA-Beta |  |
 | 988 | **Leginfo gap — candidates 90–97, rows 16951–17100 (Wave 15).** Same as task 780 but rows 16951–17100 of `org_name_for_cleaning/leginfo_cand_90to97.csv`. NO SHORTCUTS — examine each org individually. Run cleaning/dedup/stats pipeline before committing. | In Progress | RA-Beta |  |
 | 989 | **Leginfo gap — candidates 90–97, rows 17101–17250 (Wave 15).** Same as task 780 but rows 17101–17250 of `org_name_for_cleaning/leginfo_cand_90to97.csv`. NO SHORTCUTS — examine each org individually. Run cleaning/dedup/stats pipeline before committing. | In Progress | RA-Alpha |  |
