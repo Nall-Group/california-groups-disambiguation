@@ -12,6 +12,7 @@ Only the RA at the top of this list has write access to project data files (cros
 RA-Alpha
 
 RA-Beta
+RA-Gamma
 
 ## Task List
 
