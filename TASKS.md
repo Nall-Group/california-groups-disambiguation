@@ -4,12 +4,12 @@
 
 To edit this file (mark tasks, update queues, add tasks), join this queue first. Only the name at the top may edit.
 
+RA-Gamma
+
 
 ## Data Write Queue
 
 Only the RA at the top of this list has write access to project data files (crosswalk JSON, CSVs). Add yourself to the bottom when you're ready to write. Remove yourself when done.
-
-RA-Gamma
 
 RA-Beta
 
@@ -1082,7 +1082,7 @@ RA-Beta
 | 997 | **Leginfo gap — novel, rows 8001–8100 (Wave 15).** Same as task 785 but rows 8001–8100 of `org_name_for_cleaning/leginfo_novel.csv`. NO SHORTCUTS — examine each org individually. Apply Q9 officeholder policy. Run cleaning/dedup/stats pipeline before committing. | Done | RA-Alpha | Examined all 100 individually — pure prose tail ('insur…'/'instruction…'/'information…'/'individuals…' lowercase fragments, all bills=1). 0 covered, 0 standalone orgs (CFSC/DOJ/CHA/DASP/CORI/State Sheriffs Assn only inside prose). 100 routed: 95 narrative, 5 invalid (bare 'instructional time'/'instead'/'inpatient quality'/'infertility treatment'/'individuals insurers'). 0 to crosswalk → pipeline skipped; committed only leginfo_narrative.csv + leginfo_invalid.csv. |
 | 998 | **Leginfo gap — novel, rows 8101–8200 (Wave 15).** Same as task 785 but rows 8101–8200 of `org_name_for_cleaning/leginfo_novel.csv`. NO SHORTCUTS — examine each org individually. Apply Q9 officeholder policy. Run cleaning/dedup/stats pipeline before committing. | Done | RA-Beta | Examined all 100 — sentence-fragments ('individual…','including…'), zero real orgs. 9 narrative (Golden Empire Council/UC/EDD-DMV-DHS-CHP/Work&Family Coalition/Pan-Ethnic+Black Health Networks/Fed of Labor+SEIU/CalChamber/Aquaculture Assoc/Breast Cancer Fund), 91 invalid. No crosswalk additions; not_in_crosswalk=0. |
 | 999 | **Leginfo gap — novel, rows 8201–8300 (Wave 15).** Same as task 785 but rows 8201–8300 of `org_name_for_cleaning/leginfo_novel.csv`. NO SHORTCUTS — examine each org individually. Apply Q9 officeholder policy. Run cleaning/dedup/stats pipeline before committing. | Done | RA-Beta | Examined all 100 — sentence-fragments ('incidents…','in the…','in California…'), zero real orgs. 3 narrative (CDI/Greenaction/CIVIC Inc.), 97 invalid. No crosswalk additions; not_in_crosswalk=0. |
-| 1000 | **Leginfo gap — novel, rows 8301–8400 (Wave 15).** Same as task 785 but rows 8301–8400 of `org_name_for_cleaning/leginfo_novel.csv`. NO SHORTCUTS — examine each org individually. Apply Q9 officeholder policy. Run cleaning/dedup/stats pipeline before committing. | In Progress | RA-Gamma |  |
+| 1000 | **Leginfo gap — novel, rows 8301–8400 (Wave 15).** Same as task 785 but rows 8301–8400 of `org_name_for_cleaning/leginfo_novel.csv`. NO SHORTCUTS — examine each org individually. Apply Q9 officeholder policy. Run cleaning/dedup/stats pipeline before committing. | Done | RA-Gamma | Examined all 100 — OCR'd bill-text tail. 2 real orgs incorporated: 'ideas42'→alt under 'Behavioral Ideas Lab Dba Ideas42'; 'i.am Angel Foundation'→new canonical. Routed: 87 invalid, 11 partial (single words + N-individuals/generic placeholders + ambiguous iACT/ichoosebikes). Pipeline run. Committed 699019e. |
 | 1001 | **Leginfo gap — candidates 90–97, rows 18001–18150 (Wave 16).** Same as task 780 but rows 18001–18150 of `org_name_for_cleaning/leginfo_cand_90to97.csv`. NO SHORTCUTS — examine each org individually. Run cleaning/dedup/stats pipeline before committing. | In Progress | RA-Beta |  |
 | 1002 | **Leginfo gap — candidates 90–97, rows 18151–18300 (Wave 16).** Same as task 780 but rows 18151–18300 of `org_name_for_cleaning/leginfo_cand_90to97.csv`. NO SHORTCUTS — examine each org individually. Run cleaning/dedup/stats pipeline before committing. | In Progress | RA-Beta |  |
 | 1003 | **Leginfo gap — candidates 90–97, rows 18301–18450 (Wave 16).** Same as task 780 but rows 18301–18450 of `org_name_for_cleaning/leginfo_cand_90to97.csv`. NO SHORTCUTS — examine each org individually. Run cleaning/dedup/stats pipeline before committing. | In Progress | RA-Alpha |  |
