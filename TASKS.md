@@ -4,12 +4,13 @@
 
 To edit this file (mark tasks, update queues, add tasks), join this queue first. Only the name at the top may edit.
 
+RA-Gamma
+
 
 ## Data Write Queue
 
 Only the RA at the top of this list has write access to project data files (crosswalk JSON, CSVs). Add yourself to the bottom when you're ready to write. Remove yourself when done.
 
-RA-Gamma
 RA-Alpha
 
 RA-Beta
@@ -1091,7 +1092,7 @@ RA-Beta
 | 1005 | **Leginfo gap — candidates 90–97, rows 18601–18750 (Wave 16).** Same as task 780 but rows 18601–18750 of `org_name_for_cleaning/leginfo_cand_90to97.csv`. NO SHORTCUTS — examine each org individually. Run cleaning/dedup/stats pipeline before committing. | Done | RA-Alpha | Examined all 150 individually — garbled 'City of X'/'City of City of X'/'City of County of X' artifacts. 12 covered = 12; 138 routed: 68 to crosswalk (extracted municipality → Mayor/Office-of-Mayor/City-Manager/Chief & double-prefix rows mapped to CITY OF X / COUNTY OF X per Q9; 'City of [Org]' garble→underlying org via sugg), 20 individuals (councilmembers/vice-mayors/city-attorneys/auditors per Q9), 31 conjoined (City+other-org & multi-org lists), 19 partial (generic/garbled fragments). 68 logged to added_to_crosswalk. Pipeline stable, not_in_crosswalk=0, 259,655 unchanged. |
 | 1006 | **Leginfo gap — candidates 90–97, rows 18751–18900 (Wave 16).** Same as task 780 but rows 18751–18900 of `org_name_for_cleaning/leginfo_cand_90to97.csv`. NO SHORTCUTS — examine each org individually. Run cleaning/dedup/stats pipeline before committing. | Done | RA-Beta | Examined all 150 — City & County of SF block, 'City Council Member [Name]-[City]' (individuals or person-canonicals), 'Cities of: [list]' conjoined, Citizens-X orgs, City Attorney/Clerks. 21 covered. 129 routed: 59 alt, 2 new, 32 conjoined, 29 individuals, 1 narrative, 6 partial. 61 logged. Pipeline stable, not_in_crosswalk=0. |
 | 1007 | **Leginfo gap — candidates 90–97, rows 18901–19050 (Wave 16).** Same as task 780 but rows 18901–19050 of `org_name_for_cleaning/leginfo_cand_90to97.csv`. NO SHORTCUTS — examine each org individually. Run cleaning/dedup/stats pipeline before committing. | Done | RA-Beta | Examined all 150 — 'Cities of [list]' conjoined, Chula Vista officials, Children's/Child-Care/Child-Abuse orgs (Advocacy Institute, Children's Law Center, Child Care Law Center), Chiefs of Police (city lists→conjoined, named chiefs→person/dept canonicals). 9 covered. 141 routed: 79 alt, 5 new, 28 conjoined, 18 individuals, 1 narrative, 10 partial. 84 logged. Pipeline stable, not_in_crosswalk=0. |
-| 1008 | **Leginfo gap — candidates 90–97, rows 19051–19200 (Wave 16).** Same as task 780 but rows 19051–19200 of `org_name_for_cleaning/leginfo_cand_90to97.csv`. NO SHORTCUTS — examine each org individually. Run cleaning/dedup/stats pipeline before committing. | In Progress | RA-Gamma |  |
+| 1008 | **Leginfo gap — candidates 90–97, rows 19051–19200 (Wave 16).** Same as task 780 but rows 19051–19200 of `org_name_for_cleaning/leginfo_cand_90to97.csv`. NO SHORTCUTS — examine each org individually. Run cleaning/dedup/stats pipeline before committing. | Done | RA-Gamma | Examined all 150 — police-chief-heavy 'Chief…' slice. 112 crosswalk adds: 110 alt under matched node (police chiefs→city/PD per leadership; Chief Probation Officers of CA; Chevron; Chesa Boudin SF DA; Charles C. Plummer Alameda Sheriff; Chicano-Latino Caucus of CA Dem Party; Chico chamber; Teamsters Local 150), 2 new canonicals. Routed 32: 25 individuals (bad-stub chiefs/councilmembers/'Charles X'/chaplain), 6 conjoined, 1 partial. 3 covered. Pipeline run (regenerate moved 83→in_crosswalk). Committed b411ea3. |
 | 1009 | **Leginfo gap — candidates 90–97, rows 19201–19350 (Wave 16).** Same as task 780 but rows 19201–19350 of `org_name_for_cleaning/leginfo_cand_90to97.csv`. NO SHORTCUTS — examine each org individually. Run cleaning/dedup/stats pipeline before committing. | In Progress | RA-Alpha |  |
 | 1010 | **Leginfo gap — novel, rows 8401–8500 (Wave 16).** Same as task 785 but rows 8401–8500 of `org_name_for_cleaning/leginfo_novel.csv`. NO SHORTCUTS — examine each org individually. Apply Q9 officeholder policy. Run cleaning/dedup/stats pipeline before committing. | In Progress | RA-Beta |  |
 | 1011 | **Leginfo gap — novel, rows 8501–8600 (Wave 16).** Same as task 785 but rows 8501–8600 of `org_name_for_cleaning/leginfo_novel.csv`. NO SHORTCUTS — examine each org individually. Apply Q9 officeholder policy. Run cleaning/dedup/stats pipeline before committing. | In Progress | RA-Beta |  |
