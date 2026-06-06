@@ -4,12 +4,13 @@
 
 To edit this file (mark tasks, update queues, add tasks), join this queue first. Only the name at the top may edit.
 
+RA-Gamma
+RA-Alpha
 
 ## Data Write Queue
 
 Only the RA at the top of this list has write access to project data files (crosswalk JSON, CSVs). Add yourself to the bottom when you're ready to write. Remove yourself when done.
 
-RA-Gamma
 
 ## Task List
 
@@ -1084,7 +1085,7 @@ RA-Gamma
 | 1001 | **Leginfo gap — candidates 90–97, rows 18001–18150 (Wave 16).** Same as task 780 but rows 18001–18150 of `org_name_for_cleaning/leginfo_cand_90to97.csv`. NO SHORTCUTS — examine each org individually. Run cleaning/dedup/stats pipeline before committing. | Done | RA-Beta | Examined all 150 — 'Co-' orgs (College of X, Coalition X, Co-Sponsor X, Clinicas, Clean). 7 covered. 143 routed: 95 alt, 3 new, 26 conjoined ('Coalition, [org list]'/'Club, [list]'), 7 individuals, 1 narrative, 11 partial. 98 logged. Pipeline stable, not_in_crosswalk=0. |
 | 1002 | **Leginfo gap — candidates 90–97, rows 18151–18300 (Wave 16).** Same as task 780 but rows 18151–18300 of `org_name_for_cleaning/leginfo_cand_90to97.csv`. NO SHORTCUTS — examine each org individually. Run cleaning/dedup/stats pipeline before committing. | Done | RA-Beta | Examined all 150 — Clean Water Action variants, Civil/Civic orgs, Claude Parrish BOE, and 'City of [City], Mayor/Councilmember [Name]' block→city/council/person canonicals (Santa Monica/Cruz/Rosa/Clara/Barbara/Ana, West Sac, Stockton, Vallejo, Torrance). 5 covered. 145 routed: 111 alt, 14 conjoined, 12 individuals, 8 partial. 111 logged. Pipeline stable, not_in_crosswalk=0. |
 | 1003 | **Leginfo gap — candidates 90–97, rows 18301–18450 (Wave 16).** Same as task 780 but rows 18301–18450 of `org_name_for_cleaning/leginfo_cand_90to97.csv`. NO SHORTCUTS — examine each org individually. Run cleaning/dedup/stats pipeline before committing. | Done | RA-Alpha | Examined all 150 individually — garbled 'City of X [Mayor/Councilmember/Chief/dept]' artifacts. 19 covered = 19; 131 routed: 70 to crosswalk (extracted city → mapped Mayor/Office-of-Mayor/City-Manager rows to CITY OF X per Q9; Chiefs→city/police-dept via sugg; 'City of [Org]' garble→underlying org via sugg; 2 new canon — New Hope Church of SD, Mogavero Notestine Associates), 22 individuals (councilmembers/vice-mayors/mayor-pro-tem/city-attorneys per Q9), 29 conjoined (City+other-org & multi-org lists), 10 partial (generic 'Municipal Water/Utility District'/garbled fragments). 70 logged to added_to_crosswalk. Pipeline stable, not_in_crosswalk=0, 259,655 unchanged. |
-| 1004 | **Leginfo gap — candidates 90–97, rows 18451–18600 (Wave 16).** Same as task 780 but rows 18451–18600 of `org_name_for_cleaning/leginfo_cand_90to97.csv`. NO SHORTCUTS — examine each org individually. Run cleaning/dedup/stats pipeline before committing. | In Progress | RA-Gamma |  |
+| 1004 | **Leginfo gap — candidates 90–97, rows 18451–18600 (Wave 16).** Same as task 780 but rows 18451–18600 of `org_name_for_cleaning/leginfo_cand_90to97.csv`. NO SHORTCUTS — examine each org individually. Run cleaning/dedup/stats pipeline before committing. | Done | RA-Gamma | Examined all 150 — tangled 'City of [X]' slice. 48 crosswalk adds: 47 alt under matched node (mayors/city attorneys/police chiefs/legislative analysts→city/office; 'City of'-wrongly-prefixed orgs→clean org: Marin Sanitary, Laidlaw Waste, Industrial Env Assn, Feather River Fly Fishers, etc.), 1 new canonical (City of Eureka Police Dept). Routed 61: 30 individuals (councilmembers/vice-mayors/staff), 22 conjoined, 9 partial. 41 covered (City-of-X narrative/metadata variants). Pipeline run (clean deduped 6; regenerate moved 15→in_crosswalk). Committed 978141a. |
 | 1005 | **Leginfo gap — candidates 90–97, rows 18601–18750 (Wave 16).** Same as task 780 but rows 18601–18750 of `org_name_for_cleaning/leginfo_cand_90to97.csv`. NO SHORTCUTS — examine each org individually. Run cleaning/dedup/stats pipeline before committing. | In Progress | RA-Alpha |  |
 | 1006 | **Leginfo gap — candidates 90–97, rows 18751–18900 (Wave 16).** Same as task 780 but rows 18751–18900 of `org_name_for_cleaning/leginfo_cand_90to97.csv`. NO SHORTCUTS — examine each org individually. Run cleaning/dedup/stats pipeline before committing. | In Progress | RA-Beta |  |
 | 1007 | **Leginfo gap — candidates 90–97, rows 18901–19050 (Wave 16).** Same as task 780 but rows 18901–19050 of `org_name_for_cleaning/leginfo_cand_90to97.csv`. NO SHORTCUTS — examine each org individually. Run cleaning/dedup/stats pipeline before committing. | In Progress | RA-Beta |  |
