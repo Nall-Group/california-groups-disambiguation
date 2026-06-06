@@ -4,12 +4,13 @@
 
 To edit this file (mark tasks, update queues, add tasks), join this queue first. Only the name at the top may edit.
 
+RA-Gamma
+RA-Alpha
 
 ## Data Write Queue
 
 Only the RA at the top of this list has write access to project data files (crosswalk JSON, CSVs). Add yourself to the bottom when you're ready to write. Remove yourself when done.
 
-RA-Gamma
 
 ## Task List
 
@@ -1098,7 +1099,7 @@ RA-Gamma
 | 1015 | **Leginfo gap — novel, rows 8901–9000 (Wave 16).** Same as task 785 but rows 8901–9000 of `org_name_for_cleaning/leginfo_novel.csv`. NO SHORTCUTS — examine each org individually. Apply Q9 officeholder policy. Run cleaning/dedup/stats pipeline before committing. | Done | RA-Alpha | Examined all 100 individually — pure prose tail ('federal…'/'families…'/'facilities…'/'expression…'/'existing…' lowercase fragments, all bills=1). 0 covered, 0 standalone orgs (NPA/TCAC/CDCR/PIF/BOE/ACLHIC/DOI/SEIU/CIGA/ACHD only inside prose). 100 routed: 94 narrative, 6 invalid (bare 'federal resources'/'farmworkers'/'facility'/'extremely confusing'/'expresses'/'expressed their'). 0 to crosswalk → pipeline skipped; committed only leginfo_narrative.csv + leginfo_invalid.csv. |
 | 1016 | **Leginfo gap — candidates 90–97, rows 19351–19500 (Wave 17).** Same as task 780 but rows 19351–19500 of `org_name_for_cleaning/leginfo_cand_90to97.csv`. NO SHORTCUTS — examine each org individually. Run cleaning/dedup/stats pipeline before committing. | Done | RA-Beta | Examined all 150 — 'C' orgs: Catholic Charities, Cathedral City, Carlsbad, Cannabis Distribution Assoc, Californians-for/against-X, California-[X]. 17 covered. 133 routed: 69 alt, 6 new, 22 conjoined, 26 individuals, 3 narrative, 2 invalid, 5 partial. 75 logged. Pipeline stable, not_in_crosswalk=0. |
 | 1017 | **Leginfo gap — candidates 90–97, rows 19501–19650 (Wave 17).** Same as task 780 but rows 19501–19650 of `org_name_for_cleaning/leginfo_cand_90to97.csv`. NO SHORTCUTS — examine each org individually. Run cleaning/dedup/stats pipeline before committing. | Done | RA-Beta | Examined all 150 — 'California [X]' assoc variants (Teamsters Public Affairs Council, Teachers Assoc, Taxpayers Assoc, Trucking, Trout, State University campuses, State Sheriffs' Assoc) → consolidated to canonicals. 5 covered. 145 routed: 105 alt, 1 new (California YIMBY existed→alt; net 0 new), 31 conjoined, 6 narrative, 3 partial. 105 logged. Pipeline stable, not_in_crosswalk=0. |
-| 1018 | **Leginfo gap — candidates 90–97, rows 19651–19800 (Wave 17).** Same as task 780 but rows 19651–19800 of `org_name_for_cleaning/leginfo_cand_90to97.csv`. NO SHORTCUTS — examine each org individually. Run cleaning/dedup/stats pipeline before committing. | In Progress | RA-Gamma |  |
+| 1018 | **Leginfo gap — candidates 90–97, rows 19651–19800 (Wave 17).** Same as task 780 but rows 19651–19800 of `org_name_for_cleaning/leginfo_cand_90to97.csv`. NO SHORTCUTS — examine each org individually. Run cleaning/dedup/stats pipeline before committing. | Done | RA-Gamma | Examined all 150 — 'California State [Org]' variant-dense slice. 121 alt under matched node (CA State Sheriffs Assn; Legislative Board SMART-TD ~22 variants; CSEA & State Council SEIU; CA State Conf of NAACP; CSAC; Electrical Workers; Board of Pharmacy; PTA; Q9 officeholders Kounalakis/Garamendi/Lara/Yee/Harris→office). Routed 24 conjoined (multi-org co-signer lists). Pipeline run (clean deduped 23 near-variants; regenerate moved 21→in_crosswalk). Committed 7bbfbc7. |
 | 1019 | **Leginfo gap — candidates 90–97, rows 19801–19950 (Wave 17).** Same as task 780 but rows 19801–19950 of `org_name_for_cleaning/leginfo_cand_90to97.csv`. NO SHORTCUTS — examine each org individually. Run cleaning/dedup/stats pipeline before committing. | In Progress | RA-Alpha |  |
 | 1020 | **Leginfo gap — candidates 90–97, rows 19951–20100 (Wave 17).** Same as task 780 but rows 19951–20100 of `org_name_for_cleaning/leginfo_cand_90to97.csv`. NO SHORTCUTS — examine each org individually. Run cleaning/dedup/stats pipeline before committing. | Not Started |  |  |
 | 1021 | **Leginfo gap — candidates 90–97, rows 20101–20250 (Wave 17).** Same as task 780 but rows 20101–20250 of `org_name_for_cleaning/leginfo_cand_90to97.csv`. NO SHORTCUTS — examine each org individually. Run cleaning/dedup/stats pipeline before committing. | Not Started |  |  |
