@@ -4,7 +4,6 @@
 
 To edit this file (mark tasks, update queues, add tasks), join this queue first. Only the name at the top may edit.
 
-RA-Gamma
 RA-Beta
 
 ## Data Write Queue
@@ -1054,7 +1053,7 @@ RA-Alpha
 | 968 | **Leginfo gap — novel, rows 6901–7000 (Wave 13).** Same as task 785 but rows 6901–7000 of `org_name_for_cleaning/leginfo_novel.csv`. NO SHORTCUTS — examine each org individually. Apply Q9 officeholder policy. Run cleaning/dedup/stats pipeline before committing. | In Progress | RA-Beta |  |
 | 969 | **Leginfo gap — novel, rows 7001–7100 (Wave 13).** Same as task 785 but rows 7001–7100 of `org_name_for_cleaning/leginfo_novel.csv`. NO SHORTCUTS — examine each org individually. Apply Q9 officeholder policy. Run cleaning/dedup/stats pipeline before committing. | In Progress | RA-Alpha |  |
 | 970 | **Leginfo gap — novel, rows 7101–7200 (Wave 13).** Same as task 785 but rows 7101–7200 of `org_name_for_cleaning/leginfo_novel.csv`. NO SHORTCUTS — examine each org individually. Apply Q9 officeholder policy. Run cleaning/dedup/stats pipeline before committing. | Done | RA-Gamma | Examined all 100 individually. Two halves: rows 47-100 = signed list of judges/commissioners ('o Name (County)') → 54 individuals; rows 1-46 = extraction fragments split at 'of' → 10 conjoined (multi-org lists; components HP/Waste Mgmt/PORAC/League of CA Cities/Vietnam Veterans of America already in crosswalk), 12 partial (truncated org fragments + single words + garbled CSAC), 24 invalid (bill-text/date/$ fragments). 0 to crosswalk → pipeline skipped. Committed. |
-| 971 | **Leginfo gap — candidates 90–97, rows 15301–15450 (Wave 14).** Same as task 780 but rows 15301–15450 of `org_name_for_cleaning/leginfo_cand_90to97.csv`. NO SHORTCUTS — examine each org individually. Run cleaning/dedup/stats pipeline before committing. | Not Started |  |  |
+| 971 | **Leginfo gap — candidates 90–97, rows 15301–15450 (Wave 14).** Same as task 780 but rows 15301–15450 of `org_name_for_cleaning/leginfo_cand_90to97.csv`. NO SHORTCUTS — examine each org individually. Run cleaning/dedup/stats pipeline before committing. | In Progress | RA-Gamma |  |
 | 972 | **Leginfo gap — candidates 90–97, rows 15451–15600 (Wave 14).** Same as task 780 but rows 15451–15600 of `org_name_for_cleaning/leginfo_cand_90to97.csv`. NO SHORTCUTS — examine each org individually. Run cleaning/dedup/stats pipeline before committing. | Not Started |  |  |
 | 973 | **Leginfo gap — candidates 90–97, rows 15601–15750 (Wave 14).** Same as task 780 but rows 15601–15750 of `org_name_for_cleaning/leginfo_cand_90to97.csv`. NO SHORTCUTS — examine each org individually. Run cleaning/dedup/stats pipeline before committing. | Not Started |  |  |
 | 974 | **Leginfo gap — candidates 90–97, rows 15751–15900 (Wave 14).** Same as task 780 but rows 15751–15900 of `org_name_for_cleaning/leginfo_cand_90to97.csv`. NO SHORTCUTS — examine each org individually. Run cleaning/dedup/stats pipeline before committing. | Not Started |  |  |
