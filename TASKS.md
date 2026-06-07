@@ -4,12 +4,13 @@
 
 To edit this file (mark tasks, update queues, add tasks), join this queue first. Only the name at the top may edit.
 
-RA-Gamma
+RA-Alpha
 
 ## Data Write Queue
 
 Only the RA at the top of this list has write access to project data files (crosswalk JSON, CSVs). Add yourself to the bottom when you're ready to write. Remove yourself when done.
 
+RA-Gamma
 
 ## Task List
 
@@ -1226,7 +1227,7 @@ Only the RA at the top of this list has write access to project data files (cros
 | 1143 | **Leginfo gap — novel, rows 18401–18500 (Wave 25).** Same as task 785 but rows 18401–18500 of `org_name_for_cleaning/leginfo_novel.csv`. NO SHORTCUTS — examine each org individually. Apply Q9 officeholder policy. Run cleaning/dedup/stats pipeline before committing. | Done | RA-Beta |  |
 | 1144 | **Leginfo gap — novel, rows 18501–18600 (Wave 25).** Same as task 785 but rows 18501–18600 of `org_name_for_cleaning/leginfo_novel.csv`. NO SHORTCUTS — examine each org individually. Apply Q9 officeholder policy. Run cleaning/dedup/stats pipeline before committing. | Done | RA-Gamma | Examined all 100 — 'La/L-acronym/Korean' slice. 28 to crosswalk: 21 alt (LCLAA chapters; La cities/chambers; LaHabra Firefighters IAFF; La Purisima Audubon; La Cooperativa Campesina; Lutheran Office of Public Policy; LPOC; LAFCO Santa Clara; LACBA; LAANE; LA Voice; LA Probation Union AFSCME 685; Koreatown Youth Ctr; Korean American Grocers/Coalition), 7 new canon (La Raza Unida Fdn, La Mirada Escrow, La Mesa First UMC, LULAC Natl Housing, LPS Reform TF, L&P School, Korean American Special Ed). Routed 57: 28 partial (acronyms), 15 individuals, 10 invalid, 4 conjoined. Pipeline run (deduped 6). Committed d8cec52. |
 | 1145 | **Leginfo gap — novel, rows 18601–18700 (Wave 25).** Same as task 785 but rows 18601–18700 of `org_name_for_cleaning/leginfo_novel.csv`. NO SHORTCUTS — examine each org individually. Apply Q9 officeholder policy. Run cleaning/dedup/stats pipeline before committing. | In Progress | RA-Alpha |  |
-| 1146 | **Leginfo gap — novel, rows 18701–18800 (Wave 25).** Same as task 785 but rows 18701–18800 of `org_name_for_cleaning/leginfo_novel.csv`. NO SHORTCUTS — examine each org individually. Apply Q9 officeholder policy. Run cleaning/dedup/stats pipeline before committing. | Not Started |  |  |
+| 1146 | **Leginfo gap — novel, rows 18701–18800 (Wave 25).** Same as task 785 but rows 18701–18800 of `org_name_for_cleaning/leginfo_novel.csv`. NO SHORTCUTS — examine each org individually. Apply Q9 officeholder policy. Run cleaning/dedup/stats pipeline before committing. | In Progress | RA-Gamma |  |
 | 1147 | **Leginfo gap — novel, rows 18801–18900 (Wave 25).** Same as task 785 but rows 18801–18900 of `org_name_for_cleaning/leginfo_novel.csv`. NO SHORTCUTS — examine each org individually. Apply Q9 officeholder policy. Run cleaning/dedup/stats pipeline before committing. | Not Started |  |  |
 | 1148 | **Leginfo gap — novel, rows 18901–19000 (Wave 25).** Same as task 785 but rows 18901–19000 of `org_name_for_cleaning/leginfo_novel.csv`. NO SHORTCUTS — examine each org individually. Apply Q9 officeholder policy. Run cleaning/dedup/stats pipeline before committing. | Not Started |  |  |
 | 1149 | **Leginfo gap — novel, rows 19001–19100 (Wave 25).** Same as task 785 but rows 19001–19100 of `org_name_for_cleaning/leginfo_novel.csv`. NO SHORTCUTS — examine each org individually. Apply Q9 officeholder policy. Run cleaning/dedup/stats pipeline before committing. | Not Started |  |  |
