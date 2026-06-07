@@ -4,7 +4,6 @@
 
 To edit this file (mark tasks, update queues, add tasks), join this queue first. Only the name at the top may edit.
 
-RA-Beta
 RA-Alpha
 
 ## Data Write Queue
@@ -13,6 +12,8 @@ Only the RA at the top of this list has write access to project data files (cros
 
 RA-Alpha
 RA-Gamma
+
+RA-Beta
 
 ## Task List
 
