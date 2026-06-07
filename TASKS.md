@@ -4,14 +4,12 @@
 
 To edit this file (mark tasks, update queues, add tasks), join this queue first. Only the name at the top may edit.
 
-RA-Beta
 RA-Alpha
 
 ## Data Write Queue
 
 Only the RA at the top of this list has write access to project data files (crosswalk JSON, CSVs). Add yourself to the bottom when you're ready to write. Remove yourself when done.
 
-RA-Beta
 RA-Gamma
 
 ## Task List
@@ -1162,8 +1160,8 @@ RA-Gamma
 | 1076 | **Leginfo gap — novel, rows 11701–11800 (Wave 21).** Same as task 785 but rows 11701–11800 of `org_name_for_cleaning/leginfo_novel.csv`. NO SHORTCUTS — examine each org individually. Apply Q9 officeholder policy. Run cleaning/dedup/stats pipeline before committing. | Done | RA-Beta |  |
 | 1077 | **Leginfo gap — novel, rows 11801–11900 (Wave 21).** Same as task 785 but rows 11801–11900 of `org_name_for_cleaning/leginfo_novel.csv`. NO SHORTCUTS — examine each org individually. Apply Q9 officeholder policy. Run cleaning/dedup/stats pipeline before committing. | Done | RA-Beta |  |
 | 1078 | **Leginfo gap — novel, rows 11901–12000 (Wave 21).** Same as task 785 but rows 11901–12000 of `org_name_for_cleaning/leginfo_novel.csv`. NO SHORTCUTS — examine each org individually. Apply Q9 officeholder policy. Run cleaning/dedup/stats pipeline before committing. | Done | RA-Beta |  |
-| 1079 | **Leginfo gap — novel, rows 12001–12100 (Wave 21).** Same as task 785 but rows 12001–12100 of `org_name_for_cleaning/leginfo_novel.csv`. NO SHORTCUTS — examine each org individually. Apply Q9 officeholder policy. Run cleaning/dedup/stats pipeline before committing. | In Progress | RA-Beta |  |
-| 1080 | **Leginfo gap — novel, rows 12101–12200 (Wave 21).** Same as task 785 but rows 12101–12200 of `org_name_for_cleaning/leginfo_novel.csv`. NO SHORTCUTS — examine each org individually. Apply Q9 officeholder policy. Run cleaning/dedup/stats pipeline before committing. | In Progress | RA-Beta |  |
+| 1079 | **Leginfo gap — novel, rows 12001–12100 (Wave 21).** Same as task 785 but rows 12001–12100 of `org_name_for_cleaning/leginfo_novel.csv`. NO SHORTCUTS — examine each org individually. Apply Q9 officeholder policy. Run cleaning/dedup/stats pipeline before committing. | Done | RA-Beta |  |
+| 1080 | **Leginfo gap — novel, rows 12101–12200 (Wave 21).** Same as task 785 but rows 12101–12200 of `org_name_for_cleaning/leginfo_novel.csv`. NO SHORTCUTS — examine each org individually. Apply Q9 officeholder policy. Run cleaning/dedup/stats pipeline before committing. | Done | RA-Beta |  |
 | 1081 | **Leginfo gap — novel, rows 12201–12300 (Wave 21).** Same as task 785 but rows 12201–12300 of `org_name_for_cleaning/leginfo_novel.csv`. NO SHORTCUTS — examine each org individually. Apply Q9 officeholder policy. Run cleaning/dedup/stats pipeline before committing. | In Progress | RA-Gamma |  |
 | 1082 | **Leginfo gap — novel, rows 12301–12400 (Wave 21).** Same as task 785 but rows 12301–12400 of `org_name_for_cleaning/leginfo_novel.csv`. NO SHORTCUTS — examine each org individually. Apply Q9 officeholder policy. Run cleaning/dedup/stats pipeline before committing. | Not Started |  |  |
 | 1083 | **Leginfo gap — novel, rows 12401–12500 (Wave 21).** Same as task 785 but rows 12401–12500 of `org_name_for_cleaning/leginfo_novel.csv`. NO SHORTCUTS — examine each org individually. Apply Q9 officeholder policy. Run cleaning/dedup/stats pipeline before committing. | Not Started |  |  |
