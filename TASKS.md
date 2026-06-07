@@ -4,12 +4,13 @@
 
 To edit this file (mark tasks, update queues, add tasks), join this queue first. Only the name at the top may edit.
 
+RA-Gamma
+
 
 ## Data Write Queue
 
 Only the RA at the top of this list has write access to project data files (crosswalk JSON, CSVs). Add yourself to the bottom when you're ready to write. Remove yourself when done.
 
-RA-Gamma
 RA-Alpha
 
 ## Task List
@@ -1133,7 +1134,7 @@ RA-Alpha
 | 1049 | **Leginfo gap — candidates 90–97, rows 22501–22650 (Wave 19).** Same as task 780 but rows 22501–22650 of `org_name_for_cleaning/leginfo_cand_90to97.csv`. NO SHORTCUTS — examine each org individually. Run cleaning/dedup/stats pipeline before committing. | Done | RA-Alpha | Examined all 150 individually (span 'As…'/'Arguments in Opposition…'/Area Agency on Aging). 10 already covered. 32→crosswalk (25 ALT_SUGG, 4 ALT_MAP: SF District Attorney×2 [Arlo Smith], Armenian Assembly of America, Area 12 AAA; 3 new canon: Armenian Studies Program CSU Fresno, Armed Forces Reserves Assn of America, Area 26 AAA). 92 narrative (per CLAUDE.md narrative rule — 'As noted/the/a…' framings + all 'Arguments in Opposition X' bill-analysis strings; embedded orgs already in crosswalk). 8 partial (bare/truncated Arena/Areas/Area Air Quality etc). 5 conjoined. 3 individuals (Arthur Anderson MD, Artesia councilmember, CCD trustee). Pipeline: Not in crosswalk:0, Verified 259,655 unchanged; canon 140,690, total 206,964. |
 | 1050 | **Leginfo gap — candidates 90–97, rows 22651–22800 (Wave 19).** Same as task 780 but rows 22651–22800 of `org_name_for_cleaning/leginfo_cand_90to97.csv`. NO SHORTCUTS — examine each org individually. Run cleaning/dedup/stats pipeline before committing. | Done | RA-Gamma | Examined all 150 — mixed/low-OCR 'A...' slice. 69 alt under matched node (Antelope Valley orgs; Anthem Blue Cross; Anaheim POA; Americans for Safe Access/Nonsmokers; Arc CA; Arab American Caucus CDP via override; Antonio Vazquez BOE Q9; leadership-as-alt Glendale City Clerk/Villaraigosa/Garvey Supt/Pringle). Routed 79: 28 conjoined, 20 individuals, 31 partial (single words + 'Among other things, the <org>' narrative). Pipeline run (clean deduped 10; regenerate moved 17→in_crosswalk). Committed c6a36ce. |
 | 1051 | **Leginfo gap — candidates 90–97, rows 22801–22950 (Wave 19).** Same as task 780 but rows 22801–22950 of `org_name_for_cleaning/leginfo_cand_90to97.csv`. NO SHORTCUTS — examine each org individually. Run cleaning/dedup/stats pipeline before committing. | In Progress | RA-Alpha |  |
-| 1052 | **Leginfo gap — candidates 90–97, rows 22951–23100 (Wave 19).** Same as task 780 but rows 22951–23100 of `org_name_for_cleaning/leginfo_cand_90to97.csv`. NO SHORTCUTS — examine each org individually. Run cleaning/dedup/stats pipeline before committing. | In Progress | RA-Gamma |  |
+| 1052 | **Leginfo gap — candidates 90–97, rows 22951–23100 (Wave 19).** Same as task 780 but rows 22951–23100 of `org_name_for_cleaning/leginfo_cand_90to97.csv`. NO SHORTCUTS — examine each org individually. Run cleaning/dedup/stats pipeline before committing. | Done | RA-Gamma | Examined all 150 — extremely variant-dense slice. 96 alt under matched node (AFSCME ~40 variants incl. Locals/Council 57/DC 36; ACLU ~45 variants incl. NorCal/SoCal/SD affiliates & CA Action; AAUW CA branches; American Cancer Society; ACOG/ACEP District IX; Amer College of Surgeons; ACEC; Amer Farmland Trust). Routed 29: 28 conjoined, 1 partial. Pipeline run (clean deduped 26 near-variants; regenerate moved 6). Committed 3db5faa. |
 | 1053 | **Leginfo gap — candidates 90–97, rows 23101–23250 (Wave 19).** Same as task 780 but rows 23101–23250 of `org_name_for_cleaning/leginfo_cand_90to97.csv`. NO SHORTCUTS — examine each org individually. Run cleaning/dedup/stats pipeline before committing. | Not Started |  |  |
 | 1054 | **Leginfo gap — candidates 90–97, rows 23251–23400 (Wave 19).** Same as task 780 but rows 23251–23400 of `org_name_for_cleaning/leginfo_cand_90to97.csv`. NO SHORTCUTS — examine each org individually. Run cleaning/dedup/stats pipeline before committing. | Not Started |  |  |
 | 1055 | **Leginfo gap — novel, rows 10201–10300 (Wave 19).** Same as task 785 but rows 10201–10300 of `org_name_for_cleaning/leginfo_novel.csv`. NO SHORTCUTS — examine each org individually. Apply Q9 officeholder policy. Run cleaning/dedup/stats pipeline before committing. | Done | RA-Beta | Examined all 100 — 'bill/bill's sponsor' sentence-fragments. 11 narrative (GSMOL/CA Partnership to End DV/Housing California/CA Credit Union League/Anti-Recidivism Coalition/Stronger Women United/Trusts&Estates Section CLA/PORAC/CHP/CLF/CSLB), 89 invalid. not_in_crosswalk=0. |
