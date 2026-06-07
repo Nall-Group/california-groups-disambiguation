@@ -4,12 +4,12 @@
 
 To edit this file (mark tasks, update queues, add tasks), join this queue first. Only the name at the top may edit.
 
+RA-Gamma
+
 
 ## Data Write Queue
 
 Only the RA at the top of this list has write access to project data files (crosswalk JSON, CSVs). Add yourself to the bottom when you're ready to write. Remove yourself when done.
-
-RA-Gamma
 
 RA-Beta
 
@@ -1130,7 +1130,7 @@ RA-Beta
 | 1045 | **Leginfo gap — novel, rows 10101–10200 (Wave 18).** Same as task 785 but rows 10101–10200 of `org_name_for_cleaning/leginfo_novel.csv`. NO SHORTCUTS — examine each org individually. Apply Q9 officeholder policy. Run cleaning/dedup/stats pipeline before committing. | Done | RA-Beta | Examined all 100 — sentence-fragments ('by…','but…','business…','board…'), zero real orgs. 7 narrative (CTA/CCASA/CNRA/CALBO/CCC/Judicial Council-Courtcall/CLF), 93 invalid. not_in_crosswalk=0. |
 | 1046 | **Leginfo gap — candidates 90–97, rows 22051–22200 (Wave 19).** Same as task 780 but rows 22051–22200 of `org_name_for_cleaning/leginfo_cand_90to97.csv`. NO SHORTCUTS — examine each org individually. Run cleaning/dedup/stats pipeline before committing. | Done | RA-Gamma | Examined all 150 — low-quality OCR 'A...' region. Only 48 alt under matched node (AG Office/DOJ Q9→office; Auto Club SoCal/AAA; Asthma & Allergy Foundation CA Chapter; Audubon chapters; Assn US Army Central CA; comma-reordered CSAC/CA Redevelopment). Routed 102: 62 conjoined (mostly 'Association, <co-signer list>' OCR fragments), 27 partial (single words + wrong-stub), 7 individuals (attorneys/judge/bishop). Pipeline run (clean deduped 12; regenerate moved 9→in_crosswalk). Committed 86d51a8. |
 | 1047 | **Leginfo gap — candidates 90–97, rows 22201–22350 (Wave 19).** Same as task 780 but rows 22201–22350 of `org_name_for_cleaning/leginfo_cand_90to97.csv`. NO SHORTCUTS — examine each org individually. Run cleaning/dedup/stats pipeline before committing. | Done | RA-Alpha | Examined all 150 individually ("Association of/for X" span). 41 already covered. 51→crosswalk (41 ALT_SUGG, 7 ALT_MAP: ACORN/ACHD×2/ASCA/ACLHIC×2/ALADS; 3 new canon: Assoc of Military Surgeons of US, Assoc of Holocaust Survivors from former USSR, Assoc of Children's Counsel). 55 conjoined (multi-org lists, many mis-suggested as 'CADAAC'; esp. ACWA + appended agencies). 2 partial (truncated 'Assoc of Rural Northern','Assoc of North'). 1 narrative. Pipeline: Not in crosswalk:0, Verified 259,655 unchanged; canon 140,687, total 206,859. |
-| 1048 | **Leginfo gap — candidates 90–97, rows 22351–22500 (Wave 19).** Same as task 780 but rows 22351–22500 of `org_name_for_cleaning/leginfo_cand_90to97.csv`. NO SHORTCUTS — examine each org individually. Run cleaning/dedup/stats pipeline before committing. | In Progress | RA-Gamma |  |
+| 1048 | **Leginfo gap — candidates 90–97, rows 22351–22500 (Wave 19).** Same as task 780 but rows 22351–22500 of `org_name_for_cleaning/leginfo_cand_90to97.csv`. NO SHORTCUTS — examine each org individually. Run cleaning/dedup/stats pipeline before committing. | Done | RA-Gamma | Examined all 150 — 'Assoc.../Asian' slice. 90 alt under matched node (Associated Students CSU/UC chapters; AGC & Associated Builders/Contractors chapters; Assoc. of CA Life&Health/Tort Reform; Assembly committees; APIA/Asian American block AAAJ/APALC/APABA/AACRE/AANHPI; Asian Law Caucus via override). Routed 50: 32 conjoined, 9 individuals (wardens/asst directors/assemblymembers), 9 partial. Pipeline run (clean deduped 14; regenerate moved 15→in_crosswalk). Committed 9e7f17e. |
 | 1049 | **Leginfo gap — candidates 90–97, rows 22501–22650 (Wave 19).** Same as task 780 but rows 22501–22650 of `org_name_for_cleaning/leginfo_cand_90to97.csv`. NO SHORTCUTS — examine each org individually. Run cleaning/dedup/stats pipeline before committing. | In Progress | RA-Alpha |  |
 | 1050 | **Leginfo gap — candidates 90–97, rows 22651–22800 (Wave 19).** Same as task 780 but rows 22651–22800 of `org_name_for_cleaning/leginfo_cand_90to97.csv`. NO SHORTCUTS — examine each org individually. Run cleaning/dedup/stats pipeline before committing. | Not Started |  |  |
 | 1051 | **Leginfo gap — candidates 90–97, rows 22801–22950 (Wave 19).** Same as task 780 but rows 22801–22950 of `org_name_for_cleaning/leginfo_cand_90to97.csv`. NO SHORTCUTS — examine each org individually. Run cleaning/dedup/stats pipeline before committing. | Not Started |  |  |
