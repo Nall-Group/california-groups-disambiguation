@@ -4,8 +4,8 @@
 
 To edit this file (mark tasks, update queues, add tasks), join this queue first. Only the name at the top may edit.
 
-RA-Gamma
 RA-Alpha
+RA-Beta
 
 ## Data Write Queue
 
@@ -1145,7 +1145,7 @@ RA-Alpha
 | 1060 | **Leginfo gap — novel, rows 10701–10800 (Wave 19).** Same as task 785 but rows 10701–10800 of `org_name_for_cleaning/leginfo_novel.csv`. NO SHORTCUTS — examine each org individually. Apply Q9 officeholder policy. Run cleaning/dedup/stats pipeline before committing. | Done | RA-Beta |  |
 | 1061 | **Leginfo gap — candidates 90–97, rows 23401–23550 (Wave 20).** Same as task 780 but rows 23401–23550 of `org_name_for_cleaning/leginfo_cand_90to97.csv`. NO SHORTCUTS — examine each org individually. Run cleaning/dedup/stats pipeline before committing. | In Progress | RA-Alpha |  |
 | 1062 | **Leginfo gap — candidates 90–97, rows 23551–23700 (Wave 20).** Same as task 780 but rows 23551–23700 of `org_name_for_cleaning/leginfo_cand_90to97.csv`. NO SHORTCUTS — examine each org individually. Run cleaning/dedup/stats pipeline before committing. | Done | RA-Gamma | Examined all 150 — acronym-heavy slice. 75 alt under matched node (AFSCME locals/councils 1587/1902-MWD/2620/3299/DC36-57/UNAC-UHCP/UAPD; AFL-CIO single-union reorders SEIU/IBEW/Laborers/CWA/Teamsters PAC/Housing Investment Trust; AMVETS-Dept CA; ARCA; ANC Rental; AIDS Resources Santa Clara). Routed 46: 36 conjoined ('AFL-CIO <org1><org2>' co-signer fragments), 10 partial (bare-acronym mismatches AGSJ/AOCDS/APILO, AG Bonta, ARGUMENTS-IN narrative). Pipeline run (clean deduped 11; regenerate moved 11→in_crosswalk). Committed 6bad97c. |
-| 1063 | **Leginfo gap — candidates 90–97, rows 23701–23850 (Wave 20).** Same as task 780 but rows 23701–23850 of `org_name_for_cleaning/leginfo_cand_90to97.csv`. NO SHORTCUTS — examine each org individually. Run cleaning/dedup/stats pipeline before committing. | Not Started |  |  |
+| 1063 | **Leginfo gap — candidates 90–97, rows 23701–23850 (Wave 20).** Same as task 780 but rows 23701–23850 of `org_name_for_cleaning/leginfo_cand_90to97.csv`. NO SHORTCUTS — examine each org individually. Run cleaning/dedup/stats pipeline before committing. | In Progress | RA-Gamma |  |
 | 1064 | **Leginfo gap — candidates 90–97, rows 23851–24000 (Wave 20).** Same as task 780 but rows 23851–24000 of `org_name_for_cleaning/leginfo_cand_90to97.csv`. NO SHORTCUTS — examine each org individually. Run cleaning/dedup/stats pipeline before committing. | Not Started |  |  |
 | 1065 | **Leginfo gap — candidates 90–97, rows 24001–24150 (Wave 20).** Same as task 780 but rows 24001–24150 of `org_name_for_cleaning/leginfo_cand_90to97.csv`. NO SHORTCUTS — examine each org individually. Run cleaning/dedup/stats pipeline before committing. | Not Started |  |  |
 | 1066 | **Leginfo gap — candidates 90–97, rows 24151–24314 (Wave 20, FINAL 90–97 batch).** Same as task 780 but rows 24151–24314 of `org_name_for_cleaning/leginfo_cand_90to97.csv`. NO SHORTCUTS — examine each org individually. After this task, the entire 90–97 band is complete. Run cleaning/dedup/stats pipeline before committing. | Not Started |  |  |
