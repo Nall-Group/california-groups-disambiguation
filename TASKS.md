@@ -4,12 +4,12 @@
 
 To edit this file (mark tasks, update queues, add tasks), join this queue first. Only the name at the top may edit.
 
+RA-Gamma
+
 
 ## Data Write Queue
 
 Only the RA at the top of this list has write access to project data files (crosswalk JSON, CSVs). Add yourself to the bottom when you're ready to write. Remove yourself when done.
-
-RA-Gamma
 
 RA-Beta
 
@@ -1181,7 +1181,7 @@ RA-Beta
 | 1096 | **Leginfo gap — novel, rows 13701–13800 (Wave 22).** Same as task 785 but rows 13701–13800 of `org_name_for_cleaning/leginfo_novel.csv`. NO SHORTCUTS — examine each org individually. Apply Q9 officeholder policy. Run cleaning/dedup/stats pipeline before committing. | Done | RA-Beta |  |
 | 1097 | **Leginfo gap — novel, rows 13801–13900 (Wave 22).** Same as task 785 but rows 13801–13900 of `org_name_for_cleaning/leginfo_novel.csv`. NO SHORTCUTS — examine each org individually. Apply Q9 officeholder policy. Run cleaning/dedup/stats pipeline before committing. | Done | RA-Gamma | Examined all 100 — 'State X' slice. 32 to crosswalk: 30 alt (Q9 officeholders State Treasurer Angelides/Ma & Controller Yee/Connell/Chiang→office; Military Order of Purple Heart; SCADA; State Water Board; SCDD; State Coalition of Probation Orgs; Board of Reg PE&LS; Board of Barbering; SACRS; State Assn County Auditors/Counties; City of Stanton), 2 new canon (State Advisory Board on Alcohol, Stanislaus Literacy Center). Routed 67: 25 partial (State Bar sections/Building Trades), 19 invalid (narrative), 16 conjoined, 7 individuals. Pipeline run (deduped 7). Committed 7712e87. |
 | 1098 | **Leginfo gap — novel, rows 13901–14000 (Wave 22).** Same as task 785 but rows 13901–14000 of `org_name_for_cleaning/leginfo_novel.csv`. NO SHORTCUTS — examine each org individually. Apply Q9 officeholder policy. Run cleaning/dedup/stats pipeline before committing. | Done | RA-Alpha | Examined all 100 individually ('S…' slice: Stanislaus→Southeast). 23 already covered. 16→crosswalk (16 new canon incl Stanford Bio-X, Stage Directions, St James Infirmary, Southwest Key Programs, SEARAC, SoCal Gardeners Federation, Stand Up Sacramento County). 26 narrative ('Sponsor X'/'Specifically, X' framings). 17 partial (bare/truncated Standards/Stand/Stages/St/Sr etc). 14 conjoined. 4 individuals. (Note: dry-run deferred to data-queue top — crosswalk was mid-write by concurrent RA during plan.) Pipeline: Not in crosswalk:0, Verified 259,655 unchanged; canon 140,830, total 207,952. |
-| 1099 | **Leginfo gap — novel, rows 14001–14100 (Wave 22).** Same as task 785 but rows 14001–14100 of `org_name_for_cleaning/leginfo_novel.csv`. NO SHORTCUTS — examine each org individually. Apply Q9 officeholder policy. Run cleaning/dedup/stats pipeline before committing. | In Progress | RA-Gamma |  |
+| 1099 | **Leginfo gap — novel, rows 14001–14100 (Wave 22).** Same as task 785 but rows 14001–14100 of `org_name_for_cleaning/leginfo_novel.csv`. NO SHORTCUTS — examine each org individually. Apply Q9 officeholder policy. Run cleaning/dedup/stats pipeline before committing. | Done | RA-Gamma | Examined all 100 — 'South/Sonoma/Solano/Society' slice. 28 to crosswalk: 13 alt (chambers→US Chamber; City of South Pasadena; Sonoma Co Mobilehome; Solano Co BOS; City of Solana Beach; Society of CA Accountants; SmithKline Beecham; Small Business CA; 6th District PTA), 15 new canon (S LA Promise Zone/Brain Trust/Best Babies, S Coast Marine Corps League, S Bay Progressive Alliance, Son Energy, Solarex, Solano Children's Network, Snugtop, SnackSafely, SloCo Yimby, Skaters for Public Skateparks, Sisters of Company of Mary/Perpetual Indulgence). Routed 57: 28 partial ('Six/Sixty X' placeholders), 20 invalid (narrative), 6 conjoined, 3 individuals. Pipeline run (deduped 7). Committed dc25c2d. |
 | 1100 | **Leginfo gap — novel, rows 14101–14200 (Wave 22).** Same as task 785 but rows 14101–14200 of `org_name_for_cleaning/leginfo_novel.csv`. NO SHORTCUTS — examine each org individually. Apply Q9 officeholder policy. Run cleaning/dedup/stats pipeline before committing. | In Progress | RA-Beta |  |
 | 1101 | **Leginfo gap — novel, rows 14201–14300 (Wave 22).** Same as task 785 but rows 14201–14300 of `org_name_for_cleaning/leginfo_novel.csv`. NO SHORTCUTS — examine each org individually. Apply Q9 officeholder policy. Run cleaning/dedup/stats pipeline before committing. | In Progress | RA-Beta |  |
 | 1102 | **Leginfo gap — novel, rows 14301–14400 (Wave 22).** Same as task 785 but rows 14301–14400 of `org_name_for_cleaning/leginfo_novel.csv`. NO SHORTCUTS — examine each org individually. Apply Q9 officeholder policy. Run cleaning/dedup/stats pipeline before committing. | In Progress | RA-Alpha |  |
