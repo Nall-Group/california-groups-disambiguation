@@ -11,7 +11,6 @@ RA-Beta
 
 Only the RA at the top of this list has write access to project data files (crosswalk JSON, CSVs). Add yourself to the bottom when you're ready to write. Remove yourself when done.
 
-RA-Gamma
 RA-Alpha
 
 ## Task List
@@ -1164,7 +1163,7 @@ RA-Alpha
 | 1078 | **Leginfo gap — novel, rows 11901–12000 (Wave 21).** Same as task 785 but rows 11901–12000 of `org_name_for_cleaning/leginfo_novel.csv`. NO SHORTCUTS — examine each org individually. Apply Q9 officeholder policy. Run cleaning/dedup/stats pipeline before committing. | Done | RA-Beta |  |
 | 1079 | **Leginfo gap — novel, rows 12001–12100 (Wave 21).** Same as task 785 but rows 12001–12100 of `org_name_for_cleaning/leginfo_novel.csv`. NO SHORTCUTS — examine each org individually. Apply Q9 officeholder policy. Run cleaning/dedup/stats pipeline before committing. | Done | RA-Beta |  |
 | 1080 | **Leginfo gap — novel, rows 12101–12200 (Wave 21).** Same as task 785 but rows 12101–12200 of `org_name_for_cleaning/leginfo_novel.csv`. NO SHORTCUTS — examine each org individually. Apply Q9 officeholder policy. Run cleaning/dedup/stats pipeline before committing. | Done | RA-Beta |  |
-| 1081 | **Leginfo gap — novel, rows 12201–12300 (Wave 21).** Same as task 785 but rows 12201–12300 of `org_name_for_cleaning/leginfo_novel.csv`. NO SHORTCUTS — examine each org individually. Apply Q9 officeholder policy. Run cleaning/dedup/stats pipeline before committing. | In Progress | RA-Gamma |  |
+| 1081 | **Leginfo gap — novel, rows 12201–12300 (Wave 21).** Same as task 785 but rows 12201–12300 of `org_name_for_cleaning/leginfo_novel.csv`. NO SHORTCUTS — examine each org individually. Apply Q9 officeholder policy. Run cleaning/dedup/stats pipeline before committing. | Done | RA-Gamma | Examined all 100. 17 to crosswalk: 15 alt under existing (VICA/Valley Ag Water/Valley Health Team/Valley Beth Shalom/City of Vallejo/CA VVA/VFW CA Council/UWUA/TURN/Urban Habitat/Upland Chamber/Up for Growth/VForce), 2 new canon (VISIONES Fresno, Valley Metal Treating). Routed 82: 54 partial ('Various X'/'Unknown X' placeholders + bare acronyms), 11 individuals, 11 conjoined (city/water-agency lists), 6 invalid (bill-text narrative). Pipeline run (clean deduped 7). Committed 831c202. |
 | 1082 | **Leginfo gap — novel, rows 12301–12400 (Wave 21).** Same as task 785 but rows 12301–12400 of `org_name_for_cleaning/leginfo_novel.csv`. NO SHORTCUTS — examine each org individually. Apply Q9 officeholder policy. Run cleaning/dedup/stats pipeline before committing. | Not Started |  |  |
 | 1083 | **Leginfo gap — novel, rows 12401–12500 (Wave 21).** Same as task 785 but rows 12401–12500 of `org_name_for_cleaning/leginfo_novel.csv`. NO SHORTCUTS — examine each org individually. Apply Q9 officeholder policy. Run cleaning/dedup/stats pipeline before committing. | Not Started |  |  |
 | 1084 | **Leginfo gap — novel, rows 12501–12600 (Wave 21).** Same as task 785 but rows 12501–12600 of `org_name_for_cleaning/leginfo_novel.csv`. NO SHORTCUTS — examine each org individually. Apply Q9 officeholder policy. Run cleaning/dedup/stats pipeline before committing. | Not Started |  |  |
