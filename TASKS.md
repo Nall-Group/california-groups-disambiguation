@@ -4,13 +4,11 @@
 
 To edit this file (mark tasks, update queues, add tasks), join this queue first. Only the name at the top may edit.
 
-RA-Beta
 
 ## Data Write Queue
 
 Only the RA at the top of this list has write access to project data files (crosswalk JSON, CSVs). Add yourself to the bottom when you're ready to write. Remove yourself when done.
 
-RA-Beta
 RA-Alpha
 RA-Gamma
 
@@ -1195,8 +1193,8 @@ RA-Gamma
 | 1109 | **Leginfo gap — novel, rows 15001–15100 (Wave 23).** Same as task 785 but rows 15001–15100 of `org_name_for_cleaning/leginfo_novel.csv`. NO SHORTCUTS — examine each org individually. Apply Q9 officeholder policy. Run cleaning/dedup/stats pipeline before committing. | Done | RA-Beta |  |
 | 1110 | **Leginfo gap — novel, rows 15101–15200 (Wave 23).** Same as task 785 but rows 15101–15200 of `org_name_for_cleaning/leginfo_novel.csv`. NO SHORTCUTS — examine each org individually. Apply Q9 officeholder policy. Run cleaning/dedup/stats pipeline before committing. | Done | RA-Alpha | Examined all 100 individually ('R…' people-heavy slice). 18 already covered. 15→crosswalk (4 ALT_MAP: CITY OF RIVERSIDE [Mayor Loveridge], COUNTY OF RIVERSIDE BOARD OF SUPERVISORS ×3; 11 new canon incl Riverside Sheriffs' Assn ×3, Riverside POA, Dixon PD, Rhino, Robinsons-May, Rocketdyne Clean Coalition, Riverbank Housing Authority). 55 individuals (Ron/Robert/Richard/Rick named persons, chiefs-w/o-dept, mayors-w/o-city, assessors). 7 narrative. 3 conjoined. 1 invalid (Weatherwax Memorial Bridge). 1 partial. Pipeline: Not in crosswalk:0, Verified 259,655 unchanged; canon 140,913, total 208,170. |
 | 1111 | **Leginfo gap — novel, rows 15201–15300 (Wave 23).** Same as task 785 but rows 15201–15300 of `org_name_for_cleaning/leginfo_novel.csv`. NO SHORTCUTS — examine each org individually. Apply Q9 officeholder policy. Run cleaning/dedup/stats pipeline before committing. | Done | RA-Gamma | Examined all 100 — individual/narrative-heavy 'Re...' slice. 11 to crosswalk: 6 alt (RetireSafe, Retired Public Employees Assn of CA, Responsible Citizens, Respiratory Care Board, Renova Solar), 5 new canon (Revered Technology, Retail Delivery Drivers Local 278, Resources & Assistance for Former Foster Youth MiraCosta, Renaissance Escrow, Regional Energy Management Assn). Routed 89: 44 invalid (Rev&Tax vote tallies + Requiring/Representative-of-coalition narrative), 28 individuals (Reverends/Retired Judges/federal Reps), 10 conjoined, 7 partial. Pipeline run (deduped 3). Committed 91cc838. |
-| 1112 | **Leginfo gap — novel, rows 15301–15400 (Wave 23).** Same as task 785 but rows 15301–15400 of `org_name_for_cleaning/leginfo_novel.csv`. NO SHORTCUTS — examine each org individually. Apply Q9 officeholder policy. Run cleaning/dedup/stats pipeline before committing. | In Progress | RA-Beta |  |
-| 1113 | **Leginfo gap — novel, rows 15401–15500 (Wave 23).** Same as task 785 but rows 15401–15500 of `org_name_for_cleaning/leginfo_novel.csv`. NO SHORTCUTS — examine each org individually. Apply Q9 officeholder policy. Run cleaning/dedup/stats pipeline before committing. | In Progress | RA-Beta |  |
+| 1112 | **Leginfo gap — novel, rows 15301–15400 (Wave 23).** Same as task 785 but rows 15301–15400 of `org_name_for_cleaning/leginfo_novel.csv`. NO SHORTCUTS — examine each org individually. Apply Q9 officeholder policy. Run cleaning/dedup/stats pipeline before committing. | Done | RA-Beta |  |
+| 1113 | **Leginfo gap — novel, rows 15401–15500 (Wave 23).** Same as task 785 but rows 15401–15500 of `org_name_for_cleaning/leginfo_novel.csv`. NO SHORTCUTS — examine each org individually. Apply Q9 officeholder policy. Run cleaning/dedup/stats pipeline before committing. | Done | RA-Beta |  |
 | 1114 | **Leginfo gap — novel, rows 15501–15600 (Wave 23).** Same as task 785 but rows 15501–15600 of `org_name_for_cleaning/leginfo_novel.csv`. NO SHORTCUTS — examine each org individually. Apply Q9 officeholder policy. Run cleaning/dedup/stats pipeline before committing. | In Progress | RA-Alpha |  |
 | 1115 | **Leginfo gap — novel, rows 15601–15700 (Wave 23).** Same as task 785 but rows 15601–15700 of `org_name_for_cleaning/leginfo_novel.csv`. NO SHORTCUTS — examine each org individually. Apply Q9 officeholder policy. Run cleaning/dedup/stats pipeline before committing. | In Progress | RA-Gamma |  |
 | 1116 | **Leginfo gap — novel, rows 15701–15800 (Wave 23).** Same as task 785 but rows 15701–15800 of `org_name_for_cleaning/leginfo_novel.csv`. NO SHORTCUTS — examine each org individually. Apply Q9 officeholder policy. Run cleaning/dedup/stats pipeline before committing. | Not Started |  |  |
