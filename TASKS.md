@@ -4,12 +4,12 @@
 
 To edit this file (mark tasks, update queues, add tasks), join this queue first. Only the name at the top may edit.
 
+RA-Gamma
+
 
 ## Data Write Queue
 
 Only the RA at the top of this list has write access to project data files (crosswalk JSON, CSVs). Add yourself to the bottom when you're ready to write. Remove yourself when done.
-
-RA-Gamma
 
 RA-Beta
 
@@ -1189,7 +1189,7 @@ RA-Beta
 | 1104 | **Leginfo gap — novel, rows 14501–14600 (Wave 22).** Same as task 785 but rows 14501–14600 of `org_name_for_cleaning/leginfo_novel.csv`. NO SHORTCUTS — examine each org individually. Apply Q9 officeholder policy. Run cleaning/dedup/stats pipeline before committing. | Done | RA-Beta |  |
 | 1105 | **Leginfo gap — novel, rows 14601–14700 (Wave 22).** Same as task 785 but rows 14601–14700 of `org_name_for_cleaning/leginfo_novel.csv`. NO SHORTCUTS — examine each org individually. Apply Q9 officeholder policy. Run cleaning/dedup/stats pipeline before committing. | Done | RA-Beta |  |
 | 1106 | **Leginfo gap — novel, rows 14701–14800 (Wave 23).** Same as task 785 but rows 14701–14800 of `org_name_for_cleaning/leginfo_novel.csv`. NO SHORTCUTS — examine each org individually. Apply Q9 officeholder policy. Run cleaning/dedup/stats pipeline before committing. | Done | RA-Alpha | Examined all 100 individually (S-acronym slice). 19 already covered. 12→crosswalk (12 new canon: SURJ Bay Area, SURE helpline, STAR Physical Therapy, STAR Vista, SSP Gas Shut-Off Valve, SOVA Comm Food, SNAP Inc Institute, SF/SD editorial boards, SES Solar Electric, SEIU Local 660, SCANPH). 30 narrative (acronym+verb 'SWRCB to…'/'SPONSOR! X'/'SF states'). 20 partial (bare acronyms SJI/SHC/SHARE/SGK + 'SCR <org>' bill-prefixed). 13 invalid (STAFF ANALYSIS/SENATE APPROPRIATIONS SUBCOMMITTEE…PAGE x metadata, petition). 6 conjoined (SEIU/SPUR lists). Pipeline: Not in crosswalk:0, Verified 259,655 unchanged; canon 140,898, total 208,094. |
-| 1107 | **Leginfo gap — novel, rows 14801–14900 (Wave 23).** Same as task 785 but rows 14801–14900 of `org_name_for_cleaning/leginfo_novel.csv`. NO SHORTCUTS — examine each org individually. Apply Q9 officeholder policy. Run cleaning/dedup/stats pipeline before committing. | In Progress | RA-Gamma |  |
+| 1107 | **Leginfo gap — novel, rows 14801–14900 (Wave 23).** Same as task 785 but rows 14801–14900 of `org_name_for_cleaning/leginfo_novel.csv`. NO SHORTCUTS — examine each org individually. Apply Q9 officeholder policy. Run cleaning/dedup/stats pipeline before committing. | Done | RA-Gamma | Examined all 100 — 'SB <bill-prefix> <real org>' pattern (bill ref is OCR junk, trailing org real). 45 to crosswalk (all alt under existing — SBCAG/ACEP/NRDC/Zenith/WCLP/Ventura BOS/UTLA/SD Supercomputer/Metal Finishing/Mathews Fdn/LA County PPOA/LACAAW/League of CA Cities/Dept of Finance/CEERT/CA Trucking/CSEA/CNPA/CA Mining/CIF/CCEEB/CBIA/CASA/CAHP/CATTC/CAADV/CIDFAC/ACWA/AAP/ASID/ACOG/Ag Council/UNAC/Elections Cmte OC/Huntington Beach/Riverside + more). Routed 55: 47 invalid (bill# fragments), 6 partial, 2 conjoined. Pipeline run (0 dedup). Committed 71a245d. |
 | 1108 | **Leginfo gap — novel, rows 14901–15000 (Wave 23).** Same as task 785 but rows 14901–15000 of `org_name_for_cleaning/leginfo_novel.csv`. NO SHORTCUTS — examine each org individually. Apply Q9 officeholder policy. Run cleaning/dedup/stats pipeline before committing. | In Progress | RA-Beta |  |
 | 1109 | **Leginfo gap — novel, rows 15001–15100 (Wave 23).** Same as task 785 but rows 15001–15100 of `org_name_for_cleaning/leginfo_novel.csv`. NO SHORTCUTS — examine each org individually. Apply Q9 officeholder policy. Run cleaning/dedup/stats pipeline before committing. | In Progress | RA-Beta |  |
 | 1110 | **Leginfo gap — novel, rows 15101–15200 (Wave 23).** Same as task 785 but rows 15101–15200 of `org_name_for_cleaning/leginfo_novel.csv`. NO SHORTCUTS — examine each org individually. Apply Q9 officeholder policy. Run cleaning/dedup/stats pipeline before committing. | In Progress | RA-Alpha |  |
