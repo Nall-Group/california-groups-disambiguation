@@ -4,12 +4,13 @@
 
 To edit this file (mark tasks, update queues, add tasks), join this queue first. Only the name at the top may edit.
 
+RA-Gamma
+
 
 ## Data Write Queue
 
 Only the RA at the top of this list has write access to project data files (crosswalk JSON, CSVs). Add yourself to the bottom when you're ready to write. Remove yourself when done.
 
-RA-Gamma
 RA-Alpha
 
 RA-Beta
@@ -1169,7 +1170,7 @@ RA-Beta
 | 1083 | **Leginfo gap — novel, rows 12401–12500 (Wave 21).** Same as task 785 but rows 12401–12500 of `org_name_for_cleaning/leginfo_novel.csv`. NO SHORTCUTS — examine each org individually. Apply Q9 officeholder policy. Run cleaning/dedup/stats pipeline before committing. | Done | RA-Beta |  |
 | 1084 | **Leginfo gap — novel, rows 12501–12600 (Wave 21).** Same as task 785 but rows 12501–12600 of `org_name_for_cleaning/leginfo_novel.csv`. NO SHORTCUTS — examine each org individually. Apply Q9 officeholder policy. Run cleaning/dedup/stats pipeline before committing. | Done | RA-Gamma | Examined all 100. 14 to crosswalk: 13 alt under existing (UDW/AFSCME Local 3930 variants→AFSCME canonical; UNI-SOLAR; US African American Chamber; 21st Century Insurance; UCAN/US Women's/Tustin Chamber; 12th District PTA — dups skipped), 1 new canon (Tustin Hospital & Medical Center). Routed 75: 33 individuals (U.S. Senators/Reps/Congressmembers), 33 partial ('Two X'/'Twenty-X' placeholders + acronyms), 7 invalid (UC/UCLA-Health narrative), 2 conjoined (UAW locals; Submarine+Vietnam Vets). Pipeline run (clean deduped 5). Committed ec3b165. |
 | 1085 | **Leginfo gap — novel, rows 12601–12700 (Wave 21).** Same as task 785 but rows 12601–12700 of `org_name_for_cleaning/leginfo_novel.csv`. NO SHORTCUTS — examine each org individually. Apply Q9 officeholder policy. Run cleaning/dedup/stats pipeline before committing. | In Progress | RA-Alpha |  |
-| 1086 | **Leginfo gap — novel, rows 12701–12800 (Wave 21).** Same as task 785 but rows 12701–12800 of `org_name_for_cleaning/leginfo_novel.csv`. NO SHORTCUTS — examine each org individually. Apply Q9 officeholder policy. Run cleaning/dedup/stats pipeline before committing. | In Progress | RA-Gamma |  |
+| 1086 | **Leginfo gap — novel, rows 12701–12800 (Wave 21).** Same as task 785 but rows 12701–12800 of `org_name_for_cleaning/leginfo_novel.csv`. NO SHORTCUTS — examine each org individually. Apply Q9 officeholder policy. Run cleaning/dedup/stats pipeline before committing. | Done | RA-Gamma | Examined all 100. 14 to crosswalk: 13 alt under existing (leadership-as-alt: Chiefs Engstrom/Grimmond/Bickell→PDs, DA Orloff→Alameda DA, Mayors Sandoval/Bates→cities; Toluca Lake/Tiburon/Thousand Oaks Chambers; Titan Spring; Tipping Point; Thomas Safran; Tiempo Escrow II), 1 new canon (Ti'at Society). Routed 83: 37 invalid (To date/To the extent/Thus/Though narrative), 23 individuals, 19 partial ('Three X'/'Thousands X' placeholders), 4 conjoined. Pipeline run (clean deduped 1). Committed 1a93f4d. |
 | 1087 | **Leginfo gap — novel, rows 12801–12900 (Wave 21).** Same as task 785 but rows 12801–12900 of `org_name_for_cleaning/leginfo_novel.csv`. NO SHORTCUTS — examine each org individually. Apply Q9 officeholder policy. Run cleaning/dedup/stats pipeline before committing. | In Progress | RA-Beta |  |
 | 1088 | **Leginfo gap — novel, rows 12901–13000 (Wave 21).** Same as task 785 but rows 12901–13000 of `org_name_for_cleaning/leginfo_novel.csv`. NO SHORTCUTS — examine each org individually. Apply Q9 officeholder policy. Run cleaning/dedup/stats pipeline before committing. | In Progress | RA-Beta |  |
 | 1089 | **Leginfo gap — novel, rows 13001–13100 (Wave 21).** Same as task 785 but rows 13001–13100 of `org_name_for_cleaning/leginfo_novel.csv`. NO SHORTCUTS — examine each org individually. Apply Q9 officeholder policy. Run cleaning/dedup/stats pipeline before committing. | Not Started |  |  |
