@@ -4,13 +4,12 @@
 
 To edit this file (mark tasks, update queues, add tasks), join this queue first. Only the name at the top may edit.
 
-RA-Beta
+RA-Gamma
 
 ## Data Write Queue
 
 Only the RA at the top of this list has write access to project data files (crosswalk JSON, CSVs). Add yourself to the bottom when you're ready to write. Remove yourself when done.
 
-RA-Beta
 RA-Alpha
 
 ## Task List
@@ -1198,8 +1197,8 @@ RA-Alpha
 | 1113 | **Leginfo gap — novel, rows 15401–15500 (Wave 23).** Same as task 785 but rows 15401–15500 of `org_name_for_cleaning/leginfo_novel.csv`. NO SHORTCUTS — examine each org individually. Apply Q9 officeholder policy. Run cleaning/dedup/stats pipeline before committing. | Done | RA-Beta |  |
 | 1114 | **Leginfo gap — novel, rows 15501–15600 (Wave 23).** Same as task 785 but rows 15501–15600 of `org_name_for_cleaning/leginfo_novel.csv`. NO SHORTCUTS — examine each org individually. Apply Q9 officeholder policy. Run cleaning/dedup/stats pipeline before committing. | Done | RA-Alpha | Examined all 100 individually ('P…' slice). 16 already covered. 12→crosswalk (2 ALT_MAP: Cedars-Sinai [Pres/CEO], CITY OF POWAY; 10 new canon incl PFAC, PECG, CA State Bd of Food & Agriculture, Pacific Merchant Shipping Assn, Port of LA, PolicyLink, Pro-Life Catholic Ministries, Primary Care At Home, ProAbition, Presiding Judges Advisory Cmte). 25 individuals (Professors/Private Citizens counts/judges/councilmembers). 25 narrative ('Prior/Previous/Presently…' framings). 13 partial. 8 conjoined. 1 invalid (Prior Committee Vote metadata). Pipeline: Not in crosswalk:0, Verified 259,655 unchanged; canon 140,939, total 208,227. |
 | 1115 | **Leginfo gap — novel, rows 15601–15700 (Wave 23).** Same as task 785 but rows 15601–15700 of `org_name_for_cleaning/leginfo_novel.csv`. NO SHORTCUTS — examine each org individually. Apply Q9 officeholder policy. Run cleaning/dedup/stats pipeline before committing. | Done | RA-Gamma | Examined all 100 — 'Po/Pl/Ph' org-rich slice. 53 to crosswalk: 50 alt under existing parents (Planned Parenthood Affiliates of CA ~25 chapter variants; Physicians for Social Responsibility SF Bay ~6; Plumbing-Heating-Cooling Contractors ~5; cities Placerville/Placentia/Pinole; Placer County/BOS; Pittsburg/Pismo Chambers; Pillars of Community; Plasma Protein Therapeutics; Physicians for Reproductive Choice; PT Examining Cmte; Angelides→CA State Treasurer), 3 new canon (Playzeum, Placer Title, Pivotal Point Youth Services). Routed 44: 19 conjoined (Police-Dept city lists), 12 invalid, 7 individuals, 6 partial. Pipeline run (deduped 10). Committed 7f33383. |
-| 1116 | **Leginfo gap — novel, rows 15701–15800 (Wave 23).** Same as task 785 but rows 15701–15800 of `org_name_for_cleaning/leginfo_novel.csv`. NO SHORTCUTS — examine each org individually. Apply Q9 officeholder policy. Run cleaning/dedup/stats pipeline before committing. | In Progress | RA-Beta |  |
-| 1117 | **Leginfo gap — novel, rows 15801–15900 (Wave 23).** Same as task 785 but rows 15801–15900 of `org_name_for_cleaning/leginfo_novel.csv`. NO SHORTCUTS — examine each org individually. Apply Q9 officeholder policy. Run cleaning/dedup/stats pipeline before committing. | In Progress | RA-Beta |  |
+| 1116 | **Leginfo gap — novel, rows 15701–15800 (Wave 23).** Same as task 785 but rows 15701–15800 of `org_name_for_cleaning/leginfo_novel.csv`. NO SHORTCUTS — examine each org individually. Apply Q9 officeholder policy. Run cleaning/dedup/stats pipeline before committing. | Done | RA-Beta |  |
+| 1117 | **Leginfo gap — novel, rows 15801–15900 (Wave 23).** Same as task 785 but rows 15801–15900 of `org_name_for_cleaning/leginfo_novel.csv`. NO SHORTCUTS — examine each org individually. Apply Q9 officeholder policy. Run cleaning/dedup/stats pipeline before committing. | Done | RA-Beta |  |
 | 1118 | **Leginfo gap — novel, rows 15901–16000 (Wave 23).** Same as task 785 but rows 15901–16000 of `org_name_for_cleaning/leginfo_novel.csv`. NO SHORTCUTS — examine each org individually. Apply Q9 officeholder policy. Run cleaning/dedup/stats pipeline before committing. | In Progress | RA-Alpha |  |
 | 1119 | **Leginfo gap — novel, rows 16001–16100 (Wave 23).** Same as task 785 but rows 16001–16100 of `org_name_for_cleaning/leginfo_novel.csv`. NO SHORTCUTS — examine each org individually. Apply Q9 officeholder policy. Run cleaning/dedup/stats pipeline before committing. | Not Started |  |  |
 | 1120 | **Leginfo gap — novel, rows 16101–16200 (Wave 23).** Same as task 785 but rows 16101–16200 of `org_name_for_cleaning/leginfo_novel.csv`. NO SHORTCUTS — examine each org individually. Apply Q9 officeholder policy. Run cleaning/dedup/stats pipeline before committing. | Not Started |  |  |
