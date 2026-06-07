@@ -4,12 +4,12 @@
 
 To edit this file (mark tasks, update queues, add tasks), join this queue first. Only the name at the top may edit.
 
+RA-Gamma
+
 
 ## Data Write Queue
 
 Only the RA at the top of this list has write access to project data files (crosswalk JSON, CSVs). Add yourself to the bottom when you're ready to write. Remove yourself when done.
-
-RA-Gamma
 
 RA-Beta
 
@@ -1201,7 +1201,7 @@ RA-Beta
 | 1116 | **Leginfo gap — novel, rows 15701–15800 (Wave 23).** Same as task 785 but rows 15701–15800 of `org_name_for_cleaning/leginfo_novel.csv`. NO SHORTCUTS — examine each org individually. Apply Q9 officeholder policy. Run cleaning/dedup/stats pipeline before committing. | Done | RA-Beta |  |
 | 1117 | **Leginfo gap — novel, rows 15801–15900 (Wave 23).** Same as task 785 but rows 15801–15900 of `org_name_for_cleaning/leginfo_novel.csv`. NO SHORTCUTS — examine each org individually. Apply Q9 officeholder policy. Run cleaning/dedup/stats pipeline before committing. | Done | RA-Beta |  |
 | 1118 | **Leginfo gap — novel, rows 15901–16000 (Wave 23).** Same as task 785 but rows 15901–16000 of `org_name_for_cleaning/leginfo_novel.csv`. NO SHORTCUTS — examine each org individually. Apply Q9 officeholder policy. Run cleaning/dedup/stats pipeline before committing. | Done | RA-Alpha | Examined all 100 individually (very-low-quality OCR 'Page X' slice). 13 already covered. 21→crosswalk (1 ALT_MAP: City of Pacific Grove [Mayor Kampe]; 20 new canon incl Page&Turnbull, Paddle for Peace, Pacific Symphony, Pacific Quarter Horse Assn, PICO California, PROTECT-California, POCO Solar, PLACE, Pacific Environment, Pacific Library Partnership). 35 narrative ('Page <ltr> <org>' analysis-page refs — orgs already in crosswalk). 20 partial (bare acronyms PVNOW/PUR/PRISM/PHI + 'Page p/l/H/G'). 8 invalid (PQ:xx staff-codes, continuation-page metadata). 3 conjoined. Pipeline: Not in crosswalk:0, Verified 259,655 unchanged; canon 140,972, total 208,333. |
-| 1119 | **Leginfo gap — novel, rows 16001–16100 (Wave 23).** Same as task 785 but rows 16001–16100 of `org_name_for_cleaning/leginfo_novel.csv`. NO SHORTCUTS — examine each org individually. Apply Q9 officeholder policy. Run cleaning/dedup/stats pipeline before committing. | In Progress | RA-Gamma |  |
+| 1119 | **Leginfo gap — novel, rows 16001–16100 (Wave 23).** Same as task 785 but rows 16001–16100 of `org_name_for_cleaning/leginfo_novel.csv`. NO SHORTCUTS — examine each org individually. Apply Q9 officeholder policy. Run cleaning/dedup/stats pipeline before committing. | Done | RA-Gamma | Examined all 100 — placeholder-heavy 'P/Over' slice. 8 to crosswalk: 7 alt (PFLAG chapters→PFLAG; PCMA→Pharmaceutical Care Mgmt Assn; PBGH→Pacific Business Group on Health; PACE Finance Corp; City of Oxnard), 1 new canon (Oxy Low Carbon Ventures). Routed 92: 77 partial (rows 37-100 'Over N individuals' placeholders + bare acronyms), 12 invalid (PART I/II OF BILL + narrative), 3 conjoined. Pipeline run (0 dedup). Committed bbb0fd2. |
 | 1120 | **Leginfo gap — novel, rows 16101–16200 (Wave 23).** Same as task 785 but rows 16101–16200 of `org_name_for_cleaning/leginfo_novel.csv`. NO SHORTCUTS — examine each org individually. Apply Q9 officeholder policy. Run cleaning/dedup/stats pipeline before committing. | In Progress | RA-Beta |  |
 | 1121 | **Leginfo gap — novel, rows 16201–16300 (Wave 24).** Same as task 785 but rows 16201–16300 of `org_name_for_cleaning/leginfo_novel.csv`. NO SHORTCUTS — examine each org individually. Apply Q9 officeholder policy. Run cleaning/dedup/stats pipeline before committing. | In Progress | RA-Beta |  |
 | 1122 | **Leginfo gap — novel, rows 16301–16400 (Wave 24).** Same as task 785 but rows 16301–16400 of `org_name_for_cleaning/leginfo_novel.csv`. NO SHORTCUTS — examine each org individually. Apply Q9 officeholder policy. Run cleaning/dedup/stats pipeline before committing. | In Progress | RA-Alpha |  |
