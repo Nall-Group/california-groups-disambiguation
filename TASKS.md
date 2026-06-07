@@ -6,6 +6,7 @@ To edit this file (mark tasks, update queues, add tasks), join this queue first.
 
 RA-Alpha
 RA-Gamma
+RA-Beta
 
 ## Data Write Queue
 
