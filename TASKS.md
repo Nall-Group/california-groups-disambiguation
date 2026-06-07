@@ -4,12 +4,12 @@
 
 To edit this file (mark tasks, update queues, add tasks), join this queue first. Only the name at the top may edit.
 
+RA-Gamma
+
 
 ## Data Write Queue
 
 Only the RA at the top of this list has write access to project data files (crosswalk JSON, CSVs). Add yourself to the bottom when you're ready to write. Remove yourself when done.
-
-RA-Gamma
 
 RA-Beta
 
@@ -1185,7 +1185,7 @@ RA-Beta
 | 1100 | **Leginfo gap — novel, rows 14101–14200 (Wave 22).** Same as task 785 but rows 14101–14200 of `org_name_for_cleaning/leginfo_novel.csv`. NO SHORTCUTS — examine each org individually. Apply Q9 officeholder policy. Run cleaning/dedup/stats pipeline before committing. | Done | RA-Beta |  |
 | 1101 | **Leginfo gap — novel, rows 14201–14300 (Wave 22).** Same as task 785 but rows 14201–14300 of `org_name_for_cleaning/leginfo_novel.csv`. NO SHORTCUTS — examine each org individually. Apply Q9 officeholder policy. Run cleaning/dedup/stats pipeline before committing. | Done | RA-Beta |  |
 | 1102 | **Leginfo gap — novel, rows 14301–14400 (Wave 22).** Same as task 785 but rows 14301–14400 of `org_name_for_cleaning/leginfo_novel.csv`. NO SHORTCUTS — examine each org individually. Apply Q9 officeholder policy. Run cleaning/dedup/stats pipeline before committing. | Done | RA-Alpha | Examined all 100 individually ('Se…' slice). 10 already covered. 9→crosswalk (6 ALT_MAP: SECRETARY OF STATE ×5 [Miller/Jones/Starr/Bowen via officeholder Q9], Secure Justice; 3 new canon: Seed Business Network, Sebastopol Area Chamber, Seat Belt Usage Com Clarkstown PTA). 36 individuals (Senators — legislators, not Q9's six offices → individuals). 25 narrative ('Senate Bill X will…'/'Section…'/'Second,…'/'See…'). 10 conjoined. 6 invalid (bill-section refs '707(b)'/'Section 5: Author'/bill numbers). 4 partial. Pipeline: Not in crosswalk:0, Verified 259,655 unchanged; canon 140,860, total 208,012. |
-| 1103 | **Leginfo gap — novel, rows 14401–14500 (Wave 22).** Same as task 785 but rows 14401–14500 of `org_name_for_cleaning/leginfo_novel.csv`. NO SHORTCUTS — examine each org individually. Apply Q9 officeholder policy. Run cleaning/dedup/stats pipeline before committing. | In Progress | RA-Gamma |  |
+| 1103 | **Leginfo gap — novel, rows 14401–14500 (Wave 22).** Same as task 785 but rows 14401–14500 of `org_name_for_cleaning/leginfo_novel.csv`. NO SHORTCUTS — examine each org individually. Apply Q9 officeholder policy. Run cleaning/dedup/stats pipeline before committing. | Done | RA-Gamma | Examined all 100 — 'Sea/Scott/Sarah/Santa/San' slice. 27 to crosswalk: 19 alt (City of Seaside; chambers→US Chamber; Sea&Sage→Natl Audubon; Screen Actors Guild; SIATech/SPURR/SEAC; Santa Ynez Humane; Santa Cruz BOS; SCV Open Space; SCC Office of Ed; firefighter IAFF locals; San Mateo JACL/Office of Ed), 8 new canon (Seacrest Builders, Scripps Enterprises, Save Our Rural Economy, Sara Ford Rescue, Santee Firefighters, Santa Rosa Dental Health, SCC Library District JPA, Sane/Freeze). Routed 56: 28 individuals, 16 partial, 9 conjoined, 3 invalid. Pipeline run (deduped 3). Committed c64b1ff. |
 | 1104 | **Leginfo gap — novel, rows 14501–14600 (Wave 22).** Same as task 785 but rows 14501–14600 of `org_name_for_cleaning/leginfo_novel.csv`. NO SHORTCUTS — examine each org individually. Apply Q9 officeholder policy. Run cleaning/dedup/stats pipeline before committing. | In Progress | RA-Beta |  |
 | 1105 | **Leginfo gap — novel, rows 14601–14700 (Wave 22).** Same as task 785 but rows 14601–14700 of `org_name_for_cleaning/leginfo_novel.csv`. NO SHORTCUTS — examine each org individually. Apply Q9 officeholder policy. Run cleaning/dedup/stats pipeline before committing. | In Progress | RA-Beta |  |
 | 1106 | **Leginfo gap — novel, rows 14701–14800 (Wave 23).** Same as task 785 but rows 14701–14800 of `org_name_for_cleaning/leginfo_novel.csv`. NO SHORTCUTS — examine each org individually. Apply Q9 officeholder policy. Run cleaning/dedup/stats pipeline before committing. | In Progress | RA-Alpha |  |
