@@ -4,7 +4,6 @@
 
 To edit this file (mark tasks, update queues, add tasks), join this queue first. Only the name at the top may edit.
 
-RA-Gamma
 RA-Beta
 
 ## Data Write Queue
@@ -12,6 +11,7 @@ RA-Beta
 Only the RA at the top of this list has write access to project data files (crosswalk JSON, CSVs). Add yourself to the bottom when you're ready to write. Remove yourself when done.
 
 RA-Alpha
+RA-Gamma
 
 ## Task List
 
@@ -1219,7 +1219,7 @@ RA-Alpha
 | 1134 | **Leginfo gap — novel, rows 17501–17600 (Wave 24).** Same as task 785 but rows 17501–17600 of `org_name_for_cleaning/leginfo_novel.csv`. NO SHORTCUTS — examine each org individually. Apply Q9 officeholder policy. Run cleaning/dedup/stats pipeline before committing. | Done | RA-Beta |  |
 | 1135 | **Leginfo gap — novel, rows 17601–17700 (Wave 24).** Same as task 785 but rows 17601–17700 of `org_name_for_cleaning/leginfo_novel.csv`. NO SHORTCUTS — examine each org individually. Apply Q9 officeholder policy. Run cleaning/dedup/stats pipeline before committing. | Done | RA-Gamma | Examined all 100 — entire slice is 'Mayor X'. Applied leadership rule: Mayor w/ explicit city → alt of that City. 27 to crosswalk as alts under their cities (Long Beach/Riverside/Watsonville/SLO/Newark/Encinitas/Berkeley/Benicia/San Jose/Coronado/Patterson/SF×5/Oakland/Walnut Creek/Cathedral City/LA×2/Fresno/Maywood/Irvine/Sacramento/Azusa/Emeryville). Routed 73 individuals (mayors w/ no city stated + all Mayor-Pro-Tem deputy roles + cities not in crosswalk Diamond Bar/Allensworth). Pipeline run (deduped 3; regenerate moved 21→in_crosswalk). Committed 086f085. |
 | 1136 | **Leginfo gap — novel, rows 17701–17800 (Wave 25).** Same as task 785 but rows 17701–17800 of `org_name_for_cleaning/leginfo_novel.csv`. NO SHORTCUTS — examine each org individually. Apply Q9 officeholder policy. Run cleaning/dedup/stats pipeline before committing. | In Progress | RA-Alpha |  |
-| 1137 | **Leginfo gap — novel, rows 17801–17900 (Wave 25).** Same as task 785 but rows 17801–17900 of `org_name_for_cleaning/leginfo_novel.csv`. NO SHORTCUTS — examine each org individually. Apply Q9 officeholder policy. Run cleaning/dedup/stats pipeline before committing. | Not Started |  |  |
+| 1137 | **Leginfo gap — novel, rows 17801–17900 (Wave 25).** Same as task 785 but rows 17801–17900 of `org_name_for_cleaning/leginfo_novel.csv`. NO SHORTCUTS — examine each org individually. Apply Q9 officeholder policy. Run cleaning/dedup/stats pipeline before committing. | In Progress | RA-Gamma |  |
 | 1138 | **Leginfo gap — novel, rows 17901–18000 (Wave 25).** Same as task 785 but rows 17901–18000 of `org_name_for_cleaning/leginfo_novel.csv`. NO SHORTCUTS — examine each org individually. Apply Q9 officeholder policy. Run cleaning/dedup/stats pipeline before committing. | Not Started |  |  |
 | 1139 | **Leginfo gap — novel, rows 18001–18100 (Wave 25).** Same as task 785 but rows 18001–18100 of `org_name_for_cleaning/leginfo_novel.csv`. NO SHORTCUTS — examine each org individually. Apply Q9 officeholder policy. Run cleaning/dedup/stats pipeline before committing. | Not Started |  |  |
 | 1140 | **Leginfo gap — novel, rows 18101–18200 (Wave 25).** Same as task 785 but rows 18101–18200 of `org_name_for_cleaning/leginfo_novel.csv`. NO SHORTCUTS — examine each org individually. Apply Q9 officeholder policy. Run cleaning/dedup/stats pipeline before committing. | Not Started |  |  |
