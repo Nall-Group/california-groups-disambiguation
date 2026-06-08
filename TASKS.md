@@ -4,13 +4,11 @@
 
 To edit this file (mark tasks, update queues, add tasks), join this queue first. Only the name at the top may edit.
 
-RA-Beta
 
 ## Data Write Queue
 
 Only the RA at the top of this list has write access to project data files (crosswalk JSON, CSVs). Add yourself to the bottom when you're ready to write. Remove yourself when done.
 
-RA-Beta
 RA-Gamma
 RA-Alpha
 
@@ -1248,8 +1246,8 @@ RA-Alpha
 | 1162 | **Leginfo gap — novel, rows 20301–20400 (Wave 26).** Same as task 785 but rows 20301–20400 of `org_name_for_cleaning/leginfo_novel.csv`. NO SHORTCUTS — examine each org individually. Apply Q9 officeholder policy. Run cleaning/dedup/stats pipeline before committing. | Done | RA-Beta |  |
 | 1163 | **Leginfo gap — novel, rows 20401–20500 (Wave 26).** Same as task 785 but rows 20401–20500 of `org_name_for_cleaning/leginfo_novel.csv`. NO SHORTCUTS — examine each org individually. Apply Q9 officeholder policy. Run cleaning/dedup/stats pipeline before committing. | Done | RA-Alpha | Examined all 100 individually ('Gr/Go/Gl/Gi/Ge' slice). 11 already covered. 24→crosswalk (6 ALT_MAP: Governor of California ×4 [Newsom/Brown/Schwarzenegger], LtGov [Kounalakis], CITY OF INDIO mayor; 18 new canon incl Govern for CA, Gov OPR, GSMOL ×2, Grace Temple MBC, Golf Course Superintendents Assn, GLIDE, Global Alliance WWII Asia, Gondola Adventures, Gerhardt Gear). 32 individuals (Gloria/Gerald/named persons/councilmembers/out-of-state governors). 21 narrative ('Governor to…'/'Given…' framings). 6 conjoined. 6 partial. Pipeline: Not in crosswalk:0, Verified 259,655 unchanged; canon 141,226, total 209,031. |
 | 1164 | **Leginfo gap — novel, rows 20501–20600 (Wave 26).** Same as task 785 but rows 20501–20600 of `org_name_for_cleaning/leginfo_novel.csv`. NO SHORTCUTS — examine each org individually. Apply Q9 officeholder policy. Run cleaning/dedup/stats pipeline before committing. | Done | RA-Gamma | Examined all 100 — individual/fiscal-text 'Ge/Gary/General Fund' slice. 15 to crosswalk: 10 alt (Geothermal Resources Council; Genentech; GLASS; Newsom→City of SF; Gateway Chambers Alliance; Garden Grove Chamber; GO-Biz→Gov Office of Business; GO Solar; GMO Free CA), 5 new canon (Genius Squad, Genesis Floor Covering, Garibaldina Society, Gar Mar Farms, Gangs Out of Downey). Routed 82: 45 individuals, 18 invalid (General Fund fiscal text/narrative), 11 conjoined, 8 partial. Pipeline run (deduped 3). Committed 6f402e9. |
-| 1165 | **Leginfo gap — novel, rows 20601–20700 (Wave 26).** Same as task 785 but rows 20601–20700 of `org_name_for_cleaning/leginfo_novel.csv`. NO SHORTCUTS — examine each org individually. Apply Q9 officeholder policy. Run cleaning/dedup/stats pipeline before committing. | In Progress | RA-Beta |  |
-| 1166 | **Leginfo gap — novel, rows 20701–20800 (Wave 27).** Same as task 785 but rows 20701–20800 of `org_name_for_cleaning/leginfo_novel.csv`. NO SHORTCUTS — examine each org individually. Apply Q9 officeholder policy. Run cleaning/dedup/stats pipeline before committing. | In Progress | RA-Beta |  |
+| 1165 | **Leginfo gap — novel, rows 20601–20700 (Wave 26).** Same as task 785 but rows 20601–20700 of `org_name_for_cleaning/leginfo_novel.csv`. NO SHORTCUTS — examine each org individually. Apply Q9 officeholder policy. Run cleaning/dedup/stats pipeline before committing. | Done | RA-Beta |  |
+| 1166 | **Leginfo gap — novel, rows 20701–20800 (Wave 27).** Same as task 785 but rows 20701–20800 of `org_name_for_cleaning/leginfo_novel.csv`. NO SHORTCUTS — examine each org individually. Apply Q9 officeholder policy. Run cleaning/dedup/stats pipeline before committing. | Done | RA-Beta |  |
 | 1167 | **Leginfo gap — novel, rows 20801–20900 (Wave 27).** Same as task 785 but rows 20801–20900 of `org_name_for_cleaning/leginfo_novel.csv`. NO SHORTCUTS — examine each org individually. Apply Q9 officeholder policy. Run cleaning/dedup/stats pipeline before committing. | In Progress | RA-Alpha |  |
 | 1168 | **Leginfo gap — novel, rows 20901–21000 (Wave 27).** Same as task 785 but rows 20901–21000 of `org_name_for_cleaning/leginfo_novel.csv`. NO SHORTCUTS — examine each org individually. Apply Q9 officeholder policy. Run cleaning/dedup/stats pipeline before committing. | In Progress | RA-Gamma |  |
 | 1169 | **Leginfo gap — novel, rows 21001–21100 (Wave 27).** Same as task 785 but rows 21001–21100 of `org_name_for_cleaning/leginfo_novel.csv`. NO SHORTCUTS — examine each org individually. Apply Q9 officeholder policy. Run cleaning/dedup/stats pipeline before committing. | Not Started |  |  |
