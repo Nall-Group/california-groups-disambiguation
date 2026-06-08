@@ -4,13 +4,12 @@
 
 To edit this file (mark tasks, update queues, add tasks), join this queue first. Only the name at the top may edit.
 
-RA-Beta
+RA-Gamma
 
 ## Data Write Queue
 
 Only the RA at the top of this list has write access to project data files (crosswalk JSON, CSVs). Add yourself to the bottom when you're ready to write. Remove yourself when done.
 
-RA-Beta
 RA-Alpha
 
 ## Task List
@@ -1238,8 +1237,8 @@ RA-Alpha
 | 1153 | **Leginfo gap — novel, rows 19401–19500 (Wave 26).** Same as task 785 but rows 19401–19500 of `org_name_for_cleaning/leginfo_novel.csv`. NO SHORTCUTS — examine each org individually. Apply Q9 officeholder policy. Run cleaning/dedup/stats pipeline before committing. | Done | RA-Beta |  |
 | 1154 | **Leginfo gap — novel, rows 19501–19600 (Wave 26).** Same as task 785 but rows 19501–19600 of `org_name_for_cleaning/leginfo_novel.csv`. NO SHORTCUTS — examine each org individually. Apply Q9 officeholder policy. Run cleaning/dedup/stats pipeline before committing. | Done | RA-Gamma | Examined all 100 — low-quality OCR 'Individual/Inc./In support' slice. 8 to crosswalk: 6 alt (Indio Chamber; City of Indian Wells; Independent Cities Assn; Independent Administrators Assn; GSMOL), 2 new canon (Indian Diamond & Colorstone Assn, Independent Employees of Merced Co). Routed 91: 38 narrative ('In support, the <ORG>' — orgs already in crosswalk→leginfo_narrative.csv), 27 conjoined ('Inc. <X>' co-signer fragments), 19 invalid (procedural narrative), 7 partial ('Individual - N'). Pipeline run (deduped 3). Committed d4b52a4. |
 | 1155 | **Leginfo gap — novel, rows 19601–19700 (Wave 26).** Same as task 785 but rows 19601–19700 of `org_name_for_cleaning/leginfo_novel.csv`. NO SHORTCUTS — examine each org individually. Apply Q9 officeholder policy. Run cleaning/dedup/stats pipeline before committing. | Done | RA-Alpha | Examined all 100 individually — 100% narrative slice ('In support of/In summary/In sum/In response/In particular/In part/In opposition/In order to/In conclusion… <org>' bill-analysis framings). All 100 routed to narrative (embedded orgs — CMA/CJAC/CalTax/ACLU/Equality California/DBSA/NASW-CA etc. — already in crosswalk). 0 to crosswalk → pipeline skipped; committed only leginfo_narrative.csv. |
-| 1156 | **Leginfo gap — novel, rows 19701–19800 (Wave 26).** Same as task 785 but rows 19701–19800 of `org_name_for_cleaning/leginfo_novel.csv`. NO SHORTCUTS — examine each org individually. Apply Q9 officeholder policy. Run cleaning/dedup/stats pipeline before committing. | In Progress | RA-Beta |  |
-| 1157 | **Leginfo gap — novel, rows 19801–19900 (Wave 26).** Same as task 785 but rows 19801–19900 of `org_name_for_cleaning/leginfo_novel.csv`. NO SHORTCUTS — examine each org individually. Apply Q9 officeholder policy. Run cleaning/dedup/stats pipeline before committing. | In Progress | RA-Beta |  |
+| 1156 | **Leginfo gap — novel, rows 19701–19800 (Wave 26).** Same as task 785 but rows 19701–19800 of `org_name_for_cleaning/leginfo_novel.csv`. NO SHORTCUTS — examine each org individually. Apply Q9 officeholder policy. Run cleaning/dedup/stats pipeline before committing. | Done | RA-Beta |  |
+| 1157 | **Leginfo gap — novel, rows 19801–19900 (Wave 26).** Same as task 785 but rows 19801–19900 of `org_name_for_cleaning/leginfo_novel.csv`. NO SHORTCUTS — examine each org individually. Apply Q9 officeholder policy. Run cleaning/dedup/stats pipeline before committing. | Done | RA-Beta |  |
 | 1158 | **Leginfo gap — novel, rows 19901–20000 (Wave 26).** Same as task 785 but rows 19901–20000 of `org_name_for_cleaning/leginfo_novel.csv`. NO SHORTCUTS — examine each org individually. Apply Q9 officeholder policy. Run cleaning/dedup/stats pipeline before committing. | Done | RA-Gamma | Examined all 100 — 'Hu/Hundreds/However/Humane' slice. 18 to crosswalk: 14 alt (Huntington Beach Police/Fire; Humboldt Women for Shelter; Humane Society of US; Human Rights Watch; Human Impact Partners; Port Hueneme Chamber; Howard Jarvis Taxpayers Assn; Housing is a Human Right; Housing Leadership Council San Mateo; Housing California), 4 new canon (Humánny pokrok, Humansaurus HR, Housing Authority of Stanislaus Co, Hope Without Limits). Routed 79: 35 invalid ('However' narrative), 19 partial ('Hundreds of X'), 17 conjoined, 8 individuals. Pipeline run (deduped 7). Committed aa7e8c6. |
 | 1159 | **Leginfo gap — novel, rows 20001–20100 (Wave 26).** Same as task 785 but rows 20001–20100 of `org_name_for_cleaning/leginfo_novel.csv`. NO SHORTCUTS — examine each org individually. Apply Q9 officeholder policy. Run cleaning/dedup/stats pipeline before committing. | In Progress | RA-Alpha |  |
 | 1160 | **Leginfo gap — novel, rows 20101–20200 (Wave 26).** Same as task 785 but rows 20101–20200 of `org_name_for_cleaning/leginfo_novel.csv`. NO SHORTCUTS — examine each org individually. Apply Q9 officeholder policy. Run cleaning/dedup/stats pipeline before committing. | Not Started |  |  |
