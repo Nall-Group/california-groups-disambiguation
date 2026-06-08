@@ -10,7 +10,6 @@ RA-Gamma
 
 Only the RA at the top of this list has write access to project data files (crosswalk JSON, CSVs). Add yourself to the bottom when you're ready to write. Remove yourself when done.
 
-RA-Gamma
 RA-Alpha
 
 ## Task List
@@ -1250,7 +1249,7 @@ RA-Alpha
 | 1165 | **Leginfo gap — novel, rows 20601–20700 (Wave 26).** Same as task 785 but rows 20601–20700 of `org_name_for_cleaning/leginfo_novel.csv`. NO SHORTCUTS — examine each org individually. Apply Q9 officeholder policy. Run cleaning/dedup/stats pipeline before committing. | Done | RA-Beta |  |
 | 1166 | **Leginfo gap — novel, rows 20701–20800 (Wave 27).** Same as task 785 but rows 20701–20800 of `org_name_for_cleaning/leginfo_novel.csv`. NO SHORTCUTS — examine each org individually. Apply Q9 officeholder policy. Run cleaning/dedup/stats pipeline before committing. | Done | RA-Beta |  |
 | 1167 | **Leginfo gap — novel, rows 20801–20900 (Wave 27).** Same as task 785 but rows 20801–20900 of `org_name_for_cleaning/leginfo_novel.csv`. NO SHORTCUTS — examine each org individually. Apply Q9 officeholder policy. Run cleaning/dedup/stats pipeline before committing. | In Progress | RA-Alpha |  |
-| 1168 | **Leginfo gap — novel, rows 20901–21000 (Wave 27).** Same as task 785 but rows 20901–21000 of `org_name_for_cleaning/leginfo_novel.csv`. NO SHORTCUTS — examine each org individually. Apply Q9 officeholder policy. Run cleaning/dedup/stats pipeline before committing. | In Progress | RA-Gamma |  |
+| 1168 | **Leginfo gap — novel, rows 20901–21000 (Wave 27).** Same as task 785 but rows 20901–21000 of `org_name_for_cleaning/leginfo_novel.csv`. NO SHORTCUTS — examine each org individually. Apply Q9 officeholder policy. Run cleaning/dedup/stats pipeline before committing. | Done | RA-Gamma | Examined all 100 — narrative/org-mixed 'Finally/Filipino/Family' slice. 21 to crosswalk: 9 alt (Filipino American Chamber ~8 variants; Fight for 15; Feminists in Action; Farmers Insurance; Family Law Section of State Bar; FACTS), 12 new canon (Feral Cat Support, Federation of Retired Union Members, Federacion de Clubes Jaliscenses/Michocanos, Fax.com, Fathers Families of San Joaquin, Family inHome Caregiving, Family Works, Family Law Indigent Client Svcs, Family Court Services ×4 counties). Routed 71: 30 invalid (Finally/Federal text+dates), 13 partial (Fifty X placeholders), 12 narrative (Finally,<ORG>→narrative.csv), 9 conjoined, 7 individuals. Pipeline run (deduped 3). Committed 2b91575. |
 | 1169 | **Leginfo gap — novel, rows 21001–21100 (Wave 27).** Same as task 785 but rows 21001–21100 of `org_name_for_cleaning/leginfo_novel.csv`. NO SHORTCUTS — examine each org individually. Apply Q9 officeholder policy. Run cleaning/dedup/stats pipeline before committing. | In Progress | RA-Beta |  |
 | 1170 | **Leginfo gap — novel, rows 21101–21200 (Wave 27).** Same as task 785 but rows 21101–21200 of `org_name_for_cleaning/leginfo_novel.csv`. NO SHORTCUTS — examine each org individually. Apply Q9 officeholder policy. Run cleaning/dedup/stats pipeline before committing. | In Progress | RA-Beta |  |
 | 1171 | **Leginfo gap — novel, rows 21201–21300 (Wave 27).** Same as task 785 but rows 21201–21300 of `org_name_for_cleaning/leginfo_novel.csv`. NO SHORTCUTS — examine each org individually. Apply Q9 officeholder policy. Run cleaning/dedup/stats pipeline before committing. | Not Started |  |  |
