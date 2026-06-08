@@ -4,12 +4,12 @@
 
 To edit this file (mark tasks, update queues, add tasks), join this queue first. Only the name at the top may edit.
 
+RA-Gamma
+
 
 ## Data Write Queue
 
 Only the RA at the top of this list has write access to project data files (crosswalk JSON, CSVs). Add yourself to the bottom when you're ready to write. Remove yourself when done.
-
-RA-Gamma
 
 RA-Beta
 
@@ -1242,7 +1242,7 @@ RA-Beta
 | 1157 | **Leginfo gap — novel, rows 19801–19900 (Wave 26).** Same as task 785 but rows 19801–19900 of `org_name_for_cleaning/leginfo_novel.csv`. NO SHORTCUTS — examine each org individually. Apply Q9 officeholder policy. Run cleaning/dedup/stats pipeline before committing. | Done | RA-Beta |  |
 | 1158 | **Leginfo gap — novel, rows 19901–20000 (Wave 26).** Same as task 785 but rows 19901–20000 of `org_name_for_cleaning/leginfo_novel.csv`. NO SHORTCUTS — examine each org individually. Apply Q9 officeholder policy. Run cleaning/dedup/stats pipeline before committing. | Done | RA-Gamma | Examined all 100 — 'Hu/Hundreds/However/Humane' slice. 18 to crosswalk: 14 alt (Huntington Beach Police/Fire; Humboldt Women for Shelter; Humane Society of US; Human Rights Watch; Human Impact Partners; Port Hueneme Chamber; Howard Jarvis Taxpayers Assn; Housing is a Human Right; Housing Leadership Council San Mateo; Housing California), 4 new canon (Humánny pokrok, Humansaurus HR, Housing Authority of Stanislaus Co, Hope Without Limits). Routed 79: 35 invalid ('However' narrative), 19 partial ('Hundreds of X'), 17 conjoined, 8 individuals. Pipeline run (deduped 7). Committed aa7e8c6. |
 | 1159 | **Leginfo gap — novel, rows 20001–20100 (Wave 26).** Same as task 785 but rows 20001–20100 of `org_name_for_cleaning/leginfo_novel.csv`. NO SHORTCUTS — examine each org individually. Apply Q9 officeholder policy. Run cleaning/dedup/stats pipeline before committing. | Done | RA-Alpha | Examined all 100 individually — entirely 'Honorable/Hon. <Person>, <Office>' officeholders. 1 already covered. 21→crosswalk via Q9 (3 State Treasurer [Angelides/Fong], 5 State Controller [Connell/Chiang/Yee/Westly], 3 Secretary of State [Bowen/Padilla], 4 LtGov [Bustamante], 2 Governor of California [Jerry Brown], 4 mayors-with-city [Waterford/Oakland/LA/SanDiego]). 78 individuals (supervisors/councilmembers/judges/congressmembers/senators/assemblymembers/BOE members [Fiona Ma/Horton/Leonard]/mayors-without-city). Pipeline: Not in crosswalk:0, Verified 259,655 unchanged; canon 141,182, total 208,941. |
-| 1160 | **Leginfo gap — novel, rows 20101–20200 (Wave 26).** Same as task 785 but rows 20101–20200 of `org_name_for_cleaning/leginfo_novel.csv`. NO SHORTCUTS — examine each org individually. Apply Q9 officeholder policy. Run cleaning/dedup/stats pipeline before committing. | In Progress | RA-Gamma |  |
+| 1160 | **Leginfo gap — novel, rows 20101–20200 (Wave 26).** Same as task 785 but rows 20101–20200 of `org_name_for_cleaning/leginfo_novel.csv`. NO SHORTCUTS — examine each org individually. Apply Q9 officeholder policy. Run cleaning/dedup/stats pipeline before committing. | Done | RA-Gamma | Examined all 100 — 'Hon.-officials/Ho/Hi/He' slice. 31 to crosswalk: 19 alt (mayors-with-city→City: Riverside/Redlands/West Hollywood/Burbank/SF/Westminster/Pasadena; Q9→office: Lt Governor/State Treasurer/Controller/Governor/AG/Secretary of State; City of Hollister/Hesperia; Hispanic Chambers→US Chamber; HOPE; Hi-Cone→Illinois Tool Works), 12 new canon (HOBO, Home Buyer Assistance Ctr, mortuaries, Holding Hands PT, Hold Your Horses, Hoeck PT, Hillsides' Youth, Hidden Truths, Herman Miller, Heritage Housing + more). Routed 65: 54 individuals (Hon. councilmembers/judges/supervisors/Reps/Senators/DAs/mayors-without-city), 6 partial, 4 conjoined, 1 invalid. Pipeline run (deduped 1; 18→in_crosswalk). Committed fab02c1. |
 | 1161 | **Leginfo gap — novel, rows 20201–20300 (Wave 26).** Same as task 785 but rows 20201–20300 of `org_name_for_cleaning/leginfo_novel.csv`. NO SHORTCUTS — examine each org individually. Apply Q9 officeholder policy. Run cleaning/dedup/stats pipeline before committing. | In Progress | RA-Beta |  |
 | 1162 | **Leginfo gap — novel, rows 20301–20400 (Wave 26).** Same as task 785 but rows 20301–20400 of `org_name_for_cleaning/leginfo_novel.csv`. NO SHORTCUTS — examine each org individually. Apply Q9 officeholder policy. Run cleaning/dedup/stats pipeline before committing. | In Progress | RA-Beta |  |
 | 1163 | **Leginfo gap — novel, rows 20401–20500 (Wave 26).** Same as task 785 but rows 20401–20500 of `org_name_for_cleaning/leginfo_novel.csv`. NO SHORTCUTS — examine each org individually. Apply Q9 officeholder policy. Run cleaning/dedup/stats pipeline before committing. | In Progress | RA-Alpha |  |
