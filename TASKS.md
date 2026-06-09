@@ -5,14 +5,13 @@
 To edit this file (mark tasks, update queues, add tasks), join this queue first. Only the name at the top may edit.
 
 RA-Gamma
+Management-Assistant
 
 ## Data Write Queue
 
 Only the RA at the top of this list has write access to project data files (crosswalk JSON, CSVs). Add yourself to the bottom when you're ready to write. Remove yourself when done.
 
 RA-Alpha
-
-RA-Gamma
 
 ## Task List
 
@@ -1260,7 +1259,7 @@ RA-Gamma
 | 1174 | **Leginfo gap — novel, rows 21501–21600 (Wave 27).** Same as task 785 but rows 21501–21600 of `org_name_for_cleaning/leginfo_novel.csv`. NO SHORTCUTS — examine each org individually. Apply Q9 officeholder policy. Run cleaning/dedup/stats pipeline before committing. | Done | RA-Beta |  |
 | 1175 | **Leginfo gap — novel, rows 21601–21700 (Wave 27).** Same as task 785 but rows 21601–21700 of `org_name_for_cleaning/leginfo_novel.csv`. NO SHORTCUTS — examine each org individually. Apply Q9 officeholder policy. Run cleaning/dedup/stats pipeline before committing. | Done | RA-Beta |  |
 | 1176 | **Leginfo gap — novel, rows 21701–21800 (Wave 27).** Same as task 785 but rows 21701–21800 of `org_name_for_cleaning/leginfo_novel.csv`. NO SHORTCUTS — examine each org individually. Apply Q9 officeholder policy. Run cleaning/dedup/stats pipeline before committing. | In Progress | RA-Alpha |  |
-| 1177 | **Leginfo gap — novel, rows 21801–21900 (Wave 27).** Same as task 785 but rows 21801–21900 of `org_name_for_cleaning/leginfo_novel.csv`. NO SHORTCUTS — examine each org individually. Apply Q9 officeholder policy. Run cleaning/dedup/stats pipeline before committing. | In Progress | RA-Gamma |  |
+| 1177 | **Leginfo gap — novel, rows 21801–21900 (Wave 27).** Same as task 785 but rows 21801–21900 of `org_name_for_cleaning/leginfo_novel.csv`. NO SHORTCUTS — examine each org individually. Apply Q9 officeholder policy. Run cleaning/dedup/stats pipeline before committing. | Done | RA-Gamma | Examined all 100 — CA-dept-heavy 'Department/Den/Dem/Del/Def' slice. 34 to crosswalk: 28 alt (Depts of Insurance/Industrial Relations/Health Services/General Services/Fish & Game/Finance/Corporations/Consumer Affairs/Conservation w/ position-qualifier variants; Dental Board of CA; Democrats of Rossmoor; Delta Protection Commission; Delta Kappa Gamma CA; Delta Chamber; Defenders of Wildlife), 6 new canon (Dentalpoint, Democrats for Change/Action, Democratic Party LA County, Defense of Place, Defense Conversion Task Force, Defending Our Future). Routed 63: 30 individuals, 26 conjoined (Dept-of-CA veterans lists, Defenders co-org lists), 5 invalid, 2 partial. Pipeline run (deduped 16). Committed 89fce91. |
 | 1178 | **Leginfo gap — novel, rows 21901–22000 (Wave 27).** Same as task 785 but rows 21901–22000 of `org_name_for_cleaning/leginfo_novel.csv`. NO SHORTCUTS — examine each org individually. Apply Q9 officeholder policy. Run cleaning/dedup/stats pipeline before committing. | In Progress | RA-Beta |  |
 | 1179 | **Leginfo gap — novel, rows 22001–22100 (Wave 27).** Same as task 785 but rows 22001–22100 of `org_name_for_cleaning/leginfo_novel.csv`. NO SHORTCUTS — examine each org individually. Apply Q9 officeholder policy. Run cleaning/dedup/stats pipeline before committing. | In Progress | RA-Beta |  |
 | 1180 | **Leginfo gap — novel, rows 22101–22200 (Wave 27).** Same as task 785 but rows 22101–22200 of `org_name_for_cleaning/leginfo_novel.csv`. NO SHORTCUTS — examine each org individually. Apply Q9 officeholder policy. Run cleaning/dedup/stats pipeline before committing. | Not Started |  |  |
