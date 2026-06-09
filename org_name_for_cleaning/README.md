@@ -4,9 +4,9 @@ This folder is the workspace for incorporating the **58,812 leginfo support-orgs
 crosswalk failed to match** when the crosswalk was applied to `leginfo_metadata.csv` to build
 the co-support graph. Every task numbered "leginfo gap" references this file.
 
-## ⚠️ NO SHORTCUTS — examine every org individually
+## ⚠️ NO SHORTCUTS — examine every **gap** org individually
 
-Supervisor directive: **do NOT bulk-process or rubber-stamp these.** Look at each individual org
+Supervisor directive: **do NOT bulk-process or rubber-stamp these.** Look at each individual gap-org
 string, one at a time, and work with it deliberately:
 - Read the actual `leginfo_org` / `org_name` value and think about what it really is.
 - Find and inspect the real candidate entry in the crosswalk before merging — confirm it is genuinely
@@ -14,6 +14,14 @@ string, one at a time, and work with it deliberately:
 - A high WRatio is a hint, not a decision. False positives exist at every confidence level.
 - When uncertain, search the crosswalk and the web before acting; if still unsure, mark the task
   Blocked and post a question (per CLAUDE.md) rather than guessing.
+
+### Scope of the per-org rule
+**This individual-examination rule applies to the gap orgs (the leftover, undetermined ones you're
+processing) — NOT to entries already in the crosswalk.** Trust the existing crosswalk structure.
+You're not here to audit, restructure, rename canonicals, or fix the existing entries you encounter
+during your search — just place the gap org correctly relative to them. If an existing canonical
+looks OCR-corrupted, that's out of scope for this initiative; add the gap org as an alt-spelling
+under it as-is.
 
 ## Worklist files (all sorted by `bills_supported` DESC — high-impact first)
 
@@ -62,11 +70,10 @@ each org individually and confirm it is truly the same org** — no bulk/mechani
 confidence, including ≥97 (see the NO SHORTCUTS section above). Look at the actual string, find the
 real entry in the crosswalk, decide deliberately:
 
-- `matched_via=canonical`: find that canonical in the JSON. **If the leginfo spelling is the clean/
-  correct one and the existing canonical is OCR-corrupted** (e.g. canonical `Cailfornia Federation of
-  Teachers`, leginfo `California Federation of Teachers`) → **rename the canonical to the leginfo
-  spelling and demote the old name to an `alternate_spelling` child.** Otherwise add `leginfo_org`
-  as an `alternate_spelling` under that canonical.
+- `matched_via=canonical`: find that canonical in the JSON, then add `leginfo_org` as an
+  `alternate_spelling` under it. **Trust the existing canonical as-is** — do not rename it, audit it,
+  or restructure its children, even if it looks OCR-corrupted (that's out of scope; see "Scope of the
+  per-org rule" above).
 - `matched_via=alt(alternate_spelling)`: add `leginfo_org` as another `alternate_spelling` under the
   same canonical (sibling of `matched_name_in_crosswalk`).
 - `matched_via=alt(chapter)`: add `leginfo_org` as an `alternate_spelling` nested under that chapter,
