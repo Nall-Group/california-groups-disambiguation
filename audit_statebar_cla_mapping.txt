@@ -92,16 +92,16 @@ Section canonical: "Trusts and Estates Section of the California Lawyers Associa
   Big already-merged cluster L924361 TRUSTS AND ESTATES SECTION OF THE STATE BAR (~60 children, State Bar+CLA already merged)
   Merge stray exec-committee canonicals: L396561, L396599, L185047 (CLA TEXCOM), L869037, L1012571
 Sub-chapter "Executive Committee of the Trusts and Estates Section (TEXCOM)"
-DECISION (agent recommends, confirm by RA research): fold SECTION G "Estate Planning, Trust & Probate Law Section" in here
-  as historical-name alternate_spellings (same body, renamed). If RA finds they are genuinely distinct, keep G as a separate
-  sibling section under CLA.
+CONFIRMED (supervisor research): fold SECTION G "Estate Planning, Trust & Probate Law Section" in here as historical-name
+  alternate_spellings. Per CLA's "Our Sections" page there is no separate Estate Planning section — it was renamed the
+  Trusts and Estates Section when sections moved to CLA in 2018. Same body.
 
 ============================================================
 SECTION G — ESTATE PLANNING, TRUST & PROBATE LAW SECTION (historical name)  [TASK: Trusts & Estates Section]
 ============================================================
   L393856 (main, large), L393738, L393766, L393771, L393785, L393904, L393923, L393933, L869082, L869100, L868765, L868770,
   L202798, L202808, L202813, L868983, L872271, L902325, L909009
-  => merge into Section F (recommended) or keep as separate CLA section sibling.
+  => CONFIRMED: merge into Section F (Trusts and Estates Section) as alternate_spellings — same body, pre-2018 name.
 
 ============================================================
 SECTION H — TAXATION SECTION  [TASK: Taxation Section]  (chapter under CLA)
@@ -137,9 +137,9 @@ SECTION L — REAL PROPERTY LAW SECTION  [TASK: Real Property Law Section]  (cha
   L746839, L746849 (+ alts incl. "None on" dirt to strip), L869032
 
 ============================================================
-SECTION M — CRIMINAL LAW SECTION  [TASK: Criminal Law Section]  (chapter under CLA; RA verify CLA vs State Bar)
+SECTION M — CRIMINAL LAW SECTION  [TASK: Criminal Law Section]  (chapter under CLA — CONFIRMED real CLA section)
 ============================================================
-  Canonical: "Criminal Law Section of the California Lawyers Association" (CLA does have a Criminal Law Section)
+  Canonical: "Criminal Law Section of the California Lawyers Association" (CONFIRMED: CLA has a Criminal Law Section)
   L334326, L334336, L868760, L869057 (OCR)
 
 ============================================================
@@ -149,9 +149,13 @@ SECTION N — INTELLECTUAL PROPERTY LAW SECTION  [TASK: IP Law Section]  (chapte
   L498420, L498435
 
 ============================================================
-SECTION O — LEGAL SERVICES SECTION  [TASK: Legal Services Section]  (RA verify CLA vs State Bar)
+SECTION O — LEGAL SERVICES SECTION  [TASK: Legal Services Section]  (chapter under STATE BAR — CONFIRMED, not CLA)
 ============================================================
-  Canonical: "Legal Services Section of the State Bar of California" (verify; may be a State Bar function, not CLA)
+  Canonical: "Legal Services Section of the State Bar of California"
+  CONFIRMED (supervisor research): NOT a CLA section. Legal-services delivery is a State Bar function (Office of Legal
+  Services / Standing Committee on the Delivery of Legal Services). Nest under `State Bar of California`.
+  DO NOT touch unrelated legal-aid nonprofits with "Legal Services" in their name (Bet Tzedek, Neighborhood Legal Services,
+  Legal Services for Prisoners with Children, Legal Services for Children, Central California Legal Services, etc.).
   L557853, L558071, L869135, L869007 (truncated), L868795
 
 ============================================================
