@@ -16,3 +16,9 @@ NEW_CHAPTER / INVALID:<csv>. Then group findings into tasks.
 - ~20% of top-200 near-match an existing node; ~43% exist only as DIRTY VARIANTS (consolidate);
   ~37% truly absent (new canonical/chapter).
 - Many low-value rows are invalids: "N individuals", "Author", "County", etc. -> route per CLAUDE.md.
+
+## Update — bulk pass done
+- Bulk-classified all 67k (after skim+refine): 785 individuals, 1431 chambers, 93 partial, 2 invalid bulk-routed.
+- Tasks created: 1224 (individuals), 1225 (partial+invalid), 1226 (1431 chambers -> Task 1196 hierarchy).
+- NEEDS AGENT AUDIT: 66,754 real orgs (gaps_needs_audit.txt, sorted by bill count). Wave 1a (top ~240) dispositions in gaps_wave1_dispositions.txt; grouped tasks for those still TODO.
+- NEXT: continue agent-audit waves over gaps_needs_audit.txt (top by bill count), group findings into per-canonical tasks.
