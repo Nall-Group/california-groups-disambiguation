@@ -1,70 +1,76 @@
 org_name,count
 CITY OF,1243
-Union,718
-Council,663
-County,543
-District,459
+Union,873
+Council,796
+County,705
+District,587
+COUNTIES,432
+Services,425
+CIO,419
+Department,405
 County of,393
-COUNTIES,351
-Services,342
-Department,332
-Sacramento,331
-Angeles,308
+Sacramento,392
+Center,369
+Angeles,364
+Industry,351
+Coalition,347
+Concerns,327
 Los,304
-Center,302
 SAN,282
 Author,278
-Coalition,274
-CIO,265
-Industry,255
+Physicians,259
 California Association,253
+Francisco,241
 National,232
-Concerns,203
-Foundation,202
-Francisco,200
-Physicians,198
+Secretary of,230
+Riverside,224
+Foundation,222
+Cities of,215
+City,205
+Orange,204
 Attorney,195
-Riverside,185
+National Association,183
 Defenders Association,181
-Orange,166
+Merced,178
+Board,172
+Alliance,170
 Professionals,166
+Chapter,161
 California Attorneys for,159
+Institute,159
 Consumer,157
 San Francisco,151
+Network,151
 Administrators,150
+Organizations,150
 PATH,147
-Alliance,144
-Cities of,143
-National Association,140
-Secretary of,139
 SMH:bjw,139
-Institute,137
+Administration,137
 League,133
+AB,131
 Association of,130
-Merced,130
 Oakland,129
 for Criminal Justice,125
-Network,122
 BILL,121
 Women,121
 Stockton,115
+Cities,112
 Sheriffs,111
+COMMITTEE,107
 Advocates,106
 Emergency Medical Services Administrators Association of,104
-Board,102
+of Colored People,103
 Santa,102
 Women for,102
-AB,101
 Project,101
+ASSOCIATIONS,101
 PODER,100
 Consumer Attorneys of,99
-Cities,99
+Other,99
 Bureau,98
-COMMITTEE,98
-Organizations,98
-Administration,97
 Peace,97
 Agencies,96
+Opponents,94
 American Federation of,93
 Attorneys of California,92
 Engineers & Scientists of California,91
@@ -75,22 +81,22 @@ Long Beach,88
 Program,88
 Stand Up for,87
 Marin,86
+Organization,86
 Crime Victims United of,85
 of Commerce,85
 Crime,83
 Valley,83
+Society,82
 California School,79
 of,79
 Federation,79
-ASSOCIATIONS,78
 Unknown,78
+Agency,78
 Western,77
 "Strategic Committee of Public Employees, Laborers International Union of",75
 Firefighters,74
 Legal,73
 County Sheriff,72
-Organization,72
-Society,72
 Tulare,72
 Chief,70
 Contra Costa,70
@@ -108,10 +114,10 @@ Advocacy,65
 Action Now,65
 Napa,64
 Poway,64
-Agency,63
 County of San,63
 Disabilities,62
 University,62
+Commission,62
 AT,61
 California Chamber of,61
 County Sheriffs Department,61
@@ -129,7 +135,6 @@ Seniors,58
 County Welfare Directors Association of,57
 Health,57
 LAW,57
-of Colored People,57
 American Federation,56
 Teachers,56
 Chapters,55
@@ -149,20 +154,21 @@ Division,48
 Madera,48
 National Association of,48
 Safety,48
+Service,48
 Development,47
 Federation of California,47
 LLC,47
 Providence,47
-Service,47
 Sheriff-Coroner,47
 Tri-valley City of Dublin,47
 Law Center,46
 Concord,46
 Butte,46
+Public,46
 Chief Probation,45
 Legislative Council,45
 Parent Teachers Association,45
-Public,45
+and,45
 Connect,44
 Group,44
 Officers of California,43
@@ -172,6 +178,7 @@ COUNTY DISTRICT ENROLLMENT AS OF,42
 City of San,42
 Insurance,42
 Tustin,42
+opposition,42
 Club,41
 Court,41
 Department of California,41
@@ -191,6 +198,7 @@ Lake,38
 School,38
 Judicial,38
 Glenn,38
+are,38
 Apartment,37
 Department of,37
 Laguna Beach,37
@@ -217,6 +225,7 @@ Legal Services for,33
 Northern,33
 Walnut Creek,33
 Bellflower,33
+Member,33
 Corp,32
 Counsel,32
 Palmdale,32
@@ -246,6 +255,7 @@ Laguna Hills,29
 Mariposa,29
 home,29
 Advisory Council,29
+The,29
 Assessor,28
 Chino,28
 Force,28
@@ -257,6 +267,7 @@ Western States,28
 of Counties,28
 Escondido,28
 Area Agency on Aging Advisory Council,28
+Support,28
 California League of,27
 Counselors,27
 Family,27
@@ -276,14 +287,12 @@ Business,26
 California Association for the Education of,26
 Clue,26
 Engineers and Scientists of,26
-Member,26
 Natura,26
 Personal,26
 Watsonville,26
 laws,26
 Affiliate,25
 California Federation of,25
-Chapter,25
 Civil,25
 Coalition for,25
 Committee on,25
@@ -429,6 +438,7 @@ Equalization,16
 Executive,16
 Patrolmen,16
 Scientists,16
+Members,16
 ACT,15
 Accredited out of State Colleges and Universities in,15
 Aids,15
@@ -542,7 +552,6 @@ California Financial,12
 "California, Los Angeles",12
 Campaign for,12
 City of La,12
-Commission,12
 Consulting,12
 DK,12
 Enforcement,12
@@ -732,7 +741,6 @@ POSITIONS,9
 County of Vacaville Chamber of Commerce,9
 Dublin,9
 Corps,9
-Members,9
 Nurses,9
 Oncologists,9
 Healthcare,9
@@ -741,6 +749,7 @@ Retired,9
 Roundtable,9
 Select,9
 Unkown,9
+Authors,9
 Aguilas,8
 Amendment,8
 American Academy of,8
@@ -940,7 +949,6 @@ Administrator,6
 Armed Forces Retirees Association of,6
 Ascdinatd,6
 Association of San Francisco,6
-Authors,6
 Blue,6
 Board of Trustees,6
 California Academy,6
@@ -1013,7 +1021,6 @@ Oakley,6
 Officers Assn,6
 Organizations Expressing Concern,6
 Oroville,6
-Other,6
 Outdoor Sportsman's Coalition of,6
 PLANT,6
 Page n,6
@@ -2220,6 +2227,7 @@ Watershed,3
 Robert W,3
 Agency on Aging,3
 Area Agency on Aging Advisory,3
+various organizations,3
 26th District,2
 3492 (North Antelope),2
 434-B,2
@@ -3538,6 +3546,7 @@ AAA Council on Aging,2
 Area Agency on Aging/North Coast Opportunities,2
 "Community Services Agency, Area Agency on Aging Senior",2
 County Council on Aging,2
+Senate,2
 Acacia,1
 $30,1
 104 Individual Letters from Representatives of,1
@@ -6359,7 +6368,6 @@ Zero Waste,1
 "Zev Yarosolsky, Member, Los Angeles County Board of",1
 Zoological Society,1
 add,1
-are,1
 "bill, AB 131, (Committee on Budget), Chapter 80, Statutes of",1
 but,1
 by the ACLU and,1
@@ -7218,7 +7226,6 @@ Samuel,1
 Sansum/Santa,1
 Scavenger,1
 Schofiled,1
-Senate,1
 Settlement,1
 Shasta/Trinity/Lassen/Tehama,1
 Shelters,1
@@ -7321,7 +7328,6 @@ Way,0
 Way of California,0
 "Workers of America, AFL-CIO, CLC",0
 "Workers of America, AFL-CIO, CLC Local 9003",0
-and,0
 for California,0
 in California,0
 of America,0
