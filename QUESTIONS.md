@@ -11,7 +11,7 @@ To edit this file (post questions, write answers), join this queue first. Only t
 ## Open Questions
 
 ### Q10 (Task 1207, RA-Beta) — 3 police/sheriff pairings deferred (tangled pre-existing structure)
-**Status:** Open
+**Status:** Answered
 
 While doing Task 1207 (consolidate GROUP 2 associations), I applied 22 clean consolidations and confirmed ~10 were already nested. **Three police/sheriff pairings I deferred** because the crosswalk already has a conflicting structure that the simple audit pairing would make worse:
 
@@ -22,6 +22,8 @@ There is a generic super-parent canonical **`Police Officer's Association`** wit
 - **`Riverside Sheriffs' Association`** → audit says alt of `Riverside Sheriffs' Association (All)`. But `RIVERSIDE SHERIFF'S ASSOCIATION` already exists as a chapter under `SHERIFF'S ASSOCIATION`; `Riverside Sheriffs' Association (All)` is a separate standalone canonical.
 
 **Question:** How should these be resolved? Specifically: (A) Is the generic `Police Officer's Association` / `SHERIFF'S ASSOCIATION` super-parent structure intended (each city POA a "chapter" of a generic national-sounding parent), or should those generic parents be dissolved and each city POA become its own standalone canonical? (B) For each of the 3 orgs above, which spelling should be the single canonical, and should the duplicate standalone be merged into the chapter (or vice-versa)? This likely warrants its own follow-up task covering the whole `Police Officer's Association` / `SHERIFF'S ASSOCIATION` subtree, not just these 3. The other 34 GROUP 2 rows are done.
+
+**Answer:** KEEP the grouped super-parent structure (do NOT dissolve it). (A) There should be a single canonical **`Police Officers Association`** with ALL police officers associations (every city/regional POA) as `chapter` children. The **sheriff's associations are different from the police associations**, so `Sheriff's Association` is its OWN separate canonical with its own chapter structure (all sheriff associations as chapters). Standardize the police parent's canonical spelling to `Police Officers Association`. (B) For each of the 3 deferred orgs, merge the tiny standalone duplicate INTO the existing chapter under the correct parent (the chapter under the parent stays; the standalone canonical's name + its alt children become alternate_spellings within that chapter; remove the duplicate standalone canonical): `Long Beach Police Officers Association` + standalone `Long Beach Police Officers` → consolidate under the `LONG BEACH POLICE OFFICERS ASSOCIATION` chapter (under `Police Officers Association`); `Riverside Police Officers Association` + standalone `Riverside Police Officers Assoc` → consolidate under the `RIVERSIDE POLICE OFFICERS' ASSOCIATION` chapter; `Riverside Sheriffs' Association` + standalone `Riverside Sheriffs' Association (All)` → consolidate under the `RIVERSIDE SHERIFF'S ASSOCIATION` chapter (under `Sheriff's Association`). These 3 plus the whole-subtree cleanup are covered by **follow-up task 1208** — so you may mark task 1207 **Done** with the 34 completed consolidations (the 3 deferred move to 1208).
 
 ### Q9 (Tasks 785/786, RA-Beta) — recurring policy for the novel waves
 **Status:** Answered
