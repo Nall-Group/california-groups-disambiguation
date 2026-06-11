@@ -10,6 +10,19 @@ To edit this file (post questions, write answers), join this queue first. Only t
 
 ## Open Questions
 
+### Q10 (Task 1207, RA-Beta) — 3 police/sheriff pairings deferred (tangled pre-existing structure)
+**Status:** Open
+
+While doing Task 1207 (consolidate GROUP 2 associations), I applied 22 clean consolidations and confirmed ~10 were already nested. **Three police/sheriff pairings I deferred** because the crosswalk already has a conflicting structure that the simple audit pairing would make worse:
+
+There is a generic super-parent canonical **`Police Officer's Association`** with ~55 city POAs nested as `chapter` children (Anaheim, Burbank, Fresno, Long Beach, Riverside, San Diego, etc.), and a parallel generic **`SHERIFF'S ASSOCIATION`** parent with `CA STATE SHERIFFS ASSOCIATION` / `RIVERSIDE SHERIFF'S ASSOCIATION` / Alameda chapters. The audit's targets are *separate tiny standalone canonicals*, so the same org exists in two places:
+
+- **`Long Beach Police Officers Association`** → audit says alt of `Long Beach Police Officers`. But `LONG BEACH POLICE OFFICERS ASSOCIATION` (with alts LBPOA, "Long Beach Police Officers' Association") already exists as a **chapter under `Police Officer's Association`**, while `Long Beach Police Officers` is a separate standalone canonical (2 alt children).
+- **`Riverside Police Officers Association`** → audit says alt of `Riverside Police Officers Assoc`. But "Riverside Police Officers Association" already exists as an alt under the `RIVERSIDE POLICE OFFICERS' ASSOCIATION` chapter (under `Police Officer's Association`); `Riverside Police Officers Assoc` is a separate standalone canonical.
+- **`Riverside Sheriffs' Association`** → audit says alt of `Riverside Sheriffs' Association (All)`. But `RIVERSIDE SHERIFF'S ASSOCIATION` already exists as a chapter under `SHERIFF'S ASSOCIATION`; `Riverside Sheriffs' Association (All)` is a separate standalone canonical.
+
+**Question:** How should these be resolved? Specifically: (A) Is the generic `Police Officer's Association` / `SHERIFF'S ASSOCIATION` super-parent structure intended (each city POA a "chapter" of a generic national-sounding parent), or should those generic parents be dissolved and each city POA become its own standalone canonical? (B) For each of the 3 orgs above, which spelling should be the single canonical, and should the duplicate standalone be merged into the chapter (or vice-versa)? This likely warrants its own follow-up task covering the whole `Police Officer's Association` / `SHERIFF'S ASSOCIATION` subtree, not just these 3. The other 34 GROUP 2 rows are done.
+
 ### Q9 (Tasks 785/786, RA-Beta) — recurring policy for the novel waves
 **Status:** Answered
 
