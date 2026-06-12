@@ -3,7 +3,6 @@ CITY OF,1252
 Union,873
 Council,796
 County,705
-District,587
 COUNTIES,432
 Services,425
 CIO,419
@@ -13,7 +12,6 @@ Sacramento,392
 Center,369
 Angeles,364
 Industry,353
-Coalition,351
 Concerns,328
 Los,311
 SAN,287
@@ -65,7 +63,6 @@ Monterey,107
 Santa,105
 Emergency Medical Services Administrators Association of,104
 of Colored People,103
-ASSOCIATIONS,101
 Consumer Attorneys of,99
 Other,99
 League of California,99
@@ -145,9 +142,7 @@ Development,60
 Connect,60
 LLC,59
 one,58
-County Welfare Directors Association of,57
 arc,56
-Section,55
 Consumer Federation of,55
 Officials,55
 Sheriff-Coroner,55
@@ -259,7 +254,6 @@ Turlock,32
 Murrieta,32
 Office of,31
 SMH:dm,31
-Counselors,31
 Mono,31
 California Society,31
 "County, Inc",31
@@ -496,7 +490,6 @@ California Commission on the Status of,14
 California Women,14
 Christ,14
 Environmental Health,14
-Family Law Section of the State Bar of,14
 Human Rights/Fair Housing Commission of the City and County of,14
 Marijuana Laws,14
 Metropolitan Water District of,14
@@ -1375,7 +1368,6 @@ Crossroads of,4
 Cypress Community College Registered Dental Assistant,4
 D.C,4
 Defenders,4
-Dental Hygienist's Association,4
 Dentists,4
 Development Board,4
 Development Center,4
@@ -1759,8 +1751,6 @@ Del,3
 "Delaine Eastin, State Superintendent of",3
 Department Nursing Directors,3
 Department of Fair,3
-Department of Finance[1],3
-Department of Health,3
 Department of Speech-Pathology and Audiology at California,3
 Departments,3
 Design,3
@@ -2022,7 +2012,6 @@ Youth Justice,3
 an,3
 day,3
 for Children National Association of Social Workers,3
-for Children's Health and the Environment,3
 for Compensation Reform,3
 "for Criminal Justice, the ACLU, the Catholic Center for",3
 "for Law and Order, Inc",3
@@ -2451,7 +2440,6 @@ County Clerk-Recorders of,2
 County Clerks Association of,2
 County Sheriff's,2
 County Welfare Directoros Association of,2
-County Welfare Directors Assoc. Committee on Moral Concerns,2
 County of Los Angeles_Dept. of,2
 County of Santa Cruz Board of,2
 County of Silicon Valley,2
@@ -2496,7 +2484,6 @@ Development UDC Homes,2
 "Development, Berkeley",2
 Developmental Disabilities Board,2
 "Developmental Disabilities Board, Area Board",2
-"Developmental Disabilities Board, Area V",2
 Developmental Services,2
 Diabetes Association,2
 Diabetes Network,2
@@ -2521,7 +2508,6 @@ ETR,2
 Eagle Forum of,2
 Educating for Democracy California Campaign for the Civic Mission of,2
 Ek,2
-"El Cajon, City of",2
 El Centro Chamber of,2
 El Dorado County Office of,2
 Elders,2
@@ -2574,7 +2560,6 @@ Futures,2
 G.M,2
 GCC,2
 Garden Grove Chamber of,2
-"Garden Grove, City of",2
 Gas,2
 Gate,2
 Gateway Rehabilitation Agency Speech Services of,2
@@ -2649,7 +2634,6 @@ James B,2
 January,2
 "Jay Kinder, Philip Germond, Rulon Blackburn, Brian Strom and Michael Campbell of",2
 "Jewish Community Relations Committee, Jewish Federations of",2
-Jff,2
 Joan Ahlstrand Member of Turlock Friends of the,2
 "Judge Harry Pregerson, 1st Lieutenant, USMC, WWII, United States Court of",2
 "Judicial Council, Children's Advocacy Institute, and National Association of",2
@@ -3430,7 +3414,6 @@ Unavailable,2
 Undersheriff,2
 Wakefield,2
 John R,2
-"Community Services Agency, Area Agency on Aging Senior",2
 County Council on Aging,2
 Senate,2
 Committee of the State Bar of California,2
@@ -4241,7 +4224,6 @@ Communication Workers of,1
 Communities in Harmony Advocating for,1
 "Communities, Inc",1
 Community Action Fund of,1
-Community Action Fund of the Planned Parenthood of Orange and San,1
 Community Action Partnership of,1
 Community Adult Day Care of Community Hospital of,1
 Community Alliance for Special,1
@@ -4261,7 +4243,6 @@ Community Legal Services of,1
 "Community Perinatal Project, Los Angeles County, Department of",1
 Community Re-Entry Education/Employment Service and Training of,1
 "Community Service Programs, Victims Assistance Programs of",1
-"Community Services Agency, Area Agency on",1
 Community Violence Solutions and Rape Crisis Center of,1
 Concerned Business Owners Opposed To Sections of,1
 Concerned Dog Owners of,1
@@ -4327,7 +4308,6 @@ County Alcohol and Drug Administrators Association of,1
 County Alcohol and Drug Program Administers Association of,1
 County Alcohol and Drug Program Administrations Association of,1
 County Alcohol and Drug Program Administrator Association of,1
-County Alcohol and Drug Program Administrators Assoc. of CA,1
 County Alcohol and Drug Program Administrators of,1
 County Bd. Of Sup,1
 County Chapter (ABCA),1
@@ -4356,8 +4336,6 @@ County of S,1
 "County of Sacramento, League of",1
 County of San Bernardino Board of,1
 County of San Joaquin Office of,1
-County of San Jos,1
-County of San Joso,1
 County of Santa Anna,1
 "County of Santa Clara, Board of",1
 County of United Food,1
@@ -4420,7 +4398,6 @@ Defense Collaborative,1
 Defense Committee for the Veterans Legal Institute,1
 Defense Fund California,1
 Defense Network,1
-Defensores Del Valle Central Para,1
 Delta Association of,1
 Democratic Women of,1
 Democratic Womenos Forum of San,1
@@ -4438,10 +4415,7 @@ Department of Alcohol and Drug,1
 Department of Alcoholic Beverage,1
 Department of CorporationsCalifornia Association of,1
 "Department of Epidemiology, University of",1
-Department of Fihnance,1
-Department of Finance 5/1,1
 Department of Finance AB 984-Papan,1
-"Department of Finance, Office of the Director",1
 Department of General,1
 "Department of General Services, Department of",1
 Department of Health Services - County of Los,1
@@ -4452,7 +4426,6 @@ Department of Psychiatry,1
 Dependency Legal Group of,1
 Dependency Legal Group of San,1
 Deputy Sheriffs Ass'n,1
-Deputy Sheriffs Assoc. of San Diego,1
 Desert Hot Springs Chamber of,1
 "Desert Sierra Cancer Surveillance Program, Region 5 of",1
 Desk,1
@@ -4474,7 +4447,6 @@ Development of Court Skillz,1
 Developmentally Disabled Children,1
 Diabetes,1
 Diabetes Coalition of,1
-"Diamond Bar, City of",1
 Diocese of,1
 Diocese of San,1
 Dioscese of,1
@@ -4482,7 +4454,6 @@ Director Palo Alto Medical Foundation Urgent Care,1
 Director of California Dental Identification Team,1
 "Director of Child Development Services, Imperial County Office",1
 "Director of Clinical Services, Division of Genetics, University of",1
-"Director of Early Intervention Services, Children's Hospital Oakland",1
 "Director of Hospitality and Lodging, Restaurants Central/Cannery",1
 Director of Industrial Security,1
 Director of Libraries,1
@@ -4528,9 +4499,7 @@ Edgewater Plumbing of,1
 Editorial Board,1
 Education/Superintendent of,1
 Eileen,1
-"El Centro, City of",1
 El Comite para el Bienestar de Earlimart/The Committee for,1
-El Dorado County Taxpayers for,1
 "El Dorado, County of",1
 "El Monte, City of",1
 El Monte/South El Monte Chamber of,1
@@ -4573,7 +4542,6 @@ Environmental Working,1
 Epilepsy Foundation of,1
 "Ernest J. Dronenburg, Jr., Board of",1
 Escondido Chamber of,1
-"Estate Planning, Trust & Probate Law Section of the",1
 "Estates, Rosemead, San Bernardino, San Gabriel, Santa",1
 "Estates, San Bernardino, San Bernardino, San Diego, San",1
 "Eugene L. Elmore, Ph.D., Research Specialist in the Department of",1
@@ -4661,7 +4629,6 @@ Frank,1
 Fransico/Bay Area Chapters,1
 Fraser,1
 Fraternal,1
-"Free Battered Women, a Project of the California Coalition for",1
 Freight Transportation,1
 "Fremont Compensation Insurance Company, Personal Insurance Federation, Department of",1
 Freshwater,1
@@ -4700,7 +4667,6 @@ Governor's Office of Planning and California,1
 "Grand Terrace, City of",1
 Greater Conejo Valley Chamber of,1
 Greater Fresno Area Chamber of,1
-Greater Fresno Area Chamber of Comm,1
 Greater Los Angeles Area African American Chamber of,1
 Greater San Fernando Valley Chamber of,1
 Green Party of,1
@@ -4766,7 +4732,6 @@ Hubbard,1
 Hughes (2013),1
 "Human Rights Commission, City and County of",1
 Humane Society for the Prevention of,1
-"Humane Society of the United States, The",1
 Humboldt County Department of,1
 Huntington Beach Chamber of,1
 I-25,1
@@ -4815,9 +4780,7 @@ Information Center,1
 Information Committee,1
 Information Destruction,1
 Initiatives,1
-Inland Congregations United for,1
 Inland County,1
-Inland Empire Concerned African,1
 Inland Empire Economic,1
 Insight,1
 "Institute for Conflict Management, St. Vincent De Paul Center for",1
@@ -6280,7 +6243,6 @@ for Children and Families,1
 "for Children, Los Angeles Affiliate",1
 "for Children-SF, CA",1
 for Choice,1
-for Civil Rights and Equality (ACCRE),1
 for Clean Air,1
 for Coastside Protection,1
 for Community Advocacy,1
@@ -7163,7 +7125,6 @@ Rudy 39,1
 Ruth (Claremont),1
 Santiago Canyon,1
 4 Agency on Aging,1
-"Community Services Agency, Area Agency on Aging Senior Citizens Advisory",1
 NCO / Area Agency on Aging,1
 "Senior Information & Assistance, Area Agency on Aging",1
 Committee of the State Bar of California (PLLC),1
