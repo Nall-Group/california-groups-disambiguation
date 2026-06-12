@@ -32,3 +32,16 @@ NEW_CHAPTER / INVALID:<csv>. Then group findings into tasks.
 ## Overnight session progress (waves 2-12)
 - Processed through wave 12. needs_audit remaining tracked in gaps_needs_audit.txt.
 - All dispositions accumulate in gaps_master_*.{tsv,txt}; standing tasks 1242-1245 consume them.
+
+## SESSION CHECKPOINT (through wave 22)
+- Agent waves 2–22 complete. Orgs dispositioned this session (incl. bulk+acronym): ~12596.
+- needs_audit remaining:    56299 (resume = head -480 gaps_needs_audit.txt, run 8 agents writing w<NN>_<chunk>.out, then: python3 _agg.py "$TMPDIR/wNN_*.out" wNN).
+- Master worklist totals (fuel for standing tasks 1242-1245):
+    consolidate.tsv:     3627
+    new_canonicals.txt:      197
+    new_chapters.tsv:      109
+    individuals.txt:     1581
+    partial.txt:      836
+    invalid.txt:     3477
+    conjoined.txt:      251
+- Tail note: beyond ~rank 9,000 by bill count the file is dominated by procedural/narrative/individual junk (invalid+individuals >80% per wave); real-org yield (consolidate/new) has dropped to <15%/wave.
