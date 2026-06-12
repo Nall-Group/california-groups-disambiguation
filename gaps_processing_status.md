@@ -22,3 +22,9 @@ NEW_CHAPTER / INVALID:<csv>. Then group findings into tasks.
 - Tasks created: 1224 (individuals), 1225 (partial+invalid), 1226 (1431 chambers -> Task 1196 hierarchy).
 - NEEDS AGENT AUDIT: 66,754 real orgs (gaps_needs_audit.txt, sorted by bill count). Wave 1a (top ~240) dispositions in gaps_wave1_dispositions.txt; grouped tasks for those still TODO.
 - NEXT: continue agent-audit waves over gaps_needs_audit.txt (top by bill count), group findings into per-canonical tasks.
+
+## Wave 1 COMPLETE (top-480 by bill count)
+- All 480 dispositioned (g1_00-07). Worklist: gaps_wave1_worklist.txt. Tasks: 1239 (Indivisible), 1240 (advocacy/labor/veterans batch), 1241 (new canonicals).
+- Chambers from wave 1 -> tasks 1226/1229-1231; individuals/fragments -> 1224/1225; DA offices -> 1198.
+- needs_audit cursor advanced; ~66,483 remain.
+- IMPROVEMENT for future waves: have disposition agents WRITE output to a TSV file so grouping is scriptable instead of hand-transcribed.
