@@ -623,7 +623,6 @@ Force,12,10,3,0,0
 Fullerton,12,8,5,0,0
 Individuals (2),12,10,2,0,0
 "International Brotherhood of Electrical Workers, Local 1245",12,10,2,0,0
-IX,12,7,4,0,1
 "Jewish Federation of Greater Los Angeles, the Jewish Federation of Greater Santa Barbara",12,12,0,0,0
 Legal Aid Society Employment Law Center,12,12,0,0,0
 LLC,12,7,5,0,0
@@ -1028,7 +1027,6 @@ Chamber,8,7,7,0,0
 City of Anaheim Police Department,8,8,0,0,0
 City of Fremont Police Department,8,8,1,0,0
 City of San,8,5,3,0,0
-CLF,8,8,1,0,0
 "Climate Reality Project, Silicon Valley Chapter",8,8,0,0,0
 Clovis Chamber of Commerce,8,3,5,0,0
 Club,8,5,5,0,0
@@ -1224,7 +1222,6 @@ Chicano Latino Caucus of the California Democratic Party,7,7,0,0,0
 "Citizens Commission on Human Rights, Los Angeles/Hollywood Chapter",7,2,5,0,0
 City of,7,4,1,2,0
 City of Inc,7,6,1,0,0
-CLUE California,7,7,0,0,0
 Constituent,7,7,0,0,0
 Contra Costa County Sheriff's Office,7,7,0,0,0
 Control District,7,6,1,0,0
@@ -1237,7 +1234,6 @@ Desert Aids Project D/b/a Dap Health,7,7,0,0,0
 District Attorney of Alameda County,7,7,0,0,0
 "District Attorney, Orange County",7,7,0,0,0
 "District Attorney, Sacramento County",7,4,3,0,0
-DK,7,0,7,0,0
 El Dorado County Sheriff's Office,7,6,1,0,0
 "Elders Climate Action, Southern California Chapter",7,7,0,0,0
 Eureka Chamber of Commerce,7,7,0,0,0
@@ -1316,7 +1312,6 @@ Planned Parenthood of Shasta-Diablo,7,5,2,0,0
 POST,7,2,5,0,0
 Private Individuals,7,6,1,0,0
 Protection of the Educational Rights of Kids - Advocacy,7,7,0,0,0
-PUEBLO,7,7,0,0,0
 Rainbow Chamber of Commerce Silicon Valley,7,7,0,0,0
 Rocklin Chamber of Commerce,7,5,2,0,0
 Rosemead Chamber of Commerce,7,6,1,0,0
@@ -1372,7 +1367,6 @@ www,7,7,0,0,0
 #OaklandUndivided,6,4,3,0,0
 (prior version of bill),6,4,4,0,0
 1-individual,6,6,0,0,0
-ACCESS,6,6,0,0,0
 According to a coalition,6,6,0,0,0
 ACLU of Northern California,6,4,3,0,0
 ACLU of Southern California,6,5,2,0,0
@@ -1629,7 +1623,6 @@ Zach Hilton - City of Gilroy Council Member,6,6,0,0,0
 350 San Diego,5,4,1,0,0
 911 Ambulance Provider's Medi-Cal Alliance,5,3,2,0,0
 AARP of California,5,5,0,0,0
-AAUW of California,5,5,0,0,0
 Accountable,5,4,1,1,0
 ACT,5,3,2,0,0
 Administrators Association,5,4,1,0,0
@@ -1756,7 +1749,6 @@ County of City of Sacramento,5,4,1,0,0
 "County of Santa Clara, District Attorney",5,4,1,0,0
 CSAC - Excess Insurance Authority,5,1,4,0,0
 CTIA- The Wireless Association,5,1,4,0,0
-CVMA,5,5,1,0,0
 CWDA,5,4,0,1,0
 "Date: May 19, 2005",5,0,5,0,0
 Defending Our Future: Indivisible in CA 52nd District,5,5,0,0,0
@@ -1854,7 +1846,6 @@ League of Women Voters of CA,5,4,1,0,0
 Legal Services,5,5,1,0,0
 Lemoore Chamber of Commerce,5,3,2,0,0
 letters and phone calls from several individuals,5,0,5,0,0
-LHPC,5,4,5,0,0
 Long Beach Police Officers Association (LBPOA),5,4,1,0,0
 Los Altos,5,3,2,0,0
 Los Altos Chamber of Commerce,5,4,1,0,0
@@ -2675,7 +2666,6 @@ AAPIs for Civic Empowerment-Education Fund,3,3,0,0,0
 "ABATE of California, Local 10",3,3,0,0,0
 Academy of California Adoption Lawyers/Academy of California Family Formation Lawyers,3,2,1,0,0
 ACCCA holds steadfast to the principle that local control is fundamental in establishing and operating sound programs for students and creating an infrastructure that,3,3,0,0,0
-ACORN California,3,3,0,0,0
 ACT LA,3,3,0,0,0
 Action,3,1,2,0,0
 "Additionally, Finance",3,0,3,0,0
@@ -2936,7 +2926,6 @@ Carmel-by-the-Sea Councilmember Barbara Livingston,3,3,0,0,0
 case law,3,3,0,0,0
 Catalina Island Chamber of Commerce and Visitors Bureau,3,2,1,0,0
 CAWA- Representing the Automotive Parts Industry,3,1,2,0,0
-CCAPP,3,3,0,0,0
 CCRA,3,3,1,0,0
 "Central American Resource Center, Los Angeles",3,3,0,0,0
 Central California Hispanic Chamber of Commerce,3,1,2,0,0
@@ -2980,11 +2969,9 @@ Clara,3,3,0,0,0
 "Claremont City Councilmember, Jed Leano",3,3,0,0,0
 Climate First Replacing Oil & Gas,3,1,2,1,0
 Climate Reality Project: Silicon Valley,3,3,0,0,0
-CLS,3,3,1,0,0
 Club California,3,1,2,0,0
 Club-California,3,2,1,0,0
 CLUE (Clergy and Laity United for Economic Justice),3,3,0,0,0
-CLUE CA,3,3,0,0,0
 CMPA,3,1,3,0,0
 Coalition of Filipino American Chambers of Commerce,3,2,1,0,0
 Common Ground - The Westside HIV Community Center,3,3,0,0,0
@@ -3037,9 +3024,7 @@ County Welfare Directors Assoc. None to date,3,3,3,0,0
 County Welfare Directors Association of California (in concept),3,3,0,0,0
 Couple of Individuals,3,3,0,0,0
 Covina Chamber of Commerce,3,2,1,0,0
-CPMA,3,3,0,0,0
 Crime Victims United of CA,3,3,0,0,0
-CSAP,3,3,1,0,0
 Cudahy Chamber of Commerce,3,3,0,0,0
 Culver City Chamber,3,1,2,0,0
 CWDB,3,3,3,0,0
@@ -3246,7 +3231,6 @@ L,3,3,0,0,0
 La Habra Area Chamber of Commerce,3,2,1,0,0
 labor,3,3,0,0,0
 Laboratory,3,1,2,0,0
-LAC,3,3,1,0,0
 Lake Elsinore Chamber of Commerce,3,1,2,0,0
 law is unclear regarding whether a court can,3,3,0,0,0
 Lawrence J. Sokol,3,1,2,0,0
@@ -3350,7 +3334,6 @@ National Center for Youth,3,2,1,0,0
 National Council of Jewish Women- California,3,3,0,0,0
 National Police Accountability Project (UNREG),3,3,0,0,0
 National Rifle Association - Institute For Legislative Action,3,0,3,0,0
-NBC,3,1,2,0,0
 need,3,3,0,0,0
 "Neutral, note concerns",3,3,0,0,0
 "New Directions Inc, Los Angeles",3,3,0,0,0
@@ -3435,7 +3418,6 @@ Pasadena Firefighters Local 809,3,3,0,0,0
 "Paul Koretz, Councilmember",3,2,1,0,0
 Pauline Costello,3,3,0,0,0
 Pauma Band of Luiseño Indians,3,1,2,0,0
-PEACE,3,2,1,0,0
 "Peace and Freedom Party, California",3,2,1,0,0
 Peace Officer's Research Association of California (PORAC),3,2,1,0,0
 People's Self-help Housing,3,3,0,0,0
@@ -3503,7 +3485,6 @@ Safari Club International - Golden Gate Chapter,3,1,2,0,0
 Safety,3,2,1,0,0
 Salef,3,3,0,0,0
 Salinas Fire Fighters Local 1270,3,3,0,0,0
-SALVA,3,3,0,0,0
 Salva,3,3,0,0,0
 Same as above,3,3,0,0,0
 San Bernardino Chamber of Commerce,3,3,0,0,0
@@ -3746,10 +3727,8 @@ Zone 7 Water Agency of Alameda County,3,2,1,0,1
 (As of 4/20/23),2,2,2,0,0
 (As of prior version),2,0,2,0,0
 (CMA),2,2,0,0,0
-(CRLAF),2,2,0,0,0
 (Current Version),2,2,2,0,0
 (end) none to date,2,0,2,0,0
-(LACOE),2,2,0,0,0
 (LOWENTHAL),2,2,0,0,0
 "(None received as of June 15, 2005)",2,0,2,0,0
 (per Assembly Environmental,2,2,0,0,0
@@ -3912,7 +3891,6 @@ AAP-CA strongly,2,2,0,0,0
 AARP California (prior version),2,2,0,0,0
 AARP writes in strong,2,2,0,0,0
 AARP-California,2,2,0,0,0
-AAUW - California,2,2,0,0,0
 AB 1458,2,2,0,0,0
 AB 15 (Klehs,2,0,2,0,0
 AB 1937 would expand coastal access around Pacifica State Beach and,2,2,0,0,0
@@ -3981,7 +3959,6 @@ Advocacy Inc,2,2,0,0,0
 Advocates for children and autistic children,2,2,0,0,0
 Advocates for Responsible Treatment (ART),2,0,2,0,0
 AeA - Advancing the Business of Technology,2,2,0,0,0
-AFCSME California,2,1,1,0,0
 Afcsme District Council 36,2,1,1,0,0
 "Affordable Home Ownership Program, Berkeley",2,2,0,0,0
 Affordable Housing Los Gatos Unitarian,2,2,0,0,0
@@ -4214,9 +4191,7 @@ Anti-Defamation League (prior version),2,2,0,0,0
 "anyone can be a victim of sexual violence behind bars, typical victims",2,2,0,0,0
 Aocds,2,1,1,0,0
 "Apartment Association, California Southern Cities, Inc",2,0,2,0,0
-APCIA,2,2,0,0,0
 APCSA,2,2,2,0,0
-APG,2,2,0,0,0
 APG also,2,2,0,0,0
 API Equality- LA,2,1,1,0,0
 approved by the federal government,2,0,2,0,0
@@ -4376,7 +4351,6 @@ Bakersfield Mayor Harvey Hall,2,1,1,0,0
 "Barbara Boxer, United States Senator",2,2,0,0,0
 Barbering,2,2,0,0,0
 Barstow Professional Firefighters Association Local 2325,2,2,0,0,0
-BASIC,2,1,1,0,0
 Bay Area Air Quality Management District 3/25/99,2,0,2,0,0
 Bay Area Family Child Care Providers Support Group,2,2,0,0,0
 Bay Area Lisc,2,2,0,0,0
@@ -4480,7 +4454,6 @@ CACVSO,2,2,0,0,0
 CADP,2,2,0,0,0
 CAFP concludes that access to these community,2,2,0,0,0
 CAHF also,2,2,1,0,0
-CAHNR,2,2,0,0,0
 CAHP and ACLHIC,2,1,2,0,0
 CAIR Los Angeles,2,2,0,0,0
 Cal Asian Pacific Islander Chamber of Commerce,2,1,1,0,0
@@ -4861,7 +4834,6 @@ Causa Justa:: Just Cause,2,2,0,0,0
 CAUSE - Statewide Law Enforcement Association,2,1,1,0,0
 CBHA also,2,2,0,0,0
 CCBHA,2,2,0,0,0
-CCCCO,2,2,0,0,0
 CCSA,2,2,0,0,0
 CDCR also,2,2,2,0,0
 CDCR further,2,2,2,0,0
@@ -4904,7 +4876,6 @@ Chatsworth/Porter Ranch Chamber of Commerce,2,1,1,0,0
 Cheap School (Traffic School),2,2,0,0,0
 Chemistry,2,2,0,0,0
 "Cheryl Brownlee, President, Black Advocates in State Service",2,0,2,0,0
-CHHSA,2,1,1,0,0
 Chicken Ranch Rancheria of Me Wuk Indians of California,2,2,0,0,0
 Chico Councilmember Addison Winslow,2,2,0,0,0
 Chief Charlie Beck,2,2,0,0,0
@@ -5268,8 +5239,6 @@ crime which dramatically increases punishment would deter or prevent the physica
 Crimes Against Children (Sponsor),2,0,2,0,0
 Criminal,2,2,2,0,0
 CRS,2,2,1,0,0
-CSJ,2,2,0,0,0
-CSOAA,2,1,1,0,0
 CSSA must respectfully,2,0,2,0,0
 CSU Cozen O'Connor Report and UC campus websites,2,2,0,0,0
 CSVS,2,2,0,0,0
@@ -5279,7 +5248,6 @@ Culver City Fire Fighters,2,2,0,0,0
 "Currently, 18",2,2,0,0,0
 cut,2,2,0,0,0
 CWA D9 workers have witnessed their call centers -- those that,2,2,0,0,0
-CWLC,2,2,0,0,0
 "Dan Baker, Councilmember",2,2,0,0,0
 "Dan Kalb, City Councilmember",2,2,0,0,0
 "Daniel Brotman, Councilmember, Glendale",2,2,0,0,0
@@ -5635,7 +5603,6 @@ Golden West Chapter of the ALS Association writes,2,2,0,0,0
 Goleta Chamber of Commerce,2,1,1,0,0
 Goleta Coast Audubon Society,2,2,0,0,0
 Governor's Office of Criminal Justice Planning (OCJP - sponsor),2,2,0,0,0
-GPI,2,2,0,0,0
 Grace Institute-End Child Poverty in CA,2,2,0,0,0
 GRACE- End Child Poverty in California,2,2,0,0,0
 GRACE/End Child Poverty CA,2,2,0,0,0
@@ -6026,7 +5993,6 @@ just require that firearms sold by a dealer be accompanied by,2,0,2,0,0
 Justice in Aging (prior version),2,2,0,0,0
 "Justin Mendes, Councilmember",2,0,2,0,0
 K-16 Bridge Program,2,2,0,0,0
-K.I.D.S,2,2,0,0,0
 "Kaia Eakin, Councilmember, Redwood City",2,2,0,0,0
 Kara,2,2,0,0,0
 "Kathryn Barger, Supervisor, Los Angeles County Board of Supervisors",2,2,0,0,0
@@ -6194,7 +6160,6 @@ Los Angeles/Orange Counties Building and Construction: Trades Council,2,0,2,0,0
 Los Angles Area Chamber of Commerce,2,1,1,0,0
 Los Padres Sierra Club,2,1,1,0,0
 "Louie Arrollo, former Mayor",2,0,2,0,0
-LPI,2,2,0,0,0
 "Lucas Ramirez - Councilmember, Mountain View",2,2,0,0,0
 "Lucas Ramirez, Vice Mayor",2,2,0,0,0
 Lucile Packard Children's Hospital - Stanford Children's Health,2,1,1,0,0
@@ -6280,9 +6245,7 @@ minimum prison terms in 55% to 60% of all cases. Medium terms were,2,2,0,0,0
 Miora,2,2,0,0,0
 Mission Readiness: Council for a Strong America,2,2,0,0,0
 Mission: Pedestrian,2,1,1,0,0
-MJFF,2,2,0,0,0
 MM2,2,0,2,0,0
-MOASC,2,2,0,0,0
 Modesto City Fire Fighters Association,2,2,0,0,0
 Mom,2,2,0,0,0
 MOMS (Making Our Milk Safe),2,2,0,0,0
@@ -6617,7 +6580,6 @@ Palm Springs Police Chief,2,2,0,0,0
 Palo Verde CCD,2,2,0,0,0
 Palos Verdes/south Bay Audubon,2,1,1,0,0
 Pam Slater-Price,2,2,0,0,0
-PAN,2,2,0,0,0
 Panadería Los ArcosPleasanton Chamber of Commerce,2,2,0,0,0
 "Parents, Families and Friends of Lesbians and Gays, Central",2,2,0,0,0
 "Park, Merced, Palo Alto, Piedmont, Santa Barbara, Santa",2,0,2,0,0
@@ -6639,7 +6601,6 @@ Paw Pac and the Public Interest Coalition,2,0,2,0,0
 PAW-PAC,2,2,0,0,0
 Pax,2,1,1,0,0
 PCI West - Chapter of the Precast/Prestressed Concrete Institute,2,0,2,0,0
-PeaCe,2,2,0,0,0
 Peace and Freedom Party of California's letter further,2,2,2,0,0
 Peace Officers' Research Association of California (PORAC) writes,2,2,0,0,0
 Pearl Harbor Survivors,2,2,0,0,0
@@ -7239,7 +7200,6 @@ Teamsters Local 890,2,2,0,0,0
 "Teamsters, Local 2010",2,2,0,0,0
 Tecate Community Chamber of Commerce,2,2,0,0,0
 TechNet (previous version),2,1,1,0,0
-TechNet California,2,2,0,0,0
 Technet California,2,2,0,0,0
 Technologies,2,2,0,0,0
 television station,2,2,2,0,0
@@ -7710,13 +7670,11 @@ Zenith Insurance (7/10/96),2,0,2,0,0
 (4/22/98 amended version),1,1,0,0,0
 (5/16/12) (per previous version of the bill),1,0,1,0,0
 (6/7/06 version of the bill),1,1,1,0,0
-(ACAL),1,1,0,0,0
 (According to Senate Transportation Committee,1,1,0,0,0
 "(According to the 4/27/05, Senate Health Committee analysis, unable to verify at time of this writing.)",1,1,1,0,0
 (According to the author's office recent amendments may have removed,1,0,1,0,0
 "(According to the author's office, the latest amendments may remove some of",1,0,1,0,0
 (Accountancy provisions),1,1,0,0,0
-(ACWA),1,1,0,0,0
 (AGC),1,1,0,0,0
 (all opposition is to prior version),1,0,1,0,0
 (all opposition to prior version of the bill) PetPAC,1,0,1,0,0
@@ -7803,7 +7761,6 @@ Zenith Insurance (7/10/96),2,0,2,0,0
 (Cedillo) Association,1,1,0,0,0
 (Cedillo) Citizens League,1,0,1,0,0
 (Cedillo) of Hispanic Organizations,1,1,0,0,0
-(CFPA),1,1,0,0,0
 (CFT),1,1,0,0,0
 (Chan) Association,1,1,0,0,0
 (CLCA),1,1,0,0,0
@@ -7814,7 +7771,6 @@ Zenith Insurance (7/10/96),2,0,2,0,0
 (CPCA),1,1,0,0,0
 (CSCSW),1,1,0,0,0
 (CSEA),1,1,0,0,0
-(CSIMS),1,1,0,0,0
 (CTC),1,1,0,0,0
 (Current version),1,1,0,0,0
 (d) reduce the potential cost of the bill by reducing maximum payment amounts,1,0,1,0,0
@@ -8066,8 +8022,6 @@ Zenith Insurance (7/10/96),2,0,2,0,0
 (Runner) PageB Sheriff,1,1,0,0,0
 (SB 1X opposition list),1,0,1,0,0
 (SB 1X support list),1,1,0,0,0
-(SCAQMD),1,1,0,0,0
-(SDCWA),1,1,0,0,0
 "(See ""Opposition response to proposed amendments unknown"" in",1,0,1,0,0
 "(See ""Recent amendments designed to address opposition"" in above",1,0,1,0,0
 "(See ""Recent and proposed amendments"" in above Comments)",1,0,1,0,0
@@ -10756,7 +10710,6 @@ AARP |City of La Mirada |City of Santa Fe,1,0,1,0,0
 AARP: California State Office,1,1,0,0,0
 AARP: Concerns,1,0,1,0,0
 "Aarshdeep Kahlon, Chair, San José Bicycle and Pedestrian Advisory Committee",1,1,0,0,0
-AATCLC,1,1,0,0,0
 Aauw - California,1,1,0,0,0
 AA|RP,1,1,0,0,0
 AB (48) Portantino,1,0,1,0,0
@@ -12225,7 +12178,6 @@ AFSCME/UNAC-UHCP United Nurses Associations of California - Union of Health Care
 AFSCME/UNAC-UHCP United Nurses Associations of California-Union of Health Care Professionals,1,1,0,0,0
 AFSCME/Union of American Physicians & Dentists,1,0,1,0,0
 AFSMC District Council 36,1,1,0,0,0
-AFSME California,1,1,0,0,0
 AFSME District Council 36,1,1,0,0,0
 AFSME Retirees Chapter 36,1,1,0,0,0
 "AFSME Retirees, Chapter 36",1,1,0,0,0
@@ -12623,7 +12575,6 @@ Albert Aubin,1,1,0,0,0
 Albion River Watershed Protection Association / Friends of Salmon Creek,1,1,0,0,0
 "Albion River Watershed Protection Association, California League of Conservation Voters, Coastal Land Trust, Environmental Protection",1,0,1,0,0
 Albion River Watershed Protection Association/Friends of Salmon Creek,1,1,0,0,0
-ALC,1,1,0,0,0
 Alchemy Institute of Healing Arts,1,1,0,0,0
 Alcohol Justice and the California Alcohol Policy Alliance,1,0,1,0,0
 "Alcohol Justice, in opposition",1,0,1,0,0
@@ -15031,7 +14982,6 @@ Api Equality Northern California,1,1,0,0,0
 "API Equality, Northern California",1,1,0,0,0
 API Equality- Los Angeles,1,0,1,0,0
 API Equality- Northern California,1,1,0,0,0
-APILO,1,1,0,0,0
 "APL Limited, ARCO Products Company, California",1,0,1,0,0
 Apla Health (prior version),1,1,0,0,0
 "APLA Health, Black Women for Wellness Action Project, Equality California, Essential Access Health, Los Angeles LGBT Center",1,1,0,0,0
@@ -15732,7 +15682,6 @@ Arms,1,0,1,0,0
 "Arnold T. Johnston, Norwalk",1,0,1,0,0
 "Arnulfo Cedillo, Chabot-Las Positas Community College District Trustee",1,1,0,0,0
 "around different and sometimes controversial ideologies and visions, about which people may disagree, but they are all afforded tax-exempt status",1,0,1,0,0
-ARP,1,1,0,0,0
 arrangements that may be negotiated between labor and management under current law,1,0,1,0,0
 "arrest procedures for misdemeanor arrests for domestic violence, there",1,1,0,0,0
 "arrest, which requires reasonable suspicion. Simply causing a",1,0,1,0,0
@@ -17284,7 +17233,6 @@ Automotive Parts Rebuilders Ass'n,1,1,0,0,0
 "autopilot."" The representative also stated statistics [i.e., the CPI",1,0,1,0,0
 Auxiliary,1,1,0,0,0
 Auxiliary Organizations Association of the California State Universities,1,0,1,0,0
-AVA,1,1,0,0,0
 "avail themselves of remediation, and shifting the focus",1,0,1,0,0
 availability and by referring a prospective customer to participating,1,0,1,0,0
 availability and competency,1,0,1,0,0
@@ -17672,7 +17620,6 @@ BBC does not currently offer any form of master license to any of its,1,0,1,0,0
 BBC should continue to evolve and establish rules and,1,1,0,0,0
 BBS also,1,1,1,0,0
 "BC Investment Management Corporation (British Columbia, | |Canada)",1,1,0,0,0
-BCM,1,1,0,0,0
 "BD (Becton, Dickinson, and Company), and its affiliate Velano Vascular",1,1,0,0,0
 be - thus allowing them access to the Department of Justice list. We,1,0,1,0,0
 "be a meritorious goal, but could also lead to a",1,1,0,0,0
@@ -18809,7 +18756,6 @@ Boyle Heights Chamber of Commerce (Oppose),1,0,1,0,0
 BPCOM,1,1,0,0,0
 BPH already provides information about parole hearings to victims and generally,1,1,1,0,0
 BPi,1,0,1,0,0
-BPM,1,1,0,0,0
 Brad Goodrow,1,0,1,0,0
 Brad Hall,1,0,1,0,0
 "Brad Lewis, Vice President of Systems and Information, Snap-on Inc",1,1,0,0,0
@@ -19724,7 +19670,6 @@ Cadem Assembly District 73 Elected Delegates,1,1,0,0,0
 "Cadiz, in opposition to the bill",1,0,1,0,0
 "Cafe Europa, Santa Rosa, Calif",1,0,1,0,0
 "Cafe Pescatore, San Francisco",1,0,1,0,0
-CAFF,1,1,0,0,0
 CAFP,1,1,0,0,0
 "CAHF describes several disagreements with the bill as drafted, noting that CAHF",1,1,0,0,0
 "CAHF, (Oppose",1,0,1,0,0
@@ -24085,7 +24030,6 @@ CASH/PCR,1,1,0,0,0
 cashed and that more than three years have elapsed since the check was issued,1,1,0,0,0
 cashed and that more than three years have passed since the check was,1,1,0,0,0
 "Casita Coalition, the bill sponsor",1,1,0,0,0
-CASRA,1,1,1,0,0
 CASS Inc. CASTCO Corporation,1,0,1,0,0
 Cast,1,1,0,0,0
 Castaic Chamber of Commerce,1,1,0,0,0
@@ -24173,7 +24117,6 @@ cautionary measure,1,1,0,0,0
 cautiously before a decision is made to remove fenfluramine,1,0,1,0,0
 cautiously imposed a ten year sunset on the exemption,1,1,0,0,0
 CAVSA,1,1,0,0,0
-CAW,1,1,1,0,0
 Caza is an unincorporated area within the sphere of influence of the City,1,1,0,0,0
 "Caza, the largest guard-gated private community in the County. Coto de",1,1,0,0,0
 CA|PA|PG|PC,1,1,1,0,0
@@ -24192,7 +24135,6 @@ cc,1,0,1,0,0
 CCA,1,1,0,0,0
 CCALAC and these entities write that they are,1,0,0,0,1
 CCALAC would be happy,1,1,0,0,0
-CCAN,1,1,0,0,0
 CCAPP further,1,1,0,0,0
 CCASLA,1,1,0,0,0
 CCB,1,1,0,0,0
@@ -24219,8 +24161,6 @@ CCRS,1,1,1,0,0
 CCSA has taken an,1,0,0,0,1
 CCST,1,1,0,0,0
 CCT transition teams work with individuals to develop a safe transition plan that identifies the housing and community,1,1,0,0,0
-CCUE,1,1,0,0,0
-CCUIH,1,1,0,0,0
 CCUL supports the concept of providing consumers with as much information,1,0,0,0,1
 CCWRO also,1,1,0,0,0
 "CCWRO concludes that ""AB 1148 takes meaningful steps in addressing systemic barriers inflicted by our faulty child",1,1,0,0,0
@@ -24256,7 +24196,6 @@ CDI to conform various aspects of Medigap policies,1,1,0,0,0
 CDSA also urges recognition of the high cost of care in institutional,1,1,0,0,0
 CDSS further,1,1,1,0,0
 CDT,1,0,1,0,0
-CDTFA,1,1,1,0,0
 CEA members do not,1,0,1,0,0
 CEA policyholder surcharges,1,1,0,0,0
 CEC also,1,1,1,0,0
@@ -26886,7 +26825,6 @@ CIWMB to address what is perceived as an artificial and unnecessary barrier to c
 CJ - Ventures,1,1,0,0,0
 CJAC,1,0,1,0,0
 CJAC also,1,0,1,0,0
-CJEC,1,0,1,0,0
 Claifornia,1,1,0,0,0
 "claim as a reason to non-renew, assuming the claim was within the last three years (AB 1049)",1,0,1,0,0
 claim for travel expenses that were not processed properly due to lost,1,1,0,0,0
@@ -27082,7 +27020,6 @@ clothing,1,0,1,0,0
 cloud the property's title,1,0,1,0,0
 "Cloverdale, City of",1,0,1,0,0
 "Clovis, City Of",1,0,1,0,0
-CLTA,1,1,1,0,0
 CLTA also,1,1,1,0,0
 CLTA summarized its opposition in the following statement,1,0,1,0,0
 CLTCOA,1,1,0,0,0
@@ -27104,7 +27041,6 @@ Clubs and other automobile enthusiast organizations and individuals,1,1,0,0,0
 clubs. The EBT data distributed by the Department of Social Services (DSS) at the time shows that less than 1/10 of 1% of EBT cash redemptions,1,1,0,0,0
 CLUE California (Clergy and Laity United for Economic Justice),1,1,0,0,0
 CLUE Ventura County,1,1,0,0,0
-CLUE-LA,1,1,0,0,0
 CLUE-Los Angeles,1,1,0,0,0
 CMA also,1,0,1,0,0
 CMA continues,1,0,1,0,0
@@ -28883,7 +28819,6 @@ corrects the above [Santa Clara case cited by author] problem by,1,1,0,0,0
 Corridor,1,1,0,0,0
 "Corridor Joint Powers Authority, Sacramento Regional Transit and Sacramento Area Council of Governments",1,1,0,0,0
 Corte Madera Chamber of Commerce,1,1,0,0,0
-COSH,1,1,0,0,0
 COSM,1,1,0,0,0
 Cosmetic,1,1,0,0,0
 cosmetic manufacturers and other entities,1,0,1,0,0
@@ -30505,7 +30440,6 @@ CPDA strongly,1,1,0,0,0
 CPF also,1,1,0,0,0
 CPF] is pleased,1,1,0,0,0
 CPhA concludes the state needs to concentrate its efforts on smart solutions such as this. CPhA,1,1,0,0,0
-CPIL,1,0,1,0,0
 "CPIL continues, ""Over the past decades many agencies - including",1,0,1,0,0
 "CPIT, Inc. | | Cromwell & Associates",1,0,1,0,0
 "Cpl Aaron M Allen, Detachment 1459 Marine Corps League",1,1,0,0,0
@@ -30514,7 +30448,6 @@ CPUC Website: http://www,1,1,0,0,0
 CR also,1,1,0,0,0
 CRA and the California Chamber of Commerce,1,0,1,0,0
 CRA works on behalf of California's retail industry the largest retail market in the United,1,1,1,0,0
-CRAC,1,1,0,0,0
 "Craig Dill, former CSAA Driver Improvement Program",1,1,0,0,0
 "Craig Dill, former CSAA Driver Improvement Program Coordinator",1,1,0,0,0
 "Craig H. Calhoun, Hayward Chief of Police",1,1,0,0,0
@@ -32075,7 +32008,6 @@ DHF,1,1,0,0,0
 Dhl,1,1,0,0,0
 DHL,1,1,0,0,0
 DHM is used in the NICU,1,1,0,0,0
-DHMHS,1,1,0,0,0
 DHP-IVPP,1,1,0,0,0
 DHS and supported by the Air Resources Board,1,1,0,0,0
 DHS and the Department of Finance,1,0,1,0,0
@@ -33400,7 +33332,6 @@ Edwards,1,1,0,0,0
 "Edwards, and N. Hoffman (sponsors)",1,1,0,0,0
 Edwin Smith,1,0,1,0,0
 EERI,1,0,1,0,0
-EFF,1,1,0,0,0
 effect of increasing the cost of R&D inputs - primarily highly-skilled,1,0,1,0,0
 effect of the recession is the amount of available venture capital has,1,1,0,0,0
 "effect on the testimony received, and consequently diminish the resultant",1,0,1,0,0
@@ -34383,7 +34314,6 @@ esVolta LP,1,1,0,0,0
 ethical,1,0,1,0,0
 ethnically diverse composition,1,0,1,0,0
 ETR,1,0,1,0,0
-ETW,1,0,1,0,0
 "Eugene L. Elmore, Ph.D., Research Specialist in the Department of Radiation Oncology, College of Medicine at UCI",1,0,1,0,0
 "Eugene Sun, City Council member of San Marino",1,1,0,0,0
 "Eugene Sun, Mayor",1,0,1,0,0
@@ -34732,12 +34662,10 @@ f) Well operators cannot rely on well log confidentiality as part of their well 
 "F. Filmore Jaffe, Los Angeles County",1,1,1,0,0
 f. Insurers could only non-renew based upon,1,0,1,0,0
 "F. Scott Jackson, Attorney at Law, Irvine on behalf of Ladera",1,0,1,0,0
-F.R.E.E,1,1,0,0,0
 F.u.e.l.- Families United to End LWOP,1,1,0,0,0
 F/V City of Eureka,1,0,1,0,0
 f?docID=1341,1,0,1,0,0
 "Fabrication Technologies Industries, Inc",1,0,1,0,0
-FACC,1,1,1,0,0
 "face a shortage of emergency department access in all areas, except the west side, of the county",1,1,0,0,0
 "face legal problems. Moreover, the fair resolution of conflicts through the legal system offers financial and economic benefits by reducing the need for many",1,1,0,0,0
 "face such problems, and has passed a local breed-specific spay/neuter",1,0,1,0,0
@@ -35273,7 +35201,6 @@ First Unitarian Universalist Church,1,1,1,0,0
 "first, when a decision is",1,0,1,0,0
 first-aid measures,1,0,1,0,0
 "First-degree robbery is generally punishable by 3, 4, or 6",1,0,1,0,0
-FIS,1,1,0,0,0
 Fisca l: This mandate was last funded in 2001-02 at $1.6,1,0,1,0,0
 Fiscal : This proposal will allow savings of approximately,1,0,1,0,0
 Fiscal : This section would result in a cost avoidance of $2.0 million,1,0,1,0,0
@@ -36748,7 +36675,6 @@ global climate change,1,1,0,0,0
 Global Exchange (prior version),1,1,0,0,0
 Global Green USA (opposed to amendment described in Comment 8),1,1,0,0,0
 Global Green USA Natural Resources Defense Council,1,1,0,0,0
-GLOBE,1,1,1,0,0
 Gloria Allred,1,1,0,0,0
 "Gloria Allred, Allred, Maroko & Goldberg",1,1,0,0,0
 "Gloria Allred, Attorney-at-Law",1,1,0,0,0
@@ -37210,7 +37136,6 @@ h. Homeowners would be told the reasons that,1,0,1,0,0
 "H. Rex Greene, M.D",1,0,1,0,0
 "H. William Taeusch, M.D., Chief, Pediatric Service San: Francisco General Hospital",1,1,0,0,0
 H.A.R.T/ Muttmatchers,1,1,0,0,0
-H.E.L.P,1,1,0,0,0
 H.O.P.E,1,1,0,0,0
 h.o.p.e. of California,1,1,0,0,0
 H.S,1,1,0,0,0
@@ -37739,7 +37664,6 @@ Helen Rupert,1,1,0,0,0
 Helena,1,1,0,0,0
 Helene Schneider (Councilmember,1,1,0,0,0
 Heller,1,1,0,0,0
-HELP,1,1,0,0,0
 help alleviate financial barriers to equipment,1,1,0,0,0
 help ensure that workers are not harmed by improper wage garnishments,1,1,0,0,0
 "help housing projects to be economically feasible. However, I do not",1,1,0,0,0
@@ -37954,7 +37878,6 @@ Hollywood Park (Wesson) continued,1,1,0,0,0
 Holmes,1,1,0,0,0
 Holy Redeemer Lutheran Church (San Jose),1,1,0,0,0
 Holy Tabernacle Church of God in,1,0,1,0,0
-HOME,1,1,0,0,0
 Home (prior version),1,0,1,0,0
 "Home AB 651 (Berg) Care-Giver Services, A Division of ResCare, Inc",1,0,1,0,0
 "Home Health Services, Inc",1,1,0,0,0
@@ -38948,7 +38871,6 @@ ignores the importance of a transparent revenue structure,1,0,1,0,0
 ignoring,1,0,1,0,0
 "Igor Tregub, Berkeley Councilmember, District 4",1,1,0,0,0
 Igor Tregub- Rent Board Commissioner (Ret.) City of Berkeley,1,1,0,0,0
-IHC,1,1,0,0,0
 IHSS (prior version of bill),1,1,0,0,0
 ii. Language duplicating AB 81 should be deleted from,1,0,1,0,0
 ii] Education Code Section 49408,1,0,1,0,0
@@ -42669,11 +42591,8 @@ L.A. District Attorneys's OfficeCalifornia Financial Services Assn,1,1,1,0,0
 L.A. Gay and Lesbian Community Services Center,1,0,1,0,0
 L.A. Inc,1,1,0,0,0
 L.A. South Chamber of Commerce,1,0,1,0,0
-L.A.c,1,1,0,0,0
-L.Ac,1,1,0,0,0
 L.Ac. Lloyd G. Wright,1,1,0,0,0
 L.C.S.W,1,1,0,0,0
-L.P,1,1,0,0,0
 L.R. Webb (Los Angeles),1,1,0,0,0
 La (Calderon),1,1,0,0,0
 LA Area Chamber of Commerce,1,0,1,0,0
@@ -43626,7 +43545,6 @@ Lewd acts with a child under 14,1,0,1,0,0
 Lexis International Translations,1,0,1,0,0
 "LGBT Caucus, California Democratic |PFLAG | Danville/San Ramon Valley | |Party",1,1,0,0,0
 LGBTQ + Rural Resource Center,1,1,0,0,0
-LHC,1,1,0,0,0
 LHOs recognize the importance of designated,1,1,0,0,0
 Li Sage Acupuncture Clinic (04/23/14 version),1,0,1,0,0
 liabilities,1,0,0,0,1
@@ -44587,8 +44505,6 @@ lower the number of uninsured children in the state,1,1,0,0,0
 "lowering the cost of providing electricity to its members"" and imply that this benefit will lead them to develop energy",1,0,1,0,0
 Loyola,1,1,0,0,0
 Loyola Marymount University - Center for Equity for English Learners,1,1,0,0,0
-LP,1,0,1,0,0
-LPOC,1,1,0,0,0
 "Lt. Carl B. Webb, Jail Commander, Lake County",1,1,0,0,0
 Lt. Gov. Gavin Newsom,1,1,0,0,0
 Lt. Governor Cruz Bustamente is the sponsor of the bill,1,1,0,0,0
@@ -47266,7 +47182,6 @@ NCC - Federation of Fly Fishers,1,0,1,0,0
 NCCU,1,1,0,0,0
 NCCUSL California Commissioner Bion Gregory,1,1,0,0,0
 NCCUSL Commissioners Diane Boyer-Vine (Legislative Counsel) and former Senator Byron Sher,1,1,0,0,0
-NCDHP,1,1,0,0,0
 NCI Affiliates Inc. (prior version),1,0,1,0,0
 NCTD does not regulate for-hire vehicle (FHV) transportation services and,1,1,0,0,0
 NDS,1,0,1,0,0
@@ -47477,7 +47392,6 @@ NextGen California prioritizes policies and programs that,1,1,0,0,0
 NextgGen California,1,1,0,0,0
 NFA,1,1,0,0,0
 Nfib California,1,1,0,0,0
-NFP,1,1,0,0,0
 Ngamiland Council of Non-Governmental Organisations,1,0,1,0,0
 "Nguyen Tam Chien, Ambassador, Embassy of Vietnam",1,0,1,0,0
 Nhelp,1,1,0,0,0
@@ -47527,7 +47441,6 @@ Nithya Raman - LA City Councilmember 4th District,1,1,0,0,0
 "Nithya Raman, Member, LA City Council",1,1,0,0,0
 "Nithya Raman, Member, Los Angeles City Council",1,1,0,0,0
 "NLGJA: Association of LGBTQ+ Journalists, Los Angeles Chapter",1,0,1,0,0
-NMA,1,1,1,0,0
 no 'murder exception' to the Fourth Amendment,1,0,1,0,0
 no additional costs to CDFA to continue collecting industry-funded plant and inspector licensing fees that,1,1,0,0,0
 no alternative path for those individuals who may not have master's,1,0,1,0,0
@@ -50606,7 +50519,6 @@ Oxygenated Fuels Association 04/09/97,1,0,1,0,0
 P,1,1,0,0,0
 "P & R Metals, Inc., Compton",1,0,1,0,0
 "P & R Trucking, Inc., Oakland, CA",1,0,1,0,0
-P&G,1,1,0,0,0
 p-conn-tie Hot Ties,1,1,0,0,0
 P-Conn-Tie Hot Ties,1,1,0,0,0
 P-Flag Petaluma,1,0,1,0,0
@@ -50847,13 +50759,11 @@ Pamela Pierce,1,1,0,0,0
 Pamela Reed,1,1,0,0,0
 Pamela Ryan,1,0,1,0,0
 Pamela Shaffer,1,0,1,0,0
-PANA,1,1,0,0,0
 PANDAS Physicians Network (PPN) is non-profit organization that,1,1,0,0,0
 "pandering a minor, abduction of a person under the age of 18 for purposes",1,0,1,0,0
 "Pane & Pane Associates, Inc. (prior version)",1,1,0,0,0
 Panel. These clinicians complete all pre-commitment SVP evaluations for,1,1,0,0,0
 "Panthers of Sacramento, Health Officers",1,1,0,0,0
-PAO,1,1,1,0,0
 paparazzi law that was passed 13 years ago in an effort to subject,1,0,1,0,0
 paper prescriptions written each year. The board,1,1,0,0,0
 Paper Shipping Sack Manufacturers Association,1,0,1,0,0
@@ -51610,8 +51520,6 @@ Pharmacy Board to address the shortage of pharmacists in certain areas of the,1,
 "Pharmatox, Inc.: Sober Living by the Sea",1,1,0,0,0
 Pharmavite suggests the bill is massive in scope and would apply,1,0,1,0,0
 "Pharr-Palomar, Inc",1,0,1,0,0
-PHBP,1,1,0,0,0
-PHI,1,1,0,0,0
 Phibro-Tech (committee analysis),1,1,0,0,0
 "PhibroTech, Inc. (existing version)",1,1,0,0,0
 "Phil Greer, Greer & Associations (to bill in print)",1,0,1,0,0
@@ -51777,7 +51685,6 @@ placing a measure on the ballot to fund their trauma center,1,0,1,0,0
 placing small counties in the position of needing a perpetual,1,0,1,0,0
 Plaintiffs sued in 2016 asserting two,1,1,1,0,0
 plan,1,0,1,0,0
-PLAN,1,1,0,0,0
 plan allocates $255.3 million for these activities and leaves,1,0,1,0,0
 "plan for purposes of minimum funding standards, suggesting each",1,0,1,0,0
 Plan funding to develop necessary services. The lessons of the past,1,0,1,0,0
@@ -53484,7 +53391,6 @@ PVNOW,1,1,0,0,0
 q,1,0,1,0,0
 Q & A Insurance Compliance Specialist,1,1,0,0,0
 Qana Native Student Programs,1,1,0,0,0
-QME,1,1,0,0,0
 "qualifications, and who comprise the membership of DMH's SVP Evaluator",1,1,0,0,0
 qualified Associate Teacher permit holders in programs who could be providing instructional,1,1,0,0,0
 qualified doctor can be denied the opportunity to join a,1,1,0,0,0
@@ -53560,7 +53466,6 @@ Rachel Bradley,1,1,0,0,0
 "Radio Bilingüe, Inc",1,1,0,0,0
 Radiology On-Line,1,1,0,0,0
 Rady Children's Hospital- San Diego,1,0,1,0,0
-RAGE,1,0,1,0,0
 "Rageshree Ramachandran, MD, PhD, Assistant Professor at UCSF",1,1,0,0,0
 Rail,1,1,0,0,0
 "Railroad Industry, California Trucking",1,0,1,0,0
@@ -55080,7 +54985,6 @@ RM:nl:d 9/9/13 Senate Floor Analyses,1,1,0,0,0
 RM:nl:ej 5/28/13 Senate Floor Analyses,1,1,0,0,0
 RM:nl:ej 9/11/13 Senate Floor Analyses,1,0,1,0,0
 roadways not owned by Caltrans,1,1,0,0,0
-ROAR,1,0,1,0,0
 Robbery in an inhabited dwelling where a dangerous or deadly weapon is used,1,0,1,0,0
 Robbery or bank robbery,1,0,1,0,0
 "Robert A. Pool, Esq",1,1,0,0,0
@@ -55221,7 +55125,6 @@ Royal Coaches Auto Body and Towing,1,0,1,0,0
 "Rozy Press, former hostage, target, and evacuee out of Iran",1,1,0,0,0
 RPMC,1,0,1,0,0
 RSM Chamber of Commerce,1,0,1,0,0
-RT,1,1,0,0,0
 Ruben Lao,1,1,0,0,0
 Rubicon Programs (prior version),1,1,0,0,0
 Rubicon Programs Showing Up for Racial Justice - San Diego,1,1,0,0,0
@@ -55293,7 +55196,6 @@ s. | nt | |Requi| on | ion | | ? | t to,1,0,1,0,0
 S.C. Enterprises,1,1,0,0,0
 "S.E. Brummer, Chief of Police, Bakersfield Police Department",1,1,0,0,0
 "S.E.I.U., Local 614",1,0,1,0,0
-S.P.U.N.K,1,1,0,0,0
 "S.T.&I., Inc",1,0,1,0,0
 "S.T.A.N.D., Larry Johnson, Program Director",1,1,0,0,0
 Sabine Dherbecourt,1,0,1,0,0
@@ -56824,8 +56726,6 @@ SD350.org,1,1,1,0,0
 SDG&E),1,0,1,0,0
 "SDG&E, the bill's sponsor",1,1,0,0,0
 SDI disability determinations. The law governing disability determinations,1,0,1,0,0
-SDMAC,1,1,0,0,0
-SDUSD,1,1,0,0,0
 "SEA - Solar Engineering Applications, Santa Clara",1,1,0,0,0
 Sea and Safe Audubon Society,1,1,0,0,0
 Sea and Sage Audubon Orange County Chapter,1,1,0,0,0
@@ -63582,7 +63482,6 @@ thus setting the stage for other states to enact similar labeling requirements f
 "Thus, the amendment below is the recommendation, and it",1,0,1,0,0
 "Thus, under current law, local law enforcement agencies have up to 50",1,0,1,0,0
 "Thus, when AMR",1,1,1,0,0
-TIA,1,1,0,0,0
 "Tia, Inc",1,1,0,0,0
 Tiburon Peninsula Chamber of Commerce,1,1,0,0,0
 ticket reseller,1,0,0,0,1
@@ -65903,7 +65802,6 @@ various Westwood community merchants,1,1,0,0,0
 vary in value because of differences in their individual history and condition. These opponents find problematic the bill's requirement that,1,0,1,0,0
 Vashon-Maury Showing Up for Racial Justice (prior version),1,1,0,0,0
 vast majority of voters in the referendum on Proposition 31,1,1,0,0,0
-VAWC,1,1,0,0,0
 VBG,1,1,0,0,0
 VBG explains that while they share 's concerns regarding predatory companies that fail to provide meaningful,1,1,0,0,0
 VCTC as the compromise between the Ventura County Board of Supervisors,1,1,0,0,0
@@ -66239,7 +66137,6 @@ VNG,1,1,0,0,0
 "VNG, Co",1,1,0,0,0
 Vocational Aptitude Battery grant military recruiters access to,1,0,0,0,1
 Vocational Improvement Program (prior version),1,0,1,0,0
-VOICE,1,1,0,0,0
 Voice of the Experienced (VOTE) (prior version),1,1,0,0,0
 "Voice, Grandparents As Parents, Inc., Grandparents As Momentary Parents Again, and 55 individuals",1,1,0,0,0
 Voices for Progress Education Fund (57 Individuals),1,1,0,0,0
@@ -66276,7 +66173,6 @@ Voters that do not understand the history and government of the United,1,1,0,0,0
 votes for it is about the same as the number of those in,1,0,1,0,0
 Voting is at the heart of our democracy. Efforts to register voters,1,1,0,0,0
 voucher regional centers,1,0,1,0,0
-VST,1,1,0,0,0
 Vt CitizenS United for The Rehabilitation of Errant (S),1,1,0,0,0
 "VTA, sponsor of the bill",1,1,0,0,0
 vulnerability to acts of aggression or violence. CENA requests amendments,1,0,0,0,1
@@ -66337,7 +66233,6 @@ want to be listed until they have a chance to review),1,0,1,0,0
 want to encourage patrons to withdraw cash to facilitate their gambling,1,1,0,0,0
 wants the protections of the prior,1,1,0,0,0
 "wants to bid for a contract. Under this circumstance, will the HSRA merely",1,0,1,0,0
-WAR,1,1,1,0,0
 War II,1,1,0,0,0
 "Ward, Michael, Dean College of Engineering, Computer Science, and Construction Management, California State University, Chico",1,1,0,0,0
 "wards safe and, when necessary, place a ward in a treatment program",1,0,1,0,0
@@ -67815,7 +67710,6 @@ Worksafe also,1,1,0,0,0
 "Worksafe, Inc. - Co-Sponsor",1,1,0,0,0
 Worksafe. AB 1249 (House),1,0,1,0,0
 Worksite Wellness LA (prior version),1,1,0,0,0
-WORLD,1,0,1,0,0
 World Federation of Chinese Organizations From | |Vietnam,1,1,0,0,0
 World Institutite on Disability,1,0,1,0,0
 "World League of Protection of Animals, Inc. (Australia)",1,0,1,0,0
