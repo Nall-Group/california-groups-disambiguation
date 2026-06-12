@@ -1577,6 +1577,10 @@ event presenter
 Evidence
 example
 EXHIBIT "A
+f?docID=1341
+federal Child Care and Development Block Grant Act of 2014
+Final |YES |within |within|after |NO |NONE
+Finally, AB 1933
 Department of Finance: GOVERNOR'S VETO MESSAGE
 discharged prior to the termination of the period of probation, may
 END **** SB
