@@ -45,3 +45,14 @@ NEW_CHAPTER / INVALID:<csv>. Then group findings into tasks.
     invalid.txt:     3477
     conjoined.txt:      251
 - Tail note: beyond ~rank 9,000 by bill count the file is dominated by procedural/narrative/individual junk (invalid+individuals >80% per wave); real-org yield (consolidate/new) has dropped to <15%/wave.
+
+## RESUME POINT (clean checkpoint)
+- Committed through wave 34 (7/8 chunks). needs_audit remaining:    50668.
+- Session processed ~15815 orgs.
+- TO RESUME (fully self-contained — safe to /clear context first): from repo root,
+    head -480 gaps_needs_audit.txt > $TMPDIR/wave.txt && split -l 60 -d $TMPDIR/wave.txt $TMPDIR/wNN_
+  dispatch 8 agents (one per chunk) writing TSV to $TMPDIR/wNN_<chunk>.out, then:
+    python3 _agg.py wNN   # rebuilds masters (auto-separates narrative/parens/dates) + advances cursor
+    git add gaps_master_*.* gaps_needs_audit.txt && git commit -m "wave NN"
+- Pipeline scripts committed: _agg.py (aggregate+cursor), _rebuild_masters.py (full rebuild).
+- Master worklists feed standing tasks 1242-1245 (RAs apply them to crosswalk + delete gaps rows).
