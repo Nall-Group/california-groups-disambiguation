@@ -1,58 +1,79 @@
-# Crosswalk Gaps Processing Status
+# Crosswalk Gaps Processing — STATUS & RESUME GUIDE
 
-Source: `crosswalk_gaps_all_stances.csv` — 69,065 org names (67,609 unique) from legislative
-bill-position data, NONE cleanly in the crosswalk. Goal: agent-triage EACH, group by target
-canonical, create insertion tasks; RAs insert and remove rows from the gaps CSV as done.
+> **A fresh session with zero context can resume from this file alone.** Read it top to bottom.
 
-Working file: `gaps_sorted_by_bills.csv` (sorted by total_bills desc = priority order).
-Method: waves of ~480 orgs (8 chunks x 60), agent disposition: CONSOLIDATE / NEW_CANONICAL /
-NEW_CHAPTER / INVALID:<csv>. Then group findings into tasks.
+## What this program is
+`crosswalk_gaps_all_stances.csv` = ~67,609 org names that appear in CA legislative bill-position
+data but are NOT cleanly in the crosswalk (`2_webapp/org_clusters_crosswalk.json`). Goal: triage
+EVERY org, decide its disposition, and group the results so worker RAs can insert/route them.
+The management assistant does the triage (via parallel sub-agents); RAs apply the results to the
+crosswalk and delete the handled rows from `crosswalk_gaps_all_stances.csv`.
 
-## Progress
-- Wave 1 (orgs ranked 1–480, bills 590→21): DISPATCHED, hit transient 529 — RETRYING.
-- Remaining: ~67,000 unprocessed.
+## THE CURSOR (where we are)
+- **`gaps_needs_audit.txt`** = the work queue, sorted by bill count (priority). One org per line.
+  Whatever is in this file is NOT yet triaged. Currently: **50,668 remaining**.
+- Each completed wave removes its orgs from this file (the cursor advances). When it hits 0, done.
+- **Next wave number to use: 35.** (Waves 1–34 are committed. Wave numbers only label the temp
+  chunk files; they don't matter beyond avoiding filename collisions — just use the next integer.)
 
-## Notes
-- ~20% of top-200 near-match an existing node; ~43% exist only as DIRTY VARIANTS (consolidate);
-  ~37% truly absent (new canonical/chapter).
-- Many low-value rows are invalids: "N individuals", "Author", "County", etc. -> route per CLAUDE.md.
+## THE OUTPUT (accumulating worklists, in repo root)
+Each wave's dispositions are appended here. Standing RA tasks 1242–1245 consume these:
+| File | Meaning | RA task |
+|---|---|---|
+| `gaps_master_consolidate.tsv` | `org \t target_canonical \t group` — fold org under existing canonical | 1243 |
+| `gaps_master_new_canonicals.txt` | real orgs to add as new canonicals | 1244 |
+| `gaps_master_new_chapters.tsv` | `org \t parent` — add as chapter | 1244 |
+| `gaps_master_individuals.txt` | → org_names_that_are_actually_individuals.csv | 1245 |
+| `gaps_master_partial.txt` | → org_names_partial.csv | 1245 |
+| `gaps_master_conjoined.txt` | split + → org_names_conjoined.csv | 1245 |
+| `gaps_master_narrative.txt` | → org_names_embedded_in_narrative_text.csv (extract org) | 1245 |
+| `gaps_master_parens.txt` | → org_names_that_start_with_parens.csv | 1245 |
+| `gaps_master_dates.txt` | → org_names_that_are_dates_or_phone_numbers.csv | 1245 |
+| `gaps_master_not_capitalized.txt` | → org_names_not_capitalized.csv | 1245 |
+| `gaps_master_invalid.txt` | → org_names_invalid.csv | 1245 |
 
-## Update — bulk pass done
-- Bulk-classified all 67k (after skim+refine): 785 individuals, 1431 chambers, 93 partial, 2 invalid bulk-routed.
-- Tasks created: 1224 (individuals), 1225 (partial+invalid), 1226 (1431 chambers -> Task 1196 hierarchy).
-- NEEDS AGENT AUDIT: 66,754 real orgs (gaps_needs_audit.txt, sorted by bill count). Wave 1a (top ~240) dispositions in gaps_wave1_dispositions.txt; grouped tasks for those still TODO.
-- NEXT: continue agent-audit waves over gaps_needs_audit.txt (top by bill count), group findings into per-canonical tasks.
+(Wave 1 used a separate `gaps_wave1_worklist.txt` → tasks 1239–1241. The bulk pass → tasks
+1224–1226. Acronym matches → `gaps_acronym_matches.txt` → task 1242.)
 
-## Wave 1 COMPLETE (top-480 by bill count)
-- All 480 dispositioned (g1_00-07). Worklist: gaps_wave1_worklist.txt. Tasks: 1239 (Indivisible), 1240 (advocacy/labor/veterans batch), 1241 (new canonicals).
-- Chambers from wave 1 -> tasks 1226/1229-1231; individuals/fragments -> 1224/1225; DA offices -> 1198.
-- needs_audit cursor advanced; ~66,483 remain.
-- IMPROVEMENT for future waves: have disposition agents WRITE output to a TSV file so grouping is scriptable instead of hand-transcribed.
+## PIPELINE SCRIPTS (committed, repo root)
+- **`_agg.py wNN`** — rebuilds ALL master files from every `$TMPDIR/w*_*.out` (idempotent;
+  auto-separates narrative/parens/dates/etc.), then removes wave wNN's orgs from
+  `gaps_needs_audit.txt`. Run once per wave after the agents finish.
+- **`_rebuild_masters.py`** — full rebuild of masters from all `.out` files (retroactive
+  re-bucketing; does NOT touch the cursor).
 
-## Overnight session progress (waves 2-12)
-- Processed through wave 12. needs_audit remaining tracked in gaps_needs_audit.txt.
-- All dispositions accumulate in gaps_master_*.{tsv,txt}; standing tasks 1242-1245 consume them.
+## HOW TO RESUME (exact recipe) — safe in a brand-new session, from repo root
+1. Build the next wave's chunks (use the next wave number, e.g. 35):
+   ```
+   head -480 gaps_needs_audit.txt > $TMPDIR/gaps_wave35.txt
+   split -l 60 -d $TMPDIR/gaps_wave35.txt $TMPDIR/w35_
+   ```
+2. Dispatch 8 parallel sub-agents (Agent tool, general-purpose), one per chunk `w35_00`..`w35_07`.
+   Each agent: for each org, grep the crosswalk for it + variants, assign a disposition, and WRITE
+   to `$TMPDIR/w35_<chunk>.out` as TAB-separated `org<TAB>DISP<TAB>TARGET<TAB>GROUP`.
+   DISP ∈ {CONSOLIDATE, NEW_CANONICAL, NEW_CHAPTER, INVALID:individuals|partial|conjoined|invalid|
+   not_capitalized|narrative|parens|dates_phone}. (Reuse the wave-34 agent prompt verbatim.)
+   KEY RULE: many entries ARE real orgs even in noisy bands (acronyms, "X Association of California")
+   — do NOT lazily mark real orgs invalid.
+3. Aggregate + commit:
+   ```
+   python3 _agg.py w35
+   git add gaps_master_*.* gaps_needs_audit.txt && git commit -m "Gaps wave 35 aggregated"
+   ```
+4. Repeat with wave 36, 37, … until `gaps_needs_audit.txt` is empty.
 
-## SESSION CHECKPOINT (through wave 22)
-- Agent waves 2–22 complete. Orgs dispositioned this session (incl. bulk+acronym): ~12596.
-- needs_audit remaining:    56299 (resume = head -480 gaps_needs_audit.txt, run 8 agents writing w<NN>_<chunk>.out, then: python3 _agg.py "$TMPDIR/wNN_*.out" wNN).
-- Master worklist totals (fuel for standing tasks 1242-1245):
-    consolidate.tsv:     3627
-    new_canonicals.txt:      197
-    new_chapters.tsv:      109
-    individuals.txt:     1581
-    partial.txt:      836
-    invalid.txt:     3477
-    conjoined.txt:      251
-- Tail note: beyond ~rank 9,000 by bill count the file is dominated by procedural/narrative/individual junk (invalid+individuals >80% per wave); real-org yield (consolidate/new) has dropped to <15%/wave.
+## NOTES / GOTCHAS
+- The file is NOT cleanly value-sorted: same-bill-count orgs fall in alphabetical clumps, so you
+  WILL hit localized bands that are ~all bill-refs ("AB 1234"), ~all "and …" narrative fragments,
+  or ~all "(acronym)" parens. Expected — they route to invalid/narrative/parens. Real orgs are
+  mixed throughout (incl. the low-bill tail), so keep auditing; a band of junk does NOT mean the
+  rest is junk. (I wrongly assumed that once and had to be corrected.)
+- Git commits may hit `index.lock` from concurrent worker RAs — retry the commit a few times.
+- `$TMPDIR` is ephemeral; only committed files (masters + cursor + this doc + scripts) survive a
+  /clear. In-flight `.out` files are lost on clear but their orgs are still in the cursor, so they
+  are simply re-audited — no corruption.
 
-## RESUME POINT (clean checkpoint)
-- Committed through wave 34 (7/8 chunks). needs_audit remaining:    50668.
-- Session processed ~15815 orgs.
-- TO RESUME (fully self-contained — safe to /clear context first): from repo root,
-    head -480 gaps_needs_audit.txt > $TMPDIR/wave.txt && split -l 60 -d $TMPDIR/wave.txt $TMPDIR/wNN_
-  dispatch 8 agents (one per chunk) writing TSV to $TMPDIR/wNN_<chunk>.out, then:
-    python3 _agg.py wNN   # rebuilds masters (auto-separates narrative/parens/dates) + advances cursor
-    git add gaps_master_*.* gaps_needs_audit.txt && git commit -m "wave NN"
-- Pipeline scripts committed: _agg.py (aggregate+cursor), _rebuild_masters.py (full rebuild).
-- Master worklists feed standing tasks 1242-1245 (RAs apply them to crosswalk + delete gaps rows).
+## PROGRESS
+- Done: bulk pass (tasks 1224–1226), 112 acronym matches (1242), wave 1 (1239–1241),
+  waves 2–34 → masters above. ~16,900 of 67,609 orgs triaged (~25%).
+- Remaining: 50,668 in `gaps_needs_audit.txt`.
