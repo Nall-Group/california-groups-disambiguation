@@ -11,9 +11,9 @@ crosswalk and delete the handled rows from `crosswalk_gaps_all_stances.csv`.
 
 ## THE CURSOR (where we are)
 - **`gaps_needs_audit.txt`** = the work queue, sorted by bill count (priority). One org per line.
-  Whatever is in this file is NOT yet triaged. Currently: **48,749 remaining**.
+  Whatever is in this file is NOT yet triaged. Currently: **48,270 remaining**.
 - Each completed wave removes its orgs from this file (the cursor advances). When it hits 0, done.
-- **Next wave number to use: 39.** (Waves 1–38 are committed. Wave numbers only label the temp
+- **Next wave number to use: 40.** (Waves 1–39 are committed. Wave numbers only label the temp
   chunk files; they don't matter beyond avoiding filename collisions — just use the next integer.)
 
 ## THE OUTPUT (accumulating worklists, in repo root)
@@ -75,5 +75,5 @@ Each wave's dispositions are appended here. Standing RA tasks 1242–1245 consum
 
 ## PROGRESS
 - Done: bulk pass (tasks 1224–1226), 112 acronym matches (1242), wave 1 (1239–1241),
-  waves 2–38 → masters above. ~18,900 of 67,609 orgs triaged (~28%).
-- Remaining: 48,749 in `gaps_needs_audit.txt`.
+  waves 2–39 → masters above. ~19,400 of 67,609 orgs triaged (~29%).
+- Remaining: 48,270 in `gaps_needs_audit.txt`.
