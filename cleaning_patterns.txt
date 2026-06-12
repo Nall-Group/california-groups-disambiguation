@@ -51,6 +51,9 @@
 (?i),?\s+oppose\s*$
 (?i)\s+OPPOSED\s*$
 (?i),?\s+Continued\s*$
+(?i),\s+co-?sponsors?\s*$
+(?i),\s+sponsors?\s*$
+(?i),\s+supports?\s*$
 
 # Trailing "None on file" suffix - END
 (?i),?\s*None on file\s*$
