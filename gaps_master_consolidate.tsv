@@ -135,7 +135,6 @@ California Right to Life Committee, Inc (prior version)	CALIFORNIA RIGHT TO LIFE
 California School Boards Association (previous version)	CALIFORNIA SCHOOL BOARDS ASSOCIATION	school_boards
 California School- Based Health Alliance	California School-based Health Alliance	school_based_health
 California Secretary of State Shirley N. Weber	SECRETARY OF STATE	secretary_of_state
-California SEIU	Service Employees International Union	seiu
 California Society for Health-System Pharmacists	California Society of Health-Systems	cshp
 California Society of Addiction Medicine (CSAM)	American Society of Addiction Medicine	addiction_medicine
 California Society of Health System Pharmacists (CSHP)	California Association of Health System Pharmacists	cshp
@@ -143,7 +142,12 @@ California Society of Pathologists (prior version)	CALIFORNIA SOCIETY OF PATHOLO
 California Solar Energy Industries Association (CalSEIA)	CA Solar Energy Industries Association	calseia
 California Spa & Pool Industry Education Council, if	California Spa & Pool Industry Education Council	spa_pool
 California Speech Pathologists and Audiologists in Private Practice	California Speech Pathologists and Audiologists in Private	speech_path
+California State Association of Counties (as introduced)	CALIFORNIA STATE ASSOCIATION OF COUNTIES	csac
+California State Association of Counties (as proposed to be amended)	CALIFORNIA STATE ASSOCIATION OF COUNTIES	csac
+California State Association of Counties (CSAC - Sponsor)	CALIFORNIA STATE ASSOCIATION OF COUNTIES	csac
+California State Association of Counties (in concept)	CALIFORNIA STATE ASSOCIATION OF COUNTIES	csac
 California State Association of Electrical Workers (prior version)	CALIFORNIA STATE ASSOCIATION OF ELECTRICAL WORKERS	ca_electrical_workers
+California State Association of |Counties	CALIFORNIA STATE ASSOCIATION OF COUNTIES	csac
 California State Automobile Association (concerns)	CALIFORNIA STATE AUTOMOBILE ASSOCIATION	csaa
 California State Bar, Business Law Section	Business Law Section	business_law_section
 California State Conference of the National Association for the Advancement of Colored People (California NAACP)	CALIFORNIA STATE CONFERENCE OF THE NATIONAL ASSOCIATION	ca_naacp
@@ -166,6 +170,7 @@ California Teachers Association Community College Association	Community College 
 California Teachers Association/Community College Association	Community College Association (CTA)	cta_cca
 California Teamsters Public Affairs Council (prior version)	California Teamsters Public Affairs Council	teamsters_pac
 California Union of Safety Employees (support of penalty increases only)	CALIFORNIA UNION OF SAFETY EMPLOYEES	cause
+California Veterans of Foreign Wars of the United States	Veterans of Foreign Wars of the United States	vfw
 California Voter Foundation (prior version)	California Voter Foundation	voter_foundation
 California, Association of California Water Agencies	ASSOCIATION OF CALIFORNIA WATER AGENCIES	acwa
 California, Solid Waste Association of North	SOLID WASTE ASSOCIATION OF NORTH AMERICA	swana
@@ -378,6 +383,14 @@ El Dorado County Sheriffs Office	El Dorado County Sheriff's Office	El Dorado Cou
 El Dorado Joint Chamber Commission	El Dorado County Joint Chamber of Commerce	El Dorado Chamber of Commerce
 El Segundo, City of	CITY OF EL SEGUNDO	City of El Segundo
 Elder and Dependent Adult Abuse Prevention Council of Santa: Barbara County	Elder and Dependent Adult Abuse Prevention Council of Santa Barbara County	Elder and Dependent Adult Abuse Prevention Council
+Elder Climate Action, NorCal	Elders Climate Action	Elders Climate Action
+Elders Climate Action (ECA) Northern California (NORCAL) and Southern California (SOCAL) Chapters	Elders Climate Action	Elders Climate Action
+Elders Climate Action (ECA) Northern California (NORCAL) and Southerncalifornia (SOCAL) Chapters	Elders Climate Action	Elders Climate Action
+Elders Climate Action Nor Cal and SoCal Chapters	Elders Climate Action	Elders Climate Action
+Elders Climate Action, Nor Cal Chapter	Elders Climate Action	Elders Climate Action
+Elders Climate Action, NorCal and SoCal Chapters (prior version)	Elders Climate Action	Elders Climate Action
+Elders Climate Action, NorCal Chapters	Elders Climate Action	Elders Climate Action
+Elders Climate Action, SoCal Chapters	Elders Climate Action	Elders Climate Action
 Elected members of the State Association of County Auditors	STATE ASSOCIATION OF COUNTY AUDITORS	State Association of County Auditors
 Election Integrity Project of California	Election Integrity Project	Election Integrity Project
 Election Integrity Project, California Inc	Election Integrity Project	Election Integrity Project
@@ -810,6 +823,7 @@ Palo Verde CCD	Palo Verde Community College District	palo verde community colleg
 Palos Verdes/south Bay Audubon	National Audubon Society	national audubon society
 Parents, Families and Friends of Lesbians and Gays, Central	Parents, Families and Friends of Lesbians and Gays Central Coast	parents families and friends of lesbians and gays central coast
 Pasadena Fire Fighters, Local 809	International Association of Fire Fighters	international association of fire fighters
+Pasadena NAACP	National Association for the Advancement of Colored People (NAACP)	national association for the advancement of colored people naacp
 Paula Lane Action Network (PLAN), Sonoma County, CA	Paula Lane Action Network	paula lane action network
 PAW - PAC	Paw Pac	paw pac
 PAW-PAC	Paw Pac	paw pac
@@ -955,30 +969,6 @@ SB Californians Against Waste	CALIFORNIANS AGAINST WASTE	californians against wa
 SB Planning and Conservation League	Planning and Conservation League	planning_conservation_league
 Screen Actors Guild-American Federation of Television and Radio Artists (co	Screen Actors Guild - American Federation of Television and Radio Artists	sag_aftra
 Secure Justice (prior version)	Secure Justice	secure_justice
-SEIU - United Long Term Care Workers	Service Employees International Union	seiu
-SEIU - United Service Workers West	Service Employees International Union	seiu
-SEIU also	Service Employees International Union	seiu
-SEIU Local 250	Service Employees International Union	seiu
-SEIU Local 347	Service Employees International Union	seiu
-SEIU Local 399	Service Employees International Union	seiu
-SEIU Local 620	Service Employees International Union	seiu
-SEIU Local 6434 - ULTCW	Service Employees International Union	seiu
-SEIU Local 790	Service Employees International Union	seiu
-SEIU, Local 1877	Service Employees International Union	seiu
-SEIU/UHW	Service Employees International Union	seiu
-Service Employee International Union, Local 1000	Service Employees International Union	seiu
-Service Employees International Union (SEIU), Local 1877	Service Employees International Union	seiu
-Service Employees International Union - California (SEIU)	Service Employees International Union	seiu
-Service Employees International Union - United Healthcare Workers West	Service Employees International Union	seiu
-Service Employees International Union Local 521	Service Employees International Union	seiu
-Service Employees International Union SEIU Local 1000	Service Employees International Union	seiu
-Service Employees International Union, (SEIU)	Service Employees International Union	seiu
-Service Employees International Union, (SEIU) Local 1877	Service Employees International Union	seiu
-Service Employees International Union, Local 100	Service Employees International Union	seiu
-Service Employees International Union, Local 521	Service Employees International Union	seiu
-Service Employees International Union, Local 535	Service Employees International Union	seiu
-Service Employees International Union, Local 715	Service Employees International Union	seiu
-SEUI, Local 434-B	Service Employees International Union	seiu
 SEUI, Local 660	SEIU Local 660	SEIU Local 660
 SEUI, Local 99, Classified School Employees	SEIU Local 99	SEIU Local 99
 Sf YIMBY	SAN FRANCISCO YIMBY	YIMBY
@@ -992,6 +982,14 @@ Showing Up for Racial Justice (SURJ) - Bay Area	Bay Area Chapter of Showing Up f
 Showing Up for Racial Justice - North County	Showing Up for Racial Justice (SURJ) - North County	Showing Up for Racial Justice
 Showing Up for Racial Justice - San Francisco	Showing Up for Racial Justice San Francisco	Showing Up for Racial Justice
 Sierra - Sacramento Valley EMS Agency	Sierra Sacramento Valley EMS Agency	Sierra Sacramento Valley EMS Agency
+Sierra Club (California)	SIERRA CLUB	SIERRA CLUB
+Sierra Club - Santa Lucia Chapter	SIERRA CLUB	SIERRA CLUB
+Sierra Club California (previous version)	SIERRA CLUB	SIERRA CLUB
+Sierra Club California, oppose	SIERRA CLUB	SIERRA CLUB
+Sierra Club Yolano Group	SIERRA CLUB	SIERRA CLUB
+Sierra Club- California	SIERRA CLUB	SIERRA CLUB
+Sierra Club-Santa Lucia Chapter	SIERRA CLUB	SIERRA CLUB
+Sierra Club: GOVERNOR'S VETO MESSAGE	SIERRA CLUB	SIERRA CLUB
 Silicon Valley De- Bug	SILICON VALLEY DE-BUG	SILICON VALLEY DE-BUG
 Silicon Valley DeBug	SILICON VALLEY DE-BUG	SILICON VALLEY DE-BUG
 Sister Warriors Freedom Coalition (prior version)	Sister Warriors Freedom Coalition	Sister Warriors Freedom Coalition
@@ -1204,6 +1202,13 @@ Valley Oak Children's Services, INC	Valley Oak Children's Services of Chico	vall
 Vasquez & Company, LLC	Vasquez & Company, LLP	vasquez-company
 Ventana Chapter of the Sierra Club	SIERRA CLUB	sierra-club-ventana
 Ventura District Attorney	District Attorneys	ventura-da
+Veterans of Foreign Wars (VFW) - Department of California	Veterans of Foreign Wars of the United States	vfw
+Veterans of Foreign Wars (VFW), Department of California	Veterans of Foreign Wars of the United States	vfw
+Veterans of Foreign Wars - Department of California (VFW)	Veterans of Foreign Wars of the United States	vfw
+Veterans of Foreign Wars of the United States, Department	Veterans of Foreign Wars of the United States	vfw
+Veterans of Foreign Wars of the United States, Dept. of California	Veterans of Foreign Wars of the United States	vfw
+Veterans of Foreign Wars, California Department	Veterans of Foreign Wars of the United States	vfw
+Veterans of Foreign Wars, Dept. of California	Veterans of Foreign Wars of the United States	vfw
 Vietnam Veterans of America - California Council	Vietnam Veterans of America California Council	vva-ca-council
 Vietnam Veterans of America, Inc., South Bay Chapter	Vietnam Veterans of America, Inc - South Bay Chapter	vva-south-bay
 Visit Yosemite | Madera County	Visit Yosemite Madera County	visit yosemite madera county
@@ -1782,6 +1787,8 @@ Agriculture Energy Consumers Association	Agriculture Energy Consumers Associatio
 Agudath Israel of California (prior version)	Agudath Israel of America	Agudath Israel
 Agudath Isreal of California	Agudath Israel of America	Agudath Israel
 AiArthritis	Aiarthritis	AiArthritis
+AIDS Healthcare Foundation (AHF) also	AIDS HEALTHCARE FOUNDATION	AIDS Healthcare Foundation
+AIDS Healthcare Foundation (previous version)	AIDS HEALTHCARE FOUNDATION	AIDS Healthcare Foundation
 AIDS Healthcare Foundation and	AIDS HEALTHCARE FOUNDATION	AIDS Healthcare Foundation
 AIDS Healthcare Foundation in Los Angeles to improve future disease management programs	AIDS HEALTHCARE FOUNDATION	AIDS Healthcare Foundation
 AIDS Healthcare Foundation to dramatically reduce the cost for the state in the purchase of drugs	AIDS HEALTHCARE FOUNDATION	AIDS Healthcare Foundation
@@ -1949,7 +1956,17 @@ AltaMed (prior version)	Altamed	Altamed
 Altawood Inc	Altawood	Altawood
 Alternatives for our Forest Environment, Santa	Safe Alternatives for our Forest Environment	SAFE
 Alticor (prior version)	Alticor	Alticor
+Alvarado Parkway Institute Behavioral: Health System	Alvarado Parkway Institute Behavioral Health System	alzheimer
+Alzheimer's Association (California Council)	Alzheimer's Association California Council	alzheimer
 Alzheimer's Association (committee analysis)	Alzheimer's Association	alzheimer
+Alzheimer's Association (prior version of bill)	Alzheimer's Association	alzheimer
+Alzheimer's Association - California Council	Alzheimer's Association California Council	alzheimer
+Alzheimer's Association - San Diego Chapter	Alzheimer's Association - San Diego	alzheimer
+Alzheimer's Association of Los Angeles, Riverside, and San: Bernardino Counties	Alzheimer's Association of Los Angeles, Riverside and San Bernardino Counties	alzheimer
+Alzheimer's Association, California Council [June 4, 2012	Alzheimer's Association California Council	alzheimer
+Alzheimer's Association, San Diego Chapter	Alzheimer's Association - San Diego	alzheimer
+Alzheimer's Association- California	Alzheimer's Association California Council	alzheimer
+Alzheimer′s Association (AA)	Alzheimer's Association	alzheimer
 AM-VETS	American Veterans (AMVETS) of California	amvets
 Amador County Fair (26th DAA)	26th DAA, Amador County Fair	amador
 AMADOR COUNTY UNIFIED 4,766	Amador County Unified School District	amador
@@ -2392,6 +2409,15 @@ American Nurse Association\California	American Nurses Association - California	A
 American Nurses Association - California Chapter	American Nurses Association - California	American Nurses Association
 American Nurses Association /California	American Nurses Association - California	American Nurses Association
 American Nurses Association \ California	American Nurses Association - California	American Nurses Association
+American Nurses Association California (prior version)	AMERICAN NURSES ASSOCIATION	ANA California
+American Nurses Association of California (prior version)	AMERICAN NURSES ASSOCIATION	ANA California
+American Nurses Association, California (ANA/C)	AMERICAN NURSES ASSOCIATION	ANA California
+American Nurses Association, California (previous version)	AMERICAN NURSES ASSOCIATION	ANA California
+American Nurses Association- California	AMERICAN NURSES ASSOCIATION	ANA California
+American Nurses Association/ California	AMERICAN NURSES ASSOCIATION	ANA California
+American Nurses Association/California (prior version)	AMERICAN NURSES ASSOCIATION	ANA California
+American Nurses Association/California Chapter	AMERICAN NURSES ASSOCIATION	ANA California
+American Nurses Association: of California	AMERICAN NURSES ASSOCIATION	ANA California
 American Occupational Therapy Association (to prior versions)	AMERICAN OCCUPATIONAL THERAPY ASSOCIATION	AOTA
 American of Federal, State, County and Municipal Employees, AFL-CIO (AFSCME)	American Federation of State, County and Municipal Employees (AFSCME)	AFSCME
 American Planning Assoc., CA	AMERICAN PLANNING ASSOCIATION	APA
@@ -2490,6 +2516,7 @@ Los Angeles Probation Officers' Union	Angeles Probation Officers Union	Probation
 Lutheran Office of Public Policy-California	LUTHERAN OFFICE OF PUBLIC POLICY	Lutheran Office of Public Policy
 Naral Pro-Choice California	National Abortion Rights Action League	NARAL
 Peace Officers' Research Association of California (PORAC)	The Peace Officers Research Association of California is	PORAC
+Planned Parenthood Los Angeles	Planned Parenthood	Planned Parenthood
 San Francisco Bay Area Chapter - Safari Club International	Safari Club International - San Francisco Bay Chapter	Safari Club International
 Stanislaus County District Attorney	District Attorneys	District Attorney
 Tri-County Chamber Alliance	Tri-County Chamber Alliance	Tri-County Chamber Alliance
@@ -2610,6 +2637,7 @@ Advanced Medical Technology Association (AdvaMed)	AdvaMed - Advanced Medical Tec
 ALS Association Golden West Chapter	ALS ASSOCIATION - GOLDEN WEST CHAPTER	ALS Golden West
 American Subcontractors Association California	American Subcontractors Association of America	American Subcontractors
 Association of California State Supervisors (ACSS)	ASSOCIATION OF CALIFORNIA STATE SUPERVISORS	ACSS
+Association of School Administrators	ASSOCIATION OF CALIFORNIA SCHOOL ADMINISTRATORS	ACSA
 Brady Campaign to Prevent Gun Violence, California Chapters	BRADY CAMPAIGN TO PREVENT GUN VIOLENCE	Brady Campaign
 CA Retailers Association	California Retailers Associations	CA Retailers
 California Academy of Family Physicians (CAFP)	American Academy of Family Physicians	CAFP
@@ -2655,7 +2683,9 @@ Los Angeles Audubon Society	National Audubon Society	National Audubon Society
 Los Angeles County Probation Officers' Union, AFSCME, Local 685	American Federation of State, County and Municipal Employees (AFSCME)	AFSCME
 Los Angeles School Police Association	LOS ANGELES SCHOOL POLICE MANAGEMENT ASSOCIATION	Los Angeles School Police
 National Federation of Independent Business, California	NATIONAL FEDERATION OF INDEPENDENT BUSINESS	NFIB
+Planned Parenthood of Santa Barbara, Ventura and San Luis Obispo Counties, Inc	Planned Parenthood	Planned Parenthood
 Plumbing Heating Cooling Contractors of California	Plumbing, Heating and Cooling Contractors of California (PHCC)	PHCC California
+PPAC	Planned Parenthood	Planned Parenthood
 PTA	California State PTA	California State PTA
 Sherman Block, Sheriff of Los Angeles County	Los Angeles County Sheriff's Department	Los Angeles County Sheriff
 SMART - Transportation Division	International Association of Sheet Metal, Air, Rail and Transportation Workers (SMART)	SMART
@@ -2725,6 +2755,9 @@ National Association of Women Business Owners - California	NATIONAL ASSOCIATION 
 National Organization for Women (NOW)	NATIONAL ORGANIZATION FOR WOMEN	National Organization for Women
 Personal Insurance Federation of CA	Personal Insurance Federation if California	Personal Insurance Federation
 Physicians for Social Responsibility - San Francisco Bay Area	Francisco Bay Area Physicians for Social Responsibility	Physicians for Social Responsibility SF
+Planned Parenthood of Los Angeles	Planned Parenthood of Los Angeles	Planned Parenthood
+Planned Parenthood Shasta Pacific Action Fund	Shasta Pacific Action Fund	Planned Parenthood
+Planned Parenthood Shasta-Diablo	Planned Parenthood Shasta-Diablo	Planned Parenthood
 Safari Club International, California Chapters	California Chapters of the Safari Club	Safari Club International
 San Jose/Silicon Valley Branch of the NAACP	National Association for the Advancement of Colored People (NAACP)	NAACP
 San Luis Obispo County District Attorney	San Luis Obispo County District Attorney's Office	San Luis Obispo DA
@@ -2771,6 +2804,7 @@ Climate Reality Project, San Fernando Valley Chapter	CLIMATE REALITY PROJECT - S
 Council Member Zach Hilton	City Council Member of Gilroy, Zach Hilton	individuals
 Duarte	CITY OF DUARTE	cities
 Educators for Excellence - Los Angeles	Educators for Excellences - Los Angeles	Educators for Excellence
+Elders Climate Action, Northern California Chapter	Northern California Elders Climate Action	Elders Climate Action
 Elected Officials to Protect America - Code Blue	Elected Officials to Protect America Code Blue	Elected Officials to Protect America
 Emergency Medical Services Administrators' Association of California (EMSAAC)	Emergency Medical Services Administrator's Association	EMSAAC
 Emeryville	CITY OF EMERYVILLE	cities
@@ -3155,6 +3189,14 @@ Association of California Life and Heath Insurance Companies	ASSOCIATION OF CALI
 Association of California Life Insurance Companies (as of previous version)	ASSOCIATION OF CALIFORNIA LIFE INSURANCE COMPANIES	ACLIC
 Association of California Life, Health and Insurance: Companies (prior version)	ASSOCIATION OF CALIFORNIA LIFE & HEALTH INSURANCE COMPANIES	ACLHIC
 Association of California Live and Health Insurance Companies	ASSOCIATION OF CALIFORNIA LIFE & HEALTH INSURANCE COMPANIES	ACLHIC
+Association of California School Administrators (8/4/97)	ASSOCIATION OF CALIFORNIA SCHOOL ADMINISTRATORS	ACSA
+Association of California School Administrators (ACSA) and others	ASSOCIATION OF CALIFORNIA SCHOOL ADMINISTRATORS	ACSA
+Association of California School Administrators (based on prior version of the bill)	ASSOCIATION OF CALIFORNIA SCHOOL ADMINISTRATORS	ACSA
+Association of California School Administrators (Opposed	ASSOCIATION OF CALIFORNIA SCHOOL ADMINISTRATORS	ACSA
+Association of California School Administrators (previous version)	ASSOCIATION OF CALIFORNIA SCHOOL ADMINISTRATORS	ACSA
+Association of California School Administrators (requesting	ASSOCIATION OF CALIFORNIA SCHOOL ADMINISTRATORS	ACSA
+Association of California School Administrators (sponsors)	ASSOCIATION OF CALIFORNIA SCHOOL ADMINISTRATORS	ACSA
+Association of California School Administrators -(Prior version)	ASSOCIATION OF CALIFORNIA SCHOOL ADMINISTRATORS	ACSA
 Association of California School Administrators : GOVERNOR'S VETO MESSAGE	ASSOCIATION OF CALIFORNIA SCHOOL ADMINISTRATORS	ACSA
 Association of California State Employees with Disabilities (Support	Association of California State Employees with Disabilities (ACSED), Amended	ACSED
 Association of California State Supervisors (ACSS), Sponsor	ASSOCIATION OF CALIFORNIA STATE SUPERVISORS	ACSS
@@ -3287,6 +3329,96 @@ Aububon California	National Audubon Society	Audubon
 Auburn Union School District (prior version)	Auburn Union School District	Auburn-USD
 Auctions by the Bay, Inc. (dba Michaan's Auctions)	Auctions by the Bay, Inc. dba Michaan's Auctions	Michaans
 Auditor -Controller	Auditor-Controller	Auditor-Controller
+Audubon Caifornia	Audubon California	Audubon
+Audubon California (prior version)	Audubon California	Audubon
+Audubon California - oppose	Audubon California	Audubon
+Audubon Center At Debs Park	Audubon Center at Debs Park	Audubon
+Audubon Society, Golden Gate Chapter	Golden Gate Audubon Society	Audubon
+Audubon Society, Santa Clara Valley Chapter	Santa Clara Valley Audubon Society	Audubon
+Audubon Starr Ranch	Audubon Starr Ranch	Audubon
+Audubon- California	Audubon California	Audubon
+Aunt Ann's Home Care - 5 letters	Aunt Ann's Homecare	Aunt Ann's
+Authentic Sur Kennel Club of Chula Vista	Bahia Sur Kennel Club of Chula Vista	Kennel Club
+Autism Research Group (previous version)	Autism Research Group	autism
+Auto Club	AUTOMOBILE CLUB OF SOUTHERN CALIFORNIA	auto club
+Auto Club of So. Calif	AUTOMOBILE CLUB OF SOUTHERN CALIFORNIA	auto club
+Auto Dismantlers Association of Southern California (previous version)	Auto Dismantlers Association of Southern California	auto dismantlers
+Autobahn Driving School, Apple Valley	Autobahn Driving School - Apple Valley	driving school
+Automatic Vendors Council	CALIFORNIA AUTOMATIC VENDORS COUNCIL	vending
+Automobile Aftermarket Industry Association	Automotive Aftermarket Industry Association	Auto Aftermarket
+Automobile Club of Southern Calfiornia	AUTOMOBILE CLUB OF SOUTHERN CALIFORNIA	Auto Club SoCal
+Automobile Club of Southern California (AAA) (previous version)	AUTOMOBILE CLUB OF SOUTHERN CALIFORNIA	Auto Club SoCal
+Automobile Club of Southern California (as proposed to be amended)	AUTOMOBILE CLUB OF SOUTHERN CALIFORNIA	Auto Club SoCal
+Automobile Club of Southern California (from Senate	AUTOMOBILE CLUB OF SOUTHERN CALIFORNIA	Auto Club SoCal
+Automobile Club of Southern California 05/31/95	AUTOMOBILE CLUB OF SOUTHERN CALIFORNIA	Auto Club SoCal
+Automobile Club of Southern California 4/10/96	AUTOMOBILE CLUB OF SOUTHERN CALIFORNIA	Auto Club SoCal
+Automobile Club of Southern CaliforniaUnknown	AUTOMOBILE CLUB OF SOUTHERN CALIFORNIA	Auto Club SoCal
+Automobile Club of Southern CaliforniaUnknown (sponsor)	AUTOMOBILE CLUB OF SOUTHERN CALIFORNIA	Auto Club SoCal
+Automotive Parts Rebuilders Ass'n	Automotive Parts Rebuilders Association	Auto Parts Rebuilders
+Automotive Service Councils of California (July 18, 2007)	Automotive Service Councils of California (ASCCA)	Auto Service Councils CA
+Auxiliary Organizations Association of the California State Universities	Auxiliary Organizations Association	Aux Orgs Assn
+Avanza Inc (d/b/a Listo!)	Avanza Inc. (dba Listo!)	Avanza Listo
+Avenal Chief of Police	Avenal Police Department	Avenal PD
+Avis (previous version)	Avis	car rental
+Avis Rent A Car AB 491 (Frommer) System	AVIS Rent A Car System	car rental
+AvisBudget Group	Avis Budget Group	car rental
+Avon (prior version)	Avon	cosmetics
+Axs	AXS Group LLC	ticketing
+Azeena Technologies, Inc	Azeena	technology
+Azusa (as amended February 27, 2006)	CITY OF AZUSA	city govt
+Azusa Chief of Police	City of Azusa Police	police
+Azusa City Council / Utility Board	Azusa City Council	city govt
+Azusa Police Chief	City of Azusa Police	police
+AZUSA UNIFIED 11,636	Azusa Unified School District	school district
+Azusa Utility Board/City Council	Azusa City Council	city govt
+Azuza	CITY OF AZUSA	city govt
+B& Z Ultra-Precision Manufacturing Co. Inc	B & Z Ultra-Precision Manufacturing Co., Inc	manufacturing
+B3K	B3k Prosperity	B3k Prosperity
+Baker Commodities Inc. & 50 employees	Baker Commodities	Baker Commodities
+Baker, Manock & Jensen, Attorneys at Law	Baker, Manock & Jensen	Baker Manock Jensen
+Bakersfield Behavioral Healthcare Hospital (previous version)	Bakersfield Behavioral Healthcare Hospital	Bakersfield Behavioral
+Bakersfield City Council (prior version)	Bakersfield City Council	Bakersfield City Council
+Bakersfield College: several individual letters	Bakersfield College	Bakersfield College
+Ballona Creek Renaissance Baykeeper	Ballona Creek Renaissance	Ballona Creek Renaissance
+BANANA (Child Care Info. & Referral and	BANANA (Child Care Info. & Referral and)	BANANAS Child Care
+BANANA'S, Inc., a child care information and referral and	BANANA (Child Care Info. & Referral and)	BANANAS Child Care
+BANANAS (Child Care Resource & Referral agency)	BANANAS Child Care Resource & Referral Agency	BANANAS Child Care
+BANANAS - A bunch of support for all things child care	BANANA (Child Care Info. & Referral and)	BANANAS Child Care
+Bank of America (5/15/98)	Bank of America	Bank of America
+Bank of America - 06/05/03	Bank of America	Bank of America
+Bankers Association (CBA)	CALIFORNIA BANKERS ASSOCIATION	California Bankers Association
+BANNING UNIFIED 4,496	Banning Unified School District	Banning USD
+Bar Association of San Francisco- Family Law Section	Bar Association of San Francisco and its Family Law Section	Bar Association of San Francisco
+Barbara Emison Gaffield, Children's Hospital Oakland	Children's Hospital Oakland	Children's Hospital Oakland
+Barbara Emison Gaffield, Nutritionist, Children's Hospital	Children's Hospital Oakland	Children's Hospital Oakland
+Barbara Halliday - Hayward Mayor	CITY OF HAYWARD	City of Hayward
+Barbara Sanders Associates Burbank Housing Development Corp	Barbara Sanders Associates Burbank Housing Development	Barbara Sanders Associates
+Barry Pulliam, San Bernardino County Superintendent of Schools	San Bernardino County Superintendent of Schools	San Bernardino County Superintendent of Schools
+Barry Waite - Mayor of Lomita	CITY OF LOMITA	City of Lomita
+Barstow Police Officer's Association (BPOA)	Police Officers Association	Barstow POA
+Barstow Professional Firefighters Association	Barstow Professional Firefighters Association Local 2325	Barstow Professional Firefighters
+BART Police	SAN FRANCISCO BAY AREA RAPID TRANSIT DISTRICT (BART)	BART Police
+Based on introduced version: American Federation of State	American Federation of State, County and Municipal Employees (AFSCME)	AFSCME
+Based on introduced version: American Forest & Paper Association	AMERICAN FOREST & PAPER ASSOCIATION	AFPA
+Based on previous version of bill : Consolidated Disposal	Consolidated Disposal Services	Consolidated Disposal
+Based upon the prior version of the bill, the California Motor Car Dealers Association	CALIFORNIA MOTOR CAR DEALERS ASSOCIATION	Motor Car Dealers
+Basset Hound Club of America, In	Basset Hound Club of America	Basset Hound Club
+BASSETT UNIFIED 5,864	Bassett Unified School District	Bassett USD
+Battaglia and Waltari, Attorneys at Law (prior version)	Battaglia and Waltari, Attorneys at Law	Battaglia and Waltari
+Battle Creek Alliance & Defiance Canyon Raptor Rescue BeniSolSolar Biofuelwatch	Battle Creek Alliance & Defiance Canyon Raptor	Battle Creek Alliance
+BAWSCA	BAY AREA WATER SUPPLY AND CONSERVATION AGENCY	BAWSCA
+Bay 101 Club (as of previous amended version)	Bay 101 Club	Bay 101 Club
+Bay 101 Club AB 1416 (Wesson) continued	Bay 101 Club	Bay 101 Club
+Bay Area Air Quality (TORLAKSON)	BAY AREA AIR QUALITY MANAGEMENT DISTRICT	BAAQMD
+Bay Area Air Quality Management District (AQMD)	BAY AREA AIR QUALITY MANAGEMENT DISTRICT	BAAQMD
+Bay Area Air Quality Management District (Legislative Committee)	BAY AREA AIR QUALITY MANAGEMENT DISTRICT	BAAQMD
+Bay Area Black Chambers of Commerce	Bay Area Black Chambers of Commerce, San Francisco	Bay Area Black Chambers
+Bay Area Chapter, National Association of Working Women	National Association of Working Women	NAWW
+Bay Area Council (7/19/2013)	BAY AREA COUNCIL	Bay Area Council
+Bay Area Council (in concept)	BAY AREA COUNCIL	Bay Area Council
+Bay Area Council (prior version)	BAY AREA COUNCIL	Bay Area Council
+Bay Area Council (sponsors)	BAY AREA COUNCIL	Bay Area Council
+Bay Area Council - SPONSOR	BAY AREA COUNCIL	Bay Area Council
 Military Officers Association- California Council of Chapters	Military Officers Association of America	Military Officers Association of America
 Mono County Sheriff's Office	Mono County Sheriff's Department	Mono County Sheriff's Department
 NAACP Legal Defense and Educational Fund, Inc	NAACP Legal Defense and Educational Fund	NAACP Legal Defense and Educational Fund
@@ -3298,6 +3430,8 @@ Orange County Professional Firefighters Association, IAFF Local 3631	Orange Coun
 Patagonia Inc	Patagonia Surf	Patagonia Surf
 Placer County District Attorney	Placer County District Attorney's Office	Placer County District Attorney's Office
 Planned Parenthood Affiliates of CA	Planned Parenthood Affiliates of California	Planned Parenthood Affiliates of California
+Planned Parenthood Central Coast Action Fund	Planned Parenthood	Planned Parenthood
+Planned Parenthood of Santa Barbara, Ventura and San Luis Obispo	Planned Parenthood	Planned Parenthood
 Sacramento Audubon Society	National Audubon Society	National Audubon Society
 Sacramento County Deputy Sheriffs' Association (SCDSA)	Sacramento County Deputy Sheriff's Association	Sacramento County Deputy Sheriff's Association
 San Diego Police Officers Association Inc	SAN DIEGO POLICE OFFICERS ASSOCIATION	San Diego Police Officers Association
@@ -3402,12 +3536,13 @@ Pacific Grove	City of Pacific Grove	city
 People's Self-Help Housing	People's Self-Help Housing, San Luis Obispo	Peoples Self-Help Housing
 Physicians for Social Responsibility - LA	PHYSICIANS FOR SOCIAL RESPONSIBILITY	PSR
 Pinole	CITY OF PINOLE	city
+Planned Parenthood Advocacy Project Los Angeles	Planned Parenthood Advocacy Project Los Angeles County	Planned Parenthood
+Planned Parenthood Affiliates	Planned Parenthood Affiliates of California	Planned Parenthood
 Police Officers Research Association of California (PORAC)	Officers Research Association of California (PORAC)	PORAC
 Reproductive Freedom for All CA	National Abortion Rights Action League	NARAL
 San Diego Regional Chamber	San Diego Regional	San Diego Regional Chamber
 San Francisco Fire Fighters, Local 798	International Association of Fire Fighters	IAFF
 Santa Barbara District Attorney	District Attorneys	district attorneys
-Service Employees International Union, Local 1877	Service Employees International Union (SEIU)	seiu
 Sheriff-Coroner of San Bernardino County	San Bernardino County Sheriff Department	san bernardino sheriff
 Silicon Valley Debug	SILICON VALLEY DE-BUG	silicon valley de-bug
 Siskiyou County Sheriff's Department	Siskiyou County Sheriff's Office	siskiyou sheriff
@@ -3419,7 +3554,6 @@ The Climate Reality Project Los Angeles Chapter	CLIMATE REALITY PROJECT LOS ANGE
 The Climate Reality Project, Bay Area Chapter	CLIMATE REALITY PROJECT BAY AREA CHAPTER	climate reality bay area
 The Climate Reality Project, San Fernando Valley	CLIMATE REALITY PROJECT - SAN FERNANDO VALLEY CHAPTER	climate reality sfv
 The County Welfare Directors Association of California	County Welfare Directors Association of California (CWDA)	cwda
-Union (SEIU)	Service Employees International Union (SEIU)	seiu
 United Chamber Advocacy Network (UCAN)	UNITED CHAMBER ADVOCACY NETWORK	ucan
 United Domestic Workers of America - AFSCME Local 3930/AFL-CIO	United Domestic Workers of America - AFSCME	udw afscme 3930
 Usgbc California	USGBC California	usgbc california
@@ -4124,11 +4258,6 @@ SEIU Local 2015	AMERICAN FEDERATION OF LABOR AND CONGRESS OF INDUSTRIAL ORGANIZA
 SEIU Local 817	AMERICAN FEDERATION OF LABOR AND CONGRESS OF INDUSTRIAL ORGANIZATIONS	seiu_local_817
 SEIU of California	AMERICAN FEDERATION OF LABOR AND CONGRESS OF INDUSTRIAL ORGANIZATIONS	seiu_of_california
 Senior Disability Action	SENIOR & DISABILITY ACTION	senior_disability_action
-Service Employees International Union Local 1021	Service Employees International Union	seiu
-Service Employees International Union Local 535	Service Employees International Union	seiu
-Service Employees International Union Local 99	Service Employees International Union	seiu
-Service Employees International Union, Local 1000 (SEIU Local 1000)	Service Employees International Union	seiu
-Service Employees Union International	Service Employees International Union	seiu
 Seventh Day Adventist Church State Council	Seventh-day Adventist Church	seventh_day_adventist
 Sherman Block, Los Angeles County Sheriff	County of Los Angeles Sheriff's Department - Sherman Block	la_county_sheriff
 Sierra Club of CA	SIERRA CLUB	sierra_club
@@ -4277,6 +4406,7 @@ Burbank Chief of Police	Burbank Police	burbank_police
 Burbank Housing Development Corporation (UNREG)	BURBANK HOUSING DEVELOPMENT CORPORATION	burbank_housing
 CA ACORN	ASSOCIATION OF COMMUNITY ORGANIZATIONS FOR REFORM NOW	acorn
 CA Court Reporters Assoc	CALIFORNIA OFFICIAL COURT REPORTERS ASSOCIATION	cocra
+CA State Association of Counties (in concept)	CALIFORNIA STATE ASSOCIATION OF COUNTIES	csac
 CA YIMBY	YIMBY	yimby
 California Abortion and Reproductive Rights Action	National Abortion Rights Action League	caral
 California American Federation of State	American Federation of State, County and Municipal Employees (AFSCME)	afscme
@@ -4324,9 +4454,11 @@ California Public Interest Group (CALPIRG)	California Public Interest Research G
 California Radiological Society (prior version)	CALIFORNIA RADIOLOGICAL SOCIETY	crs
 California Rifle And Pistol Association, Inc	Calif. Rifle and Pistol Association	crpa
 California Seniors Coalition (prior version)	California Seniors Coalition	ca_seniors_coalition
-California Service Employees International Union	AMERICAN FEDERATION OF LABOR AND CONGRESS OF INDUSTRIAL ORGANIZATIONS	seiu
 California Society for Clinical Social Work (prior version)	CALIFORNIA SOCIETY FOR CLINICAL SOCIAL WORK	cscsw
 California Society of Radiologic Technologists (CSRT)	American Society of Radiologic Technologists	csrt
+California State Association of Counties (CSAC) ("In Concept")	CALIFORNIA STATE ASSOCIATION OF COUNTIES	csac
+California State Association of Counties (CSAC), Oppose	CALIFORNIA STATE ASSOCIATION OF COUNTIES	csac
+California State Association of Counties (support in concept)	CALIFORNIA STATE ASSOCIATION OF COUNTIES	csac
 California State Conference, NAACP	CALIFORNIA STATE CONFERENCE OF THE NATIONAL ASSOCIATION	naacp_state_conf
 California State Legislative Board of the Sheet Metal, Air, Rail and Transportation Workers	International Association of Sheet Metal, Air, Rail and Transportation Workers (SMART)	smart_td
 California State Legislative Board of the Sheet Metal, Air, Rail and Transportation Workers - Transportation Division	International Association of Sheet Metal, Air, Rail and Transportation Workers (SMART)	smart_td
@@ -4525,10 +4657,18 @@ Monrovia Firefighters Local 2415	International Association of Fire Fighters	inte
 Monterey County Fair	Monterey County Fair, 7th District Agricultural Association	monterey county fair 7th district agricultural association
 Monterey Firefighters Association Local 3707	International Association of Fire Fighters	international association of fire fighters
 MPA - The Association of Magazine Media	The Association of Magazine Media	the association of magazine media
+NAACP Legal Defense & Educational Fund, Inc	National Association for the Advancement of Colored People (NAACP)	national association for the advancement of colored people naacp
+NAACP Pasadena	National Association for the Advancement of Colored People (NAACP)	national association for the advancement of colored people naacp
+NAACP San Diego Branch	National Association for the Advancement of Colored People (NAACP)	national association for the advancement of colored people naacp
+NAACP San Pedro-Wilmington Branch 1069	National Association for the Advancement of Colored People (NAACP)	national association for the advancement of colored people naacp
+NAACP Santa Rosa - Sonoma	National Association for the Advancement of Colored People (NAACP)	national association for the advancement of colored people naacp
 NAIOP of California, The Commercial Real Estate Development Association	NAIOP of California, the Commercial Real Estate Developers Association	naiop of california the commercial real estate developers association
 NARAL Pro-Choice CA	National Abortion Rights Action League	national abortion rights action league
 National Alliance for the Mentally Ill California	NAMI California	nami california
 National Alliance on Mental Illness (NAMI) California	NAMI California	nami california
+National Association for the Advancement of Colored People (NAACP) 1069	National Association for the Advancement of Colored People (NAACP)	national association for the advancement of colored people naacp
+National Association for the Advancement of Colored People - California	National Association for the Advancement of Colored People (NAACP)	national association for the advancement of colored people naacp
+National Association for the Advancement of Colored People, California	National Association for the Advancement of Colored People (NAACP)	national association for the advancement of colored people naacp
 National Association of Counsel for Children - Los Angeles	National Association of Counsel for Children, Los Angeles	national association of counsel for children los angeles
 National Association of Social Workers (NASW) - California Chapter	NATIONAL ASSOCIATION OF SOCIAL WORKERS	national association of social workers
 National Association of Social Workers - CA chapter	NATIONAL ASSOCIATION OF SOCIAL WORKERS	national association of social workers
@@ -4550,6 +4690,7 @@ Northern California ADAPT	California ADAPT	california adapt
 Northern California District Council-ILWU	ILWU Northern California District Council	ilwu northern california district council
 NRG	NRG ENERGY	nrg energy
 Nv5	NV5	nv5
+Oakland Chapter, NAACP	National Association for the Advancement of Colored People (NAACP)	national association for the advancement of colored people naacp
 Oakland Firefighters Local 55	International Association of Fire Fighters	international association of fire fighters
 Oakland Firefighters, Local 55	International Association of Fire Fighters	international association of fire fighters
 Oakland Privacy writes	OAKLAND PRIVACY	oakland privacy
@@ -4913,6 +5054,15 @@ Asian Health Services (UNREG)	ASIAN HEALTH SERVICES	asian_health_services
 Asian Law Caucus (ALC)	Asian Americans Advancing Justice - Asian Law Caucus	advancing_justice
 Asian Neighborhood Design, San Francisco	Asian Neighborhood Design	asian_neighborhood_design
 Asian/Pacific Islander American Chamber of Commerce and Entrepreneurship	California Asian Pacific Islander Chamber of Commerce (CalAsian Chamber)	calasian_chamber
+Associated Builders and Contractors (ABC) of California	Associated Builders and Contractors	associated_builders
+Associated Builders and Contractors -San Diego Chapter	Associated Builders and Contractors - San Diego Chapter	associated_builders
+Associated Builders and Contractors Central California Chapter	Associated Builders and Contractors Central California Chapter	associated_builders
+Associated Builders and Contractors Northern California Chapter Training Trust Fund	ASSOCIATED BUILDERS AND CONTRACTORS - NORTHERN CALIFORNIA	associated_builders
+Associated Builders and Contractors of Northern California Chapter	ASSOCIATED BUILDERS AND CONTRACTORS - NORTHERN CALIFORNIA	associated_builders
+Associated Builders and Contractors Southern California Chapter	Associated Builders and Contractors - Southern California Chapter	associated_builders
+Associated Builders and Contractors, Central California Chapter	Associated Builders and Contractors Central California Chapter	associated_builders
+Associated Builders and Contractors, Inc. - San Diego Chapter	Associated Builders and Contractors - San Diego Chapter	associated_builders
+Associated Builders and Contractors, Southern California Chapter	Associated Builders and Contractors - Southern California Chapter	associated_builders
 Associated General Contractors of America (San Diego Chapter)	Associated General Contractors of America, San Diego Chapter	agc_san_diego
 Association for L.A. Deputy Sheriffs	Association for Los Angeles Deputy Sheriffs, Inc. (ALADS)	alads
 Association for LA Deputy Sheriffs	Association for Los Angeles Deputy Sheriffs, Inc. (ALADS)	alads
