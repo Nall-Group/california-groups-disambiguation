@@ -10,6 +10,18 @@ To edit this file (post questions, write answers), join this queue first. Only t
 
 ## Open Questions
 
+### Q11 (Task 1243, RA-Alpha) — state association vs. national-parent placement (structural)
+**Status:** Open
+
+While doing the gaps consolidation I found the audit (and some prior waves) paired **independent California state associations to their NATIONAL same-name counterparts**, and in a few cases nested the CA org as a `chapter` under the national one. Some of these are *legitimate* federation/chapter relationships; others are *separate* organizations that happen to share a name pattern. I routed the pending gap variants to the existing California node to resolve the gaps, but the parent relationship needs a ruling.
+
+Specifically:
+- **California Bankers Association** is currently a `chapter` under **AMERICAN BANKERS ASSOCIATION** (with several CBA alt-spellings nested there). CBA is generally an *independent* state trade association, not an ABA chapter. Should CBA be **promoted to its own top-level canonical** (and the wrongly-nested CBA children moved out of ABA)?
+- **California Association of Health Underwriters (CAHU)** is a `chapter` under **NATIONAL ASSOCIATION OF HEALTH UNDERWRITERS** — this one *is* a real state chapter of the NAHU federation, so I believe it should **stay** as a chapter. Confirm?
+- Other audit mis-pairings I left **pending** (org begins "California…", target is the national "American…/National…"): California Assoc. of Neurological Surgeons (CANS) → American Assoc. of Neurological Surgeons; California Assoc. of Naturopathic Physicians (CANP) → American Assoc. of Naturopathic Physicians; California Assoc. of Nurse Anesthetists → American Assoc. of Nurse Anesthetists; CA Art Education Assoc. → National Art Education Assoc.; CA Assoc. for Music Education → National Assoc. for Music Education; CA Farmers Union → National Farmers Union. For each: should the CA org be its **own canonical** (independent), or a **chapter** under the national parent? A general rule would let me process the rest consistently.
+
+**Answer:**
+
 ### Q10 (Task 1207, RA-Beta) — 3 police/sheriff pairings deferred (tangled pre-existing structure)
 **Status:** Answered
 
