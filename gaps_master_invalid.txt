@@ -1448,6 +1448,39 @@ County of on workload
 County of Oppose
 County of Other
 County of Silicon Valley
+CP/NC:cm 6/24/98 Senate Floor Analyses
+CP:cm/ctl 5/26/98 Senate Floor Analyses
+CP:cm/ctl 5/5/98 Senate Floor Analyses
+CP:cm/ctl 7/14/98 Senate Floor Analyses
+CP:cm/ctl 8/28/98 Senate Floor Analyses
+CP:ctl /cm 3/19/98 Senate Floor Analyses
+CP:ctl 5/196 Senate Floor Analyses
+CP:ctl/cm 5/11/98 Senate Floor Analyses
+CP:ctl/cm 5/26/98 Senate Floor Analyses
+CP:ctl/cm 5/6/98 Senate Floor Analyses
+CP:ctl/cm 8/13/98 Senate Floor Analyses
+CP:ctl/cm/jk 5/28/98 Senate Floor Analyses
+CP:ctl/jk/sl/ctl/cm 8/27/98 Senate Floor Analyses
+CP:jk/sl 8/1/98 Senate Floor Analyses
+CP:nf/cm/ctl 1/28/98 Senate Floor Analyses
+CP:nf/jk 1/28/98 Senate Floor Analyses
+CP:sl/jk 1/28/98 Senate Floor Analyses
+CP:sl/jk 7/22/98 Senate Floor Analyses
+CP:sl/jk/ctl 1/28/98 Senate Floor Analyses
+Creative Card Congress (committee analysis)
+Criminal Justice (amendments may address these concerns) (NOTE: COMMENT 5 OF THIS ANALYSIS DISCUSSES A SUGGESTED AMENDMENT THAT THE AUTHOR WILL LIKELY OFFER IN COMMITTEE.)
+Criminal Justice (NOTE: THIS ANALYSIS REFLECTS PROPOSED AMENDMENTS TO BE OFFERED IN COMMITTEE BY THE AUTHOR.)
+CS |offer, | | |N |N | |line
+CTW/AGB:cm 9/10/07 Senate Floor Analyses
+CTW/AGB:mel 8/17/05 Senate Floor Analyses
+CTW/AGB:mel 8/29/06 Senate Floor Analyses
+CTW/DLW:k 8/21/12 Senate Floor Analyses
+CTW/DLW:k 8/27/12 Senate Floor Analyses
+CTW/DLW:kc 5/21/12 Senate Floor Analyses
+CTW:d0 5/10/06 Senate Floor Analyses
+CTW:DLW:do 8/20/09 Senate Floor Analyses
+Culver City (as amended May 26, 2006)
+current version of bill
 Senate Bill 716
 Senate Bill 722
 State Human Association of California
