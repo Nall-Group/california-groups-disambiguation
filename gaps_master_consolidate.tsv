@@ -2528,6 +2528,7 @@ and California Pan-Ethnic Health Network	CALIFORNIA PAN-ETHNIC HEALTH NETWORK	CP
 and California Police Chiefs Association	California Police Chiefs Association	CPCA
 and California Ski Industry	California Ski Industry Association	California Ski Industry Association
 and California Southeast Asia Business Council	California Southeast Asia Business Council	CSEABC
+and California State Association of Counties	CALIFORNIA STATE ASSOCIATION OF COUNTIES	CSAC
 and California State Council of Laborers	CALIFORNIA STATE COUNCIL OF LABORERS	CSCL
 American Academy Of Pediatrics, California	AMERICAN ACADEMY OF PEDIATRICS	American Academy of Pediatrics
 California Association of County Veterans Service Officers (CACVSO)	Association of County Veterans Service Officers	CACVSO
@@ -2586,6 +2587,7 @@ Sacramento Metro Chamber	Sacramento Metro	Sacramento Metro Chamber
 Walnut Creek	CITY OF WALNUT CREEK	City government
 Advanced Medical Technology Association (ADVAMED)	AdvaMed - Advanced Medical Technology Association	AdvaMed
 Associated General Contractors - San Diego Chapter	ASSOCIATED GENERAL CONTRACTORS OF SAN DIEGO	AGC San Diego
+CFT- a Union of Educators & Classified Professionals	CFT - a Union of Educators & Classified Professionals	CFT
 DPA	DEPARTMENT OF PERSONNEL ADMINISTRATION	Dept of Personnel Administration
 Escondido	CITY OF ESCONDIDO	City government
 Glendale Adventist Medical Center	ADVENTIST HEALTH	Adventist Health
@@ -2603,6 +2605,7 @@ Associated General Contractors of CA	Associated General Contractors of Californi
 California Association of County Veterans Service Officer	Association of County Veterans Service Officers	Veterans Service Officers
 California Taxpayers Association (CalTax)	California Taxpayers Association	CalTax
 California Taxpayers' Association (Cal-Tax)	California Taxpayers Association	CalTax
+CFT	California Federation of Teachers	CFT
 Disability Rights of California	CALIFORNIA FOR DISABILITY RIGHTS	Disability Rights California
 Jewish Family Service of Los Angeles (UNREG)	JEWISH FAMILY SERVICE OF LOS ANGELES	Jewish Family Service of Los Angeles
 Los Angeles County Probation Department Union Local 685	Los Angeles County Probation Officers' Union, AFSCME	LA County Probation Union
@@ -2621,6 +2624,7 @@ California Law Enforcement Association of Records Supervisors (CLEARS)	CALIFORNI
 California Medical Association (prior version)	American Medical Association	California Medical Association
 California School Employees Association (prior version)	CALIFORNIA SCHOOL EMPLOYEES ASSOCIATION	California School Employees Association
 CDA	American Dental Association	California Dental Association
+CFT - a Union of Educators & Classified Professionals, AFT, AFL-CIO	CFT - a Union of Educators & Classified Professionals	CFT
 Friends of the Earth - US	FRIENDS OF THE EARTH	Friends of the Earth
 Indivisible Claremont / Inland Valley	Indivisible	Indivisible
 Naiop of California, the Commercial Real Estate Development Association	NAIOP OF CALIFORNIA	NAIOP
@@ -2720,6 +2724,7 @@ Women's Foundation of California, Women's Policy Institute	WOMEN'S FOUNDATION OF
 350 Contra Costa Action	350.org	350.org
 A Passion for Paws - Akita Rescue	A Passion for Paws Rescue	A Passion for Paws Rescue
 ABATE of California, Inc	AMERICAN BROTHERHOOD AIMED TOWARD EDUCATION	ABATE
+Agriculture Council of California ("In Concept")	AGRICULTURAL COUNCIL OF CALIFORNIA	In Concept
 Alameda County District Attorney Nancy O'Malley	District Attorneys	District Attorneys
 American Association of University Women (AAUW) San Jose	AMERICAN ASSOCIATION OF UNIVERSITY WOMEN	AAUW
 American College of Obstetricians and Gynecologists, District IX (California)	American College of Obstetricians and Gynecologists - District IX	ACOG District IX
@@ -2729,15 +2734,33 @@ Association of California Cities, Orange County	Association of California Cities
 Blue Cross of California (prior version)	BLUE CROSS OF CALIFORNIA	prior version
 Browning Ferris Industries	Browning Ferris	Browning Ferris
 CA State NAACP	CALIFORNIA STATE CONFERENCE OF THE NATIONAL ASSOCIATION	NAACP
+California Agriculture Aircraft Association ("In Concept")	California Agricultural Aircraft Association	In Concept
 California American Association of University Women	AMERICAN ASSOCIATION OF UNIVERSITY WOMEN	AAUW
+California Association of Nurseries & Garden Centers ("In Concept")	California Association of Nurseries & Garden Centers	In Concept
+California Beer and Beverage Distributors ("In Concept")	CALIFORNIA BEER AND BEVERAGE DISTRIBUTORS	In Concept
+California Business Properties Association ("In Concept")	CALIFORNIA BUSINESS PROPERTIES ASSOCIATION	In Concept
+California Citrus Mutual ("In Concept")	California Citrus Manual	In Concept
+California Cotton Ginners Association ("In Concept")	CALIFORNIA COTTON GINNERS AND GROWERS ASSOCIATION	In Concept
+California Cotton Growers Association ("In Concept")	California Cotton Growers Association	In Concept
 California Credit Union League (CCUL)	National Credit Union League	California Credit Union League
+California Farm Bureau Federation ("In Concept")	CALIFORNIA FARM BUREAU FEDERATION	In Concept
+California Fig Institute ("In Concept")	California Fig Institute	In Concept
+California Grocers Association ("In Concept")	CALIFORNIA GROCERS ASSOCIATION	In Concept
+California Grocers Association (CGA)	CALIFORNIA GROCERS ASSOCIATION	In Concept
 California Health + Advocates	CALIFORNIA HEALTH ADVOCATES	California Health Advocates
 California Independent Oil Marketers Association (CIOMA)	CALIFORNIA INDEPENDENT OIL MARKETERS ASSOCIATION	CIOMA
 California Lawyers Association - Family Law Section	California Lawyers Association	California Lawyers Association
+California League of Food Processors ("In Concept")	CALIFORNIA LEAGUE OF FOOD PROCESSORS	In Concept
+California Lodging Industry Association ("In Concept")	CALIFORNIA LODGING INDUSTRY ASSOCIATION	In Concept
 California Norml (UNREG)	CALIFORNIA NORML	NORML
 California Nurses Association (prior version)	CALIFORNIA NURSES ASSOCIATION	prior version
+California Plant Health Association ("In Concept")	California Plant Health Association	In Concept
 California Police Chief Association	California Police Chiefs Association	California Police Chiefs
+California Restaurant Association ("In Concept")	The California Restaurant Association (CRA)	In Concept
 California State Association of Counties (prior version)	CALIFORNIA STATE ASSOCIATION OF COUNTIES	prior version
+California Travel Industry Association ("In Concept")	CALIFORNIA TRAVEL INDUSTRY ASSOCIATION	In Concept
+California Women for Agriculture ("In Concept")	California Women for Agriculture	In Concept
+Central California Citizens Against Lawsuit Abuse	CITIZENS AGAINST LAWSUIT ABUSE	CALA
 City of Stockton Police Department	POLICE DEPARTMENT	Stockton Police
 Congress of California Seniors (prior version)	Congress of California Seniors	prior version
 County Welfare Directors of California	County Welfare Directors Association of California (CWDA)	CWDA
@@ -4179,6 +4202,8 @@ CA Independent Public Employees: Legislative Council, Inc	California Independent
 CA Integrated Waste Management Bd.None on file	INTEGRATED WASTE MANAGEMENT BOARD	Integrated Waste Mgmt Bd
 CA Integrated Waste Management Bd.None on file. (co-sponsor)	INTEGRATED WASTE MANAGEMENT BOARD	Integrated Waste Mgmt Bd
 CA Judges Association (if amended)	California Judges Association	Judges Assn
+CA Labor Federation (as proposed to be amended)	California Labor Federation, AFL-CIO	Labor Federation
+CA Labor Federation - AFL-CIO	California Labor Federation, AFL-CIO	Labor Federation
 CA Land and Title Association	California Land Title Association	Land Title
 CA Land Title Assn	California Land Title Association	Land Title
 CA Land Title Association (CLTA)	California Land Title Association	Land Title
@@ -4215,6 +4240,7 @@ CA Rural Legal Assistance Foundation (CONCERN)	CALIFORNIA RURAL LEGAL ASSISTANCE
 CA Society of Plastic Surgeons	California Society of Plastic Surgeons, Inc	Plastic Surgeons
 CA Society of Plastic Surgeons, Inc	California Society of Plastic Surgeons, Inc	Plastic Surgeons
 CA Special Districts Association (in concept)	Calif. Special Districts Assoc	Special Districts
+CA State Association of Counties None on file	CALIFORNIA STATE ASSOCIATION OF COUNTIES	CSAC
 CA State Bar, Trusts and Estates Section	STATE BAR OF CALIFORNIA	State Bar
 CA State Conference for NAACP	California State Conference of the National Association for the Advancement of Colored People	NAACP CA
 CA State Conference of the National Assoc. for the Advancement of Colored	California State Conference of the National Association for the Advancement of Colored People	NAACP CA
@@ -4225,6 +4251,7 @@ CA State Legislative Board, Sheet Metal, Air, Rail and Transportation Workers - 
 CA State Sheriffs' Association Association	California State Sheriffs Association, SB	State Sheriffs
 CA Taxpayers' Association (Cal-Tax)	California Taxpayers Association	CalTax
 CA Taxpayers' Association [as of April 7, 2009	California Taxpayers Association	CalTax
+CA Teachers Association [verified 1/6/98	Teachers Association	CTA
 CA Texas Buffalo Soldier Association One individual	Texas Buffalo Soldier Association	Buffalo Soldier
 CA Welcomes Coalition (Co Sponsor)	California Welcomes Coalition	Welcomes Coalition
 CA WIC Association (CWA)	California WIC (Women, Infants and Children) Association	CA WIC
@@ -4301,6 +4328,7 @@ CalEnergy Co., Imperial County, Independent	CalEnergy Company	CalEnergy
 CALEXICO UNIFIED 7,048	Calexico Unified School District	Calexico USD
 CalExpo	California Exposition & State Fair	CalExpo
 Calfiornia Dental Association	The California Dental Association (CDA)	CDA
+Calfiornia Medical Association	California Medical Association	CMA
 CalFIRE Firefighters, Local 2881	Local 2881	CalFIRE 2881
 CalFIRE Local 2881, which represents CalFIRE firefighters	Local 2881	CalFIRE 2881
 Calfornia Bankers Association	American Bankers Association	CA Bankers
@@ -4310,7 +4338,9 @@ Calif, Psychiatric Ass'n	The California Psychiatric Association (CPA)	CPA
 Calif. Applicants' Attorneys Ass'n	CALIFORNIA APPLICANTS ATTORNEYS' ASSOCIATION	CAAA
 Calif. Ass'n of HMO's	CALIFORNIA ASSOCIATION OF HEALTH MAINTENANCE ORGANIZATIONS	CAHMO
 Calif. Ass'n. of Health Services at Home	CALIFORNIA ASSOCIATION FOR HEALTH SERVICES AT HOME	CAHSAH
+Calif. Assisted Living Ass'n	Assisted Living	CALA
 Calif. Assn. of Long Distance Telephone Companies	California Association of Long Distance Telephone Companies	CALTEL
+Calif. Association of Health Facilities	California Association of Facilities	CAHF
 Calif. Building Officials	California Association of Building Officials	CALBO
 Calif. Business Properties Assoc	CALIFORNIA BUSINESS PROPERTIES ASSOCIATION	CBPA
 Calif. Dept. of Forestry Employees Assn	CALIFORNIA DEPARTMENT OF FORESTRY EMPLOYEES' ASSOCIATION	CDFEA
@@ -4322,6 +4352,7 @@ Calif. Public Employees' Retirement System (CalPERS) - unless	CalPERS	CalPERS
 Calif. Public Interest Research Group	California Public Interest Research Group	CALPIRG
 Calif. Public Interest Research Group (CALPIRG)	California Public Interest Research Group	CALPIRG
 Calif. State Auto Association	CALIFORNIA STATE AUTOMOBILE ASSOCIATION	CSAA
+Calif. Teachers Ass'n	CALIFORNIA TEACHER'S ASSOCIATION	CTA
 Californa Municipal Utility Association	CALIFORNIA MUNICIPAL UTILITIES ASSOCIATION	CMUA
 California #insulin4all	California insulin4all	insulin4all
 California & Minnesota Honey Farms	California Minnesota Honey Farms	Honey Farms
@@ -4339,6 +4370,7 @@ California AB 2142 (Keeley) Manufacturers and Technology Association	CALIFORNIA 
 California AB 2263 (Spitzer) Police Chiefs' Association	California Police Chiefs Association	police chiefs
 California AB 2389 (Morrow) Medical Association	California Medical Association	medical assn
 California AB 407 (Cedillo) National Organization for Women	CALIFORNIA NATIONAL ORGANIZATION FOR WOMEN	NOW
+California AB 408 (Steinberg) Court-Appointed Special Advocate Association	CALIFORNIA COURT APPOINTED SPECIAL ADVOCATES ASSOCIATION	CASA
 California AB 76 (Corbett) State Association of Electrical Workers	California & Nevada State Association of Electrical Workers	electrical workers
 California AB 881 (Rogan) Correctional Peace Officers Assn	California Correctional Peace Officers Association	CCPOA
 California Abortion & Reproduction Rights Action League	California Abortion and Reproductive Rights Action League	CARAL
@@ -4437,6 +4469,7 @@ California Alliance of Retired Americans (as introduced)	CALIFORNIA ALLIANCE FOR
 California Alternative Payment Program Association (CAPPA) - co-sponsor	CALIFORNIA ALTERNATIVE PAYMENT PROGRAM ASSOCIATION	CAPPA
 California Alternative Payment Program Association (CAPPA) also	CALIFORNIA ALTERNATIVE PAYMENT PROGRAM ASSOCIATION	CAPPA
 California Alternative Payment Program Association (CAPPA) SPONSOR	CALIFORNIA ALTERNATIVE PAYMENT PROGRAM ASSOCIATION	CAPPA
+California Ambulatory Surgery Association (CASA) writes	CALIFORNIA AMBULATORY SURGERY ASSOCIATION	CASA
 California American Association of Retired Persons	AMERICAN ASSOCIATION OF RETIRED PERSONS	AARP
 California American College of Emergency Physicians (previous version)	American College of Emergency Physicians	ACEP
 California Animal Control Directors Association (6/5/02)	CALIFORNIA ANIMAL CONTROL DIRECTORS ASSOCIATION (CACDA)	Animal Control Directors
@@ -4481,6 +4514,12 @@ California Assessors Association (6/26/98)	California Assessor's Association	CA 
 California Assessors Association , California	California Assessor's Association	CA Assessors
 California Assessors' Association Lawrence Stone	California Assessor's Association	CA Assessors
 California Asset Building Coalition, Sabrina Hamm, Managing Director	California Asset Building Coalition	Asset Building
+California Assisted Living Association (as proposed to be amended)	CALIFORNIA ASSISTED LIVING ASSOCIATION	CALA
+California Assisted Living Association (CALA) - Co-Sponsor	CALIFORNIA ASSISTED LIVING ASSOCIATION	CALA
+California Assisted Living Association (CALA) - sponsor	CALIFORNIA ASSISTED LIVING ASSOCIATION	CALA
+California Assisted Living Association (CALA) - Support	CALIFORNIA ASSISTED LIVING ASSOCIATION	CALA
+California Assisted Living Association (CALA) sponsor	CALIFORNIA ASSISTED LIVING ASSOCIATION	CALA
+California Assisted Living Association also	CALIFORNIA ASSISTED LIVING ASSOCIATION	CALA
 California Assn of County Veterans Service Officers	Association of County Veterans Service Officers	CVSO
 California Assn. of Collectors	CALIFORNIA ASSOCIATION OF COLLECTORS	Collectors
 California Assn. of County Veterans Service Officers	Association of County Veterans Service Officers	CVSO
@@ -4573,6 +4612,17 @@ California Association of Food Banks (Co-Sponsors)	CALIFORNIA ASSOCIATION OF FOO
 California Association of Food Banks (prior version)	CALIFORNIA ASSOCIATION OF FOOD BANKS	CAFB
 California Association of Harbor Master and Port Captains (sponsors)	California Association of Harbor Masters and Port Captains	CAHMPC
 California Association of Harbor Masters and Port Captains and other boating organizations	California Association of Harbor Masters and Port Captains	CAHMPC
+California Association of Health Facilities (5/22/98 version)	CALIFORNIA ASSOCIATION OF HEALTH FACILITIES	CAHF
+California Association of Health Facilities (9/12/01)	CALIFORNIA ASSOCIATION OF HEALTH FACILITIES	CAHF
+California Association of Health Facilities (CAHF) - Oppose	CALIFORNIA ASSOCIATION OF HEALTH FACILITIES	CAHF
+California Association of Health Facilities (CAHF) writes	CALIFORNIA ASSOCIATION OF HEALTH FACILITIES	CAHF
+California Association of Health Facilities (previous version)	CALIFORNIA ASSOCIATION OF HEALTH FACILITIES	CAHF
+California Association of Health Facilities (Sponsors)	CALIFORNIA ASSOCIATION OF HEALTH FACILITIES	CAHF
+California Association of Health Facilities (to prior version of bill)	CALIFORNIA ASSOCIATION OF HEALTH FACILITIES	CAHF
+California Association of Health Facilities (Unless STAFF ANALYSIS OF SB 732 (MELLO) amended)	CALIFORNIA ASSOCIATION OF HEALTH FACILITIES	CAHF
+California Association of Health Facilities (with the deletion of the continuous appropriation)	CALIFORNIA ASSOCIATION OF HEALTH FACILITIES	CAHF
+California Association of Health Facilities' (CAHF) - Oppose	CALIFORNIA ASSOCIATION OF HEALTH FACILITIES	CAHF
+California Association of Health Facilities, oppose unless	CALIFORNIA ASSOCIATION OF HEALTH FACILITIES	CAHF
 California Association of Health Insuring Organizations (prior version)	California Association of Health Insuring Organizations	CAHIO
 California Association of Health Plan - 5/27/99 (opposed but willing to	CALIFORNIA ASSOCIATION OF HEALTH PLANS	CAHP
 California Association of Health Plans (as previously amended)	CALIFORNIA ASSOCIATION OF HEALTH PLANS	CAHP
@@ -4736,6 +4786,12 @@ California Association of Rehabilitation & Re-employment Professionals	Californi
 California Association of Resource Specialists (5/15/98)	California Association of Resource Specialists and Special Education Teachers	Resource Specialists
 California Association of Retired Americans (prior to amendments)	CALIFORNIA ALLIANCE FOR RETIRED AMERICANS	CARA
 California Association of RV Parks and Campgrounds, the sponsor of SB 317	CALIFORNIA ASSOCIATION OF RV PARKS AND CAMPGROUNDS	RV Parks
+California Association of Sanitation Agencies (04/21/14 version)	CALIFORNIA ASSOCIATION OF SANITATION AGENCIES	CASA
+California Association of Sanitation Agencies (5/8)	CALIFORNIA ASSOCIATION OF SANITATION AGENCIES	CASA
+California Association of Sanitation Agencies (committee	CALIFORNIA ASSOCIATION OF SANITATION AGENCIES	CASA
+California Association of Sanitation Agencies (Opposes Section 1)	CALIFORNIA ASSOCIATION OF SANITATION AGENCIES	CASA
+California Association of Sanitation Agencies (Supports Section 2)	CALIFORNIA ASSOCIATION OF SANITATION AGENCIES	CASA
+California Association of SB 323 (Kopp) Sanitation Agencies	CALIFORNIA ASSOCIATION OF SANITATION AGENCIES	CASA
 California Association of School Business Association (CASBO)	CALIFORNIA ASSOCIATION OF SCHOOL BUSINESS OFFICIALS	CASBO
 California Association of School Business Officials (CASBO), (Oppose Unless Ameneded)	CALIFORNIA ASSOCIATION OF SCHOOL BUSINESS OFFICIALS	CASBO
 California Association of School Business Officials (CASBO), Oppose	CALIFORNIA ASSOCIATION OF SCHOOL BUSINESS OFFICIALS	CASBO
@@ -5171,6 +5227,7 @@ California Democratic Party, Chicano/Latino Caucus	Chicano/Latino Caucus of the 
 California Democratic Party, Los Angeles County	California Democratic Party, Los Angeles County	CDP
 California Democratic Party, Senior Caucus	Senior Caucus of the California Democratic Party	CDP caucus
 California Dental Ass'n	CALIFORNIA DENTAL ASSOCIATION	CDA
+California Dental Assistants Association (CDAA) also	California Dental Assistants Association	CDAA
 California Dental Assoc	CALIFORNIA DENTAL ASSOCIATION	CDA
 California Dental Association (CDA) also	CALIFORNIA DENTAL ASSOCIATION	CDA
 California Dental Association (CDA) to promote good oral health	CALIFORNIA DENTAL ASSOCIATION	CDA
@@ -5246,6 +5303,24 @@ California Dispute Resolution Council: 7 individuals	CALIFORNIA DISPUTE RESOLUTI
 California Distributors Association (as introduced)	CALIFORNIA DISTRIBUTORS ASSOCIATION	CA Distributors Association
 California Distributors Association (Board of Equalization has not taken a position on the bill, but staff indicate that the proposed method makes good sense.)	CALIFORNIA DISTRIBUTORS ASSOCIATION	CA Distributors Association
 California Distributors Association (CDA)	CALIFORNIA DISTRIBUTORS ASSOCIATION	CA Distributors Association
+California District Attorney's Association (April 13, 1998 version)	CALIFORNIA DISTRICT ATTORNEY'S ASSOCIATION	CDAA
+California District Attorneys Assocation	CALIFORNIA DISTRICT ATTORNEY'S ASSOCIATION	CDAA
+California District Attorneys Association (4/26)	CALIFORNIA DISTRICT ATTORNEY'S ASSOCIATION	CDAA
+California District Attorneys Association (all based on February 21, 2003 version)	CALIFORNIA DISTRICT ATTORNEY'S ASSOCIATION	CDAA
+California District Attorneys Association (CDAA - cosponsor)	CALIFORNIA DISTRICT ATTORNEY'S ASSOCIATION	CDAA
+California District Attorneys Association (CDAA - sponsor)	CALIFORNIA DISTRICT ATTORNEY'S ASSOCIATION	CDAA
+California District Attorneys Association (CDAA) (opposed only to notice provision suggesting that defendants may wish to contact district attorneys' offices for information)	CALIFORNIA DISTRICT ATTORNEY'S ASSOCIATION	CDAA
+California District Attorneys Association (in concept)	CALIFORNIA DISTRICT ATTORNEY'S ASSOCIATION	CDAA
+California District Attorneys Association (in Concept)	CALIFORNIA DISTRICT ATTORNEY'S ASSOCIATION	CDAA
+California District Attorneys Association (introduced version)	CALIFORNIA DISTRICT ATTORNEY'S ASSOCIATION	CDAA
+California District Attorneys Association (oppose to this measure, as introduced)	CALIFORNIA DISTRICT ATTORNEY'S ASSOCIATION	CDAA
+California District Attorneys Association (oppose to this measure, introduced)	CALIFORNIA DISTRICT ATTORNEY'S ASSOCIATION	CDAA
+California District Attorneys Association (opposed only to notice provision suggesting that defendants may wish to contact district attorneys' offices for information)	CALIFORNIA DISTRICT ATTORNEY'S ASSOCIATION	CDAA
+California District Attorneys Association (previous version)	CALIFORNIA DISTRICT ATTORNEY'S ASSOCIATION	CDAA
+California District Attorneys Association (to previous version of the bill)	CALIFORNIA DISTRICT ATTORNEY'S ASSOCIATION	CDAA
+California District Attorneys Association (to prior version of the bill)	CALIFORNIA DISTRICT ATTORNEY'S ASSOCIATION	CDAA
+California District Attorneys Association - Oppose	CALIFORNIA DISTRICT ATTORNEY'S ASSOCIATION	CDAA
+California District Attorneys Association 6/22/98	CALIFORNIA DISTRICT ATTORNEY'S ASSOCIATION	CDAA
 California Division of American Association for Marriage and Family: Therapy	American Association for Marriage and Family Therapy, California Division	AAMFT
 California Domestic Workers Coalition - Sponsor	CALIFORNIA DOMESTIC WORKERS COALITION	CDWC
 California Domestic Workers Coalition - Sponsors	CALIFORNIA DOMESTIC WORKERS COALITION	CDWC
@@ -5301,6 +5376,11 @@ California Federation of Dog Bull Terrier Club	California Federation of Dog Club
 California Federation of Independent Business	National Federation of Independent Business	NFIB
 California Federation of Interpreters (prior version)	CALIFORNIA FEDERATION OF INTERPRETERS	Interpreters
 California Federation of Interpreters, The	CALIFORNIA FEDERATION OF INTERPRETERS	Interpreters
+California Federation of Labor (AFL-CIO)	California Federation of Labor	Labor Federation
+California Federation of Labor - AFL-CIO	California Federation of Labor	Labor Federation
+California Federation of Labor AFL/CIO)	California Federation of Labor	Labor Federation
+California Federation of Labor Unions, AFL-CIO (Co-sponsors)	California Federation of Labor Unions	Labor Federation
+California Federation of Labor Unions, AFL-CIO (Co-Sponsors)	California Federation of Labor Unions	Labor Federation
 California Federation of Republican Women (committee	CALIFORNIA FEDERATION OF REPUBLICAN WOMEN	Republican Women
 California Federation of Republican Women (prior version)	CALIFORNIA FEDERATION OF REPUBLICAN WOMEN	Republican Women
 California Federation of Teachers (1/14/98)	California Federation of Teachers	Teachers
@@ -5328,6 +5408,19 @@ California Federation of Teachers - a Union of Educators and Classified Professi
 California Federation of Teachers - AFT, AFL-CIO	California Federation of Teachers	Teachers
 California Federation of Teachers - Union of Educators & Classified Professionals	California Federation of Teachers	Teachers
 California Federation of Teachers -(based on prior version of the bill)	California Federation of Teachers	Teachers
+California Federation of Teachers AFL - CIO	California Federation of Teachers	CFT
+California Federation of Teachers AFL-CIO GENup	California Federation of Teachers	CFT
+California Federation of Teachers Aft, Afl-cio	California Federation of Teachers	CFT
+California Federation of Teachers Aft, AFL-CIO	California Federation of Teachers	CFT
+California Federation of Teachers California	California Federation of Teachers	CFT
+California Federation of Teachers, A Union of Educators & Classified Professionals	California Federation of Teachers	CFT
+California Federation of Teachers, a Union of Educators & Classified Professionals, AFT, AFL-CIO	California Federation of Teachers	CFT
+California Federation of Teachers, a Union of Educators and Classified Professionals, AFT, AFL-CIO	California Federation of Teachers	CFT
+California Federation of Teachers, AFT, AFL- CIO	California Federation of Teachers	CFT
+California Federation of Teachers, Aft, Afl-cio	California Federation of Teachers	CFT
+California Federation of Teachers, American Federation of Teachers, AFL-CIO	California Federation of Teachers	CFT
+California Federation of Techers, AFT, AFL-CIO	California Federation of Teachers	CFT
+California Federtion of Teachers	California Federation of Teachers	CFT
 California Fence Contractors Ass'n	CALIFORNIA FENCE CONTRACTORS' ASSOCIATION	Fence Contractors
 California Fence Contractors Assoc	CALIFORNIA FENCE CONTRACTORS' ASSOCIATION	Fence Contractors
 California Fence Contractors Association - CFCA	CALIFORNIA FENCE CONTRACTORS' ASSOCIATION	Fence Contractors
@@ -5489,6 +5582,16 @@ California Judges Association (unless funded)	California Judges Association	Judg
 California Judicial Council, Civil and Small Claims: Advisory Committee (concern)	California Judicial Council, Civil and Small Claims	Judicial Council
 California Juvenile Court Judges of California	JUVENILE COURT JUDGES OF CALIFORNIA	Juvenile Court Judges
 California Keeping Innocence Digitally Safe (K	California Keeping Innocence Digitally Safe Coalition	KIDS Coalition
+California Labor Federation (6/11/12)	California Labor Federation, AFL-CIO	Labor Federation
+California Labor Federation (9/9/09 verified by letter)	California Labor Federation, AFL-CIO	Labor Federation
+California Labor Federation (AFL-CIO) - 05/07/03	California Labor Federation, AFL-CIO	Labor Federation
+California Labor Federation (AFL-CIO) - sponsor	California Labor Federation, AFL-CIO	Labor Federation
+California Labor Federation (July 9, 2007)	California Labor Federation, AFL-CIO	Labor Federation
+California Labor Federation (letter pending)	California Labor Federation, AFL-CIO	Labor Federation
+California Labor Federation - AFL/CIO	California Labor Federation, AFL-CIO	Labor Federation
+California Labor Federation / AFL - CIO	California Labor Federation, AFL-CIO	Labor Federation
+California Labor Federation 4/15/98	California Labor Federation, AFL-CIO	Labor Federation
+California Labor Federation AFLCIO	California Labor Federation, AFL-CIO	Labor Federation
 California Labor Federation California	California Labor Federation, AFL-CIO	CA Labor Fed
 California Labor Federation, AFL - CIO	California Labor Federation, AFL-CIO	CA Labor Fed
 California Labor Federation, AFL CIO	California Labor Federation, AFL-CIO	CA Labor Fed
@@ -5621,6 +5724,43 @@ California Marine Corps League	MARINE CORPS LEAGUE	Marine Corps League
 California Maternal, Child and Adolescent Health Directors (previous version)	California Maternal, Child and Adolescent Health Directors (MCAH)	MCAH
 California Mayors (City of Sacramento	California Mayors (City of Sacramento)	California Mayors
 California Medical Assn. Foundation	California Medical Association Foundation	CMA Foundation
+California Medical Assocation	California Medical Association	CMA
+California Medical Associaition	California Medical Association	CMA
+California Medical Association (3/26/15 version) (3/26/15 version)	California Medical Association	CMA
+California Medical Association (4/6/15 version)	California Medical Association	CMA
+California Medical Association (6/3/97)	California Medical Association	CMA
+California Medical Association (CMA - co-sponsor)	California Medical Association	CMA
+California Medical Association (CMA sponsor)	California Medical Association	CMA
+California Medical Association (CMA) and numerous other physician associations	California Medical Association	CMA
+California Medical Association (CMA) and physician associations representing anesthesiologists	California Medical Association	CMA
+California Medical Association (CMA) in a	California Medical Association	CMA
+California Medical Association (CMA) in opposition	California Medical Association	CMA
+California Medical Association (CMA) strongly	California Medical Association	CMA
+California Medical Association (committee analysis)	California Medical Association	CMA
+California Medical Association (current version of the bill)	California Medical Association	CMA
+California Medical Association (July 9, 2007)	California Medical Association	CMA
+California Medical Association (letter dated 7/3/07)	California Medical Association	CMA
+California Medical Association (previous version of bill)	California Medical Association	CMA
+California Medical Association (prior version of bill)	California Medical Association	CMA
+California Medical Association (Prior version)	California Medical Association	CMA
+California Medical Association (Sponsor)	California Medical Association	CMA
+California Medical Association (sponsor)Unknown	California Medical Association	CMA
+California Medical Association (The following support pertains to the introduced version)	California Medical Association	CMA
+California Medical Association (to previous version)	California Medical Association	CMA
+California Medical Association (to the bill in print)	California Medical Association	CMA
+California Medical Association (unless amended)	California Medical Association	CMA
+California Medical Association - letter dated April 22, 2005	California Medical Association	CMA
+California Medical Association - Oppose Unless	California Medical Association	CMA
+California Medical Association - prior	California Medical Association	CMA
+California Medical Association - Support	California Medical Association	CMA
+California Medical Association and other physician groups	California Medical Association	CMA
+California Medical Association Organizations Expressing Concern	California Medical Association	CMA
+California Medical Association Resident Physician: Society	California Medical Association Resident Physician	CMA
+California Medical Association Unknown	California Medical Association	CMA
+California Medical Association, California	California Medical Association	CMA
+California Medical Association: Oppose	California Medical Association	CMA
+California Medical AssociationUnknown	California Medical Association	CMA
+California Medical Assoication	California Medical Association	CMA
 California Medical Billing Association Organizations Expressing Concerns	California Medical Billing Association	Medical Billing
 California Medical Transportation Association (sponsors)	CALIFORNIA MEDICAL TRANSPORTATION ASSOCIATION	Medical Transportation
 California Mental Health Directors Association (5/10/99 amended version)	CALIFORNIA MENTAL HEALTH DIRECTORS ASSOCIATION	CMHDA
@@ -5758,6 +5898,8 @@ California Organization of Police and Sheriff	ORGANIZATION OF POLICE AND SHERIFF
 California Organization of Police and Sheriffos	ORGANIZATION OF POLICE AND SHERIFFS	COPS
 California Organization of Police and Sheriffs [COPS	ORGANIZATION OF POLICE AND SHERIFFS	COPS
 California Organization of Police and Sheriffs Los Angeles	ORGANIZATION OF POLICE AND SHERIFFS	COPS
+California Organization of Police CHiefs and Sheriffs	Association of Police Chiefs and Sheriffs	Police Chiefs
+California Organization of Police Chiefs and Sheriffs	Association of Police Chiefs and Sheriffs	Police Chiefs
 California Organization of Polices and Sheriffs	ORGANIZATION OF POLICE AND SHERIFFS	COPS
 California Orthopaedic Association (COA) has taken an	CALIFORNIA ORTHOPAEDIC ASSOCIATION	Orthopaedic
 California Orthopedic Association (Introduced version)	CALIFORNIA ORTHOPEDIC ASSOCIATION	Orthopaedic
@@ -5806,6 +5948,24 @@ California Podiatric Medical Association (CPMA) would	CALIFORNIA PODIATRIC MEDIC
 California Police Chief's 6/12/98)	California Police Chiefs Association	Police Chiefs Association
 California Police Chiefos Association (3/20/95)	California Police Chiefs Association	Police Chiefs Association
 California Police Chiefs Assoc. None to date	California Police Chiefs Association	Police Chiefs Association
+California Police Chiefs Assoc. None to date (Sponsor)	California Police Chiefs Association	Police Chiefs
+California Police Chiefs Association (4/2)	California Police Chiefs Association	Police Chiefs
+California Police Chiefs Association (as introduced)	California Police Chiefs Association	Police Chiefs
+California Police Chiefs Association (prior version)	California Police Chiefs Association	Police Chiefs
+California Police Chiefs Association (Prior version)	California Police Chiefs Association	Police Chiefs
+California Police Chiefs Association - 06/09/03	California Police Chiefs Association	Police Chiefs
+California Police Chiefs Association 3/7/00	California Police Chiefs Association	Police Chiefs
+California Police Chiefs Association 5/29/96	California Police Chiefs Association	Police Chiefs
+California Police Chiefs Association Incorporated	California Police Chiefs Association	Police Chiefs
+California Police Chiefs Association, Inc. (04/15/13 version)	California Police Chiefs Association	Police Chiefs
+California Police Chiefs Association, Inc. (prior version)	California Police Chiefs Association	Police Chiefs
+California Police Chiefs Associations (sponsors)	California Police Chiefs Association	Police Chiefs
+California Police Chiefs Associations, Inc	California Police Chiefs Association	Police Chiefs
+California Police Chiefs' Association (1/8/98)	California Police Chiefs Association	Police Chiefs
+California Police Chiefs' Association (3/27/98)	California Police Chiefs Association	Police Chiefs
+California Police Chiefs' Association (prior version)	California Police Chiefs Association	Police Chiefs
+California Police Chiefso Association (phone call 1/11/96)	California Police Chiefs Association	Police Chiefs
+California Police Chiefso Association, Inc	California Police Chiefs Association	Police Chiefs
 California Police Officers Research Association	PEACE OFFICER'S RESEARCH ASSOCIATION OF CALIFORNIA	PORAC
 California Political Attorneys Association (prior version)	California Political Attorneys Association	Political Attorneys
 California Political Treasurers Association (prior version)	California Political Treasurers Association	Political Treasurers
@@ -6125,9 +6285,51 @@ California Sportsman's Lobby, Inc. (as of 3/31/95)	CALIFORNIA SPORTSMAN'S LOBBY	
 California Sportsmen's Lobby (previous version)	CALIFORNIA SPORTSMAN'S LOBBY	CA Sportsman's Lobby
 California State Advisory Advisory Commission on Special Education	California State Advisory Commission on Special Education	ACSE
 California State Alliance of YMCAs (prior version)	California State Alliance of Ymcas	CA Alliance of YMCAs
+California State Assoc. of Counties (CSAC)	CALIFORNIA STATE ASSOCIATION OF COUNTIES	CSAC
 California State Association of Children's Advocacy Institute	CHILDREN'S ADVOCACY INSTITUTE	CAI
+California State Association of Counties (*based on June 21, 2018 version)	CALIFORNIA STATE ASSOCIATION OF COUNTIES	CSAC
+California State Association of Counties (4/17/01)	CALIFORNIA STATE ASSOCIATION OF COUNTIES	CSAC
+California State Association of Counties (5/23/00)	CALIFORNIA STATE ASSOCIATION OF COUNTIES	CSAC
+California State Association of Counties (6/6/02)	CALIFORNIA STATE ASSOCIATION OF COUNTIES	CSAC
+California State Association of Counties (And amend)	CALIFORNIA STATE ASSOCIATION OF COUNTIES	CSAC
+California State Association of Counties (As Amended 4/2/13)	CALIFORNIA STATE ASSOCIATION OF COUNTIES	CSAC
+California State Association of Counties (concerns)	CALIFORNIA STATE ASSOCIATION OF COUNTIES	CSAC
+California State Association of Counties (CSAC - with the proposed amendment)	CALIFORNIA STATE ASSOCIATION OF COUNTIES	CSAC
+California State Association of Counties (CSAC) (previous version)	CALIFORNIA STATE ASSOCIATION OF COUNTIES	CSAC
+California State Association of Counties (CSAC) (prior version)	CALIFORNIA STATE ASSOCIATION OF COUNTIES	CSAC
+California State Association of Counties (CSAC) - oppose unless	CALIFORNIA STATE ASSOCIATION OF COUNTIES	CSAC
+California State Association of Counties (CSAC) [Oppose	CALIFORNIA STATE ASSOCIATION OF COUNTIES	CSAC
+California State Association of Counties (CSAC)--sponsor	CALIFORNIA STATE ASSOCIATION OF COUNTIES	CSAC
+California State Association of Counties (current version)	CALIFORNIA STATE ASSOCIATION OF COUNTIES	CSAC
+California State Association of Counties (f amended)	CALIFORNIA STATE ASSOCIATION OF COUNTIES	CSAC
+California State Association of Counties (February 23, 2007 version)	CALIFORNIA STATE ASSOCIATION OF COUNTIES	CSAC
+California State Association of Counties (In concept)	CALIFORNIA STATE ASSOCIATION OF COUNTIES	CSAC
+California State Association of Counties (In Concept)	CALIFORNIA STATE ASSOCIATION OF COUNTIES	CSAC
+California State Association of Counties (Opposed	CALIFORNIA STATE ASSOCIATION OF COUNTIES	CSAC
+California State Association of Counties (previous version)	CALIFORNIA STATE ASSOCIATION OF COUNTIES	CSAC
+California State Association of Counties (Support and Amend)	CALIFORNIA STATE ASSOCIATION OF COUNTIES	CSAC
+California State Association of Counties (Support if amended	CALIFORNIA STATE ASSOCIATION OF COUNTIES	CSAC
+California State Association of Counties (Support in concept)	CALIFORNIA STATE ASSOCIATION OF COUNTIES	CSAC
+California State Association of Counties (to June 26 version of the bill)	CALIFORNIA STATE ASSOCIATION OF COUNTIES	CSAC
+California State Association of Counties (to pre-amended version)	CALIFORNIA STATE ASSOCIATION OF COUNTIES	CSAC
+California State Association of Counties - CO-SPONSOR	CALIFORNIA STATE ASSOCIATION OF COUNTIES	CSAC
+California State Association of Counties - CSAC	CALIFORNIA STATE ASSOCIATION OF COUNTIES	CSAC
+California State Association of Counties - SPONSOR	CALIFORNIA STATE ASSOCIATION OF COUNTIES	CSAC
+California State Association of Counties - Support in Concept	CALIFORNIA STATE ASSOCIATION OF COUNTIES	CSAC
+California State Association of Counties -- END -- [1] Alexandra Zavis	CALIFORNIA STATE ASSOCIATION OF COUNTIES	CSAC
+California State Association of Counties 3/28/00 SB 1772 (Brulte)	CALIFORNIA STATE ASSOCIATION OF COUNTIES	CSAC
+California State Association of Counties [in concept	CALIFORNIA STATE ASSOCIATION OF COUNTIES	CSAC
+California State Association of Counties [oppose	CALIFORNIA STATE ASSOCIATION OF COUNTIES	CSAC
+California State Association of Counties [support	CALIFORNIA STATE ASSOCIATION OF COUNTIES	CSAC
+California State Association of Counties [support in concept	CALIFORNIA STATE ASSOCIATION OF COUNTIES	CSAC
+California State Association of Counties AB 1104 (LAIRD)	CALIFORNIA STATE ASSOCIATION OF COUNTIES	CSAC
+California State Association of Counties CSAC)	CALIFORNIA STATE ASSOCIATION OF COUNTIES	CSAC
 California State Association of Counties Excess Insurance Authority (CSAC EIA)	California State Association of Counties Excess Insurance Authority	CSAC EIA
 California State Association of Counties Excess Insurance Authority (CSAC- EIA)	California State Association of Counties Excess Insurance Authority	CSAC EIA
+California State Association of Counties has an	CALIFORNIA STATE ASSOCIATION OF COUNTIES	CSAC
+California State Association of Counties SB 188 (Cedillo)	CALIFORNIA STATE ASSOCIATION OF COUNTIES	CSAC
+California State Association of Counties writes	CALIFORNIA STATE ASSOCIATION OF COUNTIES	CSAC
+California State Association of Counties, writing in support	CALIFORNIA STATE ASSOCIATION OF COUNTIES	CSAC
 California State Association of Counties- Excess Insurance Authority	California State Association of Counties Excess Insurance Authority	CSAC EIA
 California State Association of Electrical Workers (Co-sponsors)	California Association of Electrical Workers	Electrical Workers
 California State Association of Electrical Workers (Co-Sponsors)	California Association of Electrical Workers	Electrical Workers
@@ -6284,6 +6486,8 @@ California State University, Stanlislaus - Ethnic Studies program	CALIFORNIA STA
 California State-Wide Law Enforcement Association	CALIFORNIA STATEWIDE LAW ENFORCEMENT ASSOCIATION	CSLEA
 California Strawberry Commission (prior version)	CA Strawberry Commission	Strawberry Commission
 California Street Vendor Campaign (as amended)	California Street Vendor Campaign	Street Vendor Campaign
+California Student Aid Commission (PRIOR VERSION)	CALIFORNIA STUDENT AID COMMISSION	CSAC
+California Student Aid Commission writes	CALIFORNIA STUDENT AID COMMISSION	CSAC
 California Student Board Member Association, co-sponsors of the measure	CALIFORNIA STUDENT BOARD MEMBER ASSOCIATION	CSBMA
 California Superintendent of Public Instruction Tony Thurmond	California State Superintendent of Public Instruction Tony Thurmond	Superintendent of Public Instruction
 California Supported Living Network (prior version)	CALIFORNIA SUPPORTED LIVING NETWORK	CSLN
@@ -6311,6 +6515,25 @@ California Taxpayers' Association (Cal-TAX)	California Taxpayers Association	Cal
 California Taxpayers' Association (July 12, 2007)	California Taxpayers Association	CalTax
 California Taxpayers' Association (previous version of bill)	California Taxpayers Association	CalTax
 California Taxpayers' Association (Sponsor)	California Taxpayers Association	CalTax
+California Teacher's Associatoin	CALIFORNIA TEACHER'S ASSOCIATION	CTA
+California Teachers Association (as introduced)	CALIFORNIA TEACHER'S ASSOCIATION	CTA
+California Teachers Association (as proposed to be amended)	CALIFORNIA TEACHER'S ASSOCIATION	CTA
+California Teachers Association (based on prior version of the bill)	CALIFORNIA TEACHER'S ASSOCIATION	CTA
+California Teachers Association (CTA) also wrote	CALIFORNIA TEACHER'S ASSOCIATION	CTA
+California Teachers Association (CTA) states the "CTA in no way	CALIFORNIA TEACHER'S ASSOCIATION	CTA
+California Teachers Association (Earlier version of the bill)	CALIFORNIA TEACHER'S ASSOCIATION	CTA
+California Teachers Association (February 23, 2007 version)	CALIFORNIA TEACHER'S ASSOCIATION	CTA
+California Teachers Association (June 1 version)	CALIFORNIA TEACHER'S ASSOCIATION	CTA
+California Teachers Association (on original version)	CALIFORNIA TEACHER'S ASSOCIATION	CTA
+California Teachers Association (on previous version of bill)	CALIFORNIA TEACHER'S ASSOCIATION	CTA
+California Teachers Association (Previous Version)	CALIFORNIA TEACHER'S ASSOCIATION	CTA
+California Teachers Association (Previous version)	CALIFORNIA TEACHER'S ASSOCIATION	CTA
+California Teachers Association (previous version)	CALIFORNIA TEACHER'S ASSOCIATION	CTA
+California Teachers Association (to bill as introduced)	CALIFORNIA TEACHER'S ASSOCIATION	CTA
+California Teachers Association (unless amendead)	CALIFORNIA TEACHER'S ASSOCIATION	CTA
+California Teachers Association - Co-Sponsor	CALIFORNIA TEACHER'S ASSOCIATION	CTA
+California Teachers Association writes	CALIFORNIA TEACHER'S ASSOCIATION	CTA
+California Teachers Association, Community College Association	CALIFORNIA TEACHER'S ASSOCIATION	CTA
 California Teachers of English to	California Teachers of English to Speakers of Other Languages (CATESOL)	CATESOL
 California Teachers of English to: Speakers of Other Languages	California Teachers of English to Speakers of Other Languages (CATESOL)	CATESOL
 California Teaching Fellows Foundation (prior version)	California Teaching Fellows Foundation	Teaching Fellows
@@ -7030,6 +7253,17 @@ CFT - A union of Educators and Classified Professionals, AFT, AFL-CIO	California
 CFT -A Union of Educators & Classified Professionals, AFT, AFL-CIO	California Federation of Teachers	California Federation of Teachers
 CFT a Union of Educators & Classified Professionals, AFT, AFL-CIO	California Federation of Teachers	California Federation of Teachers
 CFT, a Union of Educators & Classified Professionals	California Federation of Teachers	California Federation of Teachers
+CFT, a Union of Educators and Classified Professionals, AFT, AFL-CIO	California Federation of Teachers	CFT
+CFT- A Union of Educators & Classified Professional, AFT, AFT-CIO	California Federation of Teachers	CFT
+CFT- a Union of Educators & Classified Professionals, AFL, AFL-CIO	California Federation of Teachers	CFT
+CFT- a Union of Educators & Classified Professionals, AFL-CIO	California Federation of Teachers	CFT
+CFT- a Union of Educators & Classified Professionals, AFT	California Federation of Teachers	CFT
+CFT- a Union of Educators & Classified Professionals, AFT, AFL-CIO (prior version)	California Federation of Teachers	CFT
+CFT-A Union of Educator & Classified Professionals, AFT, AFL-CIO	California Federation of Teachers	CFT
+CFT-a Union of Educators & Classified Professionals	California Federation of Teachers	CFT
+CFT-A Union of Educators & Classified Professionals AFT, AFL-CIO	California Federation of Teachers	CFT
+CFT-a Union of Educators & Classified Professionals, AFT, AFL-CIO	California Federation of Teachers	CFT
+CFT: A Union of Educators and Classified Professionals	California Federation of Teachers	CFT
 CH+A	CaliforniaHealth+ Advocates (CH+A) and Redwood Community Health Coalition	CaliforniaHealth+ Advocates
 Chabot- Las Positas Community College District	Chabot Las Positas Community College District	Chabot-Las Positas CCD
 Chaffey College (based on prior version of the bill)	Chaffey College	Chaffey College
@@ -7331,6 +7565,22 @@ Cities to Stop the Spray (Alameda	Cities to Stop the Spray (Alameda)	Stop the Sp
 CitiGroup - 06/05/03	CitiGroup	CitiGroup
 Citizen's Climate Lobby, Castro Valley Chapter	CITIZEN'S CLIMATE LOBBY - CASTRO VALLEY CHAPTER	Citizens Climate Lobby
 Citizens Advisory Council (Orange County)	Citizens Advisory Council, Orange County	Citizens Advisory Council
+Citizens Against Lawsuit Abuse - Central California	CITIZENS AGAINST LAWSUIT ABUSE	CALA
+Citizens Against Lawsuit Abuse - Central California, Northern California, Los Angeles, Orange County, Silicon Valley and San Diego County Chapters	CITIZENS AGAINST LAWSUIT ABUSE	CALA
+Citizens Against Lawsuit Abuse - Los Angeles	CITIZENS AGAINST LAWSUIT ABUSE	CALA
+Citizens Against Lawsuit Abuse - Los Angeles Chapter, Orange County Chapter, San Diego Chapter	CITIZENS AGAINST LAWSUIT ABUSE	CALA
+Citizens Against Lawsuit Abuse - Northern California	CITIZENS AGAINST LAWSUIT ABUSE	CALA
+Citizens Against Lawsuit Abuse - Orange County	CITIZENS AGAINST LAWSUIT ABUSE	CALA
+Citizens Against Lawsuit Abuse - San Diego County	CITIZENS AGAINST LAWSUIT ABUSE	CALA
+Citizens Against Lawsuit Abuse - Silicon Valley	CITIZENS AGAINST LAWSUIT ABUSE	CALA
+Citizens Against Lawsuit Abuse of Central California, Los	CITIZENS AGAINST LAWSUIT ABUSE	CALA
+Citizens Against Lawsuit Abuse of Central California, Los Angeles, Northern California, Orange County, San Diego County, and Silicon Valley	CITIZENS AGAINST LAWSUIT ABUSE	CALA
+Citizens Against Lawsuit Abuse of Central California, Northern California	CITIZENS AGAINST LAWSUIT ABUSE	CALA
+Citizens Against Lawsuit Abuse of Central California, Northern California, Orange County, San Diego and Silicon	CITIZENS AGAINST LAWSUIT ABUSE	CALA
+Citizens Against Lawsuit Abuse, Central and Northern	CITIZENS AGAINST LAWSUIT ABUSE	CALA
+Citizens Against Lawsuit Abuse, Central and Northern California, Orange and San Diego Counties, and Silicon Valley	CITIZENS AGAINST LAWSUIT ABUSE	CALA
+Citizens Against Lawsuit Abuse, Los Angeles	CITIZENS AGAINST LAWSUIT ABUSE	CALA
+Citizens Against Lawsuit Abuse, San Diego County	CITIZENS AGAINST LAWSUIT ABUSE	CALA
 Citizens Commission on Human Rights ("deeply concerned")	CITIZENS COMMISSION ON HUMAN RIGHTS	CCHR
 Citizens Commission on Human Rights (committee analysis)	CITIZENS COMMISSION ON HUMAN RIGHTS	CCHR
 Citizens Commission on Human Rights (earlier version of bill)	CITIZENS COMMISSION ON HUMAN RIGHTS	CCHR
@@ -7353,6 +7603,7 @@ Citizens for Responsible and Constitutional Laws "Working to Keep	Citizens for R
 Citizens for Retirement Protection and	Citizens for Retirement Protection	CRP
 Citizens for Retirement Protection and Security	Citizens for Retirement Protection	CRP
 Citizens for Senior Housing	Citizens for Senior Housing	CSH
+Citizens Take Action (prior version)	Citizens Take Action	CTA
 Citizens' Climate Lobby - Alameda County Chapter	Alameda County Chapter of Citizens' Climate Lobby	CCL
 Citrus Valley Health Partners (prior version of bill)	Citrus Valley Health Partners	CVHP
 City / County Association of Governments of San Mateo County	City/County Association of San Mateo County	CCAG San Mateo
@@ -7454,6 +7705,7 @@ City of CalDesal	Caldesal	CalDesal
 City of California Air Pollution Control Officers Association	CALIFORNIA AIR POLLUTION CONTROL OFFICER'S ASSOCIATION	CAPCOA
 City of California Coalition of Utility Employees	COALITION OF CALIFORNIA UTILITY EMPLOYEES	CUE
 City of California Council on Alcohol Problems	CALIFORNIA COUNCIL ON ALCOHOL PROBLEMS	CCAP
+City of California District Attorneyos Association	CALIFORNIA DISTRICT ATTORNEY'S ASSOCIATION	CDAA
 City of California Farm Bureau Federation	CALIFORNIA FARM BUREAU FEDERATION	CFBF
 City of California Labor Federation	California Labor Federation, AFL-CIO	Labor Fed
 City of California Labor Federation, AFL-CIO	California Labor Federation, AFL-CIO	Labor Fed
@@ -7524,6 +7776,228 @@ City of Eagle Lake Audubon Society	Eagle Lake Audubon Society	Eagle Lake Audubon
 City of Earthjustice	Earthjustice	Earthjustice
 City of El Cajon (Mayor)	CITY OF EL CAJON	City of El Cajon
 City of El Cajon None on file	CITY OF EL CAJON	City of El Cajon
+City of El Cajon, Mayor Mark Lewis	City of El Cajon	El Cajon
+City of El Centro (4/17/23 version)	City of El Centro	El Centro
+City of El Monte (prior version)	City of El Monte	El Monte
+City of Elk Grove Chief of Police Robert M. Lehner	City of Elk Grove	Elk Grove
+City of Elk Grove Mayor Bobbie Singh-Allen	City of Elk Grove	Elk Grove
+City of Emeryville Mayor Dianne Martinez	City of Emeryville	Emeryville
+City of Emeryville Mayor John J Bauters	City of Emeryville	Emeryville
+City of Emeryville Mayor John J. Bauters	City of Emeryville	Emeryville
+City of Emeryville, City Manager Carolyn Lehr	City of Emeryville	Emeryville
+City of Emeryville, Mayor Dianne Martinez	City of Emeryville	Emeryville
+City of Emeryville, Mayor John Bauters	City of Emeryville	Emeryville
+City of Emeryville, Mayor John J. Bauters	City of Emeryville	Emeryville
+City of Encinitas (prior version)	City of Encinitas	Encinitas
+City of Encinitas Mayor Maggie Houlihan	City of Encinitas	Encinitas
+City of Encinitas Mayor Tony Kranz	City of Encinitas	Encinitas
+City of Encinitas Neighbors Coalition	ENCINITAS NEIGHBORS COALITION	Encinitas Neighbors
+City of Eureka (prior version)	City of Eureka	Eureka
+City of Fairfield - Office of the Mayor	City of Fairfield	Fairfield
+City of Fairfield Mayor Harry T. Price	City of Fairfield	Fairfield
+City of Film Liaisons in California Statewide	Film Liaisons in California Statewide Flics	Film Liaisons
+City of Firebaugh, City Manager Kenneth McDonald	City of Firebaugh	Firebaugh
+City of Fontana (formerly listed as City of Fontana)	City of Fontana	Fontana
+City of Fontana (prior version)	City of Fontana	Fontana
+City of Fontana, Police Department	City of Fontana	Fontana
+City of Foster City (formerly listed as City of Foster City)	CITY OF FOSTER CITY	city
+City of Fountain Valley (prior version)	CITY OF FOUNTAIN VALLEY	city
+City of Fountain Valley (unless amended)	CITY OF FOUNTAIN VALLEY	city
+City of Fountain Valley Police Department	CITY OF FOUNTAIN VALLEY	police dept
+City of Fowler, City Manager David Elias	City of Fowler	city manager
+City of Fremont, Police Department	CITY OF FREMONT	police dept
+City of Fresno (Mayor	CITY OF FRESNO	mayor
+City of Fresno Chief of Police, Paco Balderrama	CITY OF FRESNO	police chief
+City of Fresno Mayor Lee Brand, opposed	CITY OF FRESNO	mayor
+City of Fresno Mayor, Jerry P. Dyer	CITY OF FRESNO	mayor
+City of Fresno Police Department, Chief Jerry P. Dyer	CITY OF FRESNO	police dept
+City of Fresno Police Department, Jerry Dyer, Chief of Police	CITY OF FRESNO	police dept
+City of Fresno Water Division	CITY OF FRESNO	water division
+City of Fresno, District Attorney	CITY OF FRESNO	district attorney
+City of Fresno, Mayor Jerry P. Dyer	CITY OF FRESNO	mayor
+City of Fresno, Mayor Lee Brand	CITY OF FRESNO	mayor
+City of Fresno, Public Works Department	CITY OF FRESNO	public works
+City of Fullerton (formerly listed as City of Fullerton)	CITY OF FULLERTON	city
+City of Fullerton Police Officers' Association	Fullerton Police Officers Association	police officers assn
+City of Garden Grove, Mayor Bao Nguyen	CITY OF GARDEN GROVE	mayor
+City of Garden Grove, Mayor William Dalton	CITY OF GARDEN GROVE	mayor
+City of Glendale (Public Works Dept.)	CITY OF GLENDALE	public works
+City of Glendale - CO-SPONSOR	CITY OF GLENDALE	city
+City of Glendale Police Chief	CITY OF GLENDALE	police chief
+City of Goleta (in concept)	City of Goleta	Goleta
+City of Goleta Mayor Paula Perotte	City of Goleta	Goleta
+City of Goleta Valley	City of Goleta	Goleta
+City of Guadalupe (formerly listed as City of Guadalupe)	City of Guadalupe	Guadalupe
+City of Half Moon Bay Mayor Deborah Penrose	City of Half Moon Bay	Half Moon Bay
+City of Half Moon Bay Mayor Robert Brownstone	City of Half Moon Bay	Half Moon Bay
+City of Half Moon Bay Parks and Recreation Department	City of Half Moon Bay	Half Moon Bay
+City of Hanford, Mayor Curry	City of Hanford	Hanford
+City of Hayward, City of	City of Hayward	Hayward
+City of Healdsburg Mayor Ariel Kelly	City of Healdsburg	Healdsburg
+City of Hemet (Section 5)	City of Hemet	Hemet
+City of Hermosa Beach Mayor Raymond Jackson	City of Hermosa Beach	Hermosa Beach
+City of Highland (prior version)	City of Highland	Highland
+City of Hillsborough Mayor Christine Krolik	City of Hillsborough	Hillsborough
+City of Hope also	CITY OF HOPE	City of Hope
+City of Huntington Beach Mayor Keith Bohr	City of Huntington Beach	Huntington Beach
+City of Huntington Park Mayor Eduardo Escare?o	City of Huntington Park	Huntington Park
+City of Huron Mayor, Sylvia Chavez	City of Huron	Huron
+City of Huron, Mayor Chavez	City of Huron	Huron
+City of Huron, Mayor Sylvia V. Chavez	City of Huron	Huron
+City of Imperial Beach Mayor Paloma Aguirre	City of Imperial Beach	Imperial Beach
+City of Imperial Irrigation District	IMPERIAL IRRIGATION DISTRICT	Imperial Irrigation District
+City of Indian Well	CITY OF INDIAN WELLS	Indian Wells
+City of Industry, California	City of Industry	Industry
+City of Inglewood Mayor James Butts	City of Inglewood	Inglewood
+City of Inglewood Mayor, James T. Butts, Jr	CITY OF INGLEWOOD	Inglewood
+City of Inglewood, Mayor James T. Butts	CITY OF INGLEWOOD	Inglewood
+City of Inland Empire Economic Partnership	INLAND EMPIRE ECONOMIC PARTNERSHIP	IEEP
+City of Institute for Public Strategies	Institute for Public Strategies	IPS
+City of Irvine - Mayor Khan	CITY OF IRVINE	Irvine
+City of Irvine Mayor Farrah N. Khan	CITY OF IRVINE	Irvine
+City of Irvine Mayor Khan	CITY OF IRVINE	Irvine
+City of Irvine Mayor Wagner	CITY OF IRVINE	Irvine
+City of Irvine, Mayor Khan	CITY OF IRVINE	Irvine
+City of Irwindale Police Department	CITY OF IRWINDALE	Irwindale
+City of Kerman, City Manager Luis Patlan	CITY OF KERMAN	Kerman
+City of Kings River Conservation District	KINGS RIVER CONSERVATION DISTRICT	KRCD
+City of Kingsburg, Mayor Chet Reilly	CITY OF KINGSBURG	Kingsburg
+City of La Cañada Flintridge Mayor David Spence	City of La Cañada Flintridge	La Canada Flintridge
+City of La Habra (formerly listed as City of La Habra)	CITY OF LA HABRA	La Habra
+City of La Habra Police Department	CITY OF LA HABRA	La Habra
+City of La Mesa, Mayor Art Madrid	City of La Mesa	La Mesa
+City of La Mirada (Mayor)	CITY OF LA MIRADA	La Mirada
+City of LA Palma (UNREG)	CITY OF LA PALMA	La Palma
+City of La Palma Mayor Steve Hwangbo	CITY OF LA PALMA	La Palma
+City of La Quinta, Mayor Linda Evans	CITY OF LA QUINTA	La Quinta
+City of Laguna Beach (prior version)	CITY OF LAGUNA BEACH	Laguna Beach
+City of Laguna Niguel [SPONSOR] None on file	CITY OF LAGUNA NIGUEL	Laguna Niguel
+City of Laguna Niguel Mayor Laurie Davies	CITY OF LAGUNA NIGUEL	Laguna Niguel
+City of Lake Forest (prior bill version)	CITY OF LAKE FOREST	Lake Forest
+City of Lakeport (prior version)	CITY OF LAKEPORT	Lakeport
+City of Lakewood (current version)	CITY OF LAKEWOOD	Lakewood
+City of Lakewood (Mayor)	CITY OF LAKEWOOD	Lakewood
+City of Lakewood Mayor Ron Piazza	CITY OF LAKEWOOD	Lakewood
+City of Lancaster, Mayor, Rex Parris	CITY OF LANCASTER	City of Lancaster
+City of Las Virgenes Municipal Water District	LAS VIRGENES MUNICIPAL WATER DISTRICT	Las Virgenes MWD
+City of Latino Business Council	Latino Business Council	Latino Business Council
+City of League of Women Voters of California	League of Women Voters of California	League of Women Voters
+City of Liberty Mutual Group	LIBERTY MUTUAL GROUP	Liberty Mutual
+City of Livable California	LIVABLE CALIFORNIA	Livable California
+City of Livermore (Water Resources Division)	CITY OF LIVERMORE	City of Livermore
+City of Local 399-Senior Retirees	SEIU Local 399	SEIU Local 399
+City of Local Government Commission	LOCAL GOVERNMENT COMMISSION	Local Government Commission
+City of Lomita (prior version)	CITY OF LOMITA	City of Lomita
+City of Long Beach (as introduced)	CITY OF LONG BEACH	City of Long Beach
+City of Long Beach (prior version)	CITY OF LONG BEACH	City of Long Beach
+City of Long Beach (sponsors)	CITY OF LONG BEACH	City of Long Beach
+City of Long Beach Mayor Rex Richardson	CITY OF LONG BEACH	City of Long Beach
+City of Long Beach Mayor Robert Garcia	CITY OF LONG BEACH	City of Long Beach
+City of Long Beach, Clean Power	CITY OF LONG BEACH	City of Long Beach
+City of Long Beach, Mayor Bob Foster	CITY OF LONG BEACH	City of Long Beach
+City of Long Beach, Mayor Rex Richardson	CITY OF LONG BEACH	City of Long Beach
+City of Los Altos Police Chief	CITY OF LOS ALTOS	City of Los Altos
+City of Los Angeles (7/3/07 version of bill)	CITY OF LOS ANGELES	City of Los Angeles
+City of Los Angeles (8/23/10)	CITY OF LOS ANGELES	City of Los Angeles
+City of Los Angeles (current version)	CITY OF LOS ANGELES	City of Los Angeles
+City of Los Angeles (Mayor approved resolution by City Council to support AB 1934)	CITY OF LOS ANGELES	City of Los Angeles
+City of Los Angeles (Mayor's Office of Intergovernmental Affairs)	CITY OF LOS ANGELES	City of Los Angeles
+City of Los Angeles (NOTE: THIS ANALYSIS REFLECTS AMENDMENTS THE AUTHOR INTENDS TO SUBMIT TO THE COMMITTEE.)	CITY OF LOS ANGELES	City of Los Angeles
+City of Los Angeles (previous version of the bill)	CITY OF LOS ANGELES	City of Los Angeles
+City of Los Angeles (received re-confirmation on 8/28/96)	CITY OF LOS ANGELES	City of Los Angeles
+City of Los Angeles - Mayor Eric Garcetti	CITY OF LOS ANGELES	City of Los Angeles
+City of Los Angeles - Mayor's Office of Economic Development	CITY OF LOS ANGELES	City of Los Angeles
+City of Los Angeles - Office of Mayor Karen Bass	CITY OF LOS ANGELES	City of Los Angeles
+City of Los Angeles - SPONSOR	CITY OF LOS ANGELES	City of Los Angeles
+City of Los Angeles 5/20/02	CITY OF LOS ANGELES	City of Los Angeles
+City of Los Angeles City Attorney Michael N. Feuer	CITY OF LOS ANGELES	City of Los Angeles
+City of Los Angeles City of Los Angeles City Attorney	CITY OF LOS ANGELES	City of Los Angeles
+City of Los Angeles Commission on the Status of Women	CITY OF LOS ANGELES	City of Los Angeles
+City of Los Angeles County Democratic Party	CALIFORNIA DEMOCRATIC PARTY	Democratic Party
+City of Los Angeles County District Attorney's Office	Los Angeles County District Attorney	LA County DA
+City of Los Angeles County Sheriff Lee Baca	Los Angeles County Sheriff's Department	LA County Sheriff
+City of Los Angeles Library Security Officers (Section 1)	City of Los Angeles Library Security Officers	LA Library Security
+City of Los Angeles Mayor, Antonio R. Villaraigosa	CITY OF LOS ANGELES	City of LA
+City of Los Angeles Police Department Chief, Charlie Beck	City of Los Angeles Police	LAPD
+City of Los Angeles Taxicab Paratransit Association of California	TAXICAB PARATRANSIT ASSOCIATION OF CALIFORNIA	Taxicab Paratransit
+City of Los Angeles Waterkeeper	LOS ANGELES WATERKEEPER	LA Waterkeeper
+City of Los Angeles)	CITY OF LOS ANGELES	City of LA
+City of Los Angeles, Chief Legislative Analyst's Office	Los Angeles City Council/Chief Legislative Analyst	LA Chief Legislative Analyst
+City of Los Angeles, Mayor Garcetti	CITY OF LOS ANGELES	City of LA
+City of Los Angeles, Office of the Mayor Eric Garcetti	CITY OF LOS ANGELES	City of LA
+City of Los Angeles, Police Chief Charlie Beck	City of Los Angeles Police	LAPD
+City of Los Angeles, Third District)	CITY OF LOS ANGELES	City of LA
+City of Los Angeles[1	CITY OF LOS ANGELES	City of LA
+City of Lynwood : GOVERNOR'S VETO MESSAGE	CITY OF LYNWOOD	City of Lynwood
+City of Lynwood: GOVERNOR'S VETO MESSAGE	CITY OF LYNWOOD	City of Lynwood
+City of Madera, Mayor Robert L. Poythress	City of Madera	City of Madera
+City of Malibu Mayor, Lou LaMonte	CITY OF MALIBU	City of Malibu
+City of Manteca Mayor Willie W. Weatherford	CITY OF MANTECA	City of Manteca
+City of Marin County Cable Rate Regulation Joint Powers Authority	Marin County Cable Rate Regulation Joint Powers Authority	Marin Cable JPA
+City of Marin Institute	Alcohol Justice (formerly Marin Institute)	Marin Institute
+City of Marina Mayor Bruce Delgado	CITY OF MARINA	City of Marina
+City of Martinez Mayor Brianne Zorn	CITY OF MARTINEZ	City of Martinez
+City of Martinez, Mayor Rob Schroder	CITY OF MARTINEZ	City of Martinez
+City of Marysville Police Department, Chief of Police Christian S. Sachs	City of Marysville Police Department	Marysville PD
+City of Mayfair Plastics and Mayfair Packaging	Mayfair Plastics and Mayfair Packaging	Mayfair
+City of Mayor of Rosemead	CITY OF ROSEMEAD	City of Rosemead
+City of Mayor of Santa Cruz	City of Santa Cruz City Council	City of Santa Cruz
+City of Merced - Office of the Mayor	CITY OF MERCED	City of Merced
+City of Military Officers Association of America-California Council of Chapters	Military Officers Association of America	MOAA
+City of Milpitas, Mayor Jose Esteves	CITY OF MILPITAS	City of Milpitas
+City of Modesto [SPONSOR] None on file	CITY OF MODESTO	City of Modesto
+City of Monrovia (February 23, 2007 version)	CITY OF MONROVIA	City of Monrovia
+City of Monrovia, Police Chief Joseph A. Santoro	CITY OF MONROVIA	City of Monrovia
+City of Monrovia, Police Department	CITY OF MONROVIA	City of Monrovia
+City of Montclair, Fire Corporation	City of Montclair Fire Department	Montclair Fire
+City of Montebello (Community Development)	City of Montebello	City of Montebello
+City of Monterey (formerly listed as City of Monterey)	CITY OF MONTEREY	City of Monterey
+City of Monterey Mayor Chuck Della Sala	CITY OF MONTEREY	City of Monterey
+City of Monterey Mayor Roberson	CITY OF MONTEREY	City of Monterey
+City of Monterey Mayor Tyller Williamson	CITY OF MONTEREY	City of Monterey
+City of Monterey Park (prior version)	CITY OF MONTEREY PARK	City of Monterey Park
+City of Monterey Park 5/5/99	CITY OF MONTEREY PARK	City of Monterey Park
+City of Monterey Park, City of	CITY OF MONTEREY PARK	City of Monterey Park
+City of Monterey Park, Mayor Pro Tem	CITY OF MONTEREY PARK	City of Monterey Park
+City of Monterey)	CITY OF MONTEREY	City of Monterey
+City of Monterey, Mayor Tyller Williamson	CITY OF MONTEREY	City of Monterey
+City of Moreno Valley (as amended April 26, 2006)	CITY OF MORENO VALLEY	City of Moreno Valley
+City of Morgan Hill (formerly listed as City of Morgan Hill)	CITY OF MORGAN HILL	City of Morgan Hill
+City of Motion Picture Association of America	Motion Picture Association of America	MPAA
+City of Mountain View, City	CITY OF MOUNTAIN VIEW	City of Mountain View
+City of Multi-City TSM Agency	Multi-City TSM Agency	Multi-City TSM
+City of Murrieta (as of 4/10/25)	CITY OF MURRIETA	city
+City of Murrieta, Gary Thomasian, Mayor	CITY OF MURRIETA	city
+City of Napa County Board of Supervisors	Napa County Board of Supervisor	county
+City of Navy, Department of the, Commander Navy Region Southwest	Department of the Navy, Navy Region Southwest	navy
+City of Newark Chief of Police Ray Samuels	CITY OF NEWARK	city
+City of Norco Mayor Robin Grundmeyer	CITY OF NORCO	city
+City of Norco, Mayor Robin Grundmeyer	CITY OF NORCO	city
+City of North Bay Leadership Council	NORTH BAY LEADERSHIP COUNCIL	business assoc
+City of Northern California Power Authority	Northern California Power Authority	jpa
+City of Northern California Water Association	NORTHERN CALIFORNIA WATER ASSOCIATION	water
+City of Norwalk (5/11/98)	City of Norwalk	city
+City of Norwalk (February 23, 2007 version)	City of Norwalk	city
+City of Norwalk (Mayor)	City of Norwalk	city
+City of Norwalk (prior version)	City of Norwalk	city
+City of Oakland (March 19	CITY OF OAKLAND	city
+City of Oakland (prior version)	CITY OF OAKLAND	city
+City of Oakland - City Attorney's Office (prior version)	CITY OF OAKLAND	city
+City of Oakland -Department of Violence Prevention	CITY OF OAKLAND	city
+City of Oakland Mayor Ron Dellums	CITY OF OAKLAND	city
+City of Oakland, City Attorney's Office	CITY OF OAKLAND	city
+City of Oakland, Council President Nikki Fortunato Bas / District 2	CITY OF OAKLAND	city
+City of Oakland, Fire Chief, Daniel D. Farell	CITY OF OAKLAND	city
+City of Oakland, Mayor Ronald Dellums	CITY OF OAKLAND	city
+City of Oakland, Mayor Ronald V. Dellums	CITY OF OAKLAND	city
+City of Oakland, Office of Mayor Libby Schaff	CITY OF OAKLAND	city
+City of Oakland/Oakland Fire Services Agency	CITY OF OAKLAND	city
+City of Oakley (February 23, 2007 version)	City of Oakley	city
+City of Oakley Mayor Higgins	City of Oakley	city
+City of Ontario, Police Department	CITY OF ONTARIO	city
+City of Operating Engineers Local Union No. 3	Operating Engineers Local Union No. 3	union
+City of Orinda, in support	CITY OF ORINDA	city
+City of Palm Desert (letter dated prior to amendment dated March 24, 2009)	CITY OF PALM DESERT	city
 A. Philip Randolph Institute - San Francisco	A. Philip Randolph Institute	A. Philip Randolph Institute
 AAPIs for Civic Empowerment - Education Fund	AAPI Force	AAPI Force
 AARP (prior version)	AARP	AARP
