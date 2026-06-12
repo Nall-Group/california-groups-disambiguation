@@ -28,3 +28,7 @@ NEW_CHAPTER / INVALID:<csv>. Then group findings into tasks.
 - Chambers from wave 1 -> tasks 1226/1229-1231; individuals/fragments -> 1224/1225; DA offices -> 1198.
 - needs_audit cursor advanced; ~66,483 remain.
 - IMPROVEMENT for future waves: have disposition agents WRITE output to a TSV file so grouping is scriptable instead of hand-transcribed.
+
+## Overnight session progress (waves 2-12)
+- Processed through wave 12. needs_audit remaining tracked in gaps_needs_audit.txt.
+- All dispositions accumulate in gaps_master_*.{tsv,txt}; standing tasks 1242-1245 consume them.
