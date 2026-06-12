@@ -995,6 +995,75 @@ AGB:DW:nl 5/11/11 Senate Floor Analyses
 AGB:JA:d 9/11/13 Senate Floor Analyses
 AGB:kc:d 5/14/12 Senate Floor Analyses
 AGB:RJG:do 8/25/10 Senate Floor Analyses
+AJR
+AJR 65
+al | |5 days
+al | |5 days | | | |ment
+AL/RM:k 5/28/13 Senate Floor Analyses
+AL:nl:d 6/3/14 Senate Floor Analyses
+Alameda County Transportation AuthorityAssociation for Los Angeles Deputy Sheriffs\tINVALID:conjoined\t-\tAlameda
+Alameda County Transportation Commission writes\tINVALID:narrative\t-\tAlameda
+Alameda County Transportation Improvement Agency (in concept)\tCONSOLIDATE\tALAMEDA COUNTY TRANSPORTATION IMPROVEMENT AUTHORITY\tAlameda
+Alameda County Waste Management Authority, Alhambra, Arcadia, Berkeley, California State\tINVALID:conjoined\t-\tAlameda
+Alameda County Waste Management Authority, Allied Waste Industries, California Advocates\tINVALID:conjoined\t-\tAlameda
+Alameda County Waste Management Authority, California Biomass, Inc., Californians Against\tINVALID:conjoined\t-\tAlameda
+Alameda County Waste Management Authority, California Forestry Association, Californians\tINVALID:conjoined\t-\tAlameda
+Alameda County Waste Management Authority, California League of Conservation Voters, California Refuse Removal Council, California\tINVALID:conjoined\t-\tAlameda
+Alameda County Youth Development, Inc./George P\tINVALID:conjoined\t-\tAlameda
+Alameda County Youth Development, Inc./George P. Scotlan Youth & Family Center\tINVALID:conjoined\t-\tAlameda
+Alameda County, Breast Cancer Early\tINVALID:conjoined\t-\tAlameda
+Alameda County, Concerned Citizens About Vasco Experiences (CRAVE), Contra Costa\tINVALID:conjoined\t-\tAlameda
+Alameda County, Concerned Citizens About Vasco Experiences (CRAVE), Contra Costa County, Golden Gate Bridge, Highway and Transportation District S\tINVALID:conjoined\t-\tAlameda
+Alameda County, Concerned Citizens About Vasco Experiences (CRAVE), Contra Costa County, Golden Gate Bridge, Highway and Transportation DistrictS\tINVALID:conjoined\t-\tAlameda
+Alameda County, County Supervisor Nate Miley, District 4\tINVALID:individuals\t-\tAlameda
+Alameda County, District Attorney Nancy O'Malley\tINVALID:individuals\t-\tAlameda
+Alameda County, Office of the District Attorney\tCONSOLIDATE\tDistrict Attorneys\tAlameda
+Alameda County, Supervisor, Nate Miley\tINVALID:individuals\t-\tAlameda
+Alameda County, Supervisor, Wilma Chan\tINVALID:individuals\t-\tAlameda
+Alameda District Attorney\tCONSOLIDATE\tDistrict Attorneys\tAlameda
+Alameda District Attorney O'Malley\tCONSOLIDATE\tDistrict Attorneys\tAlameda
+Alameda Drinking Driver Program\tNEW_CANONICAL\t-\tAlameda
+Alameda Fire Fighters, Local 689\tCONSOLIDATE\tAlameda Firefighters\tAlameda
+Alameda Firefighters Association\tCONSOLIDATE\tAlameda Firefighters\tAlameda
+Alameda Firefighters Association, Local 689\tCONSOLIDATE\tAlameda Firefighters\tAlameda
+Alameda Firefighters, IAFF Local 689\tCONSOLIDATE\tAlameda Firefighters\tAlameda
+ALAMEDA FREMONT UNIFIED 30,237\tINVALID:invalid\t-\tAlameda
+ALAMEDA HAYWARD UNIFIED 21,693\tINVALID:invalid\t-\tAlameda
+Alameda Health Consortium, American Cancer\tINVALID:conjoined\t-\tAlameda
+Alameda Labor Council American Federation of State, County and Municipal Employees\tINVALID:conjoined\t-\tAlameda
+Alameda Municipal Power, City of\tCONSOLIDATE\tAlameda Municipal Power\tAlameda
+ALAMEDA NEW HAVEN UNIFIED 13,787\tINVALID:invalid\t-\tAlameda
+ALAMEDA OAKLAND UNIFIED 53,462\tINVALID:invalid\t-\tAlameda
+Alameda Police Department, Chief Michael Noonan\tCONSOLIDATE\tCity of Alameda Police Department\tAlameda
+Alameda Unified School District, California Association of School Business Officials\tINVALID:conjoined\t-\tAlameda
+Alameda Unified School DistrictMiddletown High School (Shasta Co)\tINVALID:conjoined\t-\tAlameda
+ALAMEDA |3 |SM & CS |Economics|NO |within |within|after |YES |NONE\tINVALID:invalid\t-\tAlameda
+Alameda-Contra Costa Transit District, American Federation of State, County and Municipal Employees, Association of California Water\tINVALID:conjoined\t-\tAlameda
+Alameda-Contra Costa Transit District, BMW\tINVALID:conjoined\t-\tAlameda
+Alameda-Contra Costs Medical Association (7/23/2013)\tCONSOLIDATE\tALAMEDA-CONTRA COSTA MEDICAL ASSOCIATION\tAlameda
+Alamo Forest Products, Allweather Wood\tINVALID:conjoined\t-\tAlamo
+Alan Autry, Mayor of Fresno\tCONSOLIDATE\tCITY OF FRESNO\tAlan
+Alan D. Bersin, U.S. Attorney, Southern District of California\tCONSOLIDATE\tU.S. Attorney\tAlan
+Alan Duckworth\tINVALID:individuals\t-\tAlan
+Alan Haffa, Councilmember\tINVALID:individuals\t-\tAlan
+Alan Ishida, Chairman, Tulare County Board of Supervisors\tCONSOLIDATE\tTulare County Board of Supervisors\tAlan
+Alan L. Rosen, esq., Rosen and Loeb\tNEW_CANONICAL\t-\tAlan
+Alan Lee - Big Bear Lake City Councilmember\tINVALID:individuals\t-\tAlan
+Alan Lee, Member, Big Bear Lake City Council\tINVALID:individuals\t-\tAlan
+Alan Lowenthal, Member of Congress\tINVALID:individuals\t-\tAlan
+Alan P. Feren, MD\tINVALID:individuals\t-\tAlan
+Alan Slater, Chief Executive Officer, Superior Court\tCONSOLIDATE\tSuperior Court\tAlan
+Alan Steinbach, MD, Ph.D., Associate Clinical Professor: School of Public Health\tINVALID:individuals\t-\tAlan
+Alarmingly, there are no age restrictions on the sale of these products, leaving young people, who are particularly vulnerable to deceptive marketing\tINVALID:narrative\t-\tAlarmingly
+Albany Councilmember Rochelle Nelson\tINVALID:individuals\t-\tAlbany
+Albany Unified School District, Dept. of Education Child: Development Program\tCONSOLIDATE\tAlbany Unified School District\tAlbany
+Albany, City of\tCONSOLIDATE\tCITY OF ALBANY\tAlbany
+Albert Aubin\tINVALID:individuals\t-\tAlbert
+Albert Woolstencroft, San Diego, CA\tINVALID:individuals\t-\tAlbert
+Albion River Watershed Protection Association / Friends of Salmon Creek\tINVALID:conjoined\t-\tAlbion
+All letters of support and opposition filed with the Committee
+Alliance of Needles Guineapigs Radiated in
+Alliance |Rio Bravo Poso
 also
 Not known
 PageB
