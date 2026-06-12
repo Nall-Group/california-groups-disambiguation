@@ -11,7 +11,7 @@ To edit this file (post questions, write answers), join this queue first. Only t
 ## Open Questions
 
 ### Q11 (Task 1243, RA-Alpha) — state association vs. national-parent placement (structural)
-**Status:** Open
+**Status:** Answered
 
 While doing the gaps consolidation I found the audit (and some prior waves) paired **independent California state associations to their NATIONAL same-name counterparts**, and in a few cases nested the CA org as a `chapter` under the national one. Some of these are *legitimate* federation/chapter relationships; others are *separate* organizations that happen to share a name pattern. I routed the pending gap variants to the existing California node to resolve the gaps, but the parent relationship needs a ruling.
 
@@ -20,7 +20,7 @@ Specifically:
 - **California Association of Health Underwriters (CAHU)** is a `chapter` under **NATIONAL ASSOCIATION OF HEALTH UNDERWRITERS** — this one *is* a real state chapter of the NAHU federation, so I believe it should **stay** as a chapter. Confirm?
 - Other audit mis-pairings I left **pending** (org begins "California…", target is the national "American…/National…"): California Assoc. of Neurological Surgeons (CANS) → American Assoc. of Neurological Surgeons; California Assoc. of Naturopathic Physicians (CANP) → American Assoc. of Naturopathic Physicians; California Assoc. of Nurse Anesthetists → American Assoc. of Nurse Anesthetists; CA Art Education Assoc. → National Art Education Assoc.; CA Assoc. for Music Education → National Assoc. for Music Education; CA Farmers Union → National Farmers Union. For each: should the CA org be its **own canonical** (independent), or a **chapter** under the national parent? A general rule would let me process the rest consistently.
 
-**Answer:**
+**Answer:** General rule: **if the CA org is NOT affiliated with the national org (i.e. a legally independent state organization that merely shares a name pattern), it should be moved OUT — promoted to its own top-level canonical** (and any wrongly-nested CA children moved out of the national parent). Only keep it as a `chapter` when it is a genuine state chapter/affiliate of the national federation. The RA must **do their own research per-org (e.g. web search)** to determine affiliation before deciding — do not assume from the name pattern. So: promote **California Bankers Association** to its own canonical (move CBA children out of AMERICAN BANKERS ASSOCIATION). For **CAHU**, confirm via research and keep as a chapter only if it really is a NAHU state chapter. Apply the same research-then-decide rule to CANS, CANP, CA Nurse Anesthetists, CA Art Education Assoc., CA Assoc. for Music Education, CA Farmers Union, and any future same-name CA/national pairings.
 
 ### Q10 (Task 1207, RA-Beta) — 3 police/sheriff pairings deferred (tangled pre-existing structure)
 **Status:** Answered
