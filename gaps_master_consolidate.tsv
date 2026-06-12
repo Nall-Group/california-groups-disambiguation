@@ -143,7 +143,12 @@ California Society of Pathologists (prior version)	CALIFORNIA SOCIETY OF PATHOLO
 California Solar Energy Industries Association (CalSEIA)	CA Solar Energy Industries Association	calseia
 California Spa & Pool Industry Education Council, if	California Spa & Pool Industry Education Council	spa_pool
 California Speech Pathologists and Audiologists in Private Practice	California Speech Pathologists and Audiologists in Private	speech_path
+California State Association of Counties (as introduced)	CALIFORNIA STATE ASSOCIATION OF COUNTIES	csac
+California State Association of Counties (as proposed to be amended)	CALIFORNIA STATE ASSOCIATION OF COUNTIES	csac
+California State Association of Counties (CSAC - Sponsor)	CALIFORNIA STATE ASSOCIATION OF COUNTIES	csac
+California State Association of Counties (in concept)	CALIFORNIA STATE ASSOCIATION OF COUNTIES	csac
 California State Association of Electrical Workers (prior version)	CALIFORNIA STATE ASSOCIATION OF ELECTRICAL WORKERS	ca_electrical_workers
+California State Association of |Counties	CALIFORNIA STATE ASSOCIATION OF COUNTIES	csac
 California State Automobile Association (concerns)	CALIFORNIA STATE AUTOMOBILE ASSOCIATION	csaa
 California State Bar, Business Law Section	Business Law Section	business_law_section
 California State Conference of the National Association for the Advancement of Colored People (California NAACP)	CALIFORNIA STATE CONFERENCE OF THE NATIONAL ASSOCIATION	ca_naacp
@@ -166,6 +171,7 @@ California Teachers Association Community College Association	Community College 
 California Teachers Association/Community College Association	Community College Association (CTA)	cta_cca
 California Teamsters Public Affairs Council (prior version)	California Teamsters Public Affairs Council	teamsters_pac
 California Union of Safety Employees (support of penalty increases only)	CALIFORNIA UNION OF SAFETY EMPLOYEES	cause
+California Veterans of Foreign Wars of the United States	Veterans of Foreign Wars of the United States	vfw
 California Voter Foundation (prior version)	California Voter Foundation	voter_foundation
 California, Association of California Water Agencies	ASSOCIATION OF CALIFORNIA WATER AGENCIES	acwa
 California, Solid Waste Association of North	SOLID WASTE ASSOCIATION OF NORTH AMERICA	swana
@@ -611,6 +617,17 @@ Lawyers' Committee for Civil Rights of the San Francisco Bay Area (co	Lawyers' C
 Leadership Public Schools-Hayward	Leadership Public Schools	leadership public schools
 LeadingAge - Oppose	LeadingAge California	leadingage
 LeadingAge California - Oppose	LeadingAge California	leadingage
+League of CA Cities (in concept)	League of Califoria Cities	league of california cities
+League of California Cities (Los Angeles Co. Div)	League of Califoria Cities	league of california cities
+League of California Cities - Central Valley Division	League of Califoria Cities	league of california cities
+League of California Cities - Riverside County Division	League of Califoria Cities	league of california cities
+League of California Cities Los Angeles County Division	League of Califoria Cities	league of california cities
+League of California cities writes	League of Califoria Cities	league of california cities
+League of California Cities, City of	League of Califoria Cities	league of california cities
+League of California Cities, in opposition	League of Califoria Cities	league of california cities
+League of California Cities, Los Angeles	League of Califoria Cities	league of california cities
+League of California Cities, San Diego Division	League of Califoria Cities	league of california cities
+League of California Cities-Los Angeles County	League of Califoria Cities	league of california cities
 League of Humane Voters-California Chapter	League of Humane Voters-California Chapter	league of humane voters california chapter
 League, Sierra Club California	THE SIERRA CLUB CALIFORNIA	sierra club california
 Legal Aid Society of San Francisco - Employment Law Center	Legal Aid Society of San Francisco Employment Law Center	legal aid society san francisco employment law center
@@ -636,16 +653,27 @@ Los Angeles College Faculty	LOS ANGELES COLLEGE FACULTY GUILD	los angeles colleg
 Los Angeles College Faculty Guild, AFT Local 1521	Los Angeles College Faculty Guild, AFT Local 1521	los angeles college faculty guild local 1521
 Los Angeles County Board of Supervisors (in concept)	Los Angeles County Board of Supervisors	los angeles county board of supervisors
 Los Angeles County Board of Supervisors (prior version)	Los Angeles County Board of Supervisors	la-county-board-supervisors
+Los Angeles County Deputy Probation Officers	Los Angeles County Probation Officers' Union, AFSCME	la-county-probation-officers-union
+Los Angeles County Deputy Probation Officers' Union, AFSCME Local 685	Los Angeles County Probation Officers' Union, AFSCME	la-county-probation-officers-union
+Los Angeles County Deputy Probation Officers, AFSCME, Local 685	Los Angeles County Probation Officers' Union, AFSCME	la-county-probation-officers-union
 Los Angeles County Deputy Sheriffs, Inc	Association for Los Angeles Deputy Sheriffs, Inc. (ALADS)	la-deputy-sheriffs
 Los Angeles County Fair (Fairplex)	Los Angeles County Fair	la-county-fair
 Los Angeles County Fair Association - Fairplex	Los Angeles County Fair Association	la-county-fair
 Los Angeles County Fair: Fairplex	Los Angeles County Fair	la-county-fair
 Los Angeles County Inter-agency Council on Child Abuse and Neglect	INTER-AGENCY COUNCIL ON CHILD ABUSE AND NEGLECT	ican-child-abuse-neglect
+Los Angeles County Probation Department, Local 685	Los Angeles County Probation Officers' Union, AFSCME	la-county-probation-officers-union
 Los Angeles County Probation Managers Association, AFSCME Local 1967	Los Angeles County Probation Managers Association, AFSCME	la-county-probation-managers
+Los Angeles County Probation Officers Union AFSME Local 685	Los Angeles County Probation Officers' Union, AFSCME	la-county-probation-officers-union
+Los Angeles County Probation Officers Union, AFSCME Local	Los Angeles County Probation Officers' Union, AFSCME	la-county-probation-officers-union
+Los Angeles County Probation Officers' Association	Los Angeles County Probation Officers' Union, AFSCME	la-county-probation-officers-union
 Los Angeles County Professional Peace Officers Association (prior version)	LOS ANGELES COUNTY PROFESSIONAL PEACE OFFICERS ASSOCIATION	la-county-ppoa
 Los Angeles County Supervisor, Don Knabe	Los Angeles County Board of Supervisors	la-county-board-supervisors
+Los Angeles Deputy Probation Officers Union	Los Angeles County Probation Officers' Union, AFSCME	la-county-probation-officers-union
+Los Angeles Deputy Probation Officers Union, AFSCME, Local 685	Los Angeles County Probation Officers' Union, AFSCME	la-county-probation-officers-union
 Los Angeles Deputy Sheriffs Association, Inc	Association for Los Angeles Deputy Sheriffs, Inc. (ALADS)	la-deputy-sheriffs
 Los Angeles LGBT Center (prior version)	LA LGBT Center	la-lgbt-center
+Los Angeles Probation Officer's Union	Los Angeles County Probation Officers' Union, AFSCME	la-county-probation-officers-union
+Los Angeles Probation Officers	Los Angeles County Probation Officers' Union, AFSCME	la-county-probation-officers-union
 Los Angeles Youth Justice Coalition	YOUTH JUSTICE COALITION	youth-justice-coalition
 Los Angeles/Orange Counties Building and Construction: Trades Council	Los Angeles/Orange Counties Building and Construction Trades Council	la-orange-building-trades
 Los Padres Sierra Club	Sierra Club, Santa Lucia Chapter	sierra-club-santa-lucia
@@ -675,8 +703,10 @@ Military Officers Association of American, California Council of Chapters	Milita
 Military Officers Association-California Council of Chapters	Military Officers Association of America	military officers association of america
 Ming's Resources - East Bay	Mings Resources East Bay	mings resources east bay
 Mission Readiness: Council for a Strong America	Mission Readiness Council for a Strong America	mission readiness council for a strong america
+Modesto City Fire Fighters Association	International Association of Fire Fighters	international association of fire fighters
 MOMS (Making Our Milk Safe)	MAKING OUR MILK SAFE	making our milk safe
 Mono County Deputy Sheriffs Association (MCDSA)	Deputies of the Mono County Deputy Sheriff's Association	mono county deputy sheriffs association
+Monrovia Firefighters - Local 2415	International Association of Fire Fighters	international association of fire fighters
 Montebello Chamber	Montebello Chamber of Commerce and Industry	Montebello Chamber of Commerce
 Monterey Peninsula YIMBY	MONTEREY PENINSULA YIMBY	Monterey Peninsula YIMBY
 Monterey Zoo	Monterey Zoological Society	Monterey Zoo
@@ -789,8 +819,12 @@ PacifiCare of California (In concept)	PacifiCare of California/United Healthcare
 PacificCare (prior version)	PacificCare Health Systems	pacificcare
 Palm Desert Chamber	Palm Desert Chamber of Commerce	palm desert chamber of commerce
 Palm Springs Police Chief	City of Palm Springs Police	city of palm springs police
+Palo Alto Professional Firefighters, Local 1319	International Association of Fire Fighters	international association of fire fighters
 Palo Verde CCD	Palo Verde Community College District	palo verde community college district
+Palos Verdes/south Bay Audubon	National Audubon Society	national audubon society
 Parents, Families and Friends of Lesbians and Gays, Central	Parents, Families and Friends of Lesbians and Gays Central Coast	parents families and friends of lesbians and gays central coast
+Pasadena Fire Fighters, Local 809	International Association of Fire Fighters	international association of fire fighters
+Pasadena NAACP	National Association for the Advancement of Colored People (NAACP)	national association for the advancement of colored people naacp
 Paula Lane Action Network (PLAN), Sonoma County, CA	Paula Lane Action Network	paula lane action network
 PAW - PAC	Paw Pac	paw pac
 PAW-PAC	Paw Pac	paw pac
@@ -801,6 +835,7 @@ Pearl Harbor Survivors Association, Inc	Pearl Harbor Survivors Association, Cali
 Peninsula Corridor Joint Powers Authority (Caltrain)	PENINSULA CORRIDOR JOINT POWERS BOARD	peninsula corridor joint powers board
 People Organized to Win Employment Rights (POWER)	PEOPLE ORGANIZED TO WIN EMPLOYMENT RIGHTS	people organized to win employment rights
 PERB	Public Employment Relations Board	public employment relations board
+Peregrine Audubon Society	National Audubon Society	national audubon society
 PERS Retirement Betterment Committee INC	PERS Retirement Betterment Committee	pers retirement betterment committee
 Personal Assistance Services Council of Los Angeles County (PASC)	The Personal Assistance Services Council, the Los Angeles County IHSS Public Authority	the personal assistance services council the los angeles county ihss public authority
 Personal Insurance Federation of California (Supports identical AB 2552 - Baugh)	Personal Insurance Federation if California	personal insurance federation if california
@@ -1125,6 +1160,9 @@ U-tu Utu Gwaitu Paiute Tribe	Utu Utu Gwaitu Paiute Tribe	utu_gwaitu
 U.S. Green Building Council-California	US Green Building Council	green_building_council
 UAW Local 4811 (UNREG)	UNITED AUTO WORKERS	uaw
 UC-AFT	AMERICAN FEDERATION OF TEACHERS	aft
+UDW	American Federation of State, County and Municipal Employees (AFSCME)	udw_afscme
+UDW Homecare Providers Union	American Federation of State, County and Municipal Employees (AFSCME)	udw_afscme
+UDW/AFSCME Local	American Federation of State, County and Municipal Employees (AFSCME)	udw_afscme
 UFCW- Western States Council	UFCW Western States Council	ufcw_wsc
 Union City Firefighters - Local 1946	International Association of Fire Fighters	iaff
 Union of American Physicians and Dentists (UAPD)/AFSCME Local 206	American Federation of State, County and Municipal Employees (AFSCME)	uapd
@@ -1143,6 +1181,22 @@ UNITE-HERE Local 11	UNITE HERE\!	unite_here
 UNITE/HERE, Local 2	UNITE HERE\!	unite_here
 United Chamber Advocacy Network UCAN	UNITED STATES CHAMBER OF COMMERCE	ucan
 United Chambers Advocacy Network	UNITED STATES CHAMBER OF COMMERCE	ucan
+United Domestic Providers of America	American Federation of State, County and Municipal Employees (AFSCME)	udw_afscme
+United Domestic Workers Local 3930	American Federation of State, County and Municipal Employees (AFSCME)	udw_afscme
+United Domestic Workers of America / Afscme, Afl-cio	American Federation of State, County and Municipal Employees (AFSCME)	udw_afscme
+United Domestic Workers of America AFSCME Local 3930/AFL-CIO	American Federation of State, County and Municipal Employees (AFSCME)	udw_afscme
+United Domestic Workers of America, AFSCME	American Federation of State, County and Municipal Employees (AFSCME)	udw_afscme
+United Domestic Workers of America, AFSCME, Local 3930	American Federation of State, County and Municipal Employees (AFSCME)	udw_afscme
+United Domestic Workers of America, Local 3930	American Federation of State, County and Municipal Employees (AFSCME)	udw_afscme
+United Domestic Workers Of America-AFSCME Local 3930	American Federation of State, County and Municipal Employees (AFSCME)	udw_afscme
+United Domestic Workers of America-UDW/AFSCME Local 3930	American Federation of State, County and Municipal Employees (AFSCME)	udw_afscme
+United Domestic Workers of American (UDW)	American Federation of State, County and Municipal Employees (AFSCME)	udw_afscme
+United Domestic Workers, Local 3930	American Federation of State, County and Municipal Employees (AFSCME)	udw_afscme
+United Domestic Workers/AFSCME, Local 3930	American Federation of State, County and Municipal Employees (AFSCME)	udw_afscme
+United Domestic Workers/American Federation of State, County and Municipal	American Federation of State, County and Municipal Employees (AFSCME)	udw_afscme
+United Domestic Workers/American Federation of State, County and Municipal Employees	American Federation of State, County and Municipal Employees (AFSCME)	udw_afscme
+United Domestic Workers/American Federation of State, County and Municipal Employees Local 3930	American Federation of State, County and Municipal Employees (AFSCME)	udw_afscme
+United Domestic Workers/American Federation of State, County and Municipal Employees, Local 3930	American Federation of State, County and Municipal Employees (AFSCME)	udw_afscme
 United Firefighters of Los Angeles City (UFLAC)	International Association of Fire Fighters	iaff
 United Firefighters of Los Angeles County, Local 112	International Association of Fire Fighters	iaff
 United Food & Commercial Workers Union - Western States Council	UNITED FOOD AND COMMERCIAL WORKERS	ufcw_wsc
@@ -1173,6 +1227,13 @@ Valley Oak Children's Services, INC	Valley Oak Children's Services of Chico	vall
 Vasquez & Company, LLC	Vasquez & Company, LLP	vasquez-company
 Ventana Chapter of the Sierra Club	SIERRA CLUB	sierra-club-ventana
 Ventura District Attorney	District Attorneys	ventura-da
+Veterans of Foreign Wars (VFW) - Department of California	Veterans of Foreign Wars of the United States	vfw
+Veterans of Foreign Wars (VFW), Department of California	Veterans of Foreign Wars of the United States	vfw
+Veterans of Foreign Wars - Department of California (VFW)	Veterans of Foreign Wars of the United States	vfw
+Veterans of Foreign Wars of the United States, Department	Veterans of Foreign Wars of the United States	vfw
+Veterans of Foreign Wars of the United States, Dept. of California	Veterans of Foreign Wars of the United States	vfw
+Veterans of Foreign Wars, California Department	Veterans of Foreign Wars of the United States	vfw
+Veterans of Foreign Wars, Dept. of California	Veterans of Foreign Wars of the United States	vfw
 Vietnam Veterans of America - California Council	Vietnam Veterans of America California Council	vva-ca-council
 Vietnam Veterans of America, Inc., South Bay Chapter	Vietnam Veterans of America, Inc - South Bay Chapter	vva-south-bay
 Visit Yosemite | Madera County	Visit Yosemite Madera County	visit yosemite madera county
@@ -1292,6 +1353,29 @@ Zenith Insurance (7/10/96)	ZENITH INSURANCE COMPANY	ZENITH INSURANCE COMPANY
 3. The National Tax Limitation Committee	The National Tax Limitation Committee	National Tax Limitation Committee
 31st District PTSA	Thirty-First District PTSA	PTSA
 324-AFL-CIO	AMERICAN FEDERATION OF LABOR AND CONGRESS OF INDUSTRIAL ORGANIZATIONS	AFL-CIO
+350 Bay Area Action (prior version)	350.org	350org
+350 Bay Area Legislative Bill Review Committee	350.org	350org
+350 Bay Area/Marin	350.org	350org
+350 BayArea	350.org	350org
+350 Canejo-San Fernando Valley	350.org	350org
+350 Conejo - San Fernando Valley	350.org	350org
+350 Conejo-San Fernando Valley	350.org	350org
+350 Conejo/San Fernando Balley	350.org	350org
+350 Contra Costa Action (350 Cca)	350.org	350org
+350 Contra Costa County	350.org	350org
+350 East Bay, Legislative Committee	350.org	350org
+350 Humboldt Grass Roots Climate Action	350.org	350org
+350 Humboldt Grassroots Climate Action	350.org	350org
+350 Humboldt Steering Committee	350.org	350org
+350 Humboldt, Grassroots Climate Action	350.org	350org
+350 Humbolt	350.org	350org
+350 Marin Action	350.org	350org
+350 Sacramento's Transportation Team	350.org	350org
+350 San Diego Action	350.org	350org
+350 Sonoma County	350.org	350org
+350 South Bay Los Angeles (prior version)	350.org	350org
+350 Southland Legislative Committee	350.org	350org
+350 Venture County Climate Hub	350.org	350org
 350SV Palo Alto Climate Team	350.org	350-palo-alto
 360 Humboldt	350.org	350-humboldt
 39th DAA, The Calaveras County Fair & Jumping Frog Jubilee	Calaveras County Fair and Jumping Frog Jubilee	calaveras-fair
@@ -1495,6 +1579,8 @@ ACHLIC (previous version)	ASSOCIATION OF CALIFORNIA LIFE & HEALTH INSURANCE COMP
 ACHLIC is not aware of any complaints or concerns raised	ASSOCIATION OF CALIFORNIA LIFE & HEALTH INSURANCE COMPANIES	w23_07
 ACIC (prior version)	ASSOCIATION OF CALIFORNIA INSURANCE COMPANIES	w23_07
 ACCESS Women's Health Justice - co-sponsor	Access Women's Health Justice	ACCESS
+ACLHIC (as proposed to be amended)	ASSOCIATION OF CALIFORNIA LIFE & HEALTH INSURANCE COMPANIES	ACLHIC
+ACLHIC also	ASSOCIATION OF CALIFORNIA LIFE & HEALTH INSURANCE COMPANIES	ACLHIC
 ACLU (if amended)	American Civil Liberties Union	ACLU
 ACLU (NOTE: SEE COMMENT 5 FOR RECOMMENDATIONS FROM THE APRIL 7 HEARING OF THE SUBCOMMITTEE ON JUVENILE JUSTICE)	American Civil Liberties Union	ACLU
 ACLU (NOTE: SEE COMMENT 8 FOR RECOMMENDATIONS FROM THE APRIL 7, 1997 HEARING OF THE SUBCOMMITTEE ON JUVENILE JUSTICE.)	American Civil Liberties Union	ACLU
@@ -1575,6 +1661,26 @@ Advancing Justice - California	ASIAN AMERICANS ADVANCING JUSTICE	Advancing Justi
 Advancing Justice California	ASIAN AMERICANS ADVANCING JUSTICE	Advancing Justice
 Advancing Justice-Asian Law Caucus	ASIAN AMERICANS ADVANCING JUSTICE	Advancing Justice
 Advancing Justice-LA	ASIAN AMERICANS ADVANCING JUSTICE	Advancing Justice
+Adventist Health (previous version)	ADVENTIST HEALTH	Adventist Health
+Adventist Health (prior version)	ADVENTIST HEALTH	Adventist Health
+Adventist Health - Central Valley Network	ADVENTIST HEALTH	Adventist Health
+Adventist Health - Feather River	ADVENTIST HEALTH	Adventist Health
+Adventist Health - Lodi Memorial	ADVENTIST HEALTH	Adventist Health
+Adventist Health - Simi Valley	ADVENTIST HEALTH	Adventist Health
+Adventist Health - White Memorial	ADVENTIST HEALTH	Adventist Health
+Adventist Health Advantage, Glendale Adventist Medical Center	ADVENTIST HEALTH	Adventist Health
+Adventist Health and Rideout	ADVENTIST HEALTH	Adventist Health
+Adventist Health Care Coalition	ADVENTIST HEALTH	Adventist Health
+Adventist Health Clear Lake	ADVENTIST HEALTH	Adventist Health
+Adventist Health Clearlake	ADVENTIST HEALTH	Adventist Health
+Adventist Health Community Personal Care	ADVENTIST HEALTH	Adventist Health
+Adventist Health Lodi Memorial	ADVENTIST HEALTH	Adventist Health
+Adventist Health Redbud Community Hospital	ADVENTIST HEALTH	Adventist Health
+Adventist Health Redbud Community: Hospital	ADVENTIST HEALTH	Adventist Health
+Adventist Health, Central Valley General Hospital	ADVENTIST HEALTH	Adventist Health
+Adventist Health, Clear Lake	ADVENTIST HEALTH	Adventist Health
+Adventist Health, San Joaquin Community Hospital	ADVENTIST HEALTH	Adventist Health
+Adventist Health/Home Care Services	ADVENTIST HEALTH	Adventist Health
 Adventist HealthCare Coalition	ADVENTIST HEALTH	Adventist
 Adventist Medical Center-Hanford	ADVENTIST HEALTH	Adventist
 Adventist Medical Center-Reedley	ADVENTIST HEALTH	Adventist
@@ -2047,10 +2153,24 @@ American College of Emergency Physicians, State Chapter of Calif., Inc	American 
 American College of Emergency Physicians/California Chapter	American College of Emergency Physicians	ACEP-CA
 American College of Emergency Room Physicians, California Chapter	American College of Emergency Physicians	ACEP-CA
 American College of Nuclear Physicians -: California Chapter (ACNP)	California Chapter of the American College of Nuclear Physicians	ACNP-CA
+American College of Ob-Gyn's District IX	American College of Obstetricians and Gynecologists - District IX	ACOG-DistIX
+American College of OB-GYN's District IX	American College of Obstetricians and Gynecologists - District IX	ACOG-DistIX
+American College of Ob-gyn's District IX	American College of Obstetricians and Gynecologists - District IX	ACOG-DistIX
+American College of Obstetricians & Gynecologists- District IX	American College of Obstetricians and Gynecologists - District IX	ACOG-DistIX
+American College of Obstetricians & Gynecologists-District IX	American College of Obstetricians and Gynecologists - District IX	ACOG-DistIX
 American College of Obstetricians and Gynecologists (based on previous amended version)	AMERICAN COLLEGE OF OBSTETRICIANS AND GYNECOLOGISTS	ACOG-main
 American College of Obstetricians and Gynecologists (prior version)	AMERICAN COLLEGE OF OBSTETRICIANS AND GYNECOLOGISTS	ACOG-main
 American College of Obstetricians and Gynecologists - California	AMERICAN COLLEGE OF OBSTETRICIANS AND GYNECOLOGISTS	ACOG-main
+American College of Obstetricians and Gynecologists - District IX - California	American College of Obstetricians and Gynecologists - District IX	ACOG-DistIX
+American College of Obstetricians and Gynecologists District IX (CA)	American College of Obstetricians and Gynecologists - District IX	ACOG-DistIX
+American College of Obstetricians and Gynecologists District IX California	American College of Obstetricians and Gynecologists - District IX	ACOG-DistIX
 American College of Obstetricians and Gynecologists of California	AMERICAN COLLEGE OF OBSTETRICIANS AND GYNECOLOGISTS	ACOG-main
+American College of Obstetricians and Gynecologists, District IX (CA)	American College of Obstetricians and Gynecologists - District IX	ACOG-DistIX
+American College of Obstetricians and Gynecologists, District IX (California) (prior version)	American College of Obstetricians and Gynecologists - District IX	ACOG-DistIX
+American College of Obstetricians and Gynecologists, District IX (previous version)	American College of Obstetricians and Gynecologists - District IX	ACOG-DistIX
+American College of Obstetricians and Gynecologists, District IX / CA (prior version)	American College of Obstetricians and Gynecologists - District IX	ACOG-DistIX
+American College of Obstetricians and Gynecologists- District IX	American College of Obstetricians and Gynecologists - District IX	ACOG-DistIX
+American College of Obstetricians and Gynecologists-District IX CA	American College of Obstetricians and Gynecologists - District IX	ACOG-DistIX
 American College of Obstetricians Gynecologists	AMERICAN COLLEGE OF OBSTETRICIANS AND GYNECOLOGISTS	ACOG-main
 American College Of Physicians - California Services Chapter	American College of Physicians California Services Chapter	ACP-CAServices
 American College of Physicians- California Services Chapter	American College of Physicians California Services Chapter	ACP-CAServices
@@ -2060,6 +2180,17 @@ American College of Surgeons, San Diego-Imperial Chapter	American College of Sur
 American College of Surgeons- San Diego-Imperial Chapter (prior version)	American College of Surgeons, San Diego	ACS-SanDiego
 American Communication Technology (Oppose)	American Communication Technology	AmCommTech
 American Community Services Agency, Inc	Community Services Agency	CommServAgency
+American Congress of Obstetricians & Gynecologists -District IX	American College of Obstetricians and Gynecologists - District IX	ACOG-DistIX
+American Congress of Obstetricians & Gynecologists, District IX (California)	American College of Obstetricians and Gynecologists - District IX	ACOG-DistIX
+American Congress of Obstetricians & Gynecologists, District IX/California	American College of Obstetricians and Gynecologists - District IX	ACOG-DistIX
+American Congress of Obstetricians and Gynecologists (California)	American College of Obstetricians and Gynecologists - District IX	ACOG-DistIX
+American Congress of Obstetricians and Gynecologists (prior version)	American College of Obstetricians and Gynecologists - District IX	ACOG-DistIX
+American Congress of Obstetricians and Gynecologists, California	American College of Obstetricians and Gynecologists - District IX	ACOG-DistIX
+American Congress of Obstetricians and Gynecologists, District IX (4/6/15 version)	American College of Obstetricians and Gynecologists - District IX	ACOG-DistIX
+American Congress of Obstetricians and Gynecologists, District IX CA	American College of Obstetricians and Gynecologists - District IX	ACOG-DistIX
+American Congress of Obstetricians and Gynecologists, District IX, California (Sponsor	American College of Obstetricians and Gynecologists - District IX	ACOG-DistIX
+American Congress of Obstetricians and Gynecologists, District IX/California	American College of Obstetricians and Gynecologists - District IX	ACOG-DistIX
+American Congress of Obstetricians and Gynecologists, District IX: California	American College of Obstetricians and Gynecologists - District IX	ACOG-DistIX
 American Council of Engineering Companies (5/1)	AMERICAN COUNCIL OF ENGINEERING COMPANIES	ACEC
 American Council of Engineering Companies (ACEC) of California	American Council of Engineering Companies of California (ACEC CA)	ACEC-CA
 American Council of Engineering Companies (based on introduced version of AB 320)	AMERICAN COUNCIL OF ENGINEERING COMPANIES	ACEC
@@ -2249,6 +2380,16 @@ American Homeowners Resource Center Over 25 homeowners	AMERICAN HOMEOWNERS RESOU
 American Indian Recruitment Project, University of California, Los Angeles	American Indian Recruitment Project, UCLA	indian_recruitment
 American Indian Student Association, UC Irvine	American Indian Student Association, University of California, Irvine	indian_student
 American Indiana Tobacco Education Network	Tobacco Education Network	tobacco_ed
+American Institute of Architects (AIA) California Council	American Institute of Architects - AIA California Council	aia_cc
+American Institute of Architects (AIA), California Council	American Institute of Architects - AIA California Council	aia_cc
+American Institute of Architects California Council (AIACC)	American Institute of Architects - AIA California Council	aia_cc
+American Institute of Architects, California Chapter (co-author)	American Institute of Architects - AIA California Council	aia_cc
+American Institute of Architects, California Council (AIA CC)	American Institute of Architects - AIA California Council	aia_cc
+American Institute of Architects, California Council (AIACC, co-sponsor)	American Institute of Architects - AIA California Council	aia_cc
+American Institute of Architects, California Council California	American Institute of Architects - AIA California Council	aia_cc
+American Institute of Architects, California Counsel	American Institute of Architects - AIA California Council	aia_cc
+American Institute of Architects, California Counsel (AIACC)	American Institute of Architects - AIA California Council	aia_cc
+American Institute of Architects, California: Council	American Institute of Architects - AIA California Council	aia_cc
 American Institute of Architects-Los Angeles chapter	American Institute of Architects - Los Angeles	aia_la
 American Insurance Assn. (Co-sponsor)	AMERICAN INSURANCE ASSOCIATION	insurance_assn
 American Insurance Association (in print version)	AMERICAN INSURANCE ASSOCIATION	insurance_assn
@@ -2304,6 +2445,15 @@ American Nurses Association/California Chapter	AMERICAN NURSES ASSOCIATION	ANA C
 American Nurses Association: of California	AMERICAN NURSES ASSOCIATION	ANA California
 American Occupational Therapy Association (to prior versions)	AMERICAN OCCUPATIONAL THERAPY ASSOCIATION	AOTA
 American of Federal, State, County and Municipal Employees, AFL-CIO (AFSCME)	American Federation of State, County and Municipal Employees (AFSCME)	AFSCME
+American Planning Assoc., CA	AMERICAN PLANNING ASSOCIATION	APA
+American Planning Association (As amended)	AMERICAN PLANNING ASSOCIATION	APA
+American Planning Association (CA Chapter)	AMERICAN PLANNING ASSOCIATION	APA
+American Planning Association - California	AMERICAN PLANNING ASSOCIATION	APA
+American Planning Association, California Chapter (*based on June 21, 2018 version)	AMERICAN PLANNING ASSOCIATION	APA
+American Planning Association, California Chapter (if amended)	AMERICAN PLANNING ASSOCIATION	APA
+American Planning Association, California Chapter (in concept	AMERICAN PLANNING ASSOCIATION	APA
+American Planning Association, California chapter - SUPPORT	AMERICAN PLANNING ASSOCIATION	APA
+American Planning Association, California Chapter [support	AMERICAN PLANNING ASSOCIATION	APA
 American Psychiatric Nurses Association, California: Chapter	American Psychiatric Nurses Association	APNA
 American Psychological Association - Division of Clinical Neuropsychology	American Psychological Association	APA-Psych
 American Psychological Association, Division of Clinical: Neuropsychology	American Psychological Association	APA-Psych
@@ -2325,6 +2475,15 @@ American Specialty Health Plans (ASHP) also	AMERICAN SPECIALTY HEALTH PLANS	spec
 American Specialty Health Plans (prior version)	AMERICAN SPECIALTY HEALTH PLANS	specialtyhealth
 American Stores (4/25/95)	American Stores	stores
 American Stroke Association Co-sponsor)	AMERICAN HEART ASSOCIATION/AMERICAN STROKE ASSOCIATION	stroke
+American Subcontractors Assn. California, Inc	American Subcontractors Association of America	subcontractors
+American Subcontractors Assn., CA	American Subcontractors Association of America	subcontractors
+American Subcontractors Assoc. California	American Subcontractors Association of America	subcontractors
+American Subcontractors Assoc. of CA	American Subcontractors Association of America	subcontractors
+American Subcontractors Assoc.-CA	American Subcontractors Association of America	subcontractors
+American Subcontractors Association CA, Inc. (as amended)	American Subcontractors Association of America	subcontractors
+American Subcontractors Association of California (ASAC)	American Subcontractors Association of America	subcontractors
+American Subcontractors Association-california	American Subcontractors Association of America	subcontractors
+American Subcontractors' Association of California	American Subcontractors Association of America	subcontractors
 American Teledentistry Association (ATDA), a business league representing several direct-to-consumer teleorthodontics companies	American Teledentistry Association	teledentistry
 American Water Works Association, California/Nevada section	California-Nevada American Water Works Association	waterworks
 American Waterways Operators, Baydelta	AMERICAN WATERWAYS OPERATORS	waterways
@@ -2360,6 +2519,7 @@ and Association of Regional Center Agencies	ASSOCIATION OF REGIONAL CENTER AGENC
 and Birth Control Pharmacist write jointly	Birth Control Pharmacist	Birth Control Pharmacist
 and Brady California write to express our	Brady and Brady California	Brady California
 and Burlington Northern Railroads	Burlington Northern Railroad	Burlington Northern
+and California Alliance for Retired Americans	CALIFORNIA ALLIANCE FOR RETIRED AMERICANS	CARA
 and California Apartment Association	CALIFORNIA APARTMENT ASSOCIATION	CAA
 and California Communities United Institute	CALIFORNIA COMMUNITIES UNITED INSTITUTE	California Communities United Institute
 and California Land Title Association	California Land Title Association	CLTA
@@ -2372,6 +2532,8 @@ and California State Association of Counties	CALIFORNIA STATE ASSOCIATION OF COU
 and California State Council of Laborers	CALIFORNIA STATE COUNCIL OF LABORERS	CSCL
 American Academy Of Pediatrics, California	AMERICAN ACADEMY OF PEDIATRICS	American Academy of Pediatrics
 California Association of County Veterans Service Officers (CACVSO)	Association of County Veterans Service Officers	CACVSO
+California Association of Health Plans (prior version)	CALIFORNIA ASSOCIATION OF HEALTH PLANS	CAHP
+California Rural Legal Assistance Foundation (CRLAF)	CALIFORNIA RURAL LEGAL ASSISTANCE FOUNDATION	CRLAF
 California Veterinary Medical Association (CVMA)	CALIFORNIA VETERINARY MEDICAL ASSOCIATION	CVMA
 Democrats for Israel - CA	Democrats for Israel	Democrats for Israel
 Education Trust West	EDUCATION TRUST-WEST	Education Trust West
@@ -2389,6 +2551,7 @@ American Council of Engineering Companies California	American Council of Enginee
 California Employment Lawyers Association (CELA)	Employment Lawyers Association	CELA
 California Nevada Conference of Operating Engineers	CALIFORNIA-NEVADA CONFERENCE OF OPERATING ENGINEERS	CA-NV Operating Engineers
 California ProLife Council, Inc	California Pro-Life Council	California ProLife Council
+California Rural Legal Assistance Foundation (CRLA)	CALIFORNIA RURAL LEGAL ASSISTANCE FOUNDATION	CRLAF
 California Taxpayers Association (Cal-Tax)	California Taxpayers Association	CalTax
 Children's Defense Fund- California	CHILDREN'S DEFENSE FUND	Children's Defense Fund
 Climate Reality Project San Fernando Valley Chapter	CLIMATE REALITY PROJECT - SAN FERNANDO VALLEY CHAPTER	Climate Reality Project
@@ -2427,6 +2590,7 @@ Associated General Contractors - San Diego Chapter	ASSOCIATED GENERAL CONTRACTOR
 CFT- a Union of Educators & Classified Professionals	CFT - a Union of Educators & Classified Professionals	CFT
 DPA	DEPARTMENT OF PERSONNEL ADMINISTRATION	Dept of Personnel Administration
 Escondido	CITY OF ESCONDIDO	City government
+Glendale Adventist Medical Center	ADVENTIST HEALTH	Adventist Health
 Los Angeles County Probation Officers Union, AFSCME Local 685	Los Angeles County Probation Officers Union	LA Probation Officers Union 685
 Los Angeles County Probation Officers Union, AFSCME, Local 685	Los Angeles County Probation Officers Union	LA Probation Officers Union 685
 Menlo Park	CITY OF MENLO PARK	City government
@@ -2498,6 +2662,8 @@ Advanced Medical Technology Association (AdvaMed)	AdvaMed - Advanced Medical Tec
 ALS Association Golden West Chapter	ALS ASSOCIATION - GOLDEN WEST CHAPTER	ALS Golden West
 American Subcontractors Association California	American Subcontractors Association of America	American Subcontractors
 Association of California State Supervisors (ACSS)	ASSOCIATION OF CALIFORNIA STATE SUPERVISORS	ACSS
+Association of School Administrators	ASSOCIATION OF CALIFORNIA SCHOOL ADMINISTRATORS	ACSA
+Brady Campaign to Prevent Gun Violence, California Chapters	BRADY CAMPAIGN TO PREVENT GUN VIOLENCE	Brady Campaign
 CA Retailers Association	California Retailers Associations	CA Retailers
 California Academy of Family Physicians (CAFP)	American Academy of Family Physicians	CAFP
 California Competes: Higher Education for A Strong Economy	California Competes Higher Education for a Strong Economy	California Competes
@@ -2867,8 +3033,10 @@ Ass'. of Calif. Life and Health Insurance Co	Ass'n. of California Life and Healt
 Ass'n of California Surety Companies	Association of California Surety Companies	surety_companies
 Assembly Committee on Jobs, Economic Development and the Economy (Joint -Sponsor)	Assembly Committee on Jobs, Economic Development and the Economy	assembly_committee_jede
 Assessor of Los Angeles County	Assessor of Los Angeles County, Jeffrey Prang	w33_06
+Assn. for LA Deputy Sheriffs (ALADS)	Association for Los Angeles Deputy Sheriffs, Inc. (ALADS)	alads
 Assn. of CA State Attorneys and Administrative Law Judges	ASSOCIATION OF CALIFORNIA STATE ATTORNEYS AND ADMINISTRATIVE LAW JUDGES	acsaalj
 Assoc. for Calif. Tort Reform (ACTR)None on file	Assoc. for Calif. Tort Reform (ACTR)	actr
+Assoc. for Los Angeles Deputy Sheriffs	Association for Los Angeles Deputy Sheriffs, Inc. (ALADS)	alads
 Assoc. of CA Accredited Law Schools	An Association of California Accredited Law Schools	accredited_law_schools
 Assoc. of CA Life & Health Insurance Companies	ASSOCIATION OF CALIFORNIA LIFE & HEALTH INSURANCE COMPANIES	aclhic
 Assoc. of CA Life and Health Companies	ASSOCIATION OF CALIFORNIA LIFE & HEALTH INSURANCE COMPANIES	aclhic
@@ -2963,8 +3131,20 @@ Associated Students, Inc. of California State University Fullerton	Associated St
 Association for Citizen Oversight of California Government	Citizen Oversight of California Government	consolidate
 Association for Counsel of Children (late)	Association of Counsel for Children	consolidate
 Association for Farmers Rights Defense, (AFRD)	Association for Farmers Rights Defense	consolidate
+Association for Los Angeles County Deputy Sheriff's	Association for Los Angeles Deputy Sheriffs, Inc. (ALADS)	alads
+Association for Los Angeles Deputy Sheriff's Association	Association for Los Angeles Deputy Sheriffs, Inc. (ALADS)	alads
+Association for Los Angeles Deputy Sheriffs (2/14/2014 version)	Association for Los Angeles Deputy Sheriffs, Inc. (ALADS)	alads
+Association for Los Angeles Deputy Sheriffs (4/9/15 version)	Association for Los Angeles Deputy Sheriffs, Inc. (ALADS)	alads
+Association for Los Angeles Deputy Sheriffs Association	Association for Los Angeles Deputy Sheriffs, Inc. (ALADS)	alads
+Association for Los Angeles Deputy Sheriffs' Association	Association for Los Angeles Deputy Sheriffs, Inc. (ALADS)	alads
+Association for Los Angeles Deputy Sheriffs, ALADS	Association for Los Angeles Deputy Sheriffs, Inc. (ALADS)	alads
+Association for Los Angeles Deputy Sheriffs, Inc. (original version)	Association for Los Angeles Deputy Sheriffs, Inc. (ALADS)	alads
+Association for Los Angeles Deputy Sheriffs, Inc. [ALADS	Association for Los Angeles Deputy Sheriffs, Inc. (ALADS)	alads
+Association for Los Angeles Deputy Sheriffs, Incorporated	Association for Los Angeles Deputy Sheriffs, Inc. (ALADS)	alads
 Association for Preserving History of WW II in Asia	Global Alliance for Preserving the History of WW II in Asia	preserving-history
 Association for Retarded Citizens (ARC) California ?h	ASSOCIATION FOR RETARDED CITIZENS	arc
+Association for the Los Angeles Deputy Sheriffs	Association for Los Angeles Deputy Sheriffs, Inc. (ALADS)	alads
+Association for the Los Angeles Deputy Sheriffs, Inc	Association for Los Angeles Deputy Sheriffs, Inc. (ALADS)	alads
 Association of > California Insurance Companies	ASSOCIATION OF CALIFORNIA INSURANCE COMPANIES	Association of California Insurance Companies
 Association of AB 1325 (Vargas) California Insurance Companies	ASSOCIATION OF CALIFORNIA INSURANCE COMPANIES	Association of California Insurance Companies
 Association of AB 573 (Wolk) CA Water Agencies	ASSOCIATION OF CALIFORNIA WATER AGENCIES	Association of California Water Agencies
@@ -3008,7 +3188,41 @@ Association of California Healthcare Districts (previous version)	Association of
 Association Of California Healthcare Districts, And Affiliated Entity Alpha Fund (prior version)	Association of California Healthcare Districts and Affiliated Entity Alpha Fund	ACHD
 Association of California Healthcare: Districts	Association of California Healthcare Districts	ACHD
 Association of California Hospital Districts (prior version)	Association of California Healthcare Districts	ACHD
+Association of California Insurance Companies (as proposed to be amended)	ASSOCIATION OF CALIFORNIA INSURANCE COMPANIES	ACIC
+Association of California Insurance Companies (letter of 6/4/02 opposing the proposed floor amendments of 6/5/02)	ASSOCIATION OF CALIFORNIA INSURANCE COMPANIES	ACIC
+Association of California Insurance Companies (opposed to introduced version)	ASSOCIATION OF CALIFORNIA INSURANCE COMPANIES	ACIC
+Association of California Insurance Companies (previous version)	ASSOCIATION OF CALIFORNIA INSURANCE COMPANIES	ACIC
+Association of California Insurance Companies (prior to proposed	ASSOCIATION OF CALIFORNIA INSURANCE COMPANIES	ACIC
+Association of California Insurance Companies (sponsor)	ASSOCIATION OF CALIFORNIA INSURANCE COMPANIES	ACIC
+Association of California Insurance Companies (to the version in print	ASSOCIATION OF CALIFORNIA INSURANCE COMPANIES	ACIC
+Association of California Insurance Companies (with respect to Section 437c summary adjudication provisions only)	ASSOCIATION OF CALIFORNIA INSURANCE COMPANIES	ACIC
+Association of California Insurance Companies - 06/09/03	ASSOCIATION OF CALIFORNIA INSURANCE COMPANIES	ACIC
+Association of California Insurance Companies - Oppose	ASSOCIATION OF CALIFORNIA INSURANCE COMPANIES	ACIC
+Association of California Insurance Companies - support	ASSOCIATION OF CALIFORNIA INSURANCE COMPANIES	ACIC
+Association of California Insurance Companies 07/21/95	ASSOCIATION OF CALIFORNIA INSURANCE COMPANIES	ACIC
+Association of California Insurance Companies 07/25/95	ASSOCIATION OF CALIFORNIA INSURANCE COMPANIES	ACIC
+Association of California Insurance Companies ACIC	ASSOCIATION OF CALIFORNIA INSURANCE COMPANIES	ACIC
+Association of California Life & Health Insurance Companies (5/12/06)	ASSOCIATION OF CALIFORNIA LIFE & HEALTH INSURANCE COMPANIES	ACLHIC
+Association of California Life & Health Insurance Companies (previous version)	ASSOCIATION OF CALIFORNIA LIFE & HEALTH INSURANCE COMPANIES	ACLHIC
+Association of California Life and Health Insurance Companies (ACLHIC) - 06/09/03	ASSOCIATION OF CALIFORNIA LIFE & HEALTH INSURANCE COMPANIES	ACLHIC
+Association of California Life and Health Insurance Companies (August 13, 2007)	ASSOCIATION OF CALIFORNIA LIFE & HEALTH INSURANCE COMPANIES	ACLHIC
+Association of California Life and Health Insurance Companies (previous version)	ASSOCIATION OF CALIFORNIA LIFE & HEALTH INSURANCE COMPANIES	ACLHIC
+Association of California Life and Health Insurance Companies: Oppose	ASSOCIATION OF CALIFORNIA LIFE & HEALTH INSURANCE COMPANIES	ACLHIC
+Association of California Life and Health Insurers (previous version)	ASSOCIATION OF CALIFORNIA LIFE & HEALTH INSURANCE COMPANIES	ACLHIC
+Association of California Life and Health Insurers Companies	ASSOCIATION OF CALIFORNIA LIFE & HEALTH INSURANCE COMPANIES	ACLHIC
+Association of California Life and Heath Insurance Companies	ASSOCIATION OF CALIFORNIA LIFE & HEALTH INSURANCE COMPANIES	ACLHIC
 Association of California Life Insurance Companies (as of previous version)	ASSOCIATION OF CALIFORNIA LIFE INSURANCE COMPANIES	ACLIC
+Association of California Life, Health and Insurance: Companies (prior version)	ASSOCIATION OF CALIFORNIA LIFE & HEALTH INSURANCE COMPANIES	ACLHIC
+Association of California Live and Health Insurance Companies	ASSOCIATION OF CALIFORNIA LIFE & HEALTH INSURANCE COMPANIES	ACLHIC
+Association of California School Administrators (8/4/97)	ASSOCIATION OF CALIFORNIA SCHOOL ADMINISTRATORS	ACSA
+Association of California School Administrators (ACSA) and others	ASSOCIATION OF CALIFORNIA SCHOOL ADMINISTRATORS	ACSA
+Association of California School Administrators (based on prior version of the bill)	ASSOCIATION OF CALIFORNIA SCHOOL ADMINISTRATORS	ACSA
+Association of California School Administrators (Opposed	ASSOCIATION OF CALIFORNIA SCHOOL ADMINISTRATORS	ACSA
+Association of California School Administrators (previous version)	ASSOCIATION OF CALIFORNIA SCHOOL ADMINISTRATORS	ACSA
+Association of California School Administrators (requesting	ASSOCIATION OF CALIFORNIA SCHOOL ADMINISTRATORS	ACSA
+Association of California School Administrators (sponsors)	ASSOCIATION OF CALIFORNIA SCHOOL ADMINISTRATORS	ACSA
+Association of California School Administrators -(Prior version)	ASSOCIATION OF CALIFORNIA SCHOOL ADMINISTRATORS	ACSA
+Association of California School Administrators : GOVERNOR'S VETO MESSAGE	ASSOCIATION OF CALIFORNIA SCHOOL ADMINISTRATORS	ACSA
 Association of California State Employees with Disabilities (Support	Association of California State Employees with Disabilities (ACSED), Amended	ACSED
 Association of California State Supervisors (ACSS), Sponsor	ASSOCIATION OF CALIFORNIA STATE SUPERVISORS	ACSS
 Association of California Tort Reform (ACTR)	The Association of California Tort Reform (ACTR)	ACTR
@@ -3086,7 +3300,18 @@ Association, Western Wood Preservers Institute	Western Wood Preservers Institute
 Association, Wine Institute	WINE INSTITUTE	Wine Institute
 AssociationCDF Firefighters	CDF Firefighters	CDF Firefighters
 AssociationHoward Jarvis Taxpayers Association	HOWARD JARVIS TAXPAYERS ASSOCIATION	Howard Jarvis Taxpayers Association
+Associationof California Insurance Companies	ASSOCIATION OF CALIFORNIA INSURANCE COMPANIES	ACIC
 associations, the Western Electrical Contractors Association (WECA-IEC)	WESTERN ELECTRICAL CONTRACTORS ASSOCIATION	WECA
+Asthma & Allergy Foundation of America - California Chapter	ASTHMA AND ALLERGY FOUNDATION OF AMERICA	AAFA
+Asthma & Allergy Foundation of America - Southern CA Chapter	ASTHMA AND ALLERGY FOUNDATION OF AMERICA	AAFA
+Asthma & Allergy Foundation of America - Southern California Chapter	ASTHMA AND ALLERGY FOUNDATION OF AMERICA	AAFA
+Asthma & Allergy Foundation of America, California Chapter	ASTHMA AND ALLERGY FOUNDATION OF AMERICA	AAFA
+Asthma and Allergy Foundation of America - Verified	ASTHMA AND ALLERGY FOUNDATION OF AMERICA	AAFA
+Asthma and Allergy Foundation of America, California: Chapter	ASTHMA AND ALLERGY FOUNDATION OF AMERICA	AAFA
+Asthma and Allergy Foundation of America, Southern	ASTHMA AND ALLERGY FOUNDATION OF AMERICA	AAFA
+Asthma and Allergy Foundation of America, Southern California Chapter	ASTHMA AND ALLERGY FOUNDATION OF AMERICA	AAFA
+Asthma and Allergy Foundation of America, Southern: California Chapter	ASTHMA AND ALLERGY FOUNDATION OF AMERICA	AAFA
+Asthma and Allergy Foundation, California Chapter	ASTHMA AND ALLERGY FOUNDATION OF AMERICA	AAFA
 AT & T (as of previous amended version)	AT&T	AT&T
 AT &T	AT&T	AT&T
 AT&T ( neutral as proposed to be amended)	AT&T	ATT
@@ -3099,6 +3324,29 @@ Atlas Travel Service	Atlas Travel	Atlas Travel
 ATT California	AT&T	ATT
 Attorney (Sponsor) San Diego County District Attorney	San Diego County District Attorney	San Diego County DA
 Attorney for the City and County of San Francisco	CITY AND COUNTY OF SAN FRANCISCO	City & County of San Francisco
+Attorney General (As Introduced)	ATTORNEY GENERAL	Attorney General
+Attorney General (as proposed to be amended)	ATTORNEY GENERAL	Attorney General
+Attorney General (as proposed to be amended) AB 792 (Rod Pacheco)	ATTORNEY GENERAL	Attorney General
+Attorney General - Bill Lockyer	ATTORNEY GENERAL	Attorney General
+Attorney General and California District	ATTORNEY GENERAL	Attorney General
+Attorney General Bill Lockyer (AG)	ATTORNEY GENERAL	Attorney General
+Attorney General Bill Lockyer (prior version)	ATTORNEY GENERAL	Attorney General
+Attorney General Dan Lungren (also supporting the amendments of opponents)	ATTORNEY GENERAL	Attorney General
+Attorney General Daniel E. Lundgren	ATTORNEY GENERAL	Attorney General
+Attorney General Daniel Lungren	ATTORNEY GENERAL	Attorney General
+Attorney General Kamal Harris	ATTORNEY GENERAL	Attorney General
+Attorney General of California, Bill Lockyer	ATTORNEY GENERAL	Attorney General
+Attorney General Rob Bonta (the AG)	ATTORNEY GENERAL	Attorney General
+Attorney General Rob Bonta, a co-sponsor of the bill	ATTORNEY GENERAL	Attorney General
+Attorney General's Office (8/12/98)	ATTORNEY GENERAL'S OFFICE	Attorney General's Office
+Attorney General's Office (source0	ATTORNEY GENERAL'S OFFICE	Attorney General's Office
+Attorney General's Office (to previous version)	ATTORNEY GENERAL'S OFFICE	Attorney General's Office
+Attorney General's Office [Note: See	ATTORNEY GENERAL'S OFFICE	Attorney General's Office
+Attorney General's Office of California	ATTORNEY GENERAL'S OFFICE	Attorney General's Office
+Attorney General's Office of Victim Services	ATTORNEY GENERAL'S OFFICE	Attorney General's Office
+Attorney General's Office, in	ATTORNEY GENERAL'S OFFICE	Attorney General's Office
+Attorney General's Office, Kamala D. Harris	ATTORNEY GENERAL'S OFFICE	Attorney General's Office
+Attorney General's Office, on behalf of the	ATTORNEY GENERAL'S OFFICE	Attorney General's Office
 Attorney General, State of CA	Attorney General, State of California	AG-CA
 Attorney Generalos Office (1/16/96)	ATTORNEY GENERAL'S OFFICE	AG-Office
 Attorney's Association, Los Angeles County	Los Angeles County District Attorneys Association	LA-DA-Assn
@@ -3275,6 +3523,9 @@ Bill Dobberstein, Fortuna Police Chief	Fortuna Police Department	Fortuna Police
 Bill Jones, Former California Secretary of State	SECRETARY OF STATE	Secretary of State
 Bill Jones, Secretary of State	SECRETARY OF STATE	Secretary of State
 Bill Kampe	City of Pacific Grove	Pacific Grove
+Bill Lockyer, State Treasurer of California	CALIFORNIA STATE TREASURER	State Treasurer
+Bill Lockyer, Treasurer	CALIFORNIA STATE TREASURER	State Treasurer
+Bill Lockyer, Treasurer, State of California (as amended)	CALIFORNIA STATE TREASURER	State Treasurer
 Bill No.: AB Bay Area Economic Forum	Bay Area Economic Forum	Bay Area Economic Forum
 Bill No.: AB Consumer Attorneys of California (Letter dated June 21, 2000)	Consumer Attorneys of California	Consumer Attorneys of California
 Bill No.: AB Transition Connection	Transition Connection	Transition Connection
@@ -3324,6 +3575,14 @@ Blue Cross of California (prior version of bill)	BLUE CROSS OF CALIFORNIA	blue c
 Blue Cross of California: Oppose	BLUE CROSS OF CALIFORNIA	blue cross of california
 Blue Frontier (prior version)	Blue Frontier	blue frontier
 Blue Lake Rancheria Trive of CA	Blue Lake Rancheria Tribe of California	blue lake rancheria
+Blue Shield (8/25/98)	BLUE SHIELD OF CALIFORNIA	blue shield of california
+Blue Shield (latest amendments made Blue Shield a supporter)	BLUE SHIELD OF CALIFORNIA	blue shield of california
+Blue Shield of California (3/26/15 version)	BLUE SHIELD OF CALIFORNIA	blue shield of california
+Blue Shield of California (6/18/2013)	BLUE SHIELD OF CALIFORNIA	blue shield of california
+Blue Shield of California (Blue Shield) writes that, in order to implement	BLUE SHIELD OF CALIFORNIA	blue shield of california
+Blue Shield of California (current version of the bill)	BLUE SHIELD OF CALIFORNIA	blue shield of california
+Blue Shield of California (previous version)	BLUE SHIELD OF CALIFORNIA	blue shield of california
+Blue Shield Of California (prior version)	BLUE SHIELD OF CALIFORNIA	blue shield of california
 Blue Star Moms - Sponsor	BLUE STAR MOMS	blue star moms
 Blue Water Network/Friends of the Earth	Bluewater Network	bluewater network
 Blue Zones Project- Upper Napa Valley	Blue Zones Project Upper Napa Valley	blue zones project
@@ -3401,6 +3660,21 @@ Bourns, Gordon Bourns, CEO	Bourns	Bourns
 Boxer Rescue - Los Angeles	Boxer Rescue Fund, Inc. of Los Angeles	Boxer Rescue
 Brad Sherman	Honorable Brad Sherman, Congress of the United States	Brad Sherman
 Brad Sherman, Member of the United States Congress	Honorable Brad Sherman, Congress of the United States	Brad Sherman
+Brady - Oakland/Alameda County Chapter	BRADY CAMPAIGN TO PREVENT GUN VIOLENCE	Brady Campaign
+Brady - San Francisco	BRADY CAMPAIGN TO PREVENT GUN VIOLENCE	Brady Campaign
+BRADY California	BRADY CAMPAIGN TO PREVENT GUN VIOLENCE	Brady Campaign
+Brady Campaign (sponsors)	BRADY CAMPAIGN TO PREVENT GUN VIOLENCE	Brady Campaign
+Brady Campaign and Brady Campaign California	BRADY CAMPAIGN TO PREVENT GUN VIOLENCE	Brady Campaign
+Brady Campaign California (sponsors)	BRADY CAMPAIGN TO PREVENT GUN VIOLENCE	Brady Campaign
+Brady Campaign Chapters for Central California	BRADY CAMPAIGN TO PREVENT GUN VIOLENCE	Brady Campaign
+Brady Campaign of California	BRADY CAMPAIGN TO PREVENT GUN VIOLENCE	Brady Campaign
+Brady Campaign of Sonoma County	BRADY CAMPAIGN TO PREVENT GUN VIOLENCE	Brady Campaign
+Brady Campaign to Prevent Gun Violence - California Chapter	BRADY CAMPAIGN TO PREVENT GUN VIOLENCE	Brady Campaign
+Brady Campaign to Prevent Gun Violence - Orange County Chapter	BRADY CAMPAIGN TO PREVENT GUN VIOLENCE	Brady Campaign
+Brady Campaign to Prevent Gun Violence California	BRADY CAMPAIGN TO PREVENT GUN VIOLENCE	Brady Campaign
+Brady Campaign to Prevent Gun Violence California Chapters	BRADY CAMPAIGN TO PREVENT GUN VIOLENCE	Brady Campaign
+Brady Campaign to Prevent Gun Violence, California Chapters & Orange County	BRADY CAMPAIGN TO PREVENT GUN VIOLENCE	Brady Campaign
+Brady Campaign to Prevent Gun Violence, Contra Costa County	BRADY CAMPAIGN TO PREVENT GUN VIOLENCE	Brady Campaign
 Brady Campaign to Prevent Gun Violence, Contra Costa County Chapter	BRADY CAMPAIGN TO PREVENT GUN VIOLENCE	Brady
 Brady Campaign to Prevent Gun Violence, Long Beach	BRADY CAMPAIGN TO PREVENT GUN VIOLENCE	Brady
 Brady Campaign to Prevent Gun Violence, Los Angeles County	BRADY CAMPAIGN TO PREVENT GUN VIOLENCE	Brady
@@ -3553,6 +3827,7 @@ Asian Pacific Islander American Health Forum	Asian & Pacific Islander American H
 Associated Builders and Contractors of California (ABC)	Associated Builders and Contractors	abc_builders
 Associated General Contractors Of California	ASSOCIATED GENERAL CONTRACTORS	agc
 Association of California Life and Health Insurance Companies (prior version)	Ass'n. of California Life and Health Insurance Companies	acl_health_ins
+Association of Los Angeles County Deputy Sheriffs	Association for Los Angeles Deputy Sheriffs, Inc. (ALADS)	alads
 Cair California	Council on American-Islamic Relations	cair
 CAL FIRE, Local 2881	Local 2881	calfire_2881
 California Association of Health Underwriters (prior version)	Association of Health Underwriters	cahu
@@ -3699,6 +3974,7 @@ IATSE Local 44	INTERNATIONAL ALLIANCE OF THEATRICAL STAGE EMPLOYEES	iatse local 
 IATSE Local 729	INTERNATIONAL ALLIANCE OF THEATRICAL STAGE EMPLOYEES	iatse local 729
 Indivisible CA 37	Indivisible	indivisible ca 37
 Indivisible CA Green Team	Indivisible	indivisible ca green team
+International Brotherhood of Electrical Workers (IBEW)	INTERNATIONAL BROTHERHOOD OF ELECTRICAL WORKERS	ibew
 Kennedy Commission, Irvine	KENNEDY COMMISSION	kennedy commission
 Long Beach Fire Fighters, Local 372	City of Long Beach Fire Department	long beach fire fighters
 Long Beach YIMBY	LONG BEACH YIMBY	long beach yimby
@@ -3778,6 +4054,7 @@ California Public Interest Research Group (CALPIRG) Students	California Public I
 California Rifle & Pistol Association, Inc	Calif. Rifle and Pistol Association	california rifle and pistol association
 California Secretary of State, Alex Padilla	SECRETARY OF STATE	secretary of state
 California Society of Association Executives (CalSAE)	California Society of Association Executives	california society of association executives
+California State Conference NAACP	National Association for the Advancement of Colored People (NAACP)	naacp
 California State Legislative Board, Sheet Metal, Air, Rail and Transportation	CA State Legislative Board, Sheet Metal, Air, Rail and Transportation Workers	state legislative board sheet metal air rail transportation
 California Water Agencies	ASSOCIATION OF CALIFORNIA WATER AGENCIES	association of california water agencies
 Children (LA-NACC)	Association of Counsel for Children (LA/NACC)	association of counsel for children la nacc
@@ -3820,6 +4097,16 @@ Burton Way Homeowners Association	Burton Way Homeowners	HOA
 Business Association, San Diego Off-Road	San Diego Off-Road Coalition (SDORC)	offroad
 Business Coalition, Bay Area Stormwater	Bay Area Stormwater Management Agencies Association	stormwater
 Business Industry and Government Coalition of the South San: Joaquin Valley	Business Industry and Government Coalition of the South San Joaquin Valley	bigc-ssjv
+Business Law Corporations Committee of the State Bar of California	California Lawyers Association	state-bar
+Business Law Section (sponsor)	California Lawyers Association	state-bar
+Business Law Section , California State Bar	California Lawyers Association	state-bar
+Business Law Section - Corporations Committee of the State Bar of	California Lawyers Association	state-bar
+Business Law Section - Corporations Committee of the State Bar of California	California Lawyers Association	state-bar
+Business Law Section of the Stare Bar of California	California Lawyers Association	state-bar
+Business Law Section of the State Bar Department of Corporations (oppose unless amended)	California Lawyers Association	state-bar
+Business Law Section of the State Bar of California (Partnerships and Limited Liability Companies Committee)	California Lawyers Association	state-bar
+Business Law Section of the State Bar of California, the	California Lawyers Association	state-bar
+Business Law Section, Corporations Committee, The State Bar of California	California Lawyers Association	state-bar
 Business Properties Association California	California Business Properties Association (CPBA)	cbpa
 Business, Transportation and Housing Agency, Office of Traffic Safety	California Office of Traffic Safety	traffic-safety
 Bustamante, Cruz (Lieutenant Governor)	Cruz Bustamente, Lieutenant Governor of the State of California	Lt Governor
@@ -3840,6 +4127,9 @@ BYP100 - Bay Area Chapter	BYP100, Bay Area Chapter	BYP100
 C.A.S.T	Coalition to Abolish Slavery & Trafficking (CAST) Coalition to Abolish Slavery and Trafficking	anti-trafficking coalition
 C.L. Rafferty, El Dorado County Treasurer-Tax Collector	Dorado County Treasurer-Tax Collcetor C.L. Raffety	El Dorado Treasurer
 C]Worthy	CWorthy	CWorthy
+CA Abortion and Reproductive Action League (CARAL)	California Abortion and Reproductive Rights Action League	CARAL
+CA Abortion and Reproductive Rights	California Abortion and Reproductive Rights Action League	CARAL
+CA Abortion and Reproductive Rights (CARAL)	California Abortion and Reproductive Rights Action League	CARAL
 CA Agricultural Commissioners Association (sponsor)	CALIFORNIA AGRICULTURAL COMMISSIONERS AND SEALERS ASSOCIATION	Ag Commissioners
 CA Alfalfa and Forage Association	California Alfalfa and Forage Association	Alfalfa Forage
 CA Alliance of Nurses for Healthy Environments	CALIFORNIA ALLIANCE OF NURSES FOR HEALTHY ENVIRONMENTS	Nurses Healthy Env
@@ -4083,6 +4373,12 @@ California AB 407 (Cedillo) National Organization for Women	CALIFORNIA NATIONAL 
 California AB 408 (Steinberg) Court-Appointed Special Advocate Association	CALIFORNIA COURT APPOINTED SPECIAL ADVOCATES ASSOCIATION	CASA
 California AB 76 (Corbett) State Association of Electrical Workers	California & Nevada State Association of Electrical Workers	electrical workers
 California AB 881 (Rogan) Correctional Peace Officers Assn	California Correctional Peace Officers Association	CCPOA
+California Abortion & Reproduction Rights Action League	California Abortion and Reproductive Rights Action League	CARAL
+California Abortion and Reproduction Rights Action League	California Abortion and Reproductive Rights Action League	CARAL
+California Abortion and Reproduction Rights Active League	California Abortion and Reproductive Rights Action League	CARAL
+California Abortion and Reproductive Rights Action League, North & South	California Abortion and Reproductive Rights Action League	CARAL
+California Abortion Rights & Reproductive Action League	California Abortion and Reproductive Rights Action League	CARAL
+California Abortion Rights and Reproductive Rights Action League	California Abortion and Reproductive Rights Action League	CARAL
 California Academy of Audiology (CAA)	CALIFORNIA ACADEMY OF AUDIOLOGY	audiology
 California Academy of Child & Adolescent Psychiatry (Prior Version)	CALIFORNIA ACADEMY OF CHILD AND ADOLESCENT PSYCHIATRY	child psychiatry
 California Academy of Child & Adolescent Psychiatry states	CALIFORNIA ACADEMY OF CHILD AND ADOLESCENT PSYCHIATRY	child psychiatry
@@ -4153,6 +4449,15 @@ California Alliance for Consumer Protection (support if amend)	CALIFORNIA ALLIAN
 California Alliance for Consumer Protection [to the bill as introduced	CALIFORNIA ALLIANCE FOR CONSUMER PROTECTION	CACP
 California Alliance for New Discovery Options [re: CRB only	The California Alliance for New Discovery Options	CANDO
 California Alliance for Pride and Equality (Co Sponsor)	CALIFORNIA ALLIANCE FOR PRIDE AND EQUALITY	CAPE
+California Alliance for Retired Americans (as amended March 28, 2006)	CALIFORNIA ALLIANCE FOR RETIRED AMERICANS	CARA
+California Alliance for Retired Americans (as amended May 26, 2006)	CALIFORNIA ALLIANCE FOR RETIRED AMERICANS	CARA
+California Alliance for Retired Americans (CARA) (support if amend)	CALIFORNIA ALLIANCE FOR RETIRED AMERICANS	CARA
+California Alliance for Retired Americans (CARA) - Co-sponsor	CALIFORNIA ALLIANCE FOR RETIRED AMERICANS	CARA
+California Alliance for Retired Americans (CARA) - sponsor	CALIFORNIA ALLIANCE FOR RETIRED AMERICANS	CARA
+California Alliance for Retired Americans (CARA), sponsor of this Resolution	CALIFORNIA ALLIANCE FOR RETIRED AMERICANS	CARA
+California Alliance for Retired Americans (former co-sponsor) (to April 5 version only)	CALIFORNIA ALLIANCE FOR RETIRED AMERICANS	CARA
+California Alliance for Retired Americans (previous version)	CALIFORNIA ALLIANCE FOR RETIRED AMERICANS	CARA
+California Alliance for Retired Americans - Co-Sponsor	CALIFORNIA ALLIANCE FOR RETIRED AMERICANS	CARA
 California Alliance of Child and Family Services (Alliance)	CALIFORNIA ALLIANCE OF CHILD AND FAMILY SERVICES	CACFS
 California Alliance of Child and Family Services co-sponsor	CALIFORNIA ALLIANCE OF CHILD AND FAMILY SERVICES	CACFS
 California Alliance of Child and Family Services, a co-sponsor of the measure	CALIFORNIA ALLIANCE OF CHILD AND FAMILY SERVICES	CACFS
@@ -4160,6 +4465,7 @@ California Alliance of Farmers' Markets (as amended)	California Alliance of Farm
 California Alliance of Nurses for Healthy Environment	CALIFORNIA ALLIANCE OF NURSES FOR HEALTHY ENVIRONMENTS	CANHE
 California Alliance of Resale Merchants and Collectors	California Alliance of Resale Merchants and Collectors ("CARMAC")	CARMAC
 California Alliance of Resale Merchants and Collectors (CARMAC)	California Alliance of Resale Merchants and Collectors ("CARMAC")	CARMAC
+California Alliance of Retired Americans (as introduced)	CALIFORNIA ALLIANCE FOR RETIRED AMERICANS	CARA
 California Alternative Payment Program Association (CAPPA) - co-sponsor	CALIFORNIA ALTERNATIVE PAYMENT PROGRAM ASSOCIATION	CAPPA
 California Alternative Payment Program Association (CAPPA) also	CALIFORNIA ALTERNATIVE PAYMENT PROGRAM ASSOCIATION	CAPPA
 California Alternative Payment Program Association (CAPPA) SPONSOR	CALIFORNIA ALTERNATIVE PAYMENT PROGRAM ASSOCIATION	CAPPA
@@ -4168,6 +4474,29 @@ California American Association of Retired Persons	AMERICAN ASSOCIATION OF RETIR
 California American College of Emergency Physicians (previous version)	American College of Emergency Physicians	ACEP
 California Animal Control Directors Association (6/5/02)	CALIFORNIA ANIMAL CONTROL DIRECTORS ASSOCIATION (CACDA)	Animal Control Directors
 California Animal Welfare Association (concerns)	CALIFORNIA ANIMAL WELFARE ASSOCIATION	Animal Welfare
+California Apartment Association (2/24 version)	CALIFORNIA APARTMENT ASSOCIATION	Apartment Assoc
+California Apartment Association (as introduced)	CALIFORNIA APARTMENT ASSOCIATION	Apartment Assoc
+California Apartment Association (as proposed to be amended)	CALIFORNIA APARTMENT ASSOCIATION	Apartment Assoc
+California Apartment Association (bill in print)	CALIFORNIA APARTMENT ASSOCIATION	Apartment Assoc
+California Apartment Association (CAA) writes	CALIFORNIA APARTMENT ASSOCIATION	Apartment Assoc
+California Apartment Association (for prior version only)	CALIFORNIA APARTMENT ASSOCIATION	Apartment Assoc
+California Apartment Association (late)	CALIFORNIA APARTMENT ASSOCIATION	Apartment Assoc
+California Apartment Association (oppose bill in print)	CALIFORNIA APARTMENT ASSOCIATION	Apartment Assoc
+California Apartment Association (oppose unless amended)	CALIFORNIA APARTMENT ASSOCIATION	Apartment Assoc
+California Apartment Association -- Neutral	CALIFORNIA APARTMENT ASSOCIATION	Apartment Assoc
+California Apartment Association, Napa/Solano County Division	CALIFORNIA APARTMENT ASSOCIATION	Apartment Assoc
+California Apartment Associations	CALIFORNIA APARTMENT ASSOCIATION	Apartment Assoc
+California Applicant Attorneys Association (CAAA) - sponsor	CALIFORNIA APPLICANT ATTORNEYS ASSOCIATION	Applicant Attorneys
+California Applicant Attorneys Association [as amended	CALIFORNIA APPLICANT ATTORNEYS ASSOCIATION	Applicant Attorneys
+California Applicants Attorneys Association (CAAA) Sponsor	CALIFORNIA APPLICANT ATTORNEYS ASSOCIATION	Applicant Attorneys
+California Applicants' Attorneys Association (CAAA) Sponsor	CALIFORNIA APPLICANT ATTORNEYS ASSOCIATION	Applicant Attorneys
+California Applicants' Attorneys Association (neutral)	CALIFORNIA APPLICANT ATTORNEYS ASSOCIATION	Applicant Attorneys
+California Applicants' Attorneys Association (requests	CALIFORNIA APPLICANT ATTORNEYS ASSOCIATION	Applicant Attorneys
+California Applicants' Attorneys Association (Sponsors)	CALIFORNIA APPLICANT ATTORNEYS ASSOCIATION	Applicant Attorneys
+California Applicants' Attorneys Association - Sponsor	CALIFORNIA APPLICANT ATTORNEYS ASSOCIATION	Applicant Attorneys
+California Applicants' Attorneys Association -unless	CALIFORNIA APPLICANT ATTORNEYS ASSOCIATION	Applicant Attorneys
+California Applicants' Attorneys Assosciation	CALIFORNIA APPLICANT ATTORNEYS ASSOCIATION	Applicant Attorneys
+California Applicants'Attorneys Association	CALIFORNIA APPLICANT ATTORNEYS ASSOCIATION	Applicant Attorneys
 California Aquaculture Association - Sponsor	CALIFORNIA AQUACULTURE ASSOCIATION	Aquaculture
 California Architects Board (Board)	CALIFORNIA ARCHITECTS BOARD	Architects Board
 California Asian & Pacific Islander Budget Partnership	California Asian Pacific Islander Budget Partnership	API Budget
@@ -4178,6 +4507,7 @@ California Asian Pacific Islander Chamber of Commerce (CalAsian Chamber)	CALIFOR
 California Asphalt Pavement Association (previous version)	CALIFORNIA ASPHALT PAVEMENT ASSOCIATION	Asphalt Pavement
 California Ass'n of Neurological Surgeons	American Association of Neurological Surgeons	Neuro Surgeons
 California Ass'n of Obstetricians and Gynecologists, Inc	CALIFORNIA ASSOCIATION OF OBSTETRICIANS AND GYNECOLOGISTS	Obstetricians
+California Ass'n. of Health Plans (support if amended)	CALIFORNIA ASSOCIATION OF HEALTH PLANS	CAHP
 California Assessor's Association -- END	California Assessor's Association	CA Assessors
 California Assessors	California Assessor's Association	CA Assessors
 California Assessors Association (6/26/98)	California Assessor's Association	CA Assessors
@@ -4294,8 +4624,20 @@ California Association of Health Facilities (with the deletion of the continuous
 California Association of Health Facilities' (CAHF) - Oppose	CALIFORNIA ASSOCIATION OF HEALTH FACILITIES	CAHF
 California Association of Health Facilities, oppose unless	CALIFORNIA ASSOCIATION OF HEALTH FACILITIES	CAHF
 California Association of Health Insuring Organizations (prior version)	California Association of Health Insuring Organizations	CAHIO
+California Association of Health Plan - 5/27/99 (opposed but willing to	CALIFORNIA ASSOCIATION OF HEALTH PLANS	CAHP
+California Association of Health Plans (as previously amended)	CALIFORNIA ASSOCIATION OF HEALTH PLANS	CAHP
 California Association of Health Plans (Following positions are from the August 25th, Assembly Health Committee analysis and are on previous version of bill.)	CALIFORNIA ASSOCIATION OF HEALTH PLANS	CAHP
+California Association of Health Plans (July 11, 2007)	CALIFORNIA ASSOCIATION OF HEALTH PLANS	CAHP
+California Association of Health Plans (late)	CALIFORNIA ASSOCIATION OF HEALTH PLANS	CAHP
 California Association of Health Plans (Note: Amendments are forthcoming to take care of	CALIFORNIA ASSOCIATION OF HEALTH PLANS	CAHP
+California Association of Health Plans (prior version): Neutral	CALIFORNIA ASSOCIATION OF HEALTH PLANS	CAHP
+California Association of Health Plans (received 8/29/00	CALIFORNIA ASSOCIATION OF HEALTH PLANS	CAHP
+California Association of Health Plans (unlesds amended -- 5/15/98)	CALIFORNIA ASSOCIATION OF HEALTH PLANS	CAHP
+California Association of Health Plans (Unless amended)	CALIFORNIA ASSOCIATION OF HEALTH PLANS	CAHP
+California Association of Health Plans - the author's office indicate that this was	CALIFORNIA ASSOCIATION OF HEALTH PLANS	CAHP
+California Association of Health Plans - Verified June 7	CALIFORNIA ASSOCIATION OF HEALTH PLANS	CAHP
+California Association of Health Plans and others are	CALIFORNIA ASSOCIATION OF HEALTH PLANS	CAHP
+California Association of Health Plans[pic][pic][pic	CALIFORNIA ASSOCIATION OF HEALTH PLANS	CAHP
 California Association of Health Services at	CALIFORNIA ASSOCIATION FOR HEALTH SERVICES AT HOME	CAHSAH
 California Association of Health Services at Home, oppose unless	CALIFORNIA ASSOCIATION FOR HEALTH SERVICES AT HOME	CAHSAH
 California Association of health Underwriters (CAHU)	National Association of Health Underwriters	CAHU
@@ -4308,6 +4650,15 @@ California Association of Health Underwriters (oppose unless amended)	National A
 California Association of Health Underwriters: Oppose	National Association of Health Underwriters	CAHU
 California Association of Health, Physical Education, Recreation and Dance (CAHPERD) (Previous Version)	California Association of Health, Physical Education, Recreation and Dance (CAHPERD)	CAHPERD
 California Association of Heath Underwriters	National Association of Health Underwriters	CAHU
+California Association of Highway	CALIFORNIA ASSOCIATION OF HIGHWAY PATROLMEN	CAHP-patrolmen
+California Association of Highway Patrolmen (April 13, 1998 version)	CALIFORNIA ASSOCIATION OF HIGHWAY PATROLMEN	CAHP-patrolmen
+California Association of Highway Patrolmen (CAHP) Co-sponsor	CALIFORNIA ASSOCIATION OF HIGHWAY PATROLMEN	CAHP-patrolmen
+California Association of Highway Patrolmen (previous version)	CALIFORNIA ASSOCIATION OF HIGHWAY PATROLMEN	CAHP-patrolmen
+California Association of Highway Patrolmen (prior version)	CALIFORNIA ASSOCIATION OF HIGHWAY PATROLMEN	CAHP-patrolmen
+California Association of Highway Patrolmen - Co-sponsor	CALIFORNIA ASSOCIATION OF HIGHWAY PATROLMEN	CAHP-patrolmen
+California Association of Highway Patrolmen Mayor	CALIFORNIA ASSOCIATION OF HIGHWAY PATROLMEN	CAHP-patrolmen
+California Association of Highway Patrolmen, CAHP	CALIFORNIA ASSOCIATION OF HIGHWAY PATROLMEN	CAHP-patrolmen
+California Association of Highway Patrolmen, Sponsors	CALIFORNIA ASSOCIATION OF HIGHWAY PATROLMEN	CAHP-patrolmen
 California Association of HMO's (9/8/95)	CALIFORNIA ASSOCIATION OF HEALTH MAINTENANCE ORGANIZATIONS	CAHMO
 California Association of HMO's members	CALIFORNIA ASSOCIATION OF HEALTH MAINTENANCE ORGANIZATIONS	CAHMO
 California Association of HMOs (Concern)	CALIFORNIA ASSOCIATION OF HEALTH MAINTENANCE ORGANIZATIONS	CAHMO
@@ -4433,6 +4784,7 @@ California Association of Regulatory: Investigators and Inspectors (Note: This o
 California Association of Rehabilitation & Re-Employment Professionals	California Association of Rehabilitation and Reemployment	Rehab Reemployment
 California Association of Rehabilitation & Re-employment Professionals	California Association of Rehabilitation and Reemployment	Rehab Reemployment
 California Association of Resource Specialists (5/15/98)	California Association of Resource Specialists and Special Education Teachers	Resource Specialists
+California Association of Retired Americans (prior to amendments)	CALIFORNIA ALLIANCE FOR RETIRED AMERICANS	CARA
 California Association of RV Parks and Campgrounds, the sponsor of SB 317	CALIFORNIA ASSOCIATION OF RV PARKS AND CAMPGROUNDS	RV Parks
 California Association of Sanitation Agencies (04/21/14 version)	CALIFORNIA ASSOCIATION OF SANITATION AGENCIES	CASA
 California Association of Sanitation Agencies (5/8)	CALIFORNIA ASSOCIATION OF SANITATION AGENCIES	CASA
@@ -4545,6 +4897,18 @@ California Broadband and Video Association (Calbroadband	California Broadband an
 California Broadcasters Association: OPPOSTION	CALIFORNIA BROADCASTERS ASSOCIATION	broadcasters assn
 California Budget Project (May 11, 2007)	California Budget Project	budget project
 California Builders Alliance (prior version)	CALIFORNIA BUILDERS ALLIANCE	builders alliance
+California Building Industry Association (1/21/04)	CALIFORNIA BUILDING INDUSTRY ASSOCIATION	cbia
+California Building Industry Association (bill in print)	CALIFORNIA BUILDING INDUSTRY ASSOCIATION	cbia
+California Building Industry Association (CBIA) (prior version)	CALIFORNIA BUILDING INDUSTRY ASSOCIATION	cbia
+California Building Industry Association (concerns)	CALIFORNIA BUILDING INDUSTRY ASSOCIATION	cbia
+California Building Industry Association (in concept)	CALIFORNIA BUILDING INDUSTRY ASSOCIATION	cbia
+California Building Industry Association (opposed to prior version)	CALIFORNIA BUILDING INDUSTRY ASSOCIATION	cbia
+California Building Industry Association (Sponsors)	CALIFORNIA BUILDING INDUSTRY ASSOCIATION	cbia
+California Building Industry Association (support if amended)	CALIFORNIA BUILDING INDUSTRY ASSOCIATION	cbia
+California Building Industry Association, in opposition	CALIFORNIA BUILDING INDUSTRY ASSOCIATION	cbia
+California Building Industry Association, sponsor of the bill	CALIFORNIA BUILDING INDUSTRY ASSOCIATION	cbia
+California Building Industry Association,)	CALIFORNIA BUILDING INDUSTRY ASSOCIATION	cbia
+California Building Industry Associations (CBIA)	CALIFORNIA BUILDING INDUSTRY ASSOCIATION	cbia
 California Building Officials, in opposition to a previous version of the bill	CALIFORNIA BUILDING OFFICIALS	calbo
 California Business Association Properties Association	CALIFORNIA BUSINESS PROPERTIES ASSOCIATION	business properties assn
 California Business Network (prior version)	California Business Network (CalBizNet)	CalBizNet
@@ -4632,6 +4996,7 @@ California Chapter Of The American College Of Emergency Physicians (prior versio
 California Chapter of the American College: of Emergency Physicians	AMERICAN COLLEGE OF EMERGENCY PHYSICIANS	ACEP
 California Chapter of the American Fence Contractors' Ass'n	AMERICAN FENCE CONTRACTORS' ASSOCIATION	AFEC
 California Chapter of the American Fence Contractors' Assoc	AMERICAN FENCE CONTRACTORS' ASSOCIATION	AFEC
+California Chapter of the American Planning Association (as proposed to be amended)	AMERICAN PLANNING ASSOCIATION	APA
 California chapter of the Council on American-Islamic Relations California	Council on American-Islamic Relations	CAIR
 California Chapter of the NAACP	National Association for the Advancement of Colored People (NAACP)	NAACP
 California Chapter of the National Academy of Elder Law Attorneys (prior version)	Southern California Chapter of the National Academy of Elder Law Attorneys	NAELA
@@ -4825,6 +5190,18 @@ California Court Reporters Association unless amendments are taken to limit the 
 California Coverage & and Health Initiatives	California Coverage and Health Initiatives	Coverage & Health Initiatives
 California Coverage & and Health Initiatives (Support as proposed to be amended)	California Coverage and Health Initiatives	Coverage & Health Initiatives
 California Coverage & Health Initiatives (prior version)	California Coverage and Health Initiatives	Coverage & Health Initiatives
+California Credit Union League (3/26/15 version)	CALIFORNIA CREDIT UNION LEAGUE	Credit Union League
+California Credit Union League (8/29/00)	CALIFORNIA CREDIT UNION LEAGUE	Credit Union League
+California Credit Union League (as amended May 21, 2015)	CALIFORNIA CREDIT UNION LEAGUE	Credit Union League
+California Credit Union League (as proposed to be amended)	CALIFORNIA CREDIT UNION LEAGUE	Credit Union League
+California Credit Union League (August 18, 2003)	CALIFORNIA CREDIT UNION LEAGUE	Credit Union League
+California Credit Union League (based on prior version)	CALIFORNIA CREDIT UNION LEAGUE	Credit Union League
+California Credit Union League (CCLU)	CALIFORNIA CREDIT UNION LEAGUE	Credit Union League
+California Credit Union League (CCUL) must respectfully	CALIFORNIA CREDIT UNION LEAGUE	Credit Union League
+California Credit Union League (May change to "Neutral")	CALIFORNIA CREDIT UNION LEAGUE	Credit Union League
+California Credit Union League (previous version)	CALIFORNIA CREDIT UNION LEAGUE	Credit Union League
+California Credit Union League - 04/03/03	CALIFORNIA CREDIT UNION LEAGUE	Credit Union League
+California Credit Union League - Sponsor	CALIFORNIA CREDIT UNION LEAGUE	Credit Union League
 California Credit Union League writes	CALIFORNIA CREDIT UNION LEAGUE	Credit Union League
 California Crime Victims United	Crime Victims United of California	Crime Victims United
 California Dairies, Inc. (prior version)	California Dairies	California Dairies
@@ -5006,7 +5383,31 @@ California Federation of Labor Unions, AFL-CIO (Co-sponsors)	California Federati
 California Federation of Labor Unions, AFL-CIO (Co-Sponsors)	California Federation of Labor Unions	Labor Federation
 California Federation of Republican Women (committee	CALIFORNIA FEDERATION OF REPUBLICAN WOMEN	Republican Women
 California Federation of Republican Women (prior version)	CALIFORNIA FEDERATION OF REPUBLICAN WOMEN	Republican Women
+California Federation of Teachers (1/14/98)	California Federation of Teachers	Teachers
+California Federation of Teachers (3/11/05)	California Federation of Teachers	Teachers
+California Federation of Teachers (3/14/05)	California Federation of Teachers	Teachers
+California Federation of Teachers (4/21/14 version)	California Federation of Teachers	Teachers
+California Federation of Teachers (8/1/97)	California Federation of Teachers	Teachers
+California Federation of Teachers (AFT), AFL-CIO	California Federation of Teachers	Teachers
+California Federation of Teachers (CFT) , AFT, AFL-CIO	California Federation of Teachers	Teachers
+California Federation of Teachers (CFT) - A Union of Educators & Classified Professionals, AFT, AFL-CIO	California Federation of Teachers	Teachers
+California Federation of Teachers (CFT) - a Union of Educators & Classified Professionals, Aft, AFL-CIO	California Federation of Teachers	Teachers
+California Federation of Teachers (CFT), a co-sponsor of this legislation	California Federation of Teachers	Teachers
+California Federation of Teachers (CFT, Sponsor)	California Federation of Teachers	Teachers
+California Federation of Teachers (joint sponsor)	California Federation of Teachers	Teachers
+California Federation of Teachers (July 5, 2007)	California Federation of Teachers	Teachers
+California Federation of Teachers (prior version of the bill)	California Federation of Teachers	Teachers
+California Federation of Teachers (Sections 17 and 25)	California Federation of Teachers	Teachers
+California Federation of Teachers (sponsors)	California Federation of Teachers	Teachers
+California Federation of Teachers (support, if amended)	California Federation of Teachers	Teachers
+California Federation of Teachers (to bill as introduced)	California Federation of Teachers	Teachers
+California Federation of Teachers , AFL-CIO	California Federation of Teachers	Teachers
+California Federation of Teachers - a Union of Educators & Classified Professionals	California Federation of Teachers	Teachers
+California Federation of Teachers - A Union of Educators & Classified Professionals, AFT, AFL-CIO	California Federation of Teachers	Teachers
+California Federation of Teachers - a Union of Educators and Classified Professionals, Afl-cio	California Federation of Teachers	Teachers
 California Federation of Teachers - AFT, AFL-CIO	California Federation of Teachers	Teachers
+California Federation of Teachers - Union of Educators & Classified Professionals	California Federation of Teachers	Teachers
+California Federation of Teachers -(based on prior version of the bill)	California Federation of Teachers	Teachers
 California Federation of Teachers AFL - CIO	California Federation of Teachers	CFT
 California Federation of Teachers AFL-CIO GENup	California Federation of Teachers	CFT
 California Federation of Teachers Aft, Afl-cio	California Federation of Teachers	CFT
@@ -5068,6 +5469,12 @@ California Grocers Association (July 6, 2007)	CALIFORNIA GROCERS ASSOCIATION	gro
 California Grocers Association, Co-sponsors	CALIFORNIA GROCERS ASSOCIATION	grocers-assn
 California Growers Association (prior version)	California Growers Association	growers-assn
 California Guild- Sponsor	CALIFORNIA GUILD	california-guild
+California Hawaii Conference of the NAACP	National Association for the Advancement of Colored People (NAACP)	naacp
+California Hawaii National Association of Colored People	National Association for the Advancement of Colored People (NAACP)	naacp
+California Hawaii State Conference National Association for the Advancement of Colored People	National Association for the Advancement of Colored People (NAACP)	naacp
+California Hawaii State Conference of the National Association for the Advancement of Colored People	National Association for the Advancement of Colored People (NAACP)	naacp
+California Hawaii State Conference of the National Association for the Advancement of Colored People (NAACP)	National Association for the Advancement of Colored People (NAACP)	naacp
+California Hawaii State NAACP	National Association for the Advancement of Colored People (NAACP)	naacp
 California Head Start Association: CalWORKs@College of Marin	California Head Start Association	head-start
 California Health Access	Health Access	health-access
 California Health Advocates - Support	CALIFORNIA HEALTH ADVOCATES	health-advocates
@@ -5207,8 +5614,21 @@ California Land Surveyors Association (CLSA - sponsor)	CALIFORNIA LAND SURVEYORS
 California Land Surveyors Association [SPONSOR]CA State	CALIFORNIA LAND SURVEYORS ASSOCIATION	CA Land Surveyors
 California Land Surveyors Association CA State	CALIFORNIA LAND SURVEYORS ASSOCIATION	CA Land Surveyors
 California Land Surveyors AssociationCA State	CALIFORNIA LAND SURVEYORS ASSOCIATION	CA Land Surveyors
+California Land Title Assn	California Land Title Association	CA Land Title
+California Land Title Assoc	California Land Title Association	CA Land Title
+California Land Title Association (3/26/15 version)	California Land Title Association	CA Land Title
+California Land Title Association (as proposed to be amended)	California Land Title Association	CA Land Title
+California Land Title Association (CLTA) - Sponsor	California Land Title Association	CA Land Title
+California Land Title Association (CLTA) also	California Land Title Association	CA Land Title
 California Land Title Association (NOTE: Amendments of 6/1/05 offered on the Senate Floor address some of the concerns of these groups.)	California Land Title Association	CA Land Title
 California Land Title Association (NOTE: Amendments will be offered on the Senate Floor to address some of the concerns of these groups.)	California Land Title Association	CA Land Title
+California Land Title Association (reflects prior amended version)	California Land Title Association	CA Land Title
+California Land Title Association (sponsor)Unknown	California Land Title Association	CA Land Title
+California Land Title Association - Sponsor	California Land Title Association	CA Land Title
+California Land Title Association Unknown	California Land Title Association	CA Land Title
+California Land Title Association, County	California Land Title Association	CA Land Title
+California Land Title AssociationUnknown	California Land Title Association	CA Land Title
+California Land Tittle Association	California Land Title Association	CA Land Title
 California Landscape & Irrigation Council (prior version)	California Landscape and Irrigation Council	Landscape Irrigation Council
 California Landscape Contractors Association (CLCA): states a "Support if Amended" position	CALIFORNIA LANDSCAPE CONTRACTORS ASSOCIATION	Landscape Contractors Assn
 California Landscape Contractors Association (committee	CALIFORNIA LANDSCAPE CONTRACTORS ASSOCIATION	Landscape Contractors Assn
@@ -5223,6 +5643,16 @@ California Latino Legislative Caucus (prior version)	California Legislature Lati
 California Law Enforcement Association of Records Supervisors: Currently	CALIFORNIA LAW ENFORCEMENT ASSOCIATION OF RECORDS SUPERVISORS	CLEARS
 California Law Enforcement Records Supervisors	CALIFORNIA LAW ENFORCEMENT ASSOCIATION OF RECORDS SUPERVISORS	CLEARS
 California Law Revision Commission (Section 2)	CALIFORNIA LAW REVISION COMMISSION	Law Revision Commission
+California Lawyers Association (support for the bill in print)	California Lawyers Association	Lawyers Association
+California Lawyers Association - Business Law Section	California Lawyers Association	Lawyers Association
+California Lawyers Association - Taxation Section	California Lawyers Association	Lawyers Association
+California Lawyers Association - Trust and Estates Section	California Lawyers Association	Lawyers Association
+California Lawyers Association, Business Law Section, Nonprofit Organizations Committee and Corporations Committee (sponsors)	California Lawyers Association	Lawyers Association
+California Lawyers Association, Executive Committee of the Trusts and Estates Section	California Lawyers Association	Lawyers Association
+California Lawyers Association, Trust and Estates Section	California Lawyers Association	Lawyers Association
+California Lawyers Association, Trusts and Estates and Taxation Sections	California Lawyers Association	Lawyers Association
+California Lawyers Association, Trusts and Estates Section and Taxation Section	California Lawyers Association	Lawyers Association
+California Lawyers Association, Trusts and Estates Section Executive Committee (TEXCOM)	California Lawyers Association	Lawyers Association
 California League of Conservation Voters (in concept)	CALIFORNIA LEAGUE OF CONSERVATION VOTERS	League of Conservation Voters
 California League of Conservation Voters - Education Fund	League of Conservation Voters Education Fund	League of Conservation Voters
 California League of Conservation Voters and	CALIFORNIA LEAGUE OF CONSERVATION VOTERS	League of Conservation Voters
@@ -5419,6 +5849,40 @@ California Nurse Midwives Association states	CALIFORNIA NURSE MIDWIVES ASSOCIATI
 California Nurse- Midwives Association	CALIFORNIA NURSE MIDWIVES ASSOCIATION	Nurse-Midwives Assoc
 California Nurse-Midwives Association (CNMA - sponsor)	CALIFORNIA NURSE MIDWIVES ASSOCIATION	Nurse-Midwives Assoc
 California Nurse-Midwives Association (UNREG)	CALIFORNIA NURSE MIDWIVES ASSOCIATION	Nurse-Midwives Assoc
+California Nurses Association (and amend)	CALIFORNIA NURSES ASSOCIATION	Nurses Association
+California Nurses Association (as amended)	CALIFORNIA NURSES ASSOCIATION	Nurses Association
+California Nurses Association (As of April 3, 2013.)	CALIFORNIA NURSES ASSOCIATION	Nurses Association
+California Nurses Association (August 7, 2007)	CALIFORNIA NURSES ASSOCIATION	Nurses Association
+California Nurses Association (CNA) (5/8/96)	CALIFORNIA NURSES ASSOCIATION	Nurses Association
+California Nurses Association (CNA) supports the sunset extension but requests amendments limiting the CRB reporting provisions and	CALIFORNIA NURSES ASSOCIATION	Nurses Association
+California Nurses Association (current version of the bill)	CALIFORNIA NURSES ASSOCIATION	Nurses Association
+California Nurses Association (opposition to prior version)	CALIFORNIA NURSES ASSOCIATION	Nurses Association
+California Nurses Association (Previous version)	CALIFORNIA NURSES ASSOCIATION	Nurses Association
+California Nurses Association (previous version)	CALIFORNIA NURSES ASSOCIATION	Nurses Association
+California Nurses Association (prior version of bill)	CALIFORNIA NURSES ASSOCIATION	Nurses Association
+California Nurses Association - Sponsor	CALIFORNIA NURSES ASSOCIATION	Nurses Association
+California Nurses Association - Verified March 27	CALIFORNIA NURSES ASSOCIATION	Nurses Association
+California Nurses Association --END	CALIFORNIA NURSES ASSOCIATION	Nurses Association
+California Nurses Association [June 5, 2012	CALIFORNIA NURSES ASSOCIATION	Nurses Association
+California Nurses Association and other labor groups also	CALIFORNIA NURSES ASSOCIATION	Nurses Association
+California Nurses Association and supported by other labor groups	CALIFORNIA NURSES ASSOCIATION	Nurses Association
+California Nurses Association and supported by the Board of Registered Nursing and other labor organizations	CALIFORNIA NURSES ASSOCIATION	Nurses Association
+California Nurses Association CNA)	CALIFORNIA NURSES ASSOCIATION	CNA
+California Nurses Association One individual	CALIFORNIA NURSES ASSOCIATION	CNA
+California Nurses Association)	CALIFORNIA NURSES ASSOCIATION	CNA
+California Nurses Association, national Nurses Organizing Committee	CALIFORNIA NURSES ASSOCIATION	CNA
+California Nurses Association, National Nurses United	CALIFORNIA NURSES ASSOCIATION	CNA
+California Nurses Association, sponsor of the bill	CALIFORNIA NURSES ASSOCIATION	CNA
+California Nurses Association-National Nurses United	CALIFORNIA NURSES ASSOCIATION	CNA
+California Nurses Association/ National Nurses United (CNA)	CALIFORNIA NURSES ASSOCIATION	CNA
+California Nurses Association/National Nurses Organizing Com	CALIFORNIA NURSES ASSOCIATION	CNA
+California Nurses Association/National Nurses Organizing Committee, National Nurses United	CALIFORNIA NURSES ASSOCIATION	CNA
+California Nurses Association/National Nurses United (CNA) has taken an	CALIFORNIA NURSES ASSOCIATION	CNA
+California Nurses Association/National Nurses United has an	CALIFORNIA NURSES ASSOCIATION	CNA
+California Nurses Association/National United Nurses	CALIFORNIA NURSES ASSOCIATION	CNA
+California Nurses Association/National United Nurses (CNA)	CALIFORNIA NURSES ASSOCIATION	CNA
+California Nurses Association: GOVERNOR'S VETO MESSAGE	CALIFORNIA NURSES ASSOCIATION	CNA
+California Nurses Association: Neutral, Department of Finance	CALIFORNIA NURSES ASSOCIATION	CNA
 California Officers Association (CCPOA)	California Correctional Peace Officers Association	CCPOA
 California Officers' Association	California Correctional Peace Officers Association	CCPOA
 California Olive Ranch (COR)	California Olive Ranch	Olive Ranch
@@ -5528,7 +5992,23 @@ California Probation, parole Association	CALIFORNIA PROBATION PAROLE AND CORRECT
 California Probation, Parole, Correctional Association	CALIFORNIA PROBATION PAROLE AND CORRECTIONAL ASSOCIATION	CA Probation Parole Correctional
 California Profesional Employees Local Union 2345	American Federation of State, County and Municipal Employees (AFSCME)	AFSCME
 California Professional Association for Specialty Contractors	CALIFORNIA PROFESSIONAL ASSOCIATION OF SPECIALTY CONTRACTORS	CALPASC
+California Professional Firefighteres	California Professional Firefighters (CPF)	CPF
+California Professional Firefighters (5/23/12)	California Professional Firefighters (CPF)	CPF
+California Professional Firefighters (co-sponsors)	California Professional Firefighters (CPF)	CPF
 California Professional Firefighters (cosponsors)	California Professional Firefighters (CPF)	CPF
+California Professional Firefighters (CPF) [June 7, 2012	California Professional Firefighters (CPF)	CPF
+California Professional Firefighters (CPF) also	California Professional Firefighters (CPF)	CPF
+California Professional Firefighters (CPF) are	California Professional Firefighters (CPF)	CPF
+California Professional Firefighters (CPF), Oppose	California Professional Firefighters (CPF)	CPF
+California Professional Firefighters (previous version)	California Professional Firefighters (CPF)	CPF
+California Professional Firefighters (sponsors)	California Professional Firefighters (CPF)	CPF
+California Professional Firefighters - co-sponsor	California Professional Firefighters (CPF)	CPF
+California Professional Firefighters - Co-Sponsor	California Professional Firefighters (CPF)	CPF
+California Professional Firefighters - Support	California Professional Firefighters (CPF)	CPF
+California Professional Firefighters [CPF	California Professional Firefighters (CPF)	CPF
+California Professional Firefightersz	California Professional Firefighters (CPF)	CPF
+California Professional Firefigthers	California Professional Firefighters (CPF)	CPF
+California Professional Fireghters	California Professional Firefighters (CPF)	CPF
 California Prolife Council	California Pro-Life Council	CA ProLife Council
 California ProLife Council (opposed last session's legislation)	California Pro-Life Council	CA ProLife Council
 California ProLife Council Inc	California Pro-Life Council	CA ProLife Council
@@ -5590,6 +6070,15 @@ California Public Interest Research Groups	California Public Interest Research G
 California Public Interest Resource Group	California Public Interest Research Group	CALPIRG
 California Public Securities Association (as amended April 6, 2006)	California Public Securities Association (Cal PSA)	CalPSA
 California Public Securities Association (as amended May 9, 2006)	California Public Securities Association (Cal PSA)	CalPSA
+California Public Utilities Commission (as amended)	CALIFORNIA PUBLIC UTILITIES COMMISSION	CPUC
+California Public Utilities Commission (CPUC) (in concept)	CALIFORNIA PUBLIC UTILITIES COMMISSION	CPUC
+California Public Utilities Commission (CPUC) (Oppose)	CALIFORNIA PUBLIC UTILITIES COMMISSION	CPUC
+California Public Utilities Commission (CPUC) (Support in concept)	CALIFORNIA PUBLIC UTILITIES COMMISSION	CPUC
+California Public Utilities Commission (CPUC)- Sponsor	CALIFORNIA PUBLIC UTILITIES COMMISSION	CPUC
+California Public Utilities Commission (Sponsor)	CALIFORNIA PUBLIC UTILITIES COMMISSION	CPUC
+California Public Utilities Commission - Sponsor	CALIFORNIA PUBLIC UTILITIES COMMISSION	CPUC
+California Public Utilities Commission Legislative Subcommittee (Recommendation)	CALIFORNIA PUBLIC UTILITIES COMMISSION	CPUC
+California Public Utilities Committee	CALIFORNIA PUBLIC UTILITIES COMMISSION	CPUC
 California Pyschiatric Association	California Psychiatric Association	CPA
 California Quality Addiction Treatment Coalition (California Society of Addiction Medicine	California Quality Addiction Treatment Coalition	CQATC
 California Radiological Society (4/6/15 version)	CALIFORNIA RADIOLOGICAL SOCIETY	CRS
@@ -5616,7 +6105,22 @@ California Resources and Training, Selma Taylor, Executive Direcgtor	California 
 California Restaurant Associaition	The California Restaurant Association (CRA)	Restaurant Assn
 California Restaurant Association (May 30, 2007)	The California Restaurant Association (CRA)	Restaurant Assn
 California Restaurant Association (prior version)	The California Restaurant Association (CRA)	Restaurant Assn
+California Retailers Ass'n	California Retailers Association	Retailers Assn
+California Retailers Association (1/21/04)	California Retailers Association	Retailers Assn
+California Retailers Association (5/8/14 coalition letter)	California Retailers Association	Retailers Assn
+California Retailers Association (April 12, 2007)	California Retailers Association	Retailers Assn
+California Retailers Association (as amended May 21, 2015)	California Retailers Association	Retailers Assn
+California Retailers Association (as introduced)	California Retailers Association	Retailers Assn
 California Retailers Association (committee analysis)	California Retailers Association	Retailers Assn
+California Retailers Association (Concerns)	California Retailers Association	Retailers Assn
+California Retailers Association (for previous version of the bill)	California Retailers Association	Retailers Assn
+California Retailers Association (previous version)	California Retailers Association	Retailers Assn
+California Retailers Association (service contract provisions)	California Retailers Association	Retailers Assn
+California Retailers Association (sponsor of SUT provisions)	California Retailers Association	Retailers Assn
+California Retailers Association - Sponsor	California Retailers Association	Retailers Assn
+California Retailers Association et al	California Retailers Association	Retailers Assn
+California Retailers Association, Oppose	California Retailers Association	Retailers Assn
+California Retailers' Association AB 2573 (Runner)	California Retailers Association	Retailers Assn
 California Retired Teachers Association (CRTA) sponsor	CALIFORNIA RETIRED TEACHERS ASSOCIATION	Retired Teachers
 California Retired Teachers Association (previous version)	CALIFORNIA RETIRED TEACHERS ASSOCIATION	Retired Teachers
 California Rheumatology Alliance (CRA)	California Rheumatology Alliance	Rheumatology Alliance
@@ -5632,12 +6136,43 @@ California Rifle and Pistol Assoc., Inc	CALIFORNIA RIFLE AND PISTOL ASSOCIATION	
 California Rifle and Pistol Association (previous version of bill)	CALIFORNIA RIFLE AND PISTOL ASSOCIATION	Rifle Pistol
 California Rifle and Pistol Association (THIS ANALYSIS REFLECTS AUTHOR'S AMENDMENTS TO BE OFFERED IN COMMITTEE - SEE COMMENT 3.)	CALIFORNIA RIFLE AND PISTOL ASSOCIATION	Rifle Pistol
 California Rifle and Pistol Association, Incorporated	CALIFORNIA RIFLE AND PISTOL ASSOCIATION	Rifle Pistol
+California Right to Life Committee (CRLC) writes in opposition that it continue	CALIFORNIA RIGHT TO LIFE COMMITTEE	Right to Life
+California Right to Life Committee (CRLC), in opposition	CALIFORNIA RIGHT TO LIFE COMMITTEE	Right to Life
+California Right to Life Committee (letter dated 7/3/07)	CALIFORNIA RIGHT TO LIFE COMMITTEE	Right to Life
+California Right to Life Committee (previous version)	CALIFORNIA RIGHT TO LIFE COMMITTEE	Right to Life
+California Right to Life Committee has an	CALIFORNIA RIGHT TO LIFE COMMITTEE	Right to Life
+California Right to Life Committee states "CRLC continues	CALIFORNIA RIGHT TO LIFE COMMITTEE	Right to Life
+California Right to Life Committee Two individuals	CALIFORNIA RIGHT TO LIFE COMMITTEE	Right to Life
+California Right to Life Committee, Inc. (2/20/2014 version)	CALIFORNIA RIGHT TO LIFE COMMITTEE	Right to Life
+California Right to Life Committee, Inc. (prior version)	CALIFORNIA RIGHT TO LIFE COMMITTEE	Right to Life
+California Right to Life Political Action! Committee	CALIFORNIA RIGHT TO LIFE COMMITTEE	Right to Life
+California Rural Legal Assistance Foundation (as introduced)	CALIFORNIA RURAL LEGAL ASSISTANCE FOUNDATION	CRLAF
+California Rural Legal Assistance Foundation (Co sponsor)	CALIFORNIA RURAL LEGAL ASSISTANCE FOUNDATION	CRLAF
+California Rural Legal Assistance Foundation (co-source Policy Link	CALIFORNIA RURAL LEGAL ASSISTANCE FOUNDATION	CRLAF
+California Rural Legal Assistance Foundation (CRLAF) is the sponsor of this measure and	CALIFORNIA RURAL LEGAL ASSISTANCE FOUNDATION	CRLAF
+California Rural Legal Assistance Foundation (in concept)	CALIFORNIA RURAL LEGAL ASSISTANCE FOUNDATION	CRLAF
+California Rural Legal Assistance Foundation (oppose	CALIFORNIA RURAL LEGAL ASSISTANCE FOUNDATION	CRLAF
+California Rural Legal Assistance Foundation (prior version)	CALIFORNIA RURAL LEGAL ASSISTANCE FOUNDATION	CRLAF
+California Rural Legal Assistance Foundation - Co-Sponsor	CALIFORNIA RURAL LEGAL ASSISTANCE FOUNDATION	CRLAF
+California Rural Legal Assistance Foundation is the organization that is the source of the bill	CALIFORNIA RURAL LEGAL ASSISTANCE FOUNDATION	CRLAF
+California Rural Legal Assistance Foundation, Inc. (CRLAF)	CALIFORNIA RURAL LEGAL ASSISTANCE FOUNDATION	CRLAF
+California Rural Legal Assistance Foundation, Inc. (prior version)	CALIFORNIA RURAL LEGAL ASSISTANCE FOUNDATION	CRLAF
+California Rural Legal Foundation Assistance	CALIFORNIA RURAL LEGAL ASSISTANCE FOUNDATION	CRLAF
 California Safety and Legislative Board of Sheet Metal Air Rail and Transportation	California Safety and Legislative Board of Smart - Transportation Division	SMART
 California Safety and Legislative Board of SMART-Transportation Division	California Safety and Legislative Board of Smart - Transportation Division	SMART
 California Safety and Legislative Board of the Sheet Metal, Air, Rail, and Transportation Workers	California Safety and Legislative Board of Smart - Transportation Division	SMART
 California Sate Conference of the National Association for the Advancement of Colored People (NAACP)	National Association for the Advancement of Colored People (NAACP)	NAACP
 California SBDC Orange County/Inland Empire Regional Network	California SBDC	SBDC
 California School - Age Consortium	California School Age Consortium	School-Age Consortium
+California School Board Association (CSBA), Support	CALIFORNIA SCHOOL BOARDS ASSOCIATION	School Boards
+California School Boards Association (co-sponsors)	CALIFORNIA SCHOOL BOARDS ASSOCIATION	School Boards
+California School Boards Association (CSBA) - SPONSOR	CALIFORNIA SCHOOL BOARDS ASSOCIATION	School Boards
+California School Boards Association (CSBA), Support	CALIFORNIA SCHOOL BOARDS ASSOCIATION	School Boards
+California School Boards Association (earlier version of bill)	CALIFORNIA SCHOOL BOARDS ASSOCIATION	School Boards
+California School Boards Association (Opposed	CALIFORNIA SCHOOL BOARDS ASSOCIATION	School Boards
+California School Boards Association (Principal Co-Sponsor)	CALIFORNIA SCHOOL BOARDS ASSOCIATION	School Boards
+California School Boards Association (prior version)	CALIFORNIA SCHOOL BOARDS ASSOCIATION	School Boards
+California School Boards Association - cosponsor	CALIFORNIA SCHOOL BOARDS ASSOCIATION	School Boards
 California School Bus Contractors Association (Prior version of bill)	California School Bus Contractors	School Bus Contractors
 California School Employees Ass. (2/24/95 version)	CALIFORNIA SCHOOL EMPLOYEES ASSOCIATION	CSEA
 California School Employees Asso. (CSEA)	CALIFORNIA SCHOOL EMPLOYEES ASSOCIATION	CSEA
@@ -5840,8 +6375,14 @@ California State Controller Dave Jones	STATE CONTROLLER	State Controller
 California State Controller, Steve Westley	STATE CONTROLLER	State Controller
 California State Coroner's Association, County of	CALIFORNIA STATE CORONERS' ASSOCIATION	Coroners Assn
 California State Council - American Society of Civil Engineers	American Society of Civil Engineers, California State Council	ASCE
+California State Council - Service Employees International Union	California State Council of Service Employees International Union	SEIU CA State Council
 California State Council of Laborers - Sponsor	CALIFORNIA STATE COUNCIL OF LABORERS	State Council of Laborers
+California State Council of SEIU (C-source)	California State Council of Service Employees International Union	SEIU CA State Council
+California State Council Of Service Employees (prior version)	California State Council of Service Employees International Union	SEIU CA State Council
 California State Council of Service Employees (SEIU CA)	California State Council of Service Employees International Union	SEIU CA State Council
+California State Council of Service Employees (SEIU) (prior version)	California State Council of Service Employees International Union	SEIU CA State Council
+California State Council of Service Employees International Union - SEIU California	California State Council of Service Employees International Union	SEIU CA State Council
+California State Council of Service Employees International Union co-sponsor)	California State Council of Service Employees International Union	SEIU CA State Council
 California State Council of Service Employees, SEIU	California State Council of Service Employees International Union	SEIU CA State Council
 California State Council of Services Employees International Union	California State Council of Service Employees International Union	SEIU CA State Council
 California State council on Laborers	CALIFORNIA STATE COUNCIL OF LABORERS	State Council of Laborers
@@ -5860,7 +6401,19 @@ California State Floral Association (Sponsors)	CALIFORNIA STATE FLORAL ASSOCIATI
 California State Grange None received	California State Grange	CA Grange
 California State Hospice Association (CSHA - sponsors)	California State Hospice Association	CA Hospice Assn
 California State Insurance Commissioner Ricardo Lara	California Insurance Commissioner	CA Insurance Commissioner
+California State Legislative Board of Sheet Metal, Air, Rail and Transportation	California State Legislative Board, Sheet Metal, Air, Rail and Transportation Workers	SMART-TD CA Board
+California State Legislative Board of Sheet Metal, Air, Rail and Transportation Workers	California State Legislative Board, Sheet Metal, Air, Rail and Transportation Workers	SMART-TD CA Board
+California State Legislative Board of Sheet Metal, Air, Rail and Transportation Workers- Transportation Division	California State Legislative Board, Sheet Metal, Air, Rail and Transportation Workers	SMART-TD CA Board
+California State Legislative Board of The Sheet Metal, Air, Rail and Transportation Workers	California State Legislative Board, Sheet Metal, Air, Rail and Transportation Workers	SMART-TD CA Board
+California State Legislative Board of The Sheet Metal, Air, Rail and Transportation Workers - Transportation Division	California State Legislative Board, Sheet Metal, Air, Rail and Transportation Workers	SMART-TD CA Board
+California State Legislative Board of the SMART-Transportation Division	California State Legislative Board, Sheet Metal, Air, Rail and Transportation Workers	SMART-TD CA Board
 California State Legislative Board, Brotherhood of Locomotive Engineers	California State Legislative Board, Brotherhood of Locomotive Engineers & Trainmen	BLET CA Board
+California State Legislative Board, Sheet Metal Air Rail and Transportation Workers	California State Legislative Board, Sheet Metal, Air, Rail and Transportation Workers	SMART-TD CA Board
+California State Legislative Board, Sheet Metal, Air, Rail and Transportation Workers - TD (SMART-TD)	California State Legislative Board, Sheet Metal, Air, Rail and Transportation Workers	SMART-TD CA Board
+California State Legislative Board, Sheet Metal, Air, Rail and Transportation Workers Transportation Division	California State Legislative Board, Sheet Metal, Air, Rail and Transportation Workers	SMART-TD CA Board
+California State Legislative Board, Sheet Metal, Air, Rail and Transportation Workers, Transportation Division	California State Legislative Board, Sheet Metal, Air, Rail and Transportation Workers	SMART-TD CA Board
+California State Legislative Board, Sheet Metal, Air, Rail and Transportation Workers, Transportation Division (SMART-TD)	California State Legislative Board, Sheet Metal, Air, Rail and Transportation Workers	SMART-TD CA Board
+California State Legislative Board, Sheet Metal, Air, Rail and Transportation Workers-Transportation Division	California State Legislative Board, Sheet Metal, Air, Rail and Transportation Workers	SMART-TD CA Board
 California State Legislative Board/Brotherhood of Locomotive Engineers &Trainmen/IBT Rail Conference	California State Legislative Board, Brotherhood of Locomotive Engineers & Trainmen	BLET CA Board
 California State Library Foundation	California State Library Foundation	CA State Library Foundation
 California State Lodge - Fraternal Order of Police	California State Fraternal Order of Police	CA FOP
@@ -5886,15 +6439,50 @@ California State Retirees states	California State Retirees Association	State Ret
 California State Rural Health Association (prior version)	California Rural Health Association	Rural Health
 California State Secretary of Education, Richard J. Riordan	Secretary of Education	Sec of Education
 California State Senate President pro Tem Emeritus Darrell Steinberg	State Senate	State Senate
+California State Sheriff's Association (4/11)	California State Sheriffs Association, SB	Sheriffs
+California State Sheriff's Association (analyzed the bill as introduced)	California State Sheriffs Association, SB	Sheriffs
+California State Sheriff's Association (support in concept)	California State Sheriffs Association, SB	Sheriffs
+California State Sheriff's Association, City of	California State Sheriffs Association, SB	Sheriffs
+California State Sheriff's AssociationUnknown	California State Sheriffs Association, SB	Sheriffs
 California State Sheriff's Department, Stanislaus County	Stanislaus County Sheriff's Office	Stanislaus Sheriff
+California State Sheriffs ' Association	California State Sheriffs Association, SB	Sheriffs
+California State Sheriffs" Association	California State Sheriffs Association, SB	Sheriffs
+California State Sheriffs' Association ("support in concept")	California State Sheriffs Association, SB	Sheriffs
+California State Sheriffs' Association (4/20/15 version)	California State Sheriffs Association, SB	Sheriffs
+California State Sheriffs' Association (4/3)	California State Sheriffs Association, SB	Sheriffs
+California State Sheriffs' Association (as proposed to be amended	California State Sheriffs Association, SB	Sheriffs
+California State Sheriffs' Association (CSSA) remains respectfully	California State Sheriffs Association, SB	Sheriffs
+California State Sheriffs' Association (in Concept)	California State Sheriffs Association, SB	Sheriffs
+California State Sheriffs' Association (previous version)	California State Sheriffs Association, SB	Sheriffs
+California State Sheriffs' Association: Currently	California State Sheriffs Association, SB	Sheriffs
+California State Sheriffso Association ( no ocooling offo period)	California State Sheriffs Association, SB	Sheriffs
+California State Sherriff's Association, writing in support	California State Sheriffs Association, SB	Sheriffs
 California State Student Association (4/4)	CAL STATE STUDENT ASSOCIATION	Student Assoc
 California State Student Association (prior version)	CAL STATE STUDENT ASSOCIATION	Student Assoc
 California State Student Association (Sponsors)	CAL STATE STUDENT ASSOCIATION	Student Assoc
 California State Teachers' Retirement System - prior version	California State Teachers' Retirement System Board	CalSTRS
 California State Teachers' Retirement System, Oppose	California State Teachers' Retirement System Board	CalSTRS
+California State Treasure Bill Lockyer	CALIFORNIA STATE TREASURER	State Treasurer
+California State Treasurer - Bill Lockyer	CALIFORNIA STATE TREASURER	State Treasurer
+California State Treasurer - Sponsor	CALIFORNIA STATE TREASURER	State Treasurer
+California State Treasurer Bill	CALIFORNIA STATE TREASURER	State Treasurer
+California State Treasurer Philip Angelides	CALIFORNIA STATE TREASURER	State Treasurer
+California State Treasurer Ricardo Lara	CALIFORNIA STATE TREASURER	State Treasurer
+California State Treasurer, Fiona Ma, CPA	CALIFORNIA STATE TREASURER	State Treasurer
+California State University (previous version)	CALIFORNIA STATE UNIVERSITY	CSU
+California State University Emeritus and Retired Faculty and Staff Association	CALIFORNIA STATE UNIVERSITY	CSU
 California State University Employees Union - SEIU Local 2579	CALIFORNIA STATE UNIVERSITY EMPLOYEES' UNION	CSUEU
 California State University Employees Union/SEIU 2579, Chapter 305, San Francisco State University	CALIFORNIA STATE UNIVERSITY EMPLOYEES' UNION	CSUEU
 California State University Employees' Union (CSUEU)	CALIFORNIA STATE UNIVERSITY EMPLOYEES' UNION	CSUEU
+California State University, (CSU), Oppose	CALIFORNIA STATE UNIVERSITY	CSU
+California State University, Fresno (Department of Communicative Disorders and Deaf Studies)	CALIFORNIA STATE UNIVERSITY	CSU
+California State University, Los Angeles, Charter College of Education	CALIFORNIA STATE UNIVERSITY	CSU
+California State University, Monterey Bay President Eduardo Ochoa	CALIFORNIA STATE UNIVERSITY	CSU
+California State University, Office of the Chancellor (Sponsors)	CALIFORNIA STATE UNIVERSITY	CSU
+California State University, San Jos	CALIFORNIA STATE UNIVERSITY	CSU
+California State University, Stanislaus - Ethnic Studies program	CALIFORNIA STATE UNIVERSITY	CSU
+California State University, Stanislaus Director of Public Safety	CALIFORNIA STATE UNIVERSITY	CSU
+California State University, Stanlislaus - Ethnic Studies program	CALIFORNIA STATE UNIVERSITY	CSU
 California State-Wide Law Enforcement Association	CALIFORNIA STATEWIDE LAW ENFORCEMENT ASSOCIATION	CSLEA
 California Strawberry Commission (prior version)	CA Strawberry Commission	Strawberry Commission
 California Street Vendor Campaign (as amended)	California Street Vendor Campaign	Street Vendor Campaign
@@ -5949,6 +6537,16 @@ California Teachers Association, Community College Association	CALIFORNIA TEACHE
 California Teachers of English to	California Teachers of English to Speakers of Other Languages (CATESOL)	CATESOL
 California Teachers of English to: Speakers of Other Languages	California Teachers of English to Speakers of Other Languages (CATESOL)	CATESOL
 California Teaching Fellows Foundation (prior version)	California Teaching Fellows Foundation	Teaching Fellows
+California Teamsters Public Affairs Council (April 23, 2007)	California Teamsters Public Affairs Council	Teamsters
+California Teamsters Public Affairs Council (as introduced)	California Teamsters Public Affairs Council	Teamsters
+California Teamsters Public Affairs Council (co sponsor)	California Teamsters Public Affairs Council	Teamsters
+California Teamsters Public Affairs Council (Co-sponsors)	California Teamsters Public Affairs Council	Teamsters
+California Teamsters Public Affairs Council (Sponsors)	California Teamsters Public Affairs Council	Teamsters
+California Teamsters Public Affairs Council 04/17/95	California Teamsters Public Affairs Council	Teamsters
+California Teamsters Public Affairs Council 06/14/95	California Teamsters Public Affairs Council	Teamsters
+California Teamsters Public Affairs Council 4/9/96	California Teamsters Public Affairs Council	Teamsters
+California Teamsters Public Affairs Council 6/12/96	California Teamsters Public Affairs Council	Teamsters
+California Teamsters Public Affairs Council 6/14/00	California Teamsters Public Affairs Council	Teamsters
 California Teamsters Public Affairs Council 7/20/00	California Teamsters Public Affairs Council	Teamsters PAC
 California Teen for Life	California Teens for Life	Teens for Life
 California Tele-Health Network	California Telehealth Network	Telehealth Network
@@ -6036,6 +6634,15 @@ California YIMBY (prior version)	YIMBY	California YIMBY
 California YIMBY, City Of	YIMBY	California YIMBY
 California YIMBY, one of the bill sponsors	YIMBY	California YIMBY
 California YIMBY, the bill sponsor	YIMBY	California YIMBY
+California Youth Connection (as introduced)	CALIFORNIA YOUTH CONNECTION	CA Youth Connection
+California Youth Connection (commitee analysis)	CALIFORNIA YOUTH CONNECTION	CA Youth Connection
+California Youth Connection (committee analysis)	CALIFORNIA YOUTH CONNECTION	CA Youth Connection
+California Youth Connection (CYC) - co-sponsor	CALIFORNIA YOUTH CONNECTION	CA Youth Connection
+California Youth Connection (CYC) - Sponsor	CALIFORNIA YOUTH CONNECTION	CA Youth Connection
+California Youth Connection (CYC) sponsor	CALIFORNIA YOUTH CONNECTION	CA Youth Connection
+California Youth Connection (sponsors)	CALIFORNIA YOUTH CONNECTION	CA Youth Connection
+California Youth Connection - sponsor	CALIFORNIA YOUTH CONNECTION	CA Youth Connection
+California Youth Connections (previous version)	CALIFORNIA YOUTH CONNECTION	CA Youth Connection
 California Youth Empowerment Network (PRIOR VERSION)	CALIFORNIA YOUTH EMPOWERMENT NETWORK	CA Youth Empowerment Network
 California YouthBuild Coalition - Sponsor	California Youthbuild Coalition (CAYB)	CA YouthBuild Coalition
 California's 100% Campaign, a coalition of	100% CAMPAIGN: HEALTH INSURANCE FOR EVERY CALIFORNIA CHILD	100% Campaign
@@ -6061,6 +6668,7 @@ California/Nevada Snowmobile Association	California-Nevada Snowmobile Associatio
 CaliforniaHealth +Advocates	CALIFORNIA HEALTH ADVOCATES	CaliforniaHealth+
 CaliforniaHealth+ Advocates (CPCA)	CALIFORNIA HEALTH ADVOCATES	CaliforniaHealth+
 Californiahealth+ Advocates (prior version)	CALIFORNIA HEALTH ADVOCATES	CaliforniaHealth+
+Californian Alliance for Retired Americans (CARA)	CALIFORNIA ALLIANCE FOR RETIRED AMERICANS	CARA
 Californian Association of HMOs	California Association of HMOs, Inc., Health	HMOs
 Californians Against Waste, California	CALIFORNIANS AGAINST WASTE	CAW
 Californians for a Healthy and Green Economy (04/1/14 version)	Californians for a Healthy and Green Economy Coalition	CHANGE
@@ -6185,10 +6793,13 @@ Habitat for Humanity, California	Habitat for Humanity	habitat-humanity
 Humboldt County District Attorney	District Attorneys	humboldt-da
 IATSE Local 839	Animation Guild, IATSE	iatse-839
 IATSE Local 871	Accountants & Allied Production Specialists Guild: IATSE	iatse-871
+IBEW Local 302	INTERNATIONAL BROTHERHOOD OF ELECTRICAL WORKERS	ibew
 Indivisible CA: State Strong	Indivisible	indivisible
 Indivisible Green Team	Indivisible	indivisible
 Indivisible Resisters Walnut Creek	Indivisible	indivisible
 Indivisible Westside L.a	Indivisible	indivisible
+International Brotherhood of Electrical Workers Local 569	INTERNATIONAL BROTHERHOOD OF ELECTRICAL WORKERS	ibew
+International Brotherhood of Electrical Workers, Local 18	INTERNATIONAL BROTHERHOOD OF ELECTRICAL WORKERS	ibew
 Kern County Firefighters Local 1301 Union	International Association of Fire Fighters	iaff
 Lassen County Sheriff's Office	Lassen County Sheriff/Coroner	lassen-sheriff
 Los Angeles County Inter-Agency Council on Child Abuse and Neglect	Los Angeles County - Inter-Agency Council on Child Abuse	la-interagency
@@ -6231,6 +6842,7 @@ Students Against Animal Cruelty Club - Hueneme High School	Students Against Anim
 Teach Plus California	Teach Plus	Teach Plus
 Teamsters Local 986	International Brotherhood of Teamsters	International Brotherhood of Teamsters
 The American Civil Liberties Union of California	American Civil Liberties Union	American Civil Liberties Union
+The California Federation of Teachers	California Federation of Teachers	California Federation of Teachers
 The California Police Chiefs Association	California Police Chiefs Association	California Police Chiefs Association
 The California Restaurant Association	National Restaurant Association	National Restaurant Association
 The California Retailers Association	California Retailers Association	California Retailers Association
@@ -6286,6 +6898,8 @@ California Association of Community Organizations for Reform Now	ASSOCIATION OF 
 California Association of Health Plans (previous version)	CALIFORNIA ASSOCIATION OF HEALTH PLANS	california association of health plans
 California Association of Realtors (prior version)	CALIFORNIA ASSOCIATION OF REALTORS	california association of realtors
 California Association of Resource Specialists and Special: Education Teachers	California Association of Resource Specialists and Special	california association of resource specialists
+California Audubon	National Audubon Society	national audubon society
+California Audubon Society	National Audubon Society	national audubon society
 California Business Properties Assoc	CALIFORNIA BUSINESS PROPERTIES ASSOCIATION	california business properties association
 California Clean Money Campaign (prior version)	CALIFORNIA CLEAN MONEY CAMPAIGN	california clean money campaign
 California Commission on Aging (prior version)	CALIFORNIA COMMISSION ON AGING	california commission on aging
@@ -6388,6 +7002,7 @@ Merced County Sheriff's Office	Merced County Sheriff and Coroner	Merced County S
 Mexican American Legal Defense Education Fund	MALDEF, Mexican American Legal Defense and Educational Fund	MALDEF, Mexican American Legal Defense and Educational Fund
 Military Officers Association of America- California Council of Chapters	Military Officers Association of America	Military Officers Association of America
 Monterey County Sheriff's Department	Monterey County Sheriff-Coroner	monterey county sheriff
+NAACP California	National Association for the Advancement of Colored People (NAACP)	naacp
 National Alliance for the Mentally Ill, California	NATIONAL ALLIANCE ON MENTAL ILLNESS	nami california
 National Audubon Society - California	National Audubon Society	audubon california
 National Electrical Contractors Association - California Chapter	California Chapter of the National Electrical Contractors Association	neca california
@@ -6630,10 +7245,197 @@ Cerritos College EOPS and foster youth	Cerritos College	Cerritos College
 Certified Financial Planner Board of Standards, Inc	Certified Financial Planner Board of Standards	Certified Financial Planner Board
 Certified Freight Lines, Inc., Santa Maria, CA	Certified Freight Lines, Inc	Certified Freight Lines
 CFT (California Federation of Teachers) - A Union of Educators & Classified Professionals	California Federation of Teachers	California Federation of Teachers
+CFT - A Union of Educators & Classified Professionals, AFL-CIO	California Federation of Teachers	California Federation of Teachers
 CFT - A Union of Educators & Classified Professionals, AFT, AFL - CIO	California Federation of Teachers	California Federation of Teachers
 CFT - a Union of Educators & Classified Professionals, Aft, Afl-cio	California Federation of Teachers	California Federation of Teachers
 CFT - A Union of Educators and Classified Professionals, AFT, AFL - CIO	California Federation of Teachers	California Federation of Teachers
+CFT - A union of Educators and Classified Professionals, AFT, AFL-CIO	California Federation of Teachers	California Federation of Teachers
+CFT -A Union of Educators & Classified Professionals, AFT, AFL-CIO	California Federation of Teachers	California Federation of Teachers
 CFT a Union of Educators & Classified Professionals, AFT, AFL-CIO	California Federation of Teachers	California Federation of Teachers
+CFT, a Union of Educators & Classified Professionals	California Federation of Teachers	California Federation of Teachers
+CFT, a Union of Educators and Classified Professionals, AFT, AFL-CIO	California Federation of Teachers	CFT
+CFT- A Union of Educators & Classified Professional, AFT, AFT-CIO	California Federation of Teachers	CFT
+CFT- a Union of Educators & Classified Professionals, AFL, AFL-CIO	California Federation of Teachers	CFT
+CFT- a Union of Educators & Classified Professionals, AFL-CIO	California Federation of Teachers	CFT
+CFT- a Union of Educators & Classified Professionals, AFT	California Federation of Teachers	CFT
+CFT- a Union of Educators & Classified Professionals, AFT, AFL-CIO (prior version)	California Federation of Teachers	CFT
+CFT-A Union of Educator & Classified Professionals, AFT, AFL-CIO	California Federation of Teachers	CFT
+CFT-a Union of Educators & Classified Professionals	California Federation of Teachers	CFT
+CFT-A Union of Educators & Classified Professionals AFT, AFL-CIO	California Federation of Teachers	CFT
+CFT-a Union of Educators & Classified Professionals, AFT, AFL-CIO	California Federation of Teachers	CFT
+CFT: A Union of Educators and Classified Professionals	California Federation of Teachers	CFT
+CH+A	CaliforniaHealth+ Advocates (CH+A) and Redwood Community Health Coalition	CaliforniaHealth+ Advocates
+Chabot- Las Positas Community College District	Chabot Las Positas Community College District	Chabot-Las Positas CCD
+Chaffey College (based on prior version of the bill)	Chaffey College	Chaffey College
+Chaffey Community College District (8/28)	Chaffey Community College District Office	Chaffey CCD
+Chair, Animal Health Committee, Association of Zoos and Aquariums	Association of Zoos and Aquariums	Zoos and Aquariums
+Chairman Allen Ishida, Tulare County Board of Supervisors	Tulare County Board of Supervisors	Tulare County
+Chamber Lumber Company	Chamber Lumber	Chamber Lumber
+Chamber Newport Beach	Chamber of Commerce, Newport Beach	Newport Beach Chamber
+Chambers Alliance of Ventura and Santa Barbara Counties	Chambers of Commerce Alliance of Ventura and Santa Barbara	Chambers Alliance Ventura/SB
+Chambers of Commerce Alliance (Ventura & Santa Barbara Counties)	Chambers of Commerce Alliance of Ventura and Santa Barbara	Chambers Alliance Ventura/SB
+Chambers of Commerce Alliance (Ventura and Santa Barbara Counties)	Chambers of Commerce Alliance of Ventura and Santa Barbara	Chambers Alliance Ventura SB
+Chambers of Commerce Alliance - Ventura and Santa Barbara Counties	Chambers of Commerce Alliance of Ventura and Santa Barbara	Chambers Alliance Ventura SB
+Chambers of Commerce of Ventura and Santa Barbara Counties	Chambers of Commerce Alliance of Ventura and Santa Barbara	Chambers Alliance Ventura SB
+Chancellor Carol Tomlinson-Keasey, University of California, Merced	University of California, Merced	UC Merced
+Chancellor's Office of the California Community Colleges (prior version of the bill)	CALIFORNIA COMMUNITY COLLEGE CHANCELLOR'S OFFICE	CCC Chancellor Office
+Chancellor, UCSF	UCSF	UCSF
+Chancelloros Office - California Community Colleges	CALIFORNIA COMMUNITY COLLEGE CHANCELLOR'S OFFICE	CCC Chancellor Office
+CHANGE - Californians for a Healthy and Green Economy	Californians for a Healthy & Green Economy (CHANGE)	CHANGE
+Change Begins With Me (INDIVISIBLE) (prior version)	Change Begins With Me	Change Begins With Me
+Change Begins With ME (prior version)	Change Begins With Me	Change Begins With Me
+Change Begins with Me - Indivisible CA District 78	Change Begins With Me	Change Begins With Me
+Change Begins With Me - Indivisible Group	Change Begins With Me	Change Begins With Me
+Change Begins With ME Indivisible Group	Change Begins With Me	Change Begins With Me
+Change Begins With Me Indivisible Group (prior version)	Change Begins With Me	Change Begins With Me
+Change Begins with Me, Indivisible Group	Change Begins With Me	Change Begins With Me
+Change Begins With ME, Indivisible in California Assembly District 78	Change Begins With Me	Change Begins With Me
+Change Begins With Me- Indivisible	Change Begins With Me	Change Begins With Me
+Change Beings with ME - Indivisible Chapter	Change Begins With Me	Change Begins With Me
+Chapman Medical Center, Tenet California	Chapman Medical Center, Tenet California HealthSystem	Chapman Medical Center
+Chapter (AMTA)	American Massage Therapy Association (AMTA), California Chapter	AMTA
+Chapter, California Association of LAFCOs	California Association of LAFCOs	California Association of LAFCOs
+Chapters of the Institute of Scrap Recycling	CALIFORNIA CHAPTERS OF THE INSTITUTE OF SCRAP RECYCLING	Institute of Scrap Recycling
+Chapters Waste Management, Inc	California Chapters Waste Management	Waste Management
+Charles C. Plummer, Alameda County Sheriff-Coroner	Alameda County Sheriff's Office	Alameda County Sheriff
+Charles C. Plummer, Sheriff of Alameda County	Alameda County Sheriff's Office	Alameda County Sheriff
+Charles C. Plummer, Sheriff-Coroner of Alameda County	Alameda County Sheriff's Office	Alameda County Sheriff
+Charles Schwab & Co	Charles Schwab	Charles Schwab
+Charles T. Prandi, Marin County Sheriff	Marin County Sheriff's Office	Marin County Sheriff
+Charter Behavioral Health System of Southern California / Palm Springs	Charter Behavioral Health System of Southern California / Palm	Charter Behavioral Health
+CHARTER OAK UNIFIED 6,395	Charter Oak Unified School District	Charter Oak Unified
+CHBRP	California Health Benefits Review Program	CHBRP
+Chemical Industry Council of California (5/13/99)	Chemical Industry Council of California	Chemical Industry Council of CA
+Chemical Industry Council of California (Sponsors)	Chemical Industry Council of California	Chemical Industry Council of CA
+Chemical Specialties Manufacturers Association (Sponsors)	Chemical Specialties Manufacturers Association	Chemical Specialties Manufacturers Assn
+Cheryl Brownlee, President, Black Advocates In State Service	Black Advocates in State Service	Black Advocates in State Service
+Chesa Boudin - San Francisco District Attorney	San Francisco District Attorney	San Francisco District Attorney
+Chesa Boudin, District Attorney, City and County of San Francisco	San Francisco District Attorney	San Francisco District Attorney
+Chevron Corporation (committee analysis)	Chevron Corporation	Chevron Corporation
+Chicano Latino Caucus of the California Democratic Party (prior version)	Chicano Latino Caucus of the California Democratic Party	Chicano Latino Caucus CA Dem Party
+Chicano Latino Caucus, California Democratic Party	Chicano Latino Caucus, California Democratic Party	Chicano Latino Caucus CA Dem Party
+Chicano-Latino Caucus, Democratic Party	Chicano Latino Caucus, California Democratic Party	Chicano Latino Caucus CA Dem Party
+Chico 350/New 350 Butte County	350 BUTTE COUNTY	350 Butte County
+Chico Area Recreation and Park District (4/23/01)	Chico Area Recreation and Park District	Chico Area Recreation and Park District
+Chico Hospital: 1 individual rural hospital RN	Chico Hospital	Chico Hospital
+Chico, City Of	CITY OF CHICO	City of Chico
+Chief Aaron Baker, Pittsburg Police Department	Pittsburg Police Department	Pittsburg Police Department
+Chief Adolfo Gonzales, National City	National City Police Department	National City Police Department
+Chief Adolfo Gonzales, National City Police Department	National City Police Department	National City Police Department
+Chief Albert Nájera, Sacramento Police Department	Sacramento Police Department	Sacramento Police Department
+Chief Andrew Hall, Westminster Police Department	Westminster Police Department	Westminster Police Department
+Chief Anthony Alba, San Francisco Police	San Francisco Police Department	San Francisco Police Department
+Chief Anthony Sollecito, Seaside Police Department	Seaside Police Department	Seaside Police Department
+Chief Bob McDonell, Newport Police Department	Newport Beach Police Department	Newport Beach Police Department
+Chief Cam Sanchez	Santa Barbara Police	Santa Barbara PD
+Chief Camerino Sanchez	Santa Barbara Police	Santa Barbara PD
+Chief Camerino Sanchez, Santa Barbara Police Department	Santa Barbara Police	Santa Barbara PD
+Chief Charles Montoya, Glendora Police Department	Glendora Police Department	Glendora PD
+Chief Chris Magnus	City of Richmond Police	Richmond PD
+Chief Craig T. Steckler	Police Chief Craig Steckler, Fremont	Fremont PD
+Chief Dan Drummond	City of West Sacramento Police Department	West Sacramento PD
+Chief Dan Drummond, West Sacramento Police Department	City of West Sacramento Police Department	West Sacramento PD
+Chief Dan Lawrence, Clayton Police Department	Clayton Police Department	Clayton PD
+Chief Daniel Ortega, Salinas Police Department	Salinas Police Department	Salinas PD
+Chief David L. Maggard, Irvine Police Department	City of Irvine Police Department	Irvine PD
+Chief Dennis DeWitt	Petaluma Police Department	Petaluma PD
+Chief Executive Officers of the Community Colleges	Chief Executive Officers of the California Community College League	CCC CEOs
+Chief Gary D. Peterson	Martinez Police Department	Martinez PD
+Chief Gary Peterson	Martinez Police Department	Martinez PD
+Chief Gregory Suhr, City and County of San Francisco	San Francisco Police	SFPD
+Chief Guy A. Swanger	Concord Police	Concord PD
+Chief Howard A. Jordan	Oakland Police	Oakland PD
+Chief Jack Van Etten, Burlingame Police Department	Burlingame Police Department	Burlingame PD
+Chief Jeffrey C. Kirkpatrick	Seal Beach Police Department	Seal Beach PD
+Chief Jeffrey C. Kirkpatrick, Seal Beach Police Department	Seal Beach Police Department	Seal Beach PD
+Chief Jeri Williams	City of Oxnard Police	Oxnard PD
+Chief Jerry Dyer, Fresno Police Department	Fresno Police	Fresno PD
+Chief Jim Copsey, Grover Beach Police Department	Grover Beach Police Department	Grover Beach PD
+Chief Joe Garza, Reedley Police Department	Reedley Police Department	Reedley PD
+Chief Joseph Romero, Pomona Police Department	City of Pomona Police Department	Pomona PD
+Chief Kenneth Small, Huntington Beach Police Department	City of Huntington Beach Police Department	Huntington Beach PD
+Chief Kevin Vogel	Santa Cruz Police Department	Santa Cruz PD
+Chief Kim J. Raney	Covina Police Department	Covina PD
+Chief Larry Todd, Clearlake Police Department	City of Clearlake Police Department	Clearlake PD
+Chief Lynne Johnson, Palo Alto Police Department	City of Palo Alto Police Department	Palo Alto PD
+Chief Michael Heffner, Hawthorne Police Department	Hawthorne Police Department	Hawthorne PD
+Chief Michael Maloney	City of Chico Police Department	Chico PD
+Chief Michael Meehan	Berkeley Police Department	Berkeley PD
+Chief Michael Trevis, Huntington Park Police Department	Huntington Park Police Department	Huntington Park PD
+Chief of Police (Acting) Howard Jordan	Oakland Police	Oakland PD
+Chief of Police (Retired) Arturo Venegas, Sacramento	Sacramento Police Department	Sacramento PD
+Chief of Police -- City of Azusa	City of Azusa Police	Azusa PD
+Chief of Police Albert Najera, Sacramento	Sacramento Police Department	Sacramento PD
+Chief of Police Barry Garfield, Kensington	Kensington Police Protection & CSD	Kensington Police
+Chief of Police Cam Sanchez	Santa Barbara Police	Santa Barbara PD
+Chief of Police Camerino Sanchez, Santa Barbara	Santa Barbara Police	Santa Barbara PD
+Chief of Police Charles Gibson, Contra Costa Community	Contra Costa Community College District	Contra Costa CCD
+Chief of Police Chief James Hyde, Davis	Davis Police	Davis PD
+Chief of Police Chris Magnus, Richmond	City of Richmond Police	Richmond PD
+Chief of Police Dan Lawrence, Clayton	Clayton Police Department	Clayton PD
+Chief of Police David Maggard, Irvine	POLICE DEPARTMENT	Irvine PD
+Chief of Police Dennis Burns, Palo Alto	City of Palo Alto Police Department	Palo Alto PD
+Chief of Police Donald Pedersen, Signal Hill	City of Signal Hill Police	Signal Hill PD
+Chief of Police Donn G. Peterson, Humboldt State University	Humboldt State University	Humboldt State Univ
+Chief of Police Garry Couso-Vasquez, Montebello	City of Montebello Police	Montebello PD
+Chief of Police Howard Jordan, Oakland	City of Oakland Police Department	Oakland PD
+Chief of Police Jack L. Van Etten, Burlingame	Burlingame Police Department	Burlingame PD
+Chief of Police Jeffrey Kirkpatrick, Seal Beach	Seal Beach Police Department	Seal Beach PD
+Chief of Police Jerry Dyer, Fresno	Fresno Police	Fresno PD
+Chief of Police Joseph Kitchen, San Leandro	San Leandro Police Department	San Leandro PD
+Chief of Police Kenneth W. Small, Huntington Beach	City of Huntington Beach Police Department	Huntington Beach PD
+Chief of Police Larry Hansen, Lodi Police Department	City of Lodi Police Department	Lodi PD
+Chief of Police Larry Hansen, Lodi Policy Department	City of Lodi Police Department	Lodi PD
+Chief of Police Lonald Lott, Turlock	Turlock Police Department	Turlock PD
+Chief of Police Mark A. Moczulski, Antioch	Antioch Police	Antioch PD
+Chief of Police Michael R. McCrary, Los Alamitos	Los Alamitos Police Department	Los Alamitos PD
+Chief of Police Randy Adams, Glendale	City of Glendale Police Department	Glendale PD
+Chief of Police Randy Ulibarri, Union City	Union City Police Department	Union City PD
+Chief of Police Robert M. Luman, Newport Beach Police Department	Newport Beach Police Department	Newport Beach PD
+Chief of Police Robert W. Ramsey, Fontana Police Department	POLICE DEPARTMENT	Fontana PD
+Chief of Police Scott Berry, Truckee	Truckee Police Department	Truckee PD
+Chief of Police Susan Jones, Healdsburg	Healdsburg Police Department	Healdsburg PD
+Chief of Police Susan Manheimer, San Mateo	City of San Mateo Police Department	San Mateo PD
+Chief of Police Thomas Soberanes, Walnut Creek	Walnut Creek Police Department	Walnut Creek PD
+Chief of Police Wayne Tucker, Oakland	City of Oakland Police Department	Oakland PD
+Chief of Police William Bratton	Los Angeles City Police Department	LAPD
+Chief of Police William Bratton, Los Angeles	Los Angeles City Police Department	LAPD
+Chief of Police William Bratton, Los Angeles Police Department	Los Angeles City Police Department	LAPD
+Chief of Police, Carlos Rojas, Bay Area Rapid Transit District	SAN FRANCISCO BAY AREA RAPID TRANSIT DISTRICT (BART)	BART PD
+Chief of Police, City Fremont	POLICE DEPARTMENT	Fremont PD
+Chief of Police, Greenfield PD	Greenfield Police Department	Greenfield PD
+Chief of Police, Pasadena City College	Pasadena City College District	Pasadena City College
+Chief of Police, UC Irvine Police Department	UC Irvine Police Department	UC Irvine PD
+Chief of Police, UC Merced Police Department	UC Merced Police Department	UC Merced PD
+Chief of the Redding Police Department Phil Raner	Redding Police Department	Redding PD
+Chief Pat Miller, Ventura Police Department	Ventura Police Department	Ventura PD
+Chief Paul Cooper, Claremont Police Department	Claremont Police	Claremont PD
+Chief Philip Green, Twin Cities Police Authority	Twin Cities Police Authority	Twin Cities Police Authority
+Chief Probation Officer, Riverside California Probation Parole and Correctional Association	Chief Probation Officers of California	CPOC
+Chief Probation Officers Association of California (CPOC) also	Chief Probation Officers of California	CPOC
+Chief Probation Officers of California (4/11)	Chief Probation Officers of California	CPOC
+Chief Probation Officers of California (4/20/15 version)	Chief Probation Officers of California	CPOC
+Chief Probation Officers of California (as of April 3, 1997)	Chief Probation Officers of California	CPOC
+Chief Probation Officers of California (NOTE: THIS ANALYSIS REFLECTS AMENDMENTS THE AUTHOR INTENDS TO SUBMIT TO THE COMMITTEE, AS SET FORTH IN COMMENT 1, BELOW)	Chief Probation Officers of California	CPOC
+Chief Probation Officers of California (SEE COMMENT 7 FOR A DESCRIPTION OF AMENDMENTS TO BE OFFERED BY THE AUTHOR IN COMMITTEE.)	Chief Probation Officers of California	CPOC
+Chief Probation Officers of California, California State	Chief Probation Officers of California	CPOC
+Chief Probation Officers of California, City of	Chief Probation Officers of California	CPOC
+Chief Randy Adams, Glendale Police Department	City of Glendale Police Department	Glendale PD
+Chief Richard Ehle, Capitola Police Department	Capitola City Police Department	Capitola PD
+Chief Ronald Davis, East Palo Alto Police Department	East Palo Alto Police Department	East Palo Alto PD
+Chief Scott Jordan, Tustin Police Department	Tustin Police Department	Tustin PD
+Chief Stan Stewart, Chino Police Department	City of Chino Police Department	Chino PD
+Chief Steve Towles, Vernon Police Department	Vernon Police Department	Vernon PD
+Chief Susan Jones, Healdsburg Police Department	Healdsburg Police Department	Healdsburg PD
+Chief Susan Manheimer, San Mateo Police Department	City of San Mateo Police Department	San Mateo PD
+Chief Thomas Soberanes, Walnut Creek Police Department	Walnut Creek Police Department	Walnut Creek PD
+Chief Todd Mattern, Los Alamitos Police Department	Los Alamitos Police Department	Los Alamitos PD
+Chief Walter Tibbet. City of Fairfield	CITY OF FAIRFIELD	City of Fairfield
+Chief Wayne Hose, Stockton Police Department	Stockton Police	Stockton PD
+Chief Wayne Tucker, Oakland Police Department	City of Oakland Police Department	Oakland PD
+Chief William Bratton, Los Angeles Police Department	North Hollywood Community Police Station, Los Angeles Police Department	LAPD
+Chief William J. Bratton, Los Angeles Police Department	North Hollywood Community Police Station, Los Angeles Police Department	LAPD
+Chiefs of Police, City of Inglewood	City of Inglewood Police Department	Inglewood PD
 A. Philip Randolph Institute - San Francisco	A. Philip Randolph Institute	A. Philip Randolph Institute
 AAPIs for Civic Empowerment - Education Fund	AAPI Force	AAPI Force
 AARP (prior version)	AARP	AARP
@@ -6821,10 +7623,13 @@ Morgan Hill	CITY OF MORGAN HILL	city-morgan-hill
 Mothers for East Los Angeles	Mothers of East Los Angeles-Santa Isabel	mothers-east-la
 MPA - the Association of Magazine Media	MPA the Association of Magazine Media	mpa-magazine
 Murrieta, City of	CITY OF MURRIETA	city-murrieta
+NAACP California-Hawai'i State Conference	National Association for the Advancement of Colored People (NAACP)	naacp
+NAACP California-Hawaii State Conference	National Association for the Advancement of Colored People (NAACP)	naacp
 NAACP Legal Defense Fund	National Association for the Advancement of Colored People (NAACP)	naacp-ldf
 NAMI-California	NATIONAL ALLIANCE ON MENTAL ILLNESS	nami
 NARAL Pro-Choice California (prior version)	NARAL Pro-Choice California	naral
 National Alliance for the Mentally Ill (NAMI) California	NATIONAL ALLIANCE ON MENTAL ILLNESS	nami
+National Association for the Advancement of Colored People, California State Conference	National Association for the Advancement of Colored People (NAACP)	naacp
 National Association of Social Workers (California Chapter)	NATIONAL ASSOCIATION OF SOCIAL WORKERS	nasw
 National Association of Social Workers - California Chapter (NASW-CA)	NATIONAL ASSOCIATION OF SOCIAL WORKERS	nasw
 National Association of Women Business Owners California	NATIONAL ASSOCIATION OF WOMEN BUSINESS OWNERS	nawbo
@@ -6838,6 +7643,7 @@ New Directions, Inc., Los Angeles	New Directions of Los Angeles	new-directions-l
 New Way of Life Re-Entry Project	A NEW WAY OF LIFE RE-ENTRY PROJECT	new-way-of-life
 Northern California District Council - International Longshore and Warehouse Union	INTERNATIONAL LONGSHORE AND WAREHOUSE UNION	ilwu-norcal
 Northern California District Council of the International: Longshore and Warehouse Union	INTERNATIONAL LONGSHORE AND WAREHOUSE UNION	ilwu-norcal
+Oakland NAACP	National Association for the Advancement of Colored People (NAACP)	naacp
 OCA - Greater Los Angeles	OCA Greater Los Angeles	oca-greater-la
 Office of the District Attorney, Sacramento County	District Attorneys	sacramento-da
 Ohlone Audubon Society, Inc	National Audubon Society	ohlone-audubon
@@ -6915,11 +7721,14 @@ Trusts and Estates Section of the California State Bar	Trusts and Estates Sectio
 Tulare County Sheriff's Office	TULARE COUNTY SHERIFF	tulare_sheriff
 Tuolumne County Undersheriff	TUOLUMNE COUNTY SHERIFF	tuolumne_sheriff
 U.S. Green Building Council, California Chapter	U.S. Green Building Council, California (USGBC)	usgbc
+UDW AFSCME Local 3930	American Federation of State, County and Municipal Employees (AFSCME)	udw_afscme
 Unitarian Universalist Legislative Ministry Action	Unitarian Universalist Justice Ministry of California (formerly Unitarian Universalist Legislative Ministry of California)	uu_legislative_ministry
 UNITE-HERE! AFL-CIO	UNITE HERE!	unite_here
 United Cerebral Palsy, California	United Cerebral Palsy	ucp
 United Chamber Advocacy Network of California	UNITED CHAMBER ADVOCACY NETWORK	ucan
 United Chambers of the San Fernando Valley	United Chambers of Commerce of the San Fernando Valley	united_chambers_sfv
+United Domestic Workers of America-AFSCME Local 3930	American Federation of State, County and Municipal Employees (AFSCME)	udw_afscme
+United Domestic Workers, AFSCME Local 3930	American Federation of State, County and Municipal Employees (AFSCME)	udw_afscme
 United Food and Commercial Workers Union - Western States Council	Food and Commercial Workers Union, Western States Council	ufcw_western
 United Nurses Association/Union of Health Care Professionals	United Nurses Associations of California/Union of Health Care Professionals (UNAC/UHCP), AFSCME	unac_uhcp
 United Nurses Associations of California / Union of Health Care Professionals	United Nurses Assoc. of California/Union of Health Care Professionals	unac
@@ -6993,6 +7802,7 @@ Asian American Advancing Justice-California	Asian Americans Advancing Justice of
 Asian Americans Advancing Justice-Asian Law Caucus	Asian Americans Advancing Justice - Asian Law Caucus	aaaj-asian-law-caucus
 Asian Law Alliance (prior version)	ASIAN LAW ALLIANCE	asian-law-alliance
 AsianPacific American Legal Center	Asian American Legal Center	asian-pacific-american-legal-center
+Assoc. for Los Angeles Deputy Sheriffs, Inc	Association for Los Angeles Deputy Sheriffs, Inc. (ALADS)	alads
 Associated Builders and Contractors - San Diego	Associated Builders and Contractors	associated-builders-contractors
 Associated Builders and Contractors Association, Inc. - Central California Chapter	Associated Builders and Contractors	associated-builders-contractors
 Associated Builders and Contractors Association, Inc. - Northern California Chapter	Associated Builders and Contractors	associated-builders-contractors
@@ -7001,6 +7811,7 @@ Associated Builders and Contractors of California (ABC California)	Associated Bu
 Associated General Contractors - The California Chapters	California Chapters of the Associated General Contractors	agc_ca_chapters
 Associated General Contractors of America - San Diego Chapter	Associated General Contractors of America, San Diego Chapter	agc_sd_chapter
 Association for Children of Enforcement of	Association for Children for Enforcement of Support, Inc	aces
+Association for Los Angeles Deputy Sheriff	Association for Los Angeles Deputy Sheriffs, Inc. (ALADS)	alads
 Association of California Healthcare Districts (prior version)	Association of California Healthcare Districts	achd
 Association of California Insurance Companies (prior version)	ASSOCIATION OF CALIFORNIA INSURANCE COMPANIES	acic
 Association of California Life & Health Insurance Companies (prior version)	ASSOCIATION OF CALIFORNIA LIFE & HEALTH INSURANCE COMPANIES	aclhic
@@ -7032,6 +7843,7 @@ Burbank Chief of Police	Burbank Police	burbank_police
 Burbank Housing Development Corporation (UNREG)	BURBANK HOUSING DEVELOPMENT CORPORATION	burbank_housing
 CA ACORN	ASSOCIATION OF COMMUNITY ORGANIZATIONS FOR REFORM NOW	acorn
 CA Court Reporters Assoc	CALIFORNIA OFFICIAL COURT REPORTERS ASSOCIATION	cocra
+CA State Association of Counties (in concept)	CALIFORNIA STATE ASSOCIATION OF COUNTIES	csac
 CA YIMBY	YIMBY	yimby
 California Abortion and Reproductive Rights Action	National Abortion Rights Action League	caral
 California American Federation of State	American Federation of State, County and Municipal Employees (AFSCME)	afscme
@@ -7082,6 +7894,9 @@ California Seniors Coalition (prior version)	California Seniors Coalition	ca_sen
 California Service Employees International Union	AMERICAN FEDERATION OF LABOR AND CONGRESS OF INDUSTRIAL ORGANIZATIONS	seiu
 California Society for Clinical Social Work (prior version)	CALIFORNIA SOCIETY FOR CLINICAL SOCIAL WORK	cscsw
 California Society of Radiologic Technologists (CSRT)	American Society of Radiologic Technologists	csrt
+California State Association of Counties (CSAC) ("In Concept")	CALIFORNIA STATE ASSOCIATION OF COUNTIES	csac
+California State Association of Counties (CSAC), Oppose	CALIFORNIA STATE ASSOCIATION OF COUNTIES	csac
+California State Association of Counties (support in concept)	CALIFORNIA STATE ASSOCIATION OF COUNTIES	csac
 California State Conference, NAACP	CALIFORNIA STATE CONFERENCE OF THE NATIONAL ASSOCIATION	naacp_state_conf
 California State Legislative Board of the Sheet Metal, Air, Rail and Transportation Workers	International Association of Sheet Metal, Air, Rail and Transportation Workers (SMART)	smart_td
 California State Legislative Board of the Sheet Metal, Air, Rail and Transportation Workers - Transportation Division	International Association of Sheet Metal, Air, Rail and Transportation Workers (SMART)	smart_td
@@ -7206,10 +8021,32 @@ IBEW Local 441	IBEW Local 441	ibew local 441
 Immigrant Legal Resource Center (UNREG)	IMMIGRANT LEGAL RESOURCE CENTER	immigrant legal resource center
 Imperial County District Attorney	Imperial County District Attorney's Office	imperial county district attorney
 Implement Workers of America (UAW)	Implement Workers of America - UAW	implement workers of america uaw
+Indivisible Alta-Pasadena	INDIVISIBLE CA STATESTRONG	indivisible_ca_statestrong
+Indivisible Auburn	INDIVISIBLE CA STATESTRONG	indivisible_ca_statestrong
+Indivisible CA	INDIVISIBLE CA STATESTRONG	indivisible_ca_statestrong
+Indivisible CA - 33	INDIVISIBLE CA STATESTRONG	indivisible_ca_statestrong
+Indivisible CA 33	INDIVISIBLE CA STATESTRONG	indivisible_ca_statestrong
+Indivisible CA State Strong	INDIVISIBLE CA STATESTRONG	indivisible_ca_statestrong
+Indivisible CA Statestrong (prior version)	INDIVISIBLE CA STATESTRONG	indivisible_ca_statestrong
+Indivisible CA29	INDIVISIBLE CA STATESTRONG	indivisible_ca_statestrong
+Indivisible Ca29	INDIVISIBLE CA STATESTRONG	indivisible_ca_statestrong
+Indivisible California StateStrong	INDIVISIBLE CA STATESTRONG	indivisible_ca_statestrong
 Indivisible California: Statestrong	INDIVISIBLE CA STATESTRONG	indivisible_ca_statestrong
+Indivisible California: StateStrong (CASS)	INDIVISIBLE CA STATESTRONG	indivisible_ca_statestrong
+Indivisible Conejo	INDIVISIBLE CA STATESTRONG	indivisible_ca_statestrong
+Indivisible Los Angeles, CA-43	INDIVISIBLE CA STATESTRONG	indivisible_ca_statestrong
+Indivisible Sherman Oaks	INDIVISIBLE CA STATESTRONG	indivisible_ca_statestrong
+Indivisible South Bay-LA	INDIVISIBLE CA STATESTRONG	indivisible_ca_statestrong
+Indivisible Stanislaus (prior version)	INDIVISIBLE CA STATESTRONG	indivisible_ca_statestrong
 Inland Empire - Immigrant Youth Collective	INLAND EMPIRE IMMIGRANT YOUTH COLLECTIVE	inland_empire_immigrant_youth_collective
 Intergroup Clearing House	Intergroup Clearinghouse	intergroup_clearinghouse
 International Association of Sheet Metal, Air, Rail and Transportation Workers, Sheet Metal Workers' Local Union No. 104	Sheet Metal Workers' Local Union No. 104 (Smart)	sheet_metal_workers_local_104
+International Brotherhood of Electrical Workers Local 302	INTERNATIONAL BROTHERHOOD OF ELECTRICAL WORKERS	ibew
+International Brotherhood of Electrical Workers Local 551	INTERNATIONAL BROTHERHOOD OF ELECTRICAL WORKERS	ibew
+International Brotherhood of Electrical Workers, Local 551	INTERNATIONAL BROTHERHOOD OF ELECTRICAL WORKERS	ibew
+International Brotherhood of Electrical Workers, Local 595	INTERNATIONAL BROTHERHOOD OF ELECTRICAL WORKERS	ibew
+International Brotherhood of Electrical Workers, Local 6	INTERNATIONAL BROTHERHOOD OF ELECTRICAL WORKERS	ibew
+International Brotherhood of Electrical Workers, Local 617	INTERNATIONAL BROTHERHOOD OF ELECTRICAL WORKERS	ibew
 International Brotherhood of Teamsters, Local 399	International Brotherhood of Teamsters	teamsters
 James Coleman, Mayor	CITY OF SOUTH SAN FRANCISCO	city_of_south_san_francisco
 Japanese American Citizens League, Northern California-W. Nevada-Pacific District	JAPANESE AMERICAN CITIZENS LEAGUE	japanese_american_citizens_league
@@ -7251,21 +8088,35 @@ Mexican-american Legal Defense and Ed Fund [maldef	Mexican American Legal Defens
 MidPeninsula Regional Open Space District	Midpeninsula Regional Open Space	Midpeninsula Regional Open Space
 Military Officers Association of America - CA Council of Chapters	Military Officers Association of America	Military Officers Association of America
 MLKCH	Martin Luther King, Jr. Community Hospital	martin luther king jr community hospital
+Modesto City Firefighters Local 1289	International Association of Fire Fighters	international association of fire fighters
 MOMS - Making Our Milk Safe	MAKING OUR MILK SAFE	making our milk safe
 Money Out Voters In (prior version)	Money Out Voters In	money out voters in
+Monrovia Firefighters Local 2415	International Association of Fire Fighters	international association of fire fighters
 Monterey County Fair	Monterey County Fair, 7th District Agricultural Association	monterey county fair 7th district agricultural association
+Monterey Firefighters Association Local 3707	International Association of Fire Fighters	international association of fire fighters
 MPA - The Association of Magazine Media	The Association of Magazine Media	the association of magazine media
+NAACP Legal Defense & Educational Fund, Inc	National Association for the Advancement of Colored People (NAACP)	national association for the advancement of colored people naacp
+NAACP Pasadena	National Association for the Advancement of Colored People (NAACP)	national association for the advancement of colored people naacp
+NAACP San Diego Branch	National Association for the Advancement of Colored People (NAACP)	national association for the advancement of colored people naacp
+NAACP San Pedro-Wilmington Branch 1069	National Association for the Advancement of Colored People (NAACP)	national association for the advancement of colored people naacp
+NAACP Santa Rosa - Sonoma	National Association for the Advancement of Colored People (NAACP)	national association for the advancement of colored people naacp
 NAIOP of California, The Commercial Real Estate Development Association	NAIOP of California, the Commercial Real Estate Developers Association	naiop of california the commercial real estate developers association
 NARAL Pro-Choice CA	National Abortion Rights Action League	national abortion rights action league
 National Alliance for the Mentally Ill California	NAMI California	nami california
 National Alliance on Mental Illness (NAMI) California	NAMI California	nami california
+National Association for the Advancement of Colored People (NAACP) 1069	National Association for the Advancement of Colored People (NAACP)	national association for the advancement of colored people naacp
+National Association for the Advancement of Colored People - California	National Association for the Advancement of Colored People (NAACP)	national association for the advancement of colored people naacp
+National Association for the Advancement of Colored People, California	National Association for the Advancement of Colored People (NAACP)	national association for the advancement of colored people naacp
 National Association of Counsel for Children - Los Angeles	National Association of Counsel for Children, Los Angeles	national association of counsel for children los angeles
 National Association of Social Workers (NASW) - California Chapter	NATIONAL ASSOCIATION OF SOCIAL WORKERS	national association of social workers
 National Association of Social Workers - CA chapter	NATIONAL ASSOCIATION OF SOCIAL WORKERS	national association of social workers
 National Association of Social Workers, California Chapter (prior version)	NATIONAL ASSOCIATION OF SOCIAL WORKERS	national association of social workers
 National Association of Women Business Owners, California	NATIONAL ASSOCIATION OF WOMEN BUSINESS OWNERS	national association of women business owners
+National Audubon Society California	National Audubon Society	national audubon society
+National Audubon Society, California	National Audubon Society	national audubon society
 National Cement Company of California, Inc	National Cement Company	national cement company
 National Center for Youth	National Center for Youth Law	national center for youth law
+National City Fire Fighters, Local 2744	International Association of Fire Fighters	international association of fire fighters
 National Council of Jewish Women- California	National Council of Jewish Women	national council of jewish women
 National Police Accountability Project (UNREG)	National Police Accountability Project	national police accountability project
 National Rifle Association - Institute For Legislative Action	NATIONAL RIFLE ASSOCIATION (NRA)	national rifle association nra
@@ -7277,6 +8128,9 @@ Northern California ADAPT	California ADAPT	california adapt
 Northern California District Council-ILWU	ILWU Northern California District Council	ilwu northern california district council
 NRG	NRG ENERGY	nrg energy
 Nv5	NV5	nv5
+Oakland Chapter, NAACP	National Association for the Advancement of Colored People (NAACP)	national association for the advancement of colored people naacp
+Oakland Firefighters Local 55	International Association of Fire Fighters	international association of fire fighters
+Oakland Firefighters, Local 55	International Association of Fire Fighters	international association of fire fighters
 Oakland Privacy writes	OAKLAND PRIVACY	oakland privacy
 OCA - Sacramento Chapter	OCA Sacramento Chapter	oca sacramento chapter
 Office of the District Attorney of Alameda County	Alameda County District Attorney's Office	alameda county district attorney
@@ -7388,6 +8242,8 @@ Teamsters, Local 481	International Brotherhood of Teamsters	Teamsters Local 481
 Technology (CAMLT)	California Association for Medical Technology	CAMLT
 The California Association of County Veterans Service Officers	Association of County Veterans Service Officers	California Association of County Veterans Service Officers
 The California Association of Health Underwriters	Association of Health Underwriters	California Association of Health Underwriters
+The California Attorney General	ATTORNEY GENERAL	Attorney General
+The California Attorney General's Office	ATTORNEY GENERAL	Attorney General
 The California College and University Police Chiefs Association	California College and University Police	California College and University Police Chiefs Association
 The California Labor Federation, AFL-CIO	California Labor Federation, AFL-CIO	California Labor Federation
 the California Medical Association	California Medical Association	California Medical Association
@@ -7555,14 +8411,37 @@ American Clean Power, California	American Clean Power Association	american_clean
 American College of Emergency Physicians -- State Chapter of California	American College of Emergency Physicians State Chapter of California	cal_acep
 Viva! - International Voice for Animals	Viva International Voice for Animals	viva international voice for animals
 American College of Emergency Physicians- California Chapter	AMERICAN COLLEGE OF EMERGENCY PHYSICIANS	american college of emergency physicians
+American College of Ob-gyn's District Ix	American College of Obstetricians and Gynecologists - District IX	american college of obstetricians and gynecologists district ix
+American College of Obstetricians and Gynecologists District IX (prior version)	American College of Obstetricians and Gynecologists - District IX	american college of obstetricians and gynecologists district ix
+American College of Obstetricians and Gynecologists, District IX (co	American College of Obstetricians and Gynecologists - District IX	american college of obstetricians and gynecologists district ix
+American College of Obstetricians and Gynecologists, District IX (prior version)	American College of Obstetricians and Gynecologists - District IX	american college of obstetricians and gynecologists district ix
+American College of Obstetricians and Gynecologists, District IX, CA	American College of Obstetricians and Gynecologists - District IX	american college of obstetricians and gynecologists district ix
+American College of Obstetricians and Gynecologists, District IX, California	American College of Obstetricians and Gynecologists - District IX	american college of obstetricians and gynecologists district ix
+American College of Obstetricians and Gynecologists, District IX/ CA	American College of Obstetricians and Gynecologists - District IX	american college of obstetricians and gynecologists district ix
+American College of Obstetricians and Gynecology (ACOG) District IX	American College of Obstetricians and Gynecologists - District IX	american college of obstetricians and gynecologists district ix
+American College of Obstetrics and Gynecology - District IX	American College of Obstetricians and Gynecologists - District IX	american college of obstetricians and gynecologists district ix
 American College of Physicians, California Chapters	American College of Physicians - California Chapters	american college of physicians california chapters
+American Congress of Obstetricians and Gynecologists, District IX - California	American College of Obstetricians and Gynecologists - District IX	american college of obstetricians and gynecologists district ix
+American Federation of State, County and Municipal Employees (AFSCME	American Federation of State, County and Municipal Employees (AFSCME)	american federation of state county and municipal employees
 American Federation of State, County and Municipal Employees (AFSCME) Local 57	American Federation of State, County and Municipal Employees (AFSCME)	american federation of state county and municipal employees local 57
 American Federation of State, County and Municipal Employees (AFSCME), Local 1902	American Federation of State, County and Municipal Employees (AFSCME)	american federation of state county and municipal employees local 1902
 American Federation of State, County and Municipal Employees Local 2620, AFL-CIO	American Federation of State, County and Municipal Employees (AFSCME)	american federation of state county and municipal employees local 2620
 American Federation of State, County and Municipal Employees Local 3299, AFL-CIO	American Federation of State, County and Municipal Employees (AFSCME)	american federation of state county and municipal employees local 3299
 American Federation of State, County and Municipal Employees Local 57	American Federation of State, County and Municipal Employees (AFSCME)	american federation of state county and municipal employees local 57
+American Federation of State, County and Municipal Employees, (AFL-CIO)	American Federation of State, County and Municipal Employees (AFSCME)	american federation of state county and municipal employees
+American Federation of State, County and Municipal Employees, (AFSCME, AFL-CIO)	American Federation of State, County and Municipal Employees (AFSCME)	american federation of state county and municipal employees
+American Federation of State, County and Municipal Employees, AFL-: CIO	American Federation of State, County and Municipal Employees (AFSCME)	american federation of state county and municipal employees
+American Federation of State, County and Municipal Employees, AFL-CIO (Prior version)	American Federation of State, County and Municipal Employees (AFSCME)	american federation of state county and municipal employees
+American Federation of State, County and Municipal Employees, AFL-CIO California	American Federation of State, County and Municipal Employees (AFSCME)	american federation of state county and municipal employees
+American Federation of State, County and Municipal Employees, AFSCME	American Federation of State, County and Municipal Employees (AFSCME)	american federation of state county and municipal employees
 American Federation of State, County and Municipal Employees, Local 1902	American Federation of State, County and Municipal Employees (AFSCME)	american federation of state county and municipal employees local 1902
 American Federation of State, County and Municipal Employees, Local 3299, AFL-CIO	American Federation of State, County and Municipal Employees (AFSCME)	american federation of state county and municipal employees local 3299
+American Federation of State, County, & Municipal Employees, California	American Federation of State, County and Municipal Employees (AFSCME)	american federation of state county and municipal employees
+American Federation of State, County, and Municipal Employees (AFL-CIO)	American Federation of State, County and Municipal Employees (AFSCME)	american federation of state county and municipal employees
+American Federation of State, County, and Municipal Employees California	American Federation of State, County and Municipal Employees (AFSCME)	american federation of state county and municipal employees
+American Federation of State, County, and Municipal Employees, AFL- CIO	American Federation of State, County and Municipal Employees (AFSCME)	american federation of state county and municipal employees
+American Federation of State, County, and Municipal Employees, AFL-: CIO	American Federation of State, County and Municipal Employees (AFSCME)	american federation of state county and municipal employees
+American Federation of State, County, and Municipal: Employees, AFL-CIO	American Federation of State, County and Municipal Employees (AFSCME)	american federation of state county and municipal employees
 American Gi Forum Education Foundation of Santa Maria, CA	American GI Forum Education Foundation of Santa Maria	american gi forum education foundation of santa maria
 American Institute of Architects - California	American Institute of Architects, California Council	american institute of architects california
 American Institute of Architects, California: Council (AIACC, co-sponsor)	American Institute of Architects, California Council	american institute of architects california
@@ -7623,6 +8502,9 @@ Associated Builders and Contractors, Central California Chapter	Associated Build
 Associated Builders and Contractors, Inc. - San Diego Chapter	Associated Builders and Contractors - San Diego Chapter	associated_builders
 Associated Builders and Contractors, Southern California Chapter	Associated Builders and Contractors - Southern California Chapter	associated_builders
 Associated General Contractors of America (San Diego Chapter)	Associated General Contractors of America, San Diego Chapter	agc_san_diego
+Association for L.A. Deputy Sheriffs	Association for Los Angeles Deputy Sheriffs, Inc. (ALADS)	alads
+Association for LA Deputy Sheriffs	Association for Los Angeles Deputy Sheriffs, Inc. (ALADS)	alads
+Association for Los Angles Deputy Sheriffs	Association for Los Angeles Deputy Sheriffs, Inc. (ALADS)	alads
 Association for Tort Reform	ASSOCIATION FOR CALIFORNIA TORT REFORM	tort_reform
 Association of California State Attorneys Judges	ASSOCIATION OF CALIFORNIA STATE ATTORNEYS AND ADMINISTRATIVE LAW JUDGES	acsa_attorneys
 Association of California Water Agencies Joint Powers Insurance Authority	ACWA Joint Powers Insurance Authority	acwa_jpia
@@ -7639,6 +8521,10 @@ AstraZeneca (prior version)	Astrazeneca	astrazeneca
 AT&T (9/7/99)	AT&T	at&t
 Attorney General of the State of California	California Department of Justice	california department of justice
 Attorney General, Department of Justice, State of California	California Department of Justice	california department of justice
+Audubon Calif	National Audubon Society	national audubon society
+Audubon of California	National Audubon Society	national audubon society
+Audubon Society - California	National Audubon Society	national audubon society
+Audubon Society, Sea and Sage Chapter	National Audubon Society	national audubon society
 Automotive Service Councils of CA	Automotive Service Councils of California (ASCCA)	automotive service councils of california
 Avis/Budget Group	Avis Budget Group	avis budget group
 AXS	AXS Group LLC	axs group llc

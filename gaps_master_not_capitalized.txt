@@ -42,6 +42,7 @@ cancer
 caregivers
 Caretakers
 pharmaceutical manufacturers
+child
 additionally
 among other things
 however
