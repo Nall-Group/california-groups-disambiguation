@@ -1507,6 +1507,17 @@ DLW:sl/cm 1/20/98 Senate Floor Analyses
 DLW:sl/cm 8/30/98 Senate Floor Analyses
 DLWL:do 5/11/09 Senate Floor Analyses
 doi:10.1371/journal.pmed.1001273
+DPR Fund
+dto,0,5583241.htmlstory#axzz2z4oqWEIk
+duplicative
+DW:cm/ctl 8/28/98 Senate Floor Analyses
+dynamic
+E & F noted above
+e) $37,759 to Suzanne Schroeder to re-issue a state-dated payroll
+e) A claimant filed a 1993 California tax return on March 15, 2007, with
+e) AB 1790 (Goldberg), 2001-2002, would have amended three strikes to
+e) AB 1817 (Atkins) expands the list of mandated reporters to include
+East (ESCUTIA)
 Senate Bill 716
 Senate Bill 722
 State Human Association of California
