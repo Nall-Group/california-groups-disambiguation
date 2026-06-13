@@ -148,8 +148,8 @@ Livingston,11
 Nurses,11
 Alameda County Supervisor Alice Lai-Bitker,11
 COUNTY OF SAN DIEGO THIRD DISTRICT SUPERVISOR TERRA LAWSON-REMER,11
-"Judge James R. Brandlin, Los Angeles Superior Court",10
 Mayor Norma Lopez-Reid,11
+"Judge James R. Brandlin, Los Angeles Superior Court",10
 Mayor Rick Ramirez,10
 San Diego Councilmember Sherri Lightner,10
 Senator Kehoe,10
@@ -239,8 +239,8 @@ Anderson,9
 Bishop,9
 "Nithya Raman, LA City Councilmember 4th District",9
 Chairman,9
-Chief of Police Blair Urling,8
 Chief of Police Peter Dunbar,9
+Chief of Police Blair Urling,8
 Councilmember Nancy J. Nadel of the City of Oakland,8
 Inge Tiegel-Doherty,8
 Oakland Mayor Jerry Brown,8
@@ -350,10 +350,10 @@ Los Angeles City Council Member Paul Koretz,7
 Los Angeles County Supervisor Gloria Molina,7
 Former State Fire Marshal,7
 "Jim and Betty Hendricks, Mountain Village Park",7
-Chief of Police Anthony Batts,6
 Chief of Police Edward Medrano,7
-"Chief of Police Phillip Green, Cities of Corte Madera/Larkspur",6
 Chief of Police Susan Jones,7
+Chief of Police Anthony Batts,6
+"Chief of Police Phillip Green, Cities of Corte Madera/Larkspur",6
 Congresswoman Anna G. Eshoo,6
 Councilmember Ridley-Thomas,6
 Doris Day,6
@@ -697,6 +697,12 @@ Los Angeles County Assessor Kenneth P. Hahn,5
 "Individual - Resident, Ladera Ranch, Orange County",5
 Hodgman,5
 Linda,5
+"Chief of Police James Butts, Jr",5
+"Dean, Los Angeles",5
+Johnson,5
+Lindsay,5
+Bernards,5
+Eppler,5
 "Alan Lee, Member, Big Bear Lake City Council",4
 "Allan Favish, Attorney at Law",4
 "Andrew Pasmant, City Manager",4
@@ -721,7 +727,6 @@ Carson City Councilmember Mike Gipson,4
 Cathy Anderson,4
 "Cati A. Okorie, Client Advocate, Bayview-Hunter's Point",4
 "Charles McGlashan, President, Marin County Board of Supervisors Environment",4
-"Chief of Police James Butts, Jr",5
 "Christopher Ward, Councilmember",4
 City of Alameda Councilmember Frank Matarrese,4
 "City of Los Angeles Councilmember, Gil Cedillo",4
@@ -806,7 +811,6 @@ Dan Lungren,4
 Danielle Dailey,4
 David Dolter (Alamo developer),4
 "David Hinig, Chief of Policy",4
-"Dean, Los Angeles",5
 "Dennis A. Colucci, M.A., F.A.A.A",4
 "Dennis P. Zine, Los Angeles City Council",4
 "Donna Chan, San Francisco",4
@@ -829,7 +833,6 @@ Individuals (885),4
 "Jane Y. Fong, Ph.D",4
 Jennie Bretschneider,4
 "Jessie Lopez, Member, Santa Ana City Council",4
-Johnson,5
 "Joseph DeLucchi, San Francisco",4
 "Juan Munoz-guevara, Councilmember, Lynwood",4
 Judge Charles L. Patrick San Diego Municipal Court Judge,4
@@ -841,7 +844,6 @@ Judge Milliken,4
 "Konstantine Anthony, Member, Burbank City Council",4
 L. Wallace Pate,4
 Lausd Board Member Dr. Rocio Rivas,4
-Lindsay,5
 Lockyer,4
 "Loretta Montgomery, Greenbrae",4
 Los Angeles City Attorney and the Attorney General,4
@@ -924,8 +926,6 @@ Vice Mayor Henry Chang,4
 "William Stiener, Supervisor IV, Orange",4
 Yolo County Supervisor Duane Chamberlain,4
 Aasra,4
-Bernards,5
-Eppler,5
 Hernandez,4
 James Stevenson,4
 Janet Owens,4
@@ -1077,6 +1077,11 @@ Legislative Director,4
 Local Chambers of Commerce (numerous letters on file),4
 "Los Angeles City Councilmembers Garcetti, Padilla, Smith, Wesson",4
 Mike Sr. and Angela Anderson,4
+Chief of Police Robert Gustafson,4
+Finen Family,4
+Acupuncture RN,4
+Brookingham,4
+Bruno,4
 12 Instructors of Cosmetology/Cosmetologists/Barbers,3
 19 Students of Cosmetology,3
 51st District of California Congresswoman Susan Davis,3
@@ -1130,7 +1135,6 @@ Chief Louis Fetherolf,3
 "Chief Louis Trovato, Nevada City Police Department",3
 "Chief of Police Douglas Krathwohl, San Pablo",3
 "Chief of Police Louis Trovato, Nevada City",3
-Chief of Police Robert Gustafson,4
 "Chief of Police Thomas Bullard, Rohnert Park",3
 Chris Davis,3
 "Chris Tellis, Harbormaster, Yellow Ferry Harbor",3
@@ -1304,7 +1308,6 @@ Fakir Musafar,3
 Farbod Barsum,3
 "Faridoon ""Fred"" Saif, Dealer/Owner, Los Altos 76",3
 "Felice Urban, L.C.S.W., M.S.G",3
-Finen Family,4
 Former California State Senator Dean Florez,3
 Former FPPC Commissioner Bill Hauck,3
 Former FPPC Commissioner Colleen McAndrews,3
@@ -1581,10 +1584,7 @@ West Valley Mayors/Managers,3
 "William A MacLaughlin, Presiding Judge, Superior Court of Los",3
 William F. Taylor,3
 "Yvonne McMurray, Constituent",3
-Acupuncture RN,4
 "J. Stephen Czuleger, Assistant Presiding Judge, Superior Court",3
-Brookingham,4
-Bruno,4
 Edwards,3
 Eleanor,3
 Ella,3
@@ -1706,6 +1706,23 @@ Jacobson,3
 Kern County Supervisors Maben,3
 "Kern County Supervisors Maben, Patrick, and Watson",3
 Letter from James Oberman,3
+Antonovich,3
+Berkeley Executive Director,3
+City of Supervisor Fourth District,3
+Council Member,3
+"Dean, College of Engineering, California State Polytechnic",3
+Individual Peninsula,3
+"Marcos, Santa Rosa, Sunnyvale, Thousand Oaks, Tustin, Vista",3
+"Marina Martinez, Program Director, Mi Casita Parent",3
+Mayor Joe Brown,3
+Mayor Ken Moore,3
+Mayor Kennedy,3
+Bartsch,3
+Burrell,3
+Cookson,3
+Cunningham,3
+Lund,3
+Nolan,3
 "1,825 Private Citizens",2
 141 Individuals,2
 15 Chiefs of Police,2
@@ -1736,7 +1753,6 @@ Amir Mansour,2
 Amrik Chand CPA,2
 "Andrew T. Koenig, Attorney at Law",2
 Anne R. Bernardo,2
-Antonovich,3
 "Approximately 1,300 Individuals",2
 Ara Najarian,2
 Arkansas Governor Mike Huckabee,2
@@ -1788,7 +1804,6 @@ Beach City Councilmember Steven Neal,2
 "Ben Austin, Supervisor",2
 Benicia PSAP Supervisor,2
 "Berkeley City Council District 7, Office of Councilmember Rigel Robinson",2
-Berkeley Executive Director,3
 "Betsy Nash, Menlo Park Council Member",2
 Beverly Hills Police Officer,2
 "Bill Campbell, Orange",2
@@ -1901,7 +1916,6 @@ City of Sacramento Councilmember Kevin McCarty,2
 "City of San Pablo, Vice Mayor Cecilia Valdez",2
 City of Seal Beach Solano County Police Chiefs and Sheriff Association Michael R. Efford,2
 "City of Shasta Lake, Greg Watkins, City Councilman",2
-City of Supervisor Fourth District,3
 City of Ventura Councilmember Mike Johnson,2
 City of Woodland Bart Simpson,2
 City of Yorba Linda Councilwoman Beth Haney,2
@@ -1942,7 +1956,6 @@ Constance Tse,2
 Consumer Attorneys of CaliforniaAttorney General Dan Lungren,2
 Contra Costa District Attorney's Office Richard Aromando,2
 Contra Costa Sheriffs Department Catherine Gould,2
-Council Member,3
 "Council Member Caity Maple, Chair, Law and Legislation Committee",2
 Council Member of City of Woodland,2
 Council President Joe Lacava's Office,2
@@ -2082,7 +2095,6 @@ David Rabbitt,2
 "David W. McMurchie, McMurchie Weill Lenahan Lee Slater & Pearse LLP",2
 Davis Board of Education Trustee Susan Lovenburg,2
 "Dawn-Ortiz-Legg, District Three Supervisor, San Luis Obispo County",2
-"Dean, College of Engineering, California State Polytechnic",3
 "Dean, College of Engineering, California State University, Long",2
 "Dean, College of Engineering, University of California, Los",2
 "Dean, School of Engineering, University of Southern California",2
@@ -2285,7 +2297,6 @@ Individual Hearing Aid Dispensers,2
 Individual Letters (33),2
 Individual Letters (38),2
 Individual Licensees,2
-Individual Peninsula,3
 Individual Podiatrists,2
 Individuals (137),2
 Individuals (146),2
@@ -2426,9 +2437,7 @@ MODESTO CITY COUNCIL MEMBER TONY MADRIGAL,2
 "Madera County Board Supervisor, Tom Wheeler, District V",2
 "Malia Cohen, Member, Board of Supervisors, City and County of San Francisco",2
 "Manuel Ontal, Jr., Councilman for the City of Carson",2
-"Marcos, Santa Rosa, Sunnyvale, Thousand Oaks, Tustin, Vista",3
 Marin County Clerk Michael Smith,2
-"Marina Martinez, Program Director, Mi Casita Parent",3
 "Mark Lee, Esq., Manatt, Phelps and Phillips, LLP",2
 "Mark Luce, Napa County Board of Supervisors",2
 "Mark Nuaimi, Mayor",2
@@ -2446,9 +2455,6 @@ Mayor Eleanor L. Zimmerman,2
 Mayor Elizabeth Williams,2
 Mayor Garcia,2
 Mayor Jim Dear,2
-Mayor Joe Brown,3
-Mayor Ken Moore,3
-Mayor Kennedy,3
 Mayor Pauline Cutter,2
 Mayor Pro Tem Bill Wells,2
 Mayor Pro Tem Gabriel Quinto,2
@@ -2838,19 +2844,13 @@ Andrews,2
 Angelides,2
 Anita,2
 Sacramento Municipal Court Judge Lloyd Connelly,2
-Bartsch,3
 Baskin,2
 Batts,2
 Berry,2
-Burrell,3
 Douglas,2
 Eastin,2
-Cookson,3
-Cunningham,3
 Lai-Bitker,2
-Lund,3
 Lungren,2
-Nolan,3
 George,2
 Goldfarb,2
 Horton,2
@@ -3269,6 +3269,42 @@ Newsom,2
 Newson,2
 Nicholas Jr,2
 Dr. Robert Jacobson,2
+Chief of Police Jim Hyde,2
+Chief of Police Ken James,2
+"Chief of Police Richard J. Ehle, Jr",2
+Chief of Police Rick Esteves,2
+Councilmember District 6,2
+Deputy Chief,2
+Deputy Fire Marshall,2
+"Doctor ""J",2
+Individual Rights Section,2
+Judge L.A. Superior Court,2
+Judge R,2
+Kelvi,2
+Kohn,2
+Koligian,2
+Lindley,2
+Lola,2
+Mayor Mary England,2
+National High School,2
+Anthony,2
+Bartlett,2
+Daisy,2
+Desautels,2
+Dutton,2
+Eberhard,2
+Edmonds,2
+Ehrman,2
+Elda,2
+Calderon,2
+Connerly,2
+Mautino,2
+Gibson,2
+Haines,2
+Heller,2
+Hetchman,2
+Horvath,2
+Humes,2
 1 Constituent Letter,1
 1 Deputy Chief of Police,1
 1 Lab Manager,1
@@ -3819,11 +3855,7 @@ Chief Scott LaChasse,1
 Chief Susan E. Manheimer,1
 Chief Walter Schuld,1
 "Chief of Police Byron Nelson, Azusa",1
-Chief of Police Jim Hyde,2
 "Chief of Police John Crombach, City",1
-Chief of Police Ken James,2
-"Chief of Police Richard J. Ehle, Jr",2
-Chief of Police Rick Esteves,2
 Chief of Police Sylvia Moir,1
 "Chief of Police William Bratton, Los",1
 "Chief of Police, Randy Narramore of the City of Ridgecrest",1
@@ -4219,7 +4251,6 @@ Councilmember Dee Andrews City of South Gate,1
 Councilmember Dennis,1
 Councilmember Dennis Zine,1
 Councilmember Desley Brooks,1
-Councilmember District 6,2
 Councilmember Dominic Farinha,1
 "Councilmember Donna Frye, San Diego",1
 "Councilmember Dr. Robert Garcia, 1st",1
@@ -4616,8 +4647,6 @@ Dennis Osmer (Individual citizen),1
 "Dennis P. Zine, Council Member",1
 Dennis Pocekay - Petaluma Vice Mayor,1
 Department of California Brigadier General Mary Kight,1
-Deputy Chief,2
-Deputy Fire Marshall,2
 Deputy Major Maggie Houlihan,1
 Deputy Mayor Jerome B. Stocks,1
 Derek Proffitt,1
@@ -4670,7 +4699,6 @@ District Commissoner Michael Kreeger,1
 Div. Commander,1
 Division 4 Phil Hawkins,1
 Dobie Dolphin - Private Citizen,1
-"Doctor ""J",2
 Doctor Andrew Weil,1
 Dodson,1
 "Dolores Garcia Wright, Senior Senator",1
@@ -5299,7 +5327,6 @@ Individual Organizational Members of California Coalition of Foster Family,1
 Individual Owners and Managers of Mobilehome Parks (37),1
 Individual Pharmacists and Doctors,1
 Individual RN's,1
-Individual Rights Section,2
 "Individual Rights Section, Los Angeles",1
 Individual San Francisco Realtors (33),1
 Individual School Districts and Schools,1
@@ -5554,7 +5581,6 @@ Judge James R. Brandlin,1
 Judge James Stiven (ret.),1
 "Judge Jerome S. Nadler, Santa Clara",1
 "Judge John Henning, Supervising Judge of the L.A Superior Court",1
-Judge L.A. Superior Court,2
 "Judge Laura Hammes, San Diego County Superior Court",1
 "Judge Lawrence Stirling, Municipal Court, San Diego",1
 "Judge Leon Emerson, Member of the Commission on Alcoholism County of Los",1
@@ -5571,7 +5597,6 @@ Judge Philip M. Saeta (Ret.),1
 "Judge Philip Moscone, San Francisco",1
 "Judge Phillip Saeta, Los Angeles County Courts",1
 Judge Quentin L. Kopp (Ret.),1
-Judge R,2
 Judge Richard L. Freeborn,1
 "Judge Richard L. Freeborn, Presiding Judge of the Coordinated Lake",1
 "Judge Robert McDaniel, North Kern County Municipal Court",1
@@ -5653,7 +5678,6 @@ Keith Umemoto,1
 Keller,1
 Kelley,1
 Kelly,1
-Kelvi,2
 Ken Bundy,1
 Ken Hengst,1
 Ken Nelson Aquatech Pools,1
@@ -5700,8 +5724,6 @@ Kipland Howard,1
 Kitty Moore - Cupertino City Councilmember,1
 "Kiumarss Nasseri (Epidemiologist, Public Health)",1
 "Knox Kelly, Medical Doctor",1
-Kohn,2
-Koligian,2
 Koning,1
 Kopp,1
 "Kopp, Judge of the Superior Court of San Mateo",1
@@ -5776,7 +5798,6 @@ Linda Seeley,1
 Linda Smith,1
 Linda Wolcott,1
 Linda and Lonnie Wells,1
-Lindley,2
 "Lindsey Horvath, Los Angeles County Supervisor",1
 Lisa Brenneis (Ojai),1
 Lisa Cardella-Presto,1
@@ -5796,7 +5817,6 @@ Local 3299 Lieutenant Governor John Garamendi,1
 Local 433 Mayor Antonio R. Villaraigosa,1
 "Lockyer, State Treasurer",1
 Lois Arkley,1
-Lola,2
 Lola Fitzgerald,1
 Lola Prusac,1
 Long Beach Councilmember Douglas Drummond,1
@@ -5956,7 +5976,6 @@ Mayor Janet Abelson,1
 Mayor Jeffrey Cooper City of Martinez,1
 Mayor Jim Patterson of,1
 Mayor Larry Brown,1
-Mayor Mary England,2
 Mayor Oscar Rios,1
 Mayor Patricia Lock Dawson,1
 Mayor Paul S. Leon,1
@@ -6137,7 +6156,6 @@ Nathan Valdez,1
 National City Councilmember Jose Rodriguez,1
 National City Councilmembers Mona Rios and Alejandra Sotelo-Solis,1
 National City Honorable Louis Scanlon,1
-National High School,2
 "National High School Journalism Teacher of the Year, Paul Kandell",1
 "Ned L. Nix, D.D.S",1
 Nevada Governor Kenny Guinn,1
@@ -7113,7 +7131,6 @@ Ahlborn,1
 Allyson,1
 Angela,1
 Angelos,1
-Anthony,2
 April,1
 Ashley,1
 Atkins,1
@@ -7125,7 +7142,6 @@ Barb,1
 Barger,1
 Barrat,1
 Barrington,1
-Bartlett,2
 Bayus,1
 Beard,1
 Berger,1
@@ -7143,13 +7159,11 @@ Browne,1
 Browning,1
 Bryant,1
 Daggett,1
-Daisy,2
 Dana,1
 Davidson,1
 Davison,1
 Delgado,1
 Demers,1
-Desautels,2
 Diaz,1
 Dickinson,1
 Doberneck,1
@@ -7161,26 +7175,19 @@ Drew,1
 Dronenberg,1
 Duerr,1
 Dunn,1
-Dutton,2
 Eade,1
 Easley,1
-Eberhard,2
 Echeverria,1
 Eckert,1
 Eckhoff,1
 Eckles,1
-Edmonds,2
-Ehrman,2
-Elda,2
 Elias,1
 Elizabeth,1
 Elwood,1
 Emerson,1
 Evans,1
 Ezekiel,1
-Calderon,2
 Canciamilla,1
-Connerly,2
 Coonerty,1
 Copabianco,1
 Cosgrove,1
@@ -7189,11 +7196,9 @@ Culberson,1
 Jacobsen,1
 Kahn,1
 Lovenburg,1
-Mautino,2
 Papan,1
 Pellerin,1
 Gannon,1
-Gibson,2
 Gilbert,1
 Gillett,1
 Goldberg,1
@@ -7201,17 +7206,12 @@ Graeber,1
 Graham,1
 Guerrero,1
 Guillen,1
-Haines,2
 Halgren,1
 Harriett,1
-Heller,2
-Hetchman,2
 Hoekstra,1
 Hohman,1
 Hopcraft,1
-Horvath,2
 Houston,1
-Humes,2
 Hutchens,1
 Ransdell,1
 Rogoff,1

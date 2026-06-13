@@ -68,19 +68,19 @@ Public Interest Law Project/California Affordable Housing Law Project,6
 "California Chamber of Commerce, California Manufacturers and Technology Association",6
 County of National Association of Social Workers,6
 "Bay, Torrance, Tehama County, Tulare County, Ventura",6
+County of Legal/Court Interpretation Program,6
+"County, Santa",6
+"County, South",6
+"Fernando Valley, San Gabriel Valley and East San Gabriel",6
 "California Communities Against Toxics, Planning and Conservation League",5
 "Cities of: Adelanto, Agoura Hills, American Canyon, Antioch, Arvin, Atascadero, Azusa, Bell Gardens, Bellflower, Belmont, Benicia, Berkeley, Beverly Hills, Bishop, Blythe, Brea, Brisbane, Burbank, Burlingame, California City, Calistoga, Camarillo, Carlsbad, Carmel-by-the-Sea, Carson, Chowchilla, Citrus Heights, Clayton, Cloverdale, Clovis, Coalinga, Colfax, Commerce, Concord, Costa Mesa, Cotati, Covina, Cypress, Daly City, Diamond Bar, Dixon, El Cajon, El Segundo, Emeryville, Encinitas, Exeter, Fairfield, Folsom, Fontana, Fortuna, Foster City, Fountain Valley, Fowler, Fremont, Fullerton, Glendora, Grand Terrace, Greenfield, Gridley, Guadalupe, Half Moon Bay, Hanford, Healdsburg, Hermosa Beach, Hesperia, Highland, Hollister, Huntington Beach, Huntington Park, Huron, Imperial Beach, Irvine, Irwindale, Jackson, Kingsburg, La Palma, La Puente, La Verne, Lafayette, Laguna Beach, Laguna",5
 City of San Diego State Board of Equalization Burbank Chamber of Commerce Aris Helicopters,5
 City of Torrance County of Butte,5
 City of Windsor City of Arcata Councilmember,5
 County of County,5
-County of Legal/Court Interpretation Program,6
 County of San Diego Design-Build Institute of America,5
 "County, Metropolitan State Hospital, Monterey County, Mt",5
-"County, Santa",6
-"County, South",6
 Department of General Services/Victim Compensation and Government Claim Board,5
-"Fernando Valley, San Gabriel Valley and East San Gabriel",6
 "Hills, Lake Forest, Lakewood, Lathrop, Lawndale, Lemoore, Lindsay, Livermore, Livingston, Long Beach, Madera, Manhattan Beach, Manteca, Martinez, Marysville, Mendota, Merced, Mill Valley, Modesto , Moreno",5
 Inc. Hotel Employees,5
 "Locals 1034, 9400, 9415, 9423",5
@@ -122,6 +122,9 @@ Sheriffs of Los Angeles and San Mateo,5
 "Legislative Alliance, and Ventura County Climate Hub",5
 Adventist Health and Loma Linda University Medical Center,5
 "Defense Council, Planning and Conservation",5
+Center/Pathways Domestic Violence Program,5
+"Gorgonio Pass, Crestline-Lake Arrowhead, and Antelope Valley-East Kern",5
+"Hills, Chula Vista, Claremont, Culver City, El Cajon, Laguna Hills, La",5
 AFL-CIO Cement Masons,4
 "Alameda, Kern, Los Angeles, Sacramento, Santa Cruz, and Ventura Counties",4
 "American Civil Liberties UnionAmerican Federation of State, County and Municipal Employees",4
@@ -148,7 +151,6 @@ California Peace Alliance/ Department of Peacebuilding Campaign,4
 California Rifle and Pistol Association California Waterfowl,4
 "California Sheet Metal and Air Conditioning Contractors, National Association Construction Employers' Association",4
 "Carol M. Carter, Wesley United Methodist, First United",4
-Center/Pathways Domestic Violence Program,5
 "Cities of Benicia, Lakewood, Stockton",4
 "Cities of Thousand Oaks, Encinitas, Los Angeles, Norwalk, Poway, San Carlos, San Luis Obispo, Santa Maria, Signal Hill, Tracy Kemnitzer, Dickinson, Anderson & Barron",4
 "Cities of: Arcadia, Bellflower, Carlsbad, Chico, Chino",4
@@ -165,9 +167,7 @@ County of City of Santa,4
 Dole Food Company and the Dole Nutrition Institute,4
 "ENZO Olive Oil Company/P-R Farms, Inc",4
 "Eden Housing, Emergency Services Network",4
-"Gorgonio Pass, Crestline-Lake Arrowhead, and Antelope Valley-East Kern",5
 "Hamburger Factory, Inc/Po Folks Restaurant Inc",4
-"Hills, Chula Vista, Claremont, Culver City, El Cajon, Laguna Hills, La",5
 "Intercool Inc, Institute of Heating and Air Conditioning Industries, Inc",4
 "La Canada Air Conditioning Inc, Lancaster Burns Construction Inc",4
 "Los Angeles County Bar Association, Hospice/AIDS Project",4
@@ -216,6 +216,7 @@ County of Humboldt . California State Association of Counties,4
 Area Agency on Aging/North Coast Opportunities,4
 "Californians Against Waste, Environment California, Heal the",4
 County of Valley Industry & Commerce Association,4
+County/City Association of Governments,4
 1621 International Brotherhood of Paintes and Allied Trades JJJ Floor Covering,3
 AB 65 Program of Los Angeles Unified School District,3
 "Air Force Sergeants Association, Reserve Officers Association",3
@@ -268,7 +269,6 @@ County of County Health Executives Association of California,3
 County of Peninsula Bicycle & Pedestrian Coalition of San Mateo,3
 County of Santa Barbara City of Calabasas,3
 County of Santa Barbara and County of Ventura,3
-County/City Association of Governments,4
 "Defenders of Wildlife, Environmental Defense",3
 "Del Mar, Encinitas, Escondido, Fairfield, Fountain Valley, Garden Grove, Kerman, La Mirada, Laguna Niguel, Lake Forest, Lakeport, Lakewood, Lincoln, Lomita, Los Alamitos, Manhattan Beach, Newport Beach, Oceanside, Paramount, Rancho Cucamonga, Redding, Redlands, Rolling Hills Estates, San Luis Obispo, Santa Ana, Sausalito, Solana Beach, Thousand Oaks, Torrance, Whittier, and Yorba Linda",3
 Department of Agriculture Dept. of Weights & Measures Lake Administrative Officer,3
@@ -347,6 +347,18 @@ League of California Cities California State Association of Counties Cities of B
 "California State Association of Counties, Regional Council of Rural Counties",3
 "Planning and Conservation League, Sierra Club California",3
 "Systems, Inc., Planning and Conservation",3
+Advisory Council/Area Agency on Aging,3
+Association Association,3
+"Bernardino, Orange, Riverside, Imperial, and Inyo Counties",3
+California Association of County Veterans Association,3
+Cities of: Angeles,3
+Cities of: Angels,3
+"Clara County, Shasta, Solano/Napa, Southern California, Stockton, Valley, Inc",3
+County of City of Managers Association of California,3
+"County, Los",3
+"Gabriel Valley and East San Gabriel Valley, San Luis",3
+"Hill, Tulelake, Vallejo, Vista, Walnut Creek, Watsonville",3
+"Jose, Sonoma County, Ventura, and Yolo",3
 "350: Bay Area Action, Butte County, Conejo, San Fernando Valley, Humboldt, Sacramento, San Diego, SoCal Climate Action, South Bay Los Angeles, Southland Legislative Alliance, and Ventura County Climate Hub",2
 "413,340, 47, 18, 45, 11, 639, 551, 40, 332, 6, 595, 100, 180, 234, 1245, 440, 441, 569, Orange County Electrical Training",2
 ": Counties of San Joaquin, Yuba, San",2
@@ -367,7 +379,6 @@ AFL-CIO Sheet Metal,2
 "Additionally, the California Medical Association (CMA)",2
 Adelphia |City of La Palma |Springs,2
 AdvancePCS and Express Scripts,2
-Advisory Council/Area Agency on Aging,3
 Affairs (South San Francisco) California State Automobile Association,2
 "Agencies, California League of Conservation",2
 "Agency on Aging Advisory Council (Nevada, Placer, Sacramento, Sierra, Sutter, Yolo, & Yuba)",2
@@ -398,7 +409,6 @@ Assoc. of Trial Court AdministratorsCA Public Defenders Assoc,2
 Associated General Contractors-San Diego. Association of California Water Agencies,2
 Associates |City of Lafayette |City of Santa Rosa,2
 Association (the California Peace Officers Association and the California Police Chiefso),2
-Association Association,3
 "Association Association, Los Angeles County",2
 Association California Police Chiefs' Association,2
 "Association of California Water Agencies, California Association of Sanitation Agencies, California",2
@@ -412,7 +422,6 @@ Association/California Police Chiefso Association,2
 Association/National Nurses Organizing Committee,2
 "Association/National Nurses United, Association of Northern California",2
 "Atascadero, Chico, Colfax, Elk Grove, Fairfield, Folsom, Grass Valley, Lincoln, Nevada City, Orland, Oroville, Portola, Rancho Cordova, Red",2
-"Bernardino, Orange, Riverside, Imperial, and Inyo Counties",3
 "Black Brant Group, the Blood Origins, INC",2
 "Black Brant Group, the Blue Seas Fabrication",2
 "Black Brant Group, the California Cattlemen's Association",2
@@ -455,7 +464,6 @@ California Apartment Association California Native Plant,2
 "California Assessors' Association, Howard Jarvis Taxpayers Association",2
 "California Association for Health, Physical Education, Recreation and Dance American Heart Association",2
 "California Association of Code Enforcement Officers, California College and University Police Chiefs Association, California Narcotic Officers Association, California Taxpayers Association, Los Angeles Professional Peace Officers Association",2
-California Association of County Veterans Association,3
 "California Association of Joint Powers Authorities , State Building and Construction Trades Council, CSAC Excess Insurance Authority",2
 California Association of Joint Powers Authorities California Association of Sheet Metal and Air Conditioning Contractors National Association,2
 "California Association of LAFCOs, American Federation of State, County and Municipal Employees",2
@@ -544,8 +552,6 @@ Cities of Carpinteria,2
 Cities of: Adelanto,2
 "Cities of: Alameda, Albany, Dublin, Emeryville, Fremont Hayward Livermore, Newark, Oakland, Piedmont, Pleasanton, San Leandro, and Union City",2
 Cities of: American Canyon,2
-Cities of: Angeles,3
-Cities of: Angels,3
 "Cities of: Apple Valley, Cathedral City, Hermosa Beach, San Diego",2
 "Cities of: Arroyo Grande, Berkeley, Clovis, Dublin, Garden",2
 "Cities of: Azusa, Berkeley, Brawley, Burbank, Calistoga, Capitola, Ceres, Chico, Colma, Coronado, Emeryville, Fort Bragg, Lodi, Los Altos, Los Angeles, Oakland, Pasadena, Riverside, Salinas, San Diego, San Jose, San Mateo, San",2
@@ -582,7 +588,6 @@ City of San Jacinto California Organization of Police and Sheriffs Richard F. Th
 "City of Santa Ana W.D. ""Bill"" Stearns",2
 City of Vernon City of Whittier,2
 City of Yreka SB 1354-Escutia Homexx International,2
-"Clara County, Shasta, Solano/Napa, Southern California, Stockton, Valley, Inc",3
 "Coachella Valley Association of Governments, Southern California Association of Governments",2
 Coalition California Professional Firefighters California School Employees,2
 Cobb County Roy T. Ramirez,2
@@ -619,7 +624,6 @@ County of City of Barbara,2
 County of City of Grocers Association,2
 County of City of Industries (ISRI),2
 County of City of Institute of Scrap Recycling,2
-County of City of Managers Association of California,3
 County of City of Prevention Program of Southern California,2
 County of City of Protection,2
 County of City of The Construction Industry's Crime,2
@@ -631,7 +635,6 @@ County of Sacramento Land & Farming Inc,2
 County of Santa Clara Health Department (cont'd) County of San Luis Obispo Health Agency,2
 County of Tulare League of California Cities Marin County Council of Mayors,2
 County of Yuba Cities of Barstow,2
-"County, Los",3
 "County, Los Angeles County, Marin, Mendocino County, Metropolitan State Hospital, Monterey County, Mt. San",2
 "County, Orange County, San Luis Obispo County, Southern Santa",2
 "County, Santa Clara County, Santa Cruz County, Shasta",2
@@ -679,7 +682,6 @@ Employee Relations Board (ERB) and the Los Angeles County Employer,2
 "Francisco, Oakland, Alameda and Long Beach",2
 Fuller/Sound/CSS Music/D.A.W.N,2
 GRID alternatives Green for All,2
-"Gabriel Valley and East San Gabriel Valley, San Luis",3
 "Gabriel Valley, of Humboldt, Inc., of Madera County, Inc., of Petaluma, of Fresno, of Roseville, of the Valley, of Marin, of Merced and Mariposa",2
 Gabriel Valley/Whittier/Pomona - California,2
 "Gastroenterological Association, American Society of Cataract and Refractive Surgery, American Society of Echocardiography, American",2
@@ -698,7 +700,6 @@ Green Party of St Louis/Gateway Green Alliance,2
 Half Moon Bay Groundfish Marketing Association/Half Moon Bay Commercial Fisheries Trust,2
 Health Access California California ACORN,2
 "Health Services, and the California Highway Patrol",2
-"Hill, Tulelake, Vallejo, Vista, Walnut Creek, Watsonville",3
 Humboldt Trim Company & Fraktal,2
 "IBEW, Sheet Metal Workers & California State Pipe Trades",2
 "In to the bill, the County Welfare Directors",2
@@ -729,7 +730,6 @@ J R Construction - SOL SOLUTIONS,2
 "Jacinto, Napa Valley, San Luis Obispo, and San Mateo",2
 Jeff Ira San Mateo City/County Association of Governments Shasta Public Library Foundation,2
 John and Joanne DeRaadt Dairy,2
-"Jose, Sonoma County, Ventura, and Yolo",3
 "Judd's Hill, Finkelstein Vineyards",2
 "Judges John W. DeGroot and Paul R. Martin, Madera Superior Court",2
 Kern County Board of Supervisors Leona Valley Town Council,2
@@ -939,6 +939,39 @@ Public Health Advocates and the California COVID Justice Coalition,2
 "Stephen P. McGee, Law Offices of Stewart Heating & Air, Inc",2
 The Association of California Life and Health Insurance Companies (ACLHIC) and the California Association of Health Plans (CAHP),2
 The California State Association of Counties (CSAC) and the California Behavioral Health Directors Association (CBHDA),2
+"Asian Pacific Islander Lesbian, |Bisexual",2
+Association |Angeles County,2
+Association\California,2
+"Bay, Ojai, Palm Desert, Palo Alto, Paso Robles, Pismo Beach, Portola, Poway, Rancho",2
+Beach | |Rohnert Park City,2
+Beach | |of,2
+Beach |El Dorado Hills |Sac. Metropolitan,2
+"California Building Industry Association, Judicial",2
+Chief of Police from 31 Cities,2
+"Clara, Sunnyvale",2
+"Clarita, Santa Cruz/Santa Cruz County, Sonora/Mother Lode, Temecula, Vacaville/North Solano County, Ventura County, Walnut Creek/Diablo",2
+"Clarita, Temecula, Visalia, and Wildomar",2
+"Colleges, Inc. Iglesia Biblica Fundamental",2
+"County, AFL-CIO",2
+"County, DHS",2
+"County, Glenn",2
+Desert Chapter and East Bay Chapter,2
+"Fernando Valley CA, and Silicon Valley Chapter",2
+Flintridge | | Commission,2
+GeyerLamb,2
+"Hill, Newport Beach, San Diego",2
+Hills |City of Rosemead |Marin,2
+Hills |City of Rosemead |Marine County Board,2
+"Hills, Century City, Chino",2
+"Hills, Century City, Chino Valley, Costa Mesa, Crenshaw, Downey, Hanford, Hollywood, Inglewood/Airport Area",2
+Inc. California Child,2
+Inc. Women's Legal Resource,2
+Inglewood/South Bay,2
+"Jose, San Marino, Sebastopol, Stanton, Susanville, Ventura, Walnut Creek",2
+"Jose, Santa Barbara, Santa Clara, Santa Maria, South San",2
+"Leandro, and Richmond Police Departments",2
+Long Term Care Interagency Commission/County,2
+Los County District Attorney's Office,2
 . ACLHIC and CMTA,1
 1 |UNKNOWN |Final |YES |UNKNOWN|UNKNOW|UNKNOW|NO |NONE,1
 "21, Engineers and Scientists of CA, IFPTE Local 20, International Longshore and Warehouse Union",1
@@ -1139,7 +1172,6 @@ Asian Pacific Environmental Network |Green For All,1
 Asian Pacific Environmental Network |International Council of Shopping,1
 Asian Pacific Environmental Network |Metropolitan Education District,1
 Asian Pacific Islander Law Students |California Women's Agenda,1
-"Asian Pacific Islander Lesbian, |Bisexual",2
 Asian Pacific Islander Pride Council|Chinese for Affirmative Action,1
 Asian Pacific Islanders for Human Rights/`Ohana House,1
 "Asian, Inc., Association of Asian American Attorney and CPA Firms (SF)",1
@@ -1195,7 +1227,6 @@ Association of Northern California Oncologists Biocom,1
 "Association of Regional Center Agencies, BRIDGE Housing, California Council for Affordable Housing , California Housing Consortium, EAH Housing, Jamboree, Non-Profit Housing Association of Northern California, Related California, Resources for Community Development",1
 Association of |City of Laverne |City of Sierra Madre,1
 Association of |City of Lemon Grove |City of Sonoma,1
-Association |Angeles County,2
 Association |City of Larkspur |City of Sebastopol,1
 Association |City of Lathrop |City of Solana Beach,1
 "Association, AFSCME, and the California School Employees",1
@@ -1227,7 +1258,6 @@ Association/Foundation,1
 Association/Northern California Marine Association,1
 Association: California Bankers Association,1
 Association: California Narcotic Officers' Association,1
-Association\California,2
 "Associations of 7-Eleven Franchisees, National Franchisee Association, North American Association of SUBWAY Franchisees, Pharmacy Franchisees",1
 "Asthma & Allergy Foundation of America, California Chapter Bayer HealthCare BIOCOM",1
 Atascadero State Hospital Professional Engineers in CA,1
@@ -1269,13 +1299,9 @@ Bay Area Student Activists California District Attorneys Association,1
 "Bay Area Water Supply and Conservation Agency, California Water Service Company",1
 "Bay Institute, The California Central Valley Flood Control Association",1
 "Bay, Healdsburg, Hermosa Beach, Highland, Huron, Laguna Hills, Lakewood, Lathrop, Livingston, Lodi, Long Beach, Los Altos Hills, Madera, Merced, Monterey Park, Moreno Valley, Mountain View, Murrieta, Newman, Norwalk, Pamona, Pasadena, Pinole, Placentia, Rancho Cucamonga, Red Bluff, Redding, Redwood City, Santa Clara, Santa Rosa, Signal Hill, South San",1
-"Bay, Ojai, Palm Desert, Palo Alto, Paso Robles, Pismo Beach, Portola, Poway, Rancho",2
 "Bay, Palm Springs/Desert, Palos Verdes/South Bay, Sacramento, San Diego County, San Francisco, Southern Pacific Region, Temecula Valley, Ventura",1
 "BayBio, California Small Business Association, and National Tax Limitation Committee",1
 Bayview NOW of Newport Beach and Los Angeles NOW,1
-Beach | |Rohnert Park City,2
-Beach | |of,2
-Beach |El Dorado Hills |Sac. Metropolitan,2
 "Benicia Housing Authority, Bet Tzekek",1
 Berkeley High School (Alameda Co)Paramount High School (Los),1
 "Berkeley, Livermore, and West Hollywood",1
@@ -1485,7 +1511,6 @@ California Building Industry Association Claremont Homes,1
 "California Building Industry Association, Consulting Engineers and Land Surveyors of California, California Business Properties Association",1
 "California Building Industry Association, Department of Real Estate",1
 "California Building Industry Association, Imperial County Board of Supervisors",1
-"California Building Industry Association, Judicial",2
 "California Building Industry Association, State Fire Marshal",1
 California Building Officials |Planning and Conservation League,1
 California Building Officials |Powerlight Solar Electric Systems,1
@@ -1800,7 +1825,6 @@ Charter |City of Maywood |City of Tracy,1
 Chief Information Officer Calaveras County Community Television Charter Communications,1
 "Chief Probation Officers for the Counties of Mariposa, Monterey, Sacramento, San Francisco, San Luis Obispo, Santa Barbara, Sutter",1
 Chief Probation Officers of California Rural County Representatives of California,1
-Chief of Police from 31 Cities,2
 Chief |City of Live Oak |City of Sonoma,1
 Chief |City of Lomita |Francisco,1
 "Chiefs Association, the CA Public Defenders Association, the Chief",1
@@ -2220,11 +2244,8 @@ City of Yucaipa City/County Association of Governments of San Mateo County City/
 City of the City of Chino Timewarner Cable Dimension Cable Services Los Angeles County District Attorney Colony Cable Vision,1
 City |Address |Zip |Vouchers,1
 City |Pan|Organiza|Arbitrati| Is |Initial|Second|Public|Pois|Issues,1
-"Clara, Sunnyvale",2
 "Claremont, El Monte, Irwindale, Pomona, Redding, San Gabriel, San Marino, South Pasadena, West Covina",1
 ClaremontClayton Clearlake Clovis Coalinga,1
-"Clarita, Santa Cruz/Santa Cruz County, Sonora/Mother Lode, Temecula, Vacaville/North Solano County, Ventura County, Walnut Creek/Diablo",2
-"Clarita, Temecula, Visalia, and Wildomar",2
 "Clean Power Campaign, Sierra Club",1
 "Clean Water Action, Sierra Club California",1
 Clearlake Police Department Rice Fuller,1
@@ -2246,7 +2267,6 @@ CoalitionCenter for Responsible Lending,1
 "Coast, Sacramento, San Luis Obispo, Santa Clara County, Shasta, Solano/Napa, Southern California, Stockton, Valley, Inc",1
 Collateral Lenders and Secondhand Dealers Association Association for Los Angeles Deputy Sheriffs,1
 "College. Other: JWCH Institute, Inc",1
-"Colleges, Inc. Iglesia Biblica Fundamental",2
 Collins Pine Company |Wadham Energy LP,1
 "Colmac Energy, Inc. |Waste Management Inc",1
 Colored People (San),1
@@ -2393,10 +2413,7 @@ County of Tuolumne Chiefs of Police of the Cities of Arroyo Grande,1
 County of Victoria/54th Ave Block Club,1
 County of Yuba County of Alameda's Personnel,1
 County of Yuba Modoc County Trial Courts Regional Council of Rural Counties (RCRC) Urban Counties Caucus,1
-"County, AFL-CIO",2
 "County, Anaheim",1
-"County, DHS",2
-"County, Glenn",2
 "County, Kern County, San Joaquin County, Shasta County, Tulare County",1
 "County, Lake County, Long Beach, Sacramento, San Bernardino",1
 "County, Long Beach, Los Angeles, Marysville/Yuba City, Merced, Modesto/Stanislaus, Monterey/Monterey County, Oakhurst, Oakland/East Bay, Orange County, Southern Pacific Region, Oakland-East Bay, Palm",1
@@ -2465,7 +2482,6 @@ Department of Motor Vehicles California Trucking Association,1
 "Department, Town of Paradise",1
 Department/National Guard,1
 "Departments, Cities of: Alameda, Anaheim, Bakersfield, Barstow, Belmont, Benicia, Berkeley",1
-Desert Chapter and East Bay Chapter,2
 Diamond Bar Dixon Downey Duarte,1
 Diamond Bar High School (Los Angeles County)San Dieguito,1
 Diamond Sunrise Corporation Mercy Housing,1
@@ -2560,7 +2576,6 @@ Farm Fresh to You and Capay Organic,1
 "Federation, AFL-CIO, Single Parents United 'N Kids",1
 "Federation, Agricultural Council of California",1
 "Federation, Western States Petroleum",1
-"Fernando Valley CA, and Silicon Valley Chapter",2
 "Fernando Valley, Contra Costa, East San Gabriel Valley, Inland Empire North, Glendale County, Lake County, Long",1
 "Fernando, San Gabriel, Sierra Madre, Signal Hill, AB 1882 (Gallegos)",1
 Fire Districts Association of California League of California Cities,1
@@ -2570,7 +2585,6 @@ Flasher Barricade Association and Acclamation Insurance Management Services,1
 Flasher Barricade Association and Coalition of Small and Disabled Veteran Businesses,1
 "Flasher Barricade Association, California Manufacturers and Technology Association, National Federation of Independent Business California",1
 Flasher\Barricade Association and License Information Service,1
-Flintridge | | Commission,2
 Folsom Fontana Fortuna Fort Bragg,1
 "Food Producers, the California Hotel and Lodging Association, the California Farm Bureau, and the California Manufacturers and Technology",1
 "Food and Water Watch, Friends of the Earth",1
@@ -2606,7 +2620,6 @@ Gardens |County of San | Lathrop,1
 "Gavilan, Glendale, Kern, Los Angeles, Los Rios, Peralta, San Jose",1
 "GeoSolve, Inc./BioTech",1
 Geologists California Nurses Association,1
-GeyerLamb,2
 Gilroy Glendale Glendora Goleta,1
 "Girl Scouts, Junior Leagues of California State Public Affairs",1
 GlaxoSmithKline Catholic Healthcare West,1
@@ -2645,11 +2658,6 @@ Health Access California PICO California,1
 Herbalife International Shaklee Corporation,1
 Hermosa Beach Hesperia Highland Hollister,1
 "High, Eppel, Escondido, Etiwanda, Eureka Union, Fairfield-Suisun, Foresthill Union, Gonzales, Hanford",1
-"Hill, Newport Beach, San Diego",2
-Hills |City of Rosemead |Marin,2
-Hills |City of Rosemead |Marine County Board,2
-"Hills, Century City, Chino",2
-"Hills, Century City, Chino Valley, Costa Mesa, Crenshaw, Downey, Hanford, Hollywood, Inglewood/Airport Area",2
 "Hills, Chino Valley, Costa Mesa, Crenshaw, Downey, Hanford, Inglewood/Airport Area",1
 "Hills, Chula Vista, Claremont, Culver City, El Cajon, Laguna Hills, Lakewood, Lompoc, Moreno Valley, Monterey, Moorpark, Moreno Valley, National City, Rancho Cucamonga, Rocklin, Santa Cruz, Stockton, Thousand Oaks",1
 "Hollywood, Whittier, Yucaipa",1
@@ -2697,7 +2705,6 @@ Inc. CR Transfer,1
 Inc. Cal-Sierra Disposal,1
 Inc. California Alliance for Retired Americans City of San Luis Obispo City of Sonoma County Mobilehome Positive Action Committee,1
 Inc. California Business Properties Association California Professional Firefighters L.A. Cellular Peace Officers Research Association of California Cities of Alhambra,1
-Inc. California Child,2
 Inc. California District Attorneys Association (CDAA) California Probation,1
 Inc. California Fire Chiefs Association California Police Chiefs Association Inc. Red Bluff Police Officers Association South Lake Tahoe City Employees Association Chambers of Commerce of Calimesa,1
 Inc. California Institute of Technology City of Baldwin Park,1
@@ -2755,7 +2762,6 @@ Inc. Wesley C. Mitchell,1
 Inc. West Coast Recycling Company Westside Waste Management Co. Inc. Yuba-Sutter Disposal,1
 Inc. Western Center of Law and Poverty,1
 Inc. William L. Lee,1
-Inc. Women's Legal Resource,2
 Inc. [Written to Former Version Of Bill] American Farmland Trust,1
 Inc. the Wireless Power Company,1
 "Independent Living Center of Southern California, Van Nuys Independent Living Services of Northern",1
@@ -2783,7 +2789,6 @@ Industrial Environmental Association |San Gabriel Valley Economic,1
 Industries Association City of |South Coast Air Quality Management,1
 Information Officer |City of Livermore |City of South Gate,1
 Information Officer |City of Lompoc |City of Stanton,1
-Inglewood/South Bay,2
 "Inland Empire Disposal Association, Los Angeles County Waste",1
 "Inland Empire Utilities Agency, Natural Resources Defense",1
 "Inland Valley Development Agency, Statler Bros. Markets",1
@@ -2809,8 +2814,6 @@ Jefferson Smurfit Corporation & Container Corporation of America,1
 John Laing Homes. AB 151,1
 "Jonathan Haidt and Zach Rausch, The Anxious Generation",1
 "Jose, San Bernardino, Yuba City, Rialto, Downey, Capitola, Angeles, Ontario, Port Hueneme, Brawley, Brentwood, Marysville, Fairfield, Los Gatos/Monte Sereno, Pomona, Livermore, Santa Maria, Claremont, Glendora, Signal Hill, Redding, Santa Barbara, Foster City, Berkeley, Sacramento, El Segundo",1
-"Jose, San Marino, Sebastopol, Stanton, Susanville, Ventura, Walnut Creek",2
-"Jose, Santa Barbara, Santa Clara, Santa Maria, South San",2
 Judd and Black,1
 "Judges John W. DeGroot and Paul R. Martin, Madera",1
 Judges' Association Association,1
@@ -2860,7 +2863,6 @@ League of California Cities and Waste Management Inc,1
 "League of California Cities, Planning and Conservation League",1
 "League, Legion of Valor",1
 "League, Sierra Club California, StopWaste.Org (Alameda)",1
-"Leandro, and Richmond Police Departments",2
 "Leandro, and Union City",1
 Learning Disabilities Association of California Headlands Institute,1
 "Legal Services for Children-SF, CA Legal Services for Prisoners",1
@@ -2873,7 +2875,6 @@ Lincoln High School - Stockton Lindhurst High School,1
 Local 11 Los Angeles County Board of Supervisors Los Angeles and Orange County Building and Construction Trades Council Hilda Solis,1
 Local 1711 Southern California Painters and Allied Trades District Council 36 State Building and Construction Trades Council of California Trade Show and Sign Crafts,1
 Local 3299 California Faculty Association California Labor Federation,1
-Long Term Care Interagency Commission/County,2
 Long Valley Fire |Mammoth-Pacific,1
 "Lookout, WesBurger N' More, and Casements",1
 Los Altos Cities of: Belvedere,1
@@ -2892,7 +2893,6 @@ Los Angeles District Attorney California Congress of Parents,1
 "Los Angeles, Los Rios, San Francisco, San Diego, San Jose Evergreen, Peralta, and Los Angeles Community College Districts",1
 "Los Angeles, San Bernardino, and San Diego Counties",1
 Los Angles County Driving School Association of California Driving School Association of the Americas Easy Method Driver Training School,1
-Los County District Attorney's Office,2
 Los Rios and Mt. San Jacinto Community College District,1
 "Los Rios, San Bernardino, and San Diego Community College Districts",1
 Lowell High School (San Francisco)Woodland USD (Yolo Co),1
