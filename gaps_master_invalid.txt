@@ -1891,6 +1891,36 @@ MSJ must be heard 30 days before trial date (CCP 437c(a))
 Municipal Bonds
 Murder, attempted murder, or voluntary manslaughter
 MW:d:e:n 9/10/13 Senate Floor Analyses
+NC/DLW:ctl 5/15/98 Senate Floor Analyses
+NC: KB 5/3/00 Senate Floor Analyses
+NC:cm/ctk 6/19/98 Senate Floor Analyses
+NC:cm/ctl 3/25/98 Senate Floor Analyses
+NC:cm/ctl 4/21/98 Senate Floor Analyses
+NC:cm/jk 1/27/98 Senate Floor Analyses
+NC:cm/jk/cm 8/12/98 Senate Floor Analyses
+NC:cm/jk/cm 8/13/98 Senate Floor Analyses
+NC:ctl/cm 4/28/98 Senate Floor Analyses
+NC:ctl/cm 5/26/98 Senate Floor Analyses
+NC:ctl/cm 6/10/98 Senate Floor Analyses
+NC:ctl/cm 6/4/98 Senate Floor Analyses
+NC:ctl/cm 8/21/98 Senate Floor Analyses
+NC:ctl/cm 8/23/98 Senate Floor Analyses
+NC:ctl/cm 8/27/98 Senate Floor Analyses
+NC:ctl/cm/ctl 8/28/98 Senate Floor Analyses
+NC:ctl/cm/ctl/cm 8/27/98 Senate Floor Analyses
+NC:ctl/cm/ctl/jk 7/28/98 Senate Floor Analyses
+NC:ctl/cm/ctl/jk/ctl 8/10/98 Senate Floor Analyses
+NC:ctl/jk 1/27/98 Senate Floor Analyses
+NC:ctl/jk 1/28/98 Senate Floor Analyses
+NC:ctl/jk 4/29/98 Senate Floor Analyses
+NC:ctl/jk/ctl 1/28/98 Senate Floor Analyses
+NC:jk 1/227/98 Senate Floor Analyses
+NC:jk/cm/ct/cm 4/15/98 Senate Floor Analyses
+NC:jk: 5/29/99 Senate Floor Analyses
+NC:meln 4/5/06 Senate Floor Analyses
+NC:nf/ctl 8/31/98 Senate Floor Analyses
+NC:nf/jk 1/28/98 Senate Floor Analyses
+NC:sl/ctl 8/28/98 Senate Floor Analyses
 American Lung Association of California, California League of Conservation Voters, Clean
 among others
 Analysis Prepared by Ed Imai / TRANS. / (916) 319-2093
