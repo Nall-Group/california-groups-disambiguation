@@ -949,8 +949,8 @@ Oroville,7
 PLANT,7
 only,7
 Small,7
+AGSJ,7
 2,6
-AGSJ,6
 Administrator,6
 Armed Forces Retirees Association of,6
 Association of San Francisco,6
@@ -1292,6 +1292,7 @@ Dependencies,5
 Title,5
 pe,5
 Representing,5
+Fuscoe,5
 Academy,4
 Accountancy,4
 Adoption,4
@@ -1366,7 +1367,6 @@ Faculty Department of Speech-Language Pathology and Audiology at,4
 Filipinos for,4
 First Congregational Church of,4
 "Francisco, Inc",4
-Fuscoe,4
 Gays,4
 Global,4
 Gray Panthers of,4
@@ -1608,6 +1608,9 @@ Regional-Video,4
 OMD,4
 The County,4
 Resource,4
+Agrion,4
+MWA,4
+TULARE CITY ELEMENTARY,4
 29 AFL-CIO and CLC,3
 3,3
 ACLU and California Attorneys for,3
@@ -1617,7 +1620,6 @@ Administrators Association of,3
 Adult,3
 Advisory Commission,3
 Advocate,3
-Agrion,3
 Alameda County Chiefs of,3
 Albion River Watershed Protection Association/Friends of,3
 Alive,3
@@ -1798,7 +1800,6 @@ Los Angeles County Democratic,3
 "Los Angeles, Roseville, Metropolitan Water District of",3
 Low,3
 "MG William Gourley, United States Army, Retired, Chair of",3
-MWA,3
 Magazine,3
 Management Corp,3
 Management Corporation,3
@@ -2151,6 +2152,12 @@ Strategy,3
 Reporting,3
 PAI,3
 "System"". 2006",3
+MMLG,3
+SAFCEI,3
+Salaam,3
+Salewa,3
+CNHH,3
+"Fishing Vessel, Sandra Sue",3
 3492 (North Antelope),2
 434-B,2
 5th District,2
@@ -2643,7 +2650,6 @@ Luis Obispo and Yuba,2
 Lumber Association of,2
 Lumber Inc,2
 M.A,2
-MMLG,2
 MSWD,2
 Madres,2
 Madres Del,2
@@ -2799,7 +2805,6 @@ Robbie Vierra-Lambert Spinal Cord Organization for,2
 Rolling Hills Counties of,2
 Roseville Chamber of,2
 "Ruth Hubbard, Professor Emeritus, Harvard University Department of",2
-SAFCEI,2
 SEEDS,2
 SFM,2
 SFPTA,2
@@ -2808,8 +2813,6 @@ Sacramento Board of,2
 Sacramento Council of,2
 Sacramento County Alliance of,2
 Sacramento Regional Coalition to,2
-Salaam,2
-Salewa,2
 Salon,2
 Samoyed Club of America Associated Obedience Clubs of,2
 San Bernardino Area Chamber of,2
@@ -3165,7 +3168,6 @@ the Legion of,2
 the Paralyzed Veterans of,2
 "the Senate Health Committee. AB 75 (Frommer and Chan), with",2
 "County, California",2
-CNHH,2
 The Commons,2
 The Cornerstone,2
 the Courts,2
@@ -3444,6 +3446,21 @@ Rationale,2
 San Diego (3),2
 San Francisco (6),2
 PIA,2
+AMF,2
+ANGI,2
+Agron,2
+Aican,2
+Autel,2
+CMS,2
+HOK,2
+KYA,2
+"Monkey Out, Voters In",2
+Novell,2
+PRIUM,2
+RPMC,2
+SACReD,2
+SEPPIC,2
+ACILC,2
 Acacia,1
 $30,1
 104 Individual Letters from Representatives of,1
@@ -3468,9 +3485,7 @@ AEM,1
 AGC-San,1
 "AIDS Resources, Information & Services of",1
 AM,1
-AMF,1
 "AMVETS-Department of California, California State Commanders Veterans Council, Blythe, City of",1
-ANGI,1
 AT:dm,1
 Academy of Defensive,1
 Academy of Family,1
@@ -3501,9 +3516,7 @@ Against,1
 Agenda,1
 Agility,1
 Aging Services of,1
-Agron,1
 Agua,1
-Aican,1
 Air Force Sergeants Assoc.: American GI Forum of,1
 Air Transport Association of,1
 Aizen,1
@@ -3640,7 +3653,6 @@ Attorney at Law,1
 Attorneys for,1
 Attorneys from Counties of,1
 Audiology,1
-Autel,1
 Authentic,1
 Auto,1
 Auto California,1
@@ -3762,7 +3774,6 @@ CA-Nevada Conference of,1
 CCP,1
 CF,1
 CHIRLA-Coalition for Humane Immigrant Rights of,1
-CMS,1
 CONSTRUCTION AND OPERATIONS HEARD THIS BILL AND VOTED 2-0 TO,1
 CPP-City of,1
 CRC,1
@@ -4575,7 +4586,6 @@ HCV,1
 HIV/AIDS in,1
 HIV/AIDS in Prison Project of Catholic Charities of,1
 HOCOA,1
-HOK,1
 HSG,1
 Habitat for Humanity East,1
 Habitat for Humanity of,1
@@ -4729,7 +4739,6 @@ Justice Association of,1
 K9,1
 KGO,1
 KPA,1
-KYA,1
 Kal,1
 "Karl Olson, Attorney at",1
 Kashia Band of,1
@@ -5017,7 +5026,6 @@ Moms Demand Action for,1
 Moms Demand for,1
 Mona,1
 Monica Chamber of Commerce,1
-"Monkey Out, Voters In",1
 Monrovia Chief of,1
 Monte Vista,1
 Montebello Chamber of,1
@@ -5145,7 +5153,6 @@ Northern Humboldt,1
 Northern and Southern California Chapters of the Society of,1
 Northwest Coalition for Alternatives to,1
 Note: The,1
-Novell,1
 O'Brien,1
 OASIS,1
 ODN,1
@@ -5236,7 +5243,6 @@ PFLAG-San,1
 POM,1
 "PREVIOUS LEGISLATION . AB 7 (Brown), Chapter 787, Statutes of",1
 PREVIOUS LEGISLATION. AB 89 (Horton) of 2005 and AB 1840 (Horton) of,1
-PRIUM,1
 PROBE,1
 PRRA,1
 PUC Office of,1
@@ -5384,7 +5390,6 @@ RJB,1
 RND,1
 ROIL,1
 ROY,1
-RPMC,1
 RSM,1
 RSVP,1
 Ramon,1
@@ -5447,7 +5452,6 @@ Rural County Representative of,1
 "S. Sue Johnson, Member, University of California Board of",1
 S.D. North,1
 S.J,1
-SACReD,1
 "SB 38 (Alquist), PageF of",1
 SB 930 (Hughes) (CalPIRG),1
 SCCBW,1
@@ -5458,7 +5462,6 @@ SELMINT,1
 SEMSA,1
 SENATE APPROPRIATIONS SUBCOMMITTEE ON BONDED INDEBTEDNESS AND,1
 SEO,1
-SEPPIC,1
 SFCRA,1
 SFID,1
 SFOPPIA,1
@@ -5817,7 +5820,6 @@ Trutanich,1
 Tulare Chamber of,1
 Tulare County Board,1
 Tulare County Recycling,1
-Tulare County Resource Conservation,1
 Tulare County Superior,1
 Turbines,1
 Tuttle,1
@@ -6562,7 +6564,6 @@ County of Victor Valley Chamber of Commerce,1
 "Women (AAUW), California, San Jose, and Santa Cruz",1
 Academic Institutions,1
 Achieve,1
-ACILC,1
 Acquisition,1
 Action Coalition,1
 Unitarian Universalist Church,1
@@ -7472,6 +7473,21 @@ to establish and,1
 to express their,1
 to further,1
 to get information,1
+Andaz West Hollywood General Manager Lin Schatz,1
+"Area Governments, County of San Joaquin",1
+CalGEM,1
+CNCB,1
+CNMA,1
+DOSH,1
+Ironworkers Local 509,1
+"Jones & Mayer, Attorneys at Law",1
+"Marble Robots, writing in opposition",1
+"Poway Firefighters Association, Local 3922",1
+Reclamation District 1001,1
+San Diego Naval Lodge Number 726,1
+"Sanitary District, City of Chino Hills",1
+Tool of North America,1
+Tuolumne County Deputy Probation Officers,1
 542,0
 AFL-CIO Local 11,0
 Assn of CA,0
