@@ -4,9 +4,13 @@
 
 To edit this file (mark tasks, update queues, add tasks), join this queue first. Only the name at the top may edit.
 
+RA-Beta
+
 ## Data Write Queue
 
 Only the RA at the top of this list has write access to project data files (crosswalk JSON, CSVs). Add yourself to the bottom when you're ready to write. Remove yourself when done.
+
+RA-Beta
 
 ## Task List
 
@@ -1379,5 +1383,5 @@ Only the RA at the top of this list has write access to project data files (cros
 | 1301 | **Gaps invalid — band 1/2** (~1300 rows). Run `python3 gaps_band.py invalid 1` to print your STILL-PENDING slice (auto-regrows as audit waves append; already-handled rows are hidden). For each row: move each row to `org_names_invalid.csv`; then REMOVE that org's row (with count) from `crosswalk_gaps_all_stances.csv`. Do NOT edit the master file — it is regenerated each audit wave (see parent task 1245). Run the clean/dedup/stats pipeline before committing. Mark Done when `python3 gaps_band.py list invalid` shows 0 pending for band 1. | Not Started |  |  |
 | 1302 | **Gaps invalid — band 2/2** (~1300 rows). Run `python3 gaps_band.py invalid 2` to print your STILL-PENDING slice (auto-regrows as audit waves append; already-handled rows are hidden). For each row: move each row to `org_names_invalid.csv`; then REMOVE that org's row (with count) from `crosswalk_gaps_all_stances.csv`. Do NOT edit the master file — it is regenerated each audit wave (see parent task 1245). Run the clean/dedup/stats pipeline before committing. Mark Done when `python3 gaps_band.py list invalid` shows 0 pending for band 2. | Not Started |  |  |
 | 1303 | **Gaps parens — band (whole file)** (~424 rows). Run `python3 gaps_band.py parens 1` to print your STILL-PENDING slice (auto-regrows as audit waves append; already-handled rows are hidden). For each row: move each row to `org_names_that_start_with_parens.csv`; then REMOVE that org's row (with count) from `crosswalk_gaps_all_stances.csv`. Do NOT edit the master file — it is regenerated each audit wave (see parent task 1245). Run the clean/dedup/stats pipeline before committing. Mark Done when `python3 gaps_band.py list parens` shows 0 pending for band 1. | Not Started |  |  |
-| 1304 | **Gaps dates — band (whole file)** (~174 rows). Run `python3 gaps_band.py dates 1` to print your STILL-PENDING slice (auto-regrows as audit waves append; already-handled rows are hidden). For each row: move each row to `org_names_that_are_dates_or_phone_numbers.csv`; then REMOVE that org's row (with count) from `crosswalk_gaps_all_stances.csv`. Do NOT edit the master file — it is regenerated each audit wave (see parent task 1245). Run the clean/dedup/stats pipeline before committing. Mark Done when `python3 gaps_band.py list dates` shows 0 pending for band 1. | Not Started |  |  |
+| 1304 | **Gaps dates — band (whole file)** (~174 rows). Run `python3 gaps_band.py dates 1` to print your STILL-PENDING slice (auto-regrows as audit waves append; already-handled rows are hidden). For each row: move each row to `org_names_that_are_dates_or_phone_numbers.csv`; then REMOVE that org's row (with count) from `crosswalk_gaps_all_stances.csv`. Do NOT edit the master file — it is regenerated each audit wave (see parent task 1245). Run the clean/dedup/stats pipeline before committing. Mark Done when `python3 gaps_band.py list dates` shows 0 pending for band 1. | Done | RA-Beta |   RA-Beta (commit cbf764c6): routed 174 dates to dates/phones CSV; excluded 1 mis-binned school district. |
 | 1305 | **Gaps not_capitalized — band (whole file)** (~147 rows). Run `python3 gaps_band.py not_capitalized 1` to print your STILL-PENDING slice (auto-regrows as audit waves append; already-handled rows are hidden). For each row: move each row to `org_names_not_capitalized.csv`; then REMOVE that org's row (with count) from `crosswalk_gaps_all_stances.csv`. Do NOT edit the master file — it is regenerated each audit wave (see parent task 1245). Run the clean/dedup/stats pipeline before committing. Mark Done when `python3 gaps_band.py list not_capitalized` shows 0 pending for band 1. | Not Started |  |  |
