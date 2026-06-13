@@ -70,6 +70,9 @@ County of Legal/Court Interpretation Program,6
 "County, South",6
 "Fernando Valley, San Gabriel Valley and East San Gabriel",6
 Adventist Health and Loma Linda University Medical Center,6
+"Towns of: Apple Valley, Town of Danville, Hillsborough, Mammoth Lakes, Paradise, Tiburon, Windsor, Yountville",6
+"Trust for Public Land, The Upstream",6
+"Trust for Public Land, The Wild Places",6
 "California Communities Against Toxics, Planning and Conservation League",5
 "Cities of: Adelanto, Agoura Hills, American Canyon, Antioch, Arvin, Atascadero, Azusa, Bell Gardens, Bellflower, Belmont, Benicia, Berkeley, Beverly Hills, Bishop, Blythe, Brea, Brisbane, Burbank, Burlingame, California City, Calistoga, Camarillo, Carlsbad, Carmel-by-the-Sea, Carson, Chowchilla, Citrus Heights, Clayton, Cloverdale, Clovis, Coalinga, Colfax, Commerce, Concord, Costa Mesa, Cotati, Covina, Cypress, Daly City, Diamond Bar, Dixon, El Cajon, El Segundo, Emeryville, Encinitas, Exeter, Fairfield, Folsom, Fontana, Fortuna, Foster City, Fountain Valley, Fowler, Fremont, Fullerton, Glendora, Grand Terrace, Greenfield, Gridley, Guadalupe, Half Moon Bay, Hanford, Healdsburg, Hermosa Beach, Hesperia, Highland, Hollister, Huntington Beach, Huntington Park, Huron, Imperial Beach, Irvine, Irwindale, Jackson, Kingsburg, La Palma, La Puente, La Verne, Lafayette, Laguna Beach, Laguna",5
 City of San Diego State Board of Equalization Burbank Chamber of Commerce Aris Helicopters,5
@@ -88,7 +91,6 @@ Museum of Vintage Fashion and Mott Memorial Meadow,5
 "One Lambda, Incorporated (7) Seven Design Co., LTD",5
 Sachs & Book California Association of Professional Scientists California Botanical Society-Madrono California Native Plant Society California State University,5
 "Sr. Claudia Romero, ODN, Office of The Roman Catholic",5
-"Towns of: Apple Valley, Town of Danville, Hillsborough, Mammoth Lakes, Paradise, Tiburon, Windsor, Yountville",5
 "Association of California Water Agencies, California Association of Sanitation Agencies",5
 "Black Brant Group, the California Bowmen Hunters/state Archery Association",5
 California Association of Health Plans and the Association of California Life and Health Insurance Companies are,5
@@ -110,8 +112,6 @@ Inland Abundant Housing & Housing and Homeless Collaborative of Claremont,5
 "League of California Cities, Sierra Club California",5
 Sheriff-Coroner of Alameda County and of Monterey County,5
 Sheriffs of Los Angeles and San Mateo,5
-"Trust for Public Land, The Upstream",5
-"Trust for Public Land, The Wild Places",5
 "ACLU, CACJ and California Judges Association",5
 "Legislative Alliance, and Ventura County Climate Hub",5
 "Defense Council, Planning and Conservation",5
@@ -213,6 +213,8 @@ City of Whittier Civil Justice Association of California County of Lassen,4
 California Chamber of Commerce California Judges Association California Judicial Council Superior Courts of California for the Counties of,4
 "Counties of Humboldt, Placer, Madera, and",4
 for Children National Association of Social Workers,4
+"Toy Manufacturers of America, The Cosmetic, Toiletry, and Fragrance Association, Association for California Tort Reform (ACTR), Hasbro, Lego, Mattel, S",4
+Tulare and Tulare Redevelopment Agency,4
 1621 International Brotherhood of Paintes and Allied Trades JJJ Floor Covering,3
 AB 65 Program of Los Angeles Unified School District,3
 "Air Force Sergeants Association, Reserve Officers Association",3
@@ -315,7 +317,6 @@ San Diego Unified School District League of Women Voters of San Diego County Mar
 San Mateo County Parks and Recreation Foundation Sierra Club,3
 Section 1: California Association of Realtors,3
 "Special Districts Association, Association of California Water",3
-"Toy Manufacturers of America, The Cosmetic, Toiletry, and Fragrance Association, Association for California Tort Reform (ACTR), Hasbro, Lego, Mattel, S",3
 Trust for Public Land. County of Alameda,3
 "AD Industries, Inc., California Industrial Leadership Council",3
 San Diego Unified School District Nick Aguilar,3
@@ -373,6 +374,15 @@ Sonoma Connect|sonoma Unidos,3
 "Park, Ceres",3
 The State Bar of California Harriett Buhai Center for,3
 Seattle Children's Sleep Disorders Center/University of Washington School of Medicine,3
+"TST Inc., United Alloys and Metals",3
+"Towns of Apple Valley, Los Gatos, Mammoth Lakes, and Truckee",3
+Towns of Danville and Fairfax,3
+Towns of Fairfax and Tiburon,3
+"Towns of Fairfax, Los Altos Hills, Mammoth Lake, Ross, and Truckee",3
+"Tri-Valley Cities of Dublin, Livermore, Pleasanton, San Ramon",3
+Trial Courts Legislation CommitteeDistrict Attorney of Nevada,3
+Truckee Donner Public Utility District and Turlock Irrigation District League of California Cities Southern California Public Power Authority,3
+"Trust for Public Land, the Union of Concerned Scientists",3
 "350: Bay Area Action, Butte County, Conejo, San Fernando Valley, Humboldt, Sacramento, San Diego, SoCal Climate Action, South Bay Los Angeles, Southland Legislative Alliance, and Ventura County Climate Hub",2
 "413,340, 47, 18, 45, 11, 639, 551, 40, 332, 6, 595, 100, 180, 234, 1245, 440, 441, 569, Orange County Electrical Training",2
 ": Counties of San Joaquin, Yuba, San",2
@@ -805,21 +815,12 @@ Stockton CONTINUED La Cooperative Campesina de California,2
 "Strategic Committee on Public Employees, Laborers International UNITE HERE",2
 "Supervisors, California State Association of Counties, Los Angeles County",2
 "Supervisors, City and County of San Francisco",2
-"TST Inc., United Alloys and Metals",2
 Terra Linda High School/San Rafael (Marin County),2
 The Association of California Life and Health Insurance Companies (ACLHIC) and the National Association of Financial Advisors of California (NAIFA-California),2
 The California District Attorneys Association has,2
 "The California Family Health Council, Planned Parenthood",2
 Tim Stroshane Housing Planner Fraternity House Inc,2
-"Towns of Apple Valley, Los Gatos, Mammoth Lakes, and Truckee",2
-Towns of Danville and Fairfax,2
-Towns of Fairfax and Tiburon,2
-"Towns of Fairfax, Los Altos Hills, Mammoth Lake, Ross, and Truckee",2
 "Transit, BART and San Francisco Municipal Transportation Agency and the use",2
-"Tri-Valley Cities of Dublin, Livermore, Pleasanton, San Ramon",2
-Trial Courts Legislation CommitteeDistrict Attorney of Nevada,2
-Truckee Donner Public Utility District and Turlock Irrigation District League of California Cities Southern California Public Power Authority,2
-"Trust for Public Land, the Union of Concerned Scientists",2
 Tulare California District Attorney's Association District Attorneys of: Amador,2
 Tulare and Merced. Alene Taylor,2
 Tuolumne Counties Donna Gerber,2
@@ -1079,6 +1080,42 @@ Tulare County/District SELPA,2
 "VALLEJO |1 |AAA, SM |Final |YES |UNKNOWN|UNKNOW|UNKNOW|NO |Discip",2
 Valley |City of San Leandro |Monterey County,2
 Valley |City of San Marcos |Mayors' Assn,2
+Towns of Apple Valley and Colma,2
+"Towns of Apple Valley, Colma, Danville, Fairfax, and Loomis",2
+"Towns of Apple Valley, Colma, Fairfax, Los Altos Hills, Mammoth Lakes, Ross, Truckee, Woodside",2
+"Towns of Apple Valley, Colma, Fairfax, Mammoth Lakes, Ross, and Truckee",2
+"Towns of Apple Valley, Colma, Fairfax, Mammoth Lakes, and Ross",2
+"Towns of Atherton, Colma, Hillsborough Portola Valley, and Woodside",2
+"Towns of Atherton, Colma, Hillsborough and Woodside",2
+"Towns of Danville, Hillsborough, Mammoth Lakes, and Portola Valley",2
+"Towns of Fairfax, Mammoth Lake, Ross, Truckee",2
+"Towns of Fairfax, Mammoth Lake, Ross, and Truckee",2
+Transportation Authority and the City/County Association of Governments,2
+Traveling Times Inc./Travel Center of Santa Clarita,2
+Tri-City Athletic League and Tokay High School,2
+Trout Unlimited : Clean Water Action,2
+Truckee Donner Public Utility District and Turlock Irrigation District,2
+True BlueUnited Contractors,2
+"Trust For Public Land, The Urban Semillas",2
+"Trust For Public Land, The Watershed Conservation Authority",2
+"Trust for Public Land, The Tuleyome",2
+"Trust for Public Land, The Tuna Club of Avalon",2
+"Trust for Public Land, The VF Outdoor & Action Sports",2
+"Trust for Public Land, The Wholly H2O",2
+"Trust for Public Land, The Wildlands Conservancy, The Your Children's Trees",2
+"Trust for Public Land, Watershed Conservation Authority",2
+Tustin City and County of San Francisco Cities of: Agoura Hills,2
+UC San Diego - Center for Public Interest Law CALPIRG,2
+"Union 11, 18, 45, 302, 551, 569, 595, 684",2
+"United Hospital Association, California Firefighters, Orange County Medical Association",2
+United Policyholders and Insurance Commissioner Ricardo Lara,2
+United Trustees Association and California Mortgage Association,2
+UnitedHealth Group and HealthAllies,2
+Unitarian Universalist Legislative Ministry Action Network- California UNITE HERE,2
+Union of Concerned Scientists : American Lung Association,2
+"Trust For Public Land, The Watershed Project, The",2
+"Trust for Public Land, The Wilderness Society, The Wildlands Conservancy, The",2
+"Trust for Public Land, The Wildlands Conservancy, The",2
 . ACLHIC and CMTA,1
 "21, Engineers and Scientists of CA, IFPTE Local 20, International Longshore and Warehouse Union",1
 "350 Bay Area, Alameda Interfaith Climate Action",1
@@ -3338,45 +3375,14 @@ The Vanished Children's Alliance/State Board of Control,1
 The Western Center on Law and Poverty/ UFCW Western States Council,1
 "The Western Propane Gas Association, Clean Energy, Natural Gas Vehicles of America, Trillium, California Waste Haulers Council, and California Natural Gas Vehicle Coalition",1
 Tort Reform Sierra Club California,1
-Towns of Apple Valley and Colma,1
-"Towns of Apple Valley, Colma, Danville, Fairfax, and Loomis",1
-"Towns of Apple Valley, Colma, Fairfax, Los Altos Hills, Mammoth Lakes, Ross, Truckee, Woodside",1
-"Towns of Apple Valley, Colma, Fairfax, Mammoth Lakes, Ross, and Truckee",1
-"Towns of Apple Valley, Colma, Fairfax, Mammoth Lakes, and Ross",1
-"Towns of Atherton, Colma, Hillsborough Portola Valley, and Woodside",1
-"Towns of Atherton, Colma, Hillsborough and Woodside",1
 "Towns of Atherton, Los Gatos, and Windsor",1
 Towns of Danville and Moraga,1
-"Towns of Danville, Hillsborough, Mammoth Lakes, and Portola Valley",1
-"Towns of Fairfax, Mammoth Lake, Ross, Truckee",1
-"Towns of Fairfax, Mammoth Lake, Ross, and Truckee",1
-Transportation Authority and the City/County Association of Governments,1
-Traveling Times Inc./Travel Center of Santa Clarita,1
-Tri-City Athletic League and Tokay High School,1
 Tri-City and County Cooperative Planning,1
-Trout Unlimited : Clean Water Action,1
-Truckee Donner Public Utility District and Turlock Irrigation District,1
-True BlueUnited Contractors,1
-"Trust For Public Land, The Urban Semillas",1
-"Trust For Public Land, The Watershed Conservation Authority",1
-"Trust for Public Land, The Tuleyome",1
-"Trust for Public Land, The Tuna Club of Avalon",1
-"Trust for Public Land, The VF Outdoor & Action Sports",1
-"Trust for Public Land, The Wholly H2O",1
-"Trust for Public Land, The Wildlands Conservancy, The Your Children's Trees",1
-"Trust for Public Land, Watershed Conservation Authority",1
 Tuolumne City of Adelanto,1
 Tuolumne County DA's Santa Clara County Board of Supervisors Donna Gerber,1
-Tustin City and County of San Francisco Cities of: Agoura Hills,1
-UC San Diego - Center for Public Interest Law CALPIRG,1
-"Union 11, 18, 45, 302, 551, 569, 595, 684",1
 Unions CONTINUED California Labor Federation,1
 United Farmworkers Donya Fernandez,1
 United Farmworkers Faye Kennedy,1
-"United Hospital Association, California Firefighters, Orange County Medical Association",1
-United Policyholders and Insurance Commissioner Ricardo Lara,1
-United Trustees Association and California Mortgage Association,1
-UnitedHealth Group and HealthAllies,1
 "Valerie Richards, Parents of Murdered Children",1
 Ventura Chapters American Association of Retired Persons American Nurses Association California,1
 Ventura County Contractors Assn Bay Area Builders Exchange,1
@@ -3445,7 +3451,6 @@ Climate Justice Team of the First Unitarian Universalist Church of San Diego Com
 "Adams & Graves, California Housing Council",1
 "Adams & Graves, California Housing Council, County",1
 Action Sales & Metal Co. Inc. Amador County Environmental Service Auburn Placer Disposal Service,1
-Unitarian Universalist Legislative Ministry Action Network- California UNITE HERE,1
 "Action, South Bay Los Angeles, Southland Legislative Alliance, and Ventura County Climate Hub",1
 "Angeles, Southland Legislative Alliance, and Ventura",1
 "Angeles, Southland Legislative Alliance, and Ventura County Climate Hub",1
@@ -6606,6 +6611,81 @@ Siskiyou County Farm Bureau and others,1
 "Manuel E. Ortega, Chief of Police",1
 "Mel E. McDougal, Chief of Police, Nevada City",1
 Union of American Physicians & Ca State Employees Association,1
+Tort Reform Consumer Attorneys of California,1
+Town of Apple Valley UAW,1
+Town of Mammoth Lakes: Town of Truckee,1
+"Towns of: Apple Valley, Los Gatos",1
+Trade & Commerce Agency and the City of Victorville,1
+"Trade Coalition, Cosco Agencies (Los Angeles)",1
+Trails for Richmond Action Committee: Trust for Public Land,1
+"Transfer Facility, Inc., GreenWaste Recovery, Inc., Inland Empire Disposal Association, Los",1
+"Transportation Authority, Sunline Transit",1
+"Transporters, California Trucking Assn",1
+Transyouth Liberation and Transfamily Support Services,1
+"Treasurers and Tax Collectors, Federated Investors, Fidelity Investments, GE Capital",1
+"Treaters, American Fence Contractors",1
+"Treatment Works Synagro Technologies, Inc",1
+Trial Courts Legislation CommitteeDistrict Attorney of Nevada County,1
+"Trinity Cathedral Church Ventura County Parents, Families and Friends of Lesbians and Gays",1
+Trinity Public Utilities District: Turlock Irrigation District,1
+"Trust, Natural Resources Defense Council, Physicians for Social Responsibility, Planning and Conservation League, Sierra Club",1
+"Trust, Natural Resources Defense Council, Public Citizen, Sierra Club, South Bay AFL-CIO",1
+Tulare-Kings Hispanic Chamber of Turning Point of Central California,1
+Tule River Tribal Council: Agua Caliente Band of Cahuilla Indians,1
+Tuolumne County Contra Costa County Sheriff,1
+Uber and Lyft,1
+UC Office of the President and the California State University (CSU) Chancellor's Office,1
+UCLA Labor Occupational Safety and Health Program Unilever,1
+Underground Service Alert of Southern California Southern California Contractors Association,1
+Underground Service Alert of Southern CaliforniaSouthern California Contractors Association,1
+"Unified APCD, Vector Environmental, Inc., Weatherford U.S., L.P., Wegis Ranch, Western",1
+"Unified School District, Silicon Valley Leadership Group, Southwest",1
+Union of American Physicians and American College of Obstetricians and Gynecologists,1
+Union of American Physicians California Medical Association,1
+Union Roofing Contractors Assoc. United Contractors,1
+"United Assn of Journeymen & Apprentices of the Plumbing & Pipe Fitting Industry, Local Union 38, 114, 460 & 484",1
+United Cannabis Business Association and six other cannabis business organizations,1
+United Cannabis Business Association and the United Food and Commercial Workers,1
+"United Cannabis Business Association, Long Beach Collective Association, and Coachella Valley Cannabis Alliance collectively",1
+United Food & Commercial Workers Region 8 States Council United Here,1
+United Food and Commercial Workers Union - Western States Council and California Communities United Institute,1
+"United Food and Commercial Workers Union, Western States Council : Unite Here",1
+"United Food and Commercial Workers Union, Western States Council Worksafe",1
+United Healthcare (UHC) and CAHP,1
+United Hospital Association and Sharp Healthcare,1
+United Nurses Associations of California/Union of Health Care Professionals Walgreens,1
+United Nurses of California/Union of Health care Professionals California Teamsters,1
+United Services Automobile Association Association of California Insurance Companies,1
+United States Navy United States Marines,1
+United Trustees Association and the California Mortgage Association,1
+University of California Student Association (UCSA) & California State Student Association (CSSA),1
+University of San Diego Consumer Attorneys of California Professor Stephen Barnett,1
+University of San Diego School of Law Honorable Jackie Speier,1
+University of Southern California Association of Independent California Colleges and Universities,1
+"University, San Marcos Lambda Letters Project",1
+Unknown San Diego County Bar Association (sponsor) State Bar's Conference of Delegates State Bar,1
+Unknown San Diego County Bar Association State Bar's Conference of Delegates State Bar,1
+Upper Salinas - Las Tablas Resource Conservation District Veggielution,1
+Urban Counties Caucus : Yolo County,1
+Urban Counties Caucus Western Center on Law and Poverty California State Association of Counties Dayle McIntosh Center County of Orange,1
+Urban Counties Caucus. Cities of: American Canyon,1
+"US-Japan-China Comparative Policy Research Institute-Visual: Artists Guild, Los Angeles",1
+"USA, Gray Panthers California, Huntington Park",1
+USC Family Caregiver Support Center/LA Caregiver Resource Center,1
+"Utilities Association, California Nurses",1
+"Utilities Commission, Union Pacific Railroad",1
+"Utility District, Gilroy Independence, League",1
+"Utility District, Heal the Bay, International",1
+"Utility District, League of California Cities, Natural Resources Defense Council, Physicians",1
+"Utility District, Sierra Club, Coalition of organizations (See attached list), 160",1
+Utility Reform Network (TURN) and the Allensworth Progressive Association,1
+Utility Reform Network (TURN) and the California Large Energy Consumers Association are both,1
+Utility Reform Network (TURN) and the Natural Resources Defense Council (NRDC) report they would,1
+"Utility Workers Union of America, Local 132 Walgreens",1
+"Vallejo Neighborhood Housing Services, Inc., Valley Housing Foundation, Venice Community Housing Corp., West Hollywood Community Housing Corporation",1
+"Vallejo, National Association for the Advancement of Colored People, Peace Officers Research Association of California, Rental Housing Association, St. Vincent's Hill",1
+"Valley Air Pollution Control District, Imperial and Mexicali Clean Air Stakeholders, Latino",1
+Valley Unity Peace Treaty Pacoima Elementary School,1
 "LOCAL 684, AND LOCAL 1245",0
 "Orange County Central Labor Council, UFCW",0
 "Orange County Central Labor Council, UFCW Local 324",0
