@@ -10,10 +10,10 @@ District,588
 An individual,511
 SB,451
 Three individuals,439
+sponsor,363
 Various individuals,356
 Coalition,352
 4 individuals,337
-sponsor,363
 Purpose. The author,281
 Letters from individuals,269
 Four individuals,259
@@ -25,7 +25,7 @@ One private individual,214
 7 individuals,180
 6 individuals,178
 of writing,176
-corporation,170
+corporation,196
 Many individuals,166
 8 individuals,156
 writing,148
@@ -71,6 +71,7 @@ Numerous letters from individuals,48
 writes,44
 Three private individuals,44
 28 individuals,43
+Health plans and insurers,41
 31 individuals,40
 42 individuals,40
 3 private individuals,40
@@ -197,7 +198,7 @@ privacy,13
 Prior to latest amendments,12
 Sponsor. The author,12
 The sponsor of,12
-which,12
+which,38
 yes 4/5 none,12
 numerous individual,12
 several individual,12
@@ -208,7 +209,6 @@ two individual,12
 24 private individuals,12
 63 individuals,12
 72 individuals,12
-Health plans and insurers,41
 One certified massage therapist,12
 12 individual letters,12
 Numerous individual interior designers,12
@@ -1063,6 +1063,7 @@ Various abalone divers,4
 Various citizens via letters and phone calls,4
 Various individual radiologic technologists,4
 Two professors,4
+work,4
 . The LAUSD,3
 000 fine for every day of violation in addition to potential liability under the Private Attorneys General Act (PAGA),3
 "1 ""Biobased content"" is defined in the bill as the amount of biobased",3
@@ -1215,7 +1216,7 @@ Individual choice budget,3
 "Initiate Justice, ""The California Conservation Camp Program was initiated by the California Department of Corrections and Rehabilitation (CDCR) to provide able-bodied individuals the opportunity to work on meaningful projects throughout the state. Those projects can include clearing firebreaks, restoring historical structures, maintaining parks, sand bagging and flood protection, reforestation and clearing fallen trees and debris. CDCR, in cooperation with the California Department of Forestry and Fire Protection (CAL FIRE) and the Los Angeles County Fire Department (LAC FIRE), jointly operates 43 conservation camps, commonly known as fire camps, located in 27 counties",3
 Just cause protections in California are not new. Seventeen California cities have enacted just cause eviction ordinances: Berkeley,3
 "L.A. District Attorney's Office, the sponsor",3
-Latino Times/former Chair California Hispanic Chamber of commerce,3
+Latino Times/former Chair California Hispanic Chamber of commerce,4
 Letters from 185 individuals,3
 Letters from 59 individuals,3
 Los Angeles County Drainage Area Alliance (coalition of seven),3
@@ -1720,7 +1721,6 @@ with approval by EMSA,3
 with promulgation of the Truck and Bus Rule. The trucking industry is,3
 "with the safety of a product, but may be due just to a",3
 without fear of being detected and running afoul of fair housing laws. Just cause safeguards against retaliation by forcing landlords to provide a legally-defensible basis for eviction. Current state law does not require a landlord to state a reason for evicting a tenant. State law also recognizes that tenants may face retaliation for asserting their rights to habitable premises,3
-work,4
 work and high diesel prices. The small trucking businesses are truly,3
 "workers, and provides that workers may form and join a labor",3
 would complicate the bidding and contract award process by requiring,3
@@ -2129,6 +2129,8 @@ various individual attorneys,3
 "Wes Omoto, friend of Stephen Allen",3
 Zeta Tau Chapter 192 individuals,3
 Twenty-four individuals,3
+Wireless providers,3
+Valley chapters,3
 """Los Angeles and California as a whole are undergoing housing and homelessness crisis, and AB 2960 will create flexibility for the cities and counties to create more temporary shelters for our most vulnerable communities",2
 """clean-up"" language to existing law as recommended by the Judicial Council. The Institute writes",2
 "'s office, the following",2
@@ -3840,7 +3842,6 @@ While some provisions may provide marginal improvements to consumer,2
 Will further promote understanding of a different culture by,2
 Will provide the same tax relief to property owners who wish to rebuild on the same parcel of land as those who chose to relocate elsewhere in the county,2
 Willful harming or injuring a child or endangering the,2
-Wireless providers,3
 "With respect to the four-year probationary period, CTA notes",2
 "With respect to the prohibition against hiring relatives, opponents",2
 With respect to the streamlining of the Lease-Purchase Program,2
@@ -8503,6 +8504,7 @@ Tort Reform Department of Consumer Affairs,2
 Turning Point Counseling and Educational Services California Partnership to End Domestic Violence (neutral position),2
 Vacaville-Elmira Downey Historical Society Northern CA Association of Public Cemeteries Individual letters (12),2
 "Womenos Alternatives, Haven Womenos Center, wisconsin Coalition Against Domestic",2
+transportation funds,2
 """All services covered under this section shall be the sole financial responsibility of the health plan, which shall",1
 """There could be unintended costs to survivors resulting from the bill's stipulation that offenders pay for their tracking devices",1
 """preneed"" policies are small face life and annuity policies",1
@@ -15218,7 +15220,6 @@ Santa Barbara Rape Crisis Center (7 letters from different),1
 "Santa Clara Valley Transportation Authority (VTA), with support from Alameda County, there will likely be other locals who want to address their representation issues",1
 Santa Clara Valley Water District in order to obtain state authorization for the Upper Guadalupe River flood control project,1
 "Santa Monica Spoke, ""Current penalties for hit-and-runs do not reflect the seriousness of the crime nor act as an effective deterrent. It is unconscionable for instance that, under current law, it is possible for hit-and-run drivers who leave their injured victims on the side of the road to enter plea bargain agreements whereby they evade punishment and are able to return to their normal lives like nothing happened",1
-Santa clarity Valley Chamber of Commerce,1
 Save Open Space (with the stipulations that the Habitat),1
 "Schedule II controlled substances, (2) make",1
 Schering-Plough opposes this bill unless it is amended to require pharmaceutical manufacturers,1
@@ -18862,7 +18863,6 @@ VBG is eager to become accredited with the VA but is hindered by federal law tha
 "Vac-Alert, a manufacturer of a safety release",1
 "Valley Industry and Commerce Association, the current definitions of transit priority area and major transit stop fail to address the use of on-demand and first mile last mile services that are essential to a vibrant transit community that is responsive to today's technology and demands",1
 "Valley Japanese American Citizens League, who writes to say, ""...over",1
-Valley chapters,3
 ValorUS are also sponsors of AB 2432. Their coalition letter argues: Our organizations are dedicated to supporting victims of crime,1
 Various California counties,1
 Various PTA organizations,1
@@ -39639,7 +39639,6 @@ transmitted to the insurer. The bill presently says that,1
 transport them to mental health facilities (or sobering centers). But for individuals with developmental disabilities,1
 transport to alternate destinations such as psychiatric facilities or sobering centers are typically not eligible for reimbursement. CAA concludes that the transports being conducted as part of the pilot program are generally conducted for free and this is not sustainable,1
 "transportation authorities, until 2024, to use a design-build procurement",1
-transportation funds,2
 transportation plans can be expensive and at risk for delay from,1
 transportation plans can be expensive and that this bill would reduce,1
 transportation projects in Los Angeles County,1
