@@ -43,6 +43,7 @@ Organizations,150
 PATH,147
 SMH:bjw,139
 Women for,139
+BILL,138
 Administration,137
 League,134
 Association of,133
@@ -50,7 +51,6 @@ AB,132
 Women,129
 Advocates,126
 for Criminal Justice,125
-BILL,138
 Sheriffs,119
 PODER,119
 Stockton,118
@@ -62,19 +62,19 @@ Monterey,107
 Santa,105
 Emergency Medical Services Administrators Association of,104
 of Colored People,103
-Consumer Attorneys of,99
 Other,103
+Consumer Attorneys of,99
 League of California,99
 Western,97
-Agencies,96
 Opponents,97
+Agencies,96
 American Federation of,93
 Attorneys of California,92
 Engineers & Scientists of California,91
 League of,90
 Federation,90
-Long Beach,88
 Program,90
+Long Beach,88
 Stand Up for,87
 Marin,86
 Organization,86
@@ -82,12 +82,12 @@ of Commerce,85
 of,84
 Crime,83
 Valley,83
+Unknown,83
 Society,82
 California School,82
-Unknown,83
+Programs,80
 Agency,78
 Firefighters,78
-Programs,80
 Region,78
 University,78
 "Strategic Committee of Public Employees, Laborers International Union of",75
@@ -140,6 +140,7 @@ Development,60
 Connect,60
 LLC,60
 one,58
+opposition,58
 arc,56
 Consumer Federation of,55
 Officials,55
@@ -190,7 +191,6 @@ Beach,43
 Mariposa,43
 COUNTY DISTRICT ENROLLMENT AS OF,42
 Tustin,42
-opposition,58
 School,42
 Legal Services for,42
 College,42
@@ -209,10 +209,12 @@ Force,40
 Fontana,40
 Cupertino,39
 Concern,39
+also,39
 Judicial,38
 are,38
 Corp,38
 Tuolumne,38
+PhD,38
 Apartment,37
 of Supervisors,37
 Medicine,37
@@ -230,11 +232,11 @@ MM,35
 Montebello,35
 System,35
 Flo,35
+laws,35
 Colored People,34
 Legal Services for Prisoners with,34
 Los Angeles Affiliate of the National Association of,34
 Governments,34
-PhD,38
 Advisory Council,34
 City and County of San,33
 Northern,33
@@ -245,24 +247,28 @@ Trust,33
 West Covina,33
 Placentia,33
 Turlock,33
+However,33
 Action,32
 Watsonville,32
 Conservators,32
 Murrieta,32
+Problems,32
 Office of,31
 SMH:dm,31
 Mono,31
 California Society,31
 "County, Inc",31
 West Sacramento,31
+Arrival,31
 Board of,30
 Planned,30
 Police,30
-Problems,32
 Family,30
 Business,30
 Advisory Committee,30
 People,30
+Legislation of California,30
+POSITIONS,30
 California Business,29
 Civil Justice Association of,29
 The,29
@@ -283,12 +289,10 @@ Brea,28
 Obispo Counties,28
 California League of,27
 Judicial Council of,27
-Legislation of California,30
 Taxpayers,27
 Town of,27
 Young Children,27
 of Realtors,27
-However,33
 Coalition of,27
 Pharmacists,27
 Truckee,27
@@ -299,7 +303,6 @@ California Association for the Education of,26
 Clue,26
 Engineers and Scientists of,26
 Personal,26
-laws,35
 Collaborative,26
 Barbara County,26
 Co,26
@@ -312,7 +315,6 @@ California Federation of,25
 Civil,25
 Coalition for,25
 Committee on,25
-Arrival,31
 Assessments,25
 Regional,25
 Pacific,25
@@ -394,6 +396,10 @@ The Center,19
 Long,19
 Air,19
 Woodland,19
+Balance,19
+Budget,19
+Finance,19
+Government Organization and Economy,19
 California Conference Board of,18
 Contra,18
 Junior Leagues of,18
@@ -414,6 +420,8 @@ La Verne,18
 Maternal,18
 Eureka,18
 Cypress,18
+Our,18
+Instruction,18
 Communications,17
 Defense Council,17
 of Women,17
@@ -458,10 +466,11 @@ Fortuna,16
 La Habra,16
 Law Section,16
 Therapists,16
-Balance,19
+note,16
+Non on file,16
+Unkown,16
 California Immigrant,15
 Women Against Gun,15
-note,16
 East,15
 Suppliers,15
 Section of the State Bar,15
@@ -481,6 +490,8 @@ Therapy,15
 Walnut,15
 k,15
 Control District,15
+La Puente,15
+Providers,15
 California Chapter of,14
 California Coalition of,14
 California Commission on the Status of,14
@@ -492,15 +503,12 @@ Marijuana Laws,14
 Metropolitan Water District of,14
 National Council of,14
 Office of the Attorney,14
-Our,18
 Port of,14
 Santa Clara County Board of,14
 Southern California Association of,14
 State bar of,14
-also,39
 of California Seniors,14
 of bill,14
-Budget,19
 Juvenile,14
 Libraries,14
 Outdoor,14
@@ -523,16 +531,17 @@ Technology,14
 Treasures,14
 Environmental Justice,14
 Hillsborough,14
-La Puente,15
 Latino Council,14
 of Greater Los Angeles,14
 Ltd,14
-POSITIONS,30
 Pacifica,14
 j,14
-Finance,19
 Sage,14
 CA,14
+Page D,14
+Attorneys,14
+Meeting,14
+www,14
 Alliance of,13
 California Academy of,13
 California Catholic Conference of,13
@@ -540,7 +549,6 @@ California Foundation,13
 Chinese for,13
 Commercial,13
 Defender,13
-Government Organization and Economy,19
 Junior,13
 Motion Picture,13
 N. America,13
@@ -553,7 +561,6 @@ Affirmative Action,13
 Agriculture,13
 Golden,13
 Handgun,13
-Page D,14
 Sanitation Agencies,13
 Veterans of War,13
 Handicapped,13
@@ -571,9 +578,11 @@ Los Altos,13
 City Manager,13
 PACE,13
 in a,13
-Attorneys,14
 Clara County,13
 Hope,13
+Page E,13
+Proponents,13
+Period,13
 Agri,12
 Bay,12
 Boys and Girls Clubs,12
@@ -582,7 +591,6 @@ Campaign for,12
 Consulting,12
 Municipal,12
 Neighborhood,12
-Page E,13
 Privacy,12
 X,12
 for Women,12
@@ -602,6 +610,7 @@ La Mesa,12
 s,12
 O,12
 Lobby,12
+"Chapter, 6105",12
 Asian Pacific,11
 Asian Pacific American Legal Center of,11
 Association of Korean Oriental Medicine and Acupuncture of,11
@@ -626,8 +635,6 @@ for Los Angeles Deputy Sheriffs,11
 it,11
 of Machinists,11
 Corrections,11
-Instruction,18
-Providers,15
 Development Association,11
 Encode,11
 Porterville,11
@@ -649,7 +656,6 @@ Developmental Disabilities,11
 Galt,11
 l,11
 Chamber,11
-Proponents,13
 we are,11
 Alameda County Board of,10
 Association of Korean Oriental Medicine & Acupuncture of,10
@@ -664,12 +670,10 @@ International Brotherhood of,10
 Judge,10
 Legislative,10
 Manufacturers,10
-Meeting,14
 Mental,10
 Mission,10
 National Organization,10
 Page G,10
-Period,13
 Plumbing-Heating-Cooling Contractors Association of,10
 Quality,10
 Traditional,10
@@ -703,7 +707,11 @@ Latino Coalition,10
 Moxie,10
 Escalon,10
 IX/CA,10
-"Chapter, 6105",12
+Party,10
+Authors,10
+Amendment,10
+Sd-sequel,10
+Million,10
 Asian Americans for,9
 Asian Law,9
 Assistance,9
@@ -723,9 +731,7 @@ Empire,9
 III,9
 Legislative Dir,9
 "Military Order of the Purple Heart of the USA, Inc., Department of",9
-Non on file,16
 Page j,9
-Party,10
 SCR,9
 Sports and Arms Show Producers of,9
 State Public Affairs Committee of the Junior League of,9
@@ -739,8 +745,6 @@ Healthcare,9
 Hotel,9
 Retired,9
 Roundtable,9
-Unkown,16
-Authors,10
 Law Section of the State Bar of California,9
 Section of the California State Bar,9
 49th Congressional District,9
@@ -774,7 +778,10 @@ Yorba Linda,9
 i,9
 but,9
 MD,9
-Amendment,10
+Compensation,9
+this,9
+Claim-GV,9
+State Human Association of California,9
 American Academy of,8
 Associated General Contractors of,8
 California Applicants,8
@@ -809,7 +816,6 @@ City of LLC,8
 Cosmetic,8
 Assault,8
 Desert,8
-Compensation,9
 Librarians,8
 Neglect,8
 Place,8
@@ -830,7 +836,6 @@ Pharmacy,8
 Water Agency,8
 for Prisoners with Children,8
 for the Retarded (CASHPCR),8
-this,9
 Advisors,8
 Contribute,8
 Advisory Board,8
@@ -846,6 +851,9 @@ Woodlake,8
 of CA,8
 Law Section of the State Bar,8
 AHS,8
+Normative,8
+Homelessness,8
+Properties,8
 Accountability,7
 "Advocates, Inc",7
 Agents,7
@@ -905,17 +913,14 @@ n,7
 of Education,7
 of Police,7
 of the 2015-16 Legislative Session,7
-www,14
 "Progress, Inc",7
 Agricultural,7
 Elections,7
 Choices,7
 Minority,7
 Neighborhoods,7
-Normative,8
 Nutritionists,7
 Policyholders,7
-Homelessness,8
 Recorder,7
 Retailers,7
 Standards,7
@@ -953,6 +958,10 @@ of Southern California,7
 CAA,7
 Defenders Office,7
 Athletics,7
+Impaired,7
+Probation,7
+Proof,7
+pic,7
 2,6
 AGSJ,6
 Administrator,6
@@ -985,7 +994,6 @@ Fire Department Chiefs of the Counties of,6
 GRP,6
 H&m,6
 HR,6
-Impaired,7
 La Raza,6
 Leadership Group,6
 Levin,6
@@ -1011,7 +1019,6 @@ Parenthood of California,6
 Patients,6
 Prevent,6
 Prisoners,6
-Probation,7
 Professional Insurance Agents of,6
 "Professional and Technical Engineers, International Federation of",6
 Rape,6
@@ -1053,15 +1060,12 @@ Enough,6
 Cardiology,6
 Catholic,6
 Chemical,6
-Claim-GV,9
 Cooperative,6
 Preservation,6
-Properties,8
 Farms,6
 Recreation,6
 Rehabilitation,6
 Reservation,6
-Sd-sequel,10
 Security,6
 Small,6
 1245 (Walnut Creek),6
@@ -1112,9 +1116,19 @@ Principles,6
 Heating,6
 labor,6
 "Association, Inc",6
+Again,6
+Environmental Organizations,6
+LCSW,6
+Medical,6
+co-sponsors,6
+Medium,6
+Page p,6
+The Progress,6
+Province,6
+Concerns/Other,6
+Annually,6
 4.,5
 Actors and Others for,5
-Again,6
 Agricultural Council of,5
 Alameda County District,5
 American Civil Liberties Union of,5
@@ -1160,7 +1174,6 @@ Department of Geography,5
 Deputy Sheriffs Association of San,5
 Developmental,5
 Emergency Medical Services Administration Assoc. of,5
-Environmental Organizations,6
 Estates,5
 Fair Housing Foundation of,5
 Federation of,5
@@ -1174,7 +1187,6 @@ Hiraeth,5
 Ica,5
 Incest,5
 Institute/Center for,5
-LCSW,6
 Lam,5
 Lara,5
 Latino,5
@@ -1201,7 +1213,6 @@ Officers in,5
 Offices,5
 Organizers in Solidarity,5
 Page m,5
-Proof,7
 Protect,5
 "Ray McKeon, Director of Detention Ministry, Archdiocese of",5
 Region 8 States Council of,5
@@ -1216,7 +1227,6 @@ Sheriffs of,5
 "Social Service Ministry Office, Catholic Diocese of",5
 Southern California Nevada Conference United Church of,5
 State Bar Committee on the Administration of,5
-State Human Association of California,9
 THE LOS,5
 The Committee of Bar Examiners of the State Bar of,5
 "The State Bar of California, Committee on Administration of",5
@@ -1242,7 +1252,6 @@ of Orange County,5
 of Pomona,5
 of Schools,5
 of Social Workers - California Chapter,5
-pic,7
 REMCO,5
 Port,5
 County of Vista Chamber of Commerce,5
@@ -1259,7 +1268,6 @@ Circuit,5
 Clients,5
 Conduct,5
 Involvement,5
-Medical,6
 Plumbing-Heating-Cooling,5
 Growers,5
 Herb,5
@@ -1303,8 +1311,9 @@ Western Region,5
 Exeter,5
 CPCA,5
 of the State Bar of California,5
-co-sponsors,6
 Secs,5
+Patterns,5
+Dependencies,5
 Academy,4
 Accountancy,4
 Adoption,4
@@ -1413,7 +1422,6 @@ MMCI,4
 Mackenzie,4
 Maria,4
 Marshall,4
-Medium,6
 Menlo,4
 Mental Health Association of,4
 Methodist,4
@@ -1445,7 +1453,6 @@ PAD,4
 PENN,4
 PVID,4
 Pacific Racing Association at Golden,4
-Page p,6
 Panel,4
 Para,4
 Parent,4
@@ -1538,7 +1545,6 @@ of the United States,4
 pe,4
 Cornerstone,4
 RCAM,4
-The Progress,6
 City of ACORN,4
 Advent,4
 Affirmative Action (CAA),4
@@ -1560,8 +1566,6 @@ Crisis,4
 Inside,4
 Jasmin,4
 Lutheran,4
-Patterns,5
-Province,6
 Facility,4
 Grand,4
 Records,4
@@ -1626,10 +1630,20 @@ MSW,4
 Watson,4
 Action Association,4
 County of Services,4
+AJR,4
+Confermed,4
+Immigrant,4
+In Depth,4
+Normalization,4
+Participation,4
+cc,4
+Colorado,4
+Chemistry,4
+Childbirth,4
+Regional-Video,4
 29 AFL-CIO and CLC,3
 3,3
 ACLU and California Attorneys for,3
-AJR,4
 Abx,3
 Accountable Develop,3
 Administrators Association of,3
@@ -1723,7 +1737,6 @@ Co. Inc,3
 "Colleges, Inc",3
 Community and Children's,3
 Conference of the NAACP,3
-Confermed,4
 Contra Costa County Office of,3
 Contractor,3
 Control Agency,3
@@ -1783,9 +1796,7 @@ Hein,3
 Hodg,3
 Human Rights/Fair Housing Commission of,3
 IMB,3
-Immigrant,4
 Immigration Center for,3
-In Depth,4
 Individual Freedom,3
 Information,3
 Institute for,3
@@ -2073,7 +2084,6 @@ Auxiliary,3
 Bioethics,3
 Builders,3
 Dependence,3
-Dependencies,5
 Double,3
 Downtown,3
 Eastern,3
@@ -2089,7 +2099,6 @@ Clementina,3
 Clinics,3
 Collective,3
 Commissioners,3
-Concerns/Other,6
 Congregation,3
 Constitution,3
 Creations,3
@@ -2103,8 +2112,6 @@ Liability,3
 Licensees,3
 Linoleum,3
 Nonprofits,3
-Normalization,4
-Participation,4
 Petitions,3
 Pictures,3
 Playground,3
@@ -2165,13 +2172,25 @@ We,3
 With,3
 Development Programs,3
 Woodland Hills,3
-cc,4
 CRS,3
 Attention,3
 California in Paint 2000,3
 City of U.N.I.T.E,3
 Enrolled Agents,3
 Journalists,3
+Auditors,3
+CAMPBELL - SB 1066,3
+County of Silicon Valley,3
+Identified,3
+Image,3
+PART I,3
+BPCOM,3
+Dynamic,3
+Evidence,3
+Countries,3
+Miscellaneous,3
+Modification,3
+Politics,3
 3492 (North Antelope),2
 434-B,2
 5th District,2
@@ -2239,7 +2258,6 @@ Attorney General of,2
 "Attorney General, Office of",2
 Attorneyos Association,2
 Attorneys of CA,2
-Auditors,3
 Automotive Trade Organizations of,2
 BA,2
 Bail Bonds,2
@@ -2268,7 +2286,6 @@ CA Legislative,2
 CA Plaza,2
 CA Primary,2
 CA State Association of,2
-CAMPBELL - SB 1066,3
 CB,2
 CSA,2
 CalPIRG (California Public),2
@@ -2385,7 +2402,6 @@ Club of California,2
 Coalition to Protect Animals in,2
 Coca-Cola Bottling Company of,2
 Color,2
-Colorado,4
 "Colusa, County of",2
 Commander Department of,2
 "Commander, California",2
@@ -2431,7 +2447,6 @@ County Sheriff's,2
 County Welfare Directoros Association of,2
 County of Los Angeles_Dept. of,2
 County of Santa Cruz Board of,2
-County of Silicon Valley,3
 County of Special Districts,2
 Course,2
 "Covina Valley Unified School District, Deaf and Hard of",2
@@ -2589,9 +2604,7 @@ Husky,2
 IF,2
 INDIE,2
 ITC,2
-Identified,3
 Illness California,2
-Image,3
 Implement Workers of,2
 "In to the bill, the Family Winemakers of",2
 Increases,2
@@ -2701,7 +2714,6 @@ Miami,2
 "Michael Nevin, San Mateo County Board of",2
 Mike,2
 Military Order,2
-Million,10
 Milpitas Chamber of,2
 Miniature Schnauzer Club of,2
 Minnesota,2
@@ -2772,7 +2784,6 @@ Origin,2
 Our Lady of,2
 Our Lady of Perpetual Help ChurchWOMEN FOR,2
 Oxnard Chamber of,2
-PART I,3
 PART I OF BILL,2
 PART II OF BILL,2
 PASSAGES,2
@@ -3272,7 +3283,6 @@ College Chief of Police,2
 College District Chief of Police,2
 State University Chief of Police,2
 Anglers,2
-Annually,6
 Availability,2
 Available,2
 Alamada,2
@@ -3288,12 +3298,10 @@ Behavioral,2
 Beautiful,2
 Beverly,2
 Boonville,2
-BPCOM,3
 Defibrillation,2
 Dependency,2
 Dept,2
 Driver,2
-Dynamic,3
 Dynamics,2
 Early,2
 Earth,2
@@ -3302,7 +3310,6 @@ Electrical,2
 Emerald,2
 Endangered,2
 Events,2
-Evidence,3
 Examination,2
 Exchanges,2
 Exploitation,2
@@ -3312,14 +3319,11 @@ Cell,2
 Cemeteries,2
 Chambers,2
 Charity,2
-Chemistry,4
-Childbirth,4
 Clinical,2
 Communicative,2
 Comte,2
 Congregations,2
 Corporations,2
-Countries,3
 Critical,2
 Cuisine,2
 Infectious,2
@@ -3328,15 +3332,12 @@ Jail,2
 Landscaping,2
 M.P.H,2
 Medicine/Science,2
-Miscellaneous,3
-Modification,3
 Motorcyclists,2
 Name,2
 Nurse,2
 Oceanography,2
 Perverted,2
 Poisoning,2
-Politics,3
 Press,2
 Projects,2
 Psychiatric,2
@@ -3359,7 +3360,6 @@ Rail,2
 Records/Video/Books,2
 Referee,2
 Refrigeration,2
-Regional-Video,4
 Regulator,2
 Religion,2
 Remedial,2
@@ -3471,16 +3471,51 @@ High School (Monterey Co),2
 High School (Ventura Co),2
 LincolNEV,2
 Materus,2
+1065 (PEACE),2
+261 (CAMPBELL),2
+3.County CalWORKs plan,2
+Abortion,2
+Alliance of Needles Guineapigs Radiated in,2
+Austria,2
+CONTAINED,2
+City of Order,2
+Confirmed,2
+Consequently,2
+Constituent Records,2
+Denistry,2
+GHG,2
+Guyana,2
+HEARING OF THE SUBCOMMITTEE ON PRISON CONSTRUCTION AND,2
+HMOs,2
+Heresy,2
+Hughes (2013),2
+"NOTE: SEE COMMENT 12 FOR RECOMMENDATIONS FROM THE MAY 4, 1995 HEARING OF THE SUBCOMMITTEE ON PRISON CONSTRUCTION AND",2
+"NOTE: SEE COMMENT FOR RECOMMENDATIONS FROM THE MAY 4, HEARING OF THE SUBCOMMITTEE ON PRISON CONSTRUCTION AND",2
+No. 802,2
+No. 81,2
+No. 890,2
+"Norte, El Dorado, Los Angeles, Sacramento, San Diego, Santa Barbara, Shasta, Tuolumne, Ventura, Yolo",2
+"Norte, Sacramento, San Diego, Shasta, Tuolumne, Ventura, Yolo",2
+Oath,2
+P3 1,2
+CODIS,2
+Ammunition,2
+North County Municipal Court,2
+Baseball/Softball,2
+Denmark,2
+Competition,2
+Concern/Other,2
+Conciliation,2
+Conservatees,2
+OFFERED,2
+Prisons,2
 Acacia,1
 $30,1
 104 Individual Letters from Representatives of,1
-1065 (PEACE),2
 "1424, San Jose",1
 2- POSITIONS,1
-261 (CAMPBELL),2
 29 AFL-CIO & CLC,1
 3 Members of the Ventura County Board of,1
-3.County CalWORKs plan,2
 350 for 2014,1
 3rd and 4th District Santa Barbara County Board of,1
 5California State Board of,1
@@ -3502,7 +3537,6 @@ AMF,1
 "AMVETS-Department of California, California State Commanders Veterans Council, Blythe, City of",1
 ANGI,1
 AT:dm,1
-Abortion,2
 Academy of California Adoption Lawyers (ACAL) and,1
 Academy of Defensive,1
 Academy of Family,1
@@ -3557,7 +3591,6 @@ Albion River Watershed Protection Association / Friends of,1
 Alhambra Unified School District Board of,1
 Alliance for Board of,1
 Alliance for Nuclear Responsibility |Pacific Coast Federation of,1
-Alliance of Needles Guineapigs Radiated in,2
 "Alta Irrigation District , Association of",1
 Alternatives to,1
 "Amador, County of",1
@@ -3679,7 +3712,6 @@ Attorneys for,1
 Attorneys from Counties of,1
 Atvantage,1
 Audiology,1
-Austria,2
 Autel,1
 Authentic,1
 Auto,1
@@ -3806,7 +3838,6 @@ CF,1
 CHIRLA-Coalition for Humane Immigrant Rights of,1
 CMS,1
 CONSTRUCTION AND OPERATIONS HEARD THIS BILL AND VOTED 2-0 TO,1
-CONTAINED,2
 CPP-City of,1
 CRC,1
 CS,1
@@ -4138,7 +4169,6 @@ City of Los Angeles Commission on,1
 "City of Moreno Valley, Sanitation Districts of Los Angeles County, League of",1
 City of Mt,1
 City of Non,1
-City of Order,2
 "City of Palm Desert, California Association for",1
 City of Peace,1
 City of Point,1
@@ -4234,16 +4264,13 @@ Conference of Private Organizations of,1
 Conference of the,1
 Conference of the National Association for the Advancement of,1
 Confinement,1
-Confirmed,2
 Congestion,1
 Congestion Management Agency of County of,1
 Congregational Church of,1
 Congregations Organizing for,1
-Consequently,2
 "Conservation Voters, California League of",1
 Consideration,1
 Consolidated Superior & Municipal Courts of,1
-Constituent Records,2
 Construction Industry Federation of,1
 Construction Legislative Council of,1
 Consul General of,1
@@ -4380,7 +4407,6 @@ Democrats,1
 Democrats for Action,1
 Democrats for Change,1
 Democrats of,1
-Denistry,2
 Dennis,1
 Dental Association,1
 Dental Board,1
@@ -4616,7 +4642,6 @@ Fuller,1
 Fundraising Professionals,1
 G&R,1
 G.A.B,1
-GHG,2
 Gage,1
 "Galt, City of",1
 Gangs Out Of,1
@@ -4651,14 +4676,11 @@ Grower-Shipper Vegetable Association of,1
 Gunkel,1
 Guns,1
 Guru Nanak Sat Sangat of,1
-Guyana,2
 H&E,1
 H.S,1
 HCV,1
-HEARING OF THE SUBCOMMITTEE ON PRISON CONSTRUCTION AND,2
 HIV/AIDS in,1
 HIV/AIDS in Prison Project of Catholic Charities of,1
-HMOs,2
 HOCOA,1
 HOK,1
 HSG,1
@@ -4676,7 +4698,6 @@ Health to Grow On,1
 Heath Insurance Association of,1
 Hemet/San Jacinto Valley Chamber of,1
 "Hercules, City of",1
-Heresy,2
 Herger,1
 Hermosa Beach Chamber of,1
 Heston,1
@@ -4703,7 +4724,6 @@ Housing Authority of the County of,1
 Housing Rights Committee of,1
 Hoy-Sun Ning Yung Benevolent Association in,1
 Hubbard,1
-Hughes (2013),2
 "Human Rights Commission, City and County of",1
 Humane Society for the Prevention of,1
 Humboldt County Department of,1
@@ -5156,8 +5176,6 @@ NAIO,1
 NAMA,1
 NOOW,1
 NOPA,1
-"NOTE: SEE COMMENT 12 FOR RECOMMENDATIONS FROM THE MAY 4, 1995 HEARING OF THE SUBCOMMITTEE ON PRISON CONSTRUCTION AND",2
-"NOTE: SEE COMMENT FOR RECOMMENDATIONS FROM THE MAY 4, HEARING OF THE SUBCOMMITTEE ON PRISON CONSTRUCTION AND",2
 NOTE: Senate Amendments made in the Senate make the Department of,1
 Nafa,1
 Napa County Board of Supervisors And,1
@@ -5218,16 +5236,11 @@ Nicholas,1
 Nickerson,1
 Niguel,1
 Niles,1
-No. 802,2
-No. 81,2
-No. 890,2
 Nonprofit Organizations Committee of the Business Law Section of,1
 Nopal,1
 Nor Cal Rental,1
 NorCal Center on,1
 NorCal Rental,1
-"Norte, El Dorado, Los Angeles, Sacramento, San Diego, Santa Barbara, Shasta, Tuolumne, Ventura, Yolo",2
-"Norte, Sacramento, San Diego, Shasta, Tuolumne, Ventura, Yolo",2
 North American Riding for,1
 North Bakersfield,1
 "North Coast Railroad Authority, County of",1
@@ -5261,7 +5274,6 @@ Oak,1
 Oakland Association of,1
 "Oakland, Port of",1
 Oakmont of,1
-Oath,2
 Oberhelman,1
 Obie,1
 "Obispo, Monterey, San Mateo, Golden Gate, Sonoma, Mendocino, Humboldt, and Del Norte",1
@@ -5337,7 +5349,6 @@ Owners of,1
 P S,1
 P.E.A.C.E. for,1
 P.S. 305,1
-P3 1,2
 P4 1,1
 PAC,1
 PASCO,1
@@ -5404,7 +5415,6 @@ People United for,1
 People for the Ethical Treatment of,1
 People in,1
 Performing Animal,1
-Period. Inc,1
 Perry,1
 Persons Inc,1
 Persons with,1
@@ -6722,7 +6732,6 @@ Counties of California,1
 County of California,1
 California County,1
 COSM,1
-CODIS,2
 Commons,1
 Crestview,1
 The College,1
@@ -6766,7 +6775,6 @@ Pro-Choice California,1
 Admissions,1
 Airports,1
 Amalgamated,1
-Ammunition,2
 Amphitheater,1
 Appellate,1
 Appraisers,1
@@ -6786,9 +6794,7 @@ Amercia,1
 Asociates,1
 Associaiton,1
 District Municipal Court,1
-North County Municipal Court,2
 Babitt,1
-Baseball/Softball,2
 Beyond,1
 Biotechnology,1
 Bisexual,1
@@ -6820,7 +6826,6 @@ Drugs,1
 Duck,1
 Ducks,1
 Dwellings,1
-Denmark,2
 Eastvale,1
 Eagle,1
 Emerging,1
@@ -6857,13 +6862,9 @@ Coalitlion,1
 Collaboratives,1
 Collection,1
 Committee(CIDFAC),1
-Competition,2
 Complex,1
 Composers,1
-Concern/Other,2
-Conciliation,2
 Congregational,1
-Conservatees,2
 Contact,1
 Controls,1
 Council[1],1
@@ -6910,7 +6911,6 @@ Nonviolence,1
 Nonviolently,1
 Northeastern,1
 Nurserymen,1
-OFFERED,2
 Oceans,1
 Offending,1
 Official,1
@@ -6926,7 +6926,6 @@ Powers,1
 Praise,1
 Preparedness,1
 Preventixc,1
-Prisons,2
 Profits,1
 Program/Clinics,1
 Programs-USA,1
