@@ -11,9 +11,9 @@ crosswalk and delete the handled rows from `crosswalk_gaps_all_stances.csv`.
 
 ## THE CURSOR (where we are)
 - **`gaps_needs_audit.txt`** = the work queue, sorted by bill count (priority). One org per line.
-  Whatever is in this file is NOT yet triaged. Currently: **5,084 remaining**.
+  Whatever is in this file is NOT yet triaged. Currently: **4,604 remaining**.
 - Each completed wave removes its orgs from this file (the cursor advances). When it hits 0, done.
-- **Next wave number to use: 130.** (Waves 1–129 are committed. Wave numbers only label the temp
+- **Next wave number to use: 131.** (Waves 1–130 are committed. Wave numbers only label the temp
   chunk files; they don't matter beyond avoiding filename collisions — just use the next integer.)
 
 ## THE OUTPUT (accumulating worklists, in repo root)
@@ -75,8 +75,8 @@ Each wave's dispositions are appended here. Standing RA tasks 1242–1245 consum
 
 ## PROGRESS
 - Done: bulk pass (tasks 1224–1226), 112 acronym matches (1242), wave 1 (1239–1241),
-  waves 2–129 → masters above. ~62,530 of 67,609 orgs triaged (~92%).
-- Remaining: 5,084 in `gaps_needs_audit.txt`.
+  waves 2–130 → masters above. ~63,010 of 67,609 orgs triaged (~93%).
+- Remaining: 4,604 in `gaps_needs_audit.txt`.
 
 ## STANDING-TASK SLICING (added wave 118)
 The 3 standing tasks 1243/1244/1245 are split into 60 band sub-tasks (1246–1305) via
