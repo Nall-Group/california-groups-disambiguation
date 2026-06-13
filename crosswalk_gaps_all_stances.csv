@@ -108,13 +108,11 @@ Program,23,19,5,0,0
 Tulare,23,9,13,0,1
 Valley,23,19,4,0,0
 write,23,21,2,0,0
-Agencies,22,16,7,0,1
 amended,22,9,13,0,0
 Assembly votes,22,12,10,0,0
 Concern,22,13,7,1,2
 North San Diego Business Chamber,22,6,16,1,0
 Path,22,20,2,0,0
-Section,22,16,9,3,0
 Acterra: Action for A Healthy Planet,21,18,3,0,0
 Progressive Democrats of Santa Monica Mountains,21,8,12,1,1
 Santa Clara District Attorney,21,21,0,0,0
@@ -212,14 +210,9 @@ Chambers of Commerce: California Chamber of Commerce,1,0,1,0,0
 "Charles H. Boxenbaum, Chairman of the Board, National Partnership",1,0,1,0,0
 "Charles McGlashan, President, Marin County Board of Supervisors Environment",1,1,0,0,0
 "Charles S. Brobeck, Chief of Police",1,1,0,0,0
-"Chief Joseph Aita, San Pablo Police Department",1,1,0,0,0
-"Chief Louis Trovato, Nevada City Police Department",1,1,0,0,0
 Chief of Police Alan Lanning,1,1,0,0,0
 Chief of Police Anthony Batts,1,1,0,0,0
 Chief of Police Blair Urling,1,1,0,0,0
-"Chief of Police Douglas Krathwohl, San Pablo",1,1,0,0,0
-"Chief of Police Louis Trovato, Nevada City",1,1,0,0,0
-"Chief of Police Thomas Bullard, Rohnert Park",1,1,0,0,0
 Chinese American Chamber of Commerce of Orange County,1,1,0,0,0
 "Chris Durkin, Chief of Police",1,1,0,0,0
 "Cities, San Marcos Chamber of Commerce, Star",1,1,0,0,0
@@ -259,7 +252,6 @@ El Monte/South El Monte Chamber of Commerce: Kaiser Permanente,1,1,0,0,0
 Health plans and insurers and the California Chamber of Commerce,1,0,1,0,0
 Health plans and the State Chamber of Commerce,1,0,1,0,0
 "Heather Costello, Marin County Sheriff's Office Communications Center",1,1,0,0,0
-"Henry Brodersen, Palo Alto Elks Lodge",1,0,1,0,0
 HHSA,1,1,1,0,0
 "Honorable Louis Scanlon, Chief of Police",1,1,0,0,0
 IX California,1,1,0,0,0
@@ -1115,7 +1107,6 @@ Verisk/AIR Worldwide,1,0,0,1,0
 Veritext Corporation,1,0,0,0,1
 Veronica Hamel,1,1,0,0,0
 Veronica Porter,1,1,0,0,0
-"version - January 5, 2012",1,0,1,0,0
 version and most likely all the groups listed above,1,0,1,0,0
 version of AB 85 cited an unpublished decision of the Third District,1,0,1,0,0
 version of Alaska's 'Road to Nowhere.' This taxpayer boondoggle is a prime,1,0,1,0,0
@@ -1184,7 +1175,6 @@ Victim compensation is an important pathway for survivors to access,1,1,0,0,0
 Victims AB 411 (Bordonaro) Action League,1,1,0,0,0
 victims and perpetrators of both genders. NFVLRC also proposes the bill,1,0,0,1,0
 "Victims deserve mitigation immediately, not after paid legal fees and",1,1,0,0,0
-victims of domestic violence,1,1,0,0,0
 "victims of LGBT domestic violence, purports to be about",1,0,1,0,0
 "victims of pesticide drift, arguing that existing DPR funds",1,0,1,0,0
 victims on the advisory council to the Maternal and Child Branch relating,1,0,0,1,0
@@ -1197,9 +1187,7 @@ Victor Community Support Services and Victor Treatment Centers,1,1,0,0,0
 Victor Treatment Centers & Victor Community Support Services - Chico,1,1,0,0,0
 "Victor Treatment Centers & Victor Community Support Services, Chico",1,1,0,0,0
 Victor Valley Association of Realtors Pasadena-Foothills Association of Realtors,1,0,1,0,0
-Victor Valley College Financial Aid Office,1,1,0,0,0
 "Victoria Szatalowicz, MD, Culver City",1,1,0,0,0
-"Victorville Chapter, Southern Christian Leadership: Conference",1,1,0,0,0
 Victorville City Councilmember Angela Villes,1,1,0,0,0
 Victorville Municipal Court,1,0,1,0,0
 "Vietnam Veterans of America, Armed Forces Retirees Association of California, Air Force Sergeants Association, Military Order of the Purple",1,1,0,0,0
@@ -1299,7 +1287,6 @@ volume traffickers when it involves the incarceration of Black men,1,0,1,0,0
 voluntarily improve their property while furthering the publicly,1,1,0,0,0
 Volunteer,1,1,0,0,0
 volunteer fails to report known or suspected child abuse. AB 1564 is,1,0,1,0,0
-volunteer firefighter,1,1,0,0,0
 volunteer with any person or organization where the registrant would work directly and in an unaccompanied,1,0,1,0,0
 Volvo) General Motors Honda North America,1,0,1,0,0
 VOR,1,1,0,0,0
@@ -1318,7 +1305,6 @@ Voters that do not understand the history and government of the United,1,1,0,0,0
 "Voters, Planning and Conservation League (PCL)",1,1,0,0,0
 votes for it is about the same as the number of those in,1,0,1,0,0
 Voting is at the heart of our democracy. Efforts to register voters,1,1,0,0,0
-voucher regional centers,1,0,1,0,0
 vulnerability to acts of aggression or violence. CENA requests amendments,1,0,0,0,1
 vulnerable to employer abuse,1,1,0,0,0
 W,1,1,0,0,0
@@ -1331,7 +1317,6 @@ W. Berry Hurley Corp,1,0,1,0,0
 W.R. Grace & Co/Cryovac Division,1,0,1,0,0
 Wade which left,1,1,0,0,0
 "Wade, leaving the right to abortion up to individual",1,1,0,0,0
-Wage,1,1,1,0,0
 "wage or salary to register voters with a certain political party, but",1,0,1,0,0
 wage statute is violated. They also,1,0,1,0,0
 wage underpayment,1,0,1,0,0
@@ -1370,7 +1355,6 @@ War II,1,1,0,0,0
 Warehouse,1,1,0,0,0
 "warm line requirement did not address cost recovery, and that its line",1,0,1,0,0
 warm lines yet,1,0,1,0,0
-warrant,1,1,0,0,0
 warrants an appropriation is needed to reissue the payment,1,1,0,0,0
 "warranty, for up to three years from the date the car was",1,0,1,0,0
 Warren Ristow,1,0,1,0,0
@@ -1637,7 +1621,6 @@ weakening licensing standards for health care professionals is,1,0,1,0,0
 "wealthier areas of the state, which tend to have higher",1,0,1,0,0
 weapon owners who pose a threat to public safety. APPS,1,1,0,0,0
 weapons to the party were convicted of murder and attempted murder and are still in prison. Nine witnesses,1,1,0,0,0
-web designs,1,0,0,0,1
 "web site providers, and an unknown number of ""third parties"" to access",1,0,1,0,0
 "Weber, sponsor of this measure",1,1,0,0,0
 "website reminds us, 90% of those who commit sexual offenses against",1,0,1,0,0
@@ -1718,7 +1701,6 @@ Wessel Fragrances Inc,1,0,1,0,0
 "West Coast Plastics Equipment, Inc",1,0,1,0,0
 "West Coast Protective League, Glass Molders, Pottery, Plastic International Union",1,0,1,0,0
 West Contra Costa,1,0,1,0,0
-West Contra Costa Unified School District Office of Facilities Planning and Construction,1,1,0,0,0
 West Fresno,1,0,1,0,0
 West Hills,1,1,0,0,0
 West Hollywood City Councilmember Lindsey Horvath,1,1,0,0,0
@@ -2123,7 +2105,6 @@ who write with an,1,0,0,0,1
 who writes,1,1,0,0,0
 "who: (1) prior to the crime, had insufficient adult support or",1,0,1,0,0
 Whole Person Learning. (Some of the opposition listed above may be in regards to previous versions of the bill,1,0,1,0,0
-wholehearted,1,1,0,0,0
 "Wholesale Supply Co., Hollywood",1,0,1,0,0
 wholly unnecessary as CALPIA is able to issue waivers - and has done,1,0,1,0,0
 whose current offenses are neither serious nor violent felonies,1,0,1,0,0
@@ -2500,8 +2481,6 @@ Women's March,1,1,0,0,0
 "Womenos Alternatives, Haven Womenos Center, wisconsin Coalition Against Domestic",1,1,0,0,0
 "Womenos Center, Shasta County Womenos",1,1,0,0,0
 Womens Coalition for Pacific Fisheries,1,0,1,0,0
-womens' health,1,1,0,0,0
-wood pole organizations,1,0,1,0,0
 Woodland Public Library,1,0,1,0,0
 Woodside Terrace,1,0,1,0,0
 Work,1,0,1,0,0
@@ -2689,7 +2668,6 @@ xOverTime,1,1,0,0,0
 YA,1,1,0,0,0
 Yahoo! Inc. is opposed to the bill's liability,1,0,1,0,0
 Yahoo! is opposed. One of the requirements for a software provider to be exempt from,1,0,0,0,1
-Year 2010-2011,1,0,1,0,0
 year delay,1,0,1,0,0
 year don't have business licenses of this sort,1,0,1,0,0
 "year flood levees are now deemed inadequate, and are scheduled for",1,0,1,0,0
@@ -2752,7 +2730,6 @@ Yota Batsaras,1,0,1,0,0
 "Young Kim, U.S Representative, CA-40",1,1,0,0,0
 Young's Market Company and by Southern Wine and Spirits of California,1,0,1,0,0
 youth,1,0,1,0,0
-youth advocacy organizations,1,1,0,0,0
 Youth and Family Coalition California State Association of Counties County of Santa Clara,1,1,0,0,0
 Youth Build,1,1,0,0,0
 youth groups and many private schools are based on religious values or,1,0,1,0,0
@@ -2788,7 +2765,6 @@ Yvette McDowell,1,1,0,0,0
 Yvonne Quitana,1,1,0,0,0
 YWCA (Glendale) YWCA - Wings (West Covina),1,1,0,0,0
 YWCA - MC,1,1,0,0,0
-yüda,1,1,0,0,0
 z?‚?zrzrz,1,0,1,0,0
 "Zach Hilton, Councilmember",1,1,0,0,0
 Zambia Lion Project,1,0,1,0,0
