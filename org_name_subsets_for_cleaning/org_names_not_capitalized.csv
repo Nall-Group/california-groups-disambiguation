@@ -52,7 +52,7 @@ Seven individuals,75
 16 individuals,71
 legislation,71
 The author,70
-Two private individuals,69
+Two private individuals,70
 unable to reverify at time of writing,62
 25 individuals,55
 . Supporters,54
@@ -148,6 +148,7 @@ staff,16
 36 individuals,16
 Letters from two individuals,16
 letter,16
+Two individual letters,16
 on the Status of Women,15
 yes none none,15
 58 individuals,15
@@ -155,7 +156,6 @@ yes none none,15
 concerned individuals,15
 on Law and Poverty,15
 Letters from numerous individuals,15
-Two individual letters,16
 6 individual letters,15
 Numerous individuals and insurance agents,15
 "offer, | |3 days | 10 |10",15
@@ -290,13 +290,13 @@ Several letters received from individuals,9
 Over 80 individuals,9
 agents,9
 homelessness,9
+Two individual practitioners,9
 100 individuals' signatures,8
 5/10/93:atrans,8
 California State Sheriffs Association (if piloted outside),8
 Note: positions were received prior to the,8
 Over 50 letters and calls from individuals,8
 The legislative body must find that the public interest and convenience,8
-Two individual practitioners,9
 food,8
 if amended,8
 require the assessment,8
@@ -390,6 +390,7 @@ signature,7
 financial,7
 cosponsors,7
 reporters,7
+Two individual engineers,7
 25 letters from individual licensed landscape,6
 4/12/93:atrans,6
 A coalition of employer organizations,6
@@ -401,7 +402,6 @@ Numerous other cities and private businesses,6
 Sponsor's Statement. The author,6
 "TOTALS: (31 statewide bond issues) $14,596",6
 The quick brown fox jumps over the lazy dog. The quick,6
-Two individual engineers,7
 When this bill was heard in the Assembly Health,6
 automatic (requires),6
 brown fox jumps over the lazy dog. The quick brown fox,6
@@ -631,6 +631,7 @@ facility,5
 "programs, inc",5
 Various charter schools,5
 "Various cities, local chambers of commerce and local",5
+Various elected and business individuals,5
 "(a) An original ticket seller or a ticket reseller, before listing, marketing, or selling a ticket, shall own, possess, or have the contractual right to sell the ticket",4
 "(a) Original sellers, ticket resellers, and ticket resale marketplaces shall be registered with the Secretary of State and be duly licensed, as may be required by any local jurisdiction. (b) A violation of this section shall constitute a misdemeanor punishable by imprisonment in a county jail not exceeding six months, or by a fine not exceeding two thousand five hundred dollars ($2,500) or by both. (c) For the purposes of this chapter, each ticket sold or offered for sale in violation of this chapter shall constitute a separate violation. An action for a violation of this chapter may be brought only by any of the following: (1) The Attorney General. (2) A district attorney. (3) A city attorney of a city that has a population greater than 750,000. (4) A county counsel of a county within which any city has a population greater than 750,000. (5) A city prosecutor in a city that has a full-time city prosecutor, with the consent of the district attorney. (d) In an action alleging a violation of this chapter, the court shall impose a civil penalty of not more than ten thousand dollars ($10,000) for each violation of this chapter. Additionally, the court shall award a prevailing public prosecutor reasonable costs and attorney's fees. In determining the amount of the civil penalty, the court shall consider all of the relevant circumstances presented by any of the parties to the case, including, but not limited to, all of the following: (1) The nature and seriousness of the misconduct. (2) The number of violations. (3) The persistence of the misconduct. (4) The length of time during which the misconduct occurred. (5) The willfulness of the misconduct. (6) The assets, liabilities, and net worth of the defendant. (e) The remedies provided by this section are cumulative to each other and to the remedies or penalties available under all other laws of this state",4
 ". This bill, as heard in policy committee, was opposed by a",4
@@ -734,7 +735,6 @@ There is no formal registered to,4
 This measure,4
 "This proposed language is completely open-ended without any spending constraints and would give the Department of Justice a ""blank check"" to charge the DROS fund for any department costs as long as it could establish a connection to firearms",4
 Unknown. However it should be noted that previous,4
-Various elected and business individuals,5
 Various individuals and specific breed associations and clubs,4
 Various non-profit housing agencies,4
 action. The bill was substantially amended by the policy committee,4
@@ -1059,6 +1059,10 @@ Several individual letters and e-mails,4
 fee,4
 non-profits,4
 Various HMO enrollees and medical clinics,4
+Various abalone divers,4
+Various citizens via letters and phone calls,4
+Various individual radiologic technologists,4
+Two professors,4
 . The LAUSD,3
 000 fine for every day of violation in addition to potential liability under the Private Attorneys General Act (PAGA),3
 "1 ""Biobased content"" is defined in the bill as the amount of biobased",3
@@ -1353,9 +1357,6 @@ This bill was amended to state legislative findings. No,3
 Trial Courts Legislation Committee (county clerks and court),3
 "Valley Water, states, ""By setting the cost threshold for formal bid process to a level available for other public agencies, AB 707 will help deliver Valley Water's minor public works faster, at a lower cost, using well-established informal bidding process that protects the public interest, requires compliance with all workplace safety and wage and hour statutes, and offers more opportunities for small business and minority and women owned enterprises",3
 Various California citizens,3
-Various abalone divers,4
-Various citizens via letters and phone calls,4
-Various individual radiologic technologists,4
 Various mobilehome park owners,3
 Various other churches,3
 Various private landowners,3
@@ -2120,6 +2121,11 @@ with respect to geographic terms,3
 with switching to reusable bags,3
 www.equalccw.com,3
 www.rangerover.net,3
+Various homeowners,3
+Various individual store owners,3
+Various individual veterinarians,3
+"Various private citizens, including real estate",3
+various individual attorneys,3
 """Los Angeles and California as a whole are undergoing housing and homelessness crisis, and AB 2960 will create flexibility for the cities and counties to create more temporary shelters for our most vulnerable communities",2
 """clean-up"" language to existing law as recommended by the Judicial Council. The Institute writes",2
 "'s office, the following",2
@@ -3769,7 +3775,6 @@ Trust (VEBA). While a VEBA may not inure to the benefit of a,2
 "Trusts , some conservation groups, and a long list of nonprofits",2
 Trusts and Estates section of the State Bar to address the abuse,2
 Twenty-four individuals,2
-Two professors,4
 Two public members who are not peace officers,2
 "UC Berkeley's Urban Displacement Project, ""Recent state efforts to incentivize the construction of ADUs have resulted in more communities and families building ADUs as a cost efficient way to address the affordable housing crisis. By further reducing barriers to ADU approval and construction, this legislation will help add tens of thousands of new units to California's housing stock."" The California Association of Realtors notes that the bill ""will help alleviate our housing shortage while capitalizing on limited land resources",2
 "UPA. Thus, the law will have greater predictability and parties will be able to engage in business transactions in",2
@@ -3791,17 +3796,13 @@ Unless a state seeks and receives delegation of authority from,2
 Use/etc. of minor to violate controlled,2
 Use/under the influence of controlled,2
 "Van de Kamp that the legislative intent of CANRA was ""to allow the trained professional to determine an abusive from a nonabusive situation",2
-Various homeowners,3
 Various individual CPAs,2
 Various individual cities,2
-Various individual store owners,3
-Various individual veterinarians,3
 Various individuals as victims of,2
 Various licensed physical therapists,2
 Various local jurisdictions (if subdivision (c) is removed),2
 Various mining companies,2
 Various other title insurance companies,2
-"Various private citizens, including real estate",3
 Various private investigator associations,2
 "Ventura County District Attorney, ""AB 12 streamlines the process that allows law enforcement to disarm individuals who pose a danger to themselves or others. AB 12 allows issuance of a search warrant at the same time as the GVRO, with execution of the warrant conditioned on the person being lawfully served with the restraining order and failing to relinquish the firearms or ammunition as required by law. This change limits the opportunities for dangerous individuals to secrete their weapons, or worse, to arm themselves against victims or officers",2
 Verified 8/14/02 - unable to reverify,2
@@ -3821,7 +3822,7 @@ We founded the Drop the 'A' Word coalition whose goal is to eliminate the word a
 "We know these programs will have a positive impact on the lives of children and youth, will make a huge difference in our communities, and will improve public safety. By reinvesting in our youth and diverting them from the prison pipeline, we can ensure that millions of young Californians succeed",2
 We the People Rising states in to a previous,2
 "We] wish to indicate our strong for [this bill DME fuel blend. This bill is authored by Assemblymember Eduardo Garcia and would enable dimethyl ether (DME) to be blended with propane (aka proposed ""Propane - DME fuel blend"") to be legally sold and dispensed at retail as an alternative fuel to the California public for use as a motor vehicle fuel. As such",2
-"Wes Omoto, friend of Stephen Allen",2
+"Wes Omoto, friend of Stephen Allen",3
 West Hollywood. AB 1481 would extend these protections to tenants across the state. Evictions exacerbate homelessness. For example,2
 Western Center on Law and Poverty argues against,2
 Western Propane Gas Association writes in,2
@@ -3856,7 +3857,7 @@ Women's Voices for Earth. Supporters argue California's beauty professionals hav
 "Xavier Becerra, the Attorney General of the State of California: ""According to a 2013 University of California at Los Angeles Labor Center report, the state's underground economy generates between $60 to $140 billion in revenue annually. An estimated $8.5 billion in corporate, personal, sales and use taxes go uncollected each year. To help respond to this problem, several state agencies formed a pilot program in 2014 to investigate and prosecute the most egregious felony-level multijurisdictional underground economic crimes from a tax prospective. Participating agencies include the Department of Justice, the Department of Tax and Fee Administration, the Franchise Tax Board, and the Employment Development Department",2
 "Youth Justice Coalition, ""AB 1600 makes several commonsense changes to the statutory Pitchess motion procedures. First, it reduces the notice period for hearings on Pitchess motions from 16 days to 10 days, in line with most criminal motions, streamlining the process and allowing misdemeanor defendants to file Pitchess motions without waiving their right to a speedy trial",2
 "ZEVs-Electric Vehicles International , PiMobility, Tesla Motors, Inc. and Zero Motorcycles-who potentially would benefit from the rebate",2
-Zeta Tau Chapter 192 individuals,2
+Zeta Tau Chapter 192 individuals,3
 "a Certificate of Eligibility issued by the DOJ. If they have all of these items, they are included on the DOJ-maintained centralized list that allows them to operate their business. The DOJ conducts spontaneous on-site inspections of dealers and license holders to ensure they are complying with transfer requirements, dealer record and record retention requirements, facility maintenance and security requirements, and waiting period requirements",2
 a Responsible Budget (CURB),2
 "a case-by-case basis and encourage open, but ethical, communications between the IT suppliers and contracting",2
@@ -6522,7 +6523,6 @@ usually receive worse outcomes in court than others,2
 "utilization review. In addition, the Board's enforcement capacity, according to public interest groups that monitor the Board, is less than",2
 "vapor recovery equipment, and changes to recognize",2
 variety of discretionary uses,2
-various individual attorneys,3
 "various state and local agencies, and providing a funding",2
 "vehicles, including public and private buses and trucks. Beginning in",2
 vending machines from these requirements. SB 1420 also provides definitions for calorie content information,2
@@ -8460,6 +8460,31 @@ www.pornNewsToday.com,2
 xOverTime,2
 year delay,2
 z?‚?zrzrz,2
+Two individual farmers,2
+Two individual physicians,2
+Two individuals (Rancho Santa Fe),2
+Two individuals (including former Los Angeles County District Attorney Steve Cooley),2
+Two law professors,2
+Two letter from individuals,2
+Two letters from the general public,2
+Two licensed physicians (surgeons),2
+"Two mobilehome park residents, San Jose",2
+Two otolaryngologists,2
+Two private individuals (female executives),2
+Two private law firms,2
+"University of California, Los Angeles professor Donald Shoup",2
+"Val Lerch, former Vice Mayor of Long Beach",2
+Valerie Hanson [concerned citizen],2
+Various attorneys and individuals,2
+Various elected officials,2
+Various indidividuals,2
+Various individuals and attorneys,2
+Various individuals as victims of identity theft,2
+Various individuals serving as McKinney-Vento liaisons,2
+"Various individuals, including physicians",2
+Various private patrol operator employees,2
+Various veterinarians,2
+various individuals and doctors,2
 """All services covered under this section shall be the sole financial responsibility of the health plan, which shall",1
 """There could be unintended costs to survivors resulting from the bill's stipulation that offenders pay for their tracking devices",1
 """preneed"" policies are small face life and annuity policies",1
@@ -18681,20 +18706,8 @@ Two attorneys (Glendale and West Hills),1
 Two dozen letters from individuals,1
 Two employee leasing firms,1
 Two family law attorneys,1
-Two individual farmers,2
-Two individual physicians,2
-Two individuals (Rancho Santa Fe),2
-Two individuals (including former Los Angeles County District Attorney Steve Cooley),2
-Two law professors,2
-Two letter from individuals,2
-Two letters from the general public,2
-Two licensed physicians (surgeons),2
 Two members of the Commission on State,1
 Two mobilehome owners,1
-"Two mobilehome park residents, San Jose",2
-Two otolaryngologists,2
-Two private individuals (female executives),2
-Two private law firms,2
 Two public utilities - the East Bay Municipal Utility,1
 Two registered traffic engineers,1
 Two sheriffs or chiefs of police or peace officers,1
@@ -18816,7 +18829,6 @@ University Medical Center request that the AG provisions be,1
 University employees to even consider participating in a VSP if they,1
 University of California to continue funding mechanisms,1
 "University of California, ""UES has developed, implemented, evaluated, and disseminated information about innovative",1
-"University of California, Los Angeles professor Donald Shoup",2
 "University study, is hospital readmissions of newborns for",1
 University system,1
 Unknown and no known,1
@@ -18843,8 +18855,6 @@ VBG is eager to become accredited with the VA but is hindered by federal law tha
 "Vac-Alert points out that CPSC, in its publication, ""Guidelines for Entrapment Hazards,"" also recommends inclusion",1
 "Vac-Alert, a manufacturer of a safety release",1
 Vacaville-Elmira Downey Historical Society Northern CA Association of Public Cemeteries Individual letters (12),1
-"Val Lerch, former Vice Mayor of Long Beach",2
-Valerie Hanson [concerned citizen],2
 "Valley Industry and Commerce Association, the current definitions of transit priority area and major transit stop fail to address the use of on-demand and first mile last mile services that are essential to a vibrant transit community that is responsive to today's technology and demands",1
 "Valley Japanese American Citizens League, who writes to say, ""...over",1
 Valley chapters,1
@@ -18856,20 +18866,13 @@ Various area medical societies,1
 Various area optometric societies,1
 "Various associations of retailers, manufacturers, and hospitals assert that the scope of this bill is too narrow, and that it",1
 "Various associations representing college and professional athletes, non-profits, the United Steelworkers, and numerous individuals, former athletes and parents this bill, emphasizing the importance of establishing a state commission to ensure compliance with mandatory health and safety guidelines. A former NCAA Enforcement Department employee in of the bill indicates he received reports of athlete mistreatment that often went unaddressed in his prior occupation",1
-Various attorneys and individuals,2
 Various beer producers and distributors,1
 "Various business interests led by the Chamber of Commerce, contend that this bill is unnecessary because courts may already invalidate choice of law of venue clauses in California contracts by evaluating, in part, the bargaining power and convenience of the parties involved",1
 Various community members,1
 Various constituent letters,1
 Various credit unions,1
-Various elected officials,2
 "Various employer groups object to industry carve-outs, and contend that the meal period flexibility should be broadened to include",1
 Various gun-related groups contend costs and availability,1
-Various indidividuals,2
-Various individuals and attorneys,2
-Various individuals as victims of identity theft,2
-Various individuals serving as McKinney-Vento liaisons,2
-"Various individuals, including physicians",2
 Various letters from independent physicians (based on),1
 Various letters from private citizens,1
 Various mediators and private mediation,1
@@ -18880,7 +18883,6 @@ Various opponents expressed objection to the voucher system for public funding o
 Various other energy groups,1
 Various other local Police Activities Leagues and police departments,1
 Various other newspapers,1
-Various private patrol operator employees,2
 Various professional appraiser associations,1
 Various professional engineers-safety,1
 Various property tax consulting firms re the prior version of the bill,1
@@ -18891,7 +18893,6 @@ Various small business owners,1
 "Various sources, as noted in Comments",1
 "Various state agencies are opposed to the bill, citing cost and lack of administrative discretion as to what",1
 Various tax practitioners and groups have,1
-Various veterinarians,2
 Vehicle manufacturers must be able to identify owners of vehicles included in the recall and send letters to consumers informing them how the recall campaign will be conducted. Sharing of information between new vehicle dealers and vehicle manufacturers is critical to this process,1
 Vehicles to adopt regulations to issue drivers,1
 "Velano Vascular, the sponsor, for hospitalized patients with a peripheral IV, allowing phlebotomists to use a vascular device avoids the painful and ubiquitous needle sticks required today for blood collection. The company notes the device is widely used in other states across professions including phlebotomists and contends it has been used in hundreds of thousands of blood collections over the last year in other states with zero reported adverse events",1
@@ -18945,7 +18946,7 @@ WateReuse Association of California to clarify the types of nonresidential struc
 Water Reuse Association of California to require DWR to adopt graywater standards for commercial buildings and to approve the use of graywater for subsurface irrigation,1
 Water Service Company have taken a neutral position with,1
 Water agencies are concerned that moving the entire drinking water,1
-"Wayne Lesser, private attorney",1
+"Wayne Lesser, private attorney",2
 We acknowledge that wholesale changes to CalGang must be made,1
 We agree that those in need of a protective order should have as many,1
 We also believe the additional three-year enhancement for human,1
@@ -19120,7 +19121,7 @@ Withdrawn with amendments taken in Committee on,1
 Women for America argue that the bill will encourage illegal immigration,1
 "Women for America, and the Capital Resource Institute are all opposed to",1
 Women in Non traditional,1
-Women veterans representatives (2),1
+Women veterans representatives (2),2
 Women who served in the U.S. Armed Forces have unique needs. They are more likely to be primary caregivers for spouses,1
 "Women's Transitional Living Center, Inc. (a haven for battered)",1
 Women's groups,1
@@ -19169,9 +19170,9 @@ Your AB 1944 will provide California's Health Care Districts with an,1
 Youth need special treatment when it comes to the criminal justice system. Many counties in the state have begun to shift youth to diversion and intervention programs which address the underlying needs of the child through a public health and development lens. This will prevent youth from entering a system that foster recidivism and creates further harm,1
 "Yuba County Water agency (July 7, 1993)",1
 Yuba. The opponents also note,1
-"Yvonne McMurray, resident of Los Banos",1
+"Yvonne McMurray, resident of Los Banos",2
 ZYN would be banned while Nicorette would not. SM states they understand the mounting concerns for the health and safety of young people,1
-Zeta Tau Chapter 192 private citizens,1
+Zeta Tau Chapter 192 private citizens,2
 "a ""convicted"" criminal or with delinquents who are too dangerous",1
 "a ""global court reporting company"" headquartered in Washington D.C",1
 "a ""leak proof CTC",1
@@ -40113,7 +40114,6 @@ various changes including giving hospitals priority when,1
 "various diseases and health care access, oncologists, biotechnology",1
 various individual,1
 various individual veterans,1
-various individuals and doctors,2
 various letters to the committee from individuals,1
 various medical societies can conflict,1
 various other local PALs and police departments too numerous to list here,1
