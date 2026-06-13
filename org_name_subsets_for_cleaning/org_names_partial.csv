@@ -1,8 +1,8 @@
 org_name,count
-CITY OF,1252
+CITY OF,1254
 Union,873
 Council,796
-County,705
+County,707
 COUNTIES,432
 Services,425
 CIO,419
@@ -44,7 +44,7 @@ PATH,147
 SMH:bjw,139
 Women for,139
 Administration,137
-League,133
+League,134
 Association of,133
 AB,131
 Oakland,129
@@ -56,9 +56,9 @@ Sheriffs,119
 PODER,119
 Stockton,118
 Project,117
-Bureau,113
+Bureau,114
 Cities,112
-COMMITTEE,107
+COMMITTEE,110
 Monterey,107
 Santa,105
 Emergency Medical Services Administrators Association of,104
@@ -97,15 +97,15 @@ County of San,75
 Protection,75
 County Sheriff,74
 Advocacy,73
+Directors,73
 Tulare,72
 Placer,72
-Directors,72
 Dance,71
 Community,71
 Authority,71
+Health,71
 Chief,70
 Contra Costa,70
-Health,70
 California Council,70
 Ontario,70
 Modesto,69
@@ -121,16 +121,16 @@ Chapters,67
 SMH:bkh,66
 Government,66
 Action Now,65
+California Coalition,65
 Napa,64
 Poway,64
 County Sheriffs Department,64
-California Coalition,64
 Butte,64
 Seniors,63
 Fullerton,63
 Languages,63
+Commission,63
 Disabilities,62
-Commission,62
 AT,61
 California Chamber of,61
 Doris,61
@@ -139,7 +139,7 @@ Numerous,61
 Taxpayers for,60
 Development,60
 Connect,60
-LLC,59
+LLC,60
 one,58
 arc,56
 Consumer Federation of,55
@@ -224,12 +224,12 @@ Assessor,36
 Natura,36
 Pleasanton,36
 PageD,36
+Affiliate,36
 La,35
 Counsel,35
 MM,35
 Montebello,35
 System,35
-Affiliate,35
 Flo,35
 Colored People,34
 Legal Services for Prisoners with,34
@@ -245,10 +245,10 @@ Obispo,33
 Trust,33
 West Covina,33
 Placentia,33
+Turlock,33
 Action,32
 Watsonville,32
 Conservators,32
-Turlock,32
 Murrieta,32
 Office of,31
 SMH:dm,31
@@ -270,6 +270,7 @@ The,29
 Indians,29
 Francisco Bay Area,29
 Corona,29
+Whittier,29
 WOMAN,28
 Western States,28
 of Counties,28
@@ -279,7 +280,6 @@ County of Santa,28
 Institutions,28
 Management District,28
 Momentum,28
-Whittier,28
 Brea,28
 Obispo Counties,28
 California League of,27
@@ -307,6 +307,8 @@ Co,26
 Trinity,26
 of California Cities,26
 Taft,26
+LLP,26
+Elk Grove,26
 California Federation of,25
 Civil,25
 Coalition for,25
@@ -317,9 +319,7 @@ Regional,25
 Pacific,25
 Prevention,25
 Yuba City,25
-LLP,25
 Manhattan Beach,25
-Elk Grove,25
 American Association of,24
 California Coalition for,24
 Library,24
@@ -572,8 +572,10 @@ Los Altos,13
 City Manager,13
 PACE,13
 in a,13
+Attorneys,13
+Clara County,13
+Hope,13
 Agri,12
-Attorneys,12
 Bay,12
 Boys and Girls Clubs,12
 California Financial,12
@@ -588,20 +590,19 @@ for Women,12
 of Police and Sheriffs,12
 of the bill,12
 Greater,12
-Clara County,12
 Director of Public Safety,12
 Esq,12
 Fowler,12
 Williams,12
 Dublin,12
 Corps,12
-Hope,12
 Owners,12
 Hillcrest,12
 California Authority,12
 La Mesa,12
 s,12
 O,12
+Lobby,12
 Asian Pacific,11
 Asian Pacific American Legal Center of,11
 Association of Korean Oriental Medicine and Acupuncture of,11
@@ -703,6 +704,7 @@ Latino Coalition,10
 Moxie,10
 Escalon,10
 IX/CA,10
+"Chapter, 6105",10
 Asian Americans for,9
 Asian Law,9
 Assistance,9
@@ -772,6 +774,7 @@ Lomita,9
 Yorba Linda,9
 i,9
 but,9
+MD,9
 Amendment,8
 American Academy of,8
 Associated General Contractors of,8
@@ -789,7 +792,6 @@ Jewish Public Affairs Committee of,8
 Junior League of,8
 Law Enforcement,8
 Lutheran Office of,8
-MD,8
 Natural,8
 Northern California CF,8
 Page f,8
@@ -843,6 +845,8 @@ We the People,8
 Board of Directors,8
 Woodlake,8
 of CA,8
+Law Section of the State Bar,8
+AHS,8
 Accountability,7
 "Advocates, Inc",7
 Agents,7
@@ -917,7 +921,6 @@ Recorder,7
 Retailers,7
 Standards,7
 Tort,7
-Law Section of the State Bar,7
 Beneficial,7
 California Association of Local,7
 California Board,7
@@ -939,7 +942,6 @@ Collaboration,7
 Jockeys,7
 Self,7
 Unified,7
-AHS,7
 Club California,7
 Fuel,7
 Interest Law,7
@@ -950,6 +952,8 @@ org,7
 of California,7
 of Southern California,7
 CAA,7
+Defenders Office,7
+Athletics,7
 2,6
 AGSJ,6
 Administrator,6
@@ -972,7 +976,6 @@ Committee on the Administration of,6
 Commonweal/Californians for,6
 County Alcohol & Drug Program Administrators Association of,6
 Cruelty to Animals,6
-Defenders Office,6
 Deputy Sheriffs Association of,6
 Director Dist. 17,6
 Employee,6
@@ -1109,6 +1112,7 @@ Advisors of California,6
 Principles,6
 Heating,6
 labor,6
+"Association, Inc",6
 4.,5
 Actors and Others for,5
 Again,5
@@ -1300,7 +1304,6 @@ Western Region,5
 Exeter,5
 CPCA,5
 of the State Bar of California,5
-"Association, Inc",5
 co-sponsors,5
 Secs,5
 Academy,4
@@ -1620,6 +1623,11 @@ labor groups,4
 Many,4
 services and,4
 Development Inc,4
+Department Nursing Directors,4
+MSW,4
+Watson,4
+Action Association,4
+County of Services,4
 29 AFL-CIO and CLC,3
 3,3
 ACLU and California Attorneys for,3
@@ -1735,7 +1743,6 @@ Defense and Education Fund,3
 Deferred,3
 Del,3
 "Delaine Eastin, State Superintendent of",3
-Department Nursing Directors,3
 Department of Fair,3
 Department of Speech-Pathology and Audiology at California,3
 Departments,3
@@ -1820,7 +1827,6 @@ Los Angeles Lactation,3
 "Los Angeles, Roseville, Metropolitan Water District of",3
 Low,3
 "MG William Gourley, United States Army, Retired, Chair of",3
-MSW,3
 MWA,3
 Magazine,3
 Management Corp,3
@@ -1975,7 +1981,6 @@ Visalia Chamber of,3
 WESCO,3
 Walk,3
 Walnut House,3
-Watson,3
 Weil,3
 Western Air,3
 Western Center for,3
@@ -2058,7 +2063,6 @@ of the Children,3
 of the San Bernardino County Sheriff,3
 California College,3
 The County,3
-Action Association,3
 UU Congregation,3
 Unitarian,3
 Administrative Office - Lakeport,3
@@ -2164,6 +2168,15 @@ s office,3
 "Union, Local 29",3
 We,3
 With,3
+Development Programs,3
+Woodland Hills,3
+cc,3
+CRS,3
+Attention,3
+California in Paint 2000,3
+City of U.N.I.T.E,3
+Enrolled Agents,3
+Journalists,3
 3492 (North Antelope),2
 434-B,2
 5th District,2
@@ -2457,7 +2470,6 @@ Development Agency,2
 Development Company,2
 Development Policy Committee,2
 Development Program,2
-Development Programs,2
 Development Project,2
 Development Services Department,2
 Development UDC Homes,2
@@ -3028,7 +3040,6 @@ Women Prosecutors,2
 Women's Health,2
 Women's Health Specialists The Feminist Women's Health Centers of,2
 "Women, Inc",2
-Woodland Hills,2
 Workforce,2
 Workplace,2
 World Institute on,2
@@ -3049,7 +3060,6 @@ ZGF,2
 "Zev Yaroslavsky, Supervisor Third District, Los Angeles County Board of",2
 Ziegler,2
 but once they are on,2
-cc,2
 fee,2
 for Affirmative Action (CAA),2
 for Animal Rights,2
@@ -3413,7 +3423,6 @@ COA,2
 County's Office of Inspector General,2
 CPU,2
 CPW,2
-CRS,2
 CSVS,2
 "Districts of Los Angeles County, East Bay",2
 education groups,2
@@ -3450,6 +3459,26 @@ Union Local 6,2
 "Union, Local 26",2
 AACU,2
 A California Corporation,2
+Wick,2
+Wine Country,2
+BWW-AP,2
+CBCN,2
+"City of Los Angeles , American",2
+in order,2
+Justice and Evidence,2
+BACKGROUND UC,2
+Board 10,2
+City of Commence,2
+CONSTRUCTION AND OPERATIONS,2
+County of Other Drug Problems,2
+County of Services (WORKS),2
+East County Fire Chief,2
+FinLittt,2
+Gower St,2
+High School (Monterey Co),2
+High School (Ventura Co),2
+LincolNEV,2
+Materus,2
 Acacia,1
 $30,1
 104 Individual Letters from Representatives of,1
@@ -6093,7 +6122,6 @@ While the California Association of,1
 Whittier Chapter,1
 Whittier City,1
 Whole,1
-Wick,1
 Wild Goose,1
 William R,1
 "WilliamS. Comanor, Professor of",1
@@ -6101,7 +6129,6 @@ Wilmington,1
 Wilton,1
 Windflower Point Mutual,1
 Window,1
-Wine Country,1
 Wireless,1
 Women For: California,1
 Women Lawyers Association of,1
@@ -7076,9 +7103,442 @@ a sporting,1
 PIA,1
 The DVA,1
 AAF,1
+Ass'n,1
+Local 377,1
+Accountancy Corporation,1
+"Action, S.F",1
+Additional,1
+Additionally,1
+AFC,1
+affirm,1
+Agricultural interests,1
+AHS further,1
+AKF,1
+all state,1
+Alliance (sponsor) League,1
+Alliance has,1
+Alliance Section,1
+Alliance states,1
+Almost all,1
+"Alto, CA",1
+Alturas,1
+American Civil (Kuehl),1
+American Civil amended,1
+amount,1
+analytical and,1
+Truth,1
+"Angeles, Southern Kern Residents Against",1
+Animal Society Federation,1
+any organization,1
+APG further,1
+appear,1
+Architect (Truckee),1
+Area Agency on Aging Advisory Council for San,1
+Arguments in Opposition Western,1
+"Arguments in Opposition Writing in opposition, unless amended, the Western",1
+ers,1
+Arguments is,1
+Arguments submitted,1
+Arroyo,1
+article,1
+"as ""SAFE",1
+As a,1
+As evidence,1
+As other,1
+ASC,1
+Assembly Judiciary,1
+Assessment and Treatment Center,1
+"Assistance Foundation, Californians for",1
+"Assistance Foundation, Downtown Sacramento",1
+Assm,1
+Association (California Section),1
+Association (sponsor) Judicial Council,1
+Association - Sponsor,1
+Association California Health Care Districts,1
+Association of CA all,1
+"Association of California and Nevada, Mead",1
+"Association of California and Nevada, S.C",1
+"Association of California and Nevada, Sherwin",1
+"Association of Sanitation Agencies, County",1
+"Association of Sanitation Agencies, Santa",1
+"Association of Shasta County, Happy Valley Fire",1
+"Association of Southern California, Norcal",1
+Association of the CCC,1
+Association who,1
+"Association, , The California Railroad",1
+Association of North,1
+"Association, Industrial Environmental",1
+Asthma and Immunology,1
+"Asthma Education & Management, Environment",1
+ATDA,1
+Attorney General's Police,1
+Authority-Sponsor,1
+"Auto, Marine, Prod., Finishers, Equipment Maintenance and Pub",1
+AVCA,1
+AVHC,1
+Background Profiles,1
+"Band of Luiseno Mission Indians, Rancho",1
+"Band of Mission Indians, Native American",1
+Banks and credit unions,1
+Bay Area (MONTANEZ),1
+Bay Area League of (Aroner),1
+Behavioral Health Department,1
+Being,1
+"Bernardino, Fremont, Irvine, Palm Springs, Foster City, Santa Cruz, Santa Barbara, Benicia, Twin Cities, Waterford, Sonora, Antioch, El",1
+Bernardino/Riverside,1
+Bike Culture,1
+"Biking Association, San Francisco Public",1
+Board of Supervisors Office of the Mayor,1
+"Board, Contra Costa",1
+BOC,1
+Bottlers of California,1
+Buena Park. Calabasas,1
+CA State Association of Assoc,1
+CA Women's (Kuehl),1
+CAB,1
+Cabrillo (Kuehl) Corporation,1
+"Cajon, and Jackson",1
+CALA,1
+California (Alarcon),1
+California / Corona,1
+California / Palm Springs,1
+California ACC,1
+California Alliance for (Cohn),1
+California Association of (Miller),1
+California Association of (Steinberg),1
+California Association of (Torrico) PageB,1
+California Association of Forests,1
+California Association of Francisco Police Officers' Association,1
+California Attorneys Cupertino,1
+California Attorneys for Youth,1
+California Center for the Family in,1
+California Chapter Cities of Berkeley,1
+California Chapter of the (Figueroa) Association,1
+California Chapters of Violence,1
+California Child Development Policy,1
+California Community College Council for Staff and Organizational,1
+California Community Colleges of Teachers,1
+California Consortium to Child Abuse,1
+California Creek,1
+California League of California,1
+California Police (Strickland),1
+California Public (Ashburn),1
+California Public (Polanco) Page,1
+California Society for Escondido,1
+California State Council American Federation of State,1
+California State Counties,1
+California State Outdoor Advertising,1
+California's,1
+"California, LP Commission",1
+"California, Northwest El Monte Community Task",1
+"California, South Central Coast Basinwide Air",1
+"California, South Natomas Transportation",1
+CALR,1
+can,1
+CARE Program and Clinics,1
+CASC,1
+Catholic Charities of San,1
+CBH,1
+CBHDAC,1
+CCA,1
+CCB,1
+CCCC,1
+CCI,1
+CCRS,1
+CCST,1
+CDT,1
+Center for Counseling,1
+"Center Municipal Water District, Vandenberg",1
+"Center, Los Alamitos, CA",1
+Central District,1
+CFB,1
+CHCA,1
+Chief Executive Officer,1
+Chief Librarian,1
+Chief of Police Paul Cooper,1
+"Chief of Police, Los Serano",1
+"Chief Probation Officer, San (Karnette)",1
+Child Abuse County,1
+Child Development Coordinator,1
+Circulate,1
+Cities of: S,1
+Cities of:S,1
+City Administrator of Angeles,1
+City and county representatives,1
+City of (SOTO),1
+City of (STRICKLAND),1
+City of 19 individuals,1
+City of Butte,1
+City of California Child,1
+City of California Physicians,1
+City of Catalysts,1
+City of Ceh,1
+City of Cities,1
+City of Clean Street,1
+"City of Commerce, City",1
+City of Community Housing,1
+City of County of Santa,1
+City of East Bay,1
+City of Eastern,1
+City of Emerge,1
+City of Fabrick,1
+City of Fairgrounds,1
+City of Farmers,1
+City of Foodcorps,1
+"City of Humboldt, County of",1
+"City of Lakewood, City of",1
+"City of Lancaster, City of",1
+City of League of California,1
+"City of Los Angeles, City",1
+City of Municipal Utility District,1
+City of Municipal Water District,1
+City of Natural,1
+"City of Norwalk, Clean",1
+"City of Norwalk, Clean Power",1
+City of Office of Planning,1
+City of Power Campaign,1
+"City of Power, Mono",1
+City of Radio,1
+City of Salina,1
+"City of San Diego, Heal",1
+City of Santa California Chapter,1
+"City of Santa Clara, County",1
+City of Spur,1
+City of Systems,1
+City of Westlake,1
+City writes,1
+CLCR,1
+"Clearing Corporation, New York Clearing",1
+Clerk and Recorder,1
+Climate Action Center,1
+collateral,1
+College of Law (sponsor) Association of California,1
+"College, Retired",1
+Committee (County of Los Angeles),1
+Company of Southern California,1
+Conservation groups,1
+Consumer Center,1
+"Container/Plaxicon, National Association for",1
+Contractor associations,1
+COPA,1
+COR,1
+Council 12-Los Angeles,1
+Council President,1
+County Clerk,1
+County Controller,1
+County Fire Department,1
+County Health Services,1
+County Medical Association,1
+County of California Landscape,1
+County of Consolidated Superior,1
+County of Department of California,1
+County of Irrigation Council,1
+County of Jr,1
+County of Mayor,1
+County of Mayor Pro Tem,1
+County of Natura,1
+"County, Physicians for Social",1
+"County, San",1
+Court of Santa Cruz County,1
+CRD,1
+Crime Attorneys Association,1
+Crime Marriage and Family Therapists,1
+Crime Victims Action Crisis Harmony,1
+Crime Victims Action Sheriff,1
+"Criminal Division, Alternatives to Domestic",1
+CSLA,1
+culture and,1
+Data Management Systems Division,1
+Data Systems Support,1
+Database Connections,1
+deposits,1
+deputy secretary,1
+Deputy Sheriffs (as amended 3/19/97),1
+designation,1
+Developer organizations,1
+Development (FIELD) Sponsor,1
+Developmental Center,1
+DHF,1
+DHP-IVPP,1
+Dialysis companies,1
+Digest,1
+Director of Library Services,1
+Disease Society of America,1
+District 7,1
+District Angeles County,1
+"District of Southern California, National",1
+"District of Southern California, Natural",1
+"District of Southern California, Orange County",1
+Doctors of Medicine (1),1
+Domestic (Cohn) for Men and Women,1
+Dorris,1
+DSC,1
+Dulces y Similares,1
+E,1
+Early: Intervention Program,1
+Education (OSE),1
+El Dorado Hills,1
+"Elementary School District, Kern County",1
+"Employees Association, Chawanakee Joint School",1
+Employees pursuing,1
+"Environmental Assn. of San Diego, Western",1
+Environmental Center of Environmental,1
+ethical,1
+EWD Program,1
+exclusion of,1
+Faculty and staff of the Department of Communicative,1
+Fairgrounds,1
+Families in (CEDILLO),1
+Family Court Services of Clara,1
+Family Court Services of Contra,1
+Family Court Services of Costa,1
+Family Court Services of Santa,1
+"Family Violence Project, Shelter Against",1
+"Farmers, Community Recycling and Resource",1
+FBA,1
+Few other,1
+final form,1
+final three,1
+FLL CSD,1
+Flood Control and Water Conservation District,1
+FLS-LA,1
+FPD,1
+Fresno (Jackson),1
+Fresno (Steinberg) of Education,1
+Friends California,1
+Furnishings,1
+Future America,1
+"Gabriel Valley, Los Angeles, Mount",1
+"Gas Association, 6 individuals",1
+"Gate Branch 214, AFL-CIO",1
+GC,1
+GKC,1
+GMR,1
+Great (BENOIT),1
+Gunsports groups,1
+Hallmark,1
+"Hardware Company, Industrial Environmental",1
+Hawaiian,1
+Health advocacy groups,1
+Health and Senior Care Community Council on,1
+Health Society,1
+HealthSystem,1
+Helena,1
+helps,1
+How,1
+Humane Society of of Animals,1
+Immediate Past President,1
+In other,1
+Inc. (Chino),1
+Inc. (No. Long Beach),1
+Inc. - Land Surveying & Mapping,1
+Inc. and its California Divisions,1
+Inc. California UFCW locals,1
+Independent Living Program,1
+Inland Empire and Desert,1
+Institutions [SPONSOR],1
+Instrument Enclosures,1
+Insurance (DOI),1
+International - Sponsor,1
+International Association of Scientific,1
+"International, Industrial Environmental",1
+"International, Local 200, Pomona",1
+Investments Corporation,1
+Investors,1
+Ione,1
+IX/California,1
+JCC,1
+"Joaquin, Vista",1
+Judge L.A. Superior Court ACAL,1
+judicial and,1
+Kern Schools,1
+Kings & Kern Stubhub,1
+Kings (Poochigian) Bureau,1
+Klaas Foundation for Electronic Arts,1
+KNOT Anymore,1
+La (Calderon),1
+Labor/Community (Calderon),1
+Laborer's International Union of Northern American Local,1
+Lake County Administrative Officer Kelly F,1
+Land Surveyors and Geologists,1
+Lanthrop,1
+LASC,1
+"Lawyers, Association of Los Angeles, Family",1
+LCBA,1
+League of (Hollingsworth),1
+"League of California, National Association",1
+League strongly,1
+Legislation and Regulation Committee,1
+Library Advisory Board,1
+Library Director,1
+LIF,1
+"Life of Southern California, Los Angeles",1
+like,1
+Linking child,1
+lists,1
+Living Programs,1
+LLP Estate Planning,1
+"Local 483, Hayward",1
+Local 522,1
+LOCAL GOVERNMENT,1
+Local government groups,1
+Local Juvenile Justice Commissions,1
+Los Angeles Basin,1
+Los Angeles County Democratic Central,1
+Los Angeles County Profession,1
+Los Bar Association,1
+Los District Attorney's Office,1
+Low-Level Radioactive Waste Commission,1
+"Management Agencies Association, Bay Planning",1
+"Management Agency, Rancho Santa Fe Community",1
+"Management Association, Union of Concerned",1
+"Management Association, United Water",1
+"Management Authority, California Commission for",1
+"Management Committee, Fresno County Farm",1
+"Management District, Sierra Club California",1
+Management Program,1
+"Management Task Force, Southern California",1
+"Management, Inc., Gilton Resource Recovery",1
+"Manager, Corona",1
+mandate costs,1
+"Manufacturers Association, Industrial",1
+"Manufacturers Association, International Diary",1
+"Manufacturers, California Council for",1
+"Manufacturing Group, California Environmental",1
+"Margarita, Rosemead, Santee, Coalition for",1
+"Marketers Association, California Independent",1
+"Markets, Inc",1
+Medical Center and Children's Hospital,1
+Medical providers,1
+members of,1
+Mendocino Monterey,1
+"Mental Health Association, counties of",1
+Molina,1
+Moss Landing,1
+Most,1
+MU,1
+Multiple,1
+"Mutual No. Fifty, Lake Forest Community",1
+National (Scott),1
+National Association of (Murray),1
+"National Association of Letter Carriers, Golden",1
+National Association of Women's Council,1
+National Center Justice,1
+National Coalition of (Wright),1
+Native Hawaiian,1
+Natural Resources (Aroner),1
+Navigation Company,1
+NCCU,1
+Network of Southern California,1
+"Network, 18 individuals",1
+NFA,1
+North (Ortiz/Alby) District,1
+NOVF Experimental Technology,1
+Numerous (Maze),1
+Numerous labor unions,1
+Numerous legal aid and services organizations,1
 542,0
 AFL-CIO Local 11,0
-Assn,0
 Assn of CA,0
 Assn of California,0
 Assn. of,0
@@ -7099,7 +7559,6 @@ For,0
 "International Union (SEIU), Local 1877",0
 Islander Caucus SEIU,0
 "Islander Caucus SEIU, Local 721",0
-Local 377,0
 Local 49,0
 Local 814,0
 "Partnership, Inc",0
