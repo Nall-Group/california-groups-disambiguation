@@ -121,3 +121,5 @@ loans
 marine conservation organizations
 marketing
 marriage
+medical groups/IPAs
+mental health advocates
