@@ -12,6 +12,8 @@ racetrack
 ranchers
 range
 reporters
+retail
+retailers
 consumer advocacy organizations
 fee
 file

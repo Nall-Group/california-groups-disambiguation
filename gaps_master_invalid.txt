@@ -144,6 +144,16 @@ Report
 Reporters
 Reporting
 required by AB 32
+RJG/DLW:ctl 8/27/97 Senate Floor Analyses
+RJG:cm/ctl 1/26/98 Senate Floor Analyses
+RJG:ctl/jk 6/26/98 Senate Floor Analyses
+RJG:sl Date Senate Floor Analyses
+RM:nl:d 5/25/14 Senate Floor Analyses
+RM:nl:d 8/26/14 Senate Floor Analyses
+RM:nl:d 9/9/13 Senate Floor Analyses
+RM:nl:ej 5/28/13 Senate Floor Analyses
+RM:nl:ej 9/11/13 Senate Floor Analyses
+Robert H. "Bob" Weatherwax Memorial Bridge
 CP:cm/ctl/cm 5/19/98 Senate Floor Analyses
 CP:jk/ctl 1/26/98 Senate Floor Analyses
 Dependencies
