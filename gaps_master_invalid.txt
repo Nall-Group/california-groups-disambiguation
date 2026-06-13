@@ -604,6 +604,28 @@ TO BE OFFERED IN COMMITTEE. (SEE COMMENT 1 BELOW)
 TO BE PRESENTED IN COMMITTEE
 Torah
 Trial Date
+TSM/AGB:do 8/28/06 Senate Floor Analyses
+TSM/DLW:ctl 4/29/98 Senate Floor Analyses
+TSM/DLW:ctl 5/19/98 Senate Floor Analyses
+TSM/DLW:ctl 8/28/98 Senate Floor Analyses
+TSM:AB:do 9/9/07 Senate Floor Analyses
+TSM:cm/ctl 5/18/98 Senate Floor Analyses
+TSM:cm/ctl 7/10/98 Senate Floor Analyses
+TSM:cm/ctl 8/31/98 Senate Floor Analyses
+TSM:cm/jk 8/28/98 Senate Floor Analyses
+TSM:cm/jk 8/31/98 Senate Floor Analyses
+TSM:cm: 1/14/98 Senate Floor Analyses
+TSM:ctl/cm 5/19/98 Senate Floor Analyses
+TSM:DLW:do 8/27/10 Senate Floor Analyses
+TSM:do:kc 8/30/10 Senate Floor Analyses
+TSM:jk/cm 8/27/98 Senate Floor Analyses
+TSM:jk/ctl 5/26/98 Senate Floor Analyses
+TSM:meln 4/5/06 Senate Floor Analyses
+TSM:sl/cm 5/12/98 Senate Floor Analyses
+TSM:sl/cm 5/20/98 Senate Floor Analyses
+TSM:sl/cm 7/21/98 Senate Floor Analyses
+Turkey
+U.S. 345
 Letters
 Many business groups
 Many labor organizations
