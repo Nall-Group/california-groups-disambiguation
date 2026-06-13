@@ -204,7 +204,6 @@ John Martin,9
 Mayor Pro Tem Winifred Hanson,9
 Senator Rosenthal,9
 Senator Thompson,9
-"Tom Ramirez, Animal Control Supervisor, Stockton Police Department",9
 16 Private Citizens,9
 22 Private Citizens,9
 27 Private Citizens,9
@@ -818,7 +817,6 @@ Fred and Andrea Ransdell,4
 Goleta City Council Member Roger Aceves,4
 Goleta City Council Member Tony Vallejo,4
 Governor's bill . The Governor,4
-"Herb J. Wesson, Jr., Los Angeles City Council",4
 "Herbery Heyn, John Hancock Agent, Millbrae",4
 "Honorable Fortney ""Pete"" Stark, United States Congress",4
 Individual Letters (11),4
@@ -1091,6 +1089,7 @@ O'Connell,4
 "Sheriffs of Sacramento County, San Diego County, Marin, San",4
 "Superior Court, Presiding Judge",4
 The Office of San Diego County Supervisor Terra Lawson-remer,4
+"Herb J. Wesson, Jr. Councilmember",4
 12 Instructors of Cosmetology/Cosmetologists/Barbers,3
 19 Students of Cosmetology,3
 51st District of California Congresswoman Susan Davis,3
@@ -1338,7 +1337,6 @@ Harriet Fox,3
 Harry Wu,3
 Helen Hunt,3
 Henry G. Eilerg (walnuts),3
-"Herb J. Wesson, Jr. Councilmember",3
 Herbert Frenery (walnuts),3
 "Hon. Brian Bilbray, Member of Congress",3
 Hon. John Ladner,3
@@ -1730,6 +1728,9 @@ Representative,3
 "Sheriffs of Imperial County, San Bernardino County, Calaveras County",3
 "Sheriffs of Kings, Placer, and San Bernardino Counties",3
 "Sean Owens, DVM (Medical Director, UC Davis Blood Bank)",3
+"Aarshdeep Kahlon, Chair, San José Bicycle and Pedestrian Advisory Committee",3
+"Mark Lee, Esq., Manatt, Phelps and Phillips, LLP",3
+Reverend Johnson of Good Shepherd Homes,3
 "1,825 Private Citizens",2
 141 Individuals,2
 15 Chiefs of Police,2
@@ -1742,7 +1743,6 @@ Representative,3
 961 Individual Letters,2
 A. Waxman,2
 Aaronson,2
-"Aarshdeep Kahlon, Chair, San José Bicycle and Pedestrian Advisory Committee",2
 Acting Board Member,2
 Acting Consular General for the Consulate of the Republic of Azerbaijan in Los Angeles,2
 "Adam Hill, Supervisor, District Three of San Luis Obispo County",2
@@ -2429,7 +2429,6 @@ MODESTO CITY COUNCIL MEMBER TONY MADRIGAL,2
 "Malia Cohen, Member, Board of Supervisors, City and County of San Francisco",2
 "Manuel Ontal, Jr., Councilman for the City of Carson",2
 Marin County Clerk Michael Smith,2
-"Mark Lee, Esq., Manatt, Phelps and Phillips, LLP",2
 "Mark Luce, Napa County Board of Supervisors",2
 "Mark Nuaimi, Mayor",2
 "Mark Ridley-Thomas, LA County Supervisor",2
@@ -2551,7 +2550,6 @@ Patrick Johnston (former State Senator),2
 "Pete McHugh, Santa Clara County Supervisor",2
 Peter G,2
 Placer County Edward N. Bonner,2
-"Pleasant Valley State Prison, Senior Psychologist Supervisor",2
 Police Edward Medrano,2
 "Pomona City Council Member, Paula Lantz",2
 "Pomona City Council Member, Willie White",2
@@ -2577,7 +2575,6 @@ Representative Juan Vargas,2
 Retired People,2
 Retired State Senator Martha M. Escutia,2
 "Rev. Henry W. Hearns, Vice Mayor",2
-Reverend Johnson of Good Shepherd Homes,2
 "Reverend Neil Thomas, Senior Pastor, Metropolitan Community",2
 Richmond City Councilmember Jovanka Beckles,2
 Riverside County Fair Housing Commissioner,2
@@ -2737,7 +2734,6 @@ The Office of Governor Gray Davis,2
 Tim Gunn,2
 "Tim Johnson, County Clerk",2
 "Todd Gloria, San Diego City Council Member",2
-Tom Torlakson United States Marine Corps,2
 Trisha Bridenstine,2
 "Trustee Rick Winet, La Mesa-Spring Valley School District",2
 U.S. Congressman Jim Costa,2
@@ -3340,6 +3336,14 @@ Sonoma County G.W. Peterson,2
 "Supervisor, Steve A. Perez, Kern County, Second District",2
 "Sean Owens, DVM, Diplomate ACVP, Medical Director, UC Davis Veterinary Blood Bank",2
 "Tim Newell, Managing Director, Element Venture Partners",2
+"Chris Eyre, Managing Director, Legacy Venture",2
+"Christine K. White, Planner/Designer, Interactive Resources, Inc",2
+"County of Riverside, Sheriff Stan Sniff",2
+"County of Riverside, Sheriff Stanley Sniff",2
+"Don Cabianca, CSConstructors",2
+"Mark Lee, Manatt, Phelps & Phillips",2
+State Park Peace Officer Hon. Don Horsley,2
+Sanger Swysen & Dunkle - Sarah Sanger,2
 1 Constituent Letter,1
 1 Deputy Chief of Police,1
 1 Lab Manager,1
@@ -3888,7 +3892,6 @@ Chino Hills Councilmember Pete Rogers,1
 "Chris Barajas, Councilmember",1
 "Chris Contreras, Commissioner on the Commission for Behavioral Health",1
 "Chris Daly, San Francisco Supervisor",1
-"Chris Eyre, Managing Director, Legacy Venture",1
 Chris Fey,1
 "Chris Lagorio, Individual",1
 "Chris Norby, Orange County Supervisor",1
@@ -3903,7 +3906,6 @@ Christine C. Quinquileria,1
 "Christine Callahan, Attorney at Law",1
 Christine Ganser (individual),1
 "Christine Garcia, American Sign Language Interpreter",1
-"Christine K. White, Planner/Designer, Interactive Resources, Inc",1
 "Christine Kehoe, Assemblymember",1
 Christine Koltermann,1
 "Christopher Beth, Superintendent",1
@@ -4439,8 +4441,6 @@ County of Orange Honorable Norman P. Tarle,1
 "County of Orange, Supervisor Patricia C. Bates, 5th District",1
 "County of Plumas (Kathy Williams, County Clerk/Recorder/Registrar of)",1
 County of Rick Guerrero,1
-"County of Riverside, Sheriff Stan Sniff",1
-"County of Riverside, Sheriff Stanley Sniff",1
 County of Sacramento Supervisor Sue Frost,1
 County of San Diego Supervisor Joel Anderson,1
 County of San Diego Supervisor Terra Lawson-Remer,1
@@ -4708,7 +4708,6 @@ Dolores Holguin,1
 Domenico Mastrototaro,1
 "Don Burnett, Cupertino",1
 "Don C. Creevy, M.D. (obstetrician/gynecologist)",1
-"Don Cabianca, CSConstructors",1
 Don Campbell,1
 Don Elliston,1
 "Don Garman, First Vice President, Merrill Lynch Private",1
@@ -5925,7 +5924,6 @@ Marin County Supervisor Katie Rice,1
 Marjorie Hopkins (individual),1
 Mark Coats,1
 "Mark Dinan - Councilmember, East Palo Alto",1
-"Mark Lee, Manatt, Phelps & Phillips",1
 "Mark Peterson, Mayor",1
 "Mark Ridley-Thomas, Los Angeles City Councilmember District 10",1
 "Mark Salwasser, Individual",1
@@ -6542,7 +6540,6 @@ Sr. Teresa Doherty,1
 Stanislaus County Supervisor Channce A. Condit,1
 "State Attorney General, Honorable Bill Lockyer",1
 "State Chair, Assemblyman Howard Kaloogian and 45",1
-State Park Peace Officer Hon. Don Horsley,1
 "State Representative Daniel P. Brady, Illinois",1
 State Senator John F. Foran (Ret),1
 State Senator Nick Petris (retired),1
@@ -8518,6 +8515,20 @@ Three Sacramento County Supervisors write,1
 "Tim Jones, Venice, CA",1
 "Tim Newell, Vice President & CFO, GetActive Software: Other E2 Business Leaders",1
 "Tim Ryan, Chief of Correction, Santa Clara County Department of Correction",1
+"Patrick Boyd, Chief Probation Officer, Retired, San Francisco County",1
+"Richard Sill, Chief of AB 1397 (Poochigian) Police",1
+"Sheila Jackson, Vice President, San Diego Unified School District",1
+"Tom Bordonaro, Jr., Assessor",1
+"Tom Hafkenschiel, MD, Portola Valley",1
+"Tom Minor, San Bernardino",1
+"Toni Atkins, Councilmember, Third District",1
+"Tony Cardenas, Los Angeles City Councilmember (author of Proposition 20)",1
+"Tony P. Tirado, Supervisor, District One, Imperial County",1
+"Trixie Johnson, San Jose (Vice-Mayor) City Council Members: Elayne Dauber, Los Altos Hills",1
+"Greg Smith, Assessor",1
+San Diego County Public Defender,1
+"Santa Cruz City/County Library System, Teresa Landers",1
+"Susan Mentley, Animal Welfare Director, Oregon: Euthanasia Task Force",1
 "COUNCIL MEMBER JON WIZARD, CITY OF SEASIDE",0
 "ERIC GARCETTI, MAYOR, CITY OF LOS ANGELES",0
 "HONORABLE SALUD CARABAJAL, MEMBER OF U.S. CONGRESS",0
