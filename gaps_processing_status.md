@@ -11,9 +11,9 @@ crosswalk and delete the handled rows from `crosswalk_gaps_all_stances.csv`.
 
 ## THE CURSOR (where we are)
 - **`gaps_needs_audit.txt`** = the work queue, sorted by bill count (priority). One org per line.
-  Whatever is in this file is NOT yet triaged. Currently: **285 remaining**.
+  Whatever is in this file is NOT yet triaged. Currently: **0 remaining — ✅ AUDIT COMPLETE (wave 140 was the last).**
 - Each completed wave removes its orgs from this file (the cursor advances). When it hits 0, done.
-- **Next wave number to use: 140 (FINAL — only 285 orgs left).** (Waves 1–139 are committed. Wave numbers only label the temp
+- **DONE. All 67,609 gap orgs triaged across waves 1–140.** No more waves to run. (Wave numbers only label the temp
   chunk files; they don't matter beyond avoiding filename collisions — just use the next integer.)
 
 ## THE OUTPUT (accumulating worklists, in repo root)
@@ -75,8 +75,14 @@ Each wave's dispositions are appended here. Standing RA tasks 1242–1245 consum
 
 ## PROGRESS
 - Done: bulk pass (tasks 1224–1226), 112 acronym matches (1242), wave 1 (1239–1241),
-  waves 2–139 → masters above. ~67,330 of 67,609 orgs triaged (~99.6%).
-- Remaining: 285 in `gaps_needs_audit.txt`.
+  waves 2–140 → masters above. ✅ ALL 67,609 orgs triaged (100%).
+- Remaining: 0 in `gaps_needs_audit.txt`. THE TRIAGE PHASE IS COMPLETE.
+- Final master totals: consolidate 19,542 · new_canonicals 1,305 · new_chapters 223 ·
+  individuals 8,505 · partial 2,915 · conjoined 5,691 · narrative 24,703 · parens 426 ·
+  dates 177 · not_capitalized 178 · invalid 2,790  (66,455 disposition rows logged).
+- NEXT PHASE: worker RAs apply these masters to the crosswalk + invalidity CSVs via the
+  60 band sub-tasks 1246–1305 (use `python3 gaps_band.py list <category>`). The masters no
+  longer grow, so the bands are now final/stable.
 
 ## STANDING-TASK SLICING (added wave 118)
 The 3 standing tasks 1243/1244/1245 are split into 60 band sub-tasks (1246–1305) via
