@@ -1,26 +1,24 @@
 org_name,count
-END --,6174
 None to date,1516
 None Registered,1285
 None Submitted,699
-Amended,669
-Oppose,574
-No Known,483
+Amended,676
+Oppose,600
+No Known,485
 FISCAL COMMITTEE: Senate Appropriations Committee,319
-OPPOSE UNLESS AMENDED,300
+OPPOSE UNLESS AMENDED,303
 Version,234
 GOVERNOR'S VETO MESSAGE,223
 FISCAL COMMITTEE: Senate Appropriations,207
-,193
+Neutral,77
 NONE,76
-Neutral,75
 FISCAL COMMITTEE: No,70
 Legislation,69
 Not Known,68
 Assembly Votes,67
-Prior Version,61
+Prior Version,63
+PREVIOUS LEGISLATION,45
 WRITTEN COMMUNICATIONS: On file with Committee,43
-PREVIOUS LEGISLATION,34
 "As of April 9, 2010",29
 PageE,24
 "As of June 25, 2010",23
@@ -36,11 +34,13 @@ DUAL REFERRAL: Senate Rules Committee,19
 "As of April 24, 2009",18
 "As of June 24, 2011",18
 Opposed,18
+PageB,18
 "As of July 7, 1995",17
 "As of June 14, 1996",17
 WRITTEN COMMUNICATIONS: None,17
 "As of April 10, 2009",16
 PREVIOUS VERSION,16
+SB **** END,16
 "As of June 20, 2014",15
 "As of June 21, 2013",15
 "As of June 6, 2014",15
@@ -74,6 +74,7 @@ Statutes of 2017,11
 "As of September 12, 2001",10
 Bill No,10
 Statutes of 2016,10
+wrote,10
 Act of 1913,9
 "As of July 3, 2003",9
 "As of July 3, 2009",9
@@ -84,6 +85,8 @@ Continued,9
 DUAL REFERRAL: Senate Judiciary Committee,9
 FISCAL COMMITTEE: none,9
 Statutes of 2014,9
+There is no,9
+we must respectfully,9
 Act of 1909,8
 Act of 1943,8
 "As of April 20, 2006",8
@@ -96,8 +99,9 @@ Act of 1943,8
 Lighting Act of 1972,8
 SB 844,8
 Statutes of 2020,8
+AB 34 X2,8
+Current law,8
 11XXXX,7
-AB 34 X2,7
 "As of April 11, 1997",7
 "As of April 24, 2003",7
 "As of April 4, 2003",7
@@ -151,6 +155,11 @@ Statutes of 2013,6
 WATER QUALITY AND SEWERS (4 for $600 million),6
 WATER SUPPLIES (3 for $250 million),6
 Youth Facility Bond Act of 1988 500,6
+SB 87/SCA 5 (Kopp),6
+Disposition of Remains,6
+as well,6
+I cannot,6
+There is no registered,6
 "AB 393, Page",5
 "AB 591, Page",5
 "Aptos, California",5
@@ -172,7 +181,6 @@ As Proposed to be Amended in Committee,5
 "As of March 22, 2007",5
 CONTINUED SB,5
 Chapter 143,5
-Current law,5
 DOUBLE REFERRAL,5
 DUAL REFERRAL: Senate Governance and Finance Committee,5
 "Date: May 19, 2005",5
@@ -182,6 +190,8 @@ METHODS OF FINANCING,5
 SB 24,5
 SB 284,5
 X1 72,5
+No known opposition,5
+Opponents further,5
 AB 1210 (La Suer),4
 AB 1463 (Cedillo),4
 AB 204 (NATION),4
@@ -235,7 +245,6 @@ SB 23XX,4
 SB 402,4
 SB 476 (Escutia),4
 SB 68XX,4
-SB 87/SCA 5 (Kopp),4
 "SB 921, Page",4
 SBX1 12 (JOHANNESSEN),4
 SUGGESTED COMMITTEE AMENDMENTS,4
@@ -250,6 +259,23 @@ Senate Bill 722,4
 Statutes of 2007,4
 Statutes of 2023,4
 Ways & Means: 23 -,4
+AB 1846 - Correa,4
+AB 39 X2,4
+Oppositon,4
+AB 15 (Klehs),4
+AB 2794 (Bowen),4
+ACA 14 (DeVore),4
+Board of Architectural Examiners Issues,4
+Court Reporter Issues,4
+Funeral/Embalmer Issues,4
+SB 1727/SCA 9 (Kopp),4
+SB 216 (Dutton),4
+SB 23/SCA 25 (Kopp),4
+SB 896 (Speier),4
+[3] SB 1052/SCA 22 (Alquist),4
+appropriations included in the 2021 Budget Act,4
+Please,4
+Unable to reverify at time,4
 11 0 6 1 3 1 (0%) (54.5%) (9.0%) (27.2%) (9.0%),3
 "373R, 532",3
 500 to $10,3
@@ -260,7 +286,6 @@ AB 13 (T. Friedman),3
 AB 1502 - Brewer,3
 AB 1586 (Koretz),3
 AB 172 (Firebaugh),3
-AB 1846 - Correa,3
 AB 2075 (Chavez),3
 AB 2142 (Keeley),3
 AB 2304 (Runner) PageB,3
@@ -274,7 +299,6 @@ AB 256 (Wayne),3
 AB 2568 (YEE),3
 AB 268 (Wayne),3
 AB 2857 - Laird,3
-AB 39 X2,3
 AB 398 (Salinas),3
 AB 491 (Frommer),3
 AB 50 (Koretz),3
@@ -315,7 +339,6 @@ DUAL REFERRAL: Senate Constitutional Amendments Committee,3
 DUAL REFERRAL: Senate Environmental Quality Committee,3
 DUAL REFERRAL: Senate Natural Resources Committee,3
 Department Crime Laboratory Director,3
-Disposition of Remains,3
 District Law of 1985,3
 END **** SB,3
 Health and Human Services: Ayes 7 - Noes 1,3
@@ -327,7 +350,6 @@ Legislative Platform for 2001,3
 METHODS OF FINANCING PAGE c,3
 NC: KB 5/3/00 Senate Floor Analyses,3
 NC:ctl/jk/ctl 1/28/98 Senate Floor Analyses,3
-Oppositon,3
 Organizational Endorsements for the California Forward 2010 Reform,3
 Purpose . DPA,3
 Purpose. The California Chapter of the American College of Emergency Physicians,3
@@ -356,6 +378,22 @@ SPECIAL ELECTIONS 1961-1993,3
 Similar Legislation,3
 TSM:cm/ctl 1/26/98 Senate Floor Analyses,3
 TULARE CITY ELEMENTARY,3
+AB 29 X1,3
+AB 411,3
+"AB 610, Page",3
+HR. 28,3
+Oppose None Reported to the Committee,3
+SB 274 (Dutton),3
+The opponents,3
+"At the time this analysis was prepared, there was no opposition formally",3
+California should extend our current law which allows a non-custodial parent to suspend their child,3
+case law,3
+Department of Finance: GOVERNOR'S VETO MESSAGE,3
+for one position,3
+"issued September 23, 2013. [3] Assigned Commissioner and Administrative Law Judge's Ruling Amending the Scoping Memo and Ruling for Phase II of Proceeding",3
+long-term,3
+Rulemaking 12-12- 011,3
+the opposition,3
 "1 ""Non-Exemptible Crimes. Revised 4/10",2
 "1 Jacobs, Ken. ""Living Wage Policies and Big-Box Retail: How a Higher",2
 "1 National Center for Lesbian Rights. ""LGBTQ Youth In The Foster Care",2
@@ -406,7 +444,6 @@ AB 1458 (Wiggins),2
 AB 1475 o Pringle,2
 AB 1478 (Martinez),2
 AB 1493,2
-AB 15 (Klehs),2
 AB 1526 (Thompson),2
 AB 153 (Nakano),2
 AB 1537,2
@@ -461,13 +498,11 @@ AB 274 (Koretz),2
 AB 2758 - Briggs,2
 AB 276 (Migden),2
 AB 279 (Wayne),2
-AB 2794 (Bowen),2
 AB 2814 (Koretz) PageB,2
 AB 286 (Dutra),2
 AB 2860,2
 AB 2864,2
 "AB 2889 (Frommer), Page",2
-AB 29 X1,2
 AB 291 (Johnson),2
 AB 295 (Corbett),2
 AB 317,2
@@ -486,7 +521,6 @@ AB 392 (MONTANEZ),2
 AB 4 (Bates) PageB,2
 AB 407 (Cedillo),2
 AB 409 (Correa),2
-AB 411,2
 AB 411 (Bordonaro),2
 AB 43 X1,2
 AB 434 (Parra),2
@@ -497,7 +531,6 @@ AB 522 (Diaz),2
 AB 557 (LOWENTHAL),2
 AB 573 (Wolk),2
 AB 60 X2,2
-"AB 610, Page",2
 "AB 618 (Cogdill), Page",2
 AB 673 (Migden) PageB,2
 AB 692 (DUTRA),2
@@ -512,7 +545,6 @@ AB 950,2
 AB 958 (Scott),2
 AB 98 (Harvey),2
 AB1617,2
-ACA 14 (DeVore),2
 ACA 22 (Dutra),2
 ACA 43 - ATTACHMENT 1,2
 ACR 119,2
@@ -581,7 +613,6 @@ BACKGROUND: The Administration,2
 "Base Recovery Area Act, Govt. Code § 7105 et seq",2
 Bill No.: AJR,2
 "Bily v. Arthur Young & Co., 3 Cal. 4th 370 (1992)",2
-Board of Architectural Examiners Issues,2
 COMMENTS The Ventura County Transportation Commission,2
 COMPARISON OF SB 936 AND SB 1073,2
 CONFERENCE COMMITTEE VOTE:,2
@@ -644,7 +675,6 @@ County of Western Municipal Water District,2
 County of Western Riverside Council of Governments,2
 County of Westside Cities Council of Governments,2
 County of Your Own Health,2
-Court Reporter Issues,2
 DLW:cm/sl 7/2/98 Senate Floor Analyses,2
 DLW:ctl 4/167/96 Senate Floor Analyses,2
 DLW:mw:n 5/10/12 Senate Floor Analyses,2
@@ -667,12 +697,10 @@ Floor: 68 -,2
 Former Mayor,2
 Foundation and Professor and Director of Forest Products,2
 Francisco SB 1162-Machado,2
-Funeral/Embalmer Issues,2
 Generally,2
 Government v. Kempton (2007) 40 Cal.4th 1016,2
 Govt. Code § 4529.10 et seq,2
 HEARING OF THE SUBCOMMITTEE ON JUVENILE JUSTICE,2
-HR. 28,2
 Hundreds of Law School Students,2
 In 2001,2
 "Inc. -- END -- [1]""Exporting New Luxury Cars Is Lucrative",2
@@ -692,10 +720,8 @@ NC:sl/ctl 7/22/98 Senate Floor Analyses,2
 OPOSITION,2
 OPPOSE: California Council of Churches (cont'd) California Federation of Teachers,2
 OPPOSE: League of Women Voters of California,2
-OPPOSED TO PREVIOUS VERSION,2
 OVERNOR'S VETO MESSAGE,2
 Opponents of,2
-Oppose None Reported to the Committee,2
 "Oppose: Mead Johnson Nutritionals, a Bristol-Myers Squibb",2
 Oppose:California Assessors Association,2
 PART II,2
@@ -761,7 +787,6 @@ SB 1670 (Scott),2
 "SB 1679, Page",2
 SB 1693,2
 SB 1696 (Kopp),2
-SB 1727/SCA 9 (Kopp),2
 SB 173 (Dunn),2
 SB 1733 (Speier),2
 "SB 1758, Page",2
@@ -780,12 +805,9 @@ SB 1995 (O'Connell),2
 SB 2086 - Thompson,2
 SB 2097 (Haynes),2
 SB 2110,2
-SB 216 (Dutton),2
 SB 227 Hollingsworth,2
 SB 23 X2,2
-SB 23/SCA 25 (Kopp),2
 SB 246,2
-SB 274 (Dutton),2
 SB 278 (Alarcon),2
 SB 2XX,2
 SB 2XXX,2
@@ -823,7 +845,6 @@ SB 798 (Speier),2
 SB 84XX,2
 SB 884 (Poochigian) PageB,2
 SB 885 (Mountjoy),2
-SB 896 (Speier),2
 SB 90 (Torlakson),2
 SB 911 (Alarcon),2
 SB 927 (Escutia),2
@@ -869,12 +890,161 @@ Ways & Means: 16 -,2
 Writing in of,2
 "[2] ""Carmakers Face Fresh China Import Threat",2
 "[3] ""U.S. Ordered to Return Assets Held in Crackdown of Luxury Cars Exported to China",2
-[3] SB 1052/SCA 22 (Alquist),2
 "[4] ""Prosecutors Ease Crackdown on Buyers of China-Bound Luxury Cars",2
 partial listing,2
 statutory rape,2
 A Parent's LGBTQ Identity Does Not Negatively Affect Their Child's Well-Being,2
 Association of California Water Agencies (ACWA) Option B Cities: Atascadero,2
+11 CIV Section 56.103,2
+"11 SB 913, Chapter 256, Statutes of 2011",2
+2 2003 Energy Action Plan (http://www.energy.ca.gov/energy_action_plan/2003-05-08_ACTION_PLAN.PDF),2
+"2 AB 1752 (Committee on Budget) Chapter 225, Statutes of 2003",2
+"2 CWS/CMS 2013 Quarter 4 Extract, Center for Social Sciences Research, U.C. Berkeley",2
+"2 Errata to ACL 05-13 February 15, 2006",2
+"2 HSC 1522, 1568.08, 1569.17, and 1596.871",2
+2 Labor Code Section 2750.5,2
+2 Part 30 of Division 2 (commencing with Section 55001) of the RTC,2
+"2 Smith, Carolyn and Bonnie E. Carlson. ""Stress, Coping, and Resilience",2
+2 WIC 311 and WIC 313,2
+2 WIC 315,2
+"3 ""Residential Care in California: Unsafe, Unregulated & Unaccountable",2
+3 CDSS Evaluator Manual: Reference Material for,2
+3 Employment Development Department. 2014 Household Employers Guide,2
+3 Ibid,2
+"3 Needell, B., et al. (Apr. 2013). Child Welfare Services Reports for",2
+3 Title XVI of the Social Security Act Sec. 1614 (42 U.S.C. 1382c),2
+3 WIC 315,2
+3 WIC 334 and WIC 355,2
+3 Welfare and Institutions Code Section 361.3,2
+34 CFR Part 99,2
+4 - SB 1173,2
+4 - SBX1 11,2
+"4 ACL 05-13 June 16, 2005 and re Joseph T. (2008) 163 Cal.App.4th 787",2
+4 Existing Buildings Energy Efficiency Action Plan - Draft (http://www.energy.ca.gov/ab758/),2
+4 Fostering Connections to Success and Increasing Adoptions Act of 2008 (P.L. 110-351) and the Preventing Sex Trafficking and Strengthening,2
+4 HSC 1569.15,2
+"4 Health and Safety Code Section 1522. See also ""Non-Exemptible Crimes",2
+4 PEN 11102.2,2
+4 WIC 334 and WIC 355,2
+4 WIC 360 and WIC 361,2
+5 2014-2015 Budget Change Proposal CCLD-2,2
+"5 HSC 1522, 1568.08, 1569.17, and 1596.871",2
+5 Title 22 CCR 87408,2
+5 WIC 360 and WIC 361,2
+5 WIC 369,2
+5 ibid,2
+6 - SB 205,2
+6 HSC 1569.76,2
+"6 See 2013 IEPR, Chapter 2: Demand Response",2
+6 WIC 369,2
+6 WIC 369 (d),2
+"7 ""Care Home Deaths Show System Failures,"" San Diego Union Tribune, Sept.7, 2013",2
+"7 Superior Court of California, Los Angeles County. Local Rules Chapter 7",2
+7 WIC 369 (d),2
+8 ((HSC 1522 (d) and 1596.871 (a)(1))),2
+AB 1 X2,2
+AB 1122-Corbett,2
+"AB 1729, Page",2
+AB 2 X1,2
+AB 3 X1,2
+AB 36 X1,2
+AB 601,2
+AB 942 --,2
+"ASSEMBLY: 45-23,",2
+"ASSMBLY FLOOR: 60-17,",2
+Oppose[list],2
+Prenatal Care Elimination A Long-Standing Administration,2
+"Chapter 707, Statutes of 2004, authorized",2
+choice to punish instead,2
+Drug manufacturers,2
+Fraudulent,2
+held on this committee's Suspense File,2
+Homeless San Diegans,2
+I Can't,2
+inclusion of HSC 1797,2
+Many business groups,2
+Many labor organizations,2
+Many organizations write,2
+Moreover,2
+Most of the,2
+most often cited,2
+"No known opposition as of January 9, 1998",2
+"No known opposition as of June 6, 1997",2
+No letters,2
+"No opposition received as of March 19, 2007",2
+NOTE - Opposition reflects a prior version of the bill,2
+NOTE - Support reflects a prior version of the bill,2
+NOTE: THIS ANALYSIS REFLECTS AUTHORoS AMENDMENTS TO BE,2
+numerous groups,2
+opposition coalition,2
+"Opposition, unless amended",2
+or changes the definition of a crime within the meaning of Section 6 of Article XIII B of the California Constitution,2
+or changes the penalty for a crime or infraction,2
+Please see comment 2 for more details about support and opposition,2
+Please see following page for an extended list of support,2
+PoK,2
+Positions may/may not be relevant to the current version of the bill,2
+Proponents of AB 102,2
+provide,2
+RDA dissolution law,2
+"Related bill: AB 462 (Bonnie Lowenthal) of 2011, a similar bill, allows",2
+SENATE APPROPRIATIONS SUBCOMMITTEE ON BONDED INDEBTEDNESS AND METHODS OF FINANCING PAGE c,2
+significant amounts of academic research,2
+"Since 2011, 24",2
+sponsor of this measure,2
+"SPONSOR"" of AB 1712",2
+STAFF ANALYSIS OF,2
+Statewide policies,2
+Support on file on previous version of bill,2
+There is no opposition on file,2
+These entities,2
+they are,2
+Unknown Violence,2
+various industry-aligned organizations,2
+Various organizations representing potential CASF applicants and individual internet service providers,2
+within the meaning of Section 17556 of the Government Code,2
+Opposition . None reported to committee,2
+"At the time this analysis was prepared, there was no opposition",2
+CA|PA|PG|PC,2
+END -- [pic],2
+1996). [2] Without EDD and DMV: AB1996/ACA 39 (Harris) and SB 1695 (Kopp,2
+and AB 2472 (Wolk),2
+There is no registered opposition to the bill,2
+A Medium article [Citation],2
+"Stale-dated warrants (expired state checks) - 238 claims for $701,124",2
+AB 1458,2
+AB 1937 would expand coastal access around Pacifica State Beach and,2
+AB 39 would further,2
+AB 415 would enhance,2
+AB 434 helps improve accountability and makes sure that local governments,2
+AB 629 would amend the law to explicitly authorize the VCP to compensate human trafficking survivors for income or,2
+AB 794 removes the obstacle to meeting climate goals by ensuring that state funds are not being used,2
+AB 88 (Sanchez) purports,2
+"AB 923, which allows air districts to establish a $2 per vehicle per year",2
+ad valorem property taxes approved by a 2/3 vote of the people,2
+"air districts, at their discretion, to also fund the retrofit of existing",2
+All support and opposition is to previous versions of the bill,2
+all taxpayers,2
+"American Lung Association of California, California League of Conservation Voters, Clean",2
+Analysis Prepared by Ed Imai / TRANS. / (916) 319-2093,2
+68% of Latinos and African Americans,2
+more,2
+Annual Assurances,2
+annually ongoing,2
+As sensational,2
+"as well as AB 979 (Thompson), now a two-year bill",2
+bill is on the Assembly Floor,2
+"bill violates the California Constitution (Proposition 209), and states ""We",2
+bill will provide opportunities for local businesses to partner with and,2
+bill's sponsor,2
+Board appreciates,2
+Board took an,2
+both,2
+Both of these are hindered by the aggressive pursuit of child,2
+building industry associations write,2
+but also other LA Metro rail projects by providing local governments with a new fiscal tool,2
+but they also serve,2
+"But, with a current homeless population of 151,278 (nearly one-fifth of the total homeless population in the United)",2
 000 AGI,1
 000 AGI and 400% FPL ($82),1
 000 of 90,1
@@ -917,10 +1087,8 @@ Association of California Water Agencies (ACWA) Option B Cities: Atascadero,2
 "10 See, Term Sheet, California Science Center Master Parking Lease, at",1
 10 Title 22 CCR 87211,1
 10XX,1
-11 CIV Section 56.103,1
 11 California Distributors Association Letter. 1 May 2013,1
 11 HSC 1569.625 and Title 22 CCR 87411,1
-"11 SB 913, Chapter 256, Statutes of 2011",1
 1109.pdf,1
 11XX,1
 "12 Campaign for Tobacco-Free Kids, ""Responses to Misleading and Inaccurate Cigarette Company Arguments Against State Cigarette Tax",1
@@ -955,27 +1123,17 @@ Association of California Water Agencies (ACWA) Option B Cities: Atascadero,2
 1994 YES NO,1
 "1994, Inc., California Forum",1
 1995 YES NO,1
-2 2003 Energy Action Plan (http://www.energy.ca.gov/energy_action_plan/2003-05-08_ACTION_PLAN.PDF),1
 "2 2015-16 Budget: ""Capital Outlay Program Review"". LAO, May 14, 2014",1
-"2 AB 1752 (Committee on Budget) Chapter 225, Statutes of 2003",1
-"2 CWS/CMS 2013 Quarter 4 Extract, Center for Social Sciences Research, U.C. Berkeley",1
 2 California Hotel & Motel Assn. v. Industrial Welfare Com. (1979) 25,1
-"2 Errata to ACL 05-13 February 15, 2006",1
 2 Govt. Code § 11346.45,1
 2 Govt. Code § 11349.1,1
 2 Govt. Code § 6500 et seq,1
 "2 H.R. 4173, Pub.Law.111-203",1
-"2 HSC 1522, 1568.08, 1569.17, and 1596.871",1
-2 Labor Code Section 2750.5,1
-2 Part 30 of Division 2 (commencing with Section 55001) of the RTC,1
 2 Penal Code § 330b (d),1
 2 Public Contract Code § 7201,1
-"2 Smith, Carolyn and Bonnie E. Carlson. ""Stress, Coping, and Resilience",1
 "2 Smith, T.A., Lin, B., & Lee, J. United States Department of",1
 "2 Subdivision (f), Penal Code § 337j",1
 2 Title 22 CCR 87615,1
-2 WIC 311 and WIC 313,1
-2 WIC 315,1
 2 law,1
 2003 to August 1,1
 2005 to September 1,1
@@ -983,92 +1141,57 @@ Association of California Water Agencies (ACWA) Option B Cities: Atascadero,2
 "23, as of 8/28/03, per the Assembly Natural Resources",1
 278 U.S. 300,1
 "29, 2002 - Prior Version",1
-"3 ""Residential Care in California: Unsafe, Unregulated & Unaccountable",1
 3 - AB 2037,1
 3 - SB 2096,1
 3 28 U.S.C. § 3701 et seq,1
 "3 Block, G. (2004). ""Foods Contributing to Energy Intake in the US: Data",1
 3 CCL Information Release 2007-04,1
-3 CDSS Evaluator Manual: Reference Material for,1
 "3 Centers for Disease Control and Prevention. ""State-Specific Smoking",1
-3 Employment Development Department. 2014 Household Employers Guide,1
 3 Govt. Code § 11346,1
 3 Govt. Code § 11349,1
-3 Ibid,1
-"3 Needell, B., et al. (Apr. 2013). Child Welfare Services Reports for",1
 3 Public Contract Code § 6100,1
 3 See Govt. Code § 8300,1
-3 Title XVI of the Social Security Act Sec. 1614 (42 U.S.C. 1382c),1
-3 WIC 315,1
-3 WIC 334 and WIC 355,1
-3 Welfare and Institutions Code Section 361.3,1
-34 CFR Part 99,1
 39 law,1
-4 - SB 1173,1
 4 - SB 2103,1
 4 - SB 796,1
-4 - SBX1 11,1
-"4 ACL 05-13 June 16, 2005 and re Joseph T. (2008) 163 Cal.App.4th 787",1
 4 APRIL 19,1
 4 Bus. & Prof. Code § 7030.5,1
 "4 California Department of Public Health: Tobacco Control Program. ""Fact",1
-4 Existing Buildings Energy Efficiency Action Plan - Draft (http://www.energy.ca.gov/ab758/),1
-4 Fostering Connections to Success and Increasing Adoptions Act of 2008 (P.L. 110-351) and the Preventing Sex Trafficking and Strengthening,1
 4 Govt. Code § 1090,1
 4 Govt. Code § 11346.1,1
 4 Govt. Code § 14838.5,1
-4 HSC 1569.15,1
-"4 Health and Safety Code Section 1522. See also ""Non-Exemptible Crimes",1
 4 Lockyer v. City and County of San Francisco (2004) 33 Cal.4th 1055,1
-4 PEN 11102.2,1
 4 Penal Code § 319,1
 4 Pub. Res. Code § 25741,1
 4 Title 22 CCR 87606 (f),1
-4 WIC 334 and WIC 355,1
-4 WIC 360 and WIC 361,1
 4100 et seq.,1
-5 2014-2015 Budget Change Proposal CCLD-2,1
 "5 California Solar Market Industry: Sample Report, Clean Energy Experts",1
 "5 Campaign for Tobacco Free Kids. ""Smoking Caused Federal & State",1
 "5 Consulting Engineers & Land Surveyors of California, Inc. v",1
 5 Govt. Code § 11346.2,1
 5 Govt. Code § 14835 et seq,1
-"5 HSC 1522, 1568.08, 1569.17, and 1596.871",1
 "5 Interactive Media Entertainment & Gaming Association, Inc. v Holder (D)",1
 5 National Braille Press,1
 5 Pub. Util. Code § 2840.2,1
 5 Regal Petroleum California Gasoline Retailers v. Regal Petroleum Corp. (1958) 50 Cal.2d 844,1
 "5 See, e.g., Stigall v. City of Taft (1962) 58 Cal.2d 565",1
-5 Title 22 CCR 87408,1
 5 Title 22 CCR 87465,1
-5 WIC 360 and WIC 361,1
-5 WIC 369,1
-5 ibid,1
 5XXXX,1
 6 - AB 2888,1
-6 - SB 205,1
 "6 CDC, ""Annual Smoking-Attributable Mortality, Years of Potential Life",1
 6 Govt. Code § 11346.4,1
-6 HSC 1569.76,1
-"6 See 2013 IEPR, Chapter 2: Demand Response",1
 6 See Pub. Util. Code § 379.6,1
 6 Title 22 CCR 87609,1
-6 WIC 369,1
-6 WIC 369 (d),1
 60.3 (commencing with Section 20219) only for the Los Angeles Unified,1
 6500 Independent Retailer Endorsement Cards,1
-"7 ""Care Home Deaths Show System Failures,"" San Diego Union Tribune, Sept.7, 2013",1
 7 African American Tobacco Control Leadership Council Letter. 1 May 2013,1
 7 Govt. Code § 11346.4,1
 "7 See D-37-01 (2001), D-43-01(2001), S-02-06 (2006) and S-11-06 (2006)",1
 "7 See, e.g., Target Area Contract Preference Act, Govt. Code § 4530 et",1
-"7 Superior Court of California, Los Angeles County. Local Rules Chapter 7",1
 7 Title 22 CCR 87411 and 87611,1
-7 WIC 369 (d),1
 "7, 1997 HEARING OF THE SUBCOMMITTEE ON JUVENILE JUSTICE.",1
 707(d),1
 "8 ""Medi-Cal Manual for Intensive Care Coordination (ICC), Intensive Home",1
-8 ((HSC 1522 (d) and 1596.871 (a)(1))),1
 "8 Better Regulation: Improving California's Rulemaking Process, Little",1
 "8 Bureau of Gambling Control Law Enforcement Advisory, Number 11, December 5, 2012",1
 "8 Identification and Care of HIV-Exposed and HIV-Infected Infants, Children and Adolescents in Foster Care. American Academy of Pediatrics, Committee on Pediatric AIDS. Pediatrics 2000",1
@@ -1086,7 +1209,6 @@ Association of California Water Agencies (ACWA) Option B Cities: Atascadero,2
 AB (48) Portantino,1
 AB 1,1
 AB 1 X1,1
-AB 1 X2,1
 AB 1001 (Villaraigosa),1
 "AB 1005, Page",1
 AB 1009,1
@@ -1117,7 +1239,6 @@ AB 1100 (Speier),1
 AB 1104 (LAIRD),1
 AB 1108 - Peace,1
 AB 1115 - Rev. & Tax,1
-AB 1122-Corbett,1
 AB 1131 (Ackerman),1
 "AB 1131 (Jackson) - Ch. 543, Stats. 2003",1
 AB 1143 (Simitian),1
@@ -1259,7 +1380,6 @@ AB 1718 (Hertzberg),1
 AB 1719 was held in Committee on Revenue and Taxation,1
 AB 1720 (HANNIGAN),1
 "AB 1722, Page",1
-"AB 1729, Page",1
 AB 1734 (Frusetta),1
 AB 1740-A. R&T,1
 AB 1742 (Correa),1
@@ -1335,7 +1455,6 @@ AB 1983,1
 AB 1988 (Strickland),1
 AB 19XX,1
 AB 1XXXX,1
-AB 2 X1,1
 AB 2003 (Shelley),1
 "AB 2007, Page",1
 AB 2008,1
@@ -1558,7 +1677,6 @@ AB 296 (Negrete McLeod),1
 AB 2961 (Wayne),1
 AB 2984,1
 "AB 2984, Page",1
-AB 3 X1,1
 "AB 30 (Richman), Page",1
 AB 300 (Rainey),1
 AB 3003 (PRINGLE),1
@@ -1617,7 +1735,6 @@ AB 351 (Steinberg),1
 AB 352 (Koretz),1
 AB 356 - Washington,1
 AB 359 (Koretz),1
-AB 36 X1,1
 AB 3607,1
 AB 3609,1
 AB 3613,1
@@ -1695,7 +1812,6 @@ AB 599,1
 AB 60 (Cedillo),1
 AB 60 X1,1
 "AB 600, Page",1
-AB 601,1
 AB 606 (Jackson),1
 AB 608 (Dickerson),1
 AB 614 (Aguiar),1
@@ -1784,7 +1900,6 @@ AB 924,1
 "AB 937, Page",1
 AB 938 --04/13/99,1
 AB 938 SHER,1
-AB 942 --,1
 "AB 943, Page",1
 AB 944 (Ridley-Thomas),1
 AB 946,1
@@ -1859,8 +1974,6 @@ AMENDMENT 2,1
 AMENDMENT NEEDED,1
 AN AGREEMENT BY THE AUTHOR MADE IN THE GOVERNANCE AND FINANCE COMMITTEE.,1
 ASSEMBLY BILL 3230 (B. FRIEDMAN),1
-"ASSEMBLY: 45-23,",1
-"ASSMBLY FLOOR: 60-17,",1
 Academic Council of the Academic Senate of the AB 992 (Spitzer),1
 "Act of $537,000 in 2001-02 and $491,000 in 2002-03",1
 Act of 1974 (ERISA) or the Internal Revenue Code,1
@@ -2383,7 +2496,6 @@ Oppose: California Association of Catholic Hospitals,1
 Oppose: Judicial Council of California,1
 Oppose:California Healthcare Association,1
 OpposeJudicial Council of California,1
-Oppose[list],1
 Opposed to SB 2122,1
 Oppostion: None Known,1
 Organizational Endorsements for SB 844,1
@@ -2416,7 +2528,6 @@ Per Senate Health and Human Services,1
 Performance-Based Health Plan Reimbursement [Sections 4 and 5],1
 Policy 80 (2007) 378-391,1
 Policy Issue: Should the Authority of the DPH to Inspect the Peer,1
-Prenatal Care Elimination A Long-Standing Administration,1
 "Previous Legislation. Chapter 442, Statutes of 2006 (AB2941, Koretz)",1
 "Price Verification Guidelines - ""Handbook 130"". This",1
 Prior Committee Vote: 2-5,1
@@ -3238,3 +3349,669 @@ PPOSITION,1
 Certification/SurveyCertificationGenInfo/Downloads/Survey-and-Cert-Letter,1
 Violence[1],1
 Jesus Christ,1
+of SB 1030,1
+of Senate Bill 64 of the 2002-2003 session,1
+of the Business and Professions Code,1
+of the Government Code,1
+of Total Board AV Votes Members,1
+"offer, | |3 days | 10 |10 |(app| | |Issue | | |days |days |eal | | | | | | | | | |pend| | | | | | | | | |ing)",1
+OFFERED BY THE AUTHOR IN COMMITTEE (SEE COMMENT 2),1
+OFFERED IN COMMITTEE,1
+OFFERED IN THIS COMMITTEE. SEE COMMENT 10,1
+on at least a three-year cycle instead of every five years,1
+"On page 5, strike out lines 2 through 5, inclusive, and insert",1
+on the balance between modernization and new,1
+On the one hand it,1
+or 22511,1
+Page E Attorney General,1
+"People v. Zepeda (2001) 87 Cal.App.4th 1183, 1196. Federal law",1
+PRC 4290.1. (a) The State Fire Marshal shall develop criteria for and,1
+"PRC 4291. (a) A person who owns, leases, controls, operates, or",1
+Pregnancy Disability Leave (applicable to employers with 5 or more employees and provides 4 months of protected leave that is in addition to CFRA's 12 weeks),1
+"Prior Legislation: AB 3199 (Klehs, 1988), SB 1583 (Watson, 1989)",1
+"Prior Legislation: AB 568 (Speier, 1992), AB 2621 (Bates, 1992), AB 1519 (Isenberg, 1993)",1
+"Prior Legislation: SB 14 (Presley, Statutes of 1982)",1
+Privacy (Figueroa),1
+Privacy (Simitian),1
+Proposition 24,1
+"Provided by Author -- oppose letters to AB 2378 (Margett, 1996)",1
+"Provided by Author -- support letters for AB 2378 (Margett, 1996)",1
+"1203.4, 1203.4a, or 1203.41 of the Penal Code or a comparable",1
+14018.2. (a) Reimbursement shall not be denied to any qualified health,1
+14019.4. (a) Any provider of health care services who obtains a label,1
+"14:39-49 [13] Lindsey, Pamela. Psychotropic Medication Use among Older Adults: What All Nurses Need to Know. Journal of Gerontol Nursing. Sep 2009",1
+In the section governing approval of potential substitutes,1
+1517 was placed on inactive file on the Senate Floor,1
+The author of AB 405,1
+19,1
+Clarify the definition of MH/SUD,1
+"Previous legislation . AB 2781 (Oropeza), Chapter 1171, Statutes of 2002 established a funding formula for revenue",1
+"2, 3, or 5 years in state prison",1
+2.6 million Cigarette and Tobacco Products Surtax Fund (Proposition 99),1
+In 1998,1
+On January 22,1
+2003-04 Budget also does not contain funding for this,1
+2003-04. Since students have already earned this,1
+"2004 and $667 million in 2005 and 2006 in federal funds, but",1
+2004 SB 6XXXX,1
+2004-05 and 2005-06 for 9th and 10th grade students who,1
+2006 and December 31,1
+Delay when some service providers can be provided a license. The Committee recommends that service providers that operated in the United States in the period between December 31,1
+It suggests that there needs to be a specified way to,1
+2007). [4] SB 1395 (Kopp,1
+"2008, all diesel sleeper cabs will also be subject to these idling limits",1
+He spent 1,1
+2010 date. Amendment 2 - Require corrective action where the 15 ppb action level is exceeded instead of requiring additional,1
+2010). [4] SB 1395 (Kopp,1
+Please see,1
+2011 not be provided a license until January 1,1
+"2011, would have expanded the Controller's oversight of local governmental agencies to those that expend less than $500,000 in",1
+"2011, would have required that, if an audit of a local",1
+"2012, would have expanded the Controller's",1
+"2013, more than 18,000 single shot handguns were purchase in California",1
+2016 amendments,1
+2016 hearing,1
+2016 letter,1
+2441 is on its face fatally flawed. Opponents,1
+For stale-dated warrant claims,1
+26 lists seven exceptions to what constitutes a local tax. These,1
+274,1
+"285 (de León) is also enacted. SB 285 would, beginning with the 2015-16",1
+"2911 (Nunez), currently in the Senate",1
+"2 ""Sales Tax Holidays: Politically Expedient but Poor Tax Policy"" Tax",1
+"2 2015-16 Budget: ""Capital Outlay Support Program Review"". LAO, May 14, 2014",1
+"2 ACLU and Human Rights Watch, Growing Up Locked Down: Youth in",1
+"134 of the 136 claims are for stale-dated warrants, ranging from $60 to",1
+"339 of the 343 claims are for stale-dated warrants (expired checks), ranging from $8 to $86,607. The 20 stale-dated warrant claims over",1
+A standard lock-out period to ensure that parents are dissuaded from,1
+"All 273 claims are all for stale-dated warrants (expired checks), ranging from $2 to $249,644. The 11 stale-dated warrant claims over",1
+"All 332 claims are for stale-dated warrants, ranging from $15 to",1
+Amendment. Staff recommends deleting the provisions allocating fine,1
+Amendment. The author will propose adding an urgency clause,1
+Background--Peace Officer Procedural Bill of Rights (POBAR). The FPBR,1
+Clarification Needed. The bill,1
+Current law provides entry of judgment may be deferred for defendants,1
+Current Law requires death row male inmates to be housed at San Quentin,1
+Eighteen claims account for 58% of the costs of this measure,1
+Fiscal. Current Medi-Cal practice is to grant treatment,1
+IRS Code. Section 401(a) (17) of the Internal Revenue Code limits the amount of annual compensation that can be taken into account under,1
+Is the bill needed? The opposition,1
+Nine claims account for 83% of the costs of this measure,1
+Open Enrollment Act and transportation. Under the No Child Left Behind,1
+Opponents express concern the bid preference will drive up energy costs,1
+"Opponents, a number of gun groups",1
+Overview of Wiretap Law. As noted in the Assembly Public Safety,1
+"Previous legislation. AB 1344 (Feuer and Alejo), Chapter 692, Statutes",1
+"3) Prior Legislation includes AB 2987 (Campbell, chaptered in",1
+"Prior legislation, AB 2019 (Steinberg), 2004, was similar to AB 2212, but considerably more expansive and prescriptive regarding the outcome",1
+Remove the definition of medical necessity,1
+"Scope of bill. Although the bill is intended to apply to all cities, it",1
+Six claims account for 83% of the costs of this measure,1
+Suggested Amendment. may wish to consider conforming this,1
+"Surplus state property. In 2004, voters approved Proposition 60A, a",1
+"TBL is an accounting framework that incorporates three dimensions of performance: social, environmental, and financial. The difference from",1
+Technical amendments are necessary to clarify drafting and correct,1
+"The 15 claims over $10,000 - from $10,000 to $393,810, account for 73",1
+the new provisions should be optional,1
+"The skincare industry. According to the Bureau of Labor Statistics, the employment of skincare professionals is expected to grow 25 percent",1
+There is no known opposition to this measure,1
+there is no proposed mechanism for the annual audits called for in the bill,1
+There is no registered opposition to this measure,1
+Amendments are needed to add disciplinary summaries to the IG website,1
+"Costs Outweigh Revenues . As shown above, the revenue generated",1
+IM funding . The 2003-04 proposed budget originally included a,1
+Negotiations . Physician and hospital associations are,1
+"Other States . Ten other states-Delaware, Florida, Georgia, Indiana, Louisiana, New York, North Carolina, Oregon, Texas, and Virginia-have enacted similar laws to restrict secrecy agreements",1
+Penalties . The penalties prescribed in the bill seem,1
+Policy considerations: The primary issue considered by the committee was whether community assets should be funded and maintained by new homeowners or by all homeowners,1
+"Previous Legislation . AB 1927 (Dymally) of 2004, would have",1
+"Previous Legislation . Last year, AB 2070 (Jackson), which was",1
+"Prior and Related Legislation . AB 1560 (Scott), chaptered in",1
+Raise the Fee or Change the Program . It is clear that,1
+The proposed amendments delete provisions of the bill related,1
+Two claims account for one-third of the costs,1
+"Urgency . This is an urgency bill, because the author is",1
+Amendments . Author's amendments address chaptering problems,1
+Opposition (prior version of the bill) . The earlier,1
+Opposition . Opponents,1
+"Opposition . Prior to the most recent amendments, the opposition stated that the bill was anti-competitve and would harm health care by increasing costs. They felt",1
+"Prior Legislation . SB 1910 (Greene) of 1994, and SB 761 (Greene) of 1995 created existing state law allowing employees",1
+"Should punishment depend on economic loss ? As noted in the Public Safety Committee analysis, inserting a dollar threshold",1
+"3.""Hepatitis A vaccine has not been evaluated for its",1
+30 days of the treatment being rendered? This would,1
+"300 million annually. Additionally, these changes are merely a patch",1
+Mr. Ross was convicted of premeditated attempted murder and assault with a firearm in 2006. In February 2012,1
+"35(9): 28-38 [14] Brooks JO, Hoblyn JC. Neurocognitive costs and benefits of psychotropic medications in older adults. Journal of Geriatric Psychiatry and Neurology. 2007",1
+"358 have a trial pending, and 717 have been",1
+367 and would exacerbate the current complex situation of these court,1
+38 AB 1525 (Longville),1
+388 creates additional rights for a witness officer that are not,1
+388 is unnecessary,1
+"3 ""The Effect of Sales Tax Holidays on Household Consumption Patterns",1
+3 15 CCR § 1354,1
+Authority for insurers to coordinate benefits between multiple policies,1
+Committee Questions. Current law,1
+Committee Suggestion. The author may want to consider defining,1
+"Current law, Government Code 3304(d), specifies that no punitive action",1
+"Current Legislation includes AB 215 (Murray), previously",1
+"Current Legislation includes: AB 745 (Kuykendall) and AB 1813 (Knight), which are also scheduled for hearing in this committee",1
+"Erroneous Conviction Claim, $305,900",1
+"Erroneous Conviction Claim, $305,900. Mario Rocha, pursuant to statute and the board's determination, met the statutory requirements for",1
+Erroneous Conviction Claims,1
+"Fiscal Estimates. Given the disputes regarding the magnitude of reimbursable costs under the existing POBAR mandate, the potential cost",1
+"Past Legislation: AB 935 (Koretz) of 2005-06, would have increased a",1
+Previous legislation. A number of related bills have been introduced in,1
+"Prior Legislation includes AB 2893 (Costa, 1994), which",1
+"Prior legislation, AB 1498 (De Leon), which was similar, but marginally",1
+"Prior Legislation, AB 2478 (Mendoza) was almost identical to AB 123, and was vetoed by Gov. Schwarzenegger, who stated, ""I",1
+"Related legislation, AB 1121 (Lieber), requires a court-ordered transfer",1
+Federal S-CHIP Funding . The federal State Childrens Health,1
+Governor's Veto. The 2000-01 State Budget approved by the Legislature included a General Fund appropriation of $1.4,1
+Policy Issue . While boards of supervisors do not possess,1
+"Previous Legislation . AB 232 (Chan), which failed on the Senate floor last year, was substantially similar to this",1
+Proposed Amendment . The author will propose as amendments in,1
+"Recent Amendment . The most recent amendment, as adopted by",1
+"Report Suspension . AB 79 (Dutra), Chapter 409, Statutes of 2004, allowed a public agency, until January 1, 2008, to not",1
+Approve at least a minimum percentage (to be determined for each city and county) of X,1
+Author's Amendment . The author will propose amendments in,1
+Author's Amendment . will propose amendments in,1
+Federal penalties for large robberies are significant under the Hobbs Act. The policy analysis includes a lengthy comment on,1
+Focus incentives on onewo business. The bill attempts to,1
+Opposition . No letters of opposition received by,1
+Opposition . None received by committee deadline,1
+Opposition . None submitted to the committee,1
+"Opposition . Opponents, which include health plans, write that the outcome of AB 2012 and the higher",1
+Opposition . The administration,1
+Opposition. Pari-mutuel clerks who accept wagers at tracks,1
+"Related Legislation . AB 271 (Villaraigosa), pending in the Committee, makes a number of changes to the IG, including enlarging and expanding the scope of the IG's duties",1
+"Related Legislation . SB 260 (Speier), signed into law last",1
+"Related legislation . SB 984 (Rosenthal), which passed",1
+The Attorney General is also involved in financial,1
+"This is not a ""Deemer"" provision . For the purpose of statutory interpretation, it should be understood that under",1
+"4.""Hepatitis A vaccine contains formaldehyde, a recognized",1
+4.CalWORKs Services Funding,1
+400 in January 2012 due to this increase,1
+4 15 CCR 1390,1
+"4 United States Department of Justice, Civil Rights Division. ""Myths and Facts about the Americans with Disabilities Act."" http://www.ada.gov/archive/mythfact.htm",1
+4The SGIP is administered by the CPUC and offers,1
+Amend the out-of-network services provisions,1
+conflicts with the Judicial Branch Contracting Manual,1
+5) Greater flexibility on age bands so that insurers can retain the use of two age bands for children (under one year of age and from one to,1
+Just one more penalty assessment or enough already? cites,1
+Legal issues. Legal precedent appears to draw a distinction between,1
+Policy Questions. The committee may wish to consider,1
+"Previous legislation. AB 10 (Alejo), 2011, would have increased the state's minimum wage from its current rate of $8.00 per hour to $8.50 per",1
+"Previous legislation. AB 165 (Lara), substantially similar to this",1
+"Previous Legislation. AB 2357 (Karnette), Chapter 1017, Statutes of 2002",1
+"Previous legislation. SB 436 (Kehoe), Chapter 590, Statutes of 2011",1
+"Prior Legislation includes AB 989 (Baca, 1993-94 session), which was held on the suspense file in the Assembly Ways and Means Committee",1
+"Prior legislation, SB 434 (Benoit, 2009), in addition to authorizing",1
+Proposed author's amendments change to Steinberg and add co- authors,1
+Recent reports by the Legislative Analyst's Office and the Institute for,1
+"Related legislation, AB 47 (Gatto), pending in the Senate, increases",1
+Relevant legislation. AB 1801 (Campos) limits the total amount of fees,1
+Remove provision that would disallow delegation to specialized MH care plans as unnecessary,1
+Siting issues present a significant problem to relocating death row,1
+The committee has received no formal notice of opposition,1
+The targeted cohort is not clear. The state no longer administers DJJ,1
+"Unpaid K-12 mandates. According to the Legislative Analyst's Office, the state owes approximately $3.4 billion in K-12 mandate costs for prior",1
+What is the Current Law? The legislative findings in the original,1
+Why a Freeze? The rational for enacting a four-year statutory freeze is,1
+Clarifying Amendment Needed . Staff recommends an amendment to,1
+Deadline for Placement on November Ballot . The Secretary of State's office indicates the deadline for legislative adoption,1
+"Previous legislation , SB 1429 (Denham), which was almost",1
+"Previous Legislation . SB 2 (Burton), Chapter 673, Statutes of 2003 would have expanded employment-based health care coverage",1
+"Prior legislation , AB 1340 (Honda, 2000) extended the 2001: sunset to January 2004",1
+"Proposition 63 , approved by voters in November 2004, enacted a",1
+Committee comments . The bill passed out of Senate Insurance,1
+"Current law defines robbery as stealing property, from the person or immediate presence of a person, by force or fear",1
+Related and Previous Legislation,1
+Related Legislation -- CEA Implementation bill. SB 1858 is,1
+Remaining Issue,1
+"SB 92 and SB 112: Prior to SB 92 being amended, both",1
+"Similar legislation , AB 2066 (Thomson) will soon be before the",1
+Similar legislation was held on the Senate Appropriations,1
+Suggested amendment,1
+"Technical amendments . Before coming to this Committee, AB 332 was heard in the Senate Business and Professions",1
+5.Arguments of supporters,1
+5.Not all counties in California have a high incidence of hepatitis A,1
+"50% overload. In a recent survey done by the CCC Chancellor's Office, 13",1
+or by both. (c) For the purposes of this chapter,1
+"500,000 per year",1
+536 [10] Los Angeles County Procedural Guide 0600-500.00,1
+Amendment needed. The author states the intent of the bill is a $50,1
+Current Level IV Facilities. The first six prisons listed house Level IV,1
+DBO's role. Opponents to SB 1235,1
+Existing law requires a school nurse to have the following: (a) Bachelor,1
+"Identical legislation, AB 520 (Ammiano), 2011, was amended to a",1
+Language allowing an insurer to retain their existing family tier,1
+"Measure lacks specificity. Unlike its predecessor bills, this measure",1
+New money? The generous tax benefit related to this tax credit could,1
+"Previous legislation. A substantially similar bill, SB 1398 (DeSaulnier) of 2010, died on the Senate floor, awaiting concurrence",1
+Remove provision that forces plans to coverage services that are provided by other responsible parties per existing laws,1
+"There is no registered opposition to the bill. However, LincolNEV, an",1
+Suggested amendments to exclude violent offenders and define,1
+6-10% drop in Medi-Cal enrollment,1
+Similar legislation . AB 1895 (Leach) is on the committee's,1
+"6/21/00, when extensive amendments were discussed. The committee",1
+61% of HSP projects funded a single practice with the majority of projects funding compost application. Between 2017 and 2020,1
+"636, 169, 767, 1399, 718, and 1621",1
+6 Id,1
+This is the fifth effort to codify a program of this nature,1
+"Suggested Amendments . Staff recommends that SB 1591, as proposed to be amended, be further amended to",1
+700.00 in compensation,1
+758.5. Should the mandate for the task force be expanded to,1
+"777, Riverside, Palm Desert, LA",1
+"791, which is on the Assembly Floor. Concerns by labor",1
+"7 ty/table"" \l ""fmt=323&loc=1774,2&tf=74&ch=136,135"" http://www.kidsdata.org/topic/64/special-needs-referrals- difficulty/table#fmt=323&loc=1774,2&tf=74&ch=136,135",1
+851.86 (SB 618),1
+"851.86 (SB 618, Statutes of 2013)",1
+A consortium of 60 environmental advocacy groups,1
+A consortium of environmental groups,1
+a diverse coalition of internet and media advocates,1
+A fact sheet for AB 554,1
+A few organizations are,1
+a framework for more open access to OB-GYNs,1
+a group,1
+A group of farmworker housing and tenant advocates writing,1
+a group whose mission is,1
+a half-dozen animal rights organizations,1
+"a hospital fee, but",1
+a host of stakeholders ranging from real estate interests to banks,1
+A judgment can also be delayed if the tenant,1
+a lack of infrastructure to support this requirement. AIMS,1
+a large coalition of agricultural and industrial organizations with operations in the Central Valley,1
+A large coalition of cannabis brands and licensees,1
+a large coalition of environmental,1
+A large coalition of environmental and ocean organizations,1
+A large coalition of health care providers and health and reproductive justice advocacy organizations,1
+a large coalition of local government agencies,1
+A large coalition of organizations,1
+A large coalition of organizations representing medical providers and medical facilities,1
+"A large coalition of supporters, comprised of environmental justice, environmental, labor, public health, community, and other organizations",1
+a large number of health advocacy groups,1
+A large number of health and consumer advocates,1
+a large number of homeless and consumer advocates,1
+A large number of labor,1
+a large number of mental health and disability rights advocates,1
+A large number of other labor groups,1
+A large number of wildlife and environmental organizations write,1
+a legal cause of action by a parent or community member,1
+a legal framework through which they can attract and,1
+"AB 1439 (Alejo), similar to this measure, was held on this committee's",1
+"AB 1853 (Simitian), 2003-04, similar to SB 514, was never heard on the",1
+"AB 2414 (Solorio), 2012, required the continuation of Cal-Yor and was",1
+"AB 2663 (PERSS Committee), Chapter 864, Statutes of 2012, allowed",1
+AB 667 has the potential to create significant delays in the local,1
+"a. SB 551 (Speier, Ch. 791 Statutes of 2003) enacted the anti",1
+"AB 1005, Page None",1
+"AB 1032, Page Companies",1
+"AB 1049, Page two bills",1
+"AB 12, Page Employees",1
+AB 1207 - Mazzoni Assembly votes,1
+AB 1240,1
+AB 145 - Vincent Council,1
+"AB 1455, Page None reported to the Committee",1
+AB 1502 - Brewer 41 - 36,1
+AB 1502 - Brewer Assembly votes,1
+"AB 1600 (Cortese, 1987)Chaptered",1
+AB 1744,1
+AB 1905 - Cunning Assembly votes,1
+AB 1XXXX i,1
+AB 200 in 1997,1
+AB 2033,1
+AB 2041 - Frusetta 57-12,1
+AB 2164,1
+"AB 2299, % Campaign",1
+AB 2302 - Woods Assembly votes,1
+"AB 2316, of",1
+AB 2435,1
+AB 2440 would,1
+AB 2509 will,1
+AB 2538 Page 3 department,1
+AB 2589 would help,1
+"AB 2692, Page None reported to the Committee",1
+AB 2712,1
+AB 2785,1
+AB 2939,1
+"AB 3084 (Quackenbush, 1994)Failed Passage, Assembly Judiciary",1
+"AB 3101, Page Employees",1
+AB 3117 - Brulte Mission Federal Credit Union,1
+AB 3229 - Brulte City of Modesto,1
+AB 3236 Page 4 DIR,1
+"AB 3271, the Chamber",1
+AB 34 X1 Sierra Club California,1
+AB 343 - Huff City of Berkeley,1
+"AB 393, Page Agents and Brokers Legislative Council",1
+AB 432,1
+"AB 458 o Ducheny Project CLEAN, City Heights",1
+AB 521 - Harvey,1
+AB 546 - Davis California Small Business Association,1
+AB 662,1
+"AB 943, Page None",1
+AB and Agriculture,1
+AB Unknown and Economic Balance,1
+above organizations,1
+Above support and opposition to previous version of bill,1
+absence,1
+ACA 14 (Gonzalez) will protect,1
+"Act of 2001 (NCLB), a school is identified for program improvement (PI)",1
+"ADRO SB 1973 (Wesson) Environmental, Inc",1
+All letters of support and opposition filed with the Committee,1
+"Also last year, the Senate passed SB 324 (Rosenthal), SB",1
+AMA Guides,1
+Amending existing law would,1
+Amending state law,1
+amending the bill to ensure that the language requirements in the bill,1
+AMENDMENT 2 A finding should be added that,1
+Amendment by author has removed all apparent opposition,1
+Amendment commercial-speech rights to identify and advertise,1
+Amendment needed: Only tritium gas is recoverable or recyclable,1
+amendment to allow such clinics to be eligible for loans,1
+"Amendment, and thus continues to oppose efforts to expand it",1
+"amendments and is now neutral. According to the author's office, it is anticipated that the following groups will also remove their",1
+"amendments consistent with the Insurance Code provisions, which prohibits",1
+amendments due to the consistent concerns expressed by their various,1
+amendments eliminate the association's opposition,1
+amendments on the following issues,1
+"amendments provide that a surviving spouse cannot be sued and held individually liable, thereby protecting her",1
+amendments remove all previous opposition,1
+amendments remove most of the opposition,1
+amendments removed opposition to the previous version,1
+amendments removing responsibility from the retail clerk make,1
+"amendments resulted from several meetings and exchanges of amendments between opponents, proponents and the author, and it",1
+amendments to require that written warning notice of improper,1
+Amendments to Section 1 of SB 159 (Wiener),1
+amendments to the bill adopted by the policy committee,1
+"Amendments, and the bill's impact on sourcing arrangements",1
+"amendments, in conjunction with new FDA regulations expected",1
+American College of Emergency AB 1764 (Maddox) Physicians,1
+American Federation of SB 1319 (Burton),1
+"American Federation of SB 937 (Aanestad) State, County, and Municipal Employees (AFSCME), AFL-CIO",1
+American None to date Research Bureau,1
+ANALYSIS REFLECTS AUTHOR'S AMENDMENTS TO BE TAKEN IN COMMITTEE,1
+ANALYSIS REFLECTS AUTHORS AMENDMENTS TO BE OFFERED IN COMMITTEE,1
+ANALYSIS REFLECTS AUTHORS AMENDMENTS TO BE OFFERED IN COMMITTEE (see Comment 3),1
+"analysis, dated",1
+"AB 1497 (Baldwin), approved by this committee on April 19, 1995. These bills, generally, would extend the probationary",1
+"reasonable attorney's fees and court costs. SEC. 8. Section 22503 of the Business and Professions Code is amended to read: 22503. (a) An ""artist"" means an actor rendering services on the stage",1
+the federal wrongful conviction rate,1
+the impact and determination of this hearing,1
+"the Judicial Branch through court orders stemming from ballot-related litigation-and that AB 1968 eliminates the Executive Branch from this process, which the AG",1
+the jury found true to special circumstances allegation that she tortured the victim. On September 18,1
+the representative on behalf of the 1937 Act County retirement systems also provide general statements,1
+the state must,1
+the state must ensure that we protect the quality of care for patients and,1
+the unemployed should be the focus of legislation in Sacramento - not individuals residing unlawfully in California,1
+the voters most impacted by a weakened perception of integrity are likely to be the very voters that RCV,1
+their,1
+there is considerable untapped opportunity for school districts to leverage Medi-Cal,1
+there is evidence,1
+there is no evidence that,1
+therefore to public safety...We urge that members of the Public Safety Committee,1
+these costs are also not state-reimbursable,1
+they strongly,1
+this determination had two audit adjustments that went against long-standing federal guidance by including quality incentive payments in its reconciliation in the amount of $24,1
+threatens our inherent right to create legitimate revenue streams,1
+ticket resale marketplaces shall,1
+ticket resale marketplaces shall be registered with the Secretary of State and be duly licensed,1
+timely care to these patients and connecting them to the appropriate resources,1
+to determine whether there are specific schools that need additional,1
+to fail to deliver within a reasonable time,1
+Any felony in which great bodily injury is inflicted or in which a gun is used,1
+any of the following: (a) Purchase tickets in excess of posted limits for an online event ticket sale. (b) Circumvent or disable an electronic queue,1
+Arguments in opposition The opposition,1
+As of previous version,1
+as of this writing,1
+"As of today, 18",1
+as required by subdivision (b),1
+Asian AB 2084 (Karnette) Pacific Women's Center,1
+Asian Americans for (Yee) and Equality,1
+ASMR,1
+Assembly Appropriations Committee,1
+Assembly Appropriations Committee analysis,1
+Assembly bill analysis dated March 31,1
+Assembly Floor Vote: (Not relevant to the bill before the Committee),1
+Assembly Floor Vote: Ayes 70 - Noes 1 (Prior to),1
+ASSEMBLY VOTES (9-0),1
+Association of SB 1254 (Schiff) California Life and Health Insurance Companies,1
+At least 26,1
+At least 32,1
+At least eight,1
+At least nine,1
+attorney shall give notice of the alleged violation or violations of this,1
+attorney's fees,1
+"attorney's fees. Lastly, they are concerned that there is no",1
+"attrition of medical staff, hospital employees, contracts with",1
+"audiologists are not trained in the diagnosis of hearing loss, and are not",1
+Auditor emphasized that existing law not only requires DOI,1
+Auditor General's Report on DOC--an alternative,1
+Auditor suggested that DOI either have the law amended or,1
+Auditor to establish a high-risk local government agency audit program to,1
+auditorium,1
+"auditors, they are rarely displayed in a way that allows",1
+"AB 1387 (Solorio), 2011, similar to AB 2414, cleared this committee's",1
+"AB 1751 (Ammiano), 2009-2010, would have deleted a prior juvenile",1
+"AB 232 (Hill and Fletcher), Chapter 90, Statutes of 2009, allowed",1
+AB 481 will hurt companies that are committed to doing business in California because it will jeopardize their ability to manage their solvency,1
+"ACA 10 (Feuer), 2008, created an exception to the 1% ad valorem",1
+baseball,1
+basketball,1
+Bill No.: SJR,1
+"binding pursuant to Penal Code Section 490(b) 86 (SB 618, Statutes of 2013)",1
+"Both SB 485 (Calderon), Chapter 518, Statutes of 2013 and AB 2312 (Nestande), Chapter 608, Statutes of 2014 placed new requirements on junk dealers and recyclers",1
+Briggs v. State (1979) 98 Cal.App.3d 190 (decided under former Pub. Res. Code Sec. 27424). 1.Enforcement by injunction a. The Commission's stated need The Commission,1
+Broad public,1
+CA (Kuehl) PageB,1
+"Cal.4th 1219, we",1
+calendar days' notification (SB 64),1
+California Agriculture Economic Facts,1
+California Coastal Com. v. Superior Court (1989) 210 Cal.App.3d 1488,1
+California District (Poochigian),1
+California District (Wiggins),1
+California Federation of SB 1752 - Poochigian Teachers,1
+California Labor Federation: GOVERNOR'S VETO MESSAGE,1
+California Youth Empowerment Juvenile Justice Fairness and Equity,1
+CANRA Task Force Report of 2004,1
+Cell: Disease Awareness,1
+Chapter 115,1
+"Chapter 427, Statutes of 2008, exempts the storage of freeze-dried",1
+"Chapter 451, Statutes of 2011, authorizes the State",1
+Chapter 5,1
+Chapter 50,1
+"Chapter 608, Statutes of 2004, subject",1
+"Chapter 692, Statutes of 2017 of California law",1
+"Chapter 7, Statutes of 2011 allocated $80 million GF/98 to school districts for annual K-12",1
+"Chapter 801, Statutes of 1991, requires tissue banks to",1
+"Chapter 929, Statutes of 2002, requires the Department",1
+"Chapter 936, Statutes of 1993, requires hospitals to",1
+Church of AB 849 (Leno) Christians of Seventh Day,1
+City of Beach Energy,1
+City of League of SB 15 (Polanco) California Cities,1
+City of Woodlake v. Logan (1991) 230 Cal.App.3d 1058. Santa Clara County Local Transportation Authority v. Guardino (1995) 11 Cal.4th 220,1
+Codes,1
+commentary,1
+Committee Suspense file,1
+Community Development Commission of SB 1659 (Poochigian) National City,1
+Community SB 1690 (Kopp),1
+Commuter AB 1408 (WOLK),1
+concert,1
+concert hall,1
+Constituent Sponsor,1
+cost-sharing requirements,1
+"COUNTY DISTRICT ENROLLMENT AS OF 10/96 12,028",1
+"COUNTY DISTRICT ENROLLMENT AS OF 10/96 8,119",1
+County of GOVERNOR'S VETO MESSAGE,1
+County of Los Angeles. AB 1098 - RN0121745,1
+County of Los Angeles: GOVERNOR'S VETO MESSAGE,1
+County of Other,1
+CP:nf/jk 1/28/98 Senate Floor Analyses,1
+Criminal Justice (amendments may address these concerns),1
+D E A D L I N E S ORIGINALLY CREATING PLAN'S REPAYING,1
+Director AB 2740 (Ackerman) OHS Modesto,1
+Disabilities Board: GOVERNOR'S VETO MESSAGE,1
+DPR Fund,1
+"$37,759 to Suzanne Schroeder to re-issue a state-dated payroll",1
+"A claimant filed a 1993 California tax return on March 15, 2007, with",1
+"AB 1790 (Goldberg), 2001-2002, would have amended three strikes to",1
+East (ESCUTIA),1
+"Employer-Employee Relations Act (SB 1036 (Senate Budget and Fiscal Review Committee), Chapter 45, Statutes of 2012) provides that upon",1
+"END - [1] Ensuring Safety, Well-Being and Permanency for Our Children. University",1
+END - [1] http://www.njisj.org/document/testimonyyouthdetention-9-16-05.pdf. (citations omitted.),1
+END - [1] Senate Judiciary Committee,1
+END -- . SUMM,1
+END -- [1],1
+"END -- [1] ""Early behavioral intervention is associated with normalized brain",1
+"END -- [1] ""The 2014-15 Budget: Capital Outlay Support Program Review"". LAO, May",1
+END -- [1] 2013 Integrated Energy Policy Report (http://www.energy.ca.gov/2013publications/CEC-100-2013-001/CEC-100-2013- 001-CMF.pdf),1
+"END -- [1] AB 1217 (Lowenthal) Chapter 790, Statutes of 2013",1
+"END -- [1] Airbnb, Rising Rent, and the Housing Crisis in Los Angeles, March 2015",1
+END -- [1] Centers for Disease Control and Prevention: Morbidity and Mortality,1
+END -- [1] http://ccld.ca.gov/res/pdf/countylist.pdf,1
+END -- [1] http://minorityhealth.hhs.gov/assets/pdf/checked/executive.pdf,1
+END -- [1] http://www.cicaihss.org/ihss-public-authority-history,1
+END -- [1] http://www.naccrau.com/Library/ViLitigation2014/Documents/complaint.pdf,1
+END -- [1] http://www.propublica.org/article/life-and-death-in-assisted-living,1
+END -- [1] http://www.propublica.org/article/life-and-death-in-assisted-living- single,1
+"END -- [1] In re Mille (2010) 182 Cal.App.4th 635, 650",1
+"END -- [1] Label, Marci, et. Al. ""Pregnancy-Specific Stress, Prenatal Health",1
+END -- [1] Legislative Analyst's Office (LAO). Maximizing State Benefits from,1
+"END -- [1] National Center for Lesbian Rights. ""LGBTQ Youth In The Foster Care",1
+"END -- [1] Sung, H. E., & Richter, L. (2006). Contextual barriers to successful",1
+END -- [1] The Constitution also permits these taxes to be spent on the construction and improvement of mass transit guideway systems,1
+END -- [1] Welfare and Institutions Code Section 361.5 (a),1
+END -- [1] WIC 300 et seq,1
+END -- [1] WIC 311 and WIC 313,1
+"END -- AB 1142 (Price) - Proposed Amendments - June 16, 2009",1
+"End-of-course World History, | | | | |grades 9-11 | | | | |ν | | | | |Science, grades 5, 8, and 10",1
+Environmental Fee,1
+event presenter,1
+example,1
+"Finally, AB 1933",1
+Firefighters | City |Pan|Organiza|Arbitrati| Is |Initial|Second|Public|Pois|Issues,1
+"First, Civil Code Section 1668",1
+FN: 0004987,1
+FN: 0005643,1
+"For example, SB 1421",1
+"For the listed opposition, see Comment 5 above",1
+"For the reasons stated above, I am unable to sign SB 508",1
+"For the reasons stated above, I am unable to sign this",1
+For these reasons I am unable,1
+formula,1
+Forty-five,1
+Forty-four,1
+future revenues,1
+"AB 2447 (Wright), of the 1999-2000, would have amended three strikes",1
+"For violations of martial law, from not less than 2: years, to 2, 3, or 4 years",1
+Geiger's rationale has since been expressly repudiated for federal purposes by the United,1
+"Geometry, | | | | |Algebra II, and Integrated | | | | |Mathematics 1, 2, and 3, grades 8-11",1
+"GOV 51182. (a) A person who owns, leases, controls, operates, or",1
+Gray AB 262 (Chan),1
+Health Care System,1
+Health Committee staff,1
+health insurance agents,1
+Health insurance trade groups,1
+health insurers,1
+"HEARD MARCH 30, 1995 IN SUBCOMMITTEE ON PRISON CONSTRUCTION AND OPERATIONS - SEE LAST COMMENT FOR RECOMMENDATION",1
+Held in Senate Judiciary,1
+held in the Assembly Appropriations Committee,1
+Herring fishermen,1
+"High| | | | |School Summative Mathematics, grades | | | | |9-11 | | | | |ν | | | | |History-Social Science, grades 8 and | | | | |11",1
+HIV: Women's AB 1982 (Knight) Page u Voices,1
+HIV: Women's AB 1982 (Knight) Voices,1
+I am returning Senate Bill No. 1137 without my signature,1
+I am returning Senate Bill No. 1176 without my signature,1
+I am returning Senate Bill No. 508 without my signature,1
+identification procedures,1
+identify,1
+images,1
+immigration groups,1
+IN COMMITTEE,1
+IN COMMITTEE. (SEE COMMENT 1),1
+in FY 2025-26 and ongoing,1
+in FY 2027-28 and ongoing,1
+"In his veto message, Governor Davis stated that AB 946",1
+in its,1
+in rare and extreme cases,1
+in rare cases,1
+in recent years,1
+in some cases,1
+In support,1
+Inc. (C.D. Cal. 1998) 5 F.Supp.2d 823,1
+Inc. v. Lemen (2007) 40 Cal.4th 1141,1
+inclusive,1
+incompetent. AB 1121 is pending on this committee's Suspense File,1
+incompetent. AB 1121 was held on this committee's Suspense File,1
+incorporated into SB 186,1
+Individual letters: GOVERNOR'S VETO MESSAGE,1
+Individuals with Disabilities Education Act (IDEA),1
+insurance (SB 64 & SB 81),1
+Investor owned utilities (IOUs),1
+"JERICHO (July 10, 2007)",1
+"July 1, 2008.: POSITIONS",1
+"July 22, 2014. [2] ""Carmakers Face Fresh China Import Threat,"" Financial Times",1
+"June 2010 [3] ""Do Some Enterprise Zones Create Jobs?"" by Jed Kolko and David Neumark. Journal of Policy Analysis and Entrepreneurship",1
+Kin Care (applicable to all employers and allows employees to use half of paid time off for family members' illnesses),1
+Legal Violence,1
+legislative session,1
+less,1
+line 21: after oserviceso insert oincidental to the operation of a youth campo and after obyo insert oeithero,1
+"line 23: after oCodeo insert oand serves youth 18 years of age or younger,o",1
+line 26: end the sentence after oyoungero and delete the remainder of the sentence,1
+Literature,1
+Loma Linda University Children's AB 3305 (Setencich) Hospital & Safe Kids,1
+Medical Services: GOVERNOR'S VETO MESSAGE,1
+Municipal Bonds,1
+no evidence,1
+No formal opposition on file,1
+"No known opposition as of June 9, 1997",1
+"No known opposition as of May 9, 1997",1
+No opposition has been filed for the version under consideration,1
+"No opposition received as of June 20, 1997, that addresses",1
+"No opposition received as of Wednesday, April 19, 1995",1
+"No opposition registered as of April 8, 2003",1
+"No opposition registered as of June 19, 1998",1
+No opposition relevant to the bill as proposed to,1
+No opposition reported on proposed amended,1
+No organizational support,1
+no position on Section 998 provisions,1
+"No registered opposition as of March 19, 1999",1
+No support relevant to the bill as proposed to be,1
+"No, 49",1
+No. 1,1
+"No. 49, Sacramento",1
+not,1
+note concerns,1
+NOTE: Opposition is to prior version of the bill. It is not,1
+"Note: Opposition positions were received prior to the billos latest amendments, which were substantial, and no",1
+"NOTE: Per the author's office, the list of opposition includes the Senate",1
+Note: Positions relate to the original form of the bill and no longer may be valid,1
+Note: Positions relate to the previous version of the bill and may no longer be valid,1
+"NOTE: SEE COMMENT 12 FOR RECOMMENDATIONS FROM THE MAY 4, 1995 HEARING OF THE SUBCOMMITTEE ON PRISON",1
+"NOTE: SEE COMMENT 8 FOR RECOMENDATIONS FROM THE MAY 4, 1995",1
+Note: Some letters of opposition received by the committee,1
+NOTE: Support and opposition arguments are included in the various points of the bill specified in the analysis,1
+NOTE: Support and Opposition is based on the previous,1
+NOTE: SUPPORT AND OPPOSITION WAS TAKEN FROM SB 128 (ACKERMAN),1
+"NOTE: The author's office states they have amended the bill to meet the objections of the opposition, but have not",1
+NOTE: The bill has been amended to narrow the section of the bill relating to plans' describing their economic,1
+NOTE: The committee has received no letters of support,1
+NOTE: The following groups were in support of the April,1
+NOTE: The following list of support and opposition is,1
+Note: The following support positions reflect the support,1
+Note: The opposition,1
+Note: The opposition is in the process of reevaluating,1
+NOTE: The opposition is reviewing the 5/18/95 amendments,1
+Note: The opposition listed below is based upon the bill as introduced,1
+Note: The positions shown here were received prior to the current amendments and may or may not be applicable to the latest version of the bill,1
+NOTE: These opposition letters reached before,1
+NOTE: THIS ANALYSIS REFLECTS AMENDMENTS AGREED TO IN THE SENATE JUDICIARY COMMITTEE THAT HAVE NOT YET BEEN PLACED IN THE BILL DUE TO TIME LIMITATIONS. THOSE AMENDMENTS ARE TO BE,1
+"NOTE: THIS ANALYSIS REFLECTS AMENDMENTS DISCUSSED AMONG THE SPONSOR, COMMITTEE STAFF, AND REPRESENTATIVES OF THE AUTHOR'S",1
+NOTE: THIS ANALYSIS REFLECTS AMENDMENTS TO BE OFFERED IN,1
+NOTE: THIS ANALYSIS REFLECTS AUTHOR'S AMENDMENTS TO BE OFFERED,1
+NOTE: THIS ANALYSIS REFLECTS PROPOSED AMENDMENTS TO BE,1
+NOTE: THIS ANALYSIS REFLECTS PROPOSED AUTHOR'S AMENDMENTS,1
+NOTE: Unable to verify support and opposition at time of this writing,1
+"NOTE: With the exceptions noted above, support and opposition not verified",1
+Numerous individual letters: GOVERNOR'S VETO MESSAGE,1
+Numerous individuals: GOVERNOR'S VETO MESSAGE,1

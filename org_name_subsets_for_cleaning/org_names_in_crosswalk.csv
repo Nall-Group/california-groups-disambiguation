@@ -219,13 +219,13 @@ Associated Builders and Contractors,1021
 Faculty Association of California Community Colleges,1020
 CALIFORNIA ASSOCIATION OF JOINT POWERS AUTHORITIES,1018
 COMMUNITY COLLEGE LEAGUE OF CALIFORNIA,1016
+Jericho,1009
 California Rifle and Pistol Association,1008
 City of Lakewood,1006
-Jericho,1004
 CALIFORNIA NEWSPAPER PUBLISHERS' ASSOCIATION,999
 Privacy Rights Clearinghouse,999
 HEALTH NET,997
-Inc,995
+Inc,997
 CALIFORNIA CHURCH IMPACT,991
 California Optometric Association,988
 ENGINEERING CONTRACTORS ASSOCIATION,986
@@ -1336,10 +1336,10 @@ Family Violence Appellate Project,216
 Monterey Bay Aquarium,216
 Prison Law Office,216
 Riverside County Board of Supervisors,216
+County of Placer,216
 California State University Office of the Chancellor,215
 Chamber of Progress,215
 City of Brea,215
-County of Placer,215
 ELK GROVE CHAMBER OF COMMERCE,215
 Law Center to Prevent gun Violence,215
 Milk Producers Council,215
@@ -1889,6 +1889,7 @@ Professional Fiduciary Association of California,147
 Vista Irrigation District,147
 Western Wood Preservers Institute,147
 Weave,147
+Criminal Justice,147
 AUTO CARE ASSOCIATION,146
 Asian Resources,146
 CALIFORNIA ALLIANCE FOR THE MENTALLY ILL,146
@@ -1897,7 +1898,6 @@ Cabrillo Economic Development Corporation,146
 California District Attorneys,146
 California Integrated Waste Management Board,146
 California Paint Council,146
-Criminal Justice,146
 Forests Forever,146
 Silicon Valley Youth Climate Action,146
 South Pasadena Residents for Responsible Growth,146
@@ -3249,6 +3249,7 @@ SOUTH BAY AFL-CIO LABOR COUNCIL,81
 San Pedro Chamber of Commerce,81
 Southwestern Community College District,81
 State Department of General Services,81
+Culver City,81
 Anaheim Police Officers Association,80
 Automotive Aftermarket Services,80
 Black Women Organized for Political Action,80
@@ -3260,7 +3261,6 @@ California Small Brewers Association,80
 City of Coachella,80
 City of Upland,80
 Clinica Sierra Vista,80
-Culver City,80
 Department of Pesticide Regulation,80
 Fresno County,80
 Insurance Companies,80
@@ -8574,6 +8574,7 @@ Mayor Darrell Steinberg,27
 California Association of Homes and Services for,27
 San Francisco Mayor Gavin Newsom,27
 West Hollywood,27
+Sacramento Bee,27
 "9to5 California, National Association of Working Women",26
 A Better Balance,26
 Aces Driving School,26
@@ -9092,7 +9093,6 @@ RePlanet,25
 Regional Parks Association,25
 SC WILDLANDS,25
 SF Bay Physicians for Social Responsibility,25
-Sacramento Bee,25
 San Benito County Board of Supervisors,25
 San Benito High School District,25
 San Bernardino Association of Governments,25
@@ -10726,6 +10726,7 @@ California Taxpayers,21
 "Mayor London Breed, City and County of San Francisco",21
 Coalition of California,21
 Officers in State Employment,21
+Palm Desert,21
 100 Black Men of Long Beach,20
 350 Contra Costa Action,20
 350.org,20
@@ -11015,7 +11016,6 @@ Pacific Islander Cancer Survivors Network,20
 Painters & Allied Trades District Council 36,20
 Painters and Allied Trades District Council 36,20
 Palisades Charter High School,20
-Palm Desert,20
 Paradise Recreation and Park District,20
 Parole and Correctional Association,20
 Peninsula Humane Society,20
@@ -13610,6 +13610,7 @@ California National Organization for,16
 CDC,16
 Food Allergy Research and Education,16
 "State Bar, Estate Planning, Trust and Probate Law Section",16
+Creative Card Congress,16
 1736 Family Crisis Center,15
 350 Sonoma,15
 A La Brava,15
@@ -13896,7 +13897,6 @@ County of Del Norte Board of Supervisors,15
 County of Imperial Board of Supervisors,15
 County of Orange Health Care Agency,15
 County of Tulare Board of Supervisors,15
-Creative Card Congress,15
 Crenshaw Chamber of Commerce,15
 Criminal Justice Legal Foundation,15
 Cruelty Free International,15
@@ -24250,6 +24250,8 @@ Mayor H. Manuel Ortiz,9
 Lieutenant Governor Cruz Bustamante,9
 MOL,9
 Warehouse Union,9
+California (un)Incorporated,9
+See Comment 6,9
 1 Bag At A Time,8
 "10,000 Degrees",8
 1000 Grandmothers for Future Generation,8
@@ -24691,7 +24693,6 @@ Calaveras County Health Department,8
 Calaveras Works and Human Services Agency,8
 "Calexico Community Action Council, Inc",8
 Calif. Legislative Conference of the Plumbing Heating and Piping Industry,8
-California (un)Incorporated,8
 California ACORN (Association of Community Organizations),8
 California Acceleration Project,8
 California Aerospace Alliance,8
@@ -30504,7 +30505,6 @@ Secretary of State (voter outreach provisions),7
 Secure Transportation,7
 Securities Industry and Financial Markets Association (SIFMA),7
 "Security on Campus, Inc",7
-See Comment 6,7
 Seeley Citizens United,7
 Self Help for Hard of Hearing People,7
 Semitropic School District,7
@@ -31276,6 +31276,8 @@ Alexander Neville Foundation,7
 Job Center Housing Coalition,7
 MCA,7
 Counties of Contra Costa,7
+Ascdinatd,7
+Sunset Extension for Board of Guide Dogs for the Blind,7
 10th AD Democrats,6
 13th Bomb Squadron Association,6
 180 Solar Power,6
@@ -36729,7 +36731,6 @@ Mayor Mark Lewis,6
 "Brad Sherman, Member of Congress",6
 Chief of Police John Crombach,6
 Community Personal Care Adventist Health,6
-Ascdinatd,6
 Development of Court Skills Elite,6
 JLL,6
 Linde,6
@@ -36754,6 +36755,7 @@ County of Ca,6
 Fernando Valley Chapter,6
 "Laborers International Union of North America, Local",6
 Alliance of California,6
+If When How,6
 "100 Black Men of Los Angeles, Inc",5
 "100 Black Men of the Bay Area, Inc",5
 100%pure,5
@@ -40457,7 +40459,6 @@ Ice Energy,5
 Icynene,5
 "Idun Pharmaceuticals, Inc",5
 Ie-Immigrant Youth Collective,5
-If When How,5
 "Ikids U Franchise, LLC",5
 Illinois ELA Viatical Services,5
 Illinois John Rowden Davis,5
@@ -43722,7 +43723,6 @@ Sunrise Assisted Living,5
 Sunrise Kern County,5
 Sunrise Orange County,5
 Sunseri Construction,5
-Sunset Extension for Board of Guide Dogs for the Blind,5
 Sunset Gardens,5
 Sunshine Haven Wildlife Rehabilitation,5
 Super Duper Microgreens,5
@@ -58680,6 +58680,9 @@ Coalition of Apparel Industries in,4
 Cast,4
 of Color Program,4
 Oakland Mayor Libby Shaaf,4
+Child Abuse and Neglect,4
+Landscape Architects Issues,4
+SafeSocial,4
 020 Squad Club,3
 "1 Bag at a Time, Inc",3
 1 Method,3
@@ -63595,7 +63598,6 @@ Child Abuse Forensic Institute,3
 Child Abuse Listening Interviewing Coordination (Calico) Center,3
 "Child Abuse Prevention Council of Sacramento, Inc",3
 "Child Abuse Prevention Councils of Butte, Contra Costa, and Tulare Counties",3
-Child Abuse and Neglect,3
 Child Advocates of El Dorado County,3
 Child Advocates of Santa Clara and San Mateo Counties,3
 Child Care,3
@@ -80539,6 +80541,8 @@ CRLC,3
 Oakland City,3
 of California Emergency Medical Services Administrators,3
 of Industrial Medicine and Surgery,3
+La Mirada,3
+Questions,3
 00 Inkjets.com,2
 00Inkjets.com,2
 1 Hundred Years Enterprises,2
@@ -99585,7 +99589,6 @@ La Mesa Community Services,2
 La Mesa Driving School - San Diego,2
 La Mesa Police,2
 La Mesa Renaissance Escrow,2
-La Mirada,2
 La Mirada Cardinal Escrow,2
 La Mode Verte Productions,2
 La Palma Police Department,2
@@ -99737,7 +99740,6 @@ Landmark Lettering,2
 "Landmark Real Estate Co., Inc",2
 Landpark Neighborhood Association,2
 Landscape Architects Association,2
-Landscape Architects Issues,2
 "Landscape Development, Inc. (LDI)",2
 Landscape and Irrigation Council,2
 Lane Regional Air Pollution Authority,2
@@ -106486,7 +106488,6 @@ Queer Straight Alliance at CSUS,2
 Quest Diagnostic Lab,2
 Quest Program,2
 Question,2
-Questions,2
 Quetzal Farm,2
 Quick Stop Traffic School,2
 Quicksilver Software,2
@@ -108086,7 +108087,6 @@ Safe Workplace Institute,2
 Safe4 Athletes,2
 Safe: Safety and Advocacy for Empowerment,2
 SafeParkingLA,2
-SafeSocial,2
 SafeWater Marin Alliance,2
 Safer Streets Los Angeles,2
 Safestway Driving,2
@@ -117769,6 +117769,14 @@ of Colored People (NAACP),2
 of Community Mental Health Agencies,2
 "Oakley, California Mayor Sue Higgins",2
 "Organization of Chinese Americans: East Bay Chapter, National, Sacramento Chapter, San Mateo County, Silicon Valley",2
+AD 13 San Francisco,2
+Additional Concerns,2
+"Handbook for the Protection of Women and Girls, First Edition (Jan)",2
+IHSS,2
+POLICY ISSUES AND QUESTIONS,2
+Policy Concerns,2
+Related Pending Legislation,2
+ShePersisted,2
 1 + 1 Senior Care,1
 1 Hour Appliance Repair,1
 1 Icon (Foothill Ranch),1
@@ -118294,7 +118302,6 @@ ACTS Law Firm,1
 ACWA (Association of California Water Agencies),1
 ACWA JPIA,1
 "ACX Pacific Northwest, Inc",1
-AD 13 San Francisco,1
 AD Industries,1
 "ADAPT, Northern California",1
 "ADAPT, Southern California",1
@@ -118894,7 +118901,6 @@ Addicks Engineering and Product Development Co,1
 Addict Evaluation Authority,1
 "Addiction Research & Treatment, Inc",1
 Addiction Treatment and Healing,1
-Additional Concerns,1
 Addus Health Care,1
 Adelante After School Program,1
 "Adelante, Inc",1
@@ -151078,7 +151084,6 @@ Hand in Hand Domestic Employers Network,1
 Hand in Hand-Domestic Employers Association,1
 Hand in Hand: Domestic Employers Association,1
 Hand in Hand: Domestic Workers and Employers Network,1
-"Handbook for the Protection of Women and Girls, First Edition (Jan)",1
 Hands On Inland Empire - Inland Empire United Way,1
 "Hands Plus Physical Therapy, Inc",1
 Hands Together - A Center for Children,1
@@ -153086,7 +153091,6 @@ IHI Power Generation,1
 "IHI Power Services Corp, Rio Bravo Rocklin",1
 IHOP Restaurants,1
 IHS Markit,1
-IHSS,1
 IHSS Advisory Committee,1
 IHSS Consortium of San Francisco,1
 IHSS Consumers Union,1
@@ -168260,7 +168264,6 @@ PNK Digger Cosmetics LLC,1
 PODER (People Organizing to Demand Environmental & Economic Rights),1
 POER,1
 POLICY ISSUES,1
-POLICY ISSUES AND QUESTIONS,1
 POM Wonderful,1
 "POMS and Associates Insurance Brokers, LLC",1
 POPS the Club,1
@@ -170581,7 +170584,6 @@ Policing Project at NYU School of Law,1
 Policy & Media Center Institute for Health Advocacy,1
 Policy Advocate,1
 Policy Coalition,1
-Policy Concerns,1
 Policy Council,1
 Policy Group,1
 Policy Initiative,1
@@ -172967,7 +172969,6 @@ Rekitt Benckiser,1
 Related 2011 Legislation,1
 Related Capital,1
 Related Capital Company - Irvine,1
-Related Pending Legislation,1
 Related bill . Alameda County,1
 "Relational Culture Institute, Fresno",1
 Relations Committee,1
@@ -178816,7 +178817,6 @@ Shaver,1
 Shaver Lake Volunteer Organization,1
 "Shaw, Segraves & Associates, Inc",1
 Shawco Insurance Associates,1
-ShePersisted,1
 Shea,1
 Shea Properties,1
 "Shecco America, Inc",1
@@ -195961,6 +195961,9 @@ of Pacific Coast University School of Law,1
 "Orange County Employees Association, seeks to extend these same due diligence protections to the trial courts",1
 Orange County Board of Supervisors - Supervisor Vincente Sarmiento,1
 "Orange County Employees Association, Service Employees",1
+"AB 458 o Ducheny Western Center on Law and Poverty, Inc",1
+"American Federation of State, County and AB 1670 (Assembly Judiciary Committee) Municipal Employees",1
+"Assembly Federation of State, County and Municipal Employees",1
 Amador County Environmental Service,0
 "California Transit, Inc.",0
 "ERIC GARCETTI, MAYOR OF LOS ANGELES",0
