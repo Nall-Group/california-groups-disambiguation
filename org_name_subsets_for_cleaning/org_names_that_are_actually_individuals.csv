@@ -39,13 +39,13 @@ Individual Letters: 1,31
 Senator Dianne Feinstein,29
 Mark Hite,28
 Individuals - 4,28
+United States Senator Dianne Feinstein,27
 San Diego Councilmember Donna Frye,26
-United States Senator Dianne Feinstein,26
 6 Private Citizens,25
+US Senator Dianne Feinstein,25
 Sacramento County Deputy,24
 Congressman Sam Farr,24
 2 Individual Letters,24
-US Senator Dianne Feinstein,24
 John Rozsa,24
 Office of Los Angeles County Supervisor Lindsey P. Horvath,24
 Congressman Mike Thompson,23
@@ -76,9 +76,9 @@ Councilmember Paul Koretz,17
 "Maxine Waters, Member of Congress",17
 Gayle Paul,17
 Los Angeles County Supervisor Mike Antonovich,17
+Various Individual Letters,17
 Assembly Member Allen,16
 Four Private Citizens,16
-Various Individual Letters,16
 Los Angeles County Supervisor Sheila Kuehl,16
 Senator Diane Feinstein,16
 Individuals - 3,16
@@ -238,12 +238,13 @@ Bishop,9
 "Nithya Raman, LA City Councilmember 4th District",9
 Chairman,9
 Chief of Police Peter Dunbar,9
+Valerie Pham,9
+Ventura County Supervisor John K. Flynn,9
 Chief of Police Blair Urling,8
 Councilmember Nancy J. Nadel of the City of Oakland,8
 Inge Tiegel-Doherty,8
 Senator Leonard,8
 Howard,8
-Valerie Pham,8
 135 Individuals,8
 46 Constituents,8
 20 Private Citizens,8
@@ -279,6 +280,7 @@ Joaquin,8
 City of San Diego Councilmember Raul Campillo,8
 Private Citizens,8
 Oakland City Councilman Danny Wan,8
+Two Individual Attorneys,8
 Carmen Chavez-Lopez,7
 "Congressman Charles Boustany, Jr",7
 Congressman Charlie Melancon,7
@@ -290,7 +292,6 @@ Professor Marci Hamilton,7
 San Jose City Councilmember Dave Cortese,7
 Senator Pavley,7
 Senator Wright,7
-Ventura County Supervisor John K. Flynn,7
 Joe Mauney,7
 Rick Hiseley,7
 Wesley Westmoreland,7
@@ -323,7 +324,6 @@ Solano County Supervisor Barbara Kondylis,7
 Supervisor Dave Cortese,7
 "Supervisor Nate Miley, Alameda County",7
 Supervisor Terra Lawson-Remer,7
-Two Individual Attorneys,7
 "Zach Hilton, Council Member",7
 8 Individual Letters,7
 City of Los Angeles Councilmember Nithya Raman,7
@@ -349,6 +349,8 @@ Former State Fire Marshal,7
 Chief of Police Edward Medrano,7
 Chief of Police Susan Jones,7
 "Chief of Police Phillip Green, Cities of Corte Madera/Larkspur",7
+U.S. Representative Maxine Waters,7
+United States Congressman Brad Sherman,7
 Chief of Police Anthony Batts,6
 Congresswoman Anna G. Eshoo,6
 Councilmember Ridley-Thomas,6
@@ -375,7 +377,6 @@ Senator Rogers,6
 "Supervisor Charles V. Smith, Orange County",6
 "Supervisor Gloria Molian, Los Angeles County",6
 Tiffany Franchetti,6
-U.S. Representative Maxine Waters,6
 "Will Rogers, Columnist -- Leader Newspapers",6
 Bustamante,6
 Huizar,6
@@ -463,7 +464,6 @@ Supervisor Warren Slocum,6
 "The Honorable Dianne Feinstein, United States Senator",6
 "Tim Stroshane, Housing Planner",6
 "Tygarjas Twyrls Bigstyck, Councilmember, Pacifica",6
-United States Congressman Brad Sherman,6
 "Vince Ferriole, Supervisor, Napa County",6
 "Xouhoa Bowen, Councilmember, San Leandro",6
 "Zein E Obagi Jr., Councilmember, Redondo Beach",6
@@ -490,6 +490,7 @@ Individuals - 7,6
 "City of San Jose, Councilmember Pam Foley",6
 John,6
 "County of El Dorado, Supervisor Frentzen",6
+"Valerie Stallings, San Diego City Councilmember",6
 "Adonay Kelete, Los Gatos",5
 "Alan Steinbach, MD, Ph.D., Associate Clinical Professor",5
 Assembly Member Feuer,5
@@ -561,7 +562,6 @@ Senator Sher,5
 "Sr. Teresa Doherty, R. S. C., Chaplain, Los Padrinos",5
 Tulare County Supervisor Dennis Townsend,5
 Tulare County Supervisor Larry Micari,5
-"Valerie Stallings, San Diego City Councilmember",5
 Vice President,5
 Blake,5
 Marilyn Gaines,5
@@ -709,6 +709,11 @@ County of Yuba Honorable Phillip L. Soto,5
 Los Angeles City Attorney and the Attorney General,5
 Kosa,5
 "Vincent Brady, Cathedral of the Blessed Sacrament",5
+U.S. Senator Barbara Boxer,5
+"United States Representative Nancy Pelosi, Democratic",5
+Ventura County Supervisor Carmen Ramirez,5
+Ventura County Supervisor Mikels,5
+United States Senator Barbara Boxer,5
 "Alan Lee, Member, Big Bear Lake City Council",4
 "Allan Favish, Attorney at Law",4
 "Andrew Pasmant, City Manager",4
@@ -908,10 +913,6 @@ Supervisor Yaroslavsky,4
 "Tony Cardenas, Los Angeles City Council",4
 Treva Reid- Oakland City Councilmember,4
 "Trustee Linda Handy, Peralta Community College District",4
-U.S. Senator Barbara Boxer,4
-"United States Representative Nancy Pelosi, Democratic",4
-Ventura County Supervisor Carmen Ramirez,4
-Ventura County Supervisor Mikels,4
 Vice Mayor Henry Chang,4
 "William Holt, Attorney",4
 "William Stiener, Supervisor IV, Orange",4
@@ -1093,6 +1094,13 @@ The Office of San Diego County Supervisor Terra Lawson-remer,4
 "Herb J. Wesson, Jr. Councilmember",4
 "Attorney General, State of New York, Eliot Spitzer",4
 "Chris Tellis, Harbormaster, Yellow Ferry Harbor",4
+U.S. Rep. Nanette Diaz Barragán,4
+U.S. Representative Alan Lowenthal,4
+U.S. Representative Juan Vargas,4
+U.S. Senator Diane Feinstein,4
+"United States Representative, Honorable Charles Boustany",4
+"United States Senator, Honorable Mary Landrieu",4
+Veronica Hamel,4
 12 Instructors of Cosmetology/Cosmetologists/Barbers,3
 19 Students of Cosmetology,3
 51st District of California Congresswoman Susan Davis,3
@@ -1546,15 +1554,8 @@ The Honorable Jerry Sanders,3
 "Tom Stallard, Woodland City Council Member",3
 "Tony Cardenas, Councilmember",3
 Tulare County Supervisor Ennis,3
-U.S. Rep. Nanette Diaz Barragán,3
-U.S. Representative Alan Lowenthal,3
-U.S. Representative Juan Vargas,3
-U.S. Senator Diane Feinstein,3
-"United States Representative, Honorable Charles Boustany",3
 United States Senator,3
-United States Senator Barbara Boxer,3
 United States Senator David Pryor,3
-"United States Senator, Honorable Mary Landrieu",3
 Vice Mayor Jack Shu,3
 Vice Mayor Jovanka Beckles,3
 West Valley Mayors/Managers,3
@@ -1609,7 +1610,6 @@ Steve Allen,3
 Steven Hill,3
 Susan Blakely,3
 Tom Cruise,3
-Veronica Hamel,3
 1013 Individuals,3
 108 Private Citizens,3
 140 Individuals,3
@@ -1729,6 +1729,29 @@ Reverend Johnson of Good Shepherd Homes,3
 "VFW, Past Commander, Robert Marr",3
 "VFW, Vice Commander, Robert S. Hockenhull",3
 "Vito Chiesa, Stanislaus County Supervisor, District 2",3
+U.S. Congressman Jim Costa,3
+U.S. Congressman Juan Vargas,3
+U.S. Congressman Ro Khanna,3
+U.S. Congressmember Gary G. Miller,3
+U.S. Representative Ted Lieu,3
+U.S. Senator Jackie Speier,3
+"U.S. Senator, the Honorable Diane Feinstein",3
+US Congressmember Anna Eshoo,3
+US Congressmember Barbara Lee,3
+US Congressmember George Miller,3
+US Congressmember Grace Napolitano,3
+US Congressmember Henry Waxman,3
+US Congressmember Lois Capps,3
+US Congressmember Lynn Woolsey,3
+US Congressmember Michael Honda,3
+US Congressmember Mike Thompson,3
+US Congressmember Sam Farr,3
+"United State Senator, Dianne Feinstein",3
+United States Congressman Ted W. Lieu,3
+United States Representative Duncan Hunter,3
+"United States Representative, Adam Schiff",3
+"Vallerie Chiappone, Individual",3
+Ventura County Supervisor Judy Mikels,3
 "1,825 Private Citizens",2
 141 Individuals,2
 15 Chiefs of Police,2
@@ -2732,31 +2755,8 @@ Tim Gunn,2
 "Todd Gloria, San Diego City Council Member",2
 Trisha Bridenstine,2
 "Trustee Rick Winet, La Mesa-Spring Valley School District",2
-U.S. Congressman Jim Costa,2
-U.S. Congressman Juan Vargas,2
-U.S. Congressman Ro Khanna,2
-U.S. Congressmember Gary G. Miller,2
-U.S. Representative Ted Lieu,2
 U.S. Senator Byron Dorgan (D-North Dakota),2
-U.S. Senator Jackie Speier,2
-"U.S. Senator, the Honorable Diane Feinstein",2
-US Congressmember Anna Eshoo,2
-US Congressmember Barbara Lee,2
-US Congressmember George Miller,2
-US Congressmember Grace Napolitano,2
-US Congressmember Henry Waxman,2
-US Congressmember Lois Capps,2
-US Congressmember Lynn Woolsey,2
-US Congressmember Michael Honda,2
-US Congressmember Mike Thompson,2
-US Congressmember Sam Farr,2
-"United State Senator, Dianne Feinstein",2
-United States Congressman Ted W. Lieu,2
 United States Congresswoman Maxine Waters,2
-United States Representative Duncan Hunter,2
-"United States Representative, Adam Schiff",2
-"Vallerie Chiappone, Individual",2
-Ventura County Supervisor Judy Mikels,2
 Vice Chairman of the San Diego County Veterans Advisory,2
 "Vice Mayor Barbara Coler, Town of Fairfax",2
 Vice Mayor Linda Maio,2
@@ -3360,6 +3360,43 @@ Sanger Swysen & Dunkle - Sarah Sanger,2
 Vanessa Quiroz-carter - Mayor Pro Tempore of Watsonville,2
 "Yolo County Assessor, Alan B. Flory",2
 "Henry Brodersen, Palo Alto Elks Lodge",2
+"Tyler Maxwell, Vice President, Fresno City Council",2
+Tyron Hampton - Pasadena City Councilmember,2
+"Tyron Hampton, Councilmember",2
+U.S. Congressman Brad Sherman,2
+U.S. Congressman Henry A. Waxman,2
+U.S. Congressman Howard Berman,2
+U.S. Congressman Howard L. Berman,2
+U.S. Congressmember Tony Cárdenas,2
+U.S. Congresswoman Ellen Tauscher,2
+"U.S. House of Representatives, Member of Congress, Alan Lowenthal",2
+"U.S. House of Representatives, Member of Congress, Jared Huffman",2
+"U.S. House of Representatives, Member of Congress, John Garamendi",2
+"U.S. House of Representatives, Member of Congress, Mark DeSaulnier",2
+"U.S. House of Representatives, Member of Congress, Michael Honda",2
+"U.S. House of Representatives, Member of Congress, Susan A. Davis",2
+"U.S. House of Representatives, Member of Congress, Ted Lieu",2
+U.S. Representative Grace Napolitano,2
+U.S. Representative Henry A. Waxman,2
+U.S. Representative Jackie Speier,2
+U.S. Representative Jared Huffman,2
+U.S. Representative Young Kim (CA-39),2
+"U.S. Representative Zoe Lofgren, 19th District, California",2
+"U.S. Senate, Senator, Dianne Feinstein",2
+"US Congressman, 5th District, John Garamendi",2
+United State Senator Barbara Boxer,2
+United States Congressmember Mark Takano,2
+United States Senator Boxer,2
+United States Senator Feinstein,2
+United States Senators Mary Landrieu and David Vitter,2
+"V. Manuel Perez, Supervisor",2
+"Valerie Stallings, San Diego City Council",2
+"Valerie Stallings, San Diego City Council Member",2
+Valley of the Moon Water District Board Member Jon L. Foreman,2
+Various Individual Court Reporters,2
+Ventura County Supervisors Peter Foy,2
+"Ventura County, Supervisor Foy",2
+Valerie Roach,2
 1 Constituent Letter,1
 1 Deputy Chief of Police,1
 1 Lab Manager,1
@@ -6839,47 +6876,11 @@ Twenty Individuals,1
 Twenty-Three Individuals,1
 Twenty-two Individuals,1
 Two Individual Veterans,1
-"Tyler Maxwell, Vice President, Fresno City Council",1
-Tyron Hampton - Pasadena City Councilmember,1
-"Tyron Hampton, Councilmember",1
-U.S. Congressman Brad Sherman,1
-U.S. Congressman Henry A. Waxman,1
-U.S. Congressman Howard Berman,1
-U.S. Congressman Howard L. Berman,1
-U.S. Congressmember Tony Cárdenas,1
-U.S. Congresswoman Ellen Tauscher,1
-"U.S. House of Representatives, Member of Congress, Alan Lowenthal",1
-"U.S. House of Representatives, Member of Congress, Jared Huffman",1
-"U.S. House of Representatives, Member of Congress, John Garamendi",1
-"U.S. House of Representatives, Member of Congress, Mark DeSaulnier",1
-"U.S. House of Representatives, Member of Congress, Michael Honda",1
-"U.S. House of Representatives, Member of Congress, Susan A. Davis",1
-"U.S. House of Representatives, Member of Congress, Ted Lieu",1
-U.S. Representative Grace Napolitano,1
-U.S. Representative Henry A. Waxman,1
-U.S. Representative Jackie Speier,1
-U.S. Representative Jared Huffman,1
 U.S. Representative Sam Farr,1
-U.S. Representative Young Kim (CA-39),1
-"U.S. Representative Zoe Lofgren, 19th District, California",1
-"U.S. Senate, Senator, Dianne Feinstein",1
 U.S. Senators Boxer and Feinstein,1
-"US Congressman, 5th District, John Garamendi",1
-United State Senator Barbara Boxer,1
-United States Congressmember Mark Takano,1
-United States Senator Boxer,1
 United States Senator Byron Dorgan (D-North Dakota),1
-United States Senator Feinstein,1
-United States Senators Mary Landrieu and David Vitter,1
-"V. Manuel Perez, Supervisor",1
 "Valdez, Vice Mayor of San Pablo",1
-"Valerie Stallings, San Diego City Council",1
-"Valerie Stallings, San Diego City Council Member",1
-Valley of the Moon Water District Board Member Jon L. Foreman,1
 Various Constituent Letters (Over 450),1
-Various Individual Court Reporters,1
-Ventura County Supervisors Peter Foy,1
-"Ventura County, Supervisor Foy",1
 "Vera Valdiviez, Vice Mayor of City of South El Monte",1
 "Vice Chair Soli Alpert, Berkeley",1
 "Vice Mayor Adrian Fine, City Of Palo Alto",1
@@ -7432,7 +7433,6 @@ Tom Lidot,1
 Tony Oliveira,1
 Tracy Moore,1
 Tracy Phillips,1
-Valerie Roach,1
 Vicki Carlson,1
 Warren Ristow,1
 Wayne Gretter,1
@@ -8504,6 +8504,20 @@ San Diego County Public Defender,1
 Valley Ball Cabaret,1
 Vanessa Czopek,1
 "W. Douglas Franks, Chief of Police",1
+two individual mobilehome owner,1
+Two individuals AB 1866 (Leno),1
+"Two mobilehome owners, Aptos and Santa Cruz",1
+Two private individuals (prior to June),1
+Two victims of adoption fraud,1
+"University of California, Los Angeles, Professor of Medicine",1
+University Surgery Center: Five individual doctors,1
+Ursula Davidson,1
+Valerie Lambertson,1
+"Valerie Lambertson, Member",1
+Various constituents and interested parties,1
+various CPA's,1
+VARIOUS ELECTED OFFICIALS FROM,1
+Various individuals also write,1
 "COUNCIL MEMBER JON WIZARD, CITY OF SEASIDE",0
 "ERIC GARCETTI, MAYOR, CITY OF LOS ANGELES",0
 "HONORABLE SALUD CARABAJAL, MEMBER OF U.S. CONGRESS",0

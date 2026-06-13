@@ -56,6 +56,7 @@ PODER,119
 Stockton,118
 Project,118
 Bureau,114
+Program,113
 Cities,112
 COMMITTEE,110
 Monterey,107
@@ -70,9 +71,9 @@ Opponents,97
 American Federation of,93
 Attorneys of California,92
 Engineers & Scientists of California,91
+Unknown,92
 League of,90
 Federation,90
-Program,113
 Long Beach,88
 Stand Up for,87
 Marin,86
@@ -81,7 +82,6 @@ of Commerce,85
 of,84
 Crime,83
 Valley,83
-Unknown,91
 Society,82
 California School,82
 Programs,80
@@ -577,6 +577,7 @@ Hope,13
 Page E,13
 Proponents,13
 Period,13
+X,13
 Agri,12
 Bay,12
 Boys and Girls Clubs,12
@@ -585,7 +586,6 @@ Campaign for,12
 Consulting,12
 Municipal,12
 Neighborhood,12
-X,13
 for Women,12
 of Police and Sheriffs,12
 of the bill,12
@@ -1107,6 +1107,7 @@ Annually,6
 Social,6
 Pax,6
 CPCA,6
+X X,6
 4.,5
 Actors and Others for,5
 Agricultural Council of,5
@@ -1213,7 +1214,6 @@ Werner,5
 Western Regional,5
 Wings,5
 Working Group,5
-X X,6
 aag,5
 for America,5
 for Consumer Protection,5
@@ -1608,6 +1608,7 @@ Resource,4
 Agrion,4
 MWA,4
 TULARE CITY ELEMENTARY,4
+Unknown as of,4
 29 AFL-CIO and CLC,3
 3,3
 ACLU and California Attorneys for,3
@@ -2157,6 +2158,7 @@ CNHH,3
 Women's Health,3
 WTS,3
 ZGF,3
+XI,3
 434-B,2
 5th District,2
 6,2
@@ -2931,7 +2933,6 @@ United Union of,2
 Universal,2
 University Professional and Technical Employees - Communication Workers of,2
 "University of California, San Francisco, Division of",2
-Unknown as of,4
 Upper,2
 VCA,2
 Ventura Council of,2
@@ -2985,7 +2986,6 @@ World Privacy,2
 Worldwide,2
 "Writing in to this bill, the California Chamber of",2
 "Writing in to this bill, the California Council for",2
-XI,3
 YA,2
 YWCA Santa,2
 YWCA of San,2
@@ -3454,6 +3454,10 @@ ACILC,2
 Governmental Relations,2
 VOR,2
 WSP,2
+U.S. 345,2
+X1,2
+Turkey,2
+Withdrawn,2
 Acacia,1
 $30,1
 104 Individual Letters from Representatives of,1
@@ -5814,7 +5818,6 @@ Tulare County Board,1
 Tulare County Superior,1
 Turbines,1
 Tuttle,1
-U.S. 345,2
 U.S. Chamber of,1
 "U.S. Department of Defense, Office of the Deputy Assistant Secretary of",1
 UCLP,1
@@ -5967,7 +5970,6 @@ Workforce Investment,1
 Worth,1
 Wounded,1
 "Writing in of AB 1586, Legal Services for Prisoners with",1
-X1,2
 YMCA of,1
 YWCA - MC,1
 YWCA Pasadena Foothill,1
@@ -6824,7 +6826,6 @@ Transmitted,1
 Transplantation,1
 Transporters,1
 Tulare/Kings,1
-Turkey,2
 Tyler,1
 Underwrithers,1
 Unions,1
@@ -6835,7 +6836,6 @@ Victoia,1
 Vineyards,1
 Voter,1
 Warehouses,1
-Withdrawn,2
 Donna E,1
 Gerald S,1
 Michael D,1
