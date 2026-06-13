@@ -154,6 +154,17 @@ RM:nl:d 9/9/13 Senate Floor Analyses
 RM:nl:ej 5/28/13 Senate Floor Analyses
 RM:nl:ej 9/11/13 Senate Floor Analyses
 Robert H. "Bob" Weatherwax Memorial Bridge
+Row
+Rowland (Solis) Page m District
+s. | nt | |Requi| on | ion | | ? | t to
+Sacramento (as amended April 6, 2006)
+Sacramento (as amended May 9, 2006)
+Sacramento (Sher)
+SACRAMENT|3 |SM & CS |Final |NO |within |within|after |NO |NONE
+SACRAMENT|3 |SM & CS |Final |NO |within |within|after |YES |NONE
+SALINAS |3 |SM & CS |Final |NO |within |within|after |NO |NONE
+Same as source
+Same as sponsors
 CP:cm/ctl/cm 5/19/98 Senate Floor Analyses
 CP:jk/ctl 1/26/98 Senate Floor Analyses
 Dependencies
