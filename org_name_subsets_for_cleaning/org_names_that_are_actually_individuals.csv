@@ -34,7 +34,7 @@ Councilmember Zach Hilton,35
 Jacqueline Kinney,35
 Five Private Citizens,34
 1 Individual Letter,34
-One Individual Letter,31
+One Individual Letter,32
 Individual Letters: 1,31
 Senator Dianne Feinstein,29
 Mark Hite,28
@@ -47,7 +47,7 @@ Congressman Sam Farr,24
 2 Individual Letters,24
 US Senator Dianne Feinstein,24
 John Rozsa,24
-Office of Los Angeles County Supervisor Lindsey P. Horvath,23
+Office of Los Angeles County Supervisor Lindsey P. Horvath,24
 Congressman Mike Thompson,23
 Secretary,23
 Kern County Supervisor Jeff Flores,22
@@ -149,6 +149,7 @@ Nurses,11
 Alameda County Supervisor Alice Lai-Bitker,11
 COUNTY OF SAN DIEGO THIRD DISTRICT SUPERVISOR TERRA LAWSON-REMER,11
 Mayor Norma Lopez-Reid,11
+Sacramento County Supervisor Sue Frost,11
 "Judge James R. Brandlin, Los Angeles Superior Court",10
 San Diego Councilmember Sherri Lightner,10
 Senator Kehoe,10
@@ -160,7 +161,6 @@ Carmel-by-the-Sea Councilmember Barbara Livingston,10
 "City of San Jose, Councilmember Omar Torres",10
 Councilmember Mike Bonin,10
 Individual Letters: 24,10
-Sacramento County Supervisor Sue Frost,10
 San Diego County Supervisor Bill Horn,10
 San Diego County Supervisor Joel Anderson's Office,10
 San Mateo County Supervisor Rose Jacobs Gibson,10
@@ -180,6 +180,7 @@ Private Citizen (1),10
 Bradbury,10
 Mayor Pro Tem,10
 "City Council Member Brian Calhoun, Ph.D - Fresno",10
+Several Individual Veterinarians,10
 Brian Hatch,9
 City Council Member Anne M. Bayer - Downey,9
 City Council Member Clem Lee - Stockton,9
@@ -277,6 +278,8 @@ Matthew Edling,8
 Joaquin,8
 "Matthew Solomon, Councilmember - Emeryville",8
 City of San Diego Councilmember Raul Campillo,8
+Private Citizens,8
+Oakland City Councilman Danny Wan,8
 Carmen Chavez-Lopez,7
 "Congressman Charles Boustany, Jr",7
 Congressman Charlie Melancon,7
@@ -284,12 +287,10 @@ Fresno City Councilmember Henry T. Perea,7
 Gary Miller,7
 Los Angeles City Councilmember Ed Reyes,7
 Los Angeles Councilmember Bernard Parks,7
-Private Citizens,7
 Professor Marci Hamilton,7
 San Jose City Councilmember Dave Cortese,7
 Senator Pavley,7
 Senator Wright,7
-Several Individual Veterinarians,7
 Ventura County Supervisor John K. Flynn,7
 Joe Mauney,7
 Rick Hiseley,7
@@ -317,7 +318,6 @@ Los Angeles City Councilman Ed P. Reyes,7
 Los Angeles City Councilman Eric Garcetti,7
 "Los Angeles Councilmember Paul Koretz, 5th District",7
 Los Angeles County Supervisor Yvonne Burke,7
-Oakland City Councilman Danny Wan,7
 San Diego City Councilmember Todd Gloria,7
 Senator Barbara Boxer,7
 Solano County Supervisor Barbara Kondylis,7
@@ -1078,6 +1078,18 @@ Bruno,4
 County of Tulare Supervisor Dennis Townsend,4
 Port of San Francisco and San Francisco Mayor Mark E,4
 "County of Contra Costa, Supervisor John Gioia",4
+Numerous County Psychological Associations,4
+Sacramento City Councilmember Heather Fargo,4
+Senator George Runner (ret.),4
+Several Winnemem Wintu Tribal Members,4
+"Supervisor Carmen Ramirez, Ventura County",4
+"Supervisor Miguel Villapudua, San Joaquin County",4
+Peter A,4
+Senator,4
+O'Connell,4
+"Presiding Judge, Superior Court",4
+"Sheriffs of Sacramento County, San Diego County, Marin, San",4
+"Superior Court, Presiding Judge",4
 12 Instructors of Cosmetology/Cosmetologists/Barbers,3
 19 Students of Cosmetology,3
 51st District of California Congresswoman Susan Davis,3
@@ -1441,7 +1453,6 @@ National City Councilmember Richard Ramos,3
 New York Attorney General Andrew Cuomo,3
 "Nithya Raman, Member, Los Angeles City Council",3
 "Norman Tabachnick, M.D",3
-Numerous County Psychological Associations,3
 Numerous Donor Family Members,3
 Numerous Letters from Educational Technology Directors,3
 "Numerous Physicians, and Physician Assistants (approximately 1200)",3
@@ -1458,7 +1469,6 @@ Park Overall,3
 "Patricia I. O'Reilly, Individual",3
 "Paul Koretz, Los Angeles City Council, 5th District",3
 Perris Councilmember A.B. Torres,3
-Peter A,3
 "Peter Weiner, Esq",3
 Private Individual (1),3
 Professor Michelle Wilde Anderson,3
@@ -1472,7 +1482,6 @@ Retired Persons,3
 Rohnert Park City Council Member Jake Mackenzie,3
 Ryan Coonerty,3
 "S. Joseph Simitian, Supervisor, Santa Clara County",3
-Sacramento City Councilmember Heather Fargo,3
 Sacramento Councilmember Jimmie R. Yee,3
 Sacramento County Supervisor Illa Collin,3
 "Salud Carbajal, Santa Barbara County Board of Supervisors",3
@@ -1495,14 +1504,12 @@ Santa Barbara County Supervisor Salud Carbajal,3
 Santa Monica City Councilmember Kevin McKeown,3
 Sara Karloff,3
 Sausalito City Councilmember Jill Hoffman,3
-Senator,3
 Senator Bill Morrow,3
 Senator Cannella,3
 Senator Cogdill,3
 Senator Corbett,3
 Senator Correa,3
 Senator Ducheny,3
-Senator George Runner (ret.),3
 Senator Greene,3
 Senator Hughes,3
 Senator Johnston,3
@@ -1511,14 +1518,12 @@ Senator Lockyer,3
 Senator Roberti,3
 Senator Wiggins,3
 Several Individual Certified Public Accountants,3
-Several Winnemem Wintu Tribal Members,3
 Sheriff Sherman,3
 Sonoma County Board of Supervisor Mike Kerns,3
 State Treasurer Kathleen Brown. Association of California Water Agencies,3
 Supervisor Bill Horn,3
 Supervisor Blanca Alvarado,3
 Supervisor Brett Frazier,3
-"Supervisor Carmen Ramirez, Ventura County",3
 Supervisor Chuck Winn,3
 "Supervisor Curt Josiassen, Butte County",3
 "Supervisor Das Williams, Santa Barbara County",3
@@ -1532,7 +1537,6 @@ Supervisor Juan Arambula,3
 Supervisor Melissa Hurtado,3
 Supervisor Michael D. Antonovich,3
 Supervisor Miguel A. Villapudua,3
-"Supervisor Miguel Villapudua, San Joaquin County",3
 Supervisor Robert Rickman,3
 Supervisor Ron Roberts,3
 Supervisor Sal Quintero,3
@@ -1715,6 +1719,18 @@ Consumer Attorneys of CaliforniaAttorney General Dan Lungren,3
 "County of San Diego, San Diego County Assessor Ernest Dronenburg, Board of Equalization Member Michelle Steele",3
 County of Villa Park Councilmember Robert Pitts,3
 Fresno County Supervisor Henry Fresno Metro Ministry,3
+Hon. Richard Iglehart,3
+Koretz,3
+"Rebecca Saltzman - Councilmember, El Cerrito",3
+SAN MATEO COUNTY SUPERVISOR DAVID J. CANEPA,3
+Santa Barbara County Supervisor Joan Hartmann,3
+Six Individuals with Resurrection Theatre Company,3
+"The Honorable Dianne Feinstein, US Senator",3
+Patrick,3
+Representative,3
+"Professor Thomas Murray, Former Chair, Task Force on",3
+"Sheriffs of Imperial County, San Bernardino County, Calaveras County",3
+"Sheriffs of Kings, Placer, and San Bernardino Counties",3
 "1,825 Private Citizens",2
 141 Individuals,2
 15 Chiefs of Police,2
@@ -2235,7 +2251,6 @@ Hon. Allen Hymer,2
 Hon. Quentin L,2
 "Hon. Quentin L. Kopp, Judge of the Superior Court (Retired)",2
 "Hon. Read Ambler, Judge of the Superior Court, Santa Clara",2
-Hon. Richard Iglehart,3
 "Hon. Robert C. Coates, San Diego",2
 "Hon. Rolleen K. McIrwrath, Judge of the San",2
 "Hon. Ron Packard, Member of Congress",2
@@ -2367,7 +2382,6 @@ Kern County Supervisor Ken Peterson,2
 Kern County Tax Collector Jordan Kaufman,2
 Kolender,2
 "Kopp, Judge of the San Mateo County Superior",2
-Koretz,3
 L. James Lea,2
 L.A. County Supervisor Mark Ridley-Thomas,2
 "LOS ANGELES CITY COUNCIL MEMBER, MITCH O'FARRELL",2
@@ -2539,7 +2553,6 @@ Orange County Supervisor Lisa Bartlett,2
 Pastor Bob Jackson,2
 "Patricia & Donald Wills, Placerville",2
 "Patricia C. Bates, Orange County Board of Supervisors",2
-Patrick,2
 "Patrick J. Morris, Mayor",2
 Patrick Johnston (former State Senator),2
 "Pete McHugh, Santa Clara County Supervisor",2
@@ -2562,9 +2575,7 @@ Prof. William Sullivan of Humboldt State University,2
 Professor Eugene,2
 Professor Melvin Eisenberg,2
 "Professor Richard Zirtrin, Lecturer in Law",2
-"Rebecca Saltzman - Councilmember, El Cerrito",2
 Rep. Barbara Lee,2
-Representative,2
 "Representative Barbara Lee, Member of Congress",2
 Representative Bilbray,2
 Representative Buck McKeon,2
@@ -2586,7 +2597,6 @@ Riverside County Supervisor Marion Ashley,2
 "Ronald Wiksell, Esq",2
 Russell Gibbon (Individual),2
 "Ryan Coonerty, Third District Supervisor, Santa Cruz County Board of Supervisors",2
-SAN MATEO COUNTY SUPERVISOR DAVID J. CANEPA,2
 SIGNATURES FROM INDIVIDUAL,2
 "Sacramento City Council Member Dave Jones, District 6",2
 "Sacramento County Board Supervisor, Don Nottoli - District 5",2
@@ -2624,7 +2634,6 @@ San Mateo Supervisor Rich Gordon,2
 San Rafael City Councilman Damon,2
 "Sandi Flores, RN",2
 Santa Ana City Councilwoman Michele Martinez,2
-Santa Barbara County Supervisor Joan Hartmann,2
 Santa Clara City Councilmember Kevin Moore,2
 Santa Clara City Councilmember Will Kennedy,2
 "Santa Clara County Supervisor Jim Beall, Jr",2
@@ -2662,7 +2671,6 @@ Senator Steve Peace,2
 Shasta County California District Attorneys Association California Union of Safety Employees California State Sheriffso Association Individuals,2
 Sheriff Gary Penrod of San Bernardino,2
 Sheriff Robert Doyle,2
-Six Individuals with Resurrection Theatre Company,2
 Solano County Second District Supervisor Linda J. Seifert,2
 Sonya Winchell,2
 Speaker Nunez and Senator Lowenthal,2
@@ -2718,7 +2726,6 @@ Supervisor Timothy J. Staffel,2
 "The Hon. Roger G. Bunch, Mayor",2
 "The Honorable Bill Dennison, Plumas County Supervisor",2
 The Honorable Diane Harkey,2
-"The Honorable Dianne Feinstein, US Senator",2
 "The Honorable Gregorio Gomez, Councilmember",2
 "The Honorable Howard P. ""Buck"" McKeon, Member of Congress",2
 "The Honorable Jim DeMartini, Supervisor, District Five, County of",2
@@ -3301,6 +3308,47 @@ Governor Wilson and Secretary Bergeson,2
 "Mayor Willie L. Brown and City Treasurer Susan Leal, San Francisco",2
 Office of the Mayor of the City of Bakersfield/ The Bakersfield City Council,2
 April,2
+"Ellen R. Peck, Esq",2
+Mayor Larry Brown,2
+REDWOOD CITY VICE MAYOR SHELLY MASUR,2
+ROHNERT PARK VICE MAYOR JACK MACKENZIE,2
+SAN JOAQUIN COUNTY SUPERVISOR MIGUEL VILLAPUDUA,2
+SAN MATEO COUNTY SUPERVISOR DAVID CANEPA,2
+"SUPERVISOR ZACH FRIEND, SANTA CRUZ COUNTY",2
+Thomas Lanni,2
+R. Brian Kramer (co-counsel for Real Party in Interest in In re Terrell R. ),2
+"Pedro Peninsula, Santa Clarita, Santa Fe Springs, Santa",2
+"Pedro Peninsula, Santa Clarita, Santa Fe Springs, Santa Maria",2
+"Sacramento County Sheriff, Santa Barbara",2
+"Sacramento County Sheriff, Santa Barbara County",2
+San Bernardino County Auditor-Controller/Treasurer/Tax Collector Oscar Valdez Tehama County Auditor-Controller LeRoy M. Anderson,2
+"San Bernardino County Supervisor James C. Ramos, San Luis Obispo Coastkeeper",2
+San Francisco District Attorney's Office & California District,2
+"San Francisco Mayor London Breed, San Francisco Treasurer and Tax Collector Jose Cisneros",2
+Secretary of State Attorney General,2
+Secretary of State Debra Bowen Steven J. Ybarra. Chair,2
+"State Controller Steve Westly, California School",2
+State Controller and Cal-Tax,2
+"State Treasurer Fiona Ma, California League of Conservation Voters",2
+Supervisor from Tulare County,2
+Oberhelman,2
+Presiding Judge,2
+Presiding Judge Gary Klausner,2
+Riverside County Supervisors Mullen,2
+"Ronald O. Davies, D.D.S./Anesthesiology for",2
+Ruthie,2
+San Luis Obispo County Supervisors Bruce Gibson and Adam Hill,2
+Seven Presidents and/or CEOs of Hospitals,2
+Sheriffs for the Counties of Kern,2
+"Sheriffs of Imperial, Marin, Riverside, and San Luis Obispo",2
+"Sheriffs of Los Angeles, Riverside, and Siskiyou Counties",2
+"Shira Rutman, Research Coordinator, UCSF Center for",2
+Sonoma County G.W. Peterson,2
+"Supervisor, Fourth District, County",2
+"Supervisor, Jon McQuiston, Kern Co. First District",2
+"Supervisor, Kings County",2
+"Supervisor, Mendocino County",2
+"Supervisor, Steve A. Perez, Kern County, Second District",2
 1 Constituent Letter,1
 1 Deputy Chief of Police,1
 1 Lab Manager,1
@@ -4842,7 +4890,6 @@ Ellen Franzen,1
 "Ellen Leng, Medical Doctor",1
 Ellen Marks,1
 "Ellen Pao, Partner, Kleiner Perkins Caufield & Byers",1
-"Ellen R. Peck, Esq",2
 "Ellen Sandwick, Homeowner, Le Parc Community Association",1
 "Elliott Fong, Tehachapi",1
 Elliott Perkins,1
@@ -5938,7 +5985,6 @@ Mayor Helen M. Allen,1
 Mayor Janet Abelson,1
 Mayor Jeffrey Cooper City of Martinez,1
 Mayor Jim Patterson of,1
-Mayor Larry Brown,1
 Mayor Pro Tem Charles England (Cathedral City),1
 Mayor Pro Tem Fred Minagar,1
 "Mayor Pro Tem Gabriel Quinto, El Cerrito",1
@@ -6247,8 +6293,6 @@ Patrick McCormick,1
 "Paul Long, Board Member, Western Placer Unified School District",1
 "Paul, Council of L.A",1
 "Paul, Council of Los Angeles",1
-"Pedro Peninsula, Santa Clarita, Santa Fe Springs, Santa",1
-"Pedro Peninsula, Santa Clarita, Santa Fe Springs, Santa Maria",1
 "Peggy Huang, Mayor",1
 Perry Benson,1
 "Pete Chacon, Placerville",1
@@ -6294,8 +6338,6 @@ Professor at UCSF Jeffrey O. Bush,1
 "Professor of Medicine, (UCSF)",1
 "Prospect Medical Group, Culver City (Jacob Y. Terner, MD)",1
 "Public Library Board of Trustees, Gary Knight, President",1
-REDWOOD CITY VICE MAYOR SHELLY MASUR,1
-ROHNERT PARK VICE MAYOR JACK MACKENZIE,1
 Rachel Bradley,1
 Ralph Cavanagh,1
 Ralph Inzunza,1
@@ -6343,10 +6385,7 @@ Ruscal Cayangyang - Individual,1
 "S. Joseph Simitian, Senator (ret.)",1
 "S. R. Albertson, La Mesa",1
 "S. Stiven, U.S. Magistrate Judge (retired)",1
-SAN JOAQUIN COUNTY SUPERVISOR MIGUEL VILLAPUDUA,1
-SAN MATEO COUNTY SUPERVISOR DAVID CANEPA,1
 SENATE RULES COMMITTEE: Sandy Kenyon/(916) 323-8897,1
-"SUPERVISOR ZACH FRIEND, SANTA CRUZ COUNTY",1
 Sabine Dherbecourt,1
 "Sabrina Brennan, Member, San Mateo Harbor Commission",1
 Sacramento City Council Member Deborah Ortiz,1
@@ -6358,8 +6397,6 @@ Sacramento City Councilmember Karina Talamantes,1
 Sacramento City Councilwoman Lauren R. Hammond,1
 Sacramento Councilmember Steve Cohn,1
 Sacramento County Fred Keeley,1
-"Sacramento County Sheriff, Santa Barbara",1
-"Sacramento County Sheriff, Santa Barbara County",1
 "Sacramento County Supervisor Sue Frost, District 4",1
 "Sacramento County Supervisors Illa Collin and Roger Dickinson, Sacramento City Councilmember Steve Cohn, Orange County LAFCO",1
 Sacramento Mayor Joe,1
@@ -6376,9 +6413,7 @@ Samuels,1
 San Anselmo City Councilmember Ford Greene,1
 "San Benito County Clerk, Auditor, Recorder and Registrar of Voters Joe Gonzales",1
 San Bernardino City Councilmen Jerry Devlin and David Oberhelman,1
-San Bernardino County Auditor-Controller/Treasurer/Tax Collector Oscar Valdez Tehama County Auditor-Controller LeRoy M. Anderson,1
 San Bernardino County Supervisor Curt Hagman,1
-"San Bernardino County Supervisor James C. Ramos, San Luis Obispo Coastkeeper",1
 San Bernardino County Supervisor Larry Walker,1
 San Diego City Council Member David Alvarez,1
 "San Diego City Councilmember Byron Wear, 2nd District",1
@@ -6399,9 +6434,7 @@ San Francisco County Supervisor Danny Sauter,1
 San Francisco County Supervisor Matt Dorsey,1
 San Francisco County Supervisor Myrna Melgar,1
 San Francisco District Attorney's,1
-San Francisco District Attorney's Office & California District,1
 "San Francisco District Attorney, Victim Witness Assistance",1
-"San Francisco Mayor London Breed, San Francisco Treasurer and Tax Collector Jose Cisneros",1
 San Francisco Mayor's Criminal Justice,1
 San Francisco Supervisor Jon Avalos,1
 San Francisco Supervisor Scott Wiener,1
@@ -6438,8 +6471,6 @@ Seaside Councilmember Jon Wizard,1
 Sebastiano Scarampi (private individual),1
 Second District Honorable Michael Van Winkle,1
 "Second Graders in Aptos, California",1
-Secretary of State Attorney General,1
-Secretary of State Debra Bowen Steven J. Ybarra. Chair,1
 "Secretary of State Debra Bowen, ""There is",1
 Selma Councilmember Jim Avalos,1
 "Sen. Loni Hancock, California Ninth Senate District",1
@@ -6546,14 +6577,11 @@ Sr. Teresa Doherty,1
 Stanislaus County Supervisor Channce A. Condit,1
 "State Attorney General, Honorable Bill Lockyer",1
 "State Chair, Assemblyman Howard Kaloogian and 45",1
-"State Controller Steve Westly, California School",1
-State Controller and Cal-Tax,1
 State Park Peace Officer Hon. Don Horsley,1
 "State Representative Daniel P. Brady, Illinois",1
 State Senator John F. Foran (Ret),1
 State Senator Nick Petris (retired),1
 State Senator Quentin Kopp (Ret),1
-"State Treasurer Fiona Ma, California League of Conservation Voters",1
 State Treasurer Phil,1
 State Treasurer Phil Angelides California,1
 Stephen Hall (individual),1
@@ -6726,7 +6754,6 @@ Supervisor Thomas Wilson,1
 "Supervisor Vicente Sarmiento, Orange County District 2",1
 "Supervisor Vito Chiesa, Stanislaus County, District 2",1
 "Supervisor Wendy Otto, Trinity County Board of Supervisors",1
-Supervisor from Tulare County,1
 "Supervisor of Contra Costa County, John Gioia",1
 "Susan Bonilla, Assemblywoman, Eleventh Assembly District",1
 Susan Sonne - Mayor Pro Tempore of Buena Park,1
@@ -7457,7 +7484,6 @@ Theodore Fallati,1
 Theresa Shaeffer,1
 Thomas Babbitt,1
 Thomas Bickell,1
-Thomas Lanni,1
 Thomas Nagle,1
 Thomas Papageorge,1
 Thomas Sullivan,1
@@ -8273,6 +8299,262 @@ numerous local elected officials and private individuals,1
 "Numerous members of AFSCME, Local",1
 numerous private individuals involved in the industry,1
 "numerous religious leaders, hundreds of individuals",1
+"David F. Romero, Mayor",1
+"Diane Rose, Mayor",1
+"Hon. Jim Maready, Sheriff-Coroner",1
+"Honorable James C. Predmore, Mayor",1
+"Kavita Tankha, Mayor",1
+Numerous single format letters of opposition from parents and teachers,1
+Numerous skilled nursing and continuing care and retirement facilities,1
+Numerous small business owners,1
+"Numerous surgeons with surgical centers, as well as employees",1
+Numerous water agencies,1
+Oaks (Vincent),1
+Oceanside City Deputy Mayor Jerome M. Kern,1
+"of San Bernardino County, 7 individuals",1
+"one faculty member in the Department of Criminal Justice, University of Massachusetts (Lowell)",1
+"one faculty member in the Department of Psychology, Simon Fraser University, Canada",1
+"one faculty member of the Department of Psychology, California State University at Long Beach",1
+one fundraising professional,1
+one hundred seventy five names on letters and petitions,1
+One In Long Beach,1
+one individual (received prior to most recent AB 240 (Berm?dez) PageB),1
+one individual AB 1764 (Maddox),1
+one individual AB 3093 (Villaraigosa),1
+one individual SB 1550 (Battin) PageB,1
+"One individual, Rolling Hills Estate",1
+One Individual. AB 475 - Baca,1
+one regulatory analyst (Public Utilities Commission Utilities Recovery Account),1
+one research data specialist,1
+one retired attorney,1
+one-hundred fifty-five SCA 20 (McClintock) individuals,1
+Orange County Municipal Court Presiding Judge Wendy S. Lindley,1
+Orange County numerous individuals,1
+Orville Millhollin,1
+other individuals and elected officials,1
+"Over 1,000 individuals in Support",1
+"Over 150 individuals, including HCBA Waiver recipients from Eddie's Place, Kelly Cullen, MLK, Mosswood, and Oak Days facilities",1
+Over 200 letters of support from individuals throughout,1
+Over 200 letters of support from individuals throughout California,1
+Over 25 individuals,1
+over 30 individual horse owners and individual owners of horse-related businesses,1
+over 30 individuals,1
+Over 30 individuals who wrote the Committee in opposition,1
+"Over 50 law firm partners, presidents and general counsel of various California businesses",1
+over 700 individual horse owners and individual owners of horse-related businesses,1
+Over 850 individuals,1
+Over Fifty Individuals,1
+Page Lieutenant Governor Bustamante,1
+"Patricia J. Stone, Board Member, Area Board VI",1
+"Patricia Mathieu, Los Angeles, CA",1
+"Patricia McDaniel, PhD, Assistant Professor at UCSF",1
+Patty Wong,1
+Paul Hohman,1
+"Paul Kress, Individual from El Cajon",1
+"Paul Mills (Epidemiologist, Cancer Registry of Central California/Public Health Institute)",1
+Paul Phillips,1
+Paula Stillman,1
+"Pete Wilson, Vice President of the United black Men of Fresno",1
+"Peter Arth, Jr., Chief-of Staff to PUC President",1
+Peter Uebberoth,1
+"Peter Zschiesche, Trustee, San Diego Community College District",1
+petition (122 signatures),1
+"Petition from 196 individuals, plus 6 individual letters",1
+"Petition signatures from 32,931 individuals through the Scholl Institute of Bioethics",1
+"Petition signatures of individuals 36,661 (received prior to June 22, 2010)",1
+"Petitions from 325 individuals (Durham Transportation, Inc.)",1
+Planning Director,1
+Pomona City Councilmember Freddie Rodriguez,1
+Poway Unified Education Advocates - letters of individual,1
+Private Citizen (2),1
+"Prof. Janet Weinstein, California Western School of Law",1
+"Prof. W. Patton, Whittier Law School",1
+"Professor Edward Imwinkelried, Professor of Evidence and Author, UC Davis School of Law",1
+"Professor Edward Imwinkelried, Professor of Evidence and Author, UCD School of Law",1
+"Professor Edward L. Barrett, Jr., Professor of Law, UC Davis",1
+"Professor Gerald Uelmen, Professor of Law, Santa Clara",1
+"Professor Joseph Morrow, Department of Psychology, California State: University, Sacramento",1
+Professors from law schools and universities throughout California and the United States - 150 individuals,1
+Q & A Insurance Compliance Specialist,1
+"R. Patrick Kasperzak, Former Mayor",1
+"R.W. Gittings, City Manager",1
+"Rachel Huff, parent",1
+"Rageshree Ramachandran, MD, PhD, Assistant Professor at UCSF",1
+"Rajiv Bhatia, MD, MPH (Director, Occupational & Environmental Health, San Francisco Department of Public Health, Assistant Clinical Professor of Medicine, UCSF)",1
+"Ralph Inzunza, Councilmember",1
+"Ramiz Dashdamirov, Acting Consul General of the Republic of Azerbaijan",1
+"Ramona M. Carlos, MS, Department of Human and Community Development, University of California, Davis",1
+"Randy Martin, OMD, Ph.D., L.Ac., Doctor of Oriental Medicine, Santa Monica",1
+"Rebecca J. Garcia, Councilmember",1
+"Renee Copes, Los Angeles, CA",1
+Resources for Independent Living: One individual,1
+"Retired Judge Leon Emerson, Member of the Commission on Alcoholism County of Los Angeles",1
+retired Senator Robert Presley,1
+Rex Thornhill,1
+"Rhea Damon Second Grade Class, Tarzana",1
+"Richard A. Bull, Director of Public Safety",1
+"Richard D. Dean, County Clerk and Recorder",1
+Richard Heim,1
+Richard Jacobsen,1
+"Richard Rubenstein, Los Angeles, CA",1
+"Richard Schneider, PhD, Associate Professor at UCSF",1
+"Richard Surbech, Upland",1
+Richard T. Pettit,1
+"Ring, Consulting Chemical Engineer, Zone 7",1
+Riverside County Board of Supervisor John,1
+Riverside County Office of Individual letter (1),1
+Robert Ballo,1
+"Robert C. Wright Ph.D., L.Ac., Napa",1
+Robert Dickinson,1
+"Robert E. Kennedy, President Emeritus, California",1
+"Robert Erickson, LCSW, MPA, Director of Health Services",1
+"Robert Goldstein, Attorney at law (Plaintiffs attorney in Kidd v. Greenspan Company )",1
+Robert J. Masten,1
+"Robert P Brown, Los Angeles, CA",1
+"Robert Rosenbloom, MD, Culver City",1
+"Robert Schiestl, Ph.D. (Department of Pathology, UCLA)",1
+Roberta Supervisor,1
+"Rod Murphy, GIS Analyst for the City of Newport Beach",1
+"Rod Sinks, Former Mayor",1
+Ron Serrano,1
+Ronald Friberg,1
+Rosemead City Councilmember Margaret Clark,1
+"Russ Melton, Councilmember",1
+"S. Sue Johnson, Member, University of California Board of Regents",1
+Sacramento County Supervisor Roberta MacGlashan,1
+"Salud Carbajal, First District Supervisor, the Santa Barbara County Board of Supervisors",1
+"Salvatore LaMattina, 1st District Councilor",1
+"Sam Jojola, retired Special Agent with U.S. Fish and Wildlife Office of Law Enforcement",1
+"Sam Liccardo, Councilmember, San Jose City Council",1
+San Bernardino County Superior Court Presiding Judge Joseph E. Johnston,1
+San Bernardino County Superior Court Presiding Judge of the Juvenile Division A. (Miller) (Note: Support and Opposition Letters Received Prior to July),1
+San Bernardino County Supervisor,1
+"San Diego City Council Members Ralph Inzunza, Scott Peters and Michael Zucchet",1
+"San Diego City Council members:: Toni Atkins, Ralph Inzunza, Charles L. Lewis, Michael Zucchet",1
+San Diego City Councilmember Marti Emerald,1
+"San Diego County Superior Court Presiding Judge William J. Howatt, Jr",1
+San Francisco (Shelley),1
+"San Jose Councilmember Ash Kalra, District 2",1
+San Jose District 2 City Councilmember Ash Kalra,1
+San Mateo Superior Court Judge Quentin Kopp,1
+"San Rafael CA Library Board, Arlene Sukolsky, Trustee",1
+San Rafael City Councilman Damon Connolly,1
+"San Rafael Library Foundation, Gary T. Ragghianti, Board member",1
+"Santa Barbara City Council Member Gregg Hart, City of Goleta",1
+Santa Clara County Supervisor Pete McHugh,1
+"Sarah G. & Richard L Harlow, II, Los Angeles CA",1
+Sarah Hicks-Kilday,1
+Sarah Houghton,1
+Saul H. Kay,1
+Scores of individual letters from parents of American servicemen and servicewomen,1
+"Sean R. Elsbernd, Member of the Board of Supervisors, City and County of San Francisco",1
+"Senator John Campbell (retired, author of California Publicity Rights Statute)",1
+"Senators Paul Muegge and Bruce Price, Agriculture Committee Chair and Vice Chair, Oklahoma State Senate",1
+"Seth Atkinson, Staff Attorney, Oceans Program, Natural Resources Defense Council",1
+seven individual home inspectors AB 293 (Maze),1
+Seven individuals Committee,1
+several human rights organizations,1
+Several hundred individuals - form letters and detailed support letters,1
+Several individual constituents,1
+several individual counties,1
+several individual letters AB 988 (Lowenthal),1
+Several individuals AB 839 (Torrico),1
+several individuals AB 996 (Ridley-Thomas),1
+several individuals SB 1152 (Scott),1
+several public interest groups,1
+Several telephone carriers,1
+Several water agencies and members of the Partnership,1
+several well operators,1
+Sharon Cohen,1
+"Sharon K. Sakaki, L.Ac., San Francisco",1
+"Shawndalyn Duncan, Lead Dispatcher, San Diego State University Police Department",1
+"Sheila Forsander, Santa Monica, CA",1
+"Sheriff Gary S. Penrod, San",1
+"Sheriff, San (Runner)",1
+"Sheriffs of Los Angeles, Riverside, and Siskiyou",1
+"Sheriffs of Sacramento County, San Diego County, Marin",1
+"Sheriffs of San Bernardino, Del Norte, Marin, San Mateo, and Yolo Counties",1
+"Sheriffs of San Joaquin, Contra Costa and Riverside Counties",1
+Sierra Club: Lawrence Lingbloom,1
+"Six CID homeowners (Bakersfield, Rocklin)",1
+Social Workers Network (regarding the BBS oral examination) Individual letters,1
+Solano County Superior Court Judges,1
+"Spikes, Kings County Administrative Officer",1
+Sponsor Four Members of the 95th Civil Support Team,1
+"Sr. Claudia Romero, ODN, Office of The Roman Catholic Chaplain, Sylmar, CA",1
+"Stanislaus County Commission on Aging SB 1249-Alquist Juanita Beighele, Senior Assembly Member",1
+State Controller Tasha Levinson for Freeman,1
+State Superintendent Delaine Eastin And letters from several individuals,1
+"Stephanie Allen, Santa Monica , CA",1
+"Stephen Butcher, San Miguel Firefighters",1
+"Stephen Luby, Stanford School of Medicine",1
+Stephen M. Bayus,1
+"Steve Adams, Mayor pro Tempore",1
+"Steve Castaneda, Councilmember",1
+Steve Largent (member of Congress and former football player),1
+"Steve Mooser, Santa Monica, CA",1
+Steven M. Poulos,1
+"Steven Naftali, Santa Monica, CA",1
+"Student, College of Education",1
+"Sunita Pullela Ho, PhD, Associate Professor at UCSF",1
+"Supervisor Blanca Alvarado, Second District, Santa Clara County Board of Supervisors",1
+"Supervisor Don Horsley, San Mateo County, 3rd District",1
+Supervisor Erickson from Siskiyou County (formerly listed as Siskiyou County),1
+"Supervisor Harry L. Ovitt, District One, San Luis Obispo",1
+"Supervisor Jack A. Sieglock, San Joaquin County, Board of Supervisors",1
+Supervisor Kerns from Sonoma County (formerly listed as Sonoma County),1
+Supervisor Leslie Katz,1
+"Supervisor Louis R. Calcagno, Third District, Monterey County",1
+Supervisor Pam Slater,1
+"Supervisor Pam Slater-Price, San Diego County",1
+"Supervisor Robert A. Meacher, District 2, Plumas County Board of Supervisors",1
+"Supervisor Robert J. Cabral, San Joaquin County Board of Supervisors",1
+"Supervisor Rose Jacobs Gibson, District 4, San Mateo County Board of Supervisors",1
+"Supervisor Shirley Bianchi, District Two, San Luis Obispo",1
+"Supervisor Thomas W. Wilson, District 5, Orange County Board of Supervisors",1
+Supervisor Tom Ammiano,1
+"Supervisor Tony Campos, Fourth District, Santa Cruz County",1
+"Susan Follett, Los Angeles, CA",1
+"Susan Griffin, Los Angeles, CA",1
+Susan Needleman,1
+Susan Staggs,1
+"Susan Wang, L.Ac., M.S",1
+"Suzanne Paulson, Ph.D. (Professor Atmospheric Chemistry, UCLA)",1
+Svetlana Karni,1
+Ted J. Gilbert,1
+Tehama County Superior Court Presiding Judge Dennis E. Murray,1
+Ten (10) individual letters,1
+ten letters from citizens,1
+"Teri J. Williams, RD, Lodi Memorial Hospital",1
+Terri Eade,1
+"Terri Tippit, Los Angeles, CA",1
+Terry Woodrow,1
+"Terry Woodrow, Chair",1
+Texas State Senator David Sibley,1
+"The Honorable Dennis Hansberger, San Bernardino County Supervisor",1
+"The Honorable Jim DeMartini, Supervisor, District Five",1
+"The Honorable John S. Adams, Orange County Superior Court Justice",1
+"The Honorable Lucille Roybal-Allard, Member of Congress",1
+the Honorable Michael Kelley,1
+"The Honorable Susan B. Anderson, Supervisor, District Two",1
+"The Honorable Tommy Thompson, former U.S. Secretary of Health and Human Services",1
+"The Honorable William O'Brien, Supervisor, District One",1
+The Nelson Family,1
+Theresa Rosarno - Teacher - Pathways Charter School,1
+Theresa Rosarno - Teacher - Pathways Charter School CharterVoice,1
+Thirty-one,1
+thousands of individuals on petitions,1
+thousands of other individuals,1
+thousands of residential and business customers,1
+Three Family Law Attorneys,1
+"Three homeowners' associations board members (Auburn, Morgan Hill, and San Diego)",1
+three individuals SB 945 (Soto),1
+three judges of the Superior Court of California County of Santa Clara,1
+Three members of the CSU Fullerton Philanthropic Foundation,1
+three new staff,1
+Three Sacramento County Supervisors write,1
+"Tim Jones, Venice, CA",1
+"Tim Newell, Vice President & CFO, GetActive Software: Other E2 Business Leaders",1
 "COUNCIL MEMBER JON WIZARD, CITY OF SEASIDE",0
 "ERIC GARCETTI, MAYOR, CITY OF LOS ANGELES",0
 "HONORABLE SALUD CARABAJAL, MEMBER OF U.S. CONGRESS",0
