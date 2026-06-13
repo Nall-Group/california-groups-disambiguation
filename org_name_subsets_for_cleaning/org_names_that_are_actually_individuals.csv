@@ -352,7 +352,7 @@ Former State Fire Marshal,7
 Chief of Police Edward Medrano,7
 Chief of Police Susan Jones,7
 Chief of Police Anthony Batts,6
-"Chief of Police Phillip Green, Cities of Corte Madera/Larkspur",6
+"Chief of Police Phillip Green, Cities of Corte Madera/Larkspur",7
 Congresswoman Anna G. Eshoo,6
 Councilmember Ridley-Thomas,6
 Doris Day,6
@@ -518,7 +518,7 @@ Council Member David Alvarez,5
 Council Member Sherri S. Lightner,5
 Council Member Todd Gloria,5
 Councilmember Steve Adams,5
-"County of El Dorado, Supervisor Frentzen",5
+"County of El Dorado, Supervisor Frentzen",6
 David Armenta Mayor of Redwood City,5
 Deputy Director,5
 "Don Baker, Long Beach City Councilmember",5
@@ -745,10 +745,10 @@ Councilmember Paul Canepa,4
 Councilmember Xavier E. Campos,4
 County Supervisor Dawn Ortiz-Legg,4
 County Supervisor Jimmy Paulding,4
-County of Contra Costa Honorable Daphne G. Sykes,4
-County of Contra Costa Honorable Gary L. Moorhead,4
-County of Contra Costa Honorable Laura Ellison,4
-County of Contra Costa Honorable Roy O. Chernus,4
+County of Contra Costa Honorable Daphne G. Sykes,5
+County of Contra Costa Honorable Gary L. Moorhead,5
+County of Contra Costa Honorable Laura Ellison,5
+County of Contra Costa Honorable Roy O. Chernus,5
 County of Kern Honorable Efren N. Iglesia,4
 County of Kern Honorable Jacki C. Brown,4
 County of Kern Honorable Kevin J. McCormick,4
@@ -800,11 +800,11 @@ County of San Luis Obispo Honorable Geanene Garcia-Yriarte,4
 County of Shasta Honorable Jeffrey G. Bennett,4
 County of Shasta Honorable Maryanne G. Gilliard,4
 County of Sutter Honorable Ronald L. Bauer,4
-County of Trinity Honorable Ray G. Jurado,4
-County of Ventura Honorable Joy W. Markman,4
-County of Ventura Honorable Steven D. Blades,4
-"County of Ventura Supervisor, Linda Parks",4
-County of Yuba Honorable Phillip L. Soto,4
+County of Trinity Honorable Ray G. Jurado,5
+County of Ventura Honorable Joy W. Markman,5
+County of Ventura Honorable Steven D. Blades,5
+"County of Ventura Supervisor, Linda Parks",5
+County of Yuba Honorable Phillip L. Soto,5
 "Cristina Carrizosa, Pomona City Councilmember, District Three",4
 Dan Lungren,4
 Danielle Dailey,4
@@ -823,7 +823,7 @@ Goleta City Council Member Tony Vallejo,4
 Governor's bill . The Governor,4
 "Herb J. Wesson, Jr., Los Angeles City Council",4
 "Herbery Heyn, John Hancock Agent, Millbrae",4
-"Hon. Coleen Jarvis and Hon. David Guzzetti, Chico City",4
+"Hon. Coleen Jarvis and Hon. David Guzzetti, Chico City",5
 "Honorable Fortney ""Pete"" Stark, United States Congress",4
 Individual Letters (11),4
 Individual Pet Store Owners/Operators,4
@@ -845,7 +845,7 @@ L. Wallace Pate,4
 Lausd Board Member Dr. Rocio Rivas,4
 Lockyer,4
 "Loretta Montgomery, Greenbrae",4
-Los Angeles City Attorney and the Attorney General,4
+Los Angeles City Attorney and the Attorney General,5
 Los Angeles Councilmember Alex Padilla,4
 "Los Angeles Unified School District, Board President Jose",4
 Lynwood Councilmember José Luis Solache,4
@@ -1221,7 +1221,7 @@ Councilman Kevin McCarty,3
 "Councilman Rikke Van Johnson, San Bernardino",3
 Councilman Scott Peters,3
 Councilmember Brian Brennan,3
-"Councilmember Brian Gutierrez, California State Council on Developmental",3
+"Councilmember Brian Gutierrez, California State Council on Developmental",4
 Councilmember Brian W. Jones,3
 Councilmember David J. Toro,3
 Councilmember Ed Musgrove,3
@@ -1261,7 +1261,7 @@ County of Orange Honorable Kevin Brown,3
 County of Orange Honorable Nancy L. Newman,3
 County of Orange Honorable Robert S. Tafoya,3
 County of Sutter Honorable Donna Quigley Groman,3
-County of Tulare Supervisor Dennis Townsend,3
+County of Tulare Supervisor Dennis Townsend,4
 "Curt Harman, 4th District Supervisor, San Bernardino County",3
 "Cynthia VanWormer, City Clerk",3
 Danielle,3
@@ -1470,7 +1470,7 @@ Park Overall,3
 Perris Councilmember A.B. Torres,3
 Peter A,3
 "Peter Weiner, Esq",3
-Port of San Francisco and San Francisco Mayor Mark E,3
+Port of San Francisco and San Francisco Mayor Mark E,4
 Private Individual (1),3
 Professor Michelle Wilde Anderson,3
 "Ray Waller, Mayor",3
@@ -1783,7 +1783,7 @@ Assemblywoman Wilma Chan,2
 "Assistant Director, Public Services for the County of Los Angeles Public",2
 "Asst. Presiding Judge Robert W. Parkin, the Superior Court, Los Angeles County",2
 Attorney Carol Anderson,2
-"Attorney General Bill Lockyer, State Treasurer",2
+"Attorney General Bill Lockyer, State Treasurer",3
 Attorney General Dan,2
 Attorney General Daniel Lungren Committee on Moral Concerns Crusade for Life,2
 Attorney General Sheriffs of the County of Alpine,2
@@ -1819,7 +1819,7 @@ Bill Lockyer,2
 "Bonnie Burns, Consumer Advocate",2
 "Bonnie Maxwell, Dobbins",2
 Bonnie Tabor,2
-Brady Campaign and Attorney General Rob Bonta,2
+Brady Campaign and Attorney General Rob Bonta,3
 Burbank Council Member Todd Campbell,2
 By: Jan L. Owen,2
 "C. Brent Wallace, Inyo County Past",2
@@ -1888,7 +1888,7 @@ City Councilmember Angela Villes,2
 City Councilmember David Alvarez,2
 City Manager Keith Till,2
 City of Berkeley Councilmember Lori Droste,2
-City of Buena Park Council Member José Trinidad-Castañeda,2
+City of Buena Park Council Member José Trinidad-Castañeda,3
 "City of Escondido, Council Member Olga Diaz, District 3",2
 "City of Fontana, Mayor Pro Tem, John Roberts",2
 City of Fresno Councilmember Cynthia A. Sterling,2
@@ -1909,7 +1909,7 @@ City of Oakland Councilmember Noel Gallo,2
 "City of Pomona, Councilwoman Cristina N. Carrizosa",2
 City of Sacramento - Office of Councilmember Katie Valenzuela,2
 City of Sacramento Councilmember Kevin McCarty,2
-"City of Sacramento, Vice Mayor Jay Schenirer Econolite",2
+"City of Sacramento, Vice Mayor Jay Schenirer Econolite",3
 "City of San Jose, Councilmember Batra",2
 "City of San Pablo, Vice Mayor Cecilia Valdez",2
 City of Seal Beach Solano County Police Chiefs and Sheriff Association Michael R. Efford,2
@@ -1951,7 +1951,7 @@ Congresswoman Anna Eschoo,2
 Congresswoman Lois Capps,2
 Congresswoman Loretta Sanchez,2
 Constance Tse,2
-Consumer Attorneys of CaliforniaAttorney General Dan Lungren,2
+Consumer Attorneys of CaliforniaAttorney General Dan Lungren,3
 Contra Costa District Attorney's Office Richard Aromando,2
 Contra Costa Sheriffs Department Catherine Gould,2
 "Council Member Caity Maple, Chair, Law and Legislation Committee",2
@@ -2044,16 +2044,16 @@ County Supervisor Ray Nutting,2
 County Supervisor Walt Shultz,2
 County and Municipal Employees Bruce Ochmanek,2
 County of Butte Carl Nelson,2
-"County of Contra Costa, Supervisor John Gioia",2
+"County of Contra Costa, Supervisor John Gioia",4
 "County of Humboldt, Supervisor Rex Bohn, District 1",2
 "County of Los Angeles, Supervisor Ridley-Thomas",2
 "County of Marin, Supervisor Kathrin Sears",2
 "County of Napa, Alfred Pedroza District 4 Supervisor",2
-"County of San Diego, San Diego County Assessor Ernest Dronenburg, Board of Equalization Member Michelle Steele",2
+"County of San Diego, San Diego County Assessor Ernest Dronenburg, Board of Equalization Member Michelle Steele",3
 County of Santa Barbara Fourth District Supervisor Doreen Farr,2
 County of Santa Barbara Third District Supervisor Joni Gray,2
 County of Sonoma Supervisor Lynda Hopkins,2
-County of Villa Park Councilmember Robert Pitts,2
+County of Villa Park Councilmember Robert Pitts,3
 "Cruz Bustamante, Lieutenant Governor, State",2
 Cruz County Supervisor Gary Patton,2
 Culver City Councilmember Alex Fisch,2
@@ -2196,7 +2196,7 @@ Frank Scotto,2
 "Fred Silberberg of Silberberg & Ross, L.L.P",2
 "Frederick Lear, El Cajon Municipal Court Administrator",2
 Fredrick Frost,2
-Fresno County Supervisor Henry Fresno Metro Ministry,2
+Fresno County Supervisor Henry Fresno Metro Ministry,3
 Fresno County Supervisor Nathan Magsig,2
 Fresno Police Department Sgt. Jay Crawford,2
 Frieda Rapoport,2
@@ -3426,7 +3426,7 @@ Angeles Mayor Richard,1
 "Anthony J. Intintoli, Jr., Mayor",1
 "Anthony Molina, M.D",1
 "Appellate Attorneys Carole Spreckels Greeley, Maribeth Halloran, Donna B. Kaiser, Roni Keller, Maryann M. Milcetic, Sylvia Paoli, Janet Saalfield, Janet Sherwood, Alan Siraco and Valerie E",1
-Applied Ecological Services The Honorable US Representative Jared Huffman,1
+Applied Ecological Services The Honorable US Representative Jared Huffman,2
 Approximately 1400 Individuals,1
 "Approximately 2,668 Individuals",1
 Approximately 52 Individuals,1
@@ -3557,7 +3557,7 @@ Associate Professor at UCSF MacKenzie Smith,1
 Astrid Jansen,1
 Athletic Director,1
 Attorney Carlo Coppo,1
-"Attorney General Bill Lockyer, Lawrence Gilbert",1
+"Attorney General Bill Lockyer, Lawrence Gilbert",2
 Attorney General John Van de Kamp,1
 Attorney General Tom Cavallero,1
 Attorney General's Task Force on the Criminal,1
@@ -3579,7 +3579,7 @@ Attorney at Law Joseph Rhine,1
 "Aubrey Patterson, Division Chief, Santa Maria Police Department",1
 "Audrey Clarke, Superintendent, Lynwood School District",1
 "Auxiliary Bishop Joseph Sartons, Archdiocese of Los Angeles",1
-"BOE Member Michelle Steele, Howard Jarvis Taxpayers' Association",1
+"BOE Member Michelle Steele, Howard Jarvis Taxpayers' Association",2
 "BRIAN BACA, FORMER SMGB BOARD MEMBER",1
 "Bakersfield City Councilmember, Andrae Gonzales",1
 Bakersfield Councilmember Russell Johnson,1
@@ -3700,7 +3700,7 @@ By: JAN OWEN 445-6306,1
 "Byron Wear, San Diego City Councilmember",1
 "C Freeman, Medical Doctor",1
 C. Lynne Goldsmith,1
-"C. Phillip Jackson, esq., Irsfeld, Irsfeld & Younger LLP",1
+"C. Phillip Jackson, esq., Irsfeld, Irsfeld & Younger LLP",2
 C.E. Hoonan (concerned citizen),1
 "C.Everett Koop, M.D",1
 C.R.N.P. Beth Thomas,1
@@ -3750,7 +3750,7 @@ California Appellate Court Justice Stewart,1
 "California Attorney General Kamala Harris, California District",1
 California District Attorneys Association Hon. Gil Garcetti,1
 California Insurance Commissioner John Chiang,1
-"California Lieutenant Governor, Eleni Kounalakis, NARAL Pro-Choice California",1
+"California Lieutenant Governor, Eleni Kounalakis, NARAL Pro-Choice California",2
 California State Senator Bob Margett,1
 California The Honorable US Representative Mike Thompson,1
 Campbell City Vice-Mayor Paul Resnikoff,1
@@ -3822,7 +3822,7 @@ Charles L. Lewis,1
 Charles Leonard,1
 "Charles Linden, Member, Special Forces Assn. Chapter 23 (San)",1
 "Charles M. Kramer, Attorney and Counselor at Law",1
-"Charles Magowan, TradePoint Solutions, Inc",1
+"Charles Magowan, TradePoint Solutions, Inc",2
 "Charles McGlashan, Marin County Board of Supervisors",1
 Charles Phifer,1
 "Charles R, Marmar, MD, Director, Post Traumatic Stress Disorder",1
@@ -3837,7 +3837,7 @@ Charles Williams,1
 Charles Zukow,1
 Charlotte A. Dorsey,1
 Charlotte Marcum-Rush,1
-"Chelsea Clinton, the Clinton Foundation",1
+"Chelsea Clinton, the Clinton Foundation",2
 "Chelsea Young, Medical Doctor",1
 Cheryl Sudduth - Individual,1
 Chet Campanella (individual),1
@@ -3894,7 +3894,7 @@ Chuck Reed,1
 "Cindy Russell, Medical Doctor",1
 Cindy Steinbeck,1
 Cindy Wilson,1
-"Cities of San Fernando, and Simi Valley Councilmember Glen T. Becerra",1
+"Cities of San Fernando, and Simi Valley Councilmember Glen T. Becerra",2
 City Council Member Alysa Cisneros,1
 City Council Member Brian Barnacle,1
 "City Council Member Dave Jones, District 6",1
@@ -3927,7 +3927,7 @@ City of Bakersfield Vice Mayor Andrae Gonzales,1
 City of Berkeley - Councilmember Jesse Arreguin,1
 City of Berkeley Councilmember Ben Bartlett,1
 City of Berkeley Councilmember Mark Humbert,1
-"City of Beverly Hills, Council Member Lili Bosse",1
+"City of Beverly Hills, Council Member Lili Bosse",2
 City of Burbank (prior version) Mayor Kevin Johnson,1
 City of Chula Vista Councilwoman Melissa Melendez,1
 City of City of Clayton Council Member Richard Garbarino,1
@@ -3959,7 +3959,7 @@ City of Hanfor Vice Mayor Francisco Ramirez,1
 City of Hayward Mayor Pro Tem Sara Lamin,1
 "City of Hercules, Vice-Mayor Myrna de Vera",1
 City of Holtville Honorable Zac Scrivner,1
-"City of Huntington Beach, Stephanie Beverage, Director of Library Services",1
+"City of Huntington Beach, Stephanie Beverage, Director of Library Services",2
 City of Irvine Councilmember Larry Agran,1
 City of La Mesa Councilmember Colin Parent,1
 City of La Mesa Councilmember Joe LaCava,1
@@ -4013,11 +4013,11 @@ City of Poway Councilmember Rick Gibbs,1
 City of Riverside Councilmember Gaby Plascencia,1
 City of Rosemead City Councilmember Margaret Clark,1
 City of Sacramento (prior version) Mayor Chuck Reed,1
-City of Sacramento City Council and Councilmember Jay Schenirer,1
+City of Sacramento City Council and Councilmember Jay Schenirer,2
 City of Sacramento Mayor Chuck Reed,1
 "City of Sacramento, Councilmember Deborah V. Ortiz",1
 "City of Sacramento, Vice Mayor Jay Schenirer",1
-"City of San Diego Congressman Brian Bilbray, U.S. House of Representatives Congressman Duncan Hunter, U.S. House of Representatives Councilmember Deborah Pauly",1
+"City of San Diego Congressman Brian Bilbray, U.S. House of Representatives Congressman Duncan Hunter, U.S. House of Representatives Councilmember Deborah Pauly",2
 City of San Diego Council Member Donna Frye,1
 City of San Diego Council Member Jon Wizard,1
 City of San Diego Councilmember Donna Frye,1
@@ -4227,7 +4227,7 @@ Councilmember Bonnie Pannell,1
 Councilmember Brian Barnacle,1
 Councilmember Brian Calhoun,1
 "Councilmember Brian Gutierrez, California",1
-"Councilmember Caity Maple, Chair, Law and Legislation Committee",1
+"Councilmember Caity Maple, Chair, Law and Legislation Committee",2
 "Councilmember Carla Condon, Corte Madera",1
 Councilmember Carmen Ramirez,1
 Councilmember Carroll Fife,1
@@ -4318,7 +4318,7 @@ Councilmember Luis Uribe,1
 Councilmember Magdalena Carrasco,1
 Councilmember Maggie Houlihan,1
 "Councilmember Marily Lewis, Jackson City Council",1
-Councilmember Marin Telecommunications Agency Marine County Board of Supervisors Mayors and Council Members Association of Sonoma County Judith Mitchell,1
+Councilmember Marin Telecommunications Agency Marine County Board of Supervisors Mayors and Council Members Association of Sonoma County Judith Mitchell,2
 Councilmember Marni von Wilpert,1
 Councilmember Matt Mahan,1
 Councilmember Michael Zucchet,1
@@ -4327,7 +4327,7 @@ Councilmember Mike Johnson,1
 "Councilmember Mikke Pierson, Malibu City Council",1
 Councilmember Mitch O'Farrell,1
 "Councilmember Mitch O'farrell, 13th District",1
-Councilmember Monterey County Board of Supervisors Monterey County Mayors' Association Public Access Television of Calaveras County Public Cable Television Authority Gloryanna Rhodes,1
+Councilmember Monterey County Board of Supervisors Monterey County Mayors' Association Public Access Television of Calaveras County Public Cable Television Authority Gloryanna Rhodes,2
 Councilmember Nancy Ross,1
 Councilmember Noel Gallo,1
 Councilmember Pam O'Connor,1
@@ -4412,8 +4412,8 @@ County of City of Cudahy City Council Jane Friedkin,1
 County of City of Eureka City Councilwoman James L. Worthen,1
 County of City of Mayor Pro Tem,1
 County of City of Orange County Supervisor Chris Norby,1
-County of Fresno Board of Supervisors Chair Sal Quintero,1
-County of Fresno Supervisor Henry Perea,1
+County of Fresno Board of Supervisors Chair Sal Quintero,2
+County of Fresno Supervisor Henry Perea,2
 County of Individuals (3),1
 County of Joe Rose,1
 County of Los Angeles Honorable Donna Quigley Groman,1
@@ -4428,7 +4428,7 @@ County of Orange Honorable Norman P. Tarle,1
 County of Rick Guerrero,1
 "County of Riverside, Sheriff Stan Sniff",1
 "County of Riverside, Sheriff Stanley Sniff",1
-"County of Riverside, Supervisor Jeff Stone, Third District, Hemet Unified School District",1
+"County of Riverside, Supervisor Jeff Stone, Third District, Hemet Unified School District",2
 County of Sacramento Supervisor Sue Frost,1
 County of San Diego Supervisor Joel Anderson,1
 County of San Diego Supervisor Terra Lawson-Remer,1
@@ -4440,9 +4440,9 @@ County of Santa Barbara Supervisor Das Williams,1
 County of Santa Cruz Supervisor John Leopold,1
 "County of Santa Cruz, Fourth District, Supervisor Greg Caput",1
 "County of Siskiyou -Marcia H. Armstrong, Supervisor",1
-County of Trinity Supervisor John Fenley,1
-County of Tuolumne District 2 Supervisor Randy Hanvelt,1
-"County of Yuba - Bill Simmons, Supervisor, District Two",1
+County of Trinity Supervisor John Fenley,2
+County of Tuolumne District 2 Supervisor Randy Hanvelt,2
+"County of Yuba - Bill Simmons, Supervisor, District Two",2
 Couple Hundred Individuals,1
 Couple Individuals,1
 Courtney A. Ruby,1
@@ -4478,7 +4478,7 @@ Dale Boggs,1
 Dalia MacPhee,1
 "Dallas Hawes, Chief of Barstow Police Department",1
 "Dalton M. LaVole, Landscape Architect",1
-Daly City Gene H. Kulander,1
+Daly City Gene H. Kulander,2
 Dan Arriola - Tracy City Councilmember,1
 Dan Cort,1
 "Dan Eaton, Member, Integrated Waste Management",1
@@ -4800,7 +4800,7 @@ Dr. Karen Dalton,1
 "Dr. Ken Williams, Member of the Orange County Board of Education",1
 "Dr. Kriss A. Kevorkian, Center for Conscious Dying and Grieving",1
 "Dr. Lara Rasmussen, Director of Surgery and Clinical",1
-"Dr. Larry Green, Member of the Lake Tahoe Unified School District and President of the El Dorado County School Boards Association",1
+"Dr. Larry Green, Member of the Lake Tahoe Unified School District and President of the El Dorado County School Boards Association",2
 "Dr. Laura M. Ibsen, Professor of Pediatrics and Anesthesiology, Oregon Health and Science University",1
 "Dr. Leon J. Baginski, M.D., Mission Viejo, CA",1
 "Dr. Lester Rowntree, Chair, Environmental Studies Dept., San Jose",1
@@ -4825,7 +4825,7 @@ Dr. Stephen Phillips,1
 "Dr. Terry M. Saigh, CPA",1
 "Duane E. Spencer, D.D.S",1
 "Earvin ""Magic"" Johnson",1
-East Bay Regional Park District (former) Senator Patrick Johnston,1
+East Bay Regional Park District (former) Senator Patrick Johnston,2
 "Ed Begley, Jr",1
 "Ed Gallo, Council Member",1
 "Ed Metzler, Murrieta",1
@@ -5002,7 +5002,7 @@ Gail K Lightfoot,1
 Garilee Cave,1
 "Garland Petty, FV Miss Jessie",1
 "Garrett Broad, Los Angeles",1
-"Garrett Huff, Fire Captain, Santa Barbara County Fire Department, and President, Santa Barbara",1
+"Garrett Huff, Fire Captain, Santa Barbara County Fire Department, and President, Santa Barbara",2
 "Garry Bredefeld, Fresno City Council",1
 "Garry Bredefeld, Fresno City Council Member",1
 Garry Lion,1
@@ -5068,7 +5068,7 @@ Gloria Tristani,1
 Gordon E. Pitter,1
 Governor Cruz M. Bustamante,1
 "Governor M.J. Foster, Louisiana",1
-Governor Wilson and Secretary Bergeson,1
+Governor Wilson and Secretary Bergeson,2
 Governor of Louisiana,1
 "Governor of Louisiana, Kathleen Blanco",1
 Governor of Wisconsin,1
@@ -5105,7 +5105,7 @@ Harry Sigman,1
 Harvard School of Biology Professor Emerita Ruth,1
 Harvard School of Biology Professor Emerita Ruth Hubbard,1
 Harvey Rarback - Half Moon Bay City Councilmember,1
-"Heal the Bay, Environment California, Lieutenant Governor John",1
+"Heal the Bay, Environment California, Lieutenant Governor John",2
 "Heather Costello, Marin County Sheriff's Office Communications Center",1
 "Heather Fargo, Sacramento City Council Member",1
 Heather Morse,1
@@ -5857,8 +5857,8 @@ Los Angeles City Councilwoman Wendy Greuel,1
 Los Angeles Council Member Paul Krekorian,1
 Los Angeles Councilmember Eric Garcetti,1
 "Los Angeles Councilmember Greig Smith, 12th District",1
-"Los Angeles County Assessor Jeffrey Prang, California Assessors' Association",1
-"Los Angeles County Assessor Jeffrey Prang, Equality California",1
+"Los Angeles County Assessor Jeffrey Prang, California Assessors' Association",2
+"Los Angeles County Assessor Jeffrey Prang, Equality California",2
 Los Angeles County Assessor Kenneth Hahn,1
 Los Angeles County Board of Supervisor Yaroslavsky,1
 Los Angeles County Larry J. Todd,1
@@ -5999,7 +5999,7 @@ Mayor Stephen Cassidy,1
 Mayor Steven A. Mindt,1
 Mayor Steven R. McKee,1
 "Mayor Willie Brown, City and County of San",1
-"Mayor Willie L. Brown and City Treasurer Susan Leal, San Francisco",1
+"Mayor Willie L. Brown and City Treasurer Susan Leal, San Francisco",2
 Mayor of Atascadero,1
 Mayor of Los Angeles Western Center On Law & Poverty,1
 Mayor of Moreno,1
@@ -6243,7 +6243,7 @@ Office of United States Senator Dianne Feinstein,1
 Office of Vice Mayor Cindy Allen of Long Beach,1
 "Office of Vice Mayor Kate Harrison, Berkeley City Council District 4",1
 Office of the Attorney General and Polly Klaas,1
-Office of the Mayor of the City of Bakersfield/ The Bakersfield City Council,1
+Office of the Mayor of the City of Bakersfield/ The Bakersfield City Council,2
 "Officer Erin Taylor, Sacramento Police",1
 "Officer Lori LaGrassa, Sacramento Police",1
 Officer Warren Slocum,1
