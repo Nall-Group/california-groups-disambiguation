@@ -4,9 +4,13 @@
 
 To edit this file (mark tasks, update queues, add tasks), join this queue first. Only the name at the top may edit.
 
+- RA0-Alpha
+
 ## Data Write Queue
 
 Only the RA at the top of this list has write access to project data files (crosswalk JSON, CSVs). Add yourself to the bottom when you're ready to write. Remove yourself when done.
+
+- RA0-Alpha
 
 ## Task List
 
@@ -1381,3 +1385,4 @@ Only the RA at the top of this list has write access to project data files (cros
 | 1303 | **Gaps parens — band (whole file)** (~424 rows). Run `python3 gaps_band.py parens 1` to print your STILL-PENDING slice (auto-regrows as audit waves append; already-handled rows are hidden). For each row: move each row to `org_names_that_start_with_parens.csv`; then REMOVE that org's row (with count) from `crosswalk_gaps_all_stances.csv`. Do NOT edit the master file — it is regenerated each audit wave (see parent task 1245). Run the clean/dedup/stats pipeline before committing. Mark Done when `python3 gaps_band.py list parens` shows 0 pending for band 1. | Done | RA-Beta | RA-Beta: routed 414 parenthetical fragments to parens CSV; skipped 10 mis-bins (union locals e.g. "2295 (El Monte)", org fragments) — left pending. |
 | 1304 | **Gaps dates — band (whole file)** (~174 rows). Run `python3 gaps_band.py dates 1` to print your STILL-PENDING slice (auto-regrows as audit waves append; already-handled rows are hidden). For each row: move each row to `org_names_that_are_dates_or_phone_numbers.csv`; then REMOVE that org's row (with count) from `crosswalk_gaps_all_stances.csv`. Do NOT edit the master file — it is regenerated each audit wave (see parent task 1245). Run the clean/dedup/stats pipeline before committing. Mark Done when `python3 gaps_band.py list dates` shows 0 pending for band 1. | Done | RA-Beta |   RA-Beta (commit cbf764c6): routed 174 dates to dates/phones CSV; excluded 1 mis-binned school district. |
 | 1305 | **Gaps not_capitalized — band (whole file)** (~147 rows). Run `python3 gaps_band.py not_capitalized 1` to print your STILL-PENDING slice (auto-regrows as audit waves append; already-handled rows are hidden). For each row: move each row to `org_names_not_capitalized.csv`; then REMOVE that org's row (with count) from `crosswalk_gaps_all_stances.csv`. Do NOT edit the master file — it is regenerated each audit wave (see parent task 1245). Run the clean/dedup/stats pipeline before committing. Mark Done when `python3 gaps_band.py list not_capitalized` shows 0 pending for band 1. | Done | RA-Beta | RA-Beta (commit a4037aaf): band routed to its category CSV (counts carried); 0 pending. |  |
+| 1306 | **Gaps consolidate — auto-fold pending safe variants.** Of the ~955 still-pending `consolidate` rows (org still in `crosswalk_gaps_all_stances.csv`), fold the high-confidence ones (org is a suffix/typo/count/acronym variant whose triaged target canonical already exists) as `alternate_spelling` under that canonical, then remove from the gap CSV. Exclude divergent audit pairings (target core \!= org core, e.g. regional "United Chambers of Commerce" mis-paired to "US Chamber of Commerce") for manual review. Run clean/dedup/stats pipeline. | In Progress | RA0-Alpha | Pending-filtered + divergence-filtered apply: 572 adds, 192 already-present removed; 84 divergent + junk/Q11/flagged left pending. |
