@@ -165,6 +165,7 @@ SACRAMENT|3 |SM & CS |Final |NO |within |within|after |YES |NONE
 SALINAS |3 |SM & CS |Final |NO |within |within|after |NO |NONE
 Same as source
 Same as sponsors
+SAN JOSE |3 |SM & CS |Final |NO |within |within|after |NO |NONE
 CP:cm/ctl/cm 5/19/98 Senate Floor Analyses
 CP:jk/ctl 1/26/98 Senate Floor Analyses
 Dependencies
