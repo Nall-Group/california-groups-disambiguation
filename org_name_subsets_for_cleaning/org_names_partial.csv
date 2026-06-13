@@ -19,6 +19,7 @@ Physicians,261
 California Association,253
 Francisco,241
 National,239
+version,235
 Secretary of,230
 Riverside,225
 Foundation,222
@@ -52,7 +53,6 @@ Women,129
 Advocates,126
 for Criminal Justice,125
 Sheriffs,120
-PODER,119
 Stockton,118
 Project,118
 Bureau,114
@@ -134,6 +134,7 @@ California Chamber of,61
 Doris,61
 Moreno Valley,61
 Numerous,61
+Concern,61
 Taxpayers for,60
 Development,60
 Connect,60
@@ -171,10 +172,10 @@ Federation of California,47
 Tri-valley City of Dublin,47
 Chief Probation,47
 Lake,47
+Youth,47
 Law Center,46
 Concord,46
 Public,46
-Youth,46
 E2,46
 Pasadena,46
 Pomona,46
@@ -188,8 +189,8 @@ Council of California,43
 Laguna Beach,43
 Beach,43
 Mariposa,43
+Tustin,43
 COUNTY DISTRICT ENROLLMENT AS OF,42
-Tustin,42
 School,42
 Legal Services for,42
 College,42
@@ -207,7 +208,6 @@ Water District,40
 Force,40
 Fontana,40
 Cupertino,39
-Concern,39
 also,39
 Judicial,38
 are,38
@@ -226,6 +226,7 @@ Pleasanton,36
 PageD,36
 Affiliate,36
 System,36
+Office,36
 La,35
 Counsel,35
 MM,35
@@ -274,7 +275,7 @@ Francisco Bay Area,29
 Corona,29
 Whittier,29
 Institutions,29
-WOMAN,28
+WOMAN,29
 Western States,28
 of Counties,28
 Support,28
@@ -334,12 +335,12 @@ Mission College,24
 Options,24
 Pivotal,24
 Brentwood,24
+Women's,24
 Californians for,23
 Older Women's,23
 Older Womens League of,23
 Pediatrics,23
 Pharmaceutical Research and Manufacturers of,23
-Women's,23
 California Law,23
 Medical Center,23
 Scientists,23
@@ -605,6 +606,8 @@ O,12
 Lobby,12
 "Chapter, 6105",12
 Reach,12
+Training,12
+Waste,12
 Asian Pacific,11
 Asian Pacific American Legal Center of,11
 Association of Korean Oriental Medicine and Acupuncture of,11
@@ -623,7 +626,6 @@ National Center for Lesbian,11
 National Organization for,11
 San Luis,11
 Tahoe,11
-Training,11
 Veterans of,11
 for Los Angeles Deputy Sheriffs,11
 it,11
@@ -671,7 +673,6 @@ Plumbing-Heating-Cooling Contractors Association of,10
 Traditional,10
 "Veterans Advisory Council, County of",10
 Vietnam Veterans of,10
-Waste,10
 Ways & Means,10
 Women's League of California,10
 new,10
@@ -702,6 +703,8 @@ Authors,10
 Amendment,10
 Sd-sequel,10
 Million,10
+U.S,10
+West Contra Costa,10
 Asian Americans for,9
 Asian Law,9
 Assistance,9
@@ -725,9 +728,7 @@ Page j,9
 SCR,9
 Sports and Arms Show Producers of,9
 State Public Affairs Committee of the Junior League of,9
-U.S,9
 Violence Prevention Coalition of,9
-West Contra Costa,9
 of the Amalgamated Transit Union,9
 County of Vacaville Chamber of Commerce,9
 Healthcare,9
@@ -773,6 +774,7 @@ State Human Association of California,9
 of the San Francisco Bay Area,9
 Place,9
 Nation,9
+Washington,9
 American Academy of,8
 Associated General Contractors of,8
 California Applicants,8
@@ -798,7 +800,6 @@ Patrol,8
 Sacramento County Board of,8
 St,8
 State Board of,8
-Washington,8
 Women Lawyers,8
 ago,8
 City of LLC,8
@@ -841,6 +842,8 @@ AHS,8
 Normative,8
 Properties,8
 CPA,8
+Together,8
+Women's Crisis,8
 Accountability,7
 "Advocates, Inc",7
 Apartment Association of,7
@@ -890,9 +893,7 @@ Street,7
 Sustainable Environment and Economy for California,7
 "Technologies, Inc",7
 The National,7
-Together,7
 Valley Chamber of Commerce,7
-Women's Crisis,7
 Writing in,7
 b,7
 n,7
@@ -949,6 +950,8 @@ PLANT,7
 only,7
 Small,7
 AGSJ,7
+Metro,7
+Watch,7
 2,6
 Administrator,6
 Armed Forces Retirees Association of,6
@@ -985,7 +988,6 @@ Levin,6
 Los Angeles Area Chamber of,6
 Marin County Board of,6
 Marine Corps,6
-Metro,6
 Michael,6
 Monterey Peninsula,6
 Mutual,6
@@ -1013,7 +1015,6 @@ Trauma,6
 Trucking Association,6
 Utility Workers Union of,6
 WIC Breastfeeding Consortium of,6
-Watch,6
 Western Electrical,6
 for Children,6
 for Independent Living Centers,6
@@ -1068,7 +1069,6 @@ Magnet,6
 Master Plan,6
 Mateo County,6
 Nrws,6
-Office,6
 Ombudsman,6
 Pale Blue,6
 Ranch,6
@@ -1108,6 +1108,9 @@ Social,6
 Pax,6
 CPCA,6
 X X,6
+Western Regional,6
+Wings,6
+Universities,6
 4.,5
 Actors and Others for,5
 Agricultural Council of,5
@@ -1210,8 +1213,6 @@ The Committee of Bar Examiners of the State Bar of,5
 United Teachers of California,5
 Uniting,5
 "Valley, Inc",5
-Western Regional,5
-Wings,5
 Working Group,5
 aag,5
 for America,5
@@ -1250,7 +1251,6 @@ Recording,5
 Resolution,5
 Responsible,5
 Structural,5
-Universities,5
 Venice,5
 Barbara Counties,5
 California Initiative,5
@@ -1289,6 +1289,11 @@ Title,5
 pe,5
 Representing,5
 Fuscoe,5
+Tribe,5
+University School of Law,5
+"Water, Inc",5
+Trades,5
+Unsafe,5
 Academy,4
 Accountancy,4
 Adoption,4
@@ -1465,20 +1470,17 @@ Suisun,4
 "Superintendent of Schools, Siskiyou County Office of",4
 Tenderloin,4
 The Greater Los Angeles African-American Chamber of,4
-Tribe,4
 Tribes,4
 Trusts and Estates Law Section of the State Bar of,4
 Union of California,4
 United Cerebral Palsy Association of,4
 United Way of,4
-University School of Law,4
 University Women,4
 "University of California Cooperative Extension, County of",4
 Ventura County District,4
 Victims United of,4
 WIND,4
 Water Company,4
-"Water, Inc",4
 Women's Foundation of,4
 Yucaipa,4
 for Animal Legislation,4
@@ -1539,8 +1541,6 @@ Special,4
 Strategic,4
 Subsectio,4
 Superintendents,4
-Trades,4
-Unsafe,4
 "Section, State Bar",4
 Sections of the State Bar of California,4
 "State Bar of California, Committee",4
@@ -1608,6 +1608,16 @@ Agrion,4
 MWA,4
 TULARE CITY ELEMENTARY,4
 Unknown as of,4
+TRNTV,4
+TTCA,4
+Transportation Agency for,4
+"Trust, Inc",4
+WESCO,4
+Walnut House,4
+Western Air,4
+Willow,4
+Wilson,4
+Youth Justice,4
 29 AFL-CIO and CLC,3
 3,3
 ACLU and California Attorneys for,3
@@ -1916,8 +1926,6 @@ Store,3
 "Strategic Committee on Public Employees, Laborers' International Union of",3
 Strawberry Creek Monthly Meeting of the Religious Society of,3
 "Supervisor Blanca Alvarado, Second District, Santa Clara County Board of",3
-TRNTV,3
-TTCA,3
 TV,3
 Taskforce,3
 Tempo,3
@@ -1928,11 +1936,9 @@ The Pet,3
 "Tim Ryan, Chief of Correction, Santa Clara County Department of",3
 Town,3
 Transgender,3
-Transportation Agency for,3
 Tri,3
 Tribal Alliance of Northern,3
 Trucking Services,3
-"Trust, Inc",3
 United Farm Workers of,3
 Unity Pride Coalition of,3
 University Professional and Technical Employees Communications Workers of,3
@@ -1940,22 +1946,16 @@ University Professional and Technical Employees/Communications Workers of,3
 "University of California, San Diego, Department of",3
 Ventura County Board of,3
 Visalia Chamber of,3
-WESCO,3
 Walk,3
-Walnut House,3
 Weil,3
-Western Air,3
 Western Center for,3
 Western League of,3
-Willow,3
-Wilson,3
 Women Escaping,3
 Women Prosecutors of,3
 Women's Leadership,3
 Working,3
 Yolo County Board of,3
 Young,3
-Youth Justice,3
 an,3
 day,3
 for Compensation Reform,3
@@ -2157,6 +2157,26 @@ Women's Health,3
 WTS,3
 ZGF,3
 XI,3
+Triarchy,3
+Trustees Association,3
+Tulare County Board of,3
+U.S. Association of Importers of,3
+United States Council for,3
+United Teachers,3
+Ventura Council of,3
+Village,3
+War II,3
+Welfare,3
+West Fresno,3
+Western League,3
+Western States Region,3
+Western Water,3
+Winters,3
+Wolf,3
+YA,3
+Wakefield,3
+"Union, Local 26",3
+Trust (CAP/MPT),3
 434-B,2
 5th District,2
 6,2
@@ -2906,26 +2926,20 @@ Torrance Area Chamber of,2
 Toy Manufacturers of,2
 Trade,2
 Tri-Counties,2
-Triarchy,2
 Trust and Estates Law Section of the State Bar of,2
-Trustees Association,2
 "Trustees, State University System",2
 Tujunga,2
-Tulare County Board of,2
 Tulare County District,2
 Tustin Chamber of,2
 Twentynine Palms Chamber of,2
-U.S. Association of Importers of,2
 "UCSF, Institute for Health Policy Studies, School of",2
 Unified School Districts of,2
 Unitarian Universalist Project Freedom of,2
 United Anglers of,2
 United Assn of Journeymen & Apprentices of,2
 United Services Automobile Association Association of,2
-United States Council for,2
 United States Department of Health and Human,2
 United Taxi Workers of,2
-United Teachers,2
 United Trustees,2
 United Union of,2
 Universal,2
@@ -2933,17 +2947,14 @@ University Professional and Technical Employees - Communication Workers of,2
 "University of California, San Francisco, Division of",2
 Upper,2
 VCA,2
-Ventura Council of,2
 Ventura County Association of Legal,2
 Ventura County Deputy,2
 Ventura County Partnership for,2
 "Veterans of Foreign Wars on the United States, Department of",2
-Village,2
 "Violence, California Medical Association, California Judges Association, Commission on",2
 Volunteer Center of,2
 Wagner,2
 Walnut Avenue,2
-War II,2
 Ward,2
 Warner,2
 Warren,2
@@ -2953,27 +2964,20 @@ Water Replenishment,2
 We Are Homicide,2
 We Care,2
 Weekly,2
-Welfare,2
 Wells,2
 West Coast,2
 West Contra Costa Association of,2
 West Contra Costa Unified School District Office of,2
-West Fresno,2
 Western Area,2
 Western Law Center for,2
-Western League,2
 Western Mobilehome Association American Association of,2
 Western Mobilehome Parkowners AssociationConsumer Attorneys of,2
 Western Prelacy Board of Regents of Armenian Schools in,2
 Western Shasta,2
-Western States Region,2
 Western University of Health Sciences - College of,2
-Western Water,2
 Whispering,2
 White,2
 William,2
-Winters,2
-Wolf,2
 Women Prosecutors,2
 Women's Health Specialists The Feminist Women's Health Centers of,2
 "Women, Inc",2
@@ -2984,7 +2988,6 @@ World Privacy,2
 Worldwide,2
 "Writing in to this bill, the California Chamber of",2
 "Writing in to this bill, the California Council for",2
-YA,2
 YWCA Santa,2
 YWCA of San,2
 YWCA of Sonoma,2
@@ -3301,7 +3304,6 @@ Tenants,2
 Thousand,2
 Unavailable,2
 Undersheriff,2
-Wakefield,2
 John R,2
 County Council on Aging,2
 Senate,2
@@ -3363,7 +3365,6 @@ The [United],2
 the Chamber of Commerce,2
 Transit agencies and advocates,2
 Union Local 6,2
-"Union, Local 26",2
 AACU,2
 A California Corporation,2
 Wick,2
@@ -3456,6 +3457,45 @@ U.S. 345,2
 X1,2
 Turkey,2
 Withdrawn,2
+TOC,2
+TRAP,2
+Traffic Safety Taught With,2
+Transitional,2
+Tree House,2
+Tri-County CEA,2
+Tropical Island,2
+Truck Association,2
+UCLP,2
+UHF,2
+University State University,2
+"University of California Employees, American Federation of",2
+VIC,2
+Valley and Ventura County Cities of,2
+Ventura County Certified Farmers,2
+Volunteer,2
+W,2
+WRT,2
+Walnut Avenue Caf,2
+Walnut City,2
+Warehouse,2
+Wars,2
+Water Department,2
+Water Districts of,2
+Weed,2
+West Hills,2
+West Los Angeles,2
+Western Freedom,2
+Women For: California,2
+Workforce Investment,2
+YWCA - MC,2
+Youth Mentoring,2
+Zero Waste,2
+Transmitted,2
+Transplantation,2
+Transporters,2
+Tyler,2
+Unnknown,2
+Union Local 11,2
 Acacia,1
 $30,1
 104 Individual Letters from Representatives of,1
@@ -5660,8 +5700,6 @@ TEA,1
 TGI,1
 THE CA,1
 TMJ Society of,1
-TOC,1
-TRAP,1
 TVS 00462,1
 Table Bluff,1
 "Taft, City of",1
@@ -5774,16 +5812,12 @@ Toltec Center of,1
 Tort Reform Consumer Attorneys of,1
 Total,1
 Trade & Commerce Agency and the City of,1
-Traffic Safety Taught With,1
 Transit,1
-Transitional,1
 "Transportation, Inc",1
 Traumatic Brain Injury,1
 Travel,1
 Treasurer and,1
-Tree House,1
 Tri-City Alameda County Chapter of the Brady Campaign to Prevent Gun,1
-Tri-County CEA,1
 Tri-Valley,1
 Tri-Valley Citizens for Responsible,1
 Tri-Valley Housing,1
@@ -5795,11 +5829,9 @@ Tribal,1
 Tribal Alliance of Sovereign Indian,1
 "Tribes: Big Pine Paiute, Bishop Paiute, Lone Pine, Shoshone-Paiute, Timbisha Shoshone Tribe of",1
 Triple,1
-Tropical Island,1
 Troyer,1
 Tru,1
 Truck Ass'n,1
-Truck Association,1
 "Truck Rental, Montebello",1
 Trucking,1
 True,1
@@ -5812,9 +5844,7 @@ Turbines,1
 Tuttle,1
 U.S. Chamber of,1
 "U.S. Department of Defense, Office of the Deputy Assistant Secretary of",1
-UCLP,1
 UCSF School of,1
-UHF,1
 US Women's Chamber of,1
 Ukrainian Church of,1
 Underground Service Alert of,1
@@ -5842,19 +5872,14 @@ Unity,1
 Universal City-North Hollywood Chamber of,1
 University Professional & Technical Employees-Communications Workers of,1
 University School of,1
-University State University,1
 University Women California,1
-"University of California Employees, American Federation of",1
 "University of California, Los Angeles, Professor of",1
 University of Southern California Association of,1
 "Upland, City of",1
-VIC,1
 "VISIONES (Fresno, CA) and",1
 VP,1
 "Valerie Richards, Parents of",1
-Valley and Ventura County Cities of,1
 Ventura Counties,1
-Ventura County Certified Farmers,1
 Ventura County Coastal Association,1
 "Ventura County Council, Boy Scouts of",1
 Ventura County Parents and Friends of,1
@@ -5867,26 +5892,17 @@ Victims of,1
 Viejas Band of,1
 Vietnamese American Chamber of,1
 Vincent De Paul Center for,1
-Volunteer,1
 Volunteer Centers of,1
 Voters for,1
-W,1
 W. Bradley,1
 W. Contra,1
 WB Television,1
 "WEAVE, Women",1
-WRT,1
-Walnut Avenue Caf,1
-Walnut City,1
 Walnut Valley,1
 Walnut Valley Water,1
 Walt,1
 Walters,1
 Wardens Protective,1
-Warehouse,1
-Wars,1
-Water Department,1
-Water Districts of,1
 Water and Power,1
 Waterjet,1
 Waters,1
@@ -5894,17 +5910,14 @@ Waterways Restoration,1
 Watsonville Association of,1
 Watts Friendship,1
 "Wave, Inc",1
-Weed,1
 Wesley United,1
 West Angeles,1
 West Contra,1
 West Contra County Association of,1
-West Hills,1
 West Hollywood Democratic,1
 West Inc,1
 West Kern Community,1
 West LA Community,1
-West Los Angeles,1
 West Shield,1
 West Sonoma County,1
 "West Virginia University, Associate Vice President for",1
@@ -5913,7 +5926,6 @@ Western Allied,1
 "Western Center on Law and Poverty, Department of",1
 Western Farm,1
 Western Floor,1
-Western Freedom,1
 Western Manufactured,1
 Western Mobilehome AssociationAmerican Association of,1
 Western Propane Gas,1
@@ -5944,7 +5956,6 @@ Wilton,1
 Windflower Point Mutual,1
 Window,1
 Wireless,1
-Women For: California,1
 Women Lawyers Association of,1
 Women Lawyers of,1
 Women Organized to Respond to,1
@@ -5957,12 +5968,10 @@ Woodwork Institute of,1
 Workers' Compensation Fraud,1
 "Workers, California Chapter National Council of",1
 Workerso Compensation Law Section of the State Bar of,1
-Workforce Investment,1
 Worth,1
 Wounded,1
 "Writing in of AB 1586, Legal Services for Prisoners with",1
 YMCA of,1
-YWCA - MC,1
 YWCA Pasadena Foothill,1
 YWCA Rape,1
 YWCA of,1
@@ -5973,7 +5982,6 @@ Yolo County Office of,1
 Yolo Housing,1
 "Young, LLP",1
 Youth Alive! Law Center to,1
-Youth Mentoring,1
 Youth Services,1
 Youth and Family,1
 "Youth and Family Services, Inc. of",1
@@ -5981,7 +5989,6 @@ Youth for,1
 Yreka Chamber of,1
 ZYN,1
 Zebra,1
-Zero Waste,1
 "Zev Yarosolsky, Member, Los Angeles County Board of",1
 Zoological Society,1
 add,1
@@ -6813,14 +6820,9 @@ Thornhill,1
 Threatened,1
 Tourism,1
 Trans,1
-Transmitted,1
-Transplantation,1
-Transporters,1
 Tulare/Kings,1
-Tyler,1
 Underwrithers,1
 Unions,1
-Unnknown,1
 Victim/Witness,1
 Victoia,1
 Vineyards,1
@@ -7460,6 +7462,41 @@ Valley/Northeast Los Angeles Chapter,1
 "Winemakers of California, Western States",1
 Wage,1
 "York, Group of thirty, International",1
+Total Companies,1
+Toxics Coalition,1
+Traditional (Corbett),1
+Transition,1
+"Trust Company, Federal Reserve Bank of New",1
+UC Commercial Service,1
+Unified School District - Project Even,1
+"Unified School District, Riverside County",1
+Union Local 2350,1
+"Union, AFL-CIO, CLC",1
+"Union, Local 4873",1
+"Union, Local 5",1
+"Union, Local 68L",1
+University Law School,1
+University School of Medicine,1
+untreated,1
+urges,1
+Valley Community Hospital,1
+"Valley Community Services District, California",1
+Valley Realty,1
+"Valley, and Tustin",1
+"Valley, League of California Cities",1
+various environmental,1
+VBG,1
+Water (sponsor) Agencies,1
+WCB,1
+"West Neighborhood Council, North Valley",1
+Western Justice,1
+Western Nevada,1
+William S,1
+"Williams, Jr",1
+Within the United,1
+"Womenos Center, Shasta County Womenos",1
+Woodside Terrace,1
+"Workers, District Lodge 1125, San Diego",1
 542,0
 AFL-CIO Local 11,0
 Assn of CA,0
