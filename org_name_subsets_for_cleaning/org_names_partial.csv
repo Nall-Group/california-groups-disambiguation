@@ -3,7 +3,7 @@ CITY OF,1254
 Union,873
 Council,796
 County,707
-COUNTIES,434
+COUNTIES,435
 Services,425
 CIO,422
 Department,405
@@ -119,8 +119,8 @@ SMH:bkh,66
 Government,66
 Action Now,65
 California Coalition,65
+County Sheriffs Department,65
 Napa,64
-County Sheriffs Department,64
 Butte,64
 Seniors,64
 Fullerton,63
@@ -166,7 +166,7 @@ Glenn,49
 National Association of,48
 Service,48
 Floor,48
-Federation of California,47
+Federation of California,48
 Tri-valley City of Dublin,47
 Chief Probation,47
 Lake,47
@@ -284,9 +284,9 @@ Momentum,28
 Brea,28
 Obispo Counties,28
 Pharmacists,28
+Taxpayers,28
 California League of,27
 Judicial Council of,27
-Taxpayers,27
 Town of,27
 Young Children,27
 of Realtors,27
@@ -385,10 +385,10 @@ Inyo,20
 Technicians,20
 Alamo,20
 Westminster,20
+The Center,20
 Chief Probation Officer,19
 Juvenile Court Judges of,19
 Professional,19
-The Center,20
 Long,19
 Air,19
 Woodland,19
@@ -486,6 +486,7 @@ k,15
 Control District,15
 La Puente,15
 Providers,15
+CA,15
 California Chapter of,14
 California Coalition of,14
 California Women,14
@@ -530,7 +531,6 @@ Ltd,14
 Pacifica,14
 j,14
 Sage,14
-CA,14
 Page D,14
 Attorneys,14
 Meeting,14
@@ -848,6 +848,7 @@ Together,8
 Women's Crisis,8
 CSSA,8
 PAI,8
+Defense Counsel,8
 Accountability,7
 "Advocates, Inc",7
 Apartment Association of,7
@@ -864,7 +865,6 @@ California Union,7
 Catholic Charities of,7
 DG,7
 Defenders of,7
-Defense Counsel,8
 Defense and Educational Fund,7
 Executive Committee of the Trusts and Estates Section of the State Bar of,7
 Fellowship,7
@@ -1111,6 +1111,7 @@ Western Regional,6
 Wings,6
 Universities,6
 DA,6
+Geologists,6
 4.,5
 Actors and Others for,5
 Agricultural Council of,5
@@ -1270,7 +1271,6 @@ of Cruelty to Others,5
 of Housing and Community Development,5
 of So. CA,5
 Chancellor,5
-Geologists,6
 Townhouse,5
 Watershed,5
 Agency on Aging,5
@@ -2184,6 +2184,8 @@ Classy,3
 FLS-CA,3
 CMS,3
 We Care,3
+CBCN,3
+County of Special Districts,3
 434-B,2
 5th District,2
 6,2
@@ -2433,7 +2435,6 @@ County Sheriff's,2
 County Welfare Directoros Association of,2
 County of Los Angeles_Dept. of,2
 County of Santa Cruz Board of,2
-County of Special Districts,2
 Course,2
 "Covina Valley Unified School District, Deaf and Hard of",2
 Crier,2
@@ -3371,7 +3372,6 @@ A California Corporation,2
 Wick,2
 Wine Country,2
 BWW-AP,2
-CBCN,2
 "City of Los Angeles , American",2
 in order,2
 Justice and Evidence,2
@@ -3522,6 +3522,8 @@ Agricultural interests,2
 PPL,2
 VBG,2
 CALA,2
+SSS,2
+GMR,2
 Acacia,1
 $30,1
 104 Individual Letters from Representatives of,1
@@ -5518,7 +5520,6 @@ SFID,1
 SFOPPIA,1
 SHIELDS for,1
 SPCA for,1
-SSS,1
 Sacramento Chief of,1
 Sacramento Citizens Committee on,1
 Sacramento Metro Chamber of,1
@@ -7178,7 +7179,6 @@ Future America,1
 "Gate Branch 214, AFL-CIO",1
 GC,1
 GKC,1
-GMR,1
 Great (BENOIT),1
 Gunsports groups,1
 Hallmark,1
@@ -7602,6 +7602,47 @@ PCPC,1
 AMA,1
 Southwest Santa Clara Valley,1
 Counties of El Dorado,1
+County and Municipal Employees Association for Health,1
+Fountain Valley Elem.,1
+CR,1
+CMP,1
+CSAAVE,1
+CWMP,1
+Accrediting Commission,1
+CHDP,1
+Environmental Information Defense Center,1
+Northwest Coalition,1
+Department of Technology,1
+The California Medical,1
+Diego County Laboratory,1
+FAIR Plan,1
+Restaurants Central/Cannery,1
+EMSAAC,1
+OUSD Task Force for the Education of African-American,1
+GCLA,1
+Los Angeles National,1
+Div. of Epilepsy and Clinical,1
+The Campaign For,1
+DVU,1
+The Sierra,1
+EIG,1
+Employee Relations Board,1
+Labor and Workforce,1
+Los Angeles Port Community Advisory,1
+ERPA,1
+Air Resources,1
+FARE,1
+FWC,1
+DEJ,1
+DCC,1
+CALSSD,1
+OSE,1
+"People, Inc",1
+DASP,1
+Orange County Breast Cancer,1
+Golden State Life,1
+UCRP,1
+AFPA,1
 542,0
 AFL-CIO Local 11,0
 Assn of CA,0
