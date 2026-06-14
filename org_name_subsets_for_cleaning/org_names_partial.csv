@@ -1,7 +1,7 @@
 org_name,count
 CITY OF,1254
 Union,873
-Council,796
+Council,797
 County,707
 COUNTIES,435
 Services,425
@@ -16,7 +16,7 @@ Concerns,328
 Los,311
 SAN,287
 Physicians,262
-California Association,253
+California Association,254
 Francisco,241
 National,239
 version,235
@@ -24,7 +24,7 @@ Secretary of,230
 Riverside,225
 Foundation,222
 Cities of,215
-Attorney,208
+Attorney,209
 City,208
 Orange,204
 Opponents,198
@@ -151,11 +151,11 @@ Prc,53
 Yolo,52
 Safety,51
 of Los Angeles,51
+Yuba,51
 City of San,50
 Insurance,50
 California Federation,50
 Engine,50
-Yuba,50
 Palmdale,50
 BW,49
 Group,49
@@ -186,7 +186,6 @@ Council of California,43
 Laguna Beach,43
 Beach,43
 Mariposa,43
-Tustin,43
 COUNTY DISTRICT ENROLLMENT AS OF,42
 School,42
 Legal Services for,42
@@ -213,7 +212,7 @@ Tuolumne,38
 PhD,38
 Apartment,37
 of Supervisors,37
-Medicine,37
+Medicine,38
 Families,36
 Jr,36
 Hospital,36
@@ -245,7 +244,6 @@ West Covina,33
 Placentia,33
 Turlock,33
 Action,32
-Watsonville,32
 Conservators,32
 Murrieta,32
 Problems,32
@@ -385,6 +383,7 @@ Technicians,20
 Alamo,20
 Westminster,20
 The Center,20
+Proponents,20
 Chief Probation Officer,19
 Juvenile Court Judges of,19
 Professional,19
@@ -395,7 +394,6 @@ Balance,19
 Budget,19
 Government Organization and Economy,19
 CPA,19
-Proponents,20
 California Conference Board of,18
 Contra,18
 Junior Leagues of,18
@@ -751,7 +749,6 @@ Page H,9
 Page b,9
 Persons,9
 Prism,9
-Windsor,9
 Endocrinologists,9
 Chair,9
 Manager,9
@@ -954,6 +951,7 @@ Watch,7
 California Community,7
 Property Owners,7
 Board of Trustees,7
+Medical,7
 2,6
 Administrator,6
 Armed Forces Retirees Association of,6
@@ -1096,7 +1094,6 @@ labor,6
 "Association, Inc",6
 Again,6
 LCSW,6
-Medical,7
 Medium,6
 Page p,6
 The Progress,6
@@ -1111,6 +1108,7 @@ Wings,6
 Universities,6
 DA,6
 Geologists,6
+The County,7
 4.,5
 Actors and Others for,5
 Agricultural Council of,5
@@ -1296,7 +1294,6 @@ ACIP,5
 Supreme Court,5
 Health plans and health insurers,5
 SF,5
-The County,6
 Wave,5
 labor groups,5
 Academy,4
@@ -1380,7 +1377,7 @@ Greater Riverside Chambers of,4
 Habitat,4
 "Hermosa Beach, City of",4
 Hunger,4
-Inland,4
+Inland,5
 Interest Research Group (CALPIRG),4
 International Alliance of,4
 Je Suis L,4
@@ -1618,6 +1615,7 @@ Wilson,4
 Youth Justice,4
 A coalition,4
 various organizations,4
+Liberty,4
 29 AFL-CIO and CLC,3
 3,3
 ACLU and California Attorneys for,3
@@ -1797,7 +1795,6 @@ Legal Aid Foundation of,3
 Legal Aid Society of,3
 Legal Center,3
 Legislative Committee of the County Clerks Association of,3
-Liberty,4
 Lieutenant,3
 Linum,3
 "Lobby, Inc",3
@@ -2188,6 +2185,8 @@ County of Special Districts,3
 COA,3
 Academic Senate,3
 NPA,3
+the Chamber of Commerce,3
+The Commission,3
 434-B,2
 5th District,2
 6,2
@@ -2917,7 +2916,7 @@ The Chiefs of,2
 The Greater Merced County Multi-Cultural Chamber of,2
 "The Honorable Ed Chavez, Mayor, and the City Council of",2
 The Kevin Collins Foundation for,2
-The Law Center,2
+The Law Center,3
 The MWA,2
 The Mutual,2
 The National Association of,2
@@ -3363,7 +3362,6 @@ Several other,2
 "Sheriffs, Inc",2
 states in a,2
 The [United],2
-the Chamber of Commerce,3
 Transit agencies and advocates,2
 Union Local 6,2
 AACU,2
@@ -3499,7 +3497,6 @@ Union Local 11,2
 Public Defender's,2
 COEs,2
 LOCAL GOVERNMENT,2
-The Commission,3
 CSIA,2
 GOC,2
 NFVLRC,2
@@ -7296,7 +7293,7 @@ NFA,1
 North (Ortiz/Alby) District,1
 NOVF Experimental Technology,1
 Numerous (Maze),1
-Numerous labor unions,1
+Numerous labor unions,2
 Numerous legal aid and services organizations,1
 "of California, INC",1
 OCSD,1
@@ -7696,6 +7693,15 @@ Laguna N. Neighborhood Association,1
 CYFC,1
 LAWA,1
 LBAHC,1
+AAM,1
+CEUP,1
+Los Angeles County MSU,1
+WPSA,1
+Management Group (SMG),1
+Department of Pathology and Laboratory,1
+Municipal Advisory Council,1
+The Strike Force,1
+CTRA,1
 542,0
 AFL-CIO Local 11,0
 Assn of CA,0
