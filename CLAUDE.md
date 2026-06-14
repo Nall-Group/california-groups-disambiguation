@@ -36,7 +36,7 @@ If the entry only exists in the JSON and not in any CSV file, just remove it fro
 
 ## Coordination Queues
 
-To prevent concurrent edits from overwriting each other, `TASKS.md` and `QUESTIONS.md` each have their own write queue (in addition to the existing data file write queue). **Everyone** — management assistant and worker RAs alike — must join the relevant queue before editing these files.
+To prevent concurrent edits from overwriting each other, `TASKS.md` and `QUESTIONS.md` each have their own write queue (in addition to the existing data file write queue). **Everyone** — management assistant and worker RAs alike — must join the relevant queue before editing these files. To prevent blocking other agents, Please only add yourself to the write queue when you're ready to write and have finished processing.
 
 ### TASKS.md Write Queue
 Located at the top of `TASKS.md` under "## TASKS.md Write Queue". To edit TASKS.md (mark tasks in-progress/done, add tasks, update the data write queue, etc.):
