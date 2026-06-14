@@ -39,7 +39,7 @@ California Attorneys for,160
 Institute,159
 Administrators,153
 Organizations,153
-San Francisco,152
+San Francisco,153
 Network,151
 PATH,147
 SMH:bjw,139
@@ -52,13 +52,13 @@ AB,132
 Women,129
 Advocates,126
 for Criminal Justice,125
-Sheriffs,120
+Sheriffs,121
 Stockton,118
 Project,118
 Bureau,114
 Program,113
 Cities,113
-COMMITTEE,112
+COMMITTEE,113
 Monterey,107
 Santa,105
 Emergency Medical Services Administrators Association of,104
@@ -225,7 +225,7 @@ PageD,36
 Affiliate,36
 System,36
 Office,36
-La,35
+La,36
 Counsel,35
 MM,35
 Montebello,35
@@ -610,6 +610,7 @@ Reach,12
 Training,12
 Waste,12
 Legislature,12
+The Chamber,12
 Asian Pacific,11
 Asian Pacific American Legal Center of,11
 Association of Korean Oriental Medicine and Acupuncture of,11
@@ -654,9 +655,9 @@ Galt,11
 l,11
 we are,11
 Parole,11
-The Chamber,11
 Law Enforcement,11
 Environmental Organizations,11
+Democratic Party,11
 Alameda County Board of,10
 Association of Korean Oriental Medicine & Acupuncture of,10
 California Coalition of Agencies Serving the Deaf and Hard of,10
@@ -664,7 +665,6 @@ California Council of,10
 California Society for,10
 City of Palm,10
 Commission on,10
-Democratic Party,10
 "Foundation, Inc",10
 International Brotherhood of,10
 Judge,10
@@ -1299,6 +1299,8 @@ CSA,5
 ACIP,5
 Supreme Court,5
 Health plans and health insurers,5
+SF,5
+The County,5
 Academy,4
 Accountancy,4
 Adoption,4
@@ -1456,7 +1458,6 @@ Rancheria,4
 "Reserve Officers Association of the United States, Department of",4
 Response,4
 Retirees,4
-SF,4
 Safari,4
 San Diego County Board of,4
 San Francisco Chamber of,4
@@ -1604,7 +1605,6 @@ Chemistry,4
 Childbirth,4
 Regional-Video,4
 OMD,4
-The County,4
 Resource,4
 Agrion,4
 MWA,4
@@ -2184,6 +2184,8 @@ Premier,3
 CBH,3
 IC,3
 Classy,3
+FLS-CA,3
+CMS,3
 434-B,2
 5th District,2
 6,2
@@ -3340,7 +3342,6 @@ CPW,2
 CSVS,2
 "Districts of Los Angeles County, East Bay",2
 education groups,2
-FLS-CA,2
 further,2
 groups that,2
 Gun-related organizations,2
@@ -3443,7 +3444,6 @@ ANGI,2
 Agron,2
 Aican,2
 Autel,2
-CMS,2
 HOK,2
 KYA,2
 "Monkey Out, Voters In",2
@@ -3515,6 +3515,8 @@ CCIR,2
 Athens Research,2
 HFP,2
 Department of Child,2
+AVHC,2
+Quarterhorse owners,2
 Acacia,1
 $30,1
 104 Individual Letters from Representatives of,1
@@ -6943,7 +6945,6 @@ Attorney General's Police,1
 Authority-Sponsor,1
 "Auto, Marine, Prod., Finishers, Equipment Maintenance and Pub",1
 AVCA,1
-AVHC,1
 Background Profiles,1
 "Band of Luiseno Mission Indians, Rancho",1
 "Band of Mission Indians, Native American",1
@@ -7344,7 +7345,6 @@ Protect (Hoge),1
 Public Financing Authority,1
 "Publishing, Inc",1
 q,1
-Quarterhorse owners,1
 Reconstruction Incorporation,1
 recorders,1
 Reliable,1
@@ -7528,6 +7528,33 @@ the Judicial,1
 FLC,1
 CCHR,1
 Public Rights Division,1
+San Diego County Ecumenical,1
+RCCD,1
+CHCF,1
+Regional Poison Control Center,1
+FEPFR,1
+BPT,1
+BSC,1
+Department of Information,1
+HESIS,1
+San Gabriel Valley Chapter,1
+Santa Barbara Patient,1
+SCG,1
+Security Printers,1
+California DNA,1
+FLP,1
+Fresno Coalition Against the Misuse,1
+SFFJP,1
+PHO,1
+SOR,1
+Commission on the Fair,1
+One Stop Center,1
+CNO,1
+Auditor,1
+National Conference on Weights and Price Verification Guidelines,1
+Climate Innovation Fund,1
+EAC,1
+MCE,1
 542,0
 AFL-CIO Local 11,0
 Assn of CA,0
