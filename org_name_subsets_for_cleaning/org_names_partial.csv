@@ -50,11 +50,11 @@ League,136
 Association of,133
 AB,132
 Women,129
-Advocates,126
+Advocates,127
 for Criminal Justice,125
 Sheriffs,121
+Project,119
 Stockton,118
-Project,118
 Bureau,114
 Program,113
 Cities,113
@@ -84,10 +84,10 @@ Valley,83
 Society,82
 California School,82
 Programs,80
+University,79
 Agency,78
 Firefighters,78
 Region,78
-University,78
 Protection,76
 "Strategic Committee of Public Employees, Laborers International Union of",75
 Legal,75
@@ -374,6 +374,7 @@ ING,21
 Wm,21
 CPF,21
 Water Agencies,21
+ACT,21
 Development Corporation,20
 Gun,20
 Mexican,20
@@ -383,7 +384,6 @@ State Coalition of,20
 Rosa,20
 Environments,20
 Inyo,20
-ACT,20
 Technicians,20
 Alamo,20
 Westminster,20
@@ -957,12 +957,12 @@ AGSJ,7
 Watch,7
 California Community,7
 Property Owners,7
+Board of Trustees,7
 2,6
 Administrator,6
 Armed Forces Retirees Association of,6
 Association of San Francisco,6
 Blue,6
-Board of Trustees,6
 California Association of Joint,6
 California Chapters of the National Association of,6
 California Department of,6
@@ -1301,6 +1301,7 @@ Supreme Court,5
 Health plans and health insurers,5
 SF,5
 The County,5
+Wave,5
 Academy,4
 Accountancy,4
 Adoption,4
@@ -1571,7 +1572,6 @@ Ponderosa,4
 Protect California,4
 Senate Subcommittee on,4
 TDS,4
-Wave,4
 g,4
 of California (CADPAAC),4
 of California (PORAC) Association,4
@@ -2101,7 +2101,7 @@ Vehicles,3
 Victim,3
 Visibility,3
 Wadsworth,3
-various organizations,3
+various organizations,4
 California Rifle and,3
 Ill-Whittier,3
 Mom,3
@@ -2186,6 +2186,7 @@ IC,3
 Classy,3
 FLS-CA,3
 CMS,3
+We Care,3
 434-B,2
 5th District,2
 6,2
@@ -2970,7 +2971,6 @@ Washington D.C,2
 Washoe Tribe of,2
 Water Replenishment,2
 We Are Homicide,2
-We Care,2
 Weekly,2
 Wells,2
 West Coast,2
@@ -3646,7 +3646,7 @@ Asian American for,1
 Asian and Pacific,1
 Asian and Pacific Islander Association of,1
 Asians for,1
-Assembly,1
+Assembly,2
 Assessor's,1
 Assessor-County Clerk-Recorder & Elections,1
 Assessor-Recorder-Clerk,1
@@ -5716,7 +5716,7 @@ TACC - Triple A Council of,1
 TCI,1
 TEA,1
 TGI,1
-THE CA,1
+THE CA,2
 TMJ Society of,1
 TVS 00462,1
 Table Bluff,1
@@ -6881,7 +6881,7 @@ Accountancy Corporation,1
 Additional,1
 AFC,1
 affirm,1
-Agricultural interests,1
+Agricultural interests,2
 AHS further,1
 AKF,1
 all state,1
@@ -7555,6 +7555,24 @@ National Conference on Weights and Price Verification Guidelines,1
 Climate Innovation Fund,1
 EAC,1
 MCE,1
+Water Service Company,1
+APPS,1
+Welfare Fund,1
+Cal-ICH,1
+PJI-CCP,1
+Teachers' Retirement Fund,1
+CCF,1
+AHI,1
+AIC,1
+TRC,1
+TSCN,1
+SNPAOs,1
+CSAM,1
+Tyndall,1
+WOEIP,1
+"Painting, Inc",1
+AASCB,1
+Committee on Early,1
 542,0
 AFL-CIO Local 11,0
 Assn of CA,0
