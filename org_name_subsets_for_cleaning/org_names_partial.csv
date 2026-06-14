@@ -3,12 +3,12 @@ CITY OF,1254
 Union,873
 Council,796
 County,707
-COUNTIES,432
+COUNTIES,434
 Services,425
-CIO,419
+CIO,422
 Department,405
 County of,396
-Sacramento,394
+Sacramento,396
 Center,369
 Angeles,364
 Industry,353
@@ -25,28 +25,28 @@ Riverside,225
 Foundation,222
 Cities of,215
 Attorney,208
-City,205
+City,208
 Orange,204
-Defenders Association,187
+Opponents,198
 National Association,183
 Merced,178
 Board,173
-Alliance,170
+Alliance,172
 Professionals,169
 Chapter,161
 Consumer,161
 California Attorneys for,160
 Institute,159
 Administrators,153
+Organizations,153
 San Francisco,152
 Network,151
-Organizations,150
 PATH,147
 SMH:bjw,139
 Women for,139
 BILL,138
 Administration,137
-League,134
+League,136
 Association of,133
 AB,132
 Women,129
@@ -58,7 +58,7 @@ Project,118
 Bureau,114
 Program,113
 Cities,113
-COMMITTEE,110
+COMMITTEE,112
 Monterey,107
 Santa,105
 Emergency Medical Services Administrators Association of,104
@@ -66,8 +66,7 @@ of Colored People,103
 Other,103
 League of California,100
 Consumer Attorneys of,99
-Western,97
-Opponents,97
+Western,99
 American Federation of,93
 Attorneys of California,92
 Unknown,92
@@ -134,13 +133,13 @@ Doris,61
 Moreno Valley,61
 Numerous,61
 Concern,61
+opposition,61
 Taxpayers for,60
 Development,60
 Connect,60
 LLC,60
 one,58
-opposition,58
-arc,56
+arc,58
 Officials,56
 Consumer Federation of,55
 Sheriff-Coroner,55
@@ -196,10 +195,10 @@ College,42
 Laguna Hills,42
 RS,42
 care,42
+California Medical,42
 Department of California,41
 Legal Services,41
 Chino,41
-California Medical,40
 Department of,40
 Administrators' Association,40
 Water District,40
@@ -309,6 +308,8 @@ Taft,26
 LLP,26
 Elk Grove,26
 Rialto,26
+Finance,26
+Insurers,26
 California Federation of,25
 Civil,25
 Coalition for,25
@@ -356,6 +357,7 @@ Groups,22
 California Association of Services for,22
 Pittsburg,22
 for the Advancement of Colored People,22
+City Council,22
 ANIMAL,21
 El,21
 Gray,21
@@ -364,13 +366,14 @@ Associated,21
 Household,21
 Park,21
 Transportation,21
-Insurers,22
 Management,21
 City of City,21
 Communities,21
 ING,21
 "Counties, Inc",21
 Wm,21
+CPF,21
+Water Agencies,21
 Development Corporation,20
 Gun,20
 Mexican,20
@@ -393,8 +396,9 @@ Air,19
 Woodland,19
 Balance,19
 Budget,19
-Finance,19
 Government Organization and Economy,19
+CPA,19
+Proponents,19
 California Conference Board of,18
 Contra,18
 Junior Leagues of,18
@@ -408,7 +412,6 @@ Equalization,18
 Aids,18
 Investigators,18
 Examiners,18
-City Council,18
 Brisbane,18
 Task Force,18
 La Verne,18
@@ -423,7 +426,6 @@ Defense Council,17
 two,17
 Building,17
 North,17
-Water Agencies,17
 Boost,17
 Conservancy,17
 Mercy,17
@@ -435,8 +437,7 @@ Hon,17
 Huron,17
 Lawndale,17
 Petaluma,17
-Post,17
-CPF,17
+CAA,17
 California Council on Alcohol,16
 Long Beach Police,16
 "of State, County and Municipal Employees (AFSCME), AFL-CIO",16
@@ -575,9 +576,10 @@ PACE,13
 Clara County,13
 Hope,13
 Page E,13
-Proponents,13
 Period,13
 X,13
+Chamber,13
+CEA,13
 Agri,12
 Bay,12
 Boys and Girls Clubs,12
@@ -607,6 +609,7 @@ Lobby,12
 Reach,12
 Training,12
 Waste,12
+Legislature,12
 Asian Pacific,11
 Asian Pacific American Legal Center of,11
 Association of Korean Oriental Medicine and Acupuncture of,11
@@ -649,9 +652,11 @@ Mpp,11
 Developmental Disabilities,11
 Galt,11
 l,11
-Chamber,11
 we are,11
 Parole,11
+The Chamber,11
+Law Enforcement,11
+Environmental Organizations,11
 Alameda County Board of,10
 Association of Korean Oriental Medicine & Acupuncture of,10
 California Coalition of Agencies Serving the Deaf and Hard of,10
@@ -704,6 +709,7 @@ Sd-sequel,10
 Million,10
 U.S,10
 West Contra Costa,10
+CRA,10
 Asian Americans for,9
 Asian Law,9
 Assistance,9
@@ -773,6 +779,9 @@ of the San Francisco Bay Area,9
 Place,9
 Nation,9
 Washington,9
+Metro,9
+The National,9
+The Board,9
 American Academy of,8
 Associated General Contractors of,8
 California Applicants,8
@@ -787,7 +796,6 @@ Friends of,8
 Gun Owners of,8
 Jewish Public Affairs Committee of,8
 Junior League of,8
-Law Enforcement,8
 Lutheran Office of,8
 Natural,8
 Northern California CF,8
@@ -839,9 +847,10 @@ Law Section of the State Bar,8
 AHS,8
 Normative,8
 Properties,8
-CPA,8
 Together,8
 Women's Crisis,8
+CSSA,8
+PAI,8
 Accountability,7
 "Advocates, Inc",7
 Apartment Association of,7
@@ -871,7 +880,6 @@ International Association of,7
 Justice - State Bar,7
 Justice for,7
 Law Offices of,7
-Legislature,7
 Los Angeles Commission on,7
 MANA,7
 Machinists Automotive Trades District Lodge 190 of,7
@@ -890,7 +898,6 @@ State Bar Committee on,7
 Street,7
 Sustainable Environment and Economy for California,7
 "Technologies, Inc",7
-The National,7
 Valley Chamber of Commerce,7
 Writing in,7
 b,7
@@ -936,7 +943,6 @@ Dunsmuir,7
 org,7
 of California,7
 of Southern California,7
-CAA,7
 Defenders Office,7
 Athletics,7
 Impaired,7
@@ -948,8 +954,9 @@ PLANT,7
 only,7
 Small,7
 AGSJ,7
-Metro,7
 Watch,7
+California Community,7
+Property Owners,7
 2,6
 Administrator,6
 Armed Forces Retirees Association of,6
@@ -958,7 +965,6 @@ Blue,6
 Board of Trustees,6
 California Association of Joint,6
 California Chapters of the National Association of,6
-California Community,6
 California Department of,6
 "California Department of Education, State Superintendent of",6
 "California, Davis",6
@@ -1093,7 +1099,6 @@ Heating,6
 labor,6
 "Association, Inc",6
 Again,6
-Environmental Organizations,6
 LCSW,6
 Medical,6
 Medium,6
@@ -1104,7 +1109,6 @@ Concerns/Other,6
 Annually,6
 Social,6
 Pax,6
-CPCA,6
 X X,6
 Western Regional,6
 Wings,6
@@ -1291,6 +1295,10 @@ University School of Law,5
 "Water, Inc",5
 Trades,5
 Unsafe,5
+CSA,5
+ACIP,5
+Supreme Court,5
+Health plans and health insurers,5
 Academy,4
 Accountancy,4
 Adoption,4
@@ -1439,7 +1447,6 @@ Planned Parenthood of Orange and San,4
 Police Departments of the,4
 Probation Officers of,4
 Professional Insurance Agents and Brokers of,4
-Property Owners,4
 Psychology,4
 Public Works Department of,4
 Puente,4
@@ -1576,8 +1583,6 @@ Streetlights,4
 Partnership,4
 "Association, California League of Food",4
 County of Inc,4
-CRA,4
-CSSA,4
 labor groups,4
 Many,4
 services and,4
@@ -1615,6 +1620,7 @@ Western Air,4
 Willow,4
 Wilson,4
 Youth Justice,4
+A coalition,4
 29 AFL-CIO and CLC,3
 3,3
 ACLU and California Attorneys for,3
@@ -2102,11 +2108,9 @@ Mom,3
 Mount Shasta,3
 of Cruelty to Animals,3
 ASA,3
-CFC,3
 CFCA,3
 Club-California,3
 CMPA,3
-Health plans and health insurers,3
 s office,3
 "Services, Inc",3
 "Union, Local 29",3
@@ -2141,7 +2145,6 @@ p,3
 peer,3
 Strategy,3
 Reporting,3
-PAI,3
 "System"". 2006",3
 MMLG,3
 SAFCEI,3
@@ -2176,6 +2179,11 @@ Wakefield,3
 Trust (CAP/MPT),3
 "IX, California",3
 Professional Firefighters,3
+ART,3
+Premier,3
+CBH,3
+IC,3
+Classy,3
 434-B,2
 5th District,2
 6,2
@@ -2269,7 +2277,6 @@ CA Plaza,2
 CA Primary,2
 CA State Association of,2
 CB,2
-CSA,2
 CalPIRG (California Public),2
 Calif. Dept. of,2
 California Academy of Preventive,2
@@ -3324,7 +3331,6 @@ Truth (ARRT),2
 Bakersfield Foundation,2
 California Justice,2
 CATF,2
-CEA,2
 City of Environment,2
 City of Huntington,2
 COA,2
@@ -3494,6 +3500,21 @@ Tyler,2
 Unnknown,2
 Union Local 11,2
 "IX, CA",2
+Public Defender's,2
+COEs,2
+LOCAL GOVERNMENT,2
+The Commission,2
+CSIA,2
+GOC,2
+NFVLRC,2
+AAI,2
+CCCA,2
+GWI,2
+CENA,2
+CCIR,2
+Athens Research,2
+HFP,2
+Department of Child,2
 Acacia,1
 $30,1
 104 Individual Letters from Representatives of,1
@@ -3616,7 +3637,6 @@ Arcadia Chamber of,1
 "Archdiocese of Los Angeles, Office of",1
 Architectural Millwork of,1
 Area I Developmental Disabilities Board (as introduced)California Association for the Education of,1
-Art,1
 "Arthur J. Gallagher and Co., Insurance Brokers of",1
 As of,1
 Asian American Center for,1
@@ -5379,7 +5399,6 @@ Pope,1
 Portraits,1
 Ports,1
 Positive,1
-Premier,1
 "President Craig McNamara, California State Board of",1
 "Presiding Judge, Juvenile",1
 Printed,1
@@ -5404,7 +5423,6 @@ Proposed Amendments . The Assembly Committee on Revenue and,1
 Public Affairs Committee of the Junior Leagues of,1
 Public Counsel Law Center of Los,1
 Public Defender of the City and County,1
-Public Defender's,2
 Public Health Laboratory Association of,1
 Queen of,1
 Quick,1
@@ -6624,7 +6642,6 @@ Excess,1
 Earlimart,1
 Edgewood,1
 Eldorado,1
-COEs,2
 CSP-Victim,1
 Cabinetry,1
 Camps,1
@@ -6843,7 +6860,6 @@ Section of the State Bar (FLEXCOM),1
 "16, Los Angeles",1
 4th District,1
 "839, Salinas",1
-A coalition,1
 A coalition of groups,1
 a coalition of legal,1
 a local LEA,1
@@ -6990,7 +7006,6 @@ can,1
 CARE Program and Clinics,1
 CASC,1
 Catholic Charities of San,1
-CBH,1
 CBHDAC,1
 CCA,1
 CCB,1
@@ -7092,7 +7107,6 @@ County of Natura,1
 "County, Physicians for Social",1
 "County, San",1
 Court of Santa Cruz County,1
-CRD,1
 Crime Attorneys Association,1
 Crime Marriage and Family Therapists,1
 Crime Victims Action Crisis Harmony,1
@@ -7230,7 +7244,6 @@ Living Programs,1
 LLP Estate Planning,1
 "Local 483, Hayward",1
 Local 522,1
-LOCAL GOVERNMENT,2
 Local government groups,1
 Local Juvenile Justice Commissions,1
 Los Angeles Basin,1
@@ -7406,13 +7419,10 @@ targeted,1
 teaching,1
 The 2020 United,1
 the Association For,1
-The Board,1
 The BPT,1
-The Chamber,1
 The CITC,1
 The Cities of Anaheim,1
 the City of,1
-The Commission,2
 the Cosmetic,1
 the costs,1
 the DOF,1
@@ -7439,7 +7449,6 @@ Andaz West Hollywood General Manager Lin Schatz,1
 CalGEM,1
 CNCB,1
 CNMA,1
-DOSH,1
 Ironworkers Local 509,1
 "Jones & Mayer, Attorneys at Law",1
 "Marble Robots, writing in opposition",1
