@@ -10,6 +10,24 @@ To edit this file (post questions, write answers), join this queue first. Only t
 
 ## Open Questions
 
+### Q12 (Task 1417, RA-Gamma) — ACLU tree: confirm chapter structure + fragment-routing list
+**Status:** Open
+
+The 'American Civil Liberties Union' tree has **186 depth-1 children**, almost all flat `alternate_spelling` (only 4 nodes have nested children; only 'New York ACLU' is a `chapter`). Two parts of the task don't cleanly map to the data, so I want to confirm before committing a large, partly-irreversible restructure:
+
+**(A) Chapter structure (parts 1–2).** Part 1 refers to nesting "byte-exact duplicates" under named "chapters," but those named nodes are currently `alternate_spelling` (not chapters) and the entries to nest are *distinct* spellings, not byte-duplicates. My proposed plan — please confirm or adjust:
+- Convert these 4 existing parent nodes to `chapter` and nest the matching CA / Center-for-Advocacy spellings under them: `American Civil Liberties Union (ACLU)` (national), `AMERICAN CIVIL LIBERTIES UNION OF CALIFORNIA` (CA-state umbrella — also fold the ~18 "Northern California/Southern California/San Diego & Imperial Counties" combined-affiliate spellings here), `American Civil Liberties Union of California (ACLU)`, and `ACLU of California, Center for Advocacy and Policy`.
+- Create `chapter` nodes (each named per the cleanest existing spelling) and nest matching regional alts for: **Northern California, Southern California, San Diego and Imperial Counties, Santa Cruz, Santa Barbara, Santa Clara Valley, Marin, Ventura, San Luis Obispo, Berkeley, South Bay, Whittier, Sacramento Area, Paul Robeson Chapter**. Keep `New York ACLU` as a chapter.
+- Leave all remaining general ACLU spellings/typos (e.g. `ACLU`, `The ACLU`, `Americna Civil Liberties Union`, `American Civil Liberties Association`) as flat depth-1 `alternate_spelling`.
+- **Q: Should I also create chapters for the sub-orgs the task did NOT list — `ACLU California Action`, `ACLU, California Legislative Office`, `National Prison Project of the ACLU`, `ACLU Members for LPS Reform`, `ACLU Club of Vallejo High School`** — or leave those as flat depth-1 alts?
+
+**(B) Fragment routing (part 5).** The task says to route "the narrative/procedural fragment children listed in the issues" to invalidity CSVs, but no list was provided. Please confirm the candidates I identified and the target CSV for each (all are removed from the crosswalk; ACLU itself remains the canonical so no org is lost):
+- → `org_names_embedded_in_narrative_text.csv` (ACLU embedded in prose): `American Civil Liberties Union (ACLU), numerous`; `... (ACLU) and the`; `American Civil Liberties Union to be`; `American Civil Liberties Union,to`; `American Civil Liberties Union (concerned)`; `The American Civil Liberties Union (ACLU) is`; `ACLU California Action writes the following to explain why it`; `ACLU California Action, in support`; `... California Action, a co-sponsor`; `... California Action is pleased`; `... California Action, co-sponsor of this measure`; `In support, the American Civil Liberties Union California Action`; `American Civil Liberties Union (ACLU) writes`; `American Civil Liberties Union of California states`; `ACLU consistently`; `ACLU in conclusion`; `ACLU of California is pleased`; `ACLU Previous letters of support pertained to a version of the bill not before the Committee`; `ACLU, writing in opposition`; `... (ACLU) in opposition`; `... (ACLU), writing in opposition`; `... California Action respectfully` (x2 spellings); `ACLU California Action strongly`; `ACLU California Action - CO-SPONSOR`; `ACLU (regarding background checks)`; `ACLU (with concerns)`.
+- → `org_names_invalid.csv` (bill refs / procedural NOTE comments, not org names): `The American Civil Liberties Union AB123X`; `ACLU (NOTE: SEE COMMENT 5 FOR RECOMMENDATIONS FROM THE APRIL 7 HEARING OF THE SUBCOMMITTEE ON JUVENILE JUSTICE)`; `ACLU (NOTE: SEE COMMENT 8 ...)`; `ACLU AB 2285 (Aguiar) Page p`; `ACLU AB 522 (Diaz)`; `American Civil Liberties Union (NOTE: SEE COMMENTS 13-15 FOR POSSIBLE PROPOSED AUTHOR'S)`.
+- Borderline I plan to **keep as alts** unless told otherwise: `American Civil` (truncation), `American Civil Liberties` (truncation), `Counties (CSAC) ACLU`, `American (Corbett) Union (ACLU)`, `SCR ACLU`, `Women American Civil Liberties Union`, `Children and Families ACLU`, `American Civil Liberties Union of California, Disability`.
+
+Once confirmed I'll execute the whole tree in one atomic commit and run the clean/dedup/stats pipeline.
+
 ### Q11 (Task 1243, RA-Alpha) — state association vs. national-parent placement (structural)
 **Status:** Answered
 
