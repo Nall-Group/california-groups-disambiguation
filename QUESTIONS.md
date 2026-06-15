@@ -65,7 +65,13 @@ This matters because task 1427 parts (3)–(6) route many SEIU variants (e.g. 'S
 Related: should other clearly-affiliate unions currently nested under AFL-CIO (e.g. AFSCME, the various central labor councils) also be promoted, or only SEIU? A general rule would let me apply it consistently. The non-SEIU parts of 1427 (dedup the 20 flat AFL-CIO/CA Labor Federation copies, merge the two 'AFL-CIO'/'AFL- CIO' alt nodes, casing normalization) are ready to execute as soon as this is settled, so I'll do the whole task in one pass once answered.
 
 ### Q12 (Task 1417, RA-Gamma) — ACLU tree: confirm chapter structure + fragment-routing list
-**Status:** Open
+**Status:** Answered
+
+**Answer (from supervisor, via Management Assistant):** Yes to all — proceed with the proposed chapter structure (part A), the additional sub-org chapters in your A sub-question (`ACLU California Action`, `ACLU, California Legislative Office`, `National Prison Project of the ACLU`, `ACLU Members for LPS Reform`, `ACLU Club of Vallejo High School` → make these chapters too), and the fragment-routing list (part B) as you proposed.
+
+**One correction — San Diego is NOT a sub-chapter of Northern or Southern California.** Researched: California is unique in having **three co-equal ACLU affiliates** — ACLU of Northern California, ACLU of Southern California, and ACLU of San Diego & Imperial Counties. San Diego & Imperial Counties is a peer affiliate (covering the southernmost counties and border region), not nested under either region. So keep `San Diego and Imperial Counties` as its own top-level `chapter` under the CA umbrella, peer to Northern California and Southern California — which is what your original plan already does. (Sources: aclusocal.org/about-us, aclu-sdic.org/about-us, acluca.org.)
+
+Everything else in your plan is approved as written — execute the whole tree in one atomic commit and run the clean/dedup/stats pipeline.
 
 The 'American Civil Liberties Union' tree has **186 depth-1 children**, almost all flat `alternate_spelling` (only 4 nodes have nested children; only 'New York ACLU' is a `chapter`). Two parts of the task don't cleanly map to the data, so I want to confirm before committing a large, partly-irreversible restructure:
 
