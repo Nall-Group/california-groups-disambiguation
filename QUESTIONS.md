@@ -11,7 +11,21 @@ To edit this file (post questions, write answers), join this queue first. Only t
 ## Open Questions
 
 ### Q15 (Task 1567, RA-Gamma) — CALIFORNIA placeholder redistribution: unidentifiable/ambiguous acronyms
-**Status:** Open
+**Status:** Answered
+
+**Answer (from supervisor, via Management Assistant):**
+
+**Q1 — Yes.** Attach all of the confidently-resolved acronyms as `alternate_spelling` under the existing canonicals you found (create none new). Your full list (PORAC, Caltrans, CJAC, EQCA, NCJW CA, CADPAAC, ABC, CAOC, CWDA, APALC, SBCTC, NAIFA variants, CELSOC, PIFC, OWL/CA, CVUC, ACLU branch, Local 20 IFPTE variants) is approved as mapped.
+
+**Q2 — two rules depending on the case:**
+- **Truly unidentifiable** (no crosswalk match AND you cannot determine the org at all) → route to `org_names_partial.csv`. This covers: **AOCUC, EMSAAC, AKAMAC, OSCC, ACSI, TEXCOM, HOBO, LAAC**.
+- **Ambiguous — could be more than one real org** → resolve by **count**: look up each candidate org in the CSVs / crosswalk and attach the acronym to whichever candidate has the **highest count**. Apply this to:
+  - **HOAC** ('Officers Association of California (HOAC)') — compare the candidate orgs (e.g. Highway Officers Assn vs Hospital ...) and use the higher-count one.
+  - **FLEXCOM** — compare Family Court Bar Association vs State Bar FLEXCOM; use the higher-count one.
+  - **AAA** ('California (AAA)') — compare Automobile Club / AAA vs Area Agency on Aging; use the higher-count one.
+  - **AAP-CA** — confirmed = **American Academy of Pediatrics, California**; attach there (no ambiguity).
+
+The bare-fragment routing you described ('CALIFORNIA'/'THE CALIFORNIA'/'Calfiornia' → partial; 'California (Secretary John Laird)' → individuals) is approved — do it in the same pass.
 
 Task 1567 asks me to redistribute the malformed 'CALIFORNIA' placeholder cluster (~30 `California (ACRONYM)` chapters, each a distinct org) out to each org's correct canonical. Most resolve cleanly and I'm ready to attach them, but several acronyms cannot be confidently resolved, and mis-attaching a real org is harmful/hard to reverse — so I've blocked.
 
