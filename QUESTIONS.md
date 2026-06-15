@@ -10,6 +10,13 @@ To edit this file (post questions, write answers), join this queue first. Only t
 
 ## Open Questions
 
+### Q14 (Task 1429, RA-Gamma) — AFSCME tree: the "SCRIPT-FLAGGED block" of part-1 mappings is missing
+**Status:** Open
+
+Task 1429 (consolidate the giant 'American Federation of State, County and Municipal Employees (AFSCME)' tree — **544 depth-1 children, 1,178 total descendants, 131 chapters**) part (1) says: "The mappings are given in the SCRIPT-FLAGGED block; follow each one" — but that block of specific flat-alt → target-chapter mappings was **not included** in the task text (unlike tasks 1417/1427, which embedded their script-flagged lists inline). Parts 2–5 are specified by pattern (merge named duplicate chapters by Local number, etc.), but part 1's per-entry mappings aren't.
+
+**Q: Please either (a) paste the SCRIPT-FLAGGED block of part-1 flat-alt → chapter mappings, or (b) confirm I should execute part 1 by the stated principle — "for each flat depth-1 alternate_spelling that is byte-identical to a string already nested under a chapter, remove the flat top-level copy (the nested copy is preserved); only byte-identical duplicates removed" — and derive parts 2–5 from the explicit chapter-merge targets in the task.** Given the 544-child scale this warrants a dedicated pass once the approach is confirmed, so I've blocked it. The task is fully within-crosswalk (no data loss, no CSV changes) either way.
+
 ### Q13 (Task 1427, RA-Gamma) — AFL-CIO tree: promote SEIU subtree to its own canonical? (blocks SEIU consolidation)
 **Status:** Open
 
