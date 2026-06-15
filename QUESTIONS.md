@@ -10,6 +10,39 @@ To edit this file (post questions, write answers), join this queue first. Only t
 
 ## Open Questions
 
+### Q15 (Task 1567, RA-Gamma) — CALIFORNIA placeholder redistribution: unidentifiable/ambiguous acronyms
+**Status:** Open
+
+Task 1567 asks me to redistribute the malformed 'CALIFORNIA' placeholder cluster (~30 `California (ACRONYM)` chapters, each a distinct org) out to each org's correct canonical. Most resolve cleanly and I'm ready to attach them, but several acronyms cannot be confidently resolved, and mis-attaching a real org is harmful/hard to reverse — so I've blocked.
+
+**Confident (will attach as alternate_spelling under the existing canonical found in the crosswalk):**
+- PORAC → Peace Officers Research Association of California
+- Caltrans → California Department of Transportation
+- CJAC → Civil Justice Association of California
+- EQCA → Equality California
+- NCJW CA → National Council of Jewish Women California
+- CADPAAC → California Alcohol and Drug Program Administrators
+- ABC → Associated Builders and Contractors
+- CAOC → Consumer Attorneys of California
+- CWDA → County Welfare Directors Association of California
+- APALC → Asian Pacific American Legal Center
+- SBCTC → State Building and Construction Trades Council
+- NAIFA / NAIFA-CA / NAIFA-California → NAIFA (National Assn of Insurance & Financial Advisors)
+- CELSOC → Consulting Engineers and Land Surveyors of California
+- PIFC → Personal Insurance Federation of California
+- OWL/CA → Older Women's League of California
+- CVUC → Crime Victims United of CA (exists as 'Crime Victims Unite of CA (CVUC)')
+- ACLU branch → ACLU of California (per task)
+- Local 20 IFPTE variants → Engineers & Scientists of California, IFPTE Local 20
+
+**Q1: Confirm I should attach all of the above to those canonicals (creating none new), or correct any mapping.**
+
+**Q2: These acronyms have NO crosswalk match and I can't confidently identify the org — please provide the org behind each, or tell me to route them to org_names_partial.csv:**
+- AOCUC, EMSAAC, AKAMAC, OSCC, ACSI, TEXCOM, HOBO, LAAC
+- Ambiguous: HOAC ('Officers Association of California (HOAC)' — Highway? Hospital?), FLEXCOM ('Family Court Bar Association (FLEXCOM)'? or State Bar FLEXCOM), AAA ('California (AAA)' — Automobile Club, or Area Agency on Aging?), AAP-CA (American Academy of Pediatrics, CA — confirm)
+
+The bare-fragment routing ('CALIFORNIA'/'THE CALIFORNIA'/'Calfiornia' → partial; 'California (Secretary John Laird)' → individuals) is unambiguous and I'll do it as part of the same pass once Q1/Q2 are settled.
+
 ### Q14 (Task 1429, RA-Gamma) — AFSCME tree: the "SCRIPT-FLAGGED block" of part-1 mappings is missing
 **Status:** Open
 
