@@ -10,6 +10,20 @@ To edit this file (post questions, write answers), join this queue first. Only t
 
 ## Open Questions
 
+### Q13 (Task 1427, RA-Gamma) — AFL-CIO tree: promote SEIU subtree to its own canonical? (blocks SEIU consolidation)
+**Status:** Open
+
+Task 1427 (consolidate the heavily-duplicated 'AMERICAN FEDERATION OF LABOR AND CONGRESS OF INDUSTRIAL ORGANIZATIONS' tree — 172 depth-1 children, 433 total descendants) part (8) explicitly asks me to flag this for you, and the answer determines where the bulk of the consolidation work lands, so I'm blocking on it:
+
+**Should the entire SEIU (Service Employees International Union) subtree — currently nested under AFL-CIO and labeled `[pre-merge]` — be promoted to its own separate top-level canonical 'Service Employees International Union', rather than staying nested under AFL-CIO?** SEIU is an *affiliate* union of the AFL-CIO (and in fact disaffiliated in 2005 to form Change to Win), not a predecessor org in the AFL–CIO merger, so nesting it under AFL-CIO as a `[pre-merge]` component looks structurally wrong.
+
+This matters because task 1427 parts (3)–(6) route many SEIU variants (e.g. 'SEIU of California', 'California State Council, SEIU', 'SEIU Local ...', 'The Service Employees International Union (SEIU), Local 1000', narrative SEIU strings, the conjoined 'SEIU Local 660 and Southern Christian Leadership Conference', and leader entry 'SEIU Local 535, David C. Aroner, Exec. Director, Oakland') to the SEIU subtree. If SEIU becomes its own canonical, all of those go there instead of under AFL-CIO.
+
+- **Option A:** Promote SEIU to its own top-level canonical 'Service Employees International Union'; move the whole SEIU subtree (and all SEIU variants from the sweep) out of AFL-CIO into it. Keep CA Labor Federation / central-labor-council variants under AFL-CIO.
+- **Option B:** Keep SEIU nested under AFL-CIO as currently structured; just consolidate the duplicates in place.
+
+Related: should other clearly-affiliate unions currently nested under AFL-CIO (e.g. AFSCME, the various central labor councils) also be promoted, or only SEIU? A general rule would let me apply it consistently. The non-SEIU parts of 1427 (dedup the 20 flat AFL-CIO/CA Labor Federation copies, merge the two 'AFL-CIO'/'AFL- CIO' alt nodes, casing normalization) are ready to execute as soon as this is settled, so I'll do the whole task in one pass once answered.
+
 ### Q12 (Task 1417, RA-Gamma) — ACLU tree: confirm chapter structure + fragment-routing list
 **Status:** Open
 
