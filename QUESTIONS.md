@@ -51,7 +51,13 @@ Task 1429 (consolidate the giant 'American Federation of State, County and Munic
 **Q: Please either (a) paste the SCRIPT-FLAGGED block of part-1 flat-alt → chapter mappings, or (b) confirm I should execute part 1 by the stated principle — "for each flat depth-1 alternate_spelling that is byte-identical to a string already nested under a chapter, remove the flat top-level copy (the nested copy is preserved); only byte-identical duplicates removed" — and derive parts 2–5 from the explicit chapter-merge targets in the task.** Given the 544-child scale this warrants a dedicated pass once the approach is confirmed, so I've blocked it. The task is fully within-crosswalk (no data loss, no CSV changes) either way.
 
 ### Q13 (Task 1427, RA-Gamma) — AFL-CIO tree: promote SEIU subtree to its own canonical? (blocks SEIU consolidation)
-**Status:** Open
+**Status:** Answered
+
+**Answer (from supervisor, via Management Assistant): Option A — take SEIU out of AFL-CIO.** Promote SEIU to its own top-level canonical 'Service Employees International Union'; move the whole SEIU subtree (and all SEIU variants routed in task 1427 parts 3–6) out of AFL-CIO into it. Keep CA Labor Federation / central-labor-council variants under AFL-CIO. The non-SEIU parts of 1427 (dedup flat copies, merge 'AFL-CIO'/'AFL- CIO' nodes, casing normalization) proceed as planned.
+
+**General rule (applies to ALL trees, not just 1427):** Independent affiliate unions that are wrongly nested under AFL-CIO should be **promoted to their own top-level canonical** — e.g. SEIU, AFSCME, CWA, Teamsters, and any other independent national/international union. AFL-CIO is a federation of independent unions, so those affiliates do not belong nested inside it. **Exception — keep nested under AFL-CIO:** genuine AFL-CIO sub-bodies that the AFL-CIO actually charters, i.e. **central labor councils and state labor federations** (e.g. California Labor Federation, county/regional central labor councils). Those stay as chapters/children of AFL-CIO.
+
+Note for task 1429 (AFSCME): AFSCME already has its own large top-level canonical, so any AFSCME copies nested under AFL-CIO should be merged into the standalone AFSCME canonical per this rule.
 
 Task 1427 (consolidate the heavily-duplicated 'AMERICAN FEDERATION OF LABOR AND CONGRESS OF INDUSTRIAL ORGANIZATIONS' tree — 172 depth-1 children, 433 total descendants) part (8) explicitly asks me to flag this for you, and the answer determines where the bulk of the consolidation work lands, so I'm blocking on it:
 
