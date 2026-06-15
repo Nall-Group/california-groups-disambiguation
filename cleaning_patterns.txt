@@ -118,6 +118,7 @@
 # Trailing "(N letters)" or "(N individuals)" metadata suffix - END
 (?i)\s*\(\d+\s+(?:letters|individuals|members)\)\s*$
 (?i)\s*-\s*\(\d+\s+(?:letters|individuals|members)\)\s*$
+(?i),\s*\d+\s+(?:personal\s+)?letters\s*$
 
 # Trailing "None to date" suffix (with or without space) - END
 (?i)(?<=\S)[,\s]*None to date\s*$
