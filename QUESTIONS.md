@@ -10,6 +10,20 @@ To edit this file (post questions, write answers), join this queue first. Only t
 
 ## Open Questions
 
+### Q16 (Task 2712, RA-Beta) — "Workers" parent is a junk truncation bucket, not NASW
+**Status:** Open
+
+Task 2712 says to nest "Workers, California Chapter (NASW-CA)" as a chapter under the existing canonical "Workers". But "Workers" is a garbage truncation bucket whose children are unrelated truncated union locals ("Workers, Inc", "Workers Local 1528", "Workers Local 180", "Workers Local 416", "Workers Local 495", ...). "Workers, California Chapter (NASW-CA)" is actually a fragment of the **National Association of Social Workers, California Chapter (NASW-CA)** — nesting it under the "Workers" junk bucket would create a wrong association.
+
+The NASW org is currently badly fragmented across many truncated canonicals, e.g.: "Association of Social Workers (NASW-CA)", "Association of Social Workers, California Chapter (NASW-CA)", "California Chapter (NASW-CA)", "Chapter (NASW-CA)", "NASW, CA Chapter", "Irvine National Association of Social Workers", "Municipal Employees National Association of Social Workers". There is no clean "National Association of Social Workers" canonical to nest under.
+
+**Question:** How should I proceed?
+- (a) **(Recommended)** Create a proper canonical "National Association of Social Workers" and consolidate ALL the NASW fragments (incl. "Workers, California Chapter (NASW-CA)") under it / its "California Chapter (NASW-CA)" — i.e. a dedicated NASW consolidation task for the full set.
+- (b) Create only "National Association of Social Workers, California Chapter (NASW-CA)" and nest just this one entry there, leaving the other NASW fragments for later.
+- (c) Follow the task literally and nest under the "Workers" junk bucket (NOT recommended — wrong association).
+
+Blocking rather than make a wrong edit. The "Workers" junk bucket itself likely needs its own cleanup task.
+
 ### Q15 (Task 1567, RA-Gamma) — CALIFORNIA placeholder redistribution: unidentifiable/ambiguous acronyms
 **Status:** Answered
 
