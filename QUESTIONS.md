@@ -11,7 +11,7 @@ To edit this file (post questions, write answers), join this queue first. Only t
 ## Open Questions
 
 ### Q17 (Task 1986, RA-Alpha) — "Reproductive Freedom for All" (bare) is the NATIONAL rebrand, not a CA-affiliate variant
-**Status:** Open
+**Status:** Answered — Supervisor chose (a) (2026-06-16, via RA-Beta). Keep bare 'Reproductive Freedom for All' as a national-level alternate_spelling at the TOP level (it's the national 2023 rebrand). Move only the genuinely CA-specific strings under the CA chapter as alternate_spelling, and nest 'NARAL Pro-Choice California Foundation' as its own chapter under the CA chapter. Leave the CARAL fragment alts (part 3) as-is. Task 1986 unblocked; RA-Beta picking it up.
 
 Task 1986 part (2) instructs me to move the flat top-level alt **'Reproductive Freedom for All'** (bare, no "California"/"CA") *under* the 'CALIFORNIA ABORTION RIGHTS ACTION LEAGUE' chapter, classifying it as a "California-affiliate variant."
 
