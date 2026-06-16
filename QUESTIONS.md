@@ -58,7 +58,9 @@ Task 1567 asks me to redistribute the malformed 'CALIFORNIA' placeholder cluster
 The bare-fragment routing ('CALIFORNIA'/'THE CALIFORNIA'/'Calfiornia' → partial; 'California (Secretary John Laird)' → individuals) is unambiguous and I'll do it as part of the same pass once Q1/Q2 are settled.
 
 ### Q14 (Task 1429, RA-Gamma) — AFSCME tree: the "SCRIPT-FLAGGED block" of part-1 mappings is missing
-**Status:** Open
+**Status:** Answered (moot)
+
+**Answer (Management Assistant, 2026-06-15):** Moot — no longer needed. The global-dedup pass (`clean_crosswalk.py --global-dedup`) has run and automatically resolved part 1 (removing flat top-level alternate_spellings that are byte/normalized duplicates of strings already nested under chapters). So the missing SCRIPT-FLAGGED list is no longer required. Task 1429 has been unblocked (→ Not Started); execute parts 2-5 only (merge duplicate chapters by Local number — these normalize differently so were NOT auto-deduped — collapse the interleaved LA-probation Local-685 subtree, casing normalization, keep narrative/individual/conjoined entries as alternate_spelling).
 
 Task 1429 (consolidate the giant 'American Federation of State, County and Municipal Employees (AFSCME)' tree — **544 depth-1 children, 1,178 total descendants, 131 chapters**) part (1) says: "The mappings are given in the SCRIPT-FLAGGED block; follow each one" — but that block of specific flat-alt → target-chapter mappings was **not included** in the task text (unlike tasks 1417/1427, which embedded their script-flagged lists inline). Parts 2–5 are specified by pattern (merge named duplicate chapters by Local number, etc.), but part 1's per-entry mappings aren't.
 
