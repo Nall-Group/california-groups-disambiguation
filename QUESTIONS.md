@@ -10,6 +10,21 @@ To edit this file (post questions, write answers), join this queue first. Only t
 
 ## Open Questions
 
+### Q17 (Task 1986, RA-Alpha) — "Reproductive Freedom for All" (bare) is the NATIONAL rebrand, not a CA-affiliate variant
+**Status:** Open
+
+Task 1986 part (2) instructs me to move the flat top-level alt **'Reproductive Freedom for All'** (bare, no "California"/"CA") *under* the 'CALIFORNIA ABORTION RIGHTS ACTION LEAGUE' chapter, classifying it as a "California-affiliate variant."
+
+But "Reproductive Freedom for All" is the **2023 rebrand of the NATIONAL organization** (NARAL Pro-Choice America → Reproductive Freedom for All). The CA affiliate's new name is "Reproductive Freedom for All California" / "...CA" (those CA-specific strings ARE already correctly nested under the CA chapter). The parent canonical of this whole tree is "National Abortion Rights Action League" (the national org), and part (2) itself says to "keep genuine national-level alts at the top level."
+
+Moving bare 'Reproductive Freedom for All' under the CA chapter would wrongly subordinate the national org's current name beneath its California affiliate — a consequential, hard-to-reverse mis-association.
+
+**Question:** Confirm the handling:
+- (a) **(Recommended)** Keep bare 'Reproductive Freedom for All' as a **national-level alternate_spelling at the top level** (it's the national rebrand), and move only the genuinely CA-specific strings ('California Abortion and Reproductive Rights', 'California Abortion Rights and Reproductive Rights', 'California Abortion & Reproductive Rights', 'CA Abortion and Reproductive Action League (CARAL)', 'CA Abortion and Reproductive Rights', 'CA Abortion and Reproductive Rights (CARAL)') under the CA chapter as alternate_spelling. Nest 'NARAL Pro-Choice California Foundation' as its own chapter under the CA chapter. Leave the CARAL fragment alts (part 3) as-is under the CA chapter.
+- (b) Follow the task literally and move bare 'Reproductive Freedom for All' under the CA chapter too (NOT recommended — conflates national with CA affiliate).
+
+Note: part (1) is already satisfied by global-dedup (no flat top-level CA duplicates remain at the top level). Blocking rather than make a wrong national/affiliate consolidation.
+
 ### Q16 (Task 2712, RA-Beta) — "Workers" parent is a junk truncation bucket, not NASW
 **Status:** Open
 
