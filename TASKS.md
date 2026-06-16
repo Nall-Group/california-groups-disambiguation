@@ -11,6 +11,7 @@ Only the RA at the top of this list has write access to project data files (cros
 - RA-Beta
 - RA-Gamma
 
+- RA-Alpha
 ## Task List
 
 > **NOTE (2026-06-15) — global dedup has run.** A forest-wide deduplication pass (`clean_crosswalk.py --global-dedup`) collapsed every normalized-name duplicate: within a tree the deepest copy is kept, across trees the bigger tree's copy is kept, ancestor-descendant self-copies have the descendant removed, and any duplicate that normalizes the same is dropped (children re-parented). **For all remaining "Tree consolidation" tasks, the "resolve the script-flagged duplicate / remove redundant duplicate / dedup flat alts vs nested copies" portion is ALREADY DONE — skip it.** Only the secondary work still needs doing: routing narrative/conjoined/invalid/individual entries to CSVs, renaming malformed canonicals, splitting conjoined entries, building/merging chapter hierarchy, relationship-type changes, and display-casing fixes. (34 pure-dedup tasks were verified fully obsolete and closed.)
