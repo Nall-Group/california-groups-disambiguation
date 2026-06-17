@@ -10,6 +10,27 @@ To edit this file (post questions, write answers), join this queue first. Only t
 
 ## Open Questions
 
+### Q18 (Task 2243, RA-Fleet-3) — UNITED STATES CHAMBER OF COMMERCE megatask should be decomposed into subtasks
+**Status:** Open
+
+I blocked Task 2243 because, as written, it is not a single task but a bundle of ~6 distinct large-scale restructuring operations over the entire `UNITED STATES CHAMBER OF COMMERCE` tree, which I measured live in the crosswalk:
+
+- **Tree size:** 76 depth-1 children, **1,683 total descendants.**
+- The single child `CALIFORNIA CHAMBER OF COMMERCE` holds **1,060 direct children / 1,403 descendants** — overwhelmingly individual **city/county chambers** (Carlsbad, Oceanside, Fullerton, Torrance, …). Part (1) asks each of these to become **its own top-level canonical** → roughly **~1,000 promotions**, each needing a per-entity judgment call (independent org vs. genuine sub-chapter vs. alt-spelling).
+- On top of that: (2) resolve 9 script-flagged flat alts, (3) merge duplicate chapter siblings, (4) reclassify CalChamber `[chapter]` variants to alt-spelling, (5) fix ~12 OCR/typo chapters, (6) route dozens of conjoined/narrative/individual children to invalidity CSVs (each conjoined entry first requiring its component chambers to exist as canonicals).
+
+**Why I blocked instead of executing:** A worker RA must produce ONE atomic, verifiable commit. A ~1,000-promotion automated pass over a 1,683-node megatree cannot be reviewed or verified in a single session, and a rushed pass risks silently flattening real chapter relationships or mis-promoting entries — damage that is hard to detect and reverse. This violates the decomposed-task model the project is built on.
+
+**Recommendation:** Decompose Task 2243 into separate, independently-committable subtasks, e.g.:
+1. **Split only:** Promote `CALIFORNIA CHAMBER OF COMMERCE` to its own top-level canonical (move its whole subtree intact), and keep under the U.S. Chamber canonical only true U.S.-Chamber spellings.
+2. **Promote ethnic/national chambers** (Hispanic, Black, Asian Pacific, African American, Chinese, Japanese, Korean, Filipino, Vietnamese, Women's, National Gay & Lesbian, Green, Cannabis, etc.) — one batch.
+3. **Promote city/county chambers to top-level** — batched into manageable chunks (e.g. alphabetical groups of ~50), since this is the ~1,000-entry bulk.
+4. **9 flat-alt resolutions + duplicate chapter-sibling merges.**
+5. **CalChamber `[chapter]`→alt reclassification + ~12 OCR/typo demotions.**
+6. **CSV routing** of the listed individuals / narrative-embedded / conjoined / partial children.
+
+Please confirm you'd like this decomposition (and whether the ~1,000 city-chamber promotions in part 3 should each truly be top-level canonicals, or whether some should remain grouped). Once subtasks exist, RAs can pick them up and complete each atomically.
+
 ### Q17 (Task 1986, RA-Alpha) — "Reproductive Freedom for All" (bare) is the NATIONAL rebrand, not a CA-affiliate variant
 **Status:** Answered — Supervisor chose (a) (2026-06-16, via RA-Beta). Keep bare 'Reproductive Freedom for All' as a national-level alternate_spelling at the TOP level (it's the national 2023 rebrand). Move only the genuinely CA-specific strings under the CA chapter as alternate_spelling, and nest 'NARAL Pro-Choice California Foundation' as its own chapter under the CA chapter. Leave the CARAL fragment alts (part 3) as-is. Task 1986 unblocked; RA-Beta picking it up.
 
