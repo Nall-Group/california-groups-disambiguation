@@ -26,7 +26,7 @@ Moving bare 'Reproductive Freedom for All' under the CA chapter would wrongly su
 Note: part (1) is already satisfied by global-dedup (no flat top-level CA duplicates remain at the top level). Blocking rather than make a wrong national/affiliate consolidation.
 
 ### Q16 (Task 2712, RA-Beta) — "Workers" parent is a junk truncation bucket, not NASW
-**Status:** Open
+**Status:** Answered — Supervisor chose (a) (2026-06-16, via RA-Beta). Create a proper canonical "National Association of Social Workers" and consolidate ALL NASW fragments (incl. "Workers, California Chapter (NASW-CA)") under it / its "California Chapter (NASW-CA)". Tasks 2712 and 2793 to be handled together as a full NASW consolidation. RA-Beta picking this up.
 
 Task 2712 says to nest "Workers, California Chapter (NASW-CA)" as a chapter under the existing canonical "Workers". But "Workers" is a garbage truncation bucket whose children are unrelated truncated union locals ("Workers, Inc", "Workers Local 1528", "Workers Local 180", "Workers Local 416", "Workers Local 495", ...). "Workers, California Chapter (NASW-CA)" is actually a fragment of the **National Association of Social Workers, California Chapter (NASW-CA)** — nesting it under the "Workers" junk bucket would create a wrong association.
 
