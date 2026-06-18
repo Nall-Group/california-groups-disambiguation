@@ -11,6 +11,30 @@ To edit this file (post questions, write answers), join this queue first. Only t
 
 ## Open Questions
 
+### Q21 (Task 2464, RA-Fleet-2) — "Contractors" is a junk truncation bucket, not a real org to nest chapters under
+**Status:** Open
+
+Task 2464 asks me to nest the standalone canonical **"Contractors, San Diego Chapter"** as a `chapter` child under the existing canonical **"Contractors"**.
+
+The problem (same class as **Q20** "America"): **"Contractors" is not a real organization** — there is no org literally named "Contractors". It is an ambiguous truncation bucket. Its only existing child is **"Contractors of CA"**, which is itself a truncation. Nesting "Contractors, San Diego Chapter" under it would assert membership in an org named "Contractors," which is meaningless/false.
+
+"Contractors, San Diego Chapter" is itself an **ambiguous truncation** of some "[X] Contractors, San Diego Chapter." The crosswalk + general knowledge give multiple plausible real parents, each of which has a San Diego chapter:
+- Associated General Contractors (AGC)
+- Associated Builders and Contractors (ABC)
+- National Electrical Contractors Association (NECA)
+- Engineering/Sheet Metal/Air Conditioning contractors associations
+
+There is no single unambiguous parent. (Related sibling truncations also exist as standalone canonicals: "Contractors-San Diego Chapter", "Contractors of California San Diego Chapter", "Contractors of San Diego".)
+
+Note: task 2464 has no CLAUDE.md escape clause (unlike task 2465), so per the project rules I am blocking rather than forcing a wrong consolidation.
+
+**Question:** How should "Contractors, San Diego Chapter" be handled?
+- (a) **(Recommended)** Move it to `org_names_partial.csv` per CLAUDE.md's truncated-entries rule (truly ambiguous — no identifiable parent). Do NOT nest under the "Contractors" junk bucket. (Optionally also flag "Contractors" + "Contractors of CA" for separate truncation cleanup.)
+- (b) Leave it as a standalone top-level canonical as-is (do nothing) — at least no wrong parent.
+- (c) You can identify the real parent org (please specify which "[X] Contractors"), and I'll nest it under that real canonical.
+
+I have NOT nested it under "Contractors". Blocking rather than forcing a wrong consolidation.
+
 ### Q20 (Task 2330, RA-Fleet-2) — "America" is a junk truncation bucket, not a real org to nest chapters under
 **Status:** Open
 
