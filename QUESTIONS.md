@@ -11,6 +11,29 @@ To edit this file (post questions, write answers), join this queue first. Only t
 
 ## Open Questions
 
+### Q20 (Task 2330, RA-Fleet-2) — "America" is a junk truncation bucket, not a real org to nest chapters under
+**Status:** Open
+
+Task 2330 asks me to nest the two standalone canonicals "America, San Diego Chapter" (+ alt "America, San Diego Chapter, Inc") and "America, South Bay Chapter 53" as `chapter` children under the existing canonical **"America"**.
+
+The problem: **"America" is not a real organization** — it's a heterogeneous junk truncation bucket. Its current children are unrelated fragments of DIFFERENT "...of America" orgs:
+- "America INC"
+- "America of California"
+- "America Local 9119"  (a union local)
+- "America, Local 132"  (a different union local)
+- "America, LLC"
+
+Nesting "America, San Diego Chapter" and "America, South Bay Chapter 53" under this bucket would assert they belong to an org literally named "America," which is false. This is the same situation as Q16 (the "Workers" junk bucket → NASW) — forcing chapters under a meaningless truncation bucket creates wrong, hard-to-reverse associations.
+
+The two chapters are themselves **ambiguous truncations** of some "[Org] of America." I searched the crosswalk: many "...of America" orgs have a "San Diego Chapter" (e.g. Associated General Contractors of America, Autism Society of America, etc.), and "South Bay Chapter 53" (numbered chapter) points to some national org with numbered chapters that I cannot identify. There is no single unambiguous parent.
+
+**Question:** How should I handle these two entries?
+- (a) **(Recommended)** Move both to `org_names_partial.csv` per CLAUDE.md's truncated-entries rule (truly ambiguous after crosswalk + web consideration — no identifiable parent). Keep "America, San Diego Chapter, Inc" with its parent. This removes them from the crosswalk; do NOT nest under the "America" bucket.
+- (b) Leave both as standalone top-level canonicals as-is (do nothing) — they at least don't get a wrong parent.
+- (c) You can identify the real parent org for one/both (please specify which "[Org] of America"), and I'll nest them under that real canonical.
+
+I have NOT nested them under "America". Blocking rather than forcing a wrong consolidation.
+
 ### Q19 (Task 2313, RA-Fleet-3) — How to handle the "California Reproductive Health Association" canonical
 **Status:** Open
 
