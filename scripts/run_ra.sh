@@ -66,7 +66,7 @@ classify_error() {
   case "$killreason" in
     # Watchdog detected a real throttle/error event in the stream. Treat as fatal
     # so it backs off long and retries indefinitely (auto-resumes when it clears).
-    stream_error) echo "stream_throttle|1|rate-limit/error signal in stream (back off, auto-resume)"; return;;
+    stream_error) echo "rate_limit_block|1|rate-limit BLOCK in stream (back off, auto-resume)"; return;;
     timeout)      echo "timeout_kill|0|exceeded ${TASK_TIMEOUT}s absolute runtime cap"; return;;
   esac
   txt="$(tail -c 6000 "$errfile" 2>/dev/null | tr '\n' ' ')"
@@ -152,11 +152,13 @@ while true; do
       sleep "$STREAM_POLL"
       now="$(date +%s)"
       st="$(stat -f %B "$tmpout" 2>/dev/null || echo "$now")"
-      # Scan the tail of the stream for a REAL error signal (not silence):
-      #   - a rate_limit_event whose status != "allowed"  => actual throttling
-      #   - a "type":"error" event                        => API error
-      # Only these kill the worker (so the loop backs off + relaunches). A worker
-      # that is merely quiet (waiting on a slow tool call) is left alone.
+      # Scan the tail of the stream for a GENUINELY-BLOCKING rate-limit signal.
+      # rate_limit statuses observed: 'allowed' and 'allowed_warning' (a usage
+      # heads-up — NOT a throttle). Only a status that does NOT start with
+      # 'allowed' (e.g. blocked/rejected/exhausted) is a real block that won't
+      # clear by waiting a few seconds. We do NOT kill on 'type':'error' events:
+      # Claude retries transient API errors itself, and if it truly can't recover
+      # the process exits and the on-exit classifier records the real cause.
       if tail -c 60000 "$tmpout" 2>/dev/null | python3 -c "
 import sys, json
 bad=False
@@ -168,8 +170,7 @@ for ln in sys.stdin:
     if not isinstance(o, dict): continue
     if o.get('type')=='rate_limit_event':
         s=(o.get('rate_limit_info') or {}).get('status')
-        if s and s!='allowed': bad=True
-    if o.get('type')=='error': bad=True
+        if s and not s.startswith('allowed'): bad=True
 sys.exit(0 if bad else 1)
 " 2>/dev/null; then
         echo stream_error >"$killflag"
