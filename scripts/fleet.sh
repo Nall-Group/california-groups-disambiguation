@@ -27,6 +27,25 @@ PID_FILE="$LOG_DIR/fleet.pid"
 # (scripts/fleet.sh start 5) or persistently (DEFAULT_RAS=4 scripts/fleet.sh start).
 DEFAULT_RAS="${DEFAULT_RAS:-3}"
 
+# Fully reap the fleet: SIGTERM first, then escalate to SIGKILL for anything
+# still alive — hung workers ignore SIGTERM and get reparented to init (ppid 1),
+# so a plain pkill leaves orphans that collide with a fresh fleet. This sweeps
+# launchers, loops, AND worker processes (including orphans) with -9.
+_reap_fleet() {
+  pkill -f "run_fleet.sh" 2>/dev/null || true
+  pkill -f "run_ra.sh RA-" 2>/dev/null || true
+  pkill -f "claude -p You are worker RA" 2>/dev/null || true
+  sleep 2
+  # escalate: SIGKILL whatever survived (orphaned/hung workers included)
+  pkill -9 -f "run_fleet.sh" 2>/dev/null || true
+  pkill -9 -f "run_ra.sh RA-" 2>/dev/null || true
+  pkill -9 -f "claude -p You are worker RA" 2>/dev/null || true
+  sleep 1
+  local left
+  left="$(pgrep -f 'claude -p You are worker RA' | wc -l | tr -d ' ')"
+  [[ "$left" != "0" ]] && echo "warning: $left worker(s) still not dead (likely stuck in a syscall; will exit on socket timeout)"
+}
+
 cmd="${1:-status}"
 shift || true
 
@@ -40,12 +59,9 @@ case "$cmd" in
     # (e.g. killed by a usage limit) while its run_ra.sh loops kept retrying.
     # Starting on top of those would run TWO loops per RA name, which collide
     # on the write queue under a shared identity. Reap any stragglers first.
-    if pgrep -f "run_ra.sh RA-" >/dev/null 2>&1; then
-      echo "found orphaned RA loops from a previous launch — reaping before start..."
-      pkill -f "run_fleet.sh" 2>/dev/null
-      pkill -f "run_ra.sh RA-" 2>/dev/null
-      pkill -f "claude -p You are worker RA" 2>/dev/null
-      sleep 3
+    if pgrep -f "run_ra.sh RA-" >/dev/null 2>&1 || pgrep -f "claude -p You are worker RA" >/dev/null 2>&1; then
+      echo "found stragglers from a previous launch — hard-reaping before start..."
+      _reap_fleet
     fi
     args=("$@")
     [[ "${#args[@]}" -eq 0 ]] && args=("$DEFAULT_RAS")   # default fleet size
@@ -82,10 +98,9 @@ case "$cmd" in
     ;;
 
   stop)
-    pkill -f "run_fleet.sh" 2>/dev/null || true
-    pkill -f "run_ra.sh" 2>/dev/null || true
+    _reap_fleet
     [[ -f "$PID_FILE" ]] && rm -f "$PID_FILE"
-    echo "fleet stopped (in-flight claude processes finish their current task)."
+    echo "fleet stopped (loops + workers hard-killed)."
     ;;
 
   *)
