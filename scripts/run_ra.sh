@@ -59,17 +59,20 @@ RUN_LOG="$LOG_DIR/${RA_NAME}.log"
 ERROR_LOG="$LOG_DIR/errors.log"        # shared, tab-separated classified error log
 
 # Classify a worker failure into "category|fatal(0/1)|one-line description".
-# Inputs: $1 = worker stderr file, $2 = explicit kill reason (idle|timeout|"").
-# Fatal = show-stopping (won't fix itself by immediate retry): usage limit, auth.
+# Inputs: $1 = worker stderr file, $2 = explicit kill reason (idle|timeout|""),
+#         $3 = the parsed stdout/result text (some errors — e.g. the spend-limit
+#         message "You've hit your monthly spend limit" — arrive on STDOUT, not
+#         stderr, so we must scan both or they misclassify as 'unknown').
+# Fatal = show-stopping (won't fix itself by immediate retry): usage/spend limit, auth.
 classify_error() {
-  local errfile="$1" killreason="$2" txt
+  local errfile="$1" killreason="$2" outtext="${3:-}" txt
   case "$killreason" in
     # Watchdog detected a real throttle/error event in the stream. Treat as fatal
     # so it backs off long and retries indefinitely (auto-resumes when it clears).
     stream_error) echo "rate_limit_block|1|rate-limit BLOCK in stream (back off, auto-resume)"; return;;
     timeout)      echo "timeout_kill|0|exceeded ${TASK_TIMEOUT}s absolute runtime cap"; return;;
   esac
-  txt="$(tail -c 6000 "$errfile" 2>/dev/null | tr '\n' ' ')"
+  txt="$( { tail -c 6000 "$errfile" 2>/dev/null; printf '\n%s' "$outtext"; } | tr '\n' ' ')"
   if   grep -qiE "usage limit|usage_limit|spend limit|monthly spend|hit your .*(usage|spend|limit)|claude\.ai/settings/usage|reached your .*(usage|limit)" <<<"$txt"; then echo "usage_limit|1|usage/spend limit hit — raise at claude.ai/settings/usage or wait for reset"
   elif grep -qiE "invalid x-api-key|authentication|unauthorized|401|oauth.*expired|please run /login" <<<"$txt"; then echo "auth_error|1|authentication / credential failure"
   elif grep -qiE "rate limit|rate_limit|\b429\b" <<<"$txt"; then echo "rate_limit|0|API rate limited (transient)"
@@ -219,7 +222,7 @@ PY
 
   if [[ $status -ne 0 ]]; then
     # Classify, record to the shared error log, and pick backoff by severity.
-    ci="$(classify_error "$tmperr" "$killreason")"
+    ci="$(classify_error "$tmperr" "$killreason" "$output")"
     ecat="${ci%%|*}"; erest="${ci#*|}"; efatal="${erest%%|*}"; esnip="${erest#*|}"
     printf '%s\t%s\t%s\tfatal=%s\texit=%s\t%s\n' \
       "$(date '+%Y-%m-%dT%H:%M:%S')" "$RA_NAME" "$ecat" "$efatal" "$status" "$esnip" >> "$ERROR_LOG"
