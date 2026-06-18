@@ -8,7 +8,26 @@ To edit this file (post questions, write answers), join this queue first. Only t
 
 (empty)
 
+
 ## Open Questions
+
+### Q19 (Task 2313, RA-Fleet-3) — How to handle the "California Reproductive Health Association" canonical
+**Status:** Open
+
+Task 2313 asked me to split the conjoined entry "California Reproductive Health Association Children Now" (Children Now + "California Reproductive Health Association") and flag the questionable component name. I have completed the mechanical split: Children Now (canonical "CHILDREN NOW") and the conjoined-row move to `org_names_conjoined.csv` are done.
+
+The flagging question: there is **already an existing canonical** in the crosswalk named **"California Reproductive Health Association"** (count 24), with one alternate spelling "CA Reproductive Health Association". However, internet research found **no organization by that exact name** — it looks like a possible data-entry conflation. The closest real statewide bodies are:
+- **California Coalition for Reproductive Freedom**
+- **Essential Access Health** (formerly California Family Health Council)
+
+Also possibly relevant: **California Reproductive Health Equity Project**, or simply a loose paraphrase of a coalition.
+
+**Question:** How should the existing "California Reproductive Health Association" canonical (and its "CA Reproductive Health Association" alt) be handled?
+- (a) Keep as-is (treat it as a real, if informally-named, org).
+- (b) Rename/re-map it as an alternate spelling under one of the real orgs above (which one?).
+- (c) It is not a real org — move "California Reproductive Health Association" (24) and "CA Reproductive Health Association" to `org_names_partial.csv` (or another invalidity CSV) and remove the canonical from the crosswalk.
+
+I left the existing "California Reproductive Health Association" canonical untouched pending your answer (per the task: do NOT create/modify it yet). The conjoined entry has been split and removed regardless.
 
 ### Q18 (Task 2243, RA-Fleet-3) — UNITED STATES CHAMBER OF COMMERCE megatask should be decomposed into subtasks
 **Status:** Open
