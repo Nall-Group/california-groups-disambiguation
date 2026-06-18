@@ -35,13 +35,17 @@ cd "$REPO_DIR"
 MAX_TASKS="${MAX_TASKS:-0}"        # 0 = unlimited
 MAX_EMPTY="${MAX_EMPTY:-3}"
 EMPTY_BACKOFF="${EMPTY_BACKOFF:-30}"
-# Hang detection. The primary signal is OUTPUT SILENCE, not wall-clock: a worker
-# that produces no streaming output for IDLE_TIMEOUT is hung and gets killed, so
-# the loop relaunches. A still-streaming task is never killed no matter how long.
-IDLE_TIMEOUT="${IDLE_TIMEOUT:-180}"    # 3 min of no output => hung
-IDLE_POLL="${IDLE_POLL:-20}"           # how often the watchdog checks
-# Far backstop on total task wall-time (catches pathological non-silent loops).
-TASK_TIMEOUT="${TASK_TIMEOUT:-2400}"   # 40 minutes
+# Hang/error handling is by REAL STREAM SIGNALS, not silence. Silence is NOT a
+# hang — a worker waiting on a slow Bash command (e.g. loading the 1M-line
+# crosswalk JSON) emits nothing for minutes yet is perfectly healthy. So we do
+# NOT kill on idle. Instead the watchdog scans the stream for actual error
+# signals (real throttling / error events) and only then kills so the loop can
+# back off and relaunch. Claude retries transient API errors internally; if it
+# can't recover it exits on its own and the loop classifies the exit.
+STREAM_POLL="${STREAM_POLL:-20}"       # how often the watchdog scans the stream
+# Generous absolute runtime cap (NOT an idle timer): last-resort kill for a truly
+# infinite hang that never errors and never exits. Set high so no real task hits it.
+TASK_TIMEOUT="${TASK_TIMEOUT:-2700}"   # 45 minutes
 # Backoff after a FATAL error (usage limit, auth). Long, and fatal errors retry
 # indefinitely (without counting toward MAX_EMPTY) so the fleet AUTO-RESUMES when
 # a usage limit resets instead of dying — which is what stranded it overnight.
@@ -60,8 +64,10 @@ ERROR_LOG="$LOG_DIR/errors.log"        # shared, tab-separated classified error 
 classify_error() {
   local errfile="$1" killreason="$2" txt
   case "$killreason" in
-    idle)    echo "idle_kill|0|no streaming output for ${IDLE_TIMEOUT}s (hung call)"; return;;
-    timeout) echo "timeout_kill|0|exceeded ${TASK_TIMEOUT}s wall-clock backstop"; return;;
+    # Watchdog detected a real throttle/error event in the stream. Treat as fatal
+    # so it backs off long and retries indefinitely (auto-resumes when it clears).
+    stream_error) echo "stream_throttle|1|rate-limit/error signal in stream (back off, auto-resume)"; return;;
+    timeout)      echo "timeout_kill|0|exceeded ${TASK_TIMEOUT}s absolute runtime cap"; return;;
   esac
   txt="$(tail -c 6000 "$errfile" 2>/dev/null | tr '\n' ' ')"
   if   grep -qiE "usage limit|usage_limit|reached your .*(usage|limit)" <<<"$txt"; then echo "usage_limit|1|account usage limit reached"
@@ -108,6 +114,11 @@ If your environment is broken or you could not commit, do NOT print '$DONE_SENTI
 count=0
 empty_streak=0
 
+# Clean up this RA's stream/err/kill temp files on exit (incl. when the loop is
+# killed mid-iteration by a fleet stop/restart — otherwise they leak in ra_logs).
+cleanup_temps() { rm -f "$LOG_DIR/.${RA_NAME}".out.* "$LOG_DIR/.${RA_NAME}".err.* "$LOG_DIR/.${RA_NAME}".out.*.kill 2>/dev/null; }
+trap cleanup_temps EXIT
+
 echo "=== [$RA_NAME] starting headless loop in $REPO_DIR ===" | tee -a "$RUN_LOG"
 
 while true; do
@@ -138,18 +149,37 @@ while true; do
   cmdpid=$!
   (
     while kill -0 "$cmdpid" 2>/dev/null; do
-      sleep "$IDLE_POLL"
+      sleep "$STREAM_POLL"
       now="$(date +%s)"
-      mt="$(stat -f %m "$tmpout" 2>/dev/null || echo "$now")"
       st="$(stat -f %B "$tmpout" 2>/dev/null || echo "$now")"
-      if (( now - mt >= IDLE_TIMEOUT )); then
-        echo idle >"$killflag"
-        echo "!!! [$RA_NAME] no output for ${IDLE_TIMEOUT}s — killing hung worker !!!" >>"$RUN_LOG"
+      # Scan the tail of the stream for a REAL error signal (not silence):
+      #   - a rate_limit_event whose status != "allowed"  => actual throttling
+      #   - a "type":"error" event                        => API error
+      # Only these kill the worker (so the loop backs off + relaunches). A worker
+      # that is merely quiet (waiting on a slow tool call) is left alone.
+      if tail -c 60000 "$tmpout" 2>/dev/null | python3 -c "
+import sys, json
+bad=False
+for ln in sys.stdin:
+    ln=ln.strip()
+    if not ln: continue
+    try: o=json.loads(ln)
+    except Exception: continue
+    if not isinstance(o, dict): continue
+    if o.get('type')=='rate_limit_event':
+        s=(o.get('rate_limit_info') or {}).get('status')
+        if s and s!='allowed': bad=True
+    if o.get('type')=='error': bad=True
+sys.exit(0 if bad else 1)
+" 2>/dev/null; then
+        echo stream_error >"$killflag"
+        echo "!!! [$RA_NAME] stream shows a real error/throttle signal — killing to back off + restart !!!" >>"$RUN_LOG"
         kill -9 "$cmdpid" 2>/dev/null; break
       fi
+      # Last-resort absolute cap (NOT idle): only a truly infinite hang hits this.
       if (( now - st >= TASK_TIMEOUT )); then
         echo timeout >"$killflag"
-        echo "!!! [$RA_NAME] task exceeded ${TASK_TIMEOUT}s backstop — killing worker !!!" >>"$RUN_LOG"
+        echo "!!! [$RA_NAME] exceeded ${TASK_TIMEOUT}s absolute runtime cap — killing !!!" >>"$RUN_LOG"
         kill -9 "$cmdpid" 2>/dev/null; break
       fi
     done

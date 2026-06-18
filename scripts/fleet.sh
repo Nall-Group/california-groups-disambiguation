@@ -41,6 +41,8 @@ _reap_fleet() {
   pkill -9 -f "run_ra.sh RA-" 2>/dev/null || true
   pkill -9 -f "claude -p You are worker RA" 2>/dev/null || true
   sleep 1
+  # Sweep leftover per-worker temp files (a SIGKILL'd loop can't run its own trap).
+  rm -f "$LOG_DIR"/.RA-*.out.* "$LOG_DIR"/.RA-*.err.* "$LOG_DIR"/.RA-*.out.*.kill 2>/dev/null || true
   local left
   left="$(pgrep -f 'claude -p You are worker RA' | wc -l | tr -d ' ')"
   [[ "$left" != "0" ]] && echo "warning: $left worker(s) still not dead (likely stuck in a syscall; will exit on socket timeout)"
