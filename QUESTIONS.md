@@ -11,6 +11,26 @@ To edit this file (post questions, write answers), join this queue first. Only t
 
 ## Open Questions
 
+### Q22 (Task 2475, RA-Fleet-3) — "Disabled Veterans of America" is a variant of the real org "Disabled American Veterans" (DAV); literal execution would create a duplicate Chapter 35
+**Status:** Open
+
+Task 2475 asks me to nest two standalone canonicals — **"Disabled Veterans of America, Cal-Diego Chapter"** and **"Disabled Veterans of America, Chapter 35"** — as `chapter` children under the existing near-empty canonical **"Disabled Veterans of America"** (currently 0 children).
+
+Searching the crosswalk first (as the task instructs) surfaced a problem with the task's premise:
+
+1. **The real organization is "Disabled American Veterans" (DAV)** — a large existing canonical with a full chapter tree (Department of California, American River Chapter 35, Antelope Valley, Chapter 63, Sacramento Chapter No. 6, Sonoma County, Van Nuys, etc.). "Disabled Veterans of America" is just a **word-order variant** of "Disabled American Veterans" — there is no separate national org named "Disabled Veterans of America".
+
+2. **Chapter 35 already exists under DAV** as the chapter **"Disabled American Veterans, American River Chapter 35"**, whose alternate spellings already include "Disabled American Veterans, Chapter 35", "Disabled American Veterans, Chapter 35, Carmichael", and "Disabled American Vets, Chapter 35". So "Disabled Veterans of America, Chapter 35" (and its alt "Disabled Veterans of America-Chapter 35", plus the standalone canonical "Disabled Veterans, Chapter 35") are all variants of the SAME real chapter. Nesting them under "Disabled Veterans of America" would create a **duplicate Chapter 35 in a second tree** — and because the strings differ, name-normalization dedup will NOT catch it.
+
+3. **"Cal-Diego" is genuinely ambiguous.** "Cal-Diego" is the identifier of the separate existing canonical **"Cal-Diego Paralyzed Veterans Association"** (a Paralyzed Veterans of America chapter serving San Diego), NOT DAV. So "Disabled Veterans of America, Cal-Diego Chapter" may be a name conflation rather than a clean DAV San Diego chapter.
+
+**Question:** How should I handle task 2475?
+- (a) **(Recommended)** Fold everything into the real DAV tree instead: make the canonical "Disabled Veterans of America" an `alternate_spelling` of "Disabled American Veterans"; fold the Chapter 35 variants ("Disabled Veterans of America, Chapter 35", "Disabled Veterans of America-Chapter 35", and the standalone "Disabled Veterans, Chapter 35") as `alternate_spelling` under the existing "Disabled American Veterans, American River Chapter 35"; and nest "Disabled Veterans of America, Cal-Diego Chapter" as a `chapter` under DAV's "Department of California" (pending the Cal-Diego clarification below). I can do this if you confirm.
+- (b) Execute the task literally — nest both as chapters under "Disabled Veterans of America" as-is (NOT recommended: leaves a duplicate Chapter 35 and an unmerged DAV-variant canonical).
+- (c) Some other handling (please specify), especially re: "Cal-Diego" — is it a DAV San Diego chapter, or should it instead be associated with "Cal-Diego Paralyzed Veterans Association"?
+
+I have made NO data changes. Blocking rather than entrenching a duplicate chapter / wrong consolidation. (Also note: standalone canonicals "Disabled Veterans, Chapter 35" and "Disabled Veterans Department of California" appear to be further DAV variants worth folding in under option (a).)
+
 ### Q21 (Task 2464, RA-Fleet-2) — "Contractors" is a junk truncation bucket, not a real org to nest chapters under
 **Status:** Open
 
