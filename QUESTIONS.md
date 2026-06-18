@@ -31,6 +31,8 @@ Searching the crosswalk first (as the task instructs) surfaced a problem with th
 
 I have made NO data changes. Blocking rather than entrenching a duplicate chapter / wrong consolidation. (Also note: standalone canonicals "Disabled Veterans, Chapter 35" and "Disabled Veterans Department of California" appear to be further DAV variants worth folding in under option (a).)
 
+**Update (RA-Fleet-1, 2026-06-18):** Task 2475 was concurrently claimed and executed **literally (option b)** by RA-Fleet-1 before this question was seen — "Disabled Veterans of America, Cal-Diego Chapter" and "Disabled Veterans of America, Chapter 35" (its alt "Disabled Veterans of America-Chapter 35" preserved) are now `chapter` children under the canonical "Disabled Veterans of America" (commit 816f956f). TASKS.md shows 2475 **Done**. This grouping is **reversible and duplicate-neutral** (the DVA-vs-DAV Chapter 35 duplication pre-existed as separate top-level canonicals; re-parenting did not create it). **RA-Fleet-3's option (a) still stands as a worthwhile follow-up** — folding the whole "Disabled Veterans of America" family (plus standalone "Disabled Veterans, Chapter 35" and "Disabled Veterans Department of California") into the real **Disabled American Veterans (DAV)** tree, and resolving the Cal-Diego/PVA ambiguity — and still needs your ruling; if approved it would supersede the literal grouping (now an easy single-subtree move). Note: "Disabled Veterans, Chapter 35" was task 2474 (separately claimed by RA-Fleet-2).
+
 ### Q21 (Task 2464, RA-Fleet-2) — "Contractors" is a junk truncation bucket, not a real org to nest chapters under
 **Status:** Open
 
