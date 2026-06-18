@@ -97,6 +97,17 @@ case "$cmd" in
     tail -n 20 -f "$LOG_DIR"/*.log
     ;;
 
+  errors)
+    EL="$LOG_DIR/errors.log"
+    if [[ ! -s "$EL" ]]; then echo "no classified errors recorded (errors.log empty)"; exit 0; fi
+    echo "=== error counts by category (all time) ==="
+    awk -F'\t' '{c[$3]++} END{for(k in c) printf "  %-16s %d\n", k, c[k]}' "$EL" | sort -k2 -rn
+    echo "=== FATAL errors (show-stoppers) ==="
+    grep -E "fatal=1" "$EL" | tail -8 || echo "  none"
+    echo "=== most recent 12 errors ==="
+    tail -12 "$EL"
+    ;;
+
   stop)
     _reap_fleet
     [[ -f "$PID_FILE" ]] && rm -f "$PID_FILE"

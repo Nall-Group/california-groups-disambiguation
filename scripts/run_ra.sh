@@ -42,12 +42,37 @@ IDLE_TIMEOUT="${IDLE_TIMEOUT:-180}"    # 3 min of no output => hung
 IDLE_POLL="${IDLE_POLL:-20}"           # how often the watchdog checks
 # Far backstop on total task wall-time (catches pathological non-silent loops).
 TASK_TIMEOUT="${TASK_TIMEOUT:-2400}"   # 40 minutes
+# Backoff after a FATAL error (usage limit, auth). Long, and fatal errors retry
+# indefinitely (without counting toward MAX_EMPTY) so the fleet AUTO-RESUMES when
+# a usage limit resets instead of dying — which is what stranded it overnight.
+FATAL_BACKOFF="${FATAL_BACKOFF:-300}"  # 5 minutes
 MODEL_ARG=()
 [[ -n "${MODEL:-}" ]] && MODEL_ARG=(--model "$MODEL")
 
 LOG_DIR="$REPO_DIR/ra_logs"
 mkdir -p "$LOG_DIR"
 RUN_LOG="$LOG_DIR/${RA_NAME}.log"
+ERROR_LOG="$LOG_DIR/errors.log"        # shared, tab-separated classified error log
+
+# Classify a worker failure into "category|fatal(0/1)|one-line description".
+# Inputs: $1 = worker stderr file, $2 = explicit kill reason (idle|timeout|"").
+# Fatal = show-stopping (won't fix itself by immediate retry): usage limit, auth.
+classify_error() {
+  local errfile="$1" killreason="$2" txt
+  case "$killreason" in
+    idle)    echo "idle_kill|0|no streaming output for ${IDLE_TIMEOUT}s (hung call)"; return;;
+    timeout) echo "timeout_kill|0|exceeded ${TASK_TIMEOUT}s wall-clock backstop"; return;;
+  esac
+  txt="$(tail -c 6000 "$errfile" 2>/dev/null | tr '\n' ' ')"
+  if   grep -qiE "usage limit|usage_limit|reached your .*(usage|limit)" <<<"$txt"; then echo "usage_limit|1|account usage limit reached"
+  elif grep -qiE "invalid x-api-key|authentication|unauthorized|401|oauth.*expired|please run /login" <<<"$txt"; then echo "auth_error|1|authentication / credential failure"
+  elif grep -qiE "rate limit|rate_limit|\b429\b" <<<"$txt"; then echo "rate_limit|0|API rate limited (transient)"
+  elif grep -qiE "overloaded|\b529\b" <<<"$txt"; then echo "overloaded|0|API overloaded (transient)"
+  elif grep -qiE "connection closed while thinking|connection error|econnreset|fetch failed|socket hang up|network error" <<<"$txt"; then echo "api_connection|0|connection / network error (transient)"
+  elif grep -qiE "prompt is too long|context.{0,12}length|too many tokens|context_length" <<<"$txt"; then echo "context_overflow|0|prompt/context too large"
+  else echo "unknown|0|non-zero exit (see ${RA_NAME}.log)"
+  fi
+}
 
 # The model ends every run by printing EXACTLY ONE of these tokens on its own
 # line, so the loop can distinguish the three outcomes without trusting exit
@@ -104,10 +129,12 @@ while true; do
   # growing for IDLE_TIMEOUT (a true hang is caught in minutes, but a genuinely slow
   # task that's still streaming is NEVER killed). TASK_TIMEOUT is just a far backstop.
   tmpout="$(mktemp "$LOG_DIR/.${RA_NAME}.out.XXXXXX")"
+  tmperr="$(mktemp "$LOG_DIR/.${RA_NAME}.err.XXXXXX")"
+  killflag="${tmpout}.kill"; killreason=""
   claude -p "$PROMPT" \
       --dangerously-skip-permissions \
       --output-format stream-json --include-partial-messages --verbose \
-      ${MODEL_ARG[@]+"${MODEL_ARG[@]}"} >"$tmpout" 2>>"$RUN_LOG" &
+      ${MODEL_ARG[@]+"${MODEL_ARG[@]}"} >"$tmpout" 2>"$tmperr" &
   cmdpid=$!
   (
     while kill -0 "$cmdpid" 2>/dev/null; do
@@ -116,10 +143,12 @@ while true; do
       mt="$(stat -f %m "$tmpout" 2>/dev/null || echo "$now")"
       st="$(stat -f %B "$tmpout" 2>/dev/null || echo "$now")"
       if (( now - mt >= IDLE_TIMEOUT )); then
+        echo idle >"$killflag"
         echo "!!! [$RA_NAME] no output for ${IDLE_TIMEOUT}s — killing hung worker !!!" >>"$RUN_LOG"
         kill -9 "$cmdpid" 2>/dev/null; break
       fi
       if (( now - st >= TASK_TIMEOUT )); then
+        echo timeout >"$killflag"
         echo "!!! [$RA_NAME] task exceeded ${TASK_TIMEOUT}s backstop — killing worker !!!" >>"$RUN_LOG"
         kill -9 "$cmdpid" 2>/dev/null; break
       fi
@@ -129,6 +158,9 @@ while true; do
   wait "$cmdpid" 2>/dev/null
   status=$?
   kill "$watchpid" 2>/dev/null; wait "$watchpid" 2>/dev/null
+  [[ -f "$killflag" ]] && { killreason="$(cat "$killflag" 2>/dev/null)"; rm -f "$killflag"; }
+  # Fold the worker's stderr into the run log for the full record.
+  cat "$tmperr" >> "$RUN_LOG" 2>/dev/null
   # Extract the final result text from the stream-json transcript for sentinel matching.
   output="$(python3 - "$tmpout" <<'PY'
 import sys, json
@@ -155,12 +187,26 @@ PY
   echo "$output" >> "$RUN_LOG"
 
   if [[ $status -ne 0 ]]; then
-    echo "!!! [$RA_NAME] claude exited $status; backing off ${EMPTY_BACKOFF}s !!!" | tee -a "$RUN_LOG"
+    # Classify, record to the shared error log, and pick backoff by severity.
+    ci="$(classify_error "$tmperr" "$killreason")"
+    ecat="${ci%%|*}"; erest="${ci#*|}"; efatal="${erest%%|*}"; esnip="${erest#*|}"
+    printf '%s\t%s\t%s\tfatal=%s\texit=%s\t%s\n' \
+      "$(date '+%Y-%m-%dT%H:%M:%S')" "$RA_NAME" "$ecat" "$efatal" "$status" "$esnip" >> "$ERROR_LOG"
+    echo "!!! [$RA_NAME] ERROR [$ecat] (fatal=$efatal): $esnip !!!" | tee -a "$RUN_LOG"
+    rm -f "$tmperr"
+    if [[ "$efatal" == "1" ]]; then
+      # Show-stopping (usage limit / auth): back off long and KEEP retrying so the
+      # fleet auto-resumes when it clears. Do NOT count toward the stop streak.
+      echo "!!! [$RA_NAME] FATAL [$ecat] — backing off ${FATAL_BACKOFF}s and retrying (auto-resume) !!!" | tee -a "$RUN_LOG"
+      sleep "$FATAL_BACKOFF"
+      continue
+    fi
     empty_streak=$((empty_streak+1))
     [[ "$empty_streak" -ge "$MAX_EMPTY" ]] && { echo "=== [$RA_NAME] too many failures, stopping ===" | tee -a "$RUN_LOG"; break; }
     sleep "$EMPTY_BACKOFF"
     continue
   fi
+  rm -f "$tmperr"
 
   # Read the LAST sentinel line the model printed.
   last_result="$(grep -oE "($DONE_SENTINEL[^\n]*|$NONE_SENTINEL)" <<<"$output" | tail -1)"
