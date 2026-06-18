@@ -70,7 +70,7 @@ classify_error() {
     timeout)      echo "timeout_kill|0|exceeded ${TASK_TIMEOUT}s absolute runtime cap"; return;;
   esac
   txt="$(tail -c 6000 "$errfile" 2>/dev/null | tr '\n' ' ')"
-  if   grep -qiE "usage limit|usage_limit|reached your .*(usage|limit)" <<<"$txt"; then echo "usage_limit|1|account usage limit reached"
+  if   grep -qiE "usage limit|usage_limit|spend limit|monthly spend|hit your .*(usage|spend|limit)|claude\.ai/settings/usage|reached your .*(usage|limit)" <<<"$txt"; then echo "usage_limit|1|usage/spend limit hit — raise at claude.ai/settings/usage or wait for reset"
   elif grep -qiE "invalid x-api-key|authentication|unauthorized|401|oauth.*expired|please run /login" <<<"$txt"; then echo "auth_error|1|authentication / credential failure"
   elif grep -qiE "rate limit|rate_limit|\b429\b" <<<"$txt"; then echo "rate_limit|0|API rate limited (transient)"
   elif grep -qiE "overloaded|\b529\b" <<<"$txt"; then echo "overloaded|0|API overloaded (transient)"
@@ -232,9 +232,18 @@ PY
       sleep "$FATAL_BACKOFF"
       continue
     fi
+    # NEVER permanently stop on errors — a loop that exits can't auto-resume
+    # (this is what stranded the fleet overnight on an unrecognized spend-limit
+    # error). After MAX_EMPTY quick failures, escalate to a long backoff and KEEP
+    # retrying, so the fleet self-heals whenever conditions clear (limit raised,
+    # API recovers, etc.). Only MAX_TASKS or an explicit stop ends the loop.
     empty_streak=$((empty_streak+1))
-    [[ "$empty_streak" -ge "$MAX_EMPTY" ]] && { echo "=== [$RA_NAME] too many failures, stopping ===" | tee -a "$RUN_LOG"; break; }
-    sleep "$EMPTY_BACKOFF"
+    if [[ "$empty_streak" -ge "$MAX_EMPTY" ]]; then
+      echo "!!! [$RA_NAME] $empty_streak consecutive failures [$ecat] — long backoff ${FATAL_BACKOFF}s, still retrying (auto-resume) !!!" | tee -a "$RUN_LOG"
+      sleep "$FATAL_BACKOFF"
+    else
+      sleep "$EMPTY_BACKOFF"
+    fi
     continue
   fi
   rm -f "$tmperr"
