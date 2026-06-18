@@ -35,6 +35,10 @@ cd "$REPO_DIR"
 MAX_TASKS="${MAX_TASKS:-0}"        # 0 = unlimited
 MAX_EMPTY="${MAX_EMPTY:-3}"
 EMPTY_BACKOFF="${EMPTY_BACKOFF:-30}"
+# Hard ceiling on a single task process. Normal tasks finish in 5-15 min; a
+# worker stuck past this is hung in a bad API call (macOS has no `timeout`,
+# so we watchdog it ourselves). Killing it lets the loop relaunch fresh.
+TASK_TIMEOUT="${TASK_TIMEOUT:-1500}"   # 25 minutes
 MODEL_ARG=()
 [[ -n "${MODEL:-}" ]] && MODEL_ARG=(--model "$MODEL")
 
@@ -90,11 +94,25 @@ while true; do
   # Fresh process every iteration => clean context. --dangerously-skip-permissions
   # is required for unattended runs (otherwise it blocks on permission prompts);
   # safe here because all work is file-based inside a git repo.
-  output="$(claude -p "$PROMPT" \
+  # Watchdog-wrapped claude call: run in background, capture stdout to a temp
+  # file, and SIGKILL it if it exceeds TASK_TIMEOUT (hang protection). Without
+  # this, a hung worker blocks the loop forever (observed: 2-hour stuck calls).
+  tmpout="$(mktemp "$LOG_DIR/.${RA_NAME}.out.XXXXXX")"
+  claude -p "$PROMPT" \
       --dangerously-skip-permissions \
       --output-format text \
-      ${MODEL_ARG[@]+"${MODEL_ARG[@]}"} 2>>"$RUN_LOG")"
+      ${MODEL_ARG[@]+"${MODEL_ARG[@]}"} >"$tmpout" 2>>"$RUN_LOG" &
+  cmdpid=$!
+  ( sleep "$TASK_TIMEOUT"; kill -9 "$cmdpid" 2>/dev/null ) &
+  watchpid=$!
+  wait "$cmdpid" 2>/dev/null
   status=$?
+  # Cancel the watchdog if the command finished on its own.
+  kill "$watchpid" 2>/dev/null; wait "$watchpid" 2>/dev/null
+  output="$(cat "$tmpout")"; rm -f "$tmpout"
+  if [[ $status -eq 137 ]]; then
+    echo "!!! [$RA_NAME] task exceeded ${TASK_TIMEOUT}s — killed hung worker !!!" | tee -a "$RUN_LOG"
+  fi
 
   echo "$output" >> "$RUN_LOG"
 
