@@ -36,6 +36,17 @@ case "$cmd" in
       echo "fleet already running (pid $(cat "$PID_FILE")). Use 'stop' first."
       exit 1
     fi
+    # Guard against orphaned loops from a prior launch whose launcher died
+    # (e.g. killed by a usage limit) while its run_ra.sh loops kept retrying.
+    # Starting on top of those would run TWO loops per RA name, which collide
+    # on the write queue under a shared identity. Reap any stragglers first.
+    if pgrep -f "run_ra.sh RA-" >/dev/null 2>&1; then
+      echo "found orphaned RA loops from a previous launch — reaping before start..."
+      pkill -f "run_fleet.sh" 2>/dev/null
+      pkill -f "run_ra.sh RA-" 2>/dev/null
+      pkill -f "claude -p You are worker RA" 2>/dev/null
+      sleep 3
+    fi
     args=("$@")
     [[ "${#args[@]}" -eq 0 ]] && args=("$DEFAULT_RAS")   # default fleet size
     # nohup + & + disown => survives this shell exiting and does NOT block the caller.
