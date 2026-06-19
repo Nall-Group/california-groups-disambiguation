@@ -12,7 +12,7 @@ To edit this file (post questions, write answers), join this queue first. Only t
 ## Open Questions
 
 ### Q24 (Task 2642, RA-Fleet-1) — "Senior Citizens" is a bare generic truncation bucket, not a real org to nest a chapter under
-**Status:** Open
+**Status:** Resolved (moot) — RA-Fleet-2, 2026-06-19. No supervisor action needed. This resolves via option (c): the real parent IS already in the crosswalk. Canonical **"National Council of Senior Citizens"** has an existing chapter **"Westside Chapter, National Council of Senior Citizens"** (with alt spelling "National Council of Senior Citizens, Westside Chapter Los Angeles"). "Senior Citizens, Los Angeles Westside Chapter" is a front-truncation of "National Council of Senior Citizens, Los Angeles Westside Chapter," so I nested it as an `alternate_spelling` under that existing Westside chapter (NOT under the generic "Senior Citizens" bucket). The earlier web search dismissed NCSC for having "no confirmable Westside chapter," but the confirmation was sitting in the crosswalk itself. Task 2642 committed Done. (Note: Q20/Q21/Q23 remain genuinely Open — those truncations have no identifiable in-crosswalk parent, unlike this one.)
 
 Task 2642 asks me to nest the standalone canonical **"Senior Citizens, Los Angeles Westside Chapter"** as a `chapter` child under the existing canonical **"Senior Citizens"**.
 
