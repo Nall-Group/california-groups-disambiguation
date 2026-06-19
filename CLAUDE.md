@@ -143,3 +143,37 @@ Each worker RA session is given a name by the user (e.g. "RA-Alpha", "RA-Beta").
 **Picking up blocked tasks:** Any RA (not just the original one) can pick up a "Blocked" task. Before picking a new "Not Started" task, check `QUESTIONS.md` for answered questions on blocked tasks. If a blocked task's question has been answered, you can claim it — mark it "In Progress" with your name and resume work on it.
 
 **When all tasks are done or blocked:** Poll `TASKS.md` every 10 seconds to see if new tasks have been added or if blocked tasks have been unblocked (check `QUESTIONS.md` for answered questions). Pick up any available work.
+
+## Headless Fleet Runner (`scripts/fleet.sh`)
+
+Instead of running worker RAs as long-lived interactive sessions (which accumulate context and degrade), the **headless fleet** spawns a brand-new `claude -p` process for **every single task**. Each task starts with a completely clean context — no manual `/clear`, no degradation — and the worker exits after one task so the loop launches a fresh one for the next.
+
+**Scripts (in `scripts/`):**
+- `run_ra.sh <NAME>` — one RA: loops forever, spawning a fresh `claude -p` worker per task. Each worker is told (via the prompt) to follow the Worker RA Role workflow above, do EXACTLY ONE task, commit, and exit.
+- `run_fleet.sh <N|name…>` — launches N `run_ra.sh` loops in parallel (staggered so they don't collide on the queues).
+- `fleet.sh {start|status|errors|logs|stop}` — the control panel (use this).
+
+**Operating it:**
+```
+scripts/fleet.sh start          # launch the default 3 RAs, detached (returns immediately)
+scripts/fleet.sh start 2        # launch 2 (or: DEFAULT_RAS=2 scripts/fleet.sh start)
+scripts/fleet.sh status         # running? per-RA completed counts
+scripts/fleet.sh errors         # classified error log (category counts, fatal hits, recent)
+scripts/fleet.sh logs           # tail all RA logs
+scripts/fleet.sh stop           # hard-stop all loops + workers
+```
+`start` runs detached (`nohup`), so it does not block the caller; a supervising/management session can launch it and keep working. Default fleet size is **3** (`DEFAULT_RAS`). NOTE: launching from inside another `claude` Bash tool requires `dangerouslyDisableSandbox` (nested `claude` can't create its session dir under the parent sandbox); from a plain terminal it just works.
+
+**Coordination:** fleet workers use the SAME `TASKS.md`/`QUESTIONS.md`/Data Write Queues as everyone else, so they interoperate with interactive RAs. They poll the Data Write Queue **actively within their turn** (a `claude -p` process is one-shot and cannot be suspended/resumed — it must never "schedule a wakeup" or "await a signal," which would exit the process and strand a queue slot).
+
+**Resilience (built into `run_ra.sh`):**
+- **No idle/silence timeout.** A quiet worker is usually just waiting on a slow tool call (e.g. loading the 1M-line crosswalk), NOT hung. The watchdog kills ONLY on a real stream signal — a `rate_limit_event` whose status is a genuine block (not `allowed`/`allowed_warning`). A 45-min absolute cap is the last-resort infinite-hang guard.
+- **Never permanently stops on errors.** On any failure it backs off (longer after repeated failures) and keeps retrying — so the fleet **auto-resumes** when a usage/monthly-spend limit clears or the API recovers, instead of dying. Transient API errors are left to Claude's own internal retry.
+- **Error classification + logging.** Every failure is classified (`usage_limit`, `rate_limit`, `overloaded`, `api_connection`, `timeout_kill`, `unknown`, …) and appended to `ra_logs/errors.log`; view with `scripts/fleet.sh errors`. Fatal = usage/spend limit or auth.
+- **Clean process lifecycle.** `stop`/`start` hard-reap (SIGTERM→SIGKILL) loops AND workers — hung workers ignore SIGTERM and reparent to init, so a plain `pkill` would leave orphans that collide under the same RA name. `start` also reaps stragglers from a prior launch before starting.
+
+**Config knobs (env vars):** `DEFAULT_RAS` (3), `MAX_TASKS` (0=unlimited), `TASK_TIMEOUT` (2700s absolute cap), `STREAM_POLL` (20s), `FATAL_BACKOFF` (300s), `MODEL`. Logs: `ra_logs/<NAME>.log`; classified errors: `ra_logs/errors.log`.
+
+**Usage/spend limits:** workers run on the account's quota. A monthly **spend** limit (claude.ai/settings/usage) does NOT clear by waiting — raise it or wait for the billing reset; the fleet auto-resumes once it clears. A 5-hour/7-day **rate** limit resets on its own. If all RAs error simultaneously, it's an account-wide cap, not a bug.
+
+**Orphan cleanup:** if a worker is killed mid-task (or exits after a queue-block without resetting), its claim can linger as a stale "In Progress" / Data-Write-Queue entry. These are detected by checking whether the owning RA is live + whether the task has committed data; reset to "Not Started" if no data was committed (or mark Done if data was committed but the done-mark was missed).
