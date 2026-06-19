@@ -48,7 +48,7 @@ This is the **same situation as Q20 (America), Q21 (Contractors), and Q23 (Polit
 I have NOT nested it under "Senior Citizens." Blocking rather than forcing a wrong consolidation. (Ideally this + Q20/Q21/Q23 get one consistent policy answer.)
 
 ### Q23 (Task 2612, RA-Fleet-2) — "Political Association" is a junk truncation bucket, not a real org to nest a chapter under
-**Status:** Open
+**Status:** Answered — Supervisor chose (a) (2026-06-19). Move **"Political Association, Sacramento Chapter"** to `org_names_partial.csv` (truly ambiguous — Mexican-American / Black American Political Association of CA / many "[X] American Political Association" orgs all have Sacramento chapters, no single identifiable parent). Do NOT nest under the "Political Association" junk bucket. Remove from crosswalk JSON, move the row+count from its current org_names CSV, run the clean/dedup/stats pipeline.
 
 Task 2612 asks me to nest the standalone canonical **"Political Association, Sacramento Chapter"** as a `chapter` child under the existing canonical **"Political Association"**.
 
@@ -69,7 +69,7 @@ Task 2612 has no CLAUDE.md escape clause, so per project rules I am blocking rat
 I have made NO data changes (nothing nested, no CSV moves). Blocking rather than forcing a wrong consolidation. A general ruling here would likely also resolve Q20 and Q21 (same junk-bucket pattern).
 
 ### Q22 (Task 2475, RA-Fleet-3) — "Disabled Veterans of America" is a variant of the real org "Disabled American Veterans" (DAV); literal execution would create a duplicate Chapter 35
-**Status:** Open
+**Status:** Answered — Supervisor chose (a): FOLD into the real DAV tree (2026-06-19). Make canonical **"Disabled Veterans of America"** an `alternate_spelling` of **"Disabled American Veterans"**; fold the Chapter 35 variants ("Disabled Veterans of America, Chapter 35", its alt "Disabled Veterans of America-Chapter 35", and the standalone "Disabled Veterans, Chapter 35") as `alternate_spelling` under DAV's existing chapter **"Disabled American Veterans, American River Chapter 35"**; nest "Disabled Veterans of America, Cal-Diego Chapter" as a `chapter` under DAV's **"Department of California"** (treat Cal-Diego as a DAV San Diego chapter); also fold standalone "Disabled Veterans Department of California" into the DAV tree. This supersedes the prior literal grouping (now an easy single-subtree move). Within-crosswalk; no CSV changes. Tracked as new follow-up **task 2660**.
 
 Task 2475 asks me to nest two standalone canonicals — **"Disabled Veterans of America, Cal-Diego Chapter"** and **"Disabled Veterans of America, Chapter 35"** — as `chapter` children under the existing near-empty canonical **"Disabled Veterans of America"** (currently 0 children).
 
@@ -91,7 +91,7 @@ I have made NO data changes. Blocking rather than entrenching a duplicate chapte
 **Update (RA-Fleet-1, 2026-06-18):** Task 2475 was concurrently claimed and executed **literally (option b)** by RA-Fleet-1 before this question was seen — "Disabled Veterans of America, Cal-Diego Chapter" and "Disabled Veterans of America, Chapter 35" (its alt "Disabled Veterans of America-Chapter 35" preserved) are now `chapter` children under the canonical "Disabled Veterans of America" (commit 816f956f). TASKS.md shows 2475 **Done**. This grouping is **reversible and duplicate-neutral** (the DVA-vs-DAV Chapter 35 duplication pre-existed as separate top-level canonicals; re-parenting did not create it). **RA-Fleet-3's option (a) still stands as a worthwhile follow-up** — folding the whole "Disabled Veterans of America" family (plus standalone "Disabled Veterans, Chapter 35" and "Disabled Veterans Department of California") into the real **Disabled American Veterans (DAV)** tree, and resolving the Cal-Diego/PVA ambiguity — and still needs your ruling; if approved it would supersede the literal grouping (now an easy single-subtree move). Note: "Disabled Veterans, Chapter 35" was task 2474 (separately claimed by RA-Fleet-2).
 
 ### Q21 (Task 2464, RA-Fleet-2) — "Contractors" is a junk truncation bucket, not a real org to nest chapters under
-**Status:** Open
+**Status:** Answered — Supervisor chose (a) (2026-06-19). Move **"Contractors, San Diego Chapter"** to `org_names_partial.csv` (truly ambiguous — AGC/ABC/NECA/SMACNA all have SD chapters, no single identifiable parent). Do NOT nest under the "Contractors" junk bucket. Remove from crosswalk JSON, move the row+count from its current org_names CSV, run the clean/dedup/stats pipeline.
 
 Task 2464 asks me to nest the standalone canonical **"Contractors, San Diego Chapter"** as a `chapter` child under the existing canonical **"Contractors"**.
 
@@ -115,7 +115,9 @@ Note: task 2464 has no CLAUDE.md escape clause (unlike task 2465), so per the pr
 I have NOT nested it under "Contractors". Blocking rather than forcing a wrong consolidation.
 
 ### Q20 (Task 2330, RA-Fleet-2) — "America" is a junk truncation bucket, not a real org to nest chapters under
-**Status:** Open
+**Status:** Answered — Supervisor + MgmtAssistant research (2026-06-19). SPLIT the two entries; do NOT nest either under the "America" junk bucket:
+- **"America, South Bay Chapter 53"** is a front-truncation of **"Vietnam Veterans of America, South Bay Chapter 53"** (VVA, the national org with numbered chapters; "South Bay Chapter 53" = Torrance/LA-County chapter). This chapter ALREADY EXISTS in the crosswalk as `chapter` **"Vietnam Veterans of America South Bay Chapter 53"** (~line 974426) under canonical **"Vietnam Veterans of America"** (~line 974190), with alts like "Vietnam Veterans of America - Chapter 53". Nest "America, South Bay Chapter 53" as an `alternate_spelling` under that existing chapter. Within-crosswalk move, no CSV change.
+- **"America, San Diego Chapter"** (+ its alt **"America, San Diego Chapter, Inc"**) remains a genuinely ambiguous truncation — no VVA San Diego chapter exists in the crosswalk (VVA's SD is Chapter 472; "VIETNAM VETERANS OF SAN DIEGO" is a separate org), and any "[X] of America" could have an SD chapter. Move it to `org_names_partial.csv` (remove from crosswalk JSON, move the row+count from whichever org_names CSV it's in). Run the clean/dedup/stats pipeline after (CSV change).
 
 Task 2330 asks me to nest the two standalone canonicals "America, San Diego Chapter" (+ alt "America, San Diego Chapter, Inc") and "America, South Bay Chapter 53" as `chapter` children under the existing canonical **"America"**.
 
