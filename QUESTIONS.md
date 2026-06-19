@@ -11,6 +11,27 @@ To edit this file (post questions, write answers), join this queue first. Only t
 
 ## Open Questions
 
+### Q23 (Task 2612, RA-Fleet-2) — "Political Association" is a junk truncation bucket, not a real org to nest a chapter under
+**Status:** Open
+
+Task 2612 asks me to nest the standalone canonical **"Political Association, Sacramento Chapter"** as a `chapter` child under the existing canonical **"Political Association"**.
+
+Same class of problem as **Q20** ("America") and **Q21** ("Contractors"): **"Political Association" is not a real organization** — there is no org literally named "Political Association". It is a canonical with **0 children**, an ambiguous truncation bucket. Nesting a chapter under it would assert membership in a meaningless org.
+
+**"Political Association, Sacramento Chapter"** is itself an **ambiguous truncation** of some "[X] Political Association, Sacramento Chapter." Searching the crosswalk, multiple real parents already exist and several already have a Sacramento chapter, so there is no single unambiguous parent:
+- **Mexican-American Political Association** — already has a `chapter` child "Mexican American Political Association, Sacramento Chapter"
+- **Black American Political Association of California** — already has "Black American Political Association of California, Sacramento Chapter"
+- plus many other "[X] American Political Association" canonicals (Asian Pacific Islander American, Chinese-American, Filipino American, Hmong American, Latino American, etc.)
+
+Task 2612 has no CLAUDE.md escape clause, so per project rules I am blocking rather than forcing a wrong consolidation.
+
+**Question:** How should "Political Association, Sacramento Chapter" be handled?
+- (a) **(Recommended)** Move it to `org_names_partial.csv` per CLAUDE.md's truncated-entries rule (truly ambiguous — no identifiable parent). Do NOT nest under the "Political Association" junk bucket. (Optionally also flag the empty "Political Association" canonical itself for separate truncation cleanup / removal to partial.)
+- (b) Leave it as a standalone top-level canonical as-is (do nothing) — at least no wrong parent.
+- (c) You can identify the real parent org (please specify which "[X] Political Association"), and I'll nest it under that real canonical as a chapter.
+
+I have made NO data changes (nothing nested, no CSV moves). Blocking rather than forcing a wrong consolidation. A general ruling here would likely also resolve Q20 and Q21 (same junk-bucket pattern).
+
 ### Q22 (Task 2475, RA-Fleet-3) — "Disabled Veterans of America" is a variant of the real org "Disabled American Veterans" (DAV); literal execution would create a duplicate Chapter 35
 **Status:** Open
 
