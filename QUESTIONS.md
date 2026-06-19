@@ -11,6 +11,24 @@ To edit this file (post questions, write answers), join this queue first. Only t
 
 ## Open Questions
 
+### Q25 (Task 2658, RA-Fleet-3) — "State University" is a junk truncation bucket, not a real org to nest a chapter under
+**Status:** Open
+
+Task 2658 asks me to nest the standalone canonical **"State University, Fresno Chapter"** as a `chapter` child under the existing canonical **"State University"**.
+
+Same class of problem as **Q20** ("America"), **Q21** ("Contractors"), and **Q23** ("Political Association"): **"State University" is not a real organization** — there is no org literally named "State University". It is a canonical with **0 children**, an ambiguous truncation bucket. The surrounding crosswalk has sibling truncations of the same form — "State Univ", "State University, Hayward", "State University, Los Angeles" (all 0-child, all truncations of "California State University, [campus]"). Nesting a chapter under the bare "State University" bucket would assert membership in a meaningless org.
+
+**"State University, Fresno Chapter"** is itself an **ambiguous front-truncation** of some "[X], (California) State University, Fresno Chapter". The word "Chapter" indicates it's a chapter of a membership organization located at/named for CSU Fresno — NOT the university itself. I searched the crosswalk: there are many "California State University, Fresno, [Department/Program/Association]" canonicals, but **no plain "California State University, Fresno" canonical** and **no other entry ending in "Fresno Chapter"** that could be the parent. The "[X]" membership org is unidentifiable (could be a faculty association, honor society, professional/Greek chapter, etc.). Unlike Q24, no real parent is sitting in the crosswalk.
+
+Task 2658 has no CLAUDE.md escape clause, so per project rules I am blocking rather than forcing a wrong consolidation.
+
+**Question:** How should "State University, Fresno Chapter" be handled?
+- (a) **(Recommended)** Move it to `org_names_partial.csv` per CLAUDE.md's truncated-entries rule (truly ambiguous — no identifiable parent after crosswalk + web search). Do NOT nest under the "State University" junk bucket. (Optionally also flag the empty "State University" / "State Univ" canonicals and the sibling "State University, Hayward" / "State University, Los Angeles" truncations for the same treatment.)
+- (b) Leave it as a standalone top-level canonical as-is (do nothing) — at least no wrong parent.
+- (c) You can identify the real parent org (please specify which "[X] ... State University, Fresno Chapter"), and I'll nest it under that real canonical as a chapter.
+
+I have made NO data changes (nothing nested, no CSV moves). Blocking rather than forcing a wrong consolidation. A general ruling here would also resolve Q20, Q21, and Q23 (same junk-bucket pattern).
+
 ### Q24 (Task 2642, RA-Fleet-1) — "Senior Citizens" is a bare generic truncation bucket, not a real org to nest a chapter under
 **Status:** Resolved (moot) — RA-Fleet-2, 2026-06-19. No supervisor action needed. This resolves via option (c): the real parent IS already in the crosswalk. Canonical **"National Council of Senior Citizens"** has an existing chapter **"Westside Chapter, National Council of Senior Citizens"** (with alt spelling "National Council of Senior Citizens, Westside Chapter Los Angeles"). "Senior Citizens, Los Angeles Westside Chapter" is a front-truncation of "National Council of Senior Citizens, Los Angeles Westside Chapter," so I nested it as an `alternate_spelling` under that existing Westside chapter (NOT under the generic "Senior Citizens" bucket). The earlier web search dismissed NCSC for having "no confirmable Westside chapter," but the confirmation was sitting in the crosswalk itself. Task 2642 committed Done. (Note: Q20/Q21/Q23 remain genuinely Open — those truncations have no identifiable in-crosswalk parent, unlike this one.)
 
