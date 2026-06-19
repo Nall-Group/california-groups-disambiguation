@@ -11,6 +11,24 @@ To edit this file (post questions, write answers), join this queue first. Only t
 
 ## Open Questions
 
+### Q24 (Task 2642, RA-Fleet-1) — "Senior Citizens" is a bare generic truncation bucket, not a real org to nest a chapter under
+**Status:** Open
+
+Task 2642 asks me to nest the standalone canonical **"Senior Citizens, Los Angeles Westside Chapter"** as a `chapter` child under the existing canonical **"Senior Citizens"**.
+
+The problem: **"Senior Citizens" is not a real organization** — it is a bare, generic two-word term and the existing canonical has **zero children** (line 828813 in the crosswalk JSON). It is a truncation artifact: the surrounding crosswalk has dozens of distinct, real "Senior Citizens ..." orgs (e.g. "Senior Citizens Advisory Council", "Senior Citizens for Humane Legislation", "Senior Citizens Law Center", "SENIOR CITIZENS LEGAL SERVICES"), each its own canonical. Nesting a specific LA chapter under the bare "Senior Citizens" bucket would assert it belongs to an org literally named "Senior Citizens," which is false.
+
+"Senior Citizens, Los Angeles Westside Chapter" is itself an **ambiguous truncation** of "[Some Org] ... Los Angeles Westside Chapter." I searched the crosswalk (no matching parent) and the web: no org named simply "Senior Citizens" with an LA Westside chapter exists; candidate parents are many and unconfirmable (e.g. National Council of Senior Citizens — had local chapters but no confirmable "Westside" one; WISE & Healthy Aging; Westside MAPS; YWCA/various). No single unambiguous parent.
+
+This is the **same situation as Q20 (America), Q21 (Contractors), and Q23 (Political Association)** — all still Open. Forcing chapters under a meaningless truncation bucket creates wrong, hard-to-reverse associations.
+
+**Question:** How should I handle this entry?
+- (a) **(Recommended)** Move "Senior Citizens, Los Angeles Westside Chapter" to `org_names_partial.csv` per CLAUDE.md's truncated-entries rule (truly ambiguous after crosswalk + web search — no identifiable parent). Do NOT nest it under the "Senior Citizens" bucket.
+- (b) Leave it as a standalone top-level canonical as-is (do nothing) — at least it gets no wrong parent.
+- (c) You can identify the real parent org, and I'll nest it under that real canonical.
+
+I have NOT nested it under "Senior Citizens." Blocking rather than forcing a wrong consolidation. (Ideally this + Q20/Q21/Q23 get one consistent policy answer.)
+
 ### Q23 (Task 2612, RA-Fleet-2) — "Political Association" is a junk truncation bucket, not a real org to nest a chapter under
 **Status:** Open
 
