@@ -12,7 +12,7 @@ To edit this file (post questions, write answers), join this queue first. Only t
 ## Open Questions
 
 ### Q25 (Task 2658, RA-Fleet-3) — "State University" is a junk truncation bucket, not a real org to nest a chapter under
-**Status:** Open
+**Status:** Answered — Supervisor chose (a) (2026-06-19). Move **"State University, Fresno Chapter"** to `org_names_partial.csv` (ambiguous front-truncation, no identifiable parent — same class as Q21/Q23). Do NOT nest under the "State University" junk bucket. Remove from crosswalk JSON, move the row+count (currently in org_names_in_crosswalk.csv: "State University, Fresno Chapter",1), run the clean/dedup/stats pipeline.
 
 Task 2658 asks me to nest the standalone canonical **"State University, Fresno Chapter"** as a `chapter` child under the existing canonical **"State University"**.
 
