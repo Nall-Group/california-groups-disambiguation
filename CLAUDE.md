@@ -168,6 +168,13 @@ scripts/fleet.sh stop           # hard-stop all loops + workers
 ```
 `start` runs detached (`nohup`), so it does not block the caller; a supervising/management session can launch it and keep working. Default fleet size is **3** (`DEFAULT_RAS`). NOTE: launching from inside another `claude` Bash tool requires `dangerouslyDisableSandbox` (nested `claude` can't create its session dir under the parent sandbox); from a plain terminal it just works.
 
+**Prevent the Mac from sleeping while the fleet runs (do this every time):** A detached fleet keeps working only if the machine stays awake, so on macOS pair `start` with `caffeinate`. Tie the assertion to the launcher pid so it auto-releases on `stop`:
+```
+scripts/fleet.sh start                                   # note the "launcher pid" it prints
+nohup caffeinate -i -m -s -w <launcher_pid> >/dev/null 2>&1 & disown
+```
+`-i` prevents idle sleep, `-m` prevents disk idle sleep, `-s` prevents system sleep on AC power, and `-w <launcher_pid>` makes `caffeinate` exit automatically when the fleet launcher dies (i.e. on the next `fleet.sh stop`). Get the launcher pid from the `start` output or `scripts/fleet.sh status`. Verify with `pgrep -fl caffeinate`. (If you don't have the pid handy, a standalone `nohup caffeinate -i -m -s >/dev/null 2>&1 & disown` also works but must be killed manually when you stop the fleet.)
+
 **Coordination:** fleet workers use the SAME `TASKS.md`/`QUESTIONS.md`/Data Write Queues as everyone else, so they interoperate with interactive RAs. They poll the Data Write Queue **actively within their turn** (a `claude -p` process is one-shot and cannot be suspended/resumed — it must never "schedule a wakeup" or "await a signal," which would exit the process and strand a queue slot).
 
 **Resilience (built into `run_ra.sh`):**
