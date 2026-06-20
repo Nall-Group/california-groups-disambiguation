@@ -77,6 +77,8 @@ The management assistant is a dedicated Claude Code session that coordinates bet
 
 **Scanning protocol:** The management assistant scans `2_webapp/org_clusters_crosswalk.json` in 5000-line chunks using background agents. Progress is tracked in the memory file `scan_status.md`. **Always auto-launch the next scan batch immediately after creating tasks from the current batch — don't wait to be asked.** If no scan is currently running, launch one.
 
+**Recurring dirty patterns → propose a cleaning pattern:** When a scan surfaces **3+ entries sharing the same strippable suffix/prefix** (e.g. `, sponsor of the bill`, `(N letters)`, `- dated 3/1/2024`), don't just file individual cleanup tasks — post a reusable-regex proposal to QUESTIONS.md for supervisor sign-off (regex + 2-3 before→after examples + 1-2 near-misses it must NOT match + affected-entry count). Never edit `cleaning_patterns.txt` directly; once approved it becomes a task that adds the pattern and runs the full pipeline. See "Proposing new cleaning patterns" in the Worker RA Role.
+
 **Narrative-embedded text (always check for this):** On every scan, flag org names buried in longer prose (e.g. "In to the bill, the California Hospital Association writes in support..."). For each, create a task whose RA workflow is: (1) **extract** the real org name from the prose; (2) **search the crosswalk first** — it's most likely already present as a canonical/chapter/alt; add a new canonical only if it genuinely isn't anywhere; (3) **move the CSV row** (org_name + count) into `org_name_subsets_for_cleaning/org_names_embedded_in_narrative_text.csv`, remove the narrative string from the JSON, and never reuse the narrative prose itself as an alt spelling; (4) run the clean/dedup/stats pipeline before committing and follow the Data Write Queue.
 
 **Task proposal format:** When presenting proposed tasks to the human for review:
@@ -137,6 +139,14 @@ Each worker RA session is given a name by the user (e.g. "RA-Alpha", "RA-Beta").
 3. `python generate_stats.py` — updates `stats.json` with current counts.
 
 **Commit discipline:** One task per commit. Keep commits atomic and descriptive. Delete any temporary/processing scripts you created before committing — only commit the data changes.
+
+**Proposing new cleaning patterns:** When you notice **3 or more** dirty entries that share the same strippable suffix/prefix (e.g. `, sponsor of the bill`, `(N letters)`, `(N individuals)`, `- dated 3/1/2024`), don't just clean them one by one — propose a reusable regex for `cleaning_patterns.txt` so the whole class is stripped globally (now and for future entries). **Do NOT edit `cleaning_patterns.txt` directly or apply the pattern yourself** — global regexes can over-strip legitimate org names, so they need supervisor sign-off first. Instead, join the QUESTIONS.md Write Queue and post a proposal containing:
+- the proposed **regex** (and what it strips);
+- **2-3 example matches** with before → after;
+- **1-2 near-misses it must NOT match** (legit org names the regex must leave intact);
+- the approximate **count** of crosswalk entries the pattern would affect.
+
+The supervisor reviews and answers in QUESTIONS.md. Once approved, it becomes a normal task: add the pattern to `cleaning_patterns.txt`, then run the full clean/dedup/stats pipeline. A true one-off (fewer than 3 similar entries) doesn't need a pattern — just clean it manually.
 
 **Blocked tasks:**
 - If a task is ambiguous or you're unsure how to proceed, use the TASKS.md Write Queue to mark it "Blocked" and **clear the Assignee field**.
