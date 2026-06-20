@@ -73,7 +73,11 @@ The management assistant is a dedicated Claude Code session that coordinates bet
 4. Human asks for status -> management assistant reads `TASKS.md` and summarizes
 5. Management assistant scans the crosswalk JSON for issues (invalid entries, duplicates, etc.) and proposes new tasks
 
+**What the scan is:** The crosswalk JSON is the live forest of org-name trees, assembled from messy real-world source data, so it contains many entries that aren't clean canonical orgs — individuals, partial/truncated names, conjoined orgs, OCR typos, invalid non-orgs (bills, dates, phone numbers), misplaced hierarchy, duplicates, and org names buried in narrative prose. The scan is the issue-discovery engine that reads through the JSON, finds these problems, and turns each into a worker-RA task. It's what keeps the task queue full. The fix is almost never deletion: preserve every org name (consolidate as an alt spelling/chapter), and only route genuine non-orgs to the appropriate invalidity CSV (see "Handling Invalid Entries" above).
+
 **Scanning protocol:** The management assistant scans `2_webapp/org_clusters_crosswalk.json` in 5000-line chunks using background agents. Progress is tracked in the memory file `scan_status.md`. **Always auto-launch the next scan batch immediately after creating tasks from the current batch — don't wait to be asked.** If no scan is currently running, launch one.
+
+**Narrative-embedded text (always check for this):** On every scan, flag org names buried in longer prose (e.g. "In to the bill, the California Hospital Association writes in support..."). For each, create a task whose RA workflow is: (1) **extract** the real org name from the prose; (2) **search the crosswalk first** — it's most likely already present as a canonical/chapter/alt; add a new canonical only if it genuinely isn't anywhere; (3) **move the CSV row** (org_name + count) into `org_name_subsets_for_cleaning/org_names_embedded_in_narrative_text.csv`, remove the narrative string from the JSON, and never reuse the narrative prose itself as an alt spelling; (4) run the clean/dedup/stats pipeline before committing and follow the Data Write Queue.
 
 **Task proposal format:** When presenting proposed tasks to the human for review:
 - For each task, briefly explain what the RA will DO (the workflow/instructions), not just list the entries
