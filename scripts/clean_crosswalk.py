@@ -486,6 +486,8 @@ def main():
         print("\n[DRY RUN] JSON not modified. Review the merge report above.")
     else:
         print("Writing cleaned crosswalk...")
+        # Keep top-level canonicals alphabetized (case-insensitive), matching merge_additions.py
+        data["clusters"].sort(key=lambda c: (c.get("canonical") or "").upper())
         with open(CROSSWALK_PATH, "w", encoding="utf-8") as f:
             json.dump(data, f, indent=2, ensure_ascii=False)
             f.write("\n")

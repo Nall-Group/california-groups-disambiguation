@@ -55,6 +55,12 @@
 (?i),\s+sponsors?\s*$
 (?i),\s+supports?\s*$
 
+# Trailing sponsor tag: any delimiter (space/comma/dash/slash/quote) + optional narrative
+# phrasing + optional "co-" prefix. Consumes the whole (co-)?sponsor token so an internal
+# "co-sponsor" hyphen is never mistaken for the delimiter. - END
+# (verified: no legitimate org name ends in "sponsor"/"co-sponsor" - all bill-relationship metadata)
+(?i)[\s,/"-]+(?:principal\s+)?(?:is\s+|also\s+)?(?:(?:a|the|one\s+of\s+the)\s+)?(?:bill'?s?\s+)?(?:co[\s-]?)?sponsors?\s*$
+
 # Trailing "None on file" suffix - END
 (?i),?\s*None on file\s*$
 
