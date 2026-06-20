@@ -11,6 +11,7 @@ Only the RA at the top of this list has write access to project data files (cros
 
 - RA-Fleet-1 (2821)
 - RA-Fleet-3 (2822)
+- RA-Fleet-2 (2823)
 
 
 ## Task List
