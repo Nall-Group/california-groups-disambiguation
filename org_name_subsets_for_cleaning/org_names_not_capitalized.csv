@@ -3,13 +3,16 @@ None received,73201
 None known,8229
 1 individual,1803
 Several individuals,1595
+City of,1261
 Two individuals,986
 2 individuals,838
+individuals,681
 District,588
 3 individuals,541
 An individual,511
 SB,451
 Three individuals,439
+County of,398
 sponsor,363
 Various individuals,356
 Coalition,353
@@ -32,10 +35,10 @@ Many individuals,166
 writing,148
 a number of individuals,143
 10 individuals,139
+Approximately,134
 Six individuals,128
 Letters from,127
 13 individuals,121
-Approximately,134
 agencies,120
 Associations,104
 Hundreds of individuals,103
@@ -98,9 +101,9 @@ introduced,30
 "This bill, supported by the board, the Department of Finance",29
 33 individuals,29
 34 individuals,29
+More than,29
 55 individuals,28
 they,28
-More than,29
 Thousands of individuals,27
 43 individuals,27
 letters,26
@@ -264,6 +267,7 @@ caregivers,10
 trustees,10
 business groups,10
 Roughly,10
+for the Retarded (CASH/PCR),10
 former Chairman,9
 requirements,9
 years,9
@@ -479,7 +483,6 @@ administrative,6
 Several organizations,6
 The department,6
 Letters on file from,6
-City of,1261
 An individual attorney,5
 California Attorneys for Criminal Justice contend,5
 California Distributors Association in order to help distributors meet the increasing cost demands of their bonding requirements,5
@@ -2104,6 +2107,8 @@ Biotechnology firms and the California Chronic Care Coalition,3
 "Numerous groups representing physicians, as well as Kaiser",3
 major California law firms,3
 numerous other cyclist advocates,3
+petition,3
+Syndrome,3
 """Los Angeles and California as a whole are undergoing housing and homelessness crisis, and AB 2960 will create flexibility for the cities and counties to create more temporary shelters for our most vulnerable communities",2
 """clean-up"" language to existing law as recommended by the Judicial Council. The Institute writes",2
 "'s office, the following",2
@@ -2648,7 +2653,6 @@ Counties can and do handle firefighter hardships on an individual,2
 "County Health Executives Association of California, provisions related to CRFC-exempted requirements and activities included in this bill provide greater protections to consumers and the general public. These provisions better conform to best practices in food handling, food safety, and prevention of contamination. The language of this bill around local enforcement agency inspection circumstances will also provide the ability for local health and environmental health departments to conduct necessary and timely inspection activities in order to protect consumers and the public",2
 "County Health Executives Association of California: ""Injury and death by firearm are consistently the most common method of suicide both in the United States and in California, accounting for nearly half of suicides committed. According to the California Department of Public Health (CDPH), self-inflicted injury and suicide by firearm accounted for 4.1 deaths per 100,000 residents in 2017. The use of firearm for self-inflicted injury and suicide result in lethal outcomes in nearly every instance",2
 County of 121 local Agencies,2
-County of,398
 "County of PEP, and would potentially increase the number of individuals accessing these biomedical interventions. The Health Officers Association of California and the San Francisco Department of Public Health state that public health seeks to create an environment in which all people have access to health and wellbeing, and this means eliminating barriers to preventive care. Availability of PrEP and PEP through pharmacists is likely to decrease wait times for initiation, allow increased opportunities for privacy and confidentiality, and in some cases improve cost- and insurance-related barriers",2
 "County of San Diego, ""SB 690 could help mitigate the significant impacts the current flow of sediment, solid waste and polluted water from Mexico have on water quality, public health and the sensitive habitat of the Tijuana River Valley",2
 County of Santa Clara state that this bill would increase access,2
@@ -5502,7 +5506,6 @@ person or health of a child,2
 persons with relatives,2
 "persons, physicians, etc.",2
 peruse the website and see where registered sex offenders are living in,2
-petition,3
 petitions and appeals,2
 "pharmacies and the licensure of pharmacists, and evaluating",2
 pharmacies. SB 1149 (Ortiz) would have required the Board of,2
@@ -8472,7 +8475,7 @@ local law enforcement agencies,2
 Author of,2
 The bill's co,2
 educational and social organizations,2
-for the Retarded (CASH/PCR),10
+approximately 50,2
 """All services covered under this section shall be the sole financial responsibility of the health plan, which shall",1
 """There could be unintended costs to survivors resulting from the bill's stipulation that offenders pay for their tracking devices",1
 """preneed"" policies are small face life and annuity policies",1
@@ -15795,7 +15798,6 @@ Surprise Valley residents,1
 Surveyors have not taken a position as yet on the bill,1
 Survivors from former USSR,1
 Sutter Health is opposed to,1
-Syndrome,3
 "Synthesized [7-OH] products, referred to as 'legal morphine,' are developed from kratom and have become 30 times more potent than morphine...Natural kratom products generally contain no more than 66% of mitragynine as the main alkaloid and 2% of [7-OH] in the alkaloid fraction of the extract. A number of states...have enacted bans on synthetic 7-OH exceeding 2% of total alkaloid content in products...AB 1088 addresses safety concerns about natural kratom and 7-OH products by implementing common-sense measures to protect the public and our youth",1
 System (IRIS) operated by the National Association of Insurance,1
 Systems and Los Angeles Care Health Plan. Supporters state the APM pilot,1
@@ -19015,7 +19017,6 @@ Women who served in the U.S. Armed Forces have unique needs. They are more likel
 Women's groups,1
 Women's organizations: American Association of University,1
 "Work Equity, ""AB 547 would help protect victims of domestic violence and prevent further abuse by expanding notification rights for victims of domestic violence to include notification of their perpetrators proposed address when released on probation. By notifying the domestic violence of their perpetrator's location, this bill gives victims important information that may impact their safety and risk of continued violence, harassment, or stalking by their abuser",1
-Work Training Center and Affiliated Programs,1
 "Workers Compensation. SCIF believes these entities, which",1
 "Workers Council, this bill ""will ensure that all residential",1
 Workers' compensation is not the only government-provided benefit for these employees. Opponents have suggested that the implication that these employees must be granted the benefit of a presumption,1
@@ -20522,7 +20523,6 @@ approximately 173,1
 approximately 250 form letters,1
 "approximately 300 form letters from various contractors, subcontractors and material suppliers",1
 approximately 350 letters from,1
-approximately 50,2
 approximately 60 private,1
 approximately 63 percent of the funding responsibility. Court,1
 approximately one in three women in this country has lost abortion access resulting in patients being forced to travel to neighboring states to receive reproductive care. With more states attempting to ban abortion,1
@@ -28106,7 +28106,6 @@ individual trucking firms,1
 individual veterans' letters,1
 "individual's health, nutrition, and exercise, using community care",1
 individually identifiable information. CFC suggests making existing breach notification law explicitly applicable to the database. DOUBLE-REFERRAL. This bill is double referred,1
-individuals,681
 "individuals and families licensed or approved prior to October 1, 2008 will",1
 individuals and private investigator firms,1
 individuals as noted above,1
