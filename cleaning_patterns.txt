@@ -275,6 +275,22 @@
 (?i)^\s*\[per\s[^\]]*\]\s*
 (?i)^\s*\[as of\s[^\]]*\]\s*
 
+# Bill-position / legislative prefixes (START) - approved Q26
+# Strip legislative-analysis boilerplate prepended onto a real org name.
+# Case-sensitive as written (do NOT add (?i)); all anchored to START.
+# Verified: 0 false positives against near-misses (Page and Turnbull, Page Avenue
+# Mutual Water Company, Sponsors for Educational Opportunity, In-Home Supportive
+# Services, SBC, Page Mill Partners). Do NOT add a bare ^Page or ^SB strip.
+# NOTE: load_cleaning_patterns() strips each line, so a literal trailing space
+# in a regex is lost. The single-letter page header MUST keep an explicit
+# trailing-whitespace matcher (\s) or "^Page [A-Z]" would over-strip real orgs
+# like "Page Mill Partners" / "Page Avenue Mutual Water Company".
+^Page [A-Z]\s
+^SB \d+, Page\s
+^Sponsor(?: (?:of|and supporter of) the bill)?[\s,:\-]+(?:the )?
+^In support of the bill,? (?:the )?
+^OPPOSITION \(UNLESS AMENDED\)
+
 # Patterns to remove from ANYWHERE in organization names
 # These phrases can appear in the middle of strings and should be removed
 
