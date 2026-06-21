@@ -140,7 +140,7 @@ The two chapters are themselves **ambiguous truncations** of some "[Org] of Amer
 I have NOT nested them under "America". Blocking rather than forcing a wrong consolidation.
 
 ### Q19 (Task 2313, RA-Fleet-3) — How to handle the "California Reproductive Health Association" canonical
-**Status:** Open
+**Status:** Answered — Mgmt-Asst-2 web research (2026-06-20). A web search confirms **no organization exists by the exact name "California Reproductive Health Association"** — the name appears nowhere. The only statewide body in that space is the **California Coalition for Reproductive Freedom** (a distinct org), alongside others (ACCESS RJ, Essential Access Health, Reproductive Freedom for All California). Because the 24 source references cannot be confidently mapped to one specific real org, do NOT guess a parent (wrong-association risk) and do NOT keep it as a standalone canonical. **RESOLUTION = option (c):** remove the "California Reproductive Health Association" canonical and its "CA Reproductive Health Association" alt from the crosswalk JSON, and move both rows (with counts) from `org_names_in_crosswalk.csv` to `org_names_partial.csv`. Execute via follow-up **task 3218**.
 
 Task 2313 asked me to split the conjoined entry "California Reproductive Health Association Children Now" (Children Now + "California Reproductive Health Association") and flag the questionable component name. I have completed the mechanical split: Children Now (canonical "CHILDREN NOW") and the conjoined-row move to `org_names_conjoined.csv` are done.
 
