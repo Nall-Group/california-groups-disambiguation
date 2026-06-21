@@ -1,10 +1,10 @@
 org_name,count
 Numerous Individuals,2292
-Individuals,680
 Author,473
 Mayor,287
 Individual Letters,202
 Individual,161
+Institute,160
 1 Private Citizen,143
 Randy Chinn,137
 Numerous Individual Letters,129
@@ -1662,7 +1662,7 @@ Tom Cruise,3
 3 Concerned Citizens,3
 320+ Individuals,3
 331 LETTERS OR PETITION SIGNATURES,3
-4 Individual Nurse Practitioners and 5 Individual,3
+4 Individual Nurse Practitioners and,3
 46 Law School Professors,3
 98 Individual Constituents,3
 "Councilmember Bill Rosendahl, 11th District",3
@@ -1808,6 +1808,9 @@ Michelle Steel,3
 "Vice Chair Michelle Steel, California State Board of Equalization",3
 State Board of Equalization Member Betty Yee,3
 District 2 Oceanside Chamber of Commerce Peter Zschiesche,3
+Nevada State Assemblyman Tom Collins,3
+50,3
+of San Bernardino County,3
 "1,825 Private Citizens",2
 141 Individuals,2
 15 Chiefs of Police,2
@@ -1836,7 +1839,6 @@ Alpine County Supervisor Terry Woodrow,2
 Amir Mansour,2
 "Andrew T. Koenig, Attorney at Law",2
 Anne R. Bernardo,2
-"Approximately 1,300 Individuals",2
 Ara Najarian,2
 Arkansas Governor Mike Huckabee,2
 "Arnold Schwarzenegger, Governor of California",2
@@ -2573,7 +2575,6 @@ Ms. Sonia Lagan,2
 "Nate Miley, Supervisor, Alameda County, District 4",2
 "Nathan Fletcher, San Diego County Supervisor",2
 National City Councilmembers Alejandra Sotelo-Solis and Mona Rios,2
-Nevada State Assemblyman Tom Collins,2
 Nick and Amanda Wilcox,2
 Nicole,2
 Nicole Brown Simpson,2
@@ -3068,7 +3069,7 @@ Five Private Constituents,2
 20 Individual Contractors,2
 20 Law Professors,2
 20 Licensed Obstetrician-Gynecologists,2
-200-300 Individuals,2
+200,2
 202 Residents of San Francisco Towers,2
 "21 4th Grade Students from Olive Elementary School, Novato Unified School District",2
 22 Medical and Public Health Professors,2
@@ -3109,7 +3110,6 @@ Five Private Constituents,2
 5 Descendants of Chavez Ravine Residents,2
 5 Licensed Clinical Social Workers,2
 50+ Individual Letters,2
-50-80 Individuals,2
 53 Individual Doctors of Chiropractic,2
 "6 Individual Professors/Dean from California Polytechnic University, Scripps Institute of Oceanography, and UC Santa Barbara",2
 "6 Individuals, Extended Opportunity Programs and Services and Disabled",2
@@ -3195,7 +3195,6 @@ At least 100 Individual Letters,2
 At least 60-75 Individual Letters,2
 Approximately 13 Geology Professionals,2
 Approximately 134 Accounting Professionals,2
-Approximately 22 Individuals,2
 Approximately 500 Private Citizens,2
 "Assembly Member Howard Wayne, Chair, Select Committee on",2
 Assistant District Attorney,2
@@ -3557,6 +3556,7 @@ State Board of Equalization Member Betty T. Yee,2
 "El Dorado County Grand Jurors, Past Members (3)",2
 "Peter Sheehan, Attorney for the Plaintiffs in Central Valley Chapter",2
 "L. Blitch, Chair, San Francisco Chamber of Commerce",2
+for Northern California,2
 1 Constituent Letter,1
 1 Deputy Chief of Police,1
 1 Lab Manager,1
@@ -3641,7 +3641,6 @@ Alpine County Superior Court Judge,1
 Alysa Cisneros - Sunnyvale City Council Member,1
 Alysa Cisneros - Sunnyvale Vice Mayor,1
 "Amanda Millstein, Medical Doctor",1
-"American Federation of State, County, and Municipal Employees 25 Individuals",1
 Amit Shoham,1
 Ammiano,1
 "Amy Atkinson, Sr. Graphic Designer of Palo Alto",1
@@ -3671,12 +3670,6 @@ Angeles Mayor Richard,1
 "Anthony J. Intintoli, Jr., Mayor",1
 "Anthony Molina, M.D",1
 "Appellate Attorneys Carole Spreckels Greeley, Maribeth Halloran, Donna B. Kaiser, Roni Keller, Maryann M. Milcetic, Sylvia Paoli, Janet Saalfield, Janet Sherwood, Alan Siraco and Valerie E",1
-Approximately 1400 Individuals,1
-"Approximately 2,668 Individuals",1
-Approximately 52 Individuals,1
-Approximately 560 Individuals,1
-Approximately 70 Individuals,1
-Approximately 93 Individuals,1
 "Ara Najarian, Councilmember",1
 "Ara Najarian, Director, MTA, Councilmember",1
 "Ara Najarian, Glendale City Councilmember",1
@@ -6223,7 +6216,6 @@ Monica Montgomery Steppe - San Diego City Councilmember,1
 Monterey County Supervisor Fernando Armenta,1
 Monterey County Supervisors Edith Johnsen,1
 Monterey County Supervisors Edith Johnsen and Dave Potter,1
-More than 20 Individuals,1
 Mountain View Whisman School District Trustee Charles Difazio,1
 Mr. & Mrs Mastrangelo,1
 Mr. Bob Haley,1
@@ -6305,7 +6297,6 @@ National City Honorable Louis Scanlon,1
 "National High School Journalism Teacher of the Year, Paul Kandell",1
 "Ned L. Nix, D.D.S",1
 Nevada Governor Kenny Guinn,1
-Nevada State Assemblyman Tom Collins 8 Individuals,1
 Nic Arnzen - Altadena Town Councilmember,1
 Nick Benson Sr,1
 Nick D'Antonio,1
@@ -6407,7 +6398,6 @@ Oregon State Representative Ken Helm,1
 Oregon State Senator Michael Dembrow,1
 "Orinda Union School District, Member, Sarah Butler",1
 "Over 2,000 Individuals (Including Bar Owners and Patrons)",1
-Over 550 Individuals,1
 Over 70 Individuals with Primary Immunodeficiencies,1
 Palma Mayor Steve Hwangbo,1
 Palo Alto Councilmember George Lu,1
@@ -7050,7 +7040,6 @@ Yolo County Ben Anderson,1
 Yolo County Supervisor Helen M,1
 Yuba City Police Dept. Lt. Kristina Wraa,1
 "Yvonne P. Martin, Mojave",1
-for Northern California 43 Individuals,1
 of Stockton Council Member Moses Zapien,1
 the Nicole Brown Simpson,1
 Asian Law Caucus Holly Fujie,1
@@ -7681,15 +7670,11 @@ Approximately 100 residents of Spring Lake Village (Santa Rosa),1
 "Approximately 127 individual, petitioning travel agents",1
 Approximately 1500 letters from individuals as noted above,1
 "Approximately 2,600 individuals indicating support via various petitions and letters",1
-"Approximately 2,900 individuals",1
 Approximately 25 attorneys as individuals,1
 approximately 250 form letters or petition signatures from individuals,1
 "Approximately 330 individuals representing LCSWs, educators, mental health patients, and MSWs",1
 "Approximately 4,500 individuals indicating support via various petitions and letters",1
-Approximately 47 Individuals,1
 approximately 50 jewelers and gemstone traders,1
-Approximately 50-70 individuals,1
-approximately 60 individuals,1
 approximately 60 private citizens,1
 Approximately 85 individual letters from the disabled community,1
 "Arnold T. Johnston, Norwalk",1
@@ -7744,7 +7729,7 @@ Chair of the Sesquicentennial Commission Mr. Don Geiger,1
 "Charles Wilson, Los Angeles, CA",1
 Charlie (SPITZER),1
 "Charlotte Powers, San Jose",1
-"Chemical Engineer, over 600 individuals",1
+Chemical Engineer,1
 "Cheryl Brothers, Fountain Valley City Council Member",1
 Cheryl Viegas-Walker,1
 "Chris Norby, Mayor Pro Tem of the City of Fullerton",1
@@ -8039,12 +8024,11 @@ Honorable Richard H. Pland,1
 Hundreds of letters from HOA boards of directors and individual members of HOAs across California,1
 "Illa Collin, Sacramento County Board of Supervisors, Second District",1
 Imperial County Superior Court Judge,1
-Inc. 6 individuals,1
 Inc. Hon. Darrell W. Stevens,1
 Inc. Three Individuals,1
 individual cannabis businesses and regional alliances,1
 individual companies,1
-"individual dry cleaners, 5 individuals",1
+individual dry cleaners,1
 "Individual Housing Advocate, San Ramon: Individual letter (1)",1
 Individual letter (45) AB 2844 (LA SUER),1
 individual letter SB 1140 (Scott) PageB,1
@@ -8061,7 +8045,6 @@ Individuals (200) including judges,1
 Individuals from the Fighting Back Partnership-City of Vallejo,1
 individuals SB 527 (Alquist),1
 individuals SB 580 (Wright),1
-"Institute, 43 individuals",1
 Irvine Unified School District Board Member Sue Kuwabara,1
 "Isi Russ, MD, Pasedena",1
 "Ivan Rokos, MD, Altadena",1
@@ -8322,7 +8305,6 @@ Numerous small business owners,1
 Numerous water agencies,1
 Oaks (Vincent),1
 Oceanside City Deputy Mayor Jerome M. Kern,1
-"of San Bernardino County, 7 individuals",1
 "one faculty member in the Department of Criminal Justice, University of Massachusetts (Lowell)",1
 "one faculty member in the Department of Psychology, Simon Fraser University, Canada",1
 "one faculty member of the Department of Psychology, California State University at Long Beach",1
@@ -8347,13 +8329,10 @@ other individuals and elected officials,1
 "Over 150 individuals, including HCBA Waiver recipients from Eddie's Place, Kelly Cullen, MLK, Mosswood, and Oak Days facilities",1
 Over 200 letters of support from individuals throughout,1
 Over 200 letters of support from individuals throughout California,1
-Over 25 individuals,1
 over 30 individual horse owners and individual owners of horse-related businesses,1
-over 30 individuals,1
 Over 30 individuals who wrote the Committee in opposition,1
 "Over 50 law firm partners, presidents and general counsel of various California businesses",1
 over 700 individual horse owners and individual owners of horse-related businesses,1
-Over 850 individuals,1
 Over Fifty Individuals,1
 Page Lieutenant Governor Bustamante,1
 "Patricia J. Stone, Board Member, Area Board VI",1
@@ -8369,7 +8348,6 @@ Paula Stillman,1
 "Peter Arth, Jr., Chief-of Staff to PUC President",1
 Peter Uebberoth,1
 "Peter Zschiesche, Trustee, San Diego Community College District",1
-petition (122 signatures),1
 "Petition from 196 individuals, plus 6 individual letters",1
 "Petition signatures from 32,931 individuals through the Scholl Institute of Bioethics",1
 "Petitions from 325 individuals (Durham Transportation, Inc.)",1
@@ -8384,7 +8362,7 @@ Private Citizen (2),1
 "Professor Edward L. Barrett, Jr., Professor of Law, UC Davis",1
 "Professor Gerald Uelmen, Professor of Law, Santa Clara",1
 "Professor Joseph Morrow, Department of Psychology, California State: University, Sacramento",1
-Professors from law schools and universities throughout California and the United States - 150 individuals,1
+Professors from law schools and universities throughout California and the United States,1
 Q & A Insurance Compliance Specialist,1
 "R. Patrick Kasperzak, Former Mayor",1
 "R.W. Gittings, City Manager",1
@@ -8750,7 +8728,6 @@ Orange County Board of Supervisors - Supervisor Vincente Sarmiento,1
 Newport Beach Police Chief Bob McDonnell,1
 "Emily H. Wughalter, Ed.D., Associate Dean, San Jose State",1
 "Chris Brinegar, SJSU Conservation Genetics Laboratory",1
-Sierra Club 13 individuals,1
 "Stanislaus County, Library Director, Vanessa Czopek",1
 "Mani Grewal, Stanislaus County Board of Supervisors, District 4",1
 Vito Chiesa,1

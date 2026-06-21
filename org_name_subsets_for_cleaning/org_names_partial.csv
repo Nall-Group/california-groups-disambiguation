@@ -1,6 +1,5 @@
 org_name,count
 California,5443
-CITY OF,1254
 Union,873
 Council,797
 County,707
@@ -8,7 +7,6 @@ COUNTIES,435
 Services,425
 CIO,422
 Department,406
-County of,396
 Sacramento,396
 Workers,395
 Center,369
@@ -38,11 +36,10 @@ Professionals,169
 Chapter,161
 Consumer,161
 California Attorneys for,160
-Institute,159
 Administrators,154
 Organizations,153
 San Francisco,153
-Network,151
+Network,152
 PATH,147
 SMH:bjw,139
 Women for,139
@@ -838,7 +835,6 @@ Oakley,8
 Parker,8
 Pharmacy,8
 for Prisoners with Children,8
-for the Retarded (CASHPCR),8
 Advisors,8
 Contribute,8
 Advisory Board,8
@@ -3159,7 +3155,6 @@ of Operating Engineers,2
 of Pharmacy,2
 of Public Health,2
 of Redlands,2
-of San Bernardino County,2
 of San Diego Engineering/Utility Contractors,2
 of San Joaquin County,2
 of San Luis Obispo County,2
@@ -3340,7 +3335,6 @@ Studies,2
 Sudden,2
 Supply,2
 Susan,2
-Syndrome,2
 Telecommuting,2
 Tenants,2
 Thousand,2
@@ -6152,7 +6146,6 @@ for Mental Health,1
 for Mental Health Law,1
 for Missing Children,1
 for Nonsmokers' Rights,1
-for Northern California,1
 for Nurse Practitioners,1
 for Nurses,1
 for Nursing Home Reform,1
@@ -7097,7 +7090,6 @@ City Administrator of Angeles,1
 City and county representatives,1
 City of (SOTO),1
 City of (STRICKLAND),1
-City of 19 individuals,1
 City of Butte,1
 City of California Child,1
 City of California Physicians,1
@@ -7233,7 +7225,7 @@ Friends California,1
 Furnishings,1
 Future America,1
 "Gabriel Valley, Los Angeles, Mount",1
-"Gas Association, 6 individuals",1
+Gas Association,1
 "Gate Branch 214, AFL-CIO",1
 GC,1
 GKC,1
@@ -7349,7 +7341,6 @@ Natural Resources (Aroner),1
 Navigation Company,1
 NCCU,1
 Network of Southern California,1
-"Network, 18 individuals",1
 NFA,1
 North (Ortiz/Alby) District,1
 NOVF Experimental Technology,1

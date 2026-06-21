@@ -126,6 +126,15 @@
 (?i)\s*-\s*\(\d+\s+(?:letters|individuals|members)\)\s*$
 (?i),\s*\d+\s+(?:personal\s+)?letters\s*$
 
+# Trailing count-tally "N letters/individuals/members/signatures/residents" in other delimiters (dash / bracket / paren / colon / comma / bare) - END
+# Comma/bare forms require a space after the number's preceding delimiter so thousands separators ("22,743") and org local-numbers ("Local 721") are never split.
+(?i)\s*[-–—]\s*(?:approximately\s+|about\s+|over\s+|more\s+than\s+|nearly\s+)?\d[\d,]*\s+(?:letters?|individuals?|members?|signatures?|residents?)\s*$
+(?i)\s*\[\s*(?:approximately\s+|about\s+|over\s+|more\s+than\s+|nearly\s+)?\d[\d,]*\s+(?:letters?|individuals?|members?|signatures?|residents?)\s*\]\s*$
+(?i)\s*\(\s*(?:approximately\s+|about\s+|over\s+|more\s+than\s+|nearly\s+)?\d[\d,]*\s+(?:letters?|individuals?|members?|signatures?|residents?)\s*\)\s*$
+(?i)\s*:\s*(?:approximately\s+|about\s+|over\s+|more\s+than\s+|nearly\s+)?\d[\d,]*\s+(?:letters?|individuals?|members?|signatures?|residents?)\s*$
+(?i),\s+(?:approximately\s+|about\s+|over\s+|more\s+than\s+|nearly\s+)?\d[\d,]*\s+(?:individuals?|signatures?|residents?)\s*$
+(?i)\s+(?:approximately\s+|about\s+|over\s+|more\s+than\s+|nearly\s+)?\d[\d,]*\s+(?:individuals?|signatures?)\s*$
+
 # Trailing "None to date" suffix (with or without space) - END
 (?i)(?<=\S)[,\s]*None to date\s*$
 
