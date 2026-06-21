@@ -11,6 +11,43 @@ To edit this file (post questions, write answers), join this queue first. Only t
 
 ## Open Questions
 
+### Q26 (Task 3207, RA-Fleet-3) — Cleaning-pattern proposal: bill-position / legislative prefixes
+**Status:** Open — awaiting supervisor sign-off.
+
+Per the 2026-06-20 ruling, leading "THE " and trailing " (ACRONYM)" are VALID and are NOT proposed for stripping. This proposal covers ONLY the approved bill-position / legislative-prefix class. I scanned `2_webapp/org_clusters_crosswalk.json`; the affixes below recur and prepend legislative-analysis boilerplate onto a real, identifiable org name. I have NOT edited `cleaning_patterns.txt` — requesting sign-off before it becomes a follow-up task to add the regex(es) and run the full clean/dedup/stats pipeline.
+
+**Total affected: ~80 crosswalk entries**, across 5 regexes (all anchored to the START of the string and case-sensitive as written):
+
+**(1) Page-letter header — `^Page [A-Z] ` — ~37 entries.** A single capital letter (the analysis page section) follows "Page".
+- `Page D AIDS Project Los Angeles` → `AIDS Project Los Angeles`
+- `Page J California Federation of Teachers` → `California Federation of Teachers`
+- `Page K Friends Committee on Legislation of California` → `Friends Committee on Legislation of California`
+- **Must NOT match (near-misses, both real orgs):** `Page and Turnbull` (architecture firm), `Page Avenue Mutual Water Company`. The single-letter-then-space requirement leaves these intact (the next token is a multi-letter word, not `[A-Z] `).
+
+**(2) Bill-number + Page — `^SB \d+, Page ` — ~12 entries.**
+- `SB 103, Page Older Women's League of California` → `Older Women's League of California`
+- `SB 1807, Page American Agents Alliance` → `American Agents Alliance`
+- `SB 921, Page National Council of Jewish Women, Sacramento` → `National Council of Jewish Women, Sacramento`
+- **Must NOT match:** any legit org containing "SB" without the `\d+, Page` shape (e.g. `SBC ...`). Scoped to require digits + ", Page".
+
+**(3) Sponsor prefix — `^Sponsor(?: (?:of|and supporter of) the bill)?[\s,:\-]+(?:the )?` — ~18 entries.** Handles the bare "Sponsor " plus the "Sponsor of the bill, " / "Sponsor and supporter of the bill, " / "Sponsor - " connective variants, and consumes a trailing lowercase "the ".
+- `Sponsor American Cancer Society` → `American Cancer Society`
+- `Sponsor of the bill, Contra Costa County` → `Contra Costa County`
+- `Sponsor - California Energy Commission` → `California Energy Commission`
+- **Must NOT match (near-miss):** `Sponsors for Educational Opportunity` (real national nonprofit) — the trailing "s" in "Sponsors" is not in the required `[\s,:\-]` class right after "Sponsor", so it is left intact.
+
+**(4) In support of the bill — `^In support of the bill,? (?:the )?` — ~12 entries.**
+- `In support of the bill, General Atomics` → `General Atomics`
+- `In support of the bill, the California Medical Association` → `California Medical Association`
+- `In support of the bill the California Association of Nonprofits` (no comma) → `California Association of Nonprofits`
+- **Must NOT match:** `In-Home Supportive Services` and similar — the literal phrase "In support of the bill" must be present.
+
+**(5) Opposition header — `^OPPOSITION \(UNLESS AMENDED\) ` — 1 entry** (`OPPOSITION (UNLESS AMENDED) Acclimation Insurance Management Services` → `Acclimation Insurance Management Services`). Only 1 occurrence (below the 3+ threshold on its own), but it is the same bill-position class and was named in the task; include only if you want full coverage, otherwise I'll clean it as a one-off.
+
+**Flagged for a SEPARATE decision (NOT proposed here — too risky to auto-strip):** there are also many bare `Page <OrgName>` (page letter missing, e.g. `Page AARP`, `Page Latino Issues Forum`) and bare `SB <OrgName>` (bill number stripped, e.g. `SB American Cancer Society`, `SB AIDS Project Los Angeles`) entries. A bare `^Page ` or `^SB ` strip would damage legitimate orgs (`Page and Turnbull`, `Page Avenue Mutual Water Company`, an org literally named "SB ..."), so I deliberately did NOT include them. Want a follow-up task to handle those individually (manual review), or a tighter regex?
+
+**Note:** after stripping, a few residues become fragments (e.g. `Sponsor American Federation of State` → `American Federation of State`) — the dedup pipeline will merge exact normalized matches into existing canonicals; any remaining true fragments get routed to `org_names_partial.csv` as normal follow-up. No data changes made yet.
+
 ### Q25 (Task 2658, RA-Fleet-3) — "State University" is a junk truncation bucket, not a real org to nest a chapter under
 **Status:** Answered — Supervisor chose (a) (2026-06-19). Move **"State University, Fresno Chapter"** to `org_names_partial.csv` (ambiguous front-truncation, no identifiable parent — same class as Q21/Q23). Do NOT nest under the "State University" junk bucket. Remove from crosswalk JSON, move the row+count (currently in org_names_in_crosswalk.csv: "State University, Fresno Chapter",1), run the clean/dedup/stats pipeline.
 
