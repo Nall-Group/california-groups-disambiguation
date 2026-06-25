@@ -11,6 +11,36 @@ To edit this file (post questions, write answers), join this queue first. Only t
 
 ## Open Questions
 
+### Q27 (Task 3415, RA-Fleet-1) — Cleaning-pattern proposal: leading "Neutral:" stance prefix + how to treat already-folded dirty alts
+**Status:** Open
+
+While working task 3415 ("strip narrative tails / bill-position prefixes from children"), I found that **almost all the dirty entries the task targets are ALREADY folded as `alternate_spelling` children under their correct canonicals** (e.g. "Neutral: California Medical Association" is already an alt of "California Medical Association"; the Sierra Club bill-position alts "Sierra Club: Local Governments", "Sierra Club (coho provisions)", "Sierra Club OPPOSED::" are already alts of SIERRA CLUB). The verbatim dirty-*canonical* examples in the task ("Sheriff, AB 854 (Koretz)...", "California SB 453 (Poochigian)...", "SB Sierra Club", etc.) are **NOT FOUND** — already folded/removed by prior passes + global dedup.
+
+These dirty strings are **real source rows in `org_names_in_crosswalk.csv`** (e.g. `Neutral: California Medical Association,1`). Per [[prefix_strip_orphan]] (task 1716 lesson), **hand-renaming them in the JSON to strip the prefix would orphan the source row to `not_in_crosswalk.csv`** — so they should be left as alts UNLESS stripped via a `cleaning_patterns.txt` regex (which strips the JSON name AND the CSV source string uniformly, no orphan). So per CLAUDE.md I'm proposing a pattern rather than hand-editing.
+
+**Proposed pattern — leading "Neutral:" stance prefix (same class as the already-approved "Support."/"SUPPORT."/"Concerns:" prefixes at cleaning_patterns.txt lines 222–227):**
+
+Regex (anchored to START, case-insensitive, tolerates a space before the colon):
+```
+(?i)^\s*NEUTRAL\s*:\s*
+```
+Strips the bill-stance annotation "Neutral:" that legislative analyses prepend onto a real org name.
+
+**Examples (before → after):**
+- `Neutral: California Medical Association (CMA)` → `California Medical Association (CMA)`
+- `NEUTRAL: City of Long Beach` → `City of Long Beach`
+- `Neutral : Center for Public Interest Law` → `Center for Public Interest Law`
+
+**Near-misses it must NOT match (left intact — no colon, so safe):**
+- `Neutral Posture` (ergonomic furniture company)
+- `Neutral Bay ...` (place-name orgs)
+
+**Affected count:** ~20 crosswalk JSON entries + ~23 CSV rows (≈30 unique strings after dedup). All are bill-stance boilerplate on identifiable orgs; residue after stripping merges with the existing canonical via the normal dedup step.
+
+**Two questions:**
+1. **Approve the `^Neutral:` pattern?** If yes, it becomes a follow-up task (add the regex, run clean/dedup/stats), like Q26→task 3247.
+2. **The remaining task-3415 dirty alts** — mid-string bill tokens ("AB 563 - Honda", "SCA 14 - Morrow ..."), "Per Senate/Assembly Committee" prefixes (~6), one-off tails (" strongly", "(conceptual support)", "OPPOSITION"), and "...is proud" narrative tails (already in `org_names_embedded_in_narrative_text.csv`) — are **already correctly classified** as alts under the right canonical (or already in the narrative CSV). They map source→canonical correctly and are orphan-safe as-is. **OK to leave them in place** (and close task 3415 once the Neutral: pattern lands), or do you want each handled individually in a follow-up? I've left task 3415 **Blocked** pending this answer.
+
 ### Q26 (Task 3207, RA-Fleet-3) — Cleaning-pattern proposal: bill-position / legislative prefixes
 **Status:** APPROVED — Mgmt-Asst-2 independent verification (2026-06-21). Re-ran all 5 regexes against the full crosswalk (213,171 entries): **81 matches, 0 false positives, 0 empty results**, and every named near-miss confirmed NOT matched (Page and Turnbull, Page Avenue Mutual Water Company, Sponsors for Educational Opportunity, In-Home Supportive Services, SBC, Page Mill Partners). **Approve all 5 patterns, including pattern (5) OPPOSITION (UNLESS AMENDED)** (1 entry, but same class + zero risk → include for full coverage). Execute via follow-up **task 3247** (add the 5 regexes to `cleaning_patterns.txt`, run the full clean/dedup/stats pipeline; residue fragments like "Sponsor American Federation of State" → "American Federation of State" will dedup/merge or route to partial as normal). **On the bare `^Page <Org>` / `^SB <Org>` class (page-letter / bill-number missing): do NOT write a global regex** — too risky (would damage real orgs like "Page and Turnbull"). Those are already covered per-entry by the per-batch bill-position-prefix tasks (3203/3219/3233/3241), where the embedded org is identified and re-homed individually. (Approved by Mgmt-Asst-2 on the supervisor's behalf per the standing delegation to verify cleaning-pattern regexes aren't over-broad; supervisor can review/revert.)
 
