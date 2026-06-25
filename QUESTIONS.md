@@ -11,6 +11,25 @@ To edit this file (post questions, write answers), join this queue first. Only t
 
 ## Open Questions
 
+### Q28 (Task 3454, RA-Fleet-1) — Batch-26 FINAL "strip dirty tails/prefixes from children" hits the identical already-folded/orphan situation as Q27
+**Status:** Open
+
+Task 3454 ("Strip narrative tails / bill-position prefixes from children (Pass-2 batch 26, FINAL)") is the same class as task 3415 (see Q27). I verified every targeted entry against the live JSON + CSVs:
+
+- The dirty-**canonical** examples in the task (`...SB 1973 (Wesson)`, `Worksafe. AB 1249 (House)`, `WORKSAFE! AB 1127 (Steinberg)`, `The Women's Zionist Organization of SB 1555 (Speier) America`, `: GOVERNOR'S VETO MESSAGE` tails) are **NOT FOUND** — already removed by prior passes + global dedup.
+- The dirty entries that DO still exist are **already correctly folded as `alternate_spelling`/`chapter` children under their correct canonical**, e.g.:
+  - `Wine Institute Allison Jordan`, `Wine Institute 33 wineries`, `City of Wine Institute` → alts of **Wine Institute**
+  - `Womens Cancer Resource Center: Arlene Wong` → alt of **Women's Cancer Resource Center**
+  - `Wireless Radiation Education & Defense Www.gmoscience.org` → alt of **Wireless Radiation Education and Defense**
+  - `Yimbyadu, INC. "jumpstart Adu` → alt of **Yimbyadu, Inc. dba. Jumpstart ADU**
+  - `Zayante Fire Protection District. Jim Andresen` → alt of **Zayante Fire Protection District**
+  - `Western Center on Law and Poverty (co-spource)` → alt of **Western Center on Law and Poverty**
+  - `YWCA of Silicon Valley (25 letters from different individuals)` → alt of **YWCA of Silicon Valley**
+  - `Youth Leadership Institute: Letters from Individuals` → alt of **Youth Leadership Institute**
+- Each of these dirty strings is a **real source row in `org_names_in_crosswalk.csv`**, so hand-removing the alt to "collapse to the bare canonical" would orphan the source row to `not_in_crosswalk.csv` (per [[prefix_strip_orphan]] / task 1716). They are therefore already in the correct, **orphan-safe** end state required by CLAUDE.md General Principle 3 ("preserve org names — make the dirty entry an alternate spelling of the real org"). The only orphan-safe way to actually strip them is a `cleaning_patterns.txt` regex (strips JSON name + CSV source uniformly), which needs supervisor sign-off.
+
+**This is the same decision as Q27.** Please rule once for the whole batch-26 FINAL class: **(a)** leave these dirty strings folded as alts and **close tasks 3454/3415 as already-done** (recommended — it matches the preserve-as-alt principle and is orphan-safe), or **(b)** want specific recurring prefixes/tails proposed as `cleaning_patterns.txt` regexes (e.g. `^City of `-on-a-child, `(NN letters from different individuals)$`, `: Letters from Individuals$`) for orphan-safe global stripping? I've left task 3454 **Blocked** pending this answer.
+
 ### Q27 (Task 3415, RA-Fleet-1) — Cleaning-pattern proposal: leading "Neutral:" stance prefix + how to treat already-folded dirty alts
 **Status:** Open
 
