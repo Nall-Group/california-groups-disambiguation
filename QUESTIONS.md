@@ -12,7 +12,8 @@ To edit this file (post questions, write answers), join this queue first. Only t
 ## Open Questions
 
 ### Q28 (Task 3454, RA-Fleet-1) — Batch-26 FINAL "strip dirty tails/prefixes from children" hits the identical already-folded/orphan situation as Q27
-**Status:** Open
+**Status:** Answered
+**Answer (supervisor, relayed by Management-Assistant-2, 2026-06-25):** Option (a) — these are already done. The targeted dirty strings are correctly preserved as orphan-safe `alternate_spelling`/`chapter` children under their right canonicals, which is the desired end state (preserve org names as alts; hand-stripping would orphan CSV source rows). No per-item work needed. Task 3454 closed as Done. (The only orphan-safe global strip would be a `cleaning_patterns.txt` regex; none required here — these dirty bits are heterogeneous one-offs, not a clean regex class.)
 
 Task 3454 ("Strip narrative tails / bill-position prefixes from children (Pass-2 batch 26, FINAL)") is the same class as task 3415 (see Q27). I verified every targeted entry against the live JSON + CSVs:
 
@@ -31,7 +32,8 @@ Task 3454 ("Strip narrative tails / bill-position prefixes from children (Pass-2
 **This is the same decision as Q27.** Please rule once for the whole batch-26 FINAL class: **(a)** leave these dirty strings folded as alts and **close tasks 3454/3415 as already-done** (recommended — it matches the preserve-as-alt principle and is orphan-safe), or **(b)** want specific recurring prefixes/tails proposed as `cleaning_patterns.txt` regexes (e.g. `^City of `-on-a-child, `(NN letters from different individuals)$`, `: Letters from Individuals$`) for orphan-safe global stripping? I've left task 3454 **Blocked** pending this answer.
 
 ### Q27 (Task 3415, RA-Fleet-1) — Cleaning-pattern proposal: leading "Neutral:" stance prefix + how to treat already-folded dirty alts
-**Status:** Open
+**Status:** Answered
+**Answer (supervisor, relayed by Management-Assistant-2, 2026-06-25):** These are already done — leave the already-folded dirty alts in place (orphan-safe, correctly mapped source→canonical) and close task 3415 as Done. On Q27 Q2 (mid-string bill tokens, "Per Senate/Assembly Committee" prefixes, one-off tails, narrative tails already in the narrative CSV): leave them in place too — all are correctly classified and orphan-safe. On Q27 Q1 (the `^Neutral:` regex): verified safe and not overly broad (22 JSON + 22 CSV matches, all bill-stance boilerplate on real orgs; colon-anchored so "Neutral Posture"/"Neutral Bay" are left intact) — it is **pre-approved** as an optional global cleanup, but NOT being run right now (the backlog is fully drained and the fleet is idle; spinning it up for one cosmetic pattern isn't worth it). It can be applied any time as a standalone (add the regex to `cleaning_patterns.txt`, run clean/dedup/stats) if/when desired.
 
 While working task 3415 ("strip narrative tails / bill-position prefixes from children"), I found that **almost all the dirty entries the task targets are ALREADY folded as `alternate_spelling` children under their correct canonicals** (e.g. "Neutral: California Medical Association" is already an alt of "California Medical Association"; the Sierra Club bill-position alts "Sierra Club: Local Governments", "Sierra Club (coho provisions)", "Sierra Club OPPOSED::" are already alts of SIERRA CLUB). The verbatim dirty-*canonical* examples in the task ("Sheriff, AB 854 (Koretz)...", "California SB 453 (Poochigian)...", "SB Sierra Club", etc.) are **NOT FOUND** — already folded/removed by prior passes + global dedup.
 
