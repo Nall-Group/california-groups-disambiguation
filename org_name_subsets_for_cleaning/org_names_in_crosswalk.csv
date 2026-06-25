@@ -3630,7 +3630,6 @@ El Camino Hospital,70
 Fire Districts Association of CA,70
 Fresno Economic Opportunities Commission,70
 Golden State Mobilhome Owners League,70
-Insurance Commissioner Ricardo Lara,70
 Johnson & Johnson,70
 Merritt Community Capital Corporation,70
 Mountain Counties Water Resources Association,70
@@ -3655,10 +3654,10 @@ Valley Vision,70
 Vista Community Clinic,70
 AeA,70
 Contra Costa Council,70
+Insurance Commissioner Ricardo Lara,70
 Alameda Alliance for Health,69
 Area 4 Agency on Aging,69
 Auto Club of Southern California,69
-CDI,69
 California Asian Chamber of Commerce,69
 California Behavioral Health Association,69
 California Chapter of the American College of Emergency,69
@@ -3698,6 +3697,7 @@ West Hollywood Community Housing Corporation,69
 Western Crop Protection Association,69
 Western Painting and Coating Contractors Association,69
 State Treasurer's Office,69
+CDI,69
 Blue Shield,68
 Board of Barbering and Cosmetology,68
 CPUC,68
@@ -4204,7 +4204,6 @@ Independent Living Center of Southern California,60
 Information Technology Association of America,60
 Inland Empire Health Plan,60
 Inland Empire Immigrant Youth Collective,60
-Insurance Commissioner John Garamendi,60
 Intel,60
 Let's Green Ca,60
 "Los Angeles County Probation Officer's Union, AFSCME",60
@@ -4234,6 +4233,7 @@ United Ways of California (UWCA),60
 Urban Strategies Council,60
 Women Prosecutors of California,60
 Yolo Food Bank,60
+Insurance Commissioner John Garamendi,60
 AMERICAN CONGRESS OF OBSTETRICIANS & GYNECOLOGISTS - DISTRICT IX,59
 Allied Grape Growers,59
 "American Federation of State, County and Municipal Employees, AFL-CIO",59
@@ -4347,7 +4347,6 @@ California Association of Mental Health Patients Rights,57
 California Coalition on Family Caregiving,57
 California Grape & Tree Fruit League,57
 California Infill Builders Federation,57
-California Insurance Commissioner Ricardo Lara,57
 California State Association of Psychiatrists (CSAP),57
 Car-lite Long Beach,57
 City of Carpinteria,57
@@ -4403,6 +4402,7 @@ Union of Health Care Professionals,57
 Friends Committee on Legislation in California,57
 Governor Gray Davis,57
 County Welfare Directors Association of,57
+California Insurance Commissioner Ricardo Lara,57
 AAA Northern California,56
 All Rise Alameda,56
 American Resort Development Association,56
@@ -4973,8 +4973,8 @@ Visalia,50
 Watts/Century Latino Organization,50
 Westside Regional Center,50
 Wu Yee Children's Services,50
-Insurance Commissioner Ricardo Lara / California Department of Insurance,50
 Center for Public Interest Law/children's Advocacy Institute/university of San Diego,50
+Insurance Commissioner Ricardo Lara / California Department of Insurance,50
 ASTHMA COALITION OF LOS ANGELES COUNTY,49
 Academic Senate of the California State University,49
 Affirmed Housing,49
@@ -5659,7 +5659,6 @@ Coalition for Sustainable Transportation,43
 Contra Costa Interfaith Supporting Community Organization,43
 County of Colusa,43
 County of Plumas,43
-DOI,43
 East Bay Innovations,43
 El Concilio,43
 Engineering & Utility Contractors Association dba United Contractors,43
@@ -5725,6 +5724,7 @@ Mono County,43
 American College of Emergency Physicians State Chapter of,43
 Torrance,43
 Center for Domestic Peace,43
+DOI,43
 350 Santa Barbara,42
 6beds,42
 ALS ASSOCIATION,42
@@ -8492,7 +8492,6 @@ Queen of the Valley Hospital,27
 Raoul Wallenberg Jewish Democratic Club,27
 Redeemer Community Partnership,27
 Relational Culture Institute,27
-Ricardo Lara California Insurance Commissioner,27
 Roberts Enterprise Development Fund,27
 Roots Community Health Center,27
 Rural Counties,27
@@ -8553,6 +8552,7 @@ West Hollywood,27
 Sacramento Bee,27
 Boys Republic,27
 ResCoalition,27
+Ricardo Lara California Insurance Commissioner,27
 "9to5 California, National Association of Working Women",26
 A Better Balance,26
 Aces Driving School,26
@@ -12683,7 +12683,6 @@ Redwood Empire Kennel Club,17
 Resource Conservation District of Monterey County,17
 Resource Conservation District of Santa Cruz County,17
 Resource Conservation District of Tehama County,17
-"Ricardo Lara, Insurance Commissioner",17
 Richmond Community Foundation,17
 Right to Life of Central California,17
 Rincon Valley Union School District,17
@@ -12874,6 +12873,7 @@ California State Student Association (CSSA),17
 California Alliance for Child and Family Services,17
 Children's Advocacy Institute (CAI),17
 Coalition of California Welfare Rights Organizations (CCWRO),17
+"Ricardo Lara, Insurance Commissioner",17
 11:11 Media Impact,16
 21st Century Insurance,16
 350 Petaluma,16
@@ -13000,7 +13000,6 @@ California Cotton Growers Association,16
 California Council on Economic Education,16
 California Crime Victims Legal Clinic,16
 California Declining Enrollment Coalition,16
-California Department of Insurance (CDI),16
 California Earth Corps,16
 California HICAP Association,16
 California Healthcare,16
@@ -13572,6 +13571,7 @@ Food Allergy Research and Education,16
 Creative Card Congress,16
 California Association for Adult Day Services (CAADS),16
 Pueblo Unido Community Development Corporation,16
+California Department of Insurance (CDI),16
 1736 Family Crisis Center,15
 350 Sonoma,15
 A La Brava,15
@@ -21470,7 +21470,6 @@ Yuba City Unified School District,10
 Yusen Terminals,10
 Z-Best Products,10
 Zipmarc Working Retrievers,10
-IC Ricardo Lara,10
 "Libby Schaaf, Mayor of Oakland",10
 Hazardous Waste Association of California,10
 AG Rob Bonta,10
@@ -21522,6 +21521,7 @@ Windsor,10
 Children's Law Center of California (CLC),10
 State Building and construction Trades Council of California,10
 Merry Maids,10
+IC Ricardo Lara,10
 100% Campaign: Health Insurance for Every California Child,9
 350 Chico,9
 350 East Bay,9
@@ -22421,7 +22421,6 @@ Denair Unified School District,9
 Denson & Denson Design Association - Agoura Hills,9
 Department of Defense State Liaison Office,9
 Department of Fish & Game,9
-Department of Insurance (DOI),9
 Department of Motor Vehicles (DMV),9
 Department of Public Safety,9
 Dependency Legal Services San Diego,9
@@ -24136,7 +24135,6 @@ Weed for Warriors,9
 "Cruz M. Bustamante, Lieutenant Governor",9
 "Coalition of California Welfare Rights Organizations, Inc.",9
 Citizens for the oRight to Knowo,9
-California Department of Insurance Commissioner Ricardo Lara,9
 Judge Quentin L. Kopp,9
 Northern California Carpenters,9
 San Francisco District Attorney Terence Hallinan,9
@@ -24188,6 +24186,8 @@ Equality California (EQCA),9
 City of Alturas,9
 California Child care Resource and Referral Network,9
 "The Climate Reality Project, Sacramento Chapter",9
+Department of Insurance (DOI),9
+California Department of Insurance Commissioner Ricardo Lara,9
 1 Bag At A Time,8
 "10,000 Degrees",8
 1000 Grandmothers for Future Generation,8
@@ -26932,7 +26932,6 @@ The Children's Movement Fresno,8
 The Climate Alliance,8
 "The Climate Reality Project, California Coalition",8
 The Creative Card Congress,8
-The Department of Insurance,8
 The East Cut Community Benefit District,8
 The Emporium,8
 The Family Treehouse,8
@@ -27328,6 +27327,7 @@ East Bay Municipal Utilities District (EBMUD),8
 "Kathleen Connell, State Controller",8
 Superintendent of Public Instruction Tony Thurmond,8
 Chatsworth,8
+The Department of Insurance,8
 1000 Friends of Fresno,7
 1000 Grandmothers for Future Generations Bay Area,7
 198 Methods,7
@@ -30144,7 +30144,6 @@ Reviver,7
 Revolution LA,7
 Rex Moore Elec. Cont & Eng,7
 Rex Transportation Company,7
-"Ricardo Lara, California Department of Insurance",7
 Rice Producers of California,7
 Richmond - North Richmond - Steering Committee,7
 Richmond Chamber of Commerce,7
@@ -31123,7 +31122,6 @@ San Mateo City/County Association of Governments,7
 la Cooperativa,7
 "Nevada, County of",7
 "Mayor London Breed, City & County of San Francisco",7
-"Ricardo Lara, Insurance Commissioner/California Department of Insurance",7
 "Betty Yee, California State Controller",7
 Los Angeles Mayor Karen Bass,7
 Children's Advocacy Institute/Center for Public Interest,7
@@ -31196,6 +31194,8 @@ Therapists (CAMFT),7
 American Radio Relay League,7
 Woodhull Freedom Foundation,7
 AccentCare,7
+"Ricardo Lara, California Department of Insurance",7
+"Ricardo Lara, Insurance Commissioner/California Department of Insurance",7
 10th AD Democrats,6
 13th Bomb Squadron Association,6
 180 Solar Power,6
@@ -36548,7 +36548,6 @@ Children's Advocacy Institute/University of San Diego,6
 "National Lawyers Guild, San Francisco/Bay Area Chapter",6
 "San Jose, City of",6
 Sacramento Mayor Kevin McCarty,6
-Insurance Commissioner Ricardo Lara/California Department of Insurance,6
 Legislative Committee of the County Clerks Association of California,6
 San Francisco City and County District Attorney,6
 "MOVI, Money Out Voters In",6
@@ -36669,6 +36668,7 @@ California Institute of the Arts,6
 ClearPrint,6
 Hi-Tech Trust Coalition,6
 Health Alliance for Violence Intervention,6
+Insurance Commissioner Ricardo Lara/California Department of Insurance,6
 "100 Black Men of Los Angeles, Inc",5
 "100 Black Men of the Bay Area, Inc",5
 100%pure,5
@@ -38050,7 +38050,6 @@ California Dental Hygiene Educator's Association,5
 California Department of Forestry Retirees,5
 California Department of General Services,5
 California Department of Human Resources (CalHR),5
-California Department of Insurance (DOI),5
 "California Department of Justice, Office of the Attorney General",5
 California Dialyses Council,5
 California Displaced Homemakers Network,5
@@ -44815,6 +44814,7 @@ Blue Pacific Mobile Home Owners Association,5
 Western Multitex Co,5
 University of California Irvine Department of Psychiatry,5
 Greenberg & Jackson: An Accountancy Corporation,5
+California Department of Insurance (DOI),5
 1-2-3 Express,4
 100 Percent Campaign,4
 100% Campaign: Health Insurance of Every California Child,4
@@ -50276,7 +50276,6 @@ Galt Police Department,4
 Gametime,4
 "Ganey/Gassiot, Inc",4
 "Gangloff & Gangloff, Attorneys at Law",4
-Garamendi,4
 Garcia Realty,4
 Garden Grove City Council,4
 Garden Grove Sanitary District,4
@@ -58544,6 +58543,7 @@ UDW/AFSCME Local 3930,4
 The Rabies Challenge Fund,4
 "University of California, Santa Cruz, Marine Mammal Stranding Network",4
 West Bay Housing Corp,4
+Garamendi,4
 020 Squad Club,3
 "1 Bag at a Time, Inc",3
 1 Method,3
@@ -76557,7 +76557,6 @@ State Superintendent Delaine Eastin,3
 State Water Project Contractors Authority,3
 "State and Consumer's Services Agency, Office of the Insurance Advisor",3
 State of California Auto Dismantlers Association (SCADA),3
-State of California Department of Insurance,3
 State of California Franchise Tax Board,3
 State of California Veterans Board,3
 Statecraft,3
@@ -79769,7 +79768,6 @@ Roseville Mayor Pauline Roccucci,3
 "City and County of San Francisco, Mayor Gavin Newsom",3
 City of Chula Vista Mayor Cheryl Cox,3
 City of Perris Mayor Michael Vargas,3
-Commissioner John Garamendi,3
 City of Oakland Mayor Kevin Jenkins,3
 Congresswoman Anna Eshoo,3
 Controller Betty Yee,3
@@ -79992,7 +79990,6 @@ Cerritos Community College District/Cerritos College,3
 "Carmen A. Trutanich, City Attorney of Los Angeles",3
 Carol A. Smith Accounting,3
 "California State University, Chico, Office of the President, Paul J. Zingg",3
-California State Insurance Commissioner Ricardo Lara,3
 California State Federation of Chapters/National,3
 "California School Employees Association, Dave Low/Assistant",3
 California Nurse Association/National Nurses United,3
@@ -80336,6 +80333,9 @@ California School of Professional Psychology (CSPP),3
 Orange County Chapter The Climate Reality Project,3
 Sacramento Chapter The Climate Reality Project,3
 Hanlon's Tire Service Inc,3
+State of California Department of Insurance,3
+Commissioner John Garamendi,3
+California State Insurance Commissioner Ricardo Lara,3
 00 Inkjets.com,2
 00Inkjets.com,2
 1 Hundred Years Enterprises,2
@@ -90488,7 +90488,6 @@ Commission the Status of Women,2
 "Commissioner Leah Simon- Weisberg, Berkeley Rent Stabilization Board",2
 "Commissioner Paola Laverde, Berkeley Rent Stabilization Board",2
 "Commissioner Soli Alpert, Berkeley Rent Stabilization Board",2
-"Commissioner, California Department of Insurance",2
 Commissioners Assn,2
 "Commissions, Humboldt LAFCO, Santa Cruz LAFCO",2
 "Commissions, Orange County Local Agency Formation",2
@@ -92376,7 +92375,6 @@ Department of Housing and Community Development (HCD),2
 Department of Human Services,2
 Department of Industrial Relations Agricultural Producers,2
 "Department of Industrial Relations, Governor Davis",2
-Department of Insurance Commissioner Ricardo Lara,2
 "Department of Justice, State of California",2
 "Department of Mental Health, Stanislaus County",2
 Department of OBGYN,2
@@ -96902,8 +96900,6 @@ Housing of San Gabriel Valley,2
 Houzz,2
 "Howard Advocacy, INC",2
 "Howard Iten's Tune-up Service, Inc",2
-Howard Jarvis Taxpayers Association Law Office of Babak Naficy,2
-"Howard Jarvis Taxpayers Association, Stop Hidden Taxes",2
 Howard's Bail Bond Agency,2
 Howard's Small Engine,2
 Howes Lubricator Products,2
@@ -106701,7 +106697,6 @@ Rialto City Attorney,2
 Rialto Education Association,2
 Rialto High School,2
 Rialto Police Dept,2
-"Ricardo Lara, Insurance Commissioner of California",2
 Ricardo Munoz Bail Bonds,2
 Rice Honda,2
 "Rice Paper Scissors, San Francisco",2
@@ -116127,7 +116122,6 @@ Consulting Engineer and Land Surveyors of California,2
 Department of Agriculture/Weights and Measures,2
 Consumer Protection Policy Center/University San Diego School of Law,2
 Consumer Protection Policy Center/University of San Diego School of Law,2
-California Insurance Commissioner Ricard Lara,2
 City of Long Beach - Robert Garcia,2
 California Nurses Association/National Nurses,2
 "Palm Springs, City of",2
@@ -117383,6 +117377,10 @@ Cal. Independent Public Employees Legislative Council,2
 Calif. County Superintendents Educational Services Association,2
 Los Angeles Center,2
 "The Climate Reality Project: Santa Clara County, CA Chapter",2
+"Commissioner, California Department of Insurance",2
+Department of Insurance Commissioner Ricardo Lara,2
+"Ricardo Lara, Insurance Commissioner of California",2
+California Insurance Commissioner Ricard Lara,2
 1 + 1 Senior Care,1
 1 Hour Appliance Repair,1
 1 Icon (Foothill Ranch),1
@@ -127097,7 +127095,6 @@ CA Department of Firefighters,1
 CA Department of Forestry & Fire Protection,1
 CA Department of Forestry Firefighters,1
 CA Department of Housing and Community Development,1
-CA Department of Insurance,1
 CA Department of Motor Vehicles,1
 CA Department of Public Health,1
 CA Disability Services Association (CDSA),1
@@ -151586,8 +151583,6 @@ Howard Jarvis TRa,1
 Howard Jarvis Tax Payers,1
 Howard Jarvis Taxpayer Foundation,1
 Howard Jarvis Taxpayers Assocation,1
-"Howard Jarvis Taxpayers Association, California State Retirees",1
-"Howard Jarvis Taxpayers Association, Common Cause, Cal Tax",1
 Howard Jarvis Taxpayers Associaton,1
 "Howard Jarvis Taxpayers, Service",1
 "Howard M. Ehrenber, Trustee",1
@@ -152894,8 +152889,6 @@ Insurance Co.s,1
 Insurance Commissioner Chuck Quackenbush,1
 "Insurance Commissioner Jones, Department of Insurance",1
 Insurance Commissioner Lara,1
-"Insurance Commissioner Ricardo Lara, the California Department of Insurance",1
-Insurance Commissioner and Equality California,1
 "Insurance Commissioner, Dept. of Insurance",1
 "Insurance Commissioner, Richard Lara",1
 "Insurance Commissioner, State of California",1
@@ -172217,8 +172210,6 @@ Rianda House,1
 Riaz Capital,1
 Ribnick Luxury Outerwear,1
 Ricardo Alaniz Posada,1
-Ricardo Lara,1
-"Ricardo Lara, Commissioner California Department of Insurance",1
 Rice Producers of CA,1
 Rice Republic,1
 "Rice Researchers, Inc",1
@@ -184158,7 +184149,6 @@ The Institute of London Underwriters,1
 The Institute of Popular,1
 The Institute on Aging,1
 The Instituto de Educacion Popular del Sur de California (IDEPSCA),1
-The Insurance Commissioner Ricardo Lara,1
 The Inter-Agency Council on Child Abuse and Neglect,1
 The InterPacific Group,1
 The Interdisciplinary Council on Development and Learning,1
@@ -191799,7 +191789,6 @@ Emergency Nurses Association/California State,1
 "California Health+Advocates, a subsidiary of The California Primary Care Association",1
 "California Rural Legal Assistance Foundation, Western Center on",1
 "California State Association of Counties, County of",1
-California Insurance Commissioner Richard Lara,1
 Center for Environmental HealthClean Water Action,1
 Center for Public Interest Law/University of San Diego,1
 City of Los Angeles/Department of Aging,1
@@ -192089,7 +192078,6 @@ Richmond Mayor Tom Butt,1
 "Riverside County 4th District Supervisor, V. Manual Perez",1
 "Rick Hauptman, Computer and Internet Caucus, California Democratic Party",1
 Rita Woodard,1
-"Ricardo Lara, Insurance Commissioner /California Department of Insurance",1
 Recreation Vehicle Industry Association (RVIA),1
 Redevelopment agency of Visalia,1
 Regional Transportation Planning Agency for,1
@@ -192548,7 +192536,6 @@ Deposition Reporters Association of California and,1
 "Desert Sierra Cancer Surveillance Program, Region 5 of California of the",1
 "Developmental Disabilities Board, Area XI",1
 "Department of Insurance, Dave Jones, Insurance Commissioner",1
-"Department of Insurance, Insurance Commissioner Ricardo Lara",1
 Deputy Fire Marshal,1
 "Deputy James Ryan, President of Northern Chapter of the Peace Officers",1
 "Deputy James Ryan, President, Northern Chapter of the Peace Officers",1
@@ -192598,7 +192585,6 @@ Dan McAllister,1
 "Dave Cortese, President, Board of Supervisors, Santa Clara County",1
 "Dave Jones, CA Insurance Commissioner",1
 "Dave Jones, Insurance Commissioner, Department of Insurance",1
-"David Jones, Insurance Commissioner, California Department Of Insurance",1
 Cypress College Extended Opportunity Programs and Services and Guardian Scholars Program,1
 County of Vista Community Clinic,1
 County of West County Health Centers,1
@@ -192925,7 +192911,6 @@ California Controller Betty Yee,1
 "California Department of Justice, Kamala D. Harris, Attorney General",1
 California Department of Tax and Fee Administration Director Nicholas Maduro,1
 California Conference of Machinists SB 415-Dunn,1
-California Department of Insurance/ Insurance Commissioner Dave Jones,1
 California District Attorneys Association and American,1
 "California District Attorneys Association, Los Angeles",1
 "California Code of Regulations and Credit Course Repetition Guidelines - CCC Chancellor's Office, November",1
@@ -195164,6 +195149,16 @@ CCSESA,1
 "Reality Project, Riverside County Chapter",1
 "The Climate Reality Project, Orange County CA Chapter",1
 The Climate Reality Project: Santa Clara County Chapter,1
+CA Department of Insurance,1
+"Insurance Commissioner Ricardo Lara, the California Department of Insurance",1
+Ricardo Lara,1
+"Ricardo Lara, Commissioner California Department of Insurance",1
+The Insurance Commissioner Ricardo Lara,1
+California Insurance Commissioner Richard Lara,1
+"Ricardo Lara, Insurance Commissioner /California Department of Insurance",1
+"Department of Insurance, Insurance Commissioner Ricardo Lara",1
+"David Jones, Insurance Commissioner, California Department Of Insurance",1
+California Department of Insurance/ Insurance Commissioner Dave Jones,1
 Amador County Environmental Service,0
 "California Transit, Inc.",0
 "ERIC GARCETTI, MAYOR OF LOS ANGELES",0
