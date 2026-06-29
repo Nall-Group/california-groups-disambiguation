@@ -4,16 +4,13 @@
 
 To edit this file (mark tasks, update queues, add tasks), join this queue first. Only the name at the top may edit.
 
-RA-Gamma
-RA-Alpha
+(empty)
 
 ## Data Write Queue
 
 Only the RA at the top of this list has write access to project data files (crosswalk JSON, CSVs). Add yourself to the bottom when you're ready to write. Remove yourself when done.
 
-RA-Alpha
-
-RA-Beta
+(empty)
 
 ## Task List
 
@@ -1262,9 +1259,9 @@ RA-Beta
 | 1175 | **Leginfo gap — novel, rows 21601–21700 (Wave 27).** Same as task 785 but rows 21601–21700 of `org_name_for_cleaning/leginfo_novel.csv`. NO SHORTCUTS — examine each org individually. Apply Q9 officeholder policy. Run cleaning/dedup/stats pipeline before committing. | Done | RA-Beta |  |
 | 1176 | **Leginfo gap — novel, rows 21701–21800 (Wave 27).** Same as task 785 but rows 21701–21800 of `org_name_for_cleaning/leginfo_novel.csv`. NO SHORTCUTS — examine each org individually. Apply Q9 officeholder policy. Run cleaning/dedup/stats pipeline before committing. | Done | RA-Alpha | Examined all 100 individually ('Di/De/Dept-of' slice). 14 already covered. 18→crosswalk (10 ALT_MAP: CITY OF EMERYVILLE [Mayor Martinez] + 9 state depts [DSS/DRE/DMV×2/DMHC/DOJ/CDI×3]; 8 new canon: Peg Taylor Center ×2, Manzanita Mgmt, Desert Sands MHC, Dept of Personnel Admin, Diamond Video World, Developmental Services Continuum, Developmental Disabilities Service Org). 34 individuals (Diane/Dianne/Diana/named persons + BOE Harkey + deputy mayors). 13 conjoined (county lists, dept pairings). 11 narrative ('Despite…'/'Development fees…'). 10 partial. Pipeline: Not in crosswalk:0, Verified 259,655 unchanged; canon 141,321, total 209,261. |
 | 1177 | **Leginfo gap — novel, rows 21801–21900 (Wave 27).** Same as task 785 but rows 21801–21900 of `org_name_for_cleaning/leginfo_novel.csv`. NO SHORTCUTS — examine each org individually. Apply Q9 officeholder policy. Run cleaning/dedup/stats pipeline before committing. | Done | RA-Gamma | Examined all 100 — CA-dept-heavy 'Department/Den/Dem/Del/Def' slice. 34 to crosswalk: 28 alt (Depts of Insurance/Industrial Relations/Health Services/General Services/Fish & Game/Finance/Corporations/Consumer Affairs/Conservation w/ position-qualifier variants; Dental Board of CA; Democrats of Rossmoor; Delta Protection Commission; Delta Kappa Gamma CA; Delta Chamber; Defenders of Wildlife), 6 new canon (Dentalpoint, Democrats for Change/Action, Democratic Party LA County, Defense of Place, Defense Conversion Task Force, Defending Our Future). Routed 63: 30 individuals, 26 conjoined (Dept-of-CA veterans lists, Defenders co-org lists), 5 invalid, 2 partial. Pipeline run (deduped 16). Committed 89fce91. |
-| 1178 | **Leginfo gap — novel, rows 21901–22000 (Wave 27).** Same as task 785 but rows 21901–22000 of `org_name_for_cleaning/leginfo_novel.csv`. NO SHORTCUTS — examine each org individually. Apply Q9 officeholder policy. Run cleaning/dedup/stats pipeline before committing. | In Progress | RA-Beta |  |
-| 1179 | **Leginfo gap — novel, rows 22001–22100 (Wave 27).** Same as task 785 but rows 22001–22100 of `org_name_for_cleaning/leginfo_novel.csv`. NO SHORTCUTS — examine each org individually. Apply Q9 officeholder policy. Run cleaning/dedup/stats pipeline before committing. | In Progress | RA-Beta |  |
-| 1180 | **Leginfo gap — novel, rows 22101–22200 (Wave 27).** Same as task 785 but rows 22101–22200 of `org_name_for_cleaning/leginfo_novel.csv`. NO SHORTCUTS — examine each org individually. Apply Q9 officeholder policy. Run cleaning/dedup/stats pipeline before committing. | In Progress | RA-Alpha |  |
+| 1178 | **Leginfo gap — novel, rows 21901–22000 (Wave 27).** Same as task 785 but rows 21901–22000 of `org_name_for_cleaning/leginfo_novel.csv`. NO SHORTCUTS — examine each org individually. Apply Q9 officeholder policy. Run cleaning/dedup/stats pipeline before committing. | Not Started |  |  |
+| 1179 | **Leginfo gap — novel, rows 22001–22100 (Wave 27).** Same as task 785 but rows 22001–22100 of `org_name_for_cleaning/leginfo_novel.csv`. NO SHORTCUTS — examine each org individually. Apply Q9 officeholder policy. Run cleaning/dedup/stats pipeline before committing. | Not Started |  |  |
+| 1180 | **Leginfo gap — novel, rows 22101–22200 (Wave 27).** Same as task 785 but rows 22101–22200 of `org_name_for_cleaning/leginfo_novel.csv`. NO SHORTCUTS — examine each org individually. Apply Q9 officeholder policy. Run cleaning/dedup/stats pipeline before committing. | Not Started |  |  |
 | 1181 | **Leginfo gap — novel, rows 22201–22300 (Wave 28).** Same as task 785 but rows 22201–22300 of `org_name_for_cleaning/leginfo_novel.csv`. NO SHORTCUTS — examine each org individually. Apply Q9 officeholder policy. Run cleaning/dedup/stats pipeline before committing. | Not Started |  |  |
 | 1182 | **Leginfo gap — novel, rows 22301–22400 (Wave 28).** Same as task 785 but rows 22301–22400 of `org_name_for_cleaning/leginfo_novel.csv`. NO SHORTCUTS — examine each org individually. Apply Q9 officeholder policy. Run cleaning/dedup/stats pipeline before committing. | Not Started |  |  |
 | 1183 | **Leginfo gap — novel, rows 22401–22500 (Wave 28).** Same as task 785 but rows 22401–22500 of `org_name_for_cleaning/leginfo_novel.csv`. NO SHORTCUTS — examine each org individually. Apply Q9 officeholder policy. Run cleaning/dedup/stats pipeline before committing. | Not Started |  |  |
@@ -1280,3 +1277,4 @@ RA-Beta
 | 1193 | **Leginfo gap — novel, rows 23401–23500 (Wave 28).** Same as task 785 but rows 23401–23500 of `org_name_for_cleaning/leginfo_novel.csv`. NO SHORTCUTS — examine each org individually. Apply Q9 officeholder policy. Run cleaning/dedup/stats pipeline before committing. | Not Started |  |  |
 | 1194 | **Leginfo gap — novel, rows 23501–23600 (Wave 28).** Same as task 785 but rows 23501–23600 of `org_name_for_cleaning/leginfo_novel.csv`. NO SHORTCUTS — examine each org individually. Apply Q9 officeholder policy. Run cleaning/dedup/stats pipeline before committing. | Not Started |  |  |
 | 1195 | **Leginfo gap — novel, rows 23601–23700 (Wave 28).** Same as task 785 but rows 23601–23700 of `org_name_for_cleaning/leginfo_novel.csv`. NO SHORTCUTS — examine each org individually. Apply Q9 officeholder policy. Run cleaning/dedup/stats pipeline before committing. | Not Started |  |  |
+| 1196 | **Consolidate duplicate 3CORE canonicals.** In `2_webapp/org_clusters_crosswalk.json`, the canonicals "3Core" (which has alt spelling "3CORE, Inc") and "3CORE Financial Mentoring Perspective" are the SAME organization (3CORE is a CDFI / economic-development nonprofit based in Chico, CA). Consolidate them: keep "3Core" as the canonical and place "3CORE Financial Mentoring Perspective" at the correct hierarchy level under it (alternate_spelling, or chapter if it is a distinct program). Preserve the existing "3CORE, Inc" alt spelling. This is a within-crosswalk consolidation, so no CSV changes are needed. Run the cleaning/dedup/stats pipeline before committing. | Not Started |  |  |
