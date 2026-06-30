@@ -6,12 +6,12 @@ RAs post questions here when blocked. The human supervisor answers them.
 
 To edit this file (post questions, write answers), join this queue first. Only the name at the top may edit.
 
-(empty)
+MA
 
 ## Open Questions
 
 ### Q11 (Task 1201, RA-Alpha) — "A Home Away From Home" vs "A Home Away From Homelessness" are DIFFERENT orgs
-**Status:** Open
+**Status:** Answered
 
 Task 1201 (flagged VERIFY/CAUTION) asks whether to merge "A Home Away From Home" and "A Home Away From Homelessness". Both are bare canonicals, no children. I verified each and they are clearly **two distinct organizations**:
 - **"A Home Away From Homelessness"** — a SF Bay Area nonprofit (program of Bay Area Community Resources, 501c3), founded 1994 in partnership with the National Park Service; serves homeless / formerly-homeless children in San Francisco, Marin, and Oakland (programs: The Beach House, The School House, Summer Program). Site: homeaway.org.
@@ -19,7 +19,9 @@ Task 1201 (flagged VERIFY/CAUTION) asks whether to merge "A Home Away From Home"
 
 Different regions (Bay Area vs SoCal), different missions (homeless children vs senior-living referrals). The task itself cautioned not to merge if distinct.
 
-**Question:** Confirm I should leave these two as **separate canonicals** (do NOT merge)? Marking task 1201 Blocked pending your confirmation. (If you instead know of a third "A Home Away From Home" that IS the same as the Homelessness org, let me know and I'll re-evaluate.)
+**Question:** Confirm I should leave these two as **separate canonicals** (do NOT merge)? Marking task 1201 Blocked pending your confirmation.
+
+**Answer:** Keep the two separate — do NOT merge. Supervisor confirmed (2026-06-30): "A Home Away From Homelessness" (SF Bay Area nonprofit for homeless children) and "A Home Away From Home" (SoCal senior-living referral service) are distinct organizations with different regions and missions. Leave both as separate canonicals. Task 1201 resolved with no data change. (If you instead know of a third "A Home Away From Home" that IS the same as the Homelessness org, let me know and I'll re-evaluate.)
 
 ### Q10 (Task 1200, RA-Alpha) — "A Helping Hand" duplicates may be DIFFERENT orgs
 **Status:** Answered
