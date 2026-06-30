@@ -9,6 +9,23 @@ To edit this file (post questions, write answers), join this queue first. Only t
 
 ## Open Questions
 
+### Q13 (Task 1203, RA-Alpha) — A-1 / A-One delivery entries are DIFFERENT companies sharing the generic "A-1" prefix
+**Status:** Open
+
+Task 1203 has two parts:
+
+**(1) Two exact-duplicate "A-One Delivery Service" canonicals → merge.** There is now only ONE "A-One Delivery Service" canonical in the crosswalk (no children). The duplicate appears to have already been removed by a prior cleaning/dedup run, so there is nothing to merge here. No action taken.
+
+**(2) Merge "A-1 Courier", "A-1 Delivery Service", "A-1 Express", "A-One Delivery Service" as the same company.** I verified (NO SHORTCUTS) and these are **distinct independent California companies** that merely share the very common "A-1" business prefix:
+- **A-1 Courier** — Los Angeles same-day courier, a-1courier.com, established ~1988, 11111 Santa Monica Blvd LA, ph (213) 622-4000.
+- **A-1 Express Delivery Service Inc.** — a1expresswest.com, in business since 1969, 4520 Maywood Ave (Vernon/LA), ph (323) 585-4440. Separate company (different founding year, address, phone, website).
+- **A-1 Delivery** — a separate delivery service in Vista, CA (San Diego County) per Yelp.
+- **A-One Delivery Service** — could not confirm a specific company; not clearly tied to any of the above.
+
+These have different founding dates, addresses, phone numbers, and websites — they are NOT the same company. Per the task ("if any is genuinely a DIFFERENT company sharing the prefix, do NOT merge — post a question"), I did not merge any of them.
+
+**Question:** Confirm I should leave all four (A-1 Courier, A-1 Delivery Service, A-1 Express, A-One Delivery Service) as **separate canonicals** (no merge)? And confirm part (1) is moot (only one A-One Delivery Service remains)? Marking task 1203 Blocked pending your answer.
+
 ### Q12 (Task 1202, RA-Alpha) — "A Woman's Place of Merced" is an independent org, not a chapter of bare "A Woman's Place"
 **Status:** Open
 
