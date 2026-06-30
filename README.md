@@ -207,12 +207,13 @@ Patterns include:
 
 ## Cleaning Pipeline
 
-To apply cleaning patterns from `cleaning_patterns.txt` to the org name CSVs:
+The cleaning/deduplication/stats pipeline is documented in `CLAUDE.md`
+("Cleaning & deduplication pipeline"). Run these in order whenever the crosswalk
+or `cleaning_patterns.txt` changes:
 
-1. **Apply cleaning patterns**: Write a script that imports `load_cleaning_patterns()` and `clean_org_name()` from `org_matching_utils.py`, applies them to each `org_name` in the CSV files under `org_name_subsets_for_cleaning/`, and merges any resulting duplicate rows by summing their counts.
-2. **Deduplicate spacing/punctuation variants**: Run `python3 merge_spacing_punctuation_duplicates.py` to merge entries that differ only in spacing or punctuation.
-
-Both steps should be re-run whenever `cleaning_patterns.txt` is updated.
+1. `python3 scripts/clean_crosswalk.py` — apply `cleaning_patterns.txt`, dedup children, merge clusters that normalize identically.
+2. `python3 scripts/regenerate_org_subsets.py` — re-check all org names against the crosswalk and redistribute the `org_name_subsets_for_cleaning/` CSVs.
+3. `python3 generate_stats.py` — update `stats.json`.
 
 ## Invalid Organization Names
 
