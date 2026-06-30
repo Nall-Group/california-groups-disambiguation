@@ -9,6 +9,17 @@ To edit this file (post questions, write answers), join this queue first. Only t
 
 ## Open Questions
 
+### Q14 (Task 1207, RA-Alpha) — FYI: "Accel Partners" (single-L) left separate from Accell Group (double-L)
+**Status:** Open (informational — task 1207 completed, this confirms the split)
+
+Per task 1207, I verified the three canonicals the supervisor grouped and split them by spelling:
+- **Double-L (MERGED):** "ACCELL" and "Accell North America" are the Dutch bicycle manufacturer **Accell Group** (Heerenveen, NL; owns Raleigh, Batavus, Koga, Lapierre, etc.) and its North American arm. I created canonical **"Accell Group"** with "ACCELL" (alternate_spelling) and "Accell North America" (chapter).
+- **Single-L (LEFT SEPARATE):** "Accel Partners" is the distinct **Accel** (formerly Accel Partners) — the Palo Alto, CA venture-capital firm (early Facebook investor, founded 1983). NOT a bicycle company. Per the task, I left it as its own canonical and did not merge it.
+
+Note: there is also an individual entry "Bud Colligan, Accel Partners" elsewhere in the crosswalk (a person associated with the VC firm) — out of scope for this task, left untouched.
+
+**Question:** Confirm leaving "Accel Partners" separate from "Accell Group" is correct (single-L VC firm vs double-L bicycle maker)? If you actually intended all three to merge, let me know and I'll reconsider — but they are genuinely different companies.
+
 ### Q13 (Task 1203, RA-Alpha) — A-1 / A-One delivery entries are DIFFERENT companies sharing the generic "A-1" prefix
 **Status:** Answered
 
