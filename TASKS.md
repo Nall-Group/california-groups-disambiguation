@@ -10,6 +10,56 @@ To edit this file (mark tasks, update queues, add tasks), join this queue first.
 
 Only the RA at the top of this list has write access to project data files (crosswalk JSON, CSVs). Add yourself to the bottom when you're ready to write. Remove yourself when done.
 
+## Historical Data-Cleaning Log (migrated from README)
+
+These 43 cleaning steps were originally an informal numbered log in `README.md` ("data cleaning" section). They are all **Done** — completed manually by the supervisor and early Claude Code sessions before the RA-fleet task workflow existed. They use **negative IDs** (`-43` … `-1`, in original README order) so they never clash with the numbered fleet tasks (`1`+). The original README step number is preserved in Notes. Quirky source numbering preserved: README step 18 was missing and step "19" appeared twice, plus a trailing "XX".
+
+| # | Task | Status | Assignee | Notes |
+|---|------|--------|----------|-------|
+| -43 | Use extract_org_names.py to get all org names from leginfo_metadata.csv in https://github.com/Nall-Group/leginfo. Clean these by removing stuff matching the regex in cleaning_patterns.txt. | Done | supervisor/legacy | README step 0 |
+| -42 | Remove all organization names that do not follow the rule where all words above four characters long are capitalized (likely text fragments) → org_names_not_capitalized.csv. Exclude orgs where the long uncapitalized word is after punctuation like a hyphen or inside parentheses at the end of the name. | Done | supervisor/legacy | README step 1 |
+| -41 | Remove all organization names that are dates or phone numbers → org_names_that_are_dates_or_phone_numbers.csv | Done | supervisor/legacy | README step 2 |
+| -40 | Remove all organization names that start with parentheses → org_names_that_start_with_parens.csv | Done | supervisor/legacy | README step 3 |
+| -39 | Take all orgs that start with the word "the". Check if there is an org entry that is the same except without "the". If so, check if it's already in the crosswalk; if not, add it to the crosswalk. | Done | supervisor/legacy | README step 4 |
+| -38 | Remove all orgs that start with lower case "to" and "with" → org_names_partial.csv | Done | supervisor/legacy | README step 5 |
+| -37 | Remove all dates and positions in parentheses such as (3/19/98) or (Oppose) or (Co-Sponsor) from the end of org names in org_names_capitalized.csv | Done | supervisor/legacy | README step 6 |
+| -36 | Add all org names that look like an org in the crosswalk except they have their own acronym in brackets at the end, as alternate spelling. | Done | supervisor/legacy | README step 7 |
+| -35 | Separate org_names_capitalized.csv into org_names_in_crosswalk.csv and org_names_not_in_crosswalk.csv so we can work on getting them all into the crosswalk. | Done | supervisor/legacy | README step 8 |
+| -34 | Add orgs that have "Inc" at the end where the same org without "Inc" also exists in the dataset, to the crosswalk. Do the same for Corp and LLC. | Done | supervisor/legacy | README step 9 |
+| -33 | Add orgs that are the same as another org except for the addition of ' California' / ' of California' / ' of CA' / ' CA' at the end, as orgs with a chapter relationship to the base name. | Done | supervisor/legacy | README step 10 |
+| -32 | Add orgs that are unambiguous acronyms as an alternate spelling. | Done | supervisor/legacy | README step 11 |
+| -31 | Add orgs that start with California but are otherwise the same as another org, as a chapter. | Done | supervisor/legacy | README step 12 |
+| -30 | Make sure orgs that look like valid names except for stuff in brackets are moved from org_names_not_capitalized.csv to org_names_not_in_crosswalk.csv. | Done | supervisor/legacy | README step 13 |
+| -29 | Remove all orgs that start with digits then a closing square bracket, e.g. '2] 2015-16 Budget: "Capital Outlay Program Review". LAO, May 14, 2014' (these are citations). | Done | supervisor/legacy | README step 14 |
+| -28 | Add all orgs that have "Local" in the MIDDLE of the name where it's another org name, Local, then a number — these are chapters of the prefix org. | Done | supervisor/legacy | README step 15 |
+| -27 | Add orgs that start with Local, a number, then another org name — these are also chapters. | Done | supervisor/legacy | README step 16 |
+| -26 | Consolidate Fire Fighter orgs as children of International Association of Fire Fighters. Under it, California Professional Firefighters is a chapter; under that are city/county chapters in format "city name + Fire Fighters", and any other version is an alternate spelling. Add fire fighter orgs not already present. | Done | supervisor/legacy | README step 17 |
+| -25 | Move all organizations that end in the word "individuals" along with one individual and Mayor → org_names_that_are_actually_individuals.csv | Done | supervisor/legacy | README step 19 (first of two "19"s) |
+| -24 | Merge all case-insensitive duplicates. | Done | supervisor/legacy | README step 19 (second of two "19"s) |
+| -23 | Manually audit Sheriff/Police canonicals to merge down to just these: Alameda County Deputy Sheriffs' Activities League; CALIFORNIA COALITION FOR SHERIFF OVERSIGHT; CALIFORNIA POLICE ACTIVITIES LEAGUE; CHIEF OF POLICE; California Council of Police and Sheriffs; Concerns of Police Survivors; DEPUTY SHERIFFS' ASSOCIATION; END POLICE VIOLENCE COLLECTIVE; FRATERNAL ORDER OF POLICE; HOLLYWOOD COMMUNITY-POLICE ADVISORY BOARD; LOS ANGELES POLICE PROTECTIVE LEAGUE; LOS ANGELES SCHOOL POLICE MANAGEMENT ASSOCIATION; NATIONAL BLACK POLICE ASSOCIATION; Newport Beach Police Management Association; ORGANIZATION OF POLICE AND SHERIFFS; POLICE DEPARTMENT; Police Chief's Association; Police Officer's Association; Police Officers' Research Association; SHERIFF; SHERIFF'S ASSOCIATION; SHERIFF'S DEPARTMENT / Sheriffs; SHERIFF'S EMPLOYEE BENEFITS ASSOCIATION. Also add Sheriff/Police orgs not in the crosswalk. | Done | supervisor/legacy | README step 20 |
+| -22 | Remove CO-SPONSOR, SPONSOR, Co-Source prefix or suffix from org names and merge duplicates, including if it is in brackets. Afterwards, consolidate resulting duplicate organizations. | Done | supervisor/legacy | README step 21 |
+| -21 | Consolidate YIMBY orgs in the crosswalk to one org. Add YIMBY orgs not yet present. | Done | supervisor/legacy | README step 22 |
+| -20 | Consolidate place-based Chambers of Commerce as chapters of the California Chamber of Commerce (CALCHAMBER). Add Chambers of Commerce not yet present. | Done | supervisor/legacy | README step 23 |
+| -19 | Separate from the industry-specific labor orgs, make an AFL-CIO canonical that has just one chapter: the California Federation of Labor. Put place- (but not industry-) specific federations of labor as children, and AFL as a pre-merge child. | Done | supervisor/legacy | README step 24 |
+| -18 | Consolidate "100 Black Men" organizations. | Done | supervisor/legacy | README step 25 |
+| -17 | Merge CAL Fire/CDF entries into "CALIFORNIA DEPARTMENT OF FORESTRY AND FIRE PROTECTION" canonical. Merge California State Firefighters' Association entries into that canonical. Merge FIRE DISTRICTS ASSOCIATION OF CALIFORNIA into that canonical. | Done | supervisor/legacy | README step 26 |
+| -16 | Strip "According to the" from org names and consolidate any resulting duplicates. | Done | supervisor/legacy | README step 27 |
+| -15 | Consolidate PEACE OFFICER STANDARDS AND TRAINING, Peace Officers' Association, PEACE OFFICER'S RESEARCH ASSOCIATION OF CALIFORNIA, CALFIORNIA CORRECTIONAL PEACE OFFICERS ASSOCIATION. | Done | supervisor/legacy | README step 28 |
+| -14 | Consolidate all the climate orgs under "350" in the crosswalk. | Done | supervisor/legacy | README step 29 |
+| -13 | Clean org names with malformed brackets e.g. "blah) org name" or "org name (blah". Let AI decide if it's an acronym in the brackets where the matching bracket should be added, or an artifact (support/oppose, date, etc.) where the bracket and its contents should be removed. | Done | supervisor/legacy | README step 30 |
+| -12 | Consolidate SEIU orgs (not industry-specific ones, just ethnic-group / place-based ones) and make SEIU a pre-merge child of AFL-CIO. | Done | supervisor/legacy | README step 31 |
+| -11 | Consolidate Indivisible orgs, both within the crosswalk and from org names not in the crosswalk, into the crosswalk. | Done | supervisor/legacy | README step 32 |
+| -10 | Consolidate Sierra Club orgs. Move conjoined entries to conjoined CSV, narrative text to embedded_in_narrative_text CSV, merge chapters/groups/task forces/sections under SIERRA CLUB canonical. | Done | supervisor/legacy | README step 33 |
+| -9 | Consolidate AFSCME orgs, NAACP orgs, Planned Parenthood, CALPIRG, Audubon. | Done | supervisor/legacy | README step 34 |
+| -8 | Asked Claude Code (using Opus 4.6) to go through 2_webapp/org_clusters_crosswalk.json and consolidate duplicate canonicals, move things that are not organizations (e.g. 7 individual letters), and consolidate local chapters of industry-specific unions. | Done | supervisor/legacy | README step 35 |
+| -7 | Add orgs that start with "and " to cleaning patterns. | Done | supervisor/legacy | README step 36 |
+| -6 | Asked Claude Code to go through crosswalk and not-in-crosswalk and remove partial and conjoined entries. For conjoined entries, split them and add individual organizations back into the crosswalk. | Done | supervisor/legacy | README step 37 |
+| -5 | Asked Claude Code to look through org_names_not_capitalized.csv for any real-looking org names and add them to the crosswalk. | Done | supervisor/legacy | README step 38 |
+| -4 | Asked Claude Code to remove other invalid entry types from org_names_not_in_crosswalk.csv. | Done | supervisor/legacy | README step 39 |
+| -3 | Asked Claude Code to list orgs from most frequent to least in org_names_not_in_crosswalk.csv and add them to the crosswalk (or to invalid CSVs as appropriate instead). | Done | supervisor/legacy | README step 40 |
+| -2 | More cleaning: remove "Continued" from the end of org names, remove parens in entries like (AFSCME), clean digit followed by literal dot e.g. "1. The Performance Institute". | Done | supervisor/legacy | README step 41 |
+| -1 | Move things that are obviously not organization names (like sponsor or SB) to the invalid organization names list. | Done | supervisor/legacy | README step XX |
+
 ## Task List
 
 > **NOTE (2026-06-15) — global dedup has run.** A forest-wide deduplication pass (`clean_crosswalk.py --global-dedup`) collapsed every normalized-name duplicate: within a tree the deepest copy is kept, across trees the bigger tree's copy is kept, ancestor-descendant self-copies have the descendant removed, and any duplicate that normalizes the same is dropped (children re-parented). **For all remaining "Tree consolidation" tasks, the "resolve the script-flagged duplicate / remove redundant duplicate / dedup flat alts vs nested copies" portion is ALREADY DONE — skip it.** Only the secondary work still needs doing: routing narrative/conjoined/invalid/individual entries to CSVs, renaming malformed canonicals, splitting conjoined entries, building/merging chapter hierarchy, relationship-type changes, and display-casing fixes. (34 pure-dedup tasks were verified fully obsolete and closed.)
