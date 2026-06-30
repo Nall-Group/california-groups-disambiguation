@@ -5,8 +5,7 @@ RAs post questions here when blocked. The human supervisor answers them.
 ## QUESTIONS.md Write Queue
 
 To edit this file (post questions, write answers), join this queue first. Only the name at the top may edit.
-
-MA
+(empty)
 
 ## Open Questions
 
