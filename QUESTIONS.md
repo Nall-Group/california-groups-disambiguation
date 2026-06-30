@@ -6,12 +6,13 @@ RAs post questions here when blocked. The human supervisor answers them.
 
 To edit this file (post questions, write answers), join this queue first. Only the name at the top may edit.
 
-(empty)
+RA-Alpha
+MA
 
 ## Open Questions
 
 ### Q10 (Task 1200, RA-Alpha) — "A Helping Hand" duplicates may be DIFFERENT orgs
-**Status:** Open
+**Status:** Answered
 
 Task 1200 asks to consolidate three canonicals reported by the supervisor as the same org:
 - "A Helping Hand"
@@ -26,6 +27,8 @@ All three are bare canonicals with no children. I verified each (NO SHORTCUTS) a
 These serve different functions (addiction-treatment funding vs. mental-health counseling) and I could not confirm common ownership. Per the task's own caution ("If they appear distinct, do NOT merge — post a question"), I did not force the merge.
 
 **Question:** Should I (A) leave all three as separate canonicals (do not merge — they look like distinct orgs)? (B) Merge only a subset you can confirm are the same? (C) Merge all three anyway under one canonical? If merging, which name should be canonical? Marking task 1200 Blocked pending your answer.
+
+**Answer:** Keep all three separate — do NOT merge. Supervisor confirmed (2026-06-30) that "A Helping Hand", "A Helping Hand Counseling", and "A Helping Hand in Recovery INC" are distinct organizations that merely share a generic name (addiction-recovery funding charity vs. San Diego mental-health counseling practice vs. an unattributable generic name). Leave all three as separate canonicals. Task 1200 is resolved with no data change.
 
 ### Q9 (Tasks 785/786, RA-Beta) — recurring policy for the novel waves
 **Status:** Answered
