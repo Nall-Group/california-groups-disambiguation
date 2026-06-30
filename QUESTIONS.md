@@ -9,6 +9,17 @@ To edit this file (post questions, write answers), join this queue first. Only t
 
 ## Open Questions
 
+### Q12 (Task 1202, RA-Alpha) — "A Woman's Place of Merced" is an independent org, not a chapter of bare "A Woman's Place"
+**Status:** Open
+
+Task 1202 (flagged DOUBLE CHECK) asks whether "A Woman's Place of Merced" (alt: "A Woman's Place of Merced County") is a CHAPTER of the bare canonical "A Woman's Place" (alt: "A Women's Place"). I verified (NO SHORTCUTS):
+- **"A Woman's Place of Merced County"** is an **independent** Domestic Violence & Rape Crisis Intervention Center serving Merced County, CA. No parent organization found — it operates as a standalone local nonprofit.
+- **"A Woman's Place"** is a **generic name** shared by many unrelated, independently-run DV shelters nationwide (the most prominent is in Bucks County, PA — awomansplace.org). There is **no "A Woman's Place" parent network with regional chapters**.
+
+The bare "A Woman's Place" canonical in the crosswalk carries no identifying info (no location/parent), so it can't be confirmed as the parent of the Merced org. Per the task's caution ("if independent orgs that merely share a generic name, do NOT merge — post a question"), I did not nest.
+
+**Question:** Confirm I should leave "A Woman's Place" and "A Woman's Place of Merced" as **separate canonicals** (do NOT nest)? Marking task 1202 Blocked pending your answer.
+
 ### Q11 (Task 1201, RA-Alpha) — "A Home Away From Home" vs "A Home Away From Homelessness" are DIFFERENT orgs
 **Status:** Answered
 
