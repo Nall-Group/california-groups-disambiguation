@@ -10,7 +10,7 @@ To edit this file (post questions, write answers), join this queue first. Only t
 ## Open Questions
 
 ### Q13 (Task 1203, RA-Alpha) — A-1 / A-One delivery entries are DIFFERENT companies sharing the generic "A-1" prefix
-**Status:** Open
+**Status:** Answered
 
 Task 1203 has two parts:
 
@@ -25,6 +25,8 @@ Task 1203 has two parts:
 These have different founding dates, addresses, phone numbers, and websites — they are NOT the same company. Per the task ("if any is genuinely a DIFFERENT company sharing the prefix, do NOT merge — post a question"), I did not merge any of them.
 
 **Question:** Confirm I should leave all four (A-1 Courier, A-1 Delivery Service, A-1 Express, A-One Delivery Service) as **separate canonicals** (no merge)? And confirm part (1) is moot (only one A-One Delivery Service remains)? Marking task 1203 Blocked pending your answer.
+
+**Answer:** Keep all four separate — no merge. Supervisor confirmed (2026-06-30): "A-1 Courier", "A-1 Delivery Service", "A-1 Express", and "A-One Delivery Service" are distinct independent California companies that merely share the generic "A-1" prefix (different addresses, phones, founding dates, websites). Part (1) confirmed MOOT — the exact-duplicate "A-One Delivery Service" was already removed by a prior cleaning/dedup run, only one remains. Task 1203 resolved with no data change.
 
 ### Q12 (Task 1202, RA-Alpha) — "A Woman's Place of Merced" is an independent org, not a chapter of bare "A Woman's Place"
 **Status:** Answered
