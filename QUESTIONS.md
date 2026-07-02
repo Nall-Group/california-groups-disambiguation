@@ -6,13 +6,14 @@ RAs post questions here when blocked. The human supervisor answers them.
 
 To edit this file (post questions, write answers), join this queue first. Only the name at the top may edit.
 
-(empty)
 
 
 ## Open Questions
 
 ### Q29 (Task 3582, RA-Fleet-2) — Task 3582 directly conflicts with task 3587 on where LASPOA (`Los Angeles School Peace Officers Association`) belongs
-**Status:** Open
+**Status:** Answered
+
+**Answer (supervisor, relayed by Management-Assistant-2, 2026-07-02):** Option (b) — KEEP the `Police Officers Association` umbrella (158 chapters; same model as the POLICE DEPARTMENT umbrella). Fold LASPOA's Peace/Police variants INTO the umbrella's `LOS ANGELES SCHOOL POLICE OFFICERS ASSOCIATION` chapter (per task 3582). Task 3587 had made LASPOA an independent top-level canonical — that is REVERSED: re-nest `Los Angeles School Peace Officers Association` + `LA School Peace Officers Association` as `alternate_spelling`s under that umbrella chapter. Task 3614's 'junk parent / promote out' premise is OVERRULED — the umbrella stands; 3614 is narrowed to just fold the LA & San Diego School POA Peace/Police OCR variants into their respective umbrella chapters and route emptied generic stubs to partial. Tasks 3582 & 3614 unblocked (Not Started).
 
 Tasks **3582** and **3587** are both Not Started and give **contradictory instructions for the exact same two entities** (`Los Angeles School Peace Officers Association` and `LA School Peace Officers Association`):
 
