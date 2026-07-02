@@ -11,6 +11,22 @@ To edit this file (post questions, write answers), join this queue first. Only t
 
 ## Open Questions
 
+### Q29 (Task 3582, RA-Fleet-2) — Task 3582 directly conflicts with task 3587 on where LASPOA (`Los Angeles School Peace Officers Association`) belongs
+**Status:** Open
+
+Tasks **3582** and **3587** are both Not Started and give **contradictory instructions for the exact same two entities** (`Los Angeles School Peace Officers Association` and `LA School Peace Officers Association`):
+
+- **Task 3582** ([POA-CONSOLIDATE MA-2]): "'Peace' vs 'Police' is the same LAUSD school-police union, LASPOA" → **fold both** `LA School Peace Officers Association` and `Los Angeles School Peace Officers Association` as `alternate_spelling`s **INTO the existing chapter** `LOS ANGELES SCHOOL POLICE OFFICERS ASSOCIATION`, which is nested under the generic `Police Officers Association` umbrella.
+- **Task 3587** (supervisor-flagged, MA web-verified): LASPOA is the **INDEPENDENT** rank-and-file union and is **NOT a chapter of any parent union — do NOT nest it**. Keep `Los Angeles School Peace Officers Association` as its **own top-level canonical**, with `LA School Peace Officers Association` folded in as its `alternate_spelling`.
+
+So 3582 wants LASPOA nested under the `Police Officers Association` umbrella (merged with the "Police" spelling), while 3587 wants it kept independent (separate from the "Police" umbrella chapter). Both cannot be done. Current JSON state: `LA School Peace Officers Association` (line ~537677) and `Los Angeles School Peace Officers Association` (line ~573331) are both childless top-level canonicals; the umbrella chapter `LOS ANGELES SCHOOL POLICE OFFICERS ASSOCIATION` already exists under `Police Officers Association` (line ~719650).
+
+**Question:** Which model wins?
+- **(a)** Follow **3587** (LASPOA independent): keep `Los Angeles School Peace Officers Association` top-level, fold `LA School Peace Officers Association` into it, and **close/void 3582** (or narrow 3582 to only handle the generic `School Police Officers Association` / `Schools Peace Officers Association` fragments). This is my recommendation since 3587 is the later supervisor-flagged web-verified correction.
+- **(b)** Follow **3582** (fold LASPOA "Peace" spellings into the umbrella's `LOS ANGELES SCHOOL POLICE OFFICERS ASSOCIATION` chapter), and adjust 3587 accordingly.
+
+Task 3582 left **Blocked** pending this answer.
+
 ### Q28 (Task 3454, RA-Fleet-1) — Batch-26 FINAL "strip dirty tails/prefixes from children" hits the identical already-folded/orphan situation as Q27
 **Status:** Answered
 **Answer (supervisor, relayed by Management-Assistant-2, 2026-06-25):** Option (a) — these are already done. The targeted dirty strings are correctly preserved as orphan-safe `alternate_spelling`/`chapter` children under their right canonicals, which is the desired end state (preserve org names as alts; hand-stripping would orphan CSV source rows). No per-item work needed. Task 3454 closed as Done. (The only orphan-safe global strip would be a `cleaning_patterns.txt` regex; none required here — these dirty bits are heterogeneous one-offs, not a clean regex class.)
