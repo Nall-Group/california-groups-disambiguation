@@ -81,6 +81,39 @@ def clean_children(children, canonical_norm, patterns, stats):
     return cleaned_children
 
 
+def flatten_alt_under_alt(children, stats):
+    """Promote alternate_spelling children of an alternate_spelling node up to the
+    current (sibling) level.
+
+    An alternate_spelling node names the SAME entity as its parent, so it must not
+    carry its own alternate_spelling children -- those are redundant and belong at
+    the same level (direct alt children of the nearest canonical/chapter/previously-
+    known-as ancestor). Recurses depth-first so arbitrarily deep alt-of-alt chains
+    collapse in a single call. ONLY alt-under-alt is flattened; chapter /
+    previously_known_as nesting is left intact (those are distinct entities that may
+    legitimately carry their own alt spellings)."""
+    result = []
+    for child in children:
+        if child.get("children"):
+            child["children"] = flatten_alt_under_alt(child["children"], stats)
+        if child.get("relationship") == "alternate_spelling" and child.get("children"):
+            promote = [c for c in child["children"]
+                       if c.get("relationship") == "alternate_spelling"]
+            keep = [c for c in child["children"]
+                    if c.get("relationship") != "alternate_spelling"]
+            if keep:
+                child["children"] = keep
+            else:
+                del child["children"]
+            result.append(child)
+            for p in promote:
+                stats["alt_promoted"] += 1
+                result.append(p)
+        else:
+            result.append(child)
+    return result
+
+
 def merge_clusters(target, source):
     """Merge source cluster's children into target cluster."""
     target_children = target.get("children", [])
@@ -425,6 +458,7 @@ def main():
         "removed_duplicate": 0,
         "canonicals_cleaned": 0,
         "clusters_merged": 0,
+        "alt_promoted": 0,
         "details": [],
     }
 
@@ -471,6 +505,21 @@ def main():
                 cluster["children"], canonical_norm, patterns, stats
             )
 
+    # Flatten pass: an alternate_spelling names the same entity as its parent, so
+    # it must not carry alternate_spelling children -> promote those to sibling
+    # level (chapter / previously_known_as nesting is left intact). Then re-run the
+    # sibling dedup so duplicate promoted siblings (and alts now redundant with the
+    # canonical) collapse.
+    for cluster in data["clusters"]:
+        if "children" in cluster:
+            cluster["children"] = flatten_alt_under_alt(cluster["children"], stats)
+    for cluster in data["clusters"]:
+        canonical_norm = normalize_for_matching(cluster["canonical"])
+        if "children" in cluster:
+            cluster["children"] = clean_children(
+                cluster["children"], canonical_norm, patterns, stats
+            )
+
     # Third pass: global cross-level / cross-tree duplicate merge (opt-in via flag)
     clusters_before = len(data["clusters"])
     report = []
@@ -498,6 +547,7 @@ def main():
     print("=" * 60)
     print(f"  Canonical names cleaned:       {stats['canonicals_cleaned']}")
     print(f"  Clusters merged:               {stats['clusters_merged']}")
+    print(f"  Alt-under-alt promoted:        {stats['alt_promoted']}")
     print(f"  Child names cleaned:           {stats['names_cleaned']}")
     print(f"  Children removed (redundant):  {stats['removed_redundant']}")
     print(f"  Children removed (duplicate):  {stats['removed_duplicate']}")
