@@ -4,7 +4,6 @@
 
 To edit this file (mark tasks, update queues, add tasks), join this queue first. Only the name at the top may edit.
 
-- Management-Assistant-1
 Management-Assistant-2
 - RA-Fleet-2
 
