@@ -6,7 +6,6 @@ To edit this file (mark tasks, update queues, add tasks), join this queue first.
 
 RA-Fleet-1
 RA-Fleet-2
-Management-Assistant-2
 
 ## Data Write Queue
 
