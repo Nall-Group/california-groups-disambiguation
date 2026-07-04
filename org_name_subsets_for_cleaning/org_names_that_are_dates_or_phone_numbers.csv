@@ -4,8 +4,8 @@ org_name,count
 06/15/94,32
 "As of April 9, 2010",31
 "As of July 7, 1995",29
-"May 5, 1993",27
 "As of June 14, 1996",27
+"May 5, 1993",27
 445-4246,26
 4/5 vote,25
 04/14/93,23
@@ -28,15 +28,15 @@ org_name,count
 07/14/93,12
 "1,900",12
 4/19/95,12
+"As of July 1, 1996",12
 "As of June 23, 1995",12
 "As of June 28, 1996",12
-"As of July 1, 1996",12
 05/31/95,11
 "As of March 15, 1996",11
 04/13/94,10
 6/12/96,10
-"June 16, 1993",10
 "Date: May 19, 2005",10
+"June 16, 1993",10
 03/30/94,9
 2007,9
 "As of April 12, 1996",9
@@ -50,18 +50,18 @@ org_name,count
 6/1/15,8
 6/26/96,8
 "April 20, 1994",8
+"Date: June 23, 2005",8
 "June 8, 1994",8
 "May 4, 1994",8
-"Date: June 23, 2005",8
 06/16/93,7
 06/22/94,7
-"1,000",7
-"June 22, 1994",7
 1,7
-As of June 19,7
+"1,000",7
 "As of April 19, 1996",7
 "As of August 9, 1996",7
+As of June 19,7
 "As of June 29, 1996",7
+"June 22, 1994",7
 04/27/94,6
 08/08/94,6
 5,6
@@ -74,8 +74,8 @@ As of June 19,7
 "April 6, 1993",6
 As of April 16,6
 As of April 19,6
-"HEARING: MAY 10, 1995",6
 "As of June 30, 1996",6
+"HEARING: MAY 10, 1995",6
 03/01/95,5
 03/09/94,5
 03/24/93,5
@@ -94,11 +94,11 @@ As of April 19,6
 7/9/97,5
 "April 14, 1994",5
 "April 20, 1993",5
-"July 8, 1993",5
 "As of June 24, 1996",5
 As of June 25,5
 "As of May 3, 1996",5
 "As of May 31, 1996",5
+"July 8, 1993",5
 04/09/97,4
 05/04/94,4
 05/10/95,4
@@ -126,6 +126,10 @@ As of June 25,5
 8/29/25,4
 9/8/21,4
 "April 15, 1993",4
+As of June 18,4
+"As of June 2, 1995",4
+"As of June 27, 1996",4
+As of March 31,4
 Contact: Jan L. Owen 445-6306,4
 "June 24, 1993",4
 "March 16, 1993",4
@@ -134,10 +138,6 @@ Contact: Jan L. Owen 445-6306,4
 "May 13, 1993",4
 "May 19, 1993",4
 "May 5, 1994",4
-As of June 18,4
-"As of June 2, 1995",4
-"As of June 27, 1996",4
-As of March 31,4
 03/10/93,3
 03/15/95,3
 03/28/94:auc,3
@@ -206,7 +206,13 @@ As of March 31,4
 "9,217",3
 "9,846",3
 "April 14, 1993",3
+"April 28, 2015",3
 "April 29, 1993",3
+As of April 21,3
+As of April 9,3
+As of June 24,3
+"As of May 5, 2000",3
+"January 22, 2015. [2] D.13-09-045",3
 "January 5, 1994",3
 "July 1, 1994",3
 "June 17, 1993",3
@@ -216,12 +222,6 @@ As of March 31,4
 "MAY 22, 1995",3
 "March 11, 1993",3
 "May 2, 1994",3
-"April 28, 2015",3
-As of April 21,3
-"January 22, 2015. [2] D.13-09-045",3
-As of April 9,3
-As of June 24,3
-"As of May 5, 2000",3
 SB 948 04/05/99,3
 01/05/94,2
 02/09/94,2
@@ -262,6 +262,7 @@ SB 948 04/05/99,3
 3/12/24,2
 3/15/94,2
 3/26/93:AHED,2
+4 APRIL 19,2
 4/1/94:AHED,2
 4/1/99,2
 4/12/01,2
@@ -335,33 +336,17 @@ April 1,2
 "April 18, 2007.",2
 "April 2, 1993",2
 "April 22, 1993",2
+"April 25, 2011 Version of Bill",2
 "April 26, 1993",2
 "April 29,1993",2
 April 3,2
 "April 5, 1993",2
 "April 5, 1994",2
 "April 7, 1994",2
-"January 1, 2006",2
-"January 1, 2020",2
-January 18,2
-"January 5, 1993",2
-July 22,2
-"July 7, 1993",2
-"June 10, 1993",2
-"June 13, 1994",2
-"June 20, 1997",2
-"June 29, 1994",2
-"March 27, 1997",2
-"May 10, 1993",2
-"May 12, 1993",2
-"May 26, 2006",2
-"April 25, 2011 Version of Bill",2
-March 2000 (Proposition 22),2
 As of April 10,2
 As of January 4,2
 As of June 20,2
 As of June 22,2
-4 APRIL 19,2
 "As of June June 27, 2003",2
 "As of March 20,2003",2
 As of March 4,2
@@ -384,8 +369,23 @@ As of March 4,2
 "Date: May 5, 1999",2
 "Date: May 6, 1999",2
 "Date: May 7, 1999",2
-"Hearing: June 12, 1996",2
 "HEARING: JUNE 19, 1995",2
+"Hearing: June 12, 1996",2
+"January 1, 2006",2
+"January 1, 2020",2
+January 18,2
+"January 5, 1993",2
+July 22,2
+"July 7, 1993",2
+"June 10, 1993",2
+"June 13, 1994",2
+"June 20, 1997",2
+"June 29, 1994",2
+March 2000 (Proposition 22),2
+"March 27, 1997",2
+"May 10, 1993",2
+"May 12, 1993",2
+"May 26, 2006",2
 Revised 07/02/18 at 4:06 p.m,2
 SB 1572 -- /18/00,2
 SB 1593 -- /22/00,2
@@ -552,6 +552,7 @@ SB 2131 -- /30/00,2
 5/16/11,1
 5/16/24,1
 5/17/93:AHED,1
+"5/18/00, and substantially amended on",1
 5/2/96,1
 5/24/11,1
 5/26/93,1
@@ -645,16 +646,24 @@ SB 2131 -- /30/00,2
 "April 15, 1994",1
 "April 17, 2006",1
 "April 2, 1998",1
+"April 26, 1995",1
 "April 27, 1994",1
 "April 5, 1996",1
 "April 8, 1998",1
 "April 9, 1997",1
+As of June 27,1
+As of June 4,1
+As of June 6,1
+As of June 7,1
 "August 18, 1993",1
 "August 3, 1994",1
+"California Teamsters Public Affairs Council (April 23, 2007)",1
 "FEBRUARY 23, 2007",1
 "February 1, 2012",1
 "February 2009. [2] ""Do Enterprise Zones Create Jobs?"" by David Neumark and Jed Kolko",1
 February 28,1
+"Foundation, July, 2013",1
+In July 2015,1
 "January 10, 1996. Both AB 1220 (Pringle) and AB 1497 (Baldwin)",1
 "January 19, 1996",1
 "January 6, 1994",1
@@ -709,16 +718,7 @@ February 28,1
 "May 3, 1996",1
 "May 31, 1994",1
 "May 4, 1993",1
-"5/18/00, and substantially amended on",1
-"April 26, 1995",1
-As of June 27,1
-As of June 4,1
-As of June 6,1
-As of June 7,1
-"Foundation, July, 2013",1
 November 9,1
-"version - January 5, 2012",1
-Year 2010-2011,1
 "Unknown June 3, 1994",1
-"California Teamsters Public Affairs Council (April 23, 2007)",1
-In July 2015,1
+Year 2010-2011,1
+"version - January 5, 2012",1

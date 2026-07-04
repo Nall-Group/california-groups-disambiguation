@@ -22,10 +22,10 @@ invalidity file. No org string is ever discarded.
 - Each cell is a `;`-separated list of org names (often dirty: OCR typos, trailing
   metadata, narrative prose, multiple orgs mashed together).
 - **Destination:** the crosswalk JSON (`2_webapp/org_clusters_crosswalk.json`) plus the
-  routing CSVs in `org_name_for_cleaning/`.
+  routing CSVs in `org_name_subsets_for_cleaning/`.
 
-See `CLAUDE.md` ("General Crosswalk Workflow Principles") and
-`org_name_for_cleaning/README.md` for the rules this playbook builds on.
+See `CLAUDE.md` ("General Crosswalk Workflow Principles") for the rules this playbook
+builds on.
 
 ---
 
@@ -110,11 +110,10 @@ orgs need no further work beyond being noted as matched.
 
 The orgs that did **not** match the crosswalk in step 3 (tracked in the unmatched list)
 are the remaining work. Each one either gets **added to the crosswalk** or it belongs in
-one of the **`leginfo_*.csv`** files.
+one of the invalid-org CSVs in `org_name_subsets_for_cleaning/`.
 
 > **No shortcuts.** Examine every org individually and confirm it's genuinely the same
-> organization before merging — a fuzzy/string resemblance is a hint, not a decision. See
-> `org_name_for_cleaning/README.md`.
+> organization before merging — a fuzzy/string resemblance is a hint, not a decision.
 
 Work in this order.
 
@@ -127,15 +126,15 @@ real org name(s):
   Club Planning and Conservation League"). Split it into its individual orgs.
 - **Partial** — a truncated/fragment name (e.g. "California Coalition for"). If the full
   org name is unambiguous (search the crosswalk and the web), resolve it to that full org.
-  Only route to `leginfo_partial.csv` if it's truly ambiguous after both searches.
+  Only route to `org_names_partial.csv` if it's truly ambiguous after both searches.
 
 Once a partial or conjoined entry is resolved into one or more real organizations:
 
 1. **Fix the source `leginfo_metadata.csv`** so each resolved org is a separate
    `;`-separated entry in the source cell (mirroring how the narrative step writes back to
    the source).
-2. Move the original partial/conjoined string (with its `bills_supported` count) into
-   `org_name_for_cleaning/leginfo_partial.csv` or `leginfo_conjoined.csv`.
+2. Move the original partial/conjoined string (with its count) into
+   `org_name_subsets_for_cleaning/org_names_partial.csv` or `org_names_conjoined.csv`.
 3. Each resolved org then flows through step 4b / 4c like any other org — search the
    crosswalk first; most are already present.
 
@@ -143,22 +142,27 @@ Once a partial or conjoined entry is resolved into one or more real organization
 
 Handle the invalid (non-org) strings in two passes:
 
-1. **Filter out already-known invalids.** Compare the remaining list against the existing
-   entries in the invalid-org CSVs below and drop anything that already matches one — it's
+1. **Filter out already-routed entries.** Compare the remaining list against **all** existing
+   entries in the CSVs in `org_name_subsets_for_cleaning/` (not just the invalid-org CSVs —
+   also `org_names_conjoined.csv`, `org_names_embedded_in_narrative_text.csv`,
+   `org_names_not_capitalized.csv`, etc.). Drop anything that already matches one — it's
    already routed, so remove it from the working list (don't add a duplicate).
 2. **Route newly-found invalids.** Of what's left, identify any string that isn't a real
-   organization, append it to the correct CSV (each `org_name,bills_supported`), and filter
+   organization, append it to the correct CSV (each `org_name,count`), and filter
    it out of the working list too.
 
-The invalid-org CSVs in `org_name_for_cleaning/`:
+The invalid-org CSVs in `org_name_subsets_for_cleaning/`:
 
 | File | What goes here |
 |------|---------------|
-| `leginfo_individuals.csv` | a person's name with no identifiable leadership-org |
-| `leginfo_partial.csv` | fragments, generic single words (`Author`, `County`, `Union`…), `N individuals` placeholders |
-| `leginfo_invalid.csv` | not an org at all (bill text, vote tallies, procedural text) |
-| `leginfo_dates_phones.csv` | dates or phone numbers |
-| `leginfo_starts_with_parens.csv` | names starting with parentheses |
+| `org_names_that_are_actually_individuals.csv` | a person's name with no identifiable leadership-org |
+| `org_names_partial.csv` | fragments, generic single words (`Author`, `County`, `Union`…), `N individuals` placeholders |
+| `org_names_invalid.csv` | not an org at all (bill text, vote tallies, procedural text) |
+| `org_names_that_are_dates_or_phone_numbers.csv` | dates or phone numbers |
+| `org_names_that_start_with_parens.csv` | names starting with parentheses |
+| `org_names_embedded_in_narrative_text.csv` | narrative-embedded prose with org names |
+| `org_names_conjoined.csv` | multiple orgs joined together |
+| `org_names_not_capitalized.csv` | improper capitalization |
 
 > **Leadership ≠ individual.** "Person, Org" where the person is a Mayor / President /
 > Director-of-whole-org / CEO / Chief / Sheriff / Chair is an **alternate spelling of the
@@ -185,8 +189,8 @@ The invalid-org CSVs in `org_name_for_cleaning/`:
    - **alternate spelling of a chapter**.
 5. Only **create a new canonical** if the org genuinely isn't anywhere in the crosswalk
    after both searches (this is rare).
-6. Append a row to `org_name_for_cleaning/leginfo_added_to_crosswalk.csv`
-   (`org_name,bills_supported`) so we track what was incorporated.
+6. The org will appear in `org_name_subsets_for_cleaning/org_names_in_crosswalk.csv`
+   after running `regenerate_org_subsets.py` (step 5).
 
 ---
 
@@ -200,9 +204,9 @@ python3 scripts/regenerate_org_subsets.py # re-check names against crosswalk, re
 python3 generate_stats.py                 # update stats.json
 ```
 
-Then commit — stage **only** the files you changed (crosswalk JSON, the `leginfo_*.csv`
-you wrote, `stats.json`, any regenerated subset CSVs). Never `git add -A`. One unit of
-work per commit.
+Then commit — stage **only** the files you changed (crosswalk JSON, the subset CSVs in
+`org_name_subsets_for_cleaning/`, `stats.json`). Never `git add -A`. One unit of work
+per commit.
 
 ---
 

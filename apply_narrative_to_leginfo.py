@@ -2,12 +2,16 @@
 """
 Apply narrative_org_mapping.tsv to leginfo_metadata.csv.
 
-For each row, in the four stance columns, any ';'-separated item that is a known
-narrative fragment is:
-  1. recorded verbatim in a new trailing column `narrative_text`, tagged with the
-     source column, multiple entries joined by ' || ';
-  2. replaced in the stance column by the raw extracted org name, or by the literal
-     'None parsed' when no org could be extracted.
+For each row, in the five org columns (the four stance columns plus `sponsor`), any
+';'-separated item that is a known narrative fragment is recorded in a new trailing
+column `narrative_orgs`:
+  - the *parsed* org name (from the mapping), tagged with its source column, or the
+    literal 'None parsed' when no org could be extracted;
+  - multiple entries joined by ' || '.
+
+The original stance/sponsor cell is left UNTOUCHED — the narrative prose stays in place
+and is never reused as an alt spelling. Only the parsed org name flows forward, via the
+`narrative_orgs` column.
 
 Detection reuses the gaps pipeline's split('; ') + clean() transform, matching the
 master fragment by raw / cleaned / normalized form (same priority as _narrative_detect.py).
@@ -30,8 +34,8 @@ csv.field_size_limit(sys.maxsize)
 
 LEGINFO_PATH = "/Users/ruthgracewong/leginfo/extract_all_leginfo_metadata/leginfo_metadata.csv"
 MAPPING_PATH = "/Users/ruthgracewong/california-groups-disambiguation/narrative_org_mapping.tsv"
-ORG_COLUMNS = ["support", "opposition", "opposition_unless_amended", "support_with_amendments"]
-NARR_COL = "narrative_text"
+ORG_COLUMNS = ["support", "opposition", "opposition_unless_amended", "support_with_amendments", "sponsor"]
+NARR_COL = "narrative_orgs"
 NONE_TOKEN = "None parsed"
 
 
@@ -80,29 +84,27 @@ def lookup(item, matcher, by_raw, by_norm):
 
 
 def process_row(row, matcher, by_raw, by_norm, stats):
+    """Detect narrative fragments and record parsed orgs in NARR_COL.
+
+    The source cell is left UNTOUCHED; only the parsed org name (or NONE_TOKEN) is
+    recorded, tagged with its source column.
+    """
     narr_entries = []
     for col in ORG_COLUMNS:
         val = row.get(col) or ""
         if not val.strip():
             continue
-        out_items = []
-        changed = False
         for part in val.split(";"):
             item = part.strip()
             if not item:
                 continue
             repl = lookup(item, matcher, by_raw, by_norm)
             if repl is None:
-                out_items.append(item)
-            else:
-                narr_entries.append(f"{col}: {item}")
-                out_items.append(repl)
-                changed = True
-                stats["frag_hits"] += 1
-                if repl == NONE_TOKEN:
-                    stats["none_parsed"] += 1
-        if changed:
-            row[col] = "; ".join(out_items)
+                continue
+            narr_entries.append(f"{col}: {repl}")
+            stats["frag_hits"] += 1
+            if repl == NONE_TOKEN:
+                stats["none_parsed"] += 1
     row[NARR_COL] = " || ".join(narr_entries)
     if narr_entries:
         stats["rows_changed"] += 1
@@ -142,12 +144,12 @@ def main():
             stats["rows"] += 1
             if args.limit and stats["rows"] > args.limit:
                 break
-            before = {c: row.get(c) for c in ORG_COLUMNS}
+            src_cells = {c: row.get(c) for c in ORG_COLUMNS if (row.get(c) or "").strip()}
             row = process_row(row, matcher, by_raw, by_norm, stats)
             if writer:
                 writer.writerow(row)
             if row[NARR_COL] and len(examples) < 20:
-                examples.append((dict(before), {c: row.get(c) for c in ORG_COLUMNS}, row[NARR_COL]))
+                examples.append((src_cells, row[NARR_COL]))
             if stats["rows"] % 50000 == 0:
                 print(f"...{stats['rows']} rows", file=sys.stderr)
 
@@ -160,14 +162,11 @@ def main():
     print(f"rows changed:     {stats['rows_changed']}")
     print(f"fragment hits:    {stats['frag_hits']}")
     print(f"  -> None parsed: {stats['none_parsed']}")
-    print("\n=== examples ===")
-    for before, after, narr in examples[:12]:
-        print(f"narrative_text: {narr}")
-        for c in ORG_COLUMNS:
-            if (before.get(c) or "") != (after.get(c) or ""):
-                print(f"  {c}:")
-                print(f"    before: {before.get(c)!r}")
-                print(f"    after:  {after.get(c)!r}")
+    print("\n=== examples (source cells left intact; parsed orgs -> narrative_orgs) ===")
+    for src_cells, narr in examples[:12]:
+        print(f"narrative_orgs: {narr}")
+        for c, v in src_cells.items():
+            print(f"  {c}: {v!r}")
         print()
 
 
