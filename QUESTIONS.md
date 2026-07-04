@@ -7,8 +7,41 @@ RAs post questions here when blocked. The human supervisor answers them.
 To edit this file (post questions, write answers), join this queue first. Only the name at the top may edit.
 
 
-
 ## Open Questions
+
+### Q30 (Task 3846, RA-Fleet-2) — PART B university sub-unit nesting needs a parent-canonical ruling before it can run safely
+**Status:** Open
+
+Task 3846 says "find each sub-unit's parent university/college canonical and MERGE-append it as a `chapter`." Executing it, I found the task presumes the parents exist, but many don't, and the UC campuses have **duplicate/inconsistent** parent trees. Before touching ~90 canonicals I need three rulings:
+
+**1. ~15 parent institutions have NO canonical at all.** These sub-units' parents genuinely don't exist anywhere in the crosswalk:
+- Pasadena City College · Rio Hondo College · Norco College · Santa Ana College · Mission College · Saint Mary's College of California · Springfield College · University of Toronto · Ohio State University · Indiana State University · Yeshiva University · University of Michigan · University of Vienna · University of Kansas · University of Alabama at Birmingham (UAB)
+
+Per CLAUDE.md principle #1 I read this as: **create each missing parent as a new top-level canonical, then nest the sub-unit under it.** Confirm? (e.g. create `University of Michigan` → nest `Institute for Social Research, University of Michigan` as a chapter.)
+
+**2. UC campus parent form is duplicated/inconsistent — which exact string is the parent for each campus?** Current state:
+- UCLA → `UCLA` exists (clean)
+- UC Berkeley → `UC Berkeley` exists (clean)
+- UCSF → `UCSF` exists (clean)
+- UC Davis → BOTH `UC Davis` **and** `University of California, Davis` exist as separate trees
+- UC San Diego → BOTH `UC San Diego` **and** `University of California, San Diego` exist as separate trees
+- UC Merced → `University of California, Merced` exists
+- UC Santa Cruz → `University of California Santa Cruz` (no comma) exists; no `UC Santa Cruz` parent
+- UC Irvine → **no clean parent** (only a `University of California Irvine` stub + scattered `University of California, Irvine …` fragments)
+- UC Riverside → **no clean parent**
+- UC Hastings → `UC Hastings College of the Law` and `University of California Hastings College of the Law` both exist
+- UCGHI → no clean parent (only two `University of California Global Health Institute …` center canonicals)
+
+My proposed rule: use the shortest existing clean form where one exists (`UCLA`, `UC Berkeley`, `UCSF`, `UC Davis`, `UC San Diego`, `University of California, Merced`, `University of California Santa Cruz`, `UC Hastings College of the Law`); **create** `UC Riverside`, `University of California, Irvine`, and `University of California Global Health Institute` where none exists. (The `UC Davis` vs `University of California, Davis` and `UC San Diego` vs `University of California, San Diego` duplicate trees are a pre-existing issue I'd leave for global-dedup — I'd just pick the short form.) Confirm the form per campus, or tell me which to canonicalize on.
+
+**3. The grouped worklist section (lines 73-86) is partly unresolvable/ambiguous.** Several shorthand entries don't map cleanly:
+- UCSD "Center for Public" → no clean match in the JSON
+- UCSF "Diabetes Center" and "Department of Psychiatry" each map to **two** duplicate canonicals (`UCSF Diabetes Center` **and** `University of California, San Francisco Diabetes Center`); same for Psychiatry
+- Many campus sub-units exist under 2-3 naming variants each
+
+Proposal: for duplicates, nest **all** matching variants under the campus parent (global-dedup will later merge them); **skip** truly unresolvable shorthand (e.g. UCSD "Center for Public") and I'll list what I skipped. OK, or should the grouped section (lines 73-86) be split into its own separately-enumerated task with exact canonical strings?
+
+**Recommendation:** approve #1 (create missing parents) + #2 (my per-campus form list) + #3 (nest-all-variants, skip-unresolvable) and I'll run the whole of PART B in one pass. Task 3846 left **Blocked**, assignee cleared, pending this ruling.
 
 ### Q29 (Task 3582, RA-Fleet-2) — Task 3582 directly conflicts with task 3587 on where LASPOA (`Los Angeles School Peace Officers Association`) belongs
 **Status:** Answered
