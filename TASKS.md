@@ -11,6 +11,7 @@ Only the RA at the top of this list has write access to project data files (cros
 
 RA-Fleet-1 (task 3832)
 RA-Fleet-3 (task 3833)
+RA-Fleet-2 (task 3834)
 ## Historical Data-Cleaning Log (migrated from README)
 
 These 43 cleaning steps were originally an informal numbered log in `README.md` ("data cleaning" section). They are all **Done** — completed by Ruth (the supervisor) before the RA-fleet task workflow existed. They use **negative IDs** (`-43` … `-1`, in original README order) so they never clash with the numbered fleet tasks (`1`+). The original README step number is preserved in Notes. Quirky source numbering preserved: README step 18 was missing and step "19" appeared twice, plus a trailing "XX".
