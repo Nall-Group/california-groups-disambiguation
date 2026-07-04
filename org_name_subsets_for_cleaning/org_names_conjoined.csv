@@ -7,6 +7,7 @@ County of City of Santa Clara,27
 "Jewish Federation of Greater Los Angeles, the Jewish Federation of the Greater San Gabriel and Pomona Valleys",25
 Planning and Conservation League Sierra Club,24
 Marin and Sacramento Builders Exchanges,22
+"California Innocence Coalition: Northern California Innocence Project, California Innocence Project, Loyola Project for the Innocent",20
 Allied Managed Care and Acclamation Insurance Management Services,19
 Florin Resource Conservation District/elk Grove Water District,18
 Issue | | |days |days,17
@@ -37,6 +38,7 @@ California Association of Health Plans (CAHP) and Association of California Life
 Cities of: Agoura Hills,9
 Jetty Extracts and the Shelter Project,9
 "Defense Council, Planning and Conservation",9
+California Feline Foundation & Valley Animal Center - Fresno,9
 AFL-CIO California Tax Reform Association,8
 Assistance Program/Family Violence Project,8
 Brawley Chamber of Commerce Brea Chamber of Commerce,8
@@ -158,6 +160,7 @@ Western Center on Law & Poverty Department of Consumer Affairs,5
 "Planning and Conservation League, Sierra Club California",5
 County/City Association of Governments,5
 County and Municipal Employees AMVETS,5
+California TCM University Alumni Association and Institute of TCM Seminars,5
 "350 Bay Area, Alameda Interfaith Climate Action Network",4
 "A Better Way, Inc., Community of Friends",4
 AFL-CIO Cement Masons,4
@@ -567,6 +570,9 @@ Counties of San Diego and Sacramento,3
 Prevent Gun Violence united with the Million Mom March,3
 "University of California Employees, American Federation of",3
 "of Independent Business, Inc., Southern California",3
+California Funeral Directors Association and SCI California Funeral Services,3
+"California Rural Legal Assistance Foundation, Center for Community Advocacy, Salinas",3
+"California Innocence Coalition: California Innocence Project, Northern California Innocence Project, Loyola Project for the Innocent",3
 1 |UNKNOWN |Final |YES |UNKNOWN|UNKNOW|UNKNOW|NO |NONE,2
 Bureau of State Audits American Federation of State,2
 350 Bay Area Action and 350 Sacramento,2
@@ -1616,6 +1622,11 @@ Viterbi School of Engineering California State University Northridge,2
 "of San Diego, Motion Analysis Laboratory",2
 "of Southern California, Home Builders Association, Home",2
 "of the Navy, BIOCOM, Industrial Environmental Association",2
+"Builders Association of the Central Coast, Greater Riverside Chambers of Commerce, The Towbes Group, Inc.",2
+"California Council for the Blind, American Institute",2
+California Long-term Care Insurance Services/NorthStar Network Insurance Agency,2
+"California State Association of Electrical Workers, California State Pipe Trades Council",2
+"California Advocates (Twentynine Palms Water District, Association of California Water Agencies)",2
 . ACLHIC and CMTA,1
 "100% Campaign, Blue Shield of California",1
 18 individual employees of Keystone Automotive (Submitted after recent amendments) State Farm Insurance,1
@@ -2842,8 +2853,6 @@ Browning-Ferris Industries and the Wine Institute,1
 "Buenaventura, San Francisco, San Luis Obispo, Santa Clara, Stockton, and Walnut Creek",1
 "Buenaventura, San Luis Obispo, Santa Clara, Walnut Creek",1
 "Buenaventura, Seal Beach, and Rio Vista",1
-"Builders Association of the Central Coast, Greater Riverside Chambers of Commerce, The Towbes Group, Inc.",1
-"Builders Association of the Central Coast, Greater Riverside Chambers of Commerce, The Towbes Group, Inc. [Written to Former Version Of Bill]",1
 Building Decarbonization Coalition and CALSTART,1
 Building Decarbonization Coalition and CALSTART Background,1
 "Building Decarbonization, NRDC",1
@@ -4381,7 +4390,6 @@ City Police Departments of: Alameda,1
 "City Police Departments of: Alhambra, Azusa, Inglewood, La Verne, Long",1
 "City Police Departments of: Azusa, La Verne, and Monrovia",1
 City and County of San Francisco (prior version) Plumbing-Heating-Cooling Contractors Association of California Western Electrical Contractors Association,1
-"City and County of San Francisco, Department on the Status of Women (The Senate Judiciary Committee listed the following supporters: ACLU of California)",1
 City of AB 2010 - 06/20/94 Lakewood,1
 City of AB 618 (Cogdill) Marina Department of Public Safety,1
 City of Adelanto: City of Beaumont,1
@@ -4673,7 +4681,6 @@ City of Murrieta Wildomar Chamber of Commerce,1
 City of National City City of UkiahCity,1
 City of National City Ralph Inzunza,1
 "City of Navy, Department of the, Commander Navy Region Southwest",1
-City of Newport Beach (Prior to Most Recent City of Inglewood),1
 City of Oakland and the City of West,1
 "City of Oakland, Crossroads, Inc",1
 City of Oakland.: Clovis,1
@@ -6767,7 +6774,6 @@ National Association Association,1
 National Association for the Advancement of Colored People and the California State Conference of the NAACP,1
 "National Association of Hazardous Materials Managers, California Chapter and National Coalition Against Prescription Drug Abuse",1
 National Association of Insurance and Financial Advisors of California (NAIFA-California) and California Association of Health Underwriters (CAHU),1
-National Association of Insurance and Financial Advisors of California (prior version_ Western Center on Law and Poverty),1
 National Association of Social Workers Santa Clara County Board of Supervisors,1
 National Association of Social Workers and by the California Society of Clinical Social Work,1
 "National Association of Social Workers, California Chapter National Council of Senior Citizens, Los Angeles Westside Chapter National Lawyers Guild",1
@@ -7687,7 +7693,6 @@ State Fire Marshal & Calif. State Firefighters Assoc,1
 "State Of California Auto Dismantlers Association, The West Coast Chapter Of The Institute Of Scrap Recycling Industries",1
 State Office of Environmental Health Hazard Assessment California Council on Environmental and Economic Balance,1
 "State PTA, California Teachers Association's",1
-State Public Affairs Committee (SPAC State Public Affairs Committee if Jr. Leagues of CA ZERO TO THREE Western Office),1
 State Sheriffs Association (Several individual municipal and superior court judges),1
 State Superintendent of Public Instruction and endorsed by the California Education Roundtable,1
 "State Treasurer Fiona Ma, AT&T, California State Association of Counties, CTIA - the Wireless Association, League of California Cities, Sprint, T-Mobile, Tracfone, Verizon",1
@@ -8357,6 +8362,51 @@ Association and the Regional Council of Rural Counties. There is no,1
 "BOE Member Fiona Ma, California Manufactured Home Institute, Golden State Mobile Home Owners League",1
 "BOE Member Fiona Ma, California Society of Certified Public Accountants, California Taxpayers Association",1
 "Barbara County, Orange County, Pomona Valley, Sacramento, San Diego County, Research Institute, Stanley Foundation",1
+"Bay Area Air Quality Management District, California Council for Environmental and Economic Balance",1
+"Bay Area Council and Urban League, Inc",1
+Bear Valley Community Service District and Kensington Community Service District,1
+"Beverly-Wilshire Home Owners Association, Westside Civic Federation",1
+"Boeing, California Association of Realtors , California Healthcare Institute",1
+"Buckeye Conservancy, The California Farm Bureau Federation",1
+CAHSAH/Home Care Association of America/Maxim Health Care Services/ Home Instead Senior Care,1
+"CAMEO Network, Responsible Business Lending Coalition, Small Business Majority",1
+"CR&R Waste Services, Southern California Contractors Association",1
+"California Air Pollution Control Officers Association, Environmental Defense Fund",1
+"California Alliance of Academics and Communities for Public Health Equity (public Health Institute), and California State PTA",1
+California Association for Independent Living Centers and Traumatic Brain Injury Services of California,1
+"California Coalition for Rural Housing, California Rural Legal Assistance Foundation, Home",1
+California Coastkeeper Alliance and The Otter Project,1
+"California Defense Community Alliance (San Diego Military Advisory Council, Monterey Bay Defense Alliance, Beale Military Liaison Council, China Lake Alliance, Regional Defense Partnership for the 21st Century)",1
+"California Energy Commission, California Chamber",1
+"California Faculty Association, Coalition for Humane Immigrant Rights, and Mexican American Legal Defense & Educational Fund",1
+"California Municipal Utilities Association, Sacramento Municipal Utility District",1
+"California Newspaper Publishers Association, First Amendment Coalition",1
+"California Pan-Ethnic Health Network, California Physicians Alliance",1
+"California Partnership, The California Rural Assistance Foundation",1
+"California Public Defenders Association, California State Council of Service Employees International Union",1
+"California Public Defenders Association, Sister Warriors Freedom Coalition",1
+"California Public Securities Association, Coalition for Adequate",1
+California Radiological Society (CRS) and the California Society of Pathologists (CSP),1
+"California Refuse Removal Council, Republic Services, Waste",1
+"California Reinvestment Coalition, California Society of Enrolled Agents",1
+"California Retailers' Association, California Taxpayers",1
+"California Right to Life Committee Inc., Department of Finance",1
+"California Rural Legal Assistance Foundation, California Farm Bureau Federation",1
+"California Rural Legal Assistance Foundation, Coachella Valley Housing Coalition, Farmers Home",1
+"California Rural Legal Assistance Foundation, Department of Housing and Community Development, Western",1
+"California Society of Certified Professional Accountants, California Taxpayers Association",1
+"California Society of Enrolled Agents, California Taxpayers",1
+"California State Council of Laborers, International Code Council",1
+"California State Pipe Trades Council, Coalition of State Rheumatology Organizations",1
+"Calpine Corporation, California State Association",1
+"Capital Asset Research Corporation, California Chamber",1
+"Center Municipal Water District, Vista Irrigation District, Yuima Municipal Water District",1
+Center and Providence Holy Cross Medical Center,1
+Center for Law and Social Policy/The National Women's Law Center,1
+The Center for Law and Social Policy/The National Women's Law Center,1
+"California Innocence Coalition: Northern California Innocence Project, Loyola Project for the Innocent",1
+"California State Council of Laborers, International Code",1
+California Funeral Directors Association and SCI,1
 "LOCAL 684, AND LOCAL 1245",0
 "Orange County Central Labor Council, UFCW",0
 "Orange County Central Labor Council, UFCW Local 324",0
