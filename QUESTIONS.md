@@ -10,7 +10,8 @@ To edit this file (post questions, write answers), join this queue first. Only t
 ## Open Questions
 
 ### Q30 (Task 3846, RA-Fleet-2) — PART B university sub-unit nesting needs a parent-canonical ruling before it can run safely
-**Status:** Open
+**Status:** Answered
+**Answer (supervisor, relayed by Management-Assistant-2, 2026-07-04):** Approve all three of RA-Fleet-2's proposals. (1) CREATE each of the ~15 missing parent institutions as a new top-level canonical, then nest the sub-unit under it. (2) Use the shortest existing clean UC-campus parent form where one exists (`UCLA`, `UC Berkeley`, `UCSF`, `UC Davis`, `UC San Diego`, `University of California, Merced`, `University of California Santa Cruz`, `UC Hastings College of the Law`); CREATE `UC Riverside`, `University of California, Irvine`, and `University of California Global Health Institute` where none exists. Leave the `UC Davis`/`University of California, Davis` and `UC San Diego`/`University of California, San Diego` duplicate parent trees as-is — a dedicated global-dedup task (newly created) will merge them. (3) For sub-units mapping to multiple duplicate canonicals, nest ALL matching variants under the campus parent (global-dedup will merge later); SKIP truly unresolvable shorthand (e.g. UCSD 'Center for Public') and list what was skipped in the commit message. Task 3846 unblocked (set to Not Started).
 
 Task 3846 says "find each sub-unit's parent university/college canonical and MERGE-append it as a `chapter`." Executing it, I found the task presumes the parents exist, but many don't, and the UC campuses have **duplicate/inconsistent** parent trees. Before touching ~90 canonicals I need three rulings:
 
