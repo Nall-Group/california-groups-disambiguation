@@ -34,14 +34,13 @@ Candidate columns: `leginfo_org, leginfo_bills, suggested_canonical, matched_nam
   the correct hierarchy level (alternate_spelling / chapter / new canonical). Also append a row to
   `org_name_for_cleaning/leginfo_added_to_crosswalk.csv` (`org_name,bills_supported`) so we can track
   what was incorporated.
-- **Non-orgs → separate CSVs IN THIS FOLDER** (NOT the original `org_name_subsets_for_cleaning/`),
-  each `org_name,bills_supported`. Create the file if it doesn't exist yet:
-  - `leginfo_individuals.csv` — a person's name (no identifiable leadership-org)
-  - `leginfo_partial.csv` — fragments / generic single words / "N individuals" placeholders
-  - `leginfo_invalid.csv` — not an org at all (bill text, vote tallies, procedural text)
-  - `leginfo_conjoined.csv` — multiple orgs mashed together
-  - `leginfo_not_capitalized.csv`, `leginfo_narrative.csv`, `leginfo_dates_phones.csv`, `leginfo_starts_with_parens.csv` — as in CLAUDE.md
-  This keeps leginfo `bills_supported` counts separate from the original crosswalk source counts.
+- **Non-orgs → the appropriate CSV in this folder** (all merged into the `org_names_*.csv` files):
+  - `org_names_that_are_actually_individuals.csv` — a person's name (no identifiable leadership-org)
+  - `org_names_partial.csv` — fragments / generic single words / "N individuals" placeholders
+  - `org_names_invalid.csv` — not an org at all (bill text, vote tallies, procedural text)
+  - `org_names_conjoined.csv` — multiple orgs mashed together
+  - `org_names_that_are_dates_or_phone_numbers.csv` — dates or phone numbers
+  - `org_names_that_start_with_parens.csv` — names starting with parentheses
 
 ## General principles (see CLAUDE.md "General Crosswalk Workflow Principles")
 

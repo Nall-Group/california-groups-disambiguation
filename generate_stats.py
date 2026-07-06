@@ -28,7 +28,7 @@ def generate_stats():
         stats['total_in_crosswalk'] = total
 
     # 2. Org names not in crosswalk
-    with open('org_name_subsets_for_cleaning/org_names_not_in_crosswalk.csv', 'r') as f:
+    with open('org_name_for_cleaning/org_names_not_in_crosswalk.csv', 'r') as f:
         reader = csv.reader(f)
         next(reader)  # skip header
         stats['not_in_crosswalk'] = sum(1 for row in reader if row)
@@ -36,19 +36,17 @@ def generate_stats():
     # 3. Invalid org names (sum of all invalid files)
     invalid_files = [
         'org_names_invalid.csv',
-        'org_names_not_capitalized.csv',
         'org_names_that_are_dates_or_phone_numbers.csv',
         'org_names_that_start_with_parens.csv',
         'org_names_partial.csv',
         'org_names_that_are_actually_individuals.csv',
         'org_names_conjoined.csv',
-        'org_names_embedded_in_narrative_text.csv'
     ]
 
     invalid_count = 0
     for filename in invalid_files:
         try:
-            with open(f'org_name_subsets_for_cleaning/{filename}', 'r') as f:
+            with open(f'org_name_for_cleaning/{filename}', 'r') as f:
                 reader = csv.reader(f)
                 next(reader)  # skip header
                 count = sum(1 for row in reader if row)

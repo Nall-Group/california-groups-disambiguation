@@ -159,9 +159,7 @@ The routing CSVs in `org_name_for_cleaning/`:
 | `leginfo_invalid.csv` | not an org at all (bill text, vote tallies, procedural text) |
 | `leginfo_dates_phones.csv` | dates or phone numbers |
 | `leginfo_starts_with_parens.csv` | names starting with parentheses |
-| `leginfo_narrative.csv` | narrative-embedded prose with org names |
 | `leginfo_conjoined.csv` | multiple orgs joined together |
-| `leginfo_not_capitalized.csv` | improper capitalization |
 | `leginfo_added_to_crosswalk.csv` | valid orgs added to the crosswalk (tracking) |
 
 > **Leadership ≠ individual.** "Person, Org" where the person is a Mayor / President /

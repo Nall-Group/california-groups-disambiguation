@@ -11,7 +11,7 @@ Note that you shouldn't remove entries unless they are exact duplicates since we
 When an entry in the crosswalk turns out to not be a real organization, two things need to happen:
 
 1. **Remove it from the crosswalk JSON** (`2_webapp/org_clusters_crosswalk.json`)
-2. **Move its CSV row** (including the count) from whichever source file it's in (`org_name_subsets_for_cleaning/org_names_in_crosswalk.csv` or `org_name_subsets_for_cleaning/org_names_not_in_crosswalk.csv`) to the appropriate invalidity file in `org_name_subsets_for_cleaning/`:
+2. **Move its CSV row** (including the count) from whichever source file it's in (`org_name_for_cleaning/org_names_in_crosswalk.csv` or `org_name_for_cleaning/org_names_not_in_crosswalk.csv`) to the appropriate invalidity file in `org_name_for_cleaning/`:
 
 | File | What goes here |
 |------|---------------|
@@ -19,8 +19,6 @@ When an entry in the crosswalk turns out to not be a real organization, two thin
 | `org_names_partial.csv` | Incomplete/fragment names (e.g. "LOS", "SAN") |
 | `org_names_conjoined.csv` | Multiple orgs joined together (e.g. "Sierra Club Planning and Conservation League") |
 | `org_names_invalid.csv` | Not organizations at all (e.g. legislative bills, procedural text like "GOVERNOR'S VETO MESSAGE") |
-| `org_names_not_capitalized.csv` | Improper capitalization |
-| `org_names_embedded_in_narrative_text.csv` | Org names buried in longer prose |
 | `org_names_that_start_with_parens.csv` | Names starting with parentheses |
 | `org_names_that_are_dates_or_phone_numbers.csv` | Dates or phone numbers |
 
@@ -79,7 +77,7 @@ The management assistant is a dedicated Claude Code session that coordinates bet
 
 **Recurring dirty patterns → propose a cleaning pattern:** When a scan surfaces **3+ entries sharing the same strippable boilerplate** — a suffix, a prefix, OR text in the **middle** of the string (e.g. an embedded page footer/header, "Page N of M", scan metadata, `, sponsor of the bill`, `(N letters)`, `- dated 3/1/2024`) — don't just file individual cleanup tasks. Post a reusable-regex proposal to QUESTIONS.md for supervisor sign-off (regex + 2-3 before→after examples + 1-2 near-misses it must NOT match + affected-entry count). If you're unsure whether it's a real recurring pattern or how to scope it, just ask in QUESTIONS.md. Never edit `cleaning_patterns.txt` directly; once approved it becomes a task that adds the pattern and runs the full pipeline. See "Proposing new cleaning patterns" in the Worker RA Role.
 
-**Narrative-embedded text (always check for this):** On every scan, flag org names buried in longer prose (e.g. "In to the bill, the California Hospital Association writes in support..."). For each, create a task whose RA workflow is: (1) **extract** the real org name from the prose; (2) **search the crosswalk first** — it's most likely already present as a canonical/chapter/alt; add a new canonical only if it genuinely isn't anywhere; (3) **move the CSV row** (org_name + count) into `org_name_subsets_for_cleaning/org_names_embedded_in_narrative_text.csv`, remove the narrative string from the JSON, and never reuse the narrative prose itself as an alt spelling; (4) run the clean/dedup/stats pipeline before committing and follow the Data Write Queue.
+**Narrative-embedded text (always check for this):** On every scan, flag org names buried in longer prose (e.g. "In to the bill, the California Hospital Association writes in support..."). For each, create a task whose RA workflow is: (1) **extract** the real org name from the prose; (2) **search the crosswalk first** — it's most likely already present as a canonical/chapter/alt; add a new canonical only if it genuinely isn't anywhere; (3) remove the narrative string from the JSON and never reuse the narrative prose itself as an alt spelling; (4) run the clean/dedup/stats pipeline before committing and follow the Data Write Queue.
 
 **Task proposal format:** When presenting proposed tasks to the human for review:
 - For each task, briefly explain what the RA will DO (the workflow/instructions), not just list the entries
@@ -113,7 +111,7 @@ These apply to ALL task types (consolidation, OCR fixes, conjoined splitting, na
 
 5. **Conjoined entries: check before adding.** When splitting a conjoined entry, search the crosswalk for each individual org. They're most likely already present. Only add new canonicals for orgs that genuinely aren't anywhere in the crosswalk.
 
-6. **Narrative/dirty entries with extractable org names:** Identify the embedded org and search the crosswalk (most likely already present). For dirty entries, make the dirty version an alt spelling or chapter of the clean org — placed at the correct hierarchy level. For narrative entries, **extract** the clean org name (don't use the narrative text as an alt spelling) and ensure the org exists in the crosswalk. Move the CSV row to the appropriate invalidity CSV. If the org genuinely isn't in the crosswalk, add it as a new canonical.
+6. **Narrative/dirty entries with extractable org names:** Identify the embedded org and search the crosswalk (most likely already present). For dirty entries, make the dirty version an alt spelling or chapter of the clean org — placed at the correct hierarchy level. For narrative entries, **extract** the clean org name (don't use the narrative text as an alt spelling) and ensure the org exists in the crosswalk. If the org genuinely isn't in the crosswalk, add it as a new canonical.
 
 ## Worker RA Role
 
@@ -130,7 +128,7 @@ Each worker RA session is given a name by the user (e.g. "RA-Alpha", "RA-Beta").
 
 **CSV handling rules:**
 - **Consolidating within the crosswalk** (reorganizing existing entries): No CSV changes needed.
-- **Adding or removing an item from the crosswalk**: Figure out which CSV in `org_name_subsets_for_cleaning/` the org name should be in, move the row (including its frequency count) to the correct CSV, and remove it from the original CSV to avoid duplicates.
+- **Adding or removing an item from the crosswalk**: Figure out which CSV in `org_name_for_cleaning/` the org name should be in, move the row (including its frequency count) to the correct CSV, and remove it from the original CSV to avoid duplicates.
 - **If orgs are moved in or out of the crosswalk**: Run the cleaning/dedup/stats pipeline before committing (see below).
 
 **Cleaning & deduplication pipeline** (run in this order):

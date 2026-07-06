@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-Regenerate org_name_subsets_for_cleaning CSVs by re-checking all names
+Regenerate org_name_for_cleaning CSVs by re-checking all names
 against the current crosswalk.
 
 Names that are now in the crosswalk (regardless of original category) move
@@ -30,14 +30,13 @@ from org_matching_utils import normalize_for_matching, clean_org_name, load_clea
 # Paths
 # ---------------------------------------------------------------------------
 CROSSWALK_PATH = PROJECT_ROOT / "2_webapp" / "org_clusters_crosswalk.json"
-SUBSETS_DIR = PROJECT_ROOT / "org_name_subsets_for_cleaning"
+SUBSETS_DIR = PROJECT_ROOT / "org_name_for_cleaning"
 
-# All 9 CSV files, keyed by a short label
+# All CSV files, keyed by a short label
 CSV_FILES = {
     "in_crosswalk":   "org_names_in_crosswalk.csv",
     "not_in_crosswalk": "org_names_not_in_crosswalk.csv",
     "invalid":        "org_names_invalid.csv",
-    "not_capitalized": "org_names_not_capitalized.csv",
     "dates_phones":   "org_names_that_are_dates_or_phone_numbers.csv",
     "parens":         "org_names_that_start_with_parens.csv",
     "partial":        "org_names_partial.csv",
@@ -50,7 +49,6 @@ CSV_FILES = {
 BUCKET_PRIORITY = [
     "in_crosswalk",
     "not_in_crosswalk",
-    "not_capitalized",
     "individuals",
     "conjoined",
     "partial",
