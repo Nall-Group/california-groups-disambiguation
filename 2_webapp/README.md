@@ -97,5 +97,4 @@ Both apps use `2_webapp/org_clusters_crosswalk.json` as their data source. The C
 ## Links
 
 - [GitHub Pages App](https://nall-group.github.io/california-groups-disambiguation/)
-- [Disambiguation Summary CSV](https://github.com/Nall-Group/california-groups-disambiguation/blob/main/disambiguation_summary.csv)
 - [Report Issues](https://github.com/Nall-Group/california-groups-disambiguation/issues)

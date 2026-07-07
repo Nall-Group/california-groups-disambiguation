@@ -17,7 +17,7 @@ Future feature: add fuzzy search feature to disambiguation tool
 
 ## data cleaning
 
-directory: `org_name_for_cleaning/`
+directory: `org_names_for_cleaning/`
 
 ### Importing new Leginfo metadata
 
@@ -103,7 +103,7 @@ The cleaning/deduplication/stats pipeline is documented in `CLAUDE.md`
 or `cleaning_patterns.txt` changes:
 
 1. `python3 scripts/clean_crosswalk.py` — apply `cleaning_patterns.txt`, dedup children, merge clusters that normalize identically.
-2. `python3 scripts/regenerate_org_subsets.py` — re-check all org names against the crosswalk and redistribute the `org_name_for_cleaning/` CSVs.
+2. `python3 scripts/regenerate_org_subsets.py` — re-check all org names against the crosswalk and redistribute the `org_names_for_cleaning/` CSVs.
 3. `python3 generate_stats.py` — update `stats.json`.
 
 ## Invalid Organization Names

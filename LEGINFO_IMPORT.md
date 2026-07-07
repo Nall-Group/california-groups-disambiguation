@@ -4,8 +4,8 @@ A runnable playbook for pulling organization names out of the Leginfo bill metad
 resolving them against the crosswalk, and routing whatever's left to the right place.
 
 The goal: every org that supported or opposed a bill in Leginfo ends up either (a) in
-the crosswalk at the correct hierarchy level, or (b) in the correct `leginfo_*.csv`
-invalidity file. No org string is ever discarded.
+the crosswalk at the correct hierarchy level, or (b) in the correct `org_names_*.csv`
+invalidity file in `org_names_for_cleaning/`. No org string is ever discarded.
 
 ---
 
@@ -22,10 +22,10 @@ invalidity file. No org string is ever discarded.
 - Each cell is a `;`-separated list of org names (often dirty: OCR typos, trailing
   metadata, narrative prose, multiple orgs mashed together).
 - **Destination:** the crosswalk JSON (`2_webapp/org_clusters_crosswalk.json`) plus the
-  routing CSVs in `org_name_for_cleaning/`.
+  routing CSVs in `org_names_for_cleaning/`.
 
 See `CLAUDE.md` ("General Crosswalk Workflow Principles") and
-`org_name_for_cleaning/README.md` for the rules this playbook builds on.
+`org_names_for_cleaning/README.md` for the rules this playbook builds on.
 
 ---
 
@@ -79,8 +79,7 @@ What it does:
 - For each of the five org columns plus `narrative_orgs`, splits the cell on `;`.
 - Cleans each name with the regex patterns in `cleaning_patterns.txt` (strips trailing
   metadata like dates, positions, counts).
-- Checks each cleaned name against the crosswalk and writes a summary
-  (`org_names_summary.csv`).
+- Checks each cleaned name against the crosswalk.
 
 Output is the raw universe of orgs that appear in Leginfo, with counts.
 
@@ -110,7 +109,7 @@ orgs need no further work beyond being noted as matched.
 
 The orgs that did **not** match the crosswalk in step 3 (tracked in the unmatched list)
 are the remaining work. Each one either gets **added to the crosswalk** or it belongs in
-one of the `leginfo_*.csv` files in `org_name_for_cleaning/`.
+one of the `org_names_*.csv` files in `org_names_for_cleaning/`.
 
 > **No shortcuts.** Examine every org individually and confirm it's genuinely the same
 > organization before merging — a fuzzy/string resemblance is a hint, not a decision.
@@ -126,7 +125,7 @@ real org name(s):
   Club Planning and Conservation League"). Split it into its individual orgs.
 - **Partial** — a truncated/fragment name (e.g. "California Coalition for"). If the full
   org name is unambiguous (search the crosswalk and the web), resolve it to that full org.
-  Only route to `leginfo_partial.csv` if it's truly ambiguous after both searches.
+  Only route to `org_names_partial.csv` if it's truly ambiguous after both searches.
 
 Once a partial or conjoined entry is resolved into one or more real organizations:
 
@@ -134,7 +133,7 @@ Once a partial or conjoined entry is resolved into one or more real organization
    `;`-separated entry in the source cell (mirroring how the narrative step writes back to
    the source).
 2. Move the original partial/conjoined string (with its count) into
-   `org_name_for_cleaning/leginfo_partial.csv` or `leginfo_conjoined.csv`.
+   `org_names_for_cleaning/org_names_partial.csv` or `org_names_conjoined.csv`.
 3. Each resolved org then flows through step 4b / 4c like any other org — search the
    crosswalk first; most are already present.
 
@@ -143,23 +142,22 @@ Once a partial or conjoined entry is resolved into one or more real organization
 Handle the invalid (non-org) strings in two passes:
 
 1. **Filter out already-routed entries.** Compare the remaining list against **all** existing
-   entries in the `leginfo_*.csv` files in `org_name_for_cleaning/`. Drop anything that
+   entries in the `org_names_*.csv` files in `org_names_for_cleaning/`. Drop anything that
    already matches one — it's already routed, so remove it from the working list (don't
    add a duplicate).
 2. **Route newly-found invalids.** Of what's left, identify any string that isn't a real
    organization, append it to the correct CSV (each `org_name,bills_supported`), and filter
    it out of the working list too.
 
-The routing CSVs in `org_name_for_cleaning/`:
+The routing CSVs in `org_names_for_cleaning/`:
 
 | File | What goes here |
 |------|---------------|
-| `leginfo_individuals.csv` | a person's name with no identifiable leadership-org |
-| `leginfo_partial.csv` | fragments, generic single words (`Author`, `County`, `Union`…), `N individuals` placeholders |
-| `leginfo_invalid.csv` | not an org at all (bill text, vote tallies, procedural text) |
-| `leginfo_dates_phones.csv` | dates or phone numbers |
-| `leginfo_starts_with_parens.csv` | names starting with parentheses |
-| `leginfo_conjoined.csv` | multiple orgs joined together |
+| `org_names_that_are_actually_individuals.csv` | a person's name with no identifiable leadership-org |
+| `org_names_partial.csv` | fragments, generic single words (`Author`, `County`, `Union`…), `N individuals` placeholders |
+| `org_names_invalid.csv` | not an org at all (bill text, vote tallies, procedural text, dates, phone numbers) |
+| `org_names_that_start_with_parens.csv` | names starting with parentheses |
+| `org_names_conjoined.csv` | multiple orgs joined together |
 | `leginfo_added_to_crosswalk.csv` | valid orgs added to the crosswalk (tracking) |
 
 > **Leadership ≠ individual.** "Person, Org" where the person is a Mayor / President /
@@ -187,7 +185,7 @@ The routing CSVs in `org_name_for_cleaning/`:
    - **alternate spelling of a chapter**.
 5. Only **create a new canonical** if the org genuinely isn't anywhere in the crosswalk
    after both searches (this is rare).
-6. Append a row to `org_name_for_cleaning/leginfo_added_to_crosswalk.csv`
+6. Append a row to `org_names_for_cleaning/leginfo_added_to_crosswalk.csv`
    (`org_name,bills_supported`) so we track what was incorporated.
 
 ---
@@ -202,8 +200,8 @@ python3 scripts/regenerate_org_subsets.py # re-check names against crosswalk, re
 python3 generate_stats.py                 # update stats.json
 ```
 
-Then commit — stage **only** the files you changed (crosswalk JSON, the `leginfo_*.csv`
-files in `org_name_for_cleaning/`, `stats.json`). Never `git add -A`. One unit of work
+Then commit — stage **only** the files you changed (crosswalk JSON, the `org_names_*.csv`
+files in `org_names_for_cleaning/`, `stats.json`). Never `git add -A`. One unit of work
 per commit.
 
 ---
@@ -235,7 +233,7 @@ of the same union). Each canonical should appear at most once per cell.
 | Step | Tool / file |
 |------|-------------|
 | 1. Resolve narrative | `apply_narrative_to_leginfo.py` (+ `narrative_org_mapping.tsv`) → `narrative_orgs` column |
-| 2. Pull the orgs | `extract_org_names.py` → `org_names_summary.csv` |
+| 2. Pull the orgs | `extract_org_names.py` → extract all org names from metadata |
 | 3. Match crosswalk | identify matched vs. unmatched + track unmatched orgs |
 | 4. Resolve remaining | 4a partials/conjoined → 4b invalid CSVs → 4c valid → crosswalk |
 | 5. Pipeline & commit | `clean_crosswalk.py` → `regenerate_org_subsets.py` → `generate_stats.py` |

@@ -32,14 +32,13 @@ Candidate columns: `leginfo_org, leginfo_bills, suggested_canonical, matched_nam
 
 - **Real organizations → the crosswalk JSON** (`2_webapp/org_clusters_crosswalk.json`), placed at
   the correct hierarchy level (alternate_spelling / chapter / new canonical). Also append a row to
-  `org_name_for_cleaning/leginfo_added_to_crosswalk.csv` (`org_name,bills_supported`) so we can track
+  `org_names_for_cleaning/leginfo_added_to_crosswalk.csv` (`org_name,bills_supported`) so we can track
   what was incorporated.
 - **Non-orgs → the appropriate CSV in this folder** (all merged into the `org_names_*.csv` files):
   - `org_names_that_are_actually_individuals.csv` — a person's name (no identifiable leadership-org)
   - `org_names_partial.csv` — fragments / generic single words / "N individuals" placeholders
-  - `org_names_invalid.csv` — not an org at all (bill text, vote tallies, procedural text)
+  - `org_names_invalid.csv` — not an org at all (bill text, vote tallies, procedural text, dates, phone numbers)
   - `org_names_conjoined.csv` — multiple orgs mashed together
-  - `org_names_that_are_dates_or_phone_numbers.csv` — dates or phone numbers
   - `org_names_that_start_with_parens.csv` — names starting with parentheses
 
 ## General principles (see CLAUDE.md "General Crosswalk Workflow Principles")
@@ -76,9 +75,9 @@ real entry in the crosswalk, decide deliberately:
 No fuzzy candidate. For each org:
 1. **Search the crosswalk** (try acronym↔full-name, word reorderings). If found → add at correct level.
 2. Else **web-search** to identify. If a real org → add as a **new canonical** at correct hierarchy.
-3. Else **route to a `leginfo_*.csv`**: `Numerous/N/An individuals` placeholders → `leginfo_partial.csv`;
-   single generic words (`Author`, `County`, `Association`, `CIO`, `Union`…) → `leginfo_partial.csv`;
-   real person names → `leginfo_individuals.csv`; multiple orgs → `leginfo_conjoined.csv`; etc.
+3. Else **route to an `org_names_*.csv`**: `Numerous/N/An individuals` placeholders → `org_names_partial.csv`;
+   single generic words (`Author`, `County`, `Association`, `CIO`, `Union`…) → `org_names_partial.csv`;
+   real person names → `org_names_that_are_actually_individuals.csv`; multiple orgs → `org_names_conjoined.csv`; etc.
 
 ## Pipeline & commit (per task)
 After editing the crosswalk JSON, run in order:

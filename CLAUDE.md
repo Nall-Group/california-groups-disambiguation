@@ -11,16 +11,15 @@ Note that you shouldn't remove entries unless they are exact duplicates since we
 When an entry in the crosswalk turns out to not be a real organization, two things need to happen:
 
 1. **Remove it from the crosswalk JSON** (`2_webapp/org_clusters_crosswalk.json`)
-2. **Move its CSV row** (including the count) from whichever source file it's in (`org_name_for_cleaning/org_names_in_crosswalk.csv` or `org_name_for_cleaning/org_names_not_in_crosswalk.csv`) to the appropriate invalidity file in `org_name_for_cleaning/`:
+2. **Move its CSV row** (including the count) from whichever source file it's in (`org_names_for_cleaning/org_names_in_crosswalk.csv` or `org_names_for_cleaning/org_names_not_in_crosswalk.csv`) to the appropriate invalidity file in `org_names_for_cleaning/`:
 
 | File | What goes here |
 |------|---------------|
 | `org_names_that_are_actually_individuals.csv` | People's names (e.g. "Attorney General Rob Bonta"). **Exception:** If the person holds a leadership role (Mayor, President, Director, Sheriff, Chief, Superintendent, CEO, Chair, etc.) at an identifiable org, make the entry an alternate spelling of that org instead. Only move to individuals CSV if no org is identifiable or the person is just a member/employee, not a leader. |
 | `org_names_partial.csv` | Incomplete/fragment names (e.g. "LOS", "SAN") |
 | `org_names_conjoined.csv` | Multiple orgs joined together (e.g. "Sierra Club Planning and Conservation League") |
-| `org_names_invalid.csv` | Not organizations at all (e.g. legislative bills, procedural text like "GOVERNOR'S VETO MESSAGE") |
+| `org_names_invalid.csv` | Not organizations at all (e.g. legislative bills, procedural text like "GOVERNOR'S VETO MESSAGE", dates, phone numbers) |
 | `org_names_that_start_with_parens.csv` | Names starting with parentheses |
-| `org_names_that_are_dates_or_phone_numbers.csv` | Dates or phone numbers |
 
 All CSVs use the same format: `org_name,count` — move the entire row including the count.
 
@@ -128,7 +127,7 @@ Each worker RA session is given a name by the user (e.g. "RA-Alpha", "RA-Beta").
 
 **CSV handling rules:**
 - **Consolidating within the crosswalk** (reorganizing existing entries): No CSV changes needed.
-- **Adding or removing an item from the crosswalk**: Figure out which CSV in `org_name_for_cleaning/` the org name should be in, move the row (including its frequency count) to the correct CSV, and remove it from the original CSV to avoid duplicates.
+- **Adding or removing an item from the crosswalk**: Figure out which CSV in `org_names_for_cleaning/` the org name should be in, move the row (including its frequency count) to the correct CSV, and remove it from the original CSV to avoid duplicates.
 - **If orgs are moved in or out of the crosswalk**: Run the cleaning/dedup/stats pipeline before committing (see below).
 
 **Cleaning & deduplication pipeline** (run in this order):
