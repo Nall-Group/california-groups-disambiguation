@@ -7,6 +7,20 @@ The goal: every org that supported or opposed a bill in Leginfo ends up either (
 the crosswalk at the correct hierarchy level, or (b) in the correct `org_names_*.csv`
 invalidity file in `org_names_for_cleaning/`. No org string is ever discarded.
 
+> ### ⚠️ Read every entry. This is AI work, not a script.
+>
+> Except for the single deterministic exact-match pass in step 1, **every judgment in this
+> playbook must be made by an AI actually reading the entry** — one at a time. Is this cell a
+> clean list or narrative prose? What organization is buried in the prose? Is this string
+> even an organization? Is it the same org as one already in the crosswalk? Read it and
+> decide.
+>
+> **Never substitute a regex, keyword list, capitalization rule, fuzzy-match threshold,
+> lookup table, or any other heuristic for that reading.** Heuristics silently miss cases and
+> cannot be trusted here — a prose-detection regex we tried flagged ~8,000 cells when the
+> true count was closer to ~30,000. There are no shortcuts in step 2: when in doubt, read it,
+> every single one.
+
 ---
 
 ## 0. Background
@@ -20,7 +34,10 @@ invalidity file in `org_names_for_cleaning/`. No org string is ever discarded.
   - `support_with_amendments`
   - `sponsor`
 - Each cell is a `;`-separated list of org names (often dirty: OCR typos, trailing
-  metadata, narrative prose, multiple orgs mashed together).
+  metadata, narrative prose, multiple orgs mashed together). Some cells are not a list at
+  all but a chunk of **narrative prose** (e.g. "In support of the bill, the California
+  Hospital Association writes…"). Those are handled in the resolution scan (step 2), not
+  up front.
 - **Destination:** the crosswalk JSON (`2_webapp/org_clusters_crosswalk.json`) plus the
   routing CSVs in `org_names_for_cleaning/`.
 
@@ -29,35 +46,10 @@ See `CLAUDE.md` ("General Crosswalk Workflow Principles") and
 
 ---
 
-## 1. Resolve narrative text with AI
+## 1. Straight matching (deterministic)
 
-Some org cells contain prose instead of a clean org name (e.g.
-"In support of the bill, the California Hospital Association writes…"). Narrative text
-appears in all five org columns (worst in `opposition_unless_amended` at ~23%, least in
-`sponsor` at ~0.4%).
-
-**This is not a script.** There is no lookup table or automated matching. Subagents
-individually read each `;`-separated item from the five org columns and classify it:
-
-- **Clean org name** → copy as-is into the `narrative_orgs` column.
-- **Narrative text with extractable org(s)** → extract the real org name(s) and write
-  those into the `narrative_orgs` column. Do not use the narrative prose itself.
-- **Narrative text with no extractable org** → record `None parsed` in the
-  `narrative_orgs` column.
-
-The `narrative_orgs` column uses ` || ` as a separator between entries. Each entry is
-tagged with its source column (e.g. `support: California Hospital Association`).
-
-The original org columns are **never modified** — they stay exactly as the parser
-produced them. The narrative prose is never reused as an alt spelling; only the parsed
-org name flows forward via `narrative_orgs`.
-
----
-
-## 2. Pull the orgs
-
-Extract and clean every org name from the five org columns (the four stance columns plus
-`sponsor`) **and the new `narrative_orgs` column**, and check each against the crosswalk.
+Pull and clean every org name from the five org columns and match each against the
+crosswalk. This pass is **pure script — no AI, no narrative handling.**
 
 ```bash
 python3 extract_org_names.py
@@ -65,10 +57,11 @@ python3 extract_org_names.py
 
 What it does:
 - Reads `leginfo_metadata.csv` line by line (the file is large — streamed, not loaded).
-- For each of the five org columns plus `narrative_orgs`, splits the cell on `;`.
+- For each of the five org columns, splits the cell on `;`.
 - Cleans each name with the regex patterns in `cleaning_patterns.txt` (strips trailing
   metadata like dates, positions, counts).
-- Checks each cleaned name against the crosswalk.
+- Checks each cleaned name against the crosswalk. **Matched orgs are done** for now (their
+  canonical name gets written in the final step).
 - **Filters out already-routed orgs** — compares against all existing `org_names_*.csv`
   files in `org_names_for_cleaning/` (invalids, individuals, partials, conjoined, etc.).
   Orgs already in one of those files are skipped (not re-added to `not_in_crosswalk.csv`).
@@ -77,74 +70,105 @@ What it does:
 - Writes `org_names_import_summary.csv` with status for every org: `in_crosswalk`,
   `already_routed` (with which CSV), or `unmatched`.
 - **Routes genuinely new unmatched orgs** into
-  `org_names_for_cleaning/org_names_not_in_crosswalk.csv` so they can be resolved.
+  `org_names_for_cleaning/org_names_not_in_crosswalk.csv`.
+
+**Prose falls through here on purpose.** A narrative cell won't cleanly match the
+crosswalk, so it lands in the unmatched pile like any other non-match. We do **not** try
+to detect or fix prose in this pass — that happens in step 2, where the subagent can read
+each cell whole.
 
 ---
 
-## 3. See what's already in the crosswalk
+## 2. Resolution scan
 
-In this step we just **identify** which orgs already match the crosswalk and which don't.
-For each of the five org columns, match every org against the crosswalk. The five
-canonical columns we're working toward (filled later, in step 6) are:
+Everything that didn't straight-match in step 1 is resolved by a **parallel diagnosis scan
+that writes the fleet's cleaning tasks.** Sub-agents read the unmatched items, decide exactly
+what each one needs, and emit those decisions as bundled RA cleaning tasks in `TASKS.md`; the
+fleet then works those tasks with the usual Worker RA discipline. The hard part — the judgment
+— is parallelized across the scan; the writes are left to the fleet under the data write
+queue. There is no separate "apply" step: the scan produces the tasks, the fleet executes
+them.
 
-| Org column | New canonical-name column |
-|------------|---------------------------|
-| `support` | `support_canonical` |
-| `opposition` | `opposition_canonical` |
-| `opposition_unless_amended` | `opposition_unless_amended_canonical` |
-| `support_with_amendments` | `support_with_amendments_canonical` |
-| `sponsor` | `sponsor_canonical` |
+### The diagnosis scan (parallel sub-agents)
 
-**Keep track of the orgs that did not match** — record every unmatched org (with its
-source column and count) so nothing is lost. These are the input to step 4. The matched
-orgs need no further work beyond being noted as matched.
+Partition the worklist — step 1's deduped unmatched orgs (`org_names_not_in_crosswalk.csv`)
+plus the source cells that still hold unmatched content (prose / conjoined / dirty cells that
+need a whole-cell read) — into **~15-item batches, one sub-agent per batch.** Small batches so
+every item gets a careful read, a crosswalk search, and a web lookup when needed.
 
----
+**This is AI reading, not a script.** Each sub-agent reads every item in its batch
+individually, working from the **whole source cell** (never a `;`-fragment) so it can
+recognize narrative prose and pull the real org out with full context. No regex, keyword
+list, or heuristic decides anything.
 
-## 4. Resolve the remaining orgs
+**What the sub-agent does with its batch.** For every item it works out the disposition (see
+"How each item is diagnosed" below), and the work splits by who applies it:
 
-The orgs that did **not** match the crosswalk in step 3 are now in
-`org_names_for_cleaning/org_names_not_in_crosswalk.csv` (placed there by
-`extract_org_names.py`). Each one either gets **added to the crosswalk** or it belongs in
-one of the `org_names_*.csv` invalidity files in `org_names_for_cleaning/`.
+- **The scanner writes the CSV edits itself** — invalid and ambiguous-partial strings go
+  straight into the routing CSVs. It also **records** each prose/conjoined cell's resolved
+  org(s), which are applied to `leginfo_metadata.csv` once, in step 4. **RAs never touch a CSV
+  or the source file.**
+- **Valid orgs not already in the crosswalk become one bundled RA cleaning task** in
+  `TASKS.md` — "add these orgs to the crosswalk." The RA edits **only the crosswalk JSON**.
+  Bundling is deliberate: because the bottleneck is *write access* (the data write queue), not
+  commits, the RA grabs the queue **once**, adds all the batch's valid orgs, and commits
+  **once** with a message that **enumerates every change**, deferring the clean/dedup/stats
+  pipeline to step 3.
 
-> **No shortcuts.** Examine every org individually and confirm it's genuinely the same
-> organization before merging — a fuzzy/string resemblance is a hint, not a decision.
+### How each item is diagnosed
 
-Work in this order.
+**Is the cell narrative prose?** Judge the cell as a whole: a `;`-separated list of
+organizations, or narrative prose (e.g. "In support of the bill, the California Hospital
+Association writes…")?
 
-### 4a. Partials and conjoined entries first
+- **Prose with extractable org(s)** → extract the real org name(s); the scanner **records the
+  cell's resolved org(s)** (used in step 4 to fill the canonical column and rewrite the cell)
+  and runs those orgs through the checks below. The prose itself is discarded — never kept,
+  never reused as an alt spelling.
+- **Prose with no extractable org** → route the original string to `org_names_invalid.csv`
+  so it's still accounted for.
+- **Already a clean list** → nothing to rewrite.
 
-Before anything else, check each unmatched org for two cases that need to be resolved into
-real org name(s):
+After this step the cell is a clean `;`-separated list of candidate orgs — whether it
+started as one or was just extracted from prose.
 
-- **Conjoined** — one string is actually multiple organizations combined (e.g. "Sierra
-  Club Planning and Conservation League"). Split it into its individual orgs.
-- **Partial** — a truncated/fragment name (e.g. "California Coalition for"). If the full
-  org name is unambiguous (search the crosswalk and the web), resolve it to that full org.
-  Only route to `org_names_partial.csv` if it's truly ambiguous after both searches.
+**Clean each org and check the crosswalk.** Normalize each candidate org with the cleaning
+regexes (`cleaning_patterns.txt`) — the same strip step as straight matching, removing
+trailing/parenthetical metadata (dates, positions, vote counts, `(sponsor)`,
+`(previous version)`, …) — and look the cleaned name up in the crosswalk. **If it's already
+there, you're done with that org** — nothing to add. This cleaning is **only for the lookup**;
+do **not** write the cleaned value anywhere. Cleaning is deterministic and cheap, so the
+canonical-matching pass (step 4) simply re-cleans the source when it needs to — there's no
+cell to rewrite here. (Standalone parentheticals collapse to nothing when cleaned, so there's
+no "starts with a paren" case to handle.)
 
-Once a partial or conjoined entry is resolved into one or more real organizations:
+**Triage: invalid, partial, or conjoined.** Read each candidate org yourself and filter it
+through three checks — this is the pass that removes everything that isn't a single, clean,
+valid organization. Judge each one individually; do **not** script, regex, or heuristic this
+classification — actually read it. Handle **conjoined first**, because splitting produces new
+strings that must themselves be triaged.
 
-1. **Fix the source `leginfo_metadata.csv`** so each resolved org is a separate
-   `;`-separated entry in the source cell (mirroring how the narrative step writes back to
-   the source).
-2. Move the original partial/conjoined string (with its count) into
-   `org_names_for_cleaning/org_names_partial.csv` or `org_names_conjoined.csv`.
-3. Each resolved org then flows through step 4b / 4c like any other org — search the
-   crosswalk first; most are already present.
+- **Conjoined** — the string is actually multiple organizations mashed together (e.g.
+  "Sierra Club Planning and Conservation League"). Split it into its individual orgs; the
+  scanner **records them as the cell's resolved orgs** (applied in step 4). **Do not preserve
+  the conjoined string** — it isn't a real org, and its bill count carries forward on the
+  split-out orgs. Do **not** route it to any CSV: a conjoined string sitting in a routing CSV
+  gets treated as already-routed by straight matching and is silently skipped instead of split,
+  which corrupts the counts. Feed each split-out org back through this triage.
+- **Invalid** — the string isn't a real organization at all (bill text, vote tallies,
+  procedural text, dates, phone numbers; a fragment or generic word; a bare person's name
+  **who is not a leader representing an org** — see the note below). Route it to the matching
+  CSV below and drop it from the working list.
+- **Partial** — a truncated/fragment name (e.g. "California Coalition for"). Try to
+  disambiguate it to its full org name (search the crosswalk **and** the web). If it resolves
+  unambiguously, **leave the cell as-is** — it's added as an **alternate spelling** of the
+  full org when the plan is applied. **Only if it stays ambiguous after both
+  searches**, move it to `org_names_partial.csv`.
 
-### 4b. Invalid orgs → CSV
-
-Handle the invalid (non-org) strings in two passes:
-
-1. **Filter out already-routed entries.** Compare the remaining list against **all** existing
-   entries in the `org_names_*.csv` files in `org_names_for_cleaning/`. Drop anything that
-   already matches one — it's already routed, so remove it from the working list (don't
-   add a duplicate).
-2. **Route newly-found invalids.** Of what's left, identify any string that isn't a real
-   organization, append it to the correct CSV (each `org_name,bills_supported`), and filter
-   it out of the working list too.
+The scanner appends each invalid (or ambiguous-partial) string, with its count, to the correct
+CSV below, and drops it from the working list. If it's already in that CSV, its count is
+updated rather than duplicated. (Valid orgs are **not** routed to a CSV — they become RA tasks
+that add them to the crosswalk JSON.)
 
 The routing CSVs in `org_names_for_cleaning/`:
 
@@ -153,8 +177,6 @@ The routing CSVs in `org_names_for_cleaning/`:
 | `org_names_that_are_actually_individuals.csv` | a person's name with no identifiable leadership-org |
 | `org_names_partial.csv` | fragments, generic single words (`Author`, `County`, `Union`…), `N individuals` placeholders |
 | `org_names_invalid.csv` | not an org at all (bill text, vote tallies, procedural text, dates, phone numbers) |
-| `org_names_that_start_with_parens.csv` | names starting with parentheses |
-| `org_names_conjoined.csv` | multiple orgs joined together |
 | `leginfo_added_to_crosswalk.csv` | valid orgs added to the crosswalk (tracking) |
 
 > **Leadership ≠ individual.** "Person, Org" where the person is a Mayor / President /
@@ -162,34 +184,28 @@ The routing CSVs in `org_names_for_cleaning/`:
 > org**, not an individual. Personal businesses (e.g. "Sonya Yruel Photography") are real
 > orgs too.
 
-### 4c. Valid orgs → crosswalk
+**Valid → a crosswalk-add task.** Whatever survives triage is a genuine, single organization.
+The scan does **not** place it — that's standard RA work. Searching the crosswalk first,
+choosing the right hierarchy level (alternate spelling / chapter / alternate spelling of a
+chapter), and creating a new canonical only when the org is genuinely absent are already
+spelled out in the **General Crosswalk Workflow Principles** and **Worker RA Role** in
+`CLAUDE.md` — which every fleet RA reads before starting. So the directive is simply *add this
+org (with its count) to the crosswalk*, and the RA does the placement per those rules. Two
+leginfo-specific notes for the task:
 
-1. **Judgment check first.** Before anything else, use judgment to confirm the string
-   actually looks like a real organization. If it doesn't, route it to an invalid CSV
-   (step 4b) — or just let it drop if it was already handled there. Only continue with the
-   steps below for strings that plausibly are real orgs.
-2. **Search the crosswalk first** — it's most likely already there, possibly under a very
-   different string (acronym ↔ full name, e.g. `ACLU` ↔ `American Civil Liberties Union`).
-   Try acronym/full-name swaps and word reorderings.
-3. **If the crosswalk search comes up empty or ambiguous, web-search the org** to learn
-   what it actually is — its full name, acronyms, any other names (aka / former name /
-   merger / parent org). Then **re-search the crosswalk** using those alternate names
-   before concluding it's not there.
-4. Add it at the **correct hierarchy level**:
-   - **alternate spelling** of an existing canonical (OCR typo, abbreviation, punctuation
-     variant),
-   - **chapter** of a canonical (location/regional variant), or
-   - **alternate spelling of a chapter**.
-5. Only **create a new canonical** if the org genuinely isn't anywhere in the crosswalk
-   after both searches (this is rare).
-6. Append a row to `org_names_for_cleaning/leginfo_added_to_crosswalk.csv`
-   (`org_name,bills_supported`) so we track what was incorporated.
+- **Disambiguate before merging.** A fuzzy/string resemblance is a hint, not a decision; do
+  web research when needed to confirm what the org actually is (acronym ↔ full name, e.g.
+  `ACLU` ↔ `American Civil Liberties Union`; aka / former name / merger / parent) before
+  merging it onto an existing canonical.
+- **Track it.** Append a row to `org_names_for_cleaning/leginfo_added_to_crosswalk.csv`
+  (`org_name,bills_supported`) so we record what was incorporated.
 
 ---
 
-## 5. Pipeline & commit
+## 3. Finalize (batched, once)
 
-After editing the crosswalk JSON and CSVs, run the pipeline in this order:
+The step-2 tasks already made their crosswalk, CSV, and source edits; they only deferred the
+heavy pipeline. Once the fleet has drained all the step-2 tasks, run it **once**:
 
 ```bash
 python3 scripts/clean_crosswalk.py        # apply cleaning regexes, dedup, merge identical canonicals
@@ -197,21 +213,28 @@ python3 scripts/regenerate_org_subsets.py # re-check names against crosswalk, re
 python3 generate_stats.py                 # update stats.json
 ```
 
-Then commit — stage **only** the files you changed (crosswalk JSON, the `org_names_*.csv`
-files in `org_names_for_cleaning/`, `stats.json`). Never `git add -A`. One unit of work
-per commit.
+Then commit — stage **only** the files that changed. Never `git add -A`.
 
 ---
 
-## 6. Fill the canonical columns
+## 4. Apply source rewrites & fill the canonical columns
 
-This is the single pass that populates the canonical columns — for **every** org, both the
-ones that already matched in step 3 and the ones resolved/added in step 4.
+This is the **single pass over `leginfo_metadata.csv`** — the only time the source file is
+rewritten. Stream it once, and for each cell:
 
-Re-match every org in the five org columns against the finalized crosswalk and write
-the matched org's canonical name into the corresponding column — `support_canonical` /
-`opposition_canonical` / `opposition_unless_amended_canonical` /
-`support_with_amendments_canonical` / `sponsor_canonical`.
+1. Apply the prose/conjoined cell rewrites the scanner recorded in step 2 (so prose becomes its
+   extracted org(s) and conjoined strings become their split `;`-list).
+2. Clean each org (the same regexes — no cleaned value was saved earlier) and match it against
+   the finalized crosswalk.
+3. Write the matched **canonical name(s)** into the corresponding column:
+
+| Org column | New canonical-name column |
+|------------|---------------------------|
+| `support` | `support_canonical` |
+| `opposition` | `opposition_canonical` |
+| `opposition_unless_amended` | `opposition_unless_amended_canonical` |
+| `support_with_amendments` | `support_with_amendments_canonical` |
+| `sponsor` | `sponsor_canonical` |
 
 **Deduplicate within each cell.** Before writing, drop duplicate canonicals inside a single
 cell — multiple Leginfo orgs in the same cell can resolve to the same canonical (e.g. a
@@ -222,4 +245,3 @@ of the same union). Each canonical should appear at most once per cell.
 > literal Leginfo org string. After this pass, the canonical columns are a complete,
 > deduplicated view of who supported/opposed each bill — every org that exists in the
 > crosswalk is represented by its canonical name.
-

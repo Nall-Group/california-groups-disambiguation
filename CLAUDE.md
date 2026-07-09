@@ -112,6 +112,8 @@ These apply to ALL task types (consolidation, OCR fixes, conjoined splitting, na
 
 6. **Narrative/dirty entries with extractable org names:** Identify the embedded org and search the crosswalk (most likely already present). For dirty entries, make the dirty version an alt spelling or chapter of the clean org — placed at the correct hierarchy level. For narrative entries, **extract** the clean org name (don't use the narrative text as an alt spelling) and ensure the org exists in the crosswalk. If the org genuinely isn't in the crosswalk, add it as a new canonical.
 
+7. **Clean the org name before adding it to the crosswalk.** Strip bill/position metadata so the crosswalk holds the clean name, never a dirty string — e.g. `California Hospital Association (sponsor)` → `California Hospital Association`; also drop trailing `(previous version)`, counts, dates, and similar annotations. Run the string through the cleaning regexes with `python3 scripts/clean_name.py "<org name or ;-separated list>"` (fast — loads only `cleaning_patterns.txt`, not the crosswalk; prints the cleaned name(s), one per line). Keep meaningful parts intact: do **not** strip location/chapter suffixes (principle 4) or `dba` names.
+
 ## Worker RA Role
 
 Each worker RA session is given a name by the user (e.g. "RA-Alpha", "RA-Beta").
