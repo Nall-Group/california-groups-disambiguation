@@ -36,7 +36,6 @@ def generate_stats():
     # 3. Invalid org names (sum of all invalid files)
     invalid_files = [
         'org_names_invalid.csv',
-        'org_names_that_start_with_parens.csv',
         'org_names_partial.csv',
         'org_names_that_are_actually_individuals.csv',
         'org_names_conjoined.csv',

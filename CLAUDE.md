@@ -18,8 +18,7 @@ When an entry in the crosswalk turns out to not be a real organization, two thin
 | `org_names_that_are_actually_individuals.csv` | People's names (e.g. "Attorney General Rob Bonta"). **Exception:** If the person holds a leadership role (Mayor, President, Director, Sheriff, Chief, Superintendent, CEO, Chair, etc.) at an identifiable org, make the entry an alternate spelling of that org instead. Only move to individuals CSV if no org is identifiable or the person is just a member/employee, not a leader. |
 | `org_names_partial.csv` | Incomplete/fragment names (e.g. "LOS", "SAN") |
 | `org_names_conjoined.csv` | Multiple orgs joined together (e.g. "Sierra Club Planning and Conservation League") |
-| `org_names_invalid.csv` | Not organizations at all (e.g. legislative bills, procedural text like "GOVERNOR'S VETO MESSAGE", dates, phone numbers) |
-| `org_names_that_start_with_parens.csv` | Names starting with parentheses |
+| `org_names_invalid.csv` | Not organizations at all (e.g. legislative bills, procedural text like "GOVERNOR'S VETO MESSAGE", dates, phone numbers). Also extraction artifacts that are just a stray leading parenthetical (the retired `org_names_that_start_with_parens.csv` bucket was folded in here). |
 
 All CSVs use the same format: `org_name,count` — move the entire row including the count.
 

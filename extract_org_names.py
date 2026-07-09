@@ -19,7 +19,6 @@ csv.field_size_limit(sys.maxsize)
 PROJECT_ROOT = Path(__file__).resolve().parent
 LEGINFO_PATH = "/Users/ruthgracewong/leginfo/extract_all_leginfo_metadata/leginfo_metadata.csv"
 OUTPUT_PATH = PROJECT_ROOT / "org_names_import_summary.csv"
-MAPPING_PATH = PROJECT_ROOT / "narrative_org_mapping.tsv"
 SUBSETS_DIR = PROJECT_ROOT / "org_names_for_cleaning"
 NOT_IN_CROSSWALK_PATH = SUBSETS_DIR / "org_names_not_in_crosswalk.csv"
 
@@ -27,79 +26,23 @@ ALL_CSV_FILES = [
     "org_names_in_crosswalk.csv",
     "org_names_not_in_crosswalk.csv",
     "org_names_invalid.csv",
-    "org_names_that_start_with_parens.csv",
     "org_names_partial.csv",
     "org_names_that_are_actually_individuals.csv",
     "org_names_conjoined.csv",
     "leginfo_added_to_crosswalk.csv",
 ]
 
-
-def load_narrative_fragments():
-    """Load the known narrative-fragment strings (raw + normalized) from the mapping.
-
-    Stance-column items matching one of these are prose we already parsed into the
-    narrative_orgs column (step 1). We SKIP them here so the raw prose does not
-    re-enter the org universe as junk; the parsed org flows in via narrative_orgs.
-    Matching is raw-exact + normalized only (never clean()), mirroring
-    apply_narrative_to_leginfo.py so we don't collapse legit orgs onto fragments.
-    """
-    frag_raw, frag_norm = set(), set()
-    with open(MAPPING_PATH, encoding="utf-8") as f:
-        reader = csv.reader(f, delimiter="\t")
-        next(reader, None)  # header
-        for row in reader:
-            if not row:
-                continue
-            frag = row[0]
-            frag_raw.add(frag)
-            nz = normalize_for_matching(frag)
-            if nz:
-                frag_norm.add(nz)
-    print(f"Loaded {len(frag_raw)} narrative fragments to skip in stance columns")
-    return frag_raw, frag_norm
-
 # Columns to extract org names from
 ORG_COLUMNS = ["support", "opposition", "opposition_unless_amended", "support_with_amendments", "sponsor"]
 
-# The narrative_orgs column (written by apply_narrative_to_leginfo.py) is NOT
-# ';'-separated: it is ' || '-separated, each entry prefixed with "<source_col>: ",
-# and may hold the sentinel "None parsed".
-NARR_COL = "narrative_orgs"
-NONE_TOKEN = "None parsed"
 
-
-def extract_org_names_from_narrative(cell_value, matcher):
-    """Extract parsed org names from a narrative_orgs cell.
-
-    Entries look like "support: California Hospital Association || sponsor: None parsed".
-    Strip the "<col>: " prefix, drop None-parsed sentinels, and clean the rest.
-    """
-    if not cell_value or cell_value.strip() == "":
-        return []
-
-    orgs = []
-    for entry in cell_value.split(" || "):
-        entry = entry.strip()
-        if not entry:
-            continue
-        # Drop the "<source_col>: " prefix (split on the first ": ").
-        _, sep, org = entry.partition(": ")
-        org = (org if sep else entry).strip()
-        if not org or org == NONE_TOKEN:
-            continue
-        cleaned = matcher.clean(org)
-        if cleaned:
-            orgs.append(cleaned)
-    return orgs
-
-
-def extract_org_names_from_cell(cell_value, matcher, frag_raw, frag_norm):
+def extract_org_names_from_cell(cell_value, matcher):
     """Extract individual org names from a semicolon-separated cell and clean them.
 
-    Skip any item that is a known narrative fragment (raw-exact or normalized): it was
-    already parsed into the narrative_orgs column, so the clean org flows in from there
-    and the raw prose must not re-enter the org universe as junk.
+    This is pure deterministic matching (LEGINFO_IMPORT.md step 1): every cell is split
+    on ';' and each part is cleaned. Narrative-prose cells won't cleanly match the
+    crosswalk, so they fall through to the unmatched pile and are handled by the
+    resolution scan (step 2). No prose detection or fragment skipping happens here.
     """
     if not cell_value or cell_value.strip() == "":
         return []
@@ -109,8 +52,6 @@ def extract_org_names_from_cell(cell_value, matcher, frag_raw, frag_norm):
         name = part.strip()
         if not name:
             continue
-        if name in frag_raw or normalize_for_matching(name) in frag_norm:
-            continue  # known narrative prose — handled via narrative_orgs
         # Apply cleaning patterns to remove metadata annotations
         cleaned = matcher.clean(name)
         if cleaned:
@@ -118,7 +59,7 @@ def extract_org_names_from_cell(cell_value, matcher, frag_raw, frag_norm):
     return orgs
 
 
-def process_leginfo_file(matcher, frag_raw, frag_norm):
+def process_leginfo_file(matcher):
     """Process leginfo file line by line and count org occurrences."""
     org_counts = Counter()
     rows_processed = 0
@@ -133,13 +74,9 @@ def process_leginfo_file(matcher, frag_raw, frag_norm):
 
             for col in ORG_COLUMNS:
                 if col in row:
-                    orgs = extract_org_names_from_cell(row[col], matcher, frag_raw, frag_norm)
+                    orgs = extract_org_names_from_cell(row[col], matcher)
                     for org in orgs:
                         org_counts[org] += 1
-
-            if NARR_COL in row:
-                for org in extract_org_names_from_narrative(row[NARR_COL], matcher):
-                    org_counts[org] += 1
 
     print(f"Finished processing {rows_processed} rows")
     print(f"Found {len(org_counts)} unique organization names")
@@ -210,15 +147,12 @@ def main():
     print(f"Loaded {matcher.exact_name_count} exact names")
     print(f"Loaded {matcher.normalized_name_count} normalized names for fuzzy matching")
 
-    # Load narrative fragments to skip in stance columns (parsed orgs arrive via narrative_orgs)
-    frag_raw, frag_norm = load_narrative_fragments()
-
     # Load already-routed org names from all existing CSVs (norm -> csv filename)
     already_routed = load_already_routed_orgs()
     print(f"Loaded {len(already_routed)} already-routed org names from CSVs")
 
     # Process leginfo file
-    org_counts = process_leginfo_file(matcher, frag_raw, frag_norm)
+    org_counts = process_leginfo_file(matcher)
 
     # Update counts in existing CSVs with leginfo counts
     print("\nUpdating counts in existing CSVs...")

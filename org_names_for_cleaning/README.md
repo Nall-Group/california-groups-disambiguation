@@ -1,86 +1,61 @@
-# Leginfo Gap Incorporation — RA Protocol
+# Org-name routing CSVs
 
-This folder is the workspace for incorporating the **58,812 leginfo support-orgs that the
-crosswalk failed to match** when the crosswalk was applied to `leginfo_metadata.csv` to build
-the co-support graph. Every task numbered "leginfo gap" references this file.
+This folder holds the **routing CSVs** for the crosswalk cleaning process: the buckets where
+every org-name string that is **not** placed in the crosswalk JSON gets recorded. Nothing is
+ever discarded — a string is either in the crosswalk (`2_webapp/org_clusters_crosswalk.json`)
+or in exactly one of the CSVs here.
 
-## ⚠️ NO SHORTCUTS — examine every org individually
+The authoritative process for pulling orgs out of the Leginfo bill metadata and routing them is
+**`LEGINFO_IMPORT.md`** (repo root). The general placement rules — search the crosswalk first,
+pick the right hierarchy level, never discard a real org — are in **`CLAUDE.md`**
+("General Crosswalk Workflow Principles" and "Handling Invalid Entries"). This README just
+documents the files in this folder.
 
-Supervisor directive: **do NOT bulk-process or rubber-stamp these.** Look at each individual org
-string, one at a time, and work with it deliberately:
-- Read the actual `leginfo_org` / `org_name` value and think about what it really is.
-- Find and inspect the real candidate entry in the crosswalk before merging — confirm it is genuinely
-  the same organization, not just a high fuzzy score. **This applies even to the ≥97 band.**
-- A high WRatio is a hint, not a decision. False positives exist at every confidence level.
-- When uncertain, search the crosswalk and the web before acting; if still unsure, mark the task
-  Blocked and post a question (per CLAUDE.md) rather than guessing.
+> **History:** this folder was previously the workspace for a "leginfo gap" candidate-band
+> workflow (`leginfo_gaps_all.csv`, `leginfo_cand_ge97/90to97/75to90.csv`, `leginfo_novel.csv`,
+> `leginfo_added_to_crosswalk.csv`). That approach has been **superseded** by the
+> `LEGINFO_IMPORT.md` pipeline and those files are gone. The old
+> `org_names_that_start_with_parens.csv` bucket has also been **retired** — stray-parenthesis
+> extraction artifacts now go to `org_names_invalid.csv`.
 
-## Worklist files (all sorted by `bills_supported` DESC — high-impact first)
+## The files
 
-| File | Rows | Columns |
-|------|------|---------|
-| `leginfo_gaps_all.csv` | 58,812 | `org_name, bills_supported` — every unmatched org (master) |
-| `leginfo_gap_candidates.csv` | 28,601 | candidates w/ fuzzy match (master) |
-| `leginfo_cand_ge97.csv` | 3,557 | candidates, WRatio ≥ 97 (near-certain) |
-| `leginfo_cand_90to97.csv` | 24,314 | candidates, WRatio 90–97 (probable) |
-| `leginfo_cand_75to90.csv` | 730 | candidates, WRatio 75–90 (low-confidence) |
-| `leginfo_novel.csv` | 30,211 | no fuzzy candidate (real-org judgment / junk) |
+All CSVs share the same format: **`org_name,count`** (the `count` is the number of bills the org
+appears on; move the whole row, including the count, and never split on bare commas — org names
+contain commas, so use a CSV parser).
 
-Candidate columns: `leginfo_org, leginfo_bills, suggested_canonical, matched_name_in_crosswalk, matched_via, wratio, token_set_ratio`. `matched_via` ∈ `canonical` / `alt(alternate_spelling)` / `alt(chapter)`.
+| File | What goes here |
+|------|---------------|
+| `org_names_not_in_crosswalk.csv` | **Work queue.** Unmatched orgs written by step 1 of the import (`extract_org_names.py`), awaiting the resolution scan. Normally drained to empty (header only) once the scan has routed everything. |
+| `org_names_that_are_actually_individuals.csv` | A person's name with no identifiable leadership-org. **Leadership ≠ individual:** "Person, Org" where the person is a Mayor / President / Director-of-whole-org / CEO / Chief / Sheriff / Chair is an alternate spelling of the org, not an individual. Personal businesses (e.g. "Sonya Yruel Photography") are real orgs. |
+| `org_names_partial.csv` | Truncated/fragment names, generic single words (`Author`, `County`, `Union`…), and `N individuals` placeholders that stay ambiguous after searching the crosswalk **and** the web. |
+| `org_names_conjoined.csv` | Multiple orgs mashed into one string (e.g. "Sierra Club Planning and Conservation League"). *(During the import, conjoined strings are split and their parts routed/added directly — see `LEGINFO_IMPORT.md` step 2 — rather than parked here, so a split string is never silently treated as "already routed.")* |
+| `org_names_invalid.csv` | Not an organization at all: bill text, vote tallies, procedural text, dates, phone numbers, and stray-parenthesis extraction artifacts. |
 
-## Where things go (supervisor decision)
+### Generated file (not a routing bucket)
 
-- **Real organizations → the crosswalk JSON** (`2_webapp/org_clusters_crosswalk.json`), placed at
-  the correct hierarchy level (alternate_spelling / chapter / new canonical). Also append a row to
-  `org_names_for_cleaning/leginfo_added_to_crosswalk.csv` (`org_name,bills_supported`) so we can track
-  what was incorporated.
-- **Non-orgs → the appropriate CSV in this folder** (all merged into the `org_names_*.csv` files):
-  - `org_names_that_are_actually_individuals.csv` — a person's name (no identifiable leadership-org)
-  - `org_names_partial.csv` — fragments / generic single words / "N individuals" placeholders
-  - `org_names_invalid.csv` — not an org at all (bill text, vote tallies, procedural text, dates, phone numbers)
-  - `org_names_conjoined.csv` — multiple orgs mashed together
-  - `org_names_that_start_with_parens.csv` — names starting with parentheses
+`org_names_in_crosswalk.csv` is **not** edited by hand — it is regenerated by
+`scripts/regenerate_org_subsets.py`, which lists every org name currently present in the crosswalk
+JSON. It is safe to delete; the next pipeline run recreates it. `extract_org_names.py` reads it as a
+fast "already in the crosswalk → skip" check.
 
-## General principles (see CLAUDE.md "General Crosswalk Workflow Principles")
+## Where a valid org goes instead
 
-1. **Always search the crosswalk first** — the org is most likely already present, possibly under a
-   very different string (acronym ↔ full name, e.g. `ACLU` ↔ `American Civil Liberties Union`;
-   `SEIU` ↔ `Service Employees International Union`). Only create a new canonical if it genuinely
-   isn't anywhere.
-2. **Correct hierarchy level** — alternate_spelling vs chapter vs alt-of-a-chapter (children nest).
-3. **Preserve names; route, don't discard.** Even junk org-strings get a row in a `leginfo_*.csv`.
-4. Location suffixes may be chapter info. Leadership roles (Mayor/President/Director-of-whole-org/
-   CEO/Chief/Sheriff/Chair) make a "Person, Org" string an alt of the org, not an individual.
+A string that **is** a real, single organization does **not** go in any CSV here — it goes into
+the crosswalk JSON at the correct hierarchy level (alternate spelling / chapter / new canonical),
+per `CLAUDE.md` and `LEGINFO_IMPORT.md`. Search the crosswalk first; it is most likely already
+present, possibly under a very different string (acronym ↔ full name, e.g. `ACLU` ↔ `American
+Civil Liberties Union`).
 
-## Per-band handling
+## Editing these files
 
-### Candidate bands (`leginfo_cand_ge97 / 90to97 / 75to90`)
-For each row, the `leginfo_org` is a **suggested** variant of an existing crosswalk entry. **Examine
-each org individually and confirm it is truly the same org** — no bulk/mechanical merging at ANY
-confidence, including ≥97 (see the NO SHORTCUTS section above). Look at the actual string, find the
-real entry in the crosswalk, decide deliberately:
-
-- `matched_via=canonical`: find that canonical in the JSON. **If the leginfo spelling is the clean/
-  correct one and the existing canonical is OCR-corrupted** (e.g. canonical `Cailfornia Federation of
-  Teachers`, leginfo `California Federation of Teachers`) → **rename the canonical to the leginfo
-  spelling and demote the old name to an `alternate_spelling` child.** Otherwise add `leginfo_org`
-  as an `alternate_spelling` under that canonical.
-- `matched_via=alt(alternate_spelling)`: add `leginfo_org` as another `alternate_spelling` under the
-  same canonical (sibling of `matched_name_in_crosswalk`).
-- `matched_via=alt(chapter)`: add `leginfo_org` as an `alternate_spelling` nested under that chapter,
-  or as its own `chapter` if it's a distinct location.
-- **False positive** (not actually the same org): handle it as a novel entry (below).
-
-### Novel set (`leginfo_novel.csv`)
-No fuzzy candidate. For each org:
-1. **Search the crosswalk** (try acronym↔full-name, word reorderings). If found → add at correct level.
-2. Else **web-search** to identify. If a real org → add as a **new canonical** at correct hierarchy.
-3. Else **route to an `org_names_*.csv`**: `Numerous/N/An individuals` placeholders → `org_names_partial.csv`;
-   single generic words (`Author`, `County`, `Association`, `CIO`, `Union`…) → `org_names_partial.csv`;
-   real person names → `org_names_that_are_actually_individuals.csv`; multiple orgs → `org_names_conjoined.csv`; etc.
-
-## Pipeline & commit (per task)
-After editing the crosswalk JSON, run in order:
-`python scripts/clean_crosswalk.py` → `python scripts/regenerate_org_subsets.py` → `python generate_stats.py`.
-Then `git add` ONLY the files you changed (crosswalk JSON, the `leginfo_*.csv` you wrote, `stats.json`,
-and any regenerated original subset CSVs) — never `git add -A`. One task per commit.
+- **Move the whole row** (`org_name,count`) between files; don't lose the count.
+- If an org already exists in the destination CSV, **update its count** rather than adding a
+  duplicate row.
+- These are data files — follow the **Data Write Queue** discipline in `CLAUDE.md` before editing,
+  and `git add` only the specific files you changed (never `git add -A`).
+- After orgs move in or out of the crosswalk, run the finalize pipeline (see `LEGINFO_IMPORT.md`
+  step 3): `python3 scripts/clean_crosswalk.py` → `python3 scripts/regenerate_org_subsets.py` →
+  `python3 generate_stats.py`. `regenerate_org_subsets.py` re-checks every name against the current
+  crosswalk and redistributes rows across these CSVs, so it is the source of truth for what ends up
+  where.

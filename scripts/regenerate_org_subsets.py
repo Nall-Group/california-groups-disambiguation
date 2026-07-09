@@ -37,7 +37,6 @@ CSV_FILES = {
     "in_crosswalk":   "org_names_in_crosswalk.csv",
     "not_in_crosswalk": "org_names_not_in_crosswalk.csv",
     "invalid":        "org_names_invalid.csv",
-    "parens":         "org_names_that_start_with_parens.csv",
     "partial":        "org_names_partial.csv",
     "individuals":    "org_names_that_are_actually_individuals.csv",
     "conjoined":      "org_names_conjoined.csv",
@@ -51,7 +50,6 @@ BUCKET_PRIORITY = [
     "individuals",
     "conjoined",
     "partial",
-    "parens",
     "invalid",
 ]
 
