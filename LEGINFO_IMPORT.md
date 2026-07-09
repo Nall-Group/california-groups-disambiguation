@@ -80,8 +80,14 @@ What it does:
 - Cleans each name with the regex patterns in `cleaning_patterns.txt` (strips trailing
   metadata like dates, positions, counts).
 - Checks each cleaned name against the crosswalk.
-- Writes a summary CSV (`org_names_summary.csv`) with match status for every org.
-- **Routes unmatched orgs** (those not already in any `org_names_*.csv` file) into
+- **Filters out already-routed orgs** — compares against all existing `org_names_*.csv`
+  files in `org_names_for_cleaning/` (invalids, individuals, partials, conjoined, etc.).
+  Orgs already in one of those files are skipped (not re-added to `not_in_crosswalk.csv`).
+- **Updates counts** in existing CSVs — for any org that appears in both leginfo and an
+  existing routing CSV, replaces the old count with the new leginfo count.
+- Writes `org_names_import_summary.csv` with status for every org: `in_crosswalk`,
+  `already_routed` (with which CSV), or `unmatched`.
+- **Routes genuinely new unmatched orgs** into
   `org_names_for_cleaning/org_names_not_in_crosswalk.csv` so they can be resolved.
 
 ---
