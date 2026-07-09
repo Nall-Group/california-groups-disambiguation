@@ -1,12 +1,14 @@
 #!/usr/bin/env python3
 """
-Extract unique organization names from leginfo_metadata.csv and check against crosswalk.
+Extract unique organization names from leginfo_metadata.csv, check against crosswalk,
+and route unmatched orgs to org_names_not_in_crosswalk.csv.
 Processes the large file line by line to avoid memory issues.
 """
 
 import csv
 import sys
 from collections import Counter
+from pathlib import Path
 
 from org_matching_utils import CrosswalkMatcher, normalize_for_matching
 
@@ -14,9 +16,23 @@ from org_matching_utils import CrosswalkMatcher, normalize_for_matching
 csv.field_size_limit(sys.maxsize)
 
 # Paths
+PROJECT_ROOT = Path(__file__).resolve().parent
 LEGINFO_PATH = "/Users/ruthgracewong/leginfo/extract_all_leginfo_metadata/leginfo_metadata.csv"
-OUTPUT_PATH = "/Users/ruthgracewong/california-groups-disambiguation/org_names_summary.csv"
-MAPPING_PATH = "/Users/ruthgracewong/california-groups-disambiguation/narrative_org_mapping.tsv"
+OUTPUT_PATH = PROJECT_ROOT / "org_names_summary.csv"
+MAPPING_PATH = PROJECT_ROOT / "narrative_org_mapping.tsv"
+SUBSETS_DIR = PROJECT_ROOT / "org_names_for_cleaning"
+NOT_IN_CROSSWALK_PATH = SUBSETS_DIR / "org_names_not_in_crosswalk.csv"
+
+ALL_CSV_FILES = [
+    "org_names_in_crosswalk.csv",
+    "org_names_not_in_crosswalk.csv",
+    "org_names_invalid.csv",
+    "org_names_that_start_with_parens.csv",
+    "org_names_partial.csv",
+    "org_names_that_are_actually_individuals.csv",
+    "org_names_conjoined.csv",
+    "leginfo_added_to_crosswalk.csv",
+]
 
 
 def load_narrative_fragments():
@@ -130,6 +146,25 @@ def process_leginfo_file(matcher, frag_raw, frag_norm):
     return org_counts
 
 
+def load_already_routed_orgs():
+    """Load normalized names from all existing CSV files so we don't duplicate."""
+    already_routed = set()
+    for csv_file in ALL_CSV_FILES:
+        filepath = SUBSETS_DIR / csv_file
+        if not filepath.exists():
+            continue
+        with open(filepath, "r", encoding="utf-8", newline="") as f:
+            reader = csv.reader(f)
+            next(reader, None)  # skip header
+            for row in reader:
+                if not row:
+                    continue
+                norm = normalize_for_matching(row[0])
+                if norm:
+                    already_routed.add(norm)
+    return already_routed
+
+
 def main():
     # Initialize the matcher (loads crosswalk and cleaning patterns)
     print("Loading crosswalk matcher...")
@@ -140,6 +175,10 @@ def main():
     # Load narrative fragments to skip in stance columns (parsed orgs arrive via narrative_orgs)
     frag_raw, frag_norm = load_narrative_fragments()
 
+    # Load already-routed org names from all existing CSVs
+    already_routed = load_already_routed_orgs()
+    print(f"Loaded {len(already_routed)} already-routed org names from CSVs")
+
     # Process leginfo file
     org_counts = process_leginfo_file(matcher, frag_raw, frag_norm)
 
@@ -147,6 +186,7 @@ def main():
     exact_match_count = 0
     normalized_match_count = 0
     no_match_count = 0
+    unmatched_orgs = []
 
     # Write output CSV
     with open(OUTPUT_PATH, 'w', encoding='utf-8', newline='') as f:
@@ -170,10 +210,27 @@ def main():
                 match_type = ""
                 canonical = ""
                 no_match_count += 1
+                unmatched_orgs.append((org_name, count))
 
             writer.writerow([org_name, count, in_crosswalk, match_type, canonical])
 
     print(f"Output written to {OUTPUT_PATH}")
+
+    # Route unmatched orgs to org_names_not_in_crosswalk.csv (skip already-routed)
+    new_unmatched = []
+    for org_name, count in unmatched_orgs:
+        norm = normalize_for_matching(org_name)
+        if norm and norm not in already_routed:
+            new_unmatched.append((org_name, count))
+
+    if new_unmatched:
+        with open(NOT_IN_CROSSWALK_PATH, "a", encoding="utf-8", newline="") as f:
+            writer = csv.writer(f)
+            for org_name, count in new_unmatched:
+                writer.writerow([org_name, count])
+        print(f"\nAppended {len(new_unmatched)} new unmatched orgs to {NOT_IN_CROSSWALK_PATH}")
+    else:
+        print(f"\nNo new unmatched orgs to add (all {no_match_count} already routed)")
 
     # Print stats
     total_unique = len(org_counts)
@@ -183,6 +240,7 @@ def main():
     print(f"  Normalized matches (punctuation/spacing): {normalized_match_count}")
     print(f"  Total in crosswalk: {exact_match_count + normalized_match_count}")
     print(f"  Not in crosswalk: {no_match_count}")
+    print(f"  Newly added to not_in_crosswalk.csv: {len(new_unmatched)}")
 
     # Generate stats JSON
     from generate_stats import generate_stats

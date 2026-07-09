@@ -80,8 +80,9 @@ What it does:
 - Cleans each name with the regex patterns in `cleaning_patterns.txt` (strips trailing
   metadata like dates, positions, counts).
 - Checks each cleaned name against the crosswalk.
-
-Output is the raw universe of orgs that appear in Leginfo, with counts.
+- Writes a summary CSV (`org_names_summary.csv`) with match status for every org.
+- **Routes unmatched orgs** (those not already in any `org_names_*.csv` file) into
+  `org_names_for_cleaning/org_names_not_in_crosswalk.csv` so they can be resolved.
 
 ---
 
@@ -107,9 +108,10 @@ orgs need no further work beyond being noted as matched.
 
 ## 4. Resolve the remaining orgs
 
-The orgs that did **not** match the crosswalk in step 3 (tracked in the unmatched list)
-are the remaining work. Each one either gets **added to the crosswalk** or it belongs in
-one of the `org_names_*.csv` files in `org_names_for_cleaning/`.
+The orgs that did **not** match the crosswalk in step 3 are now in
+`org_names_for_cleaning/org_names_not_in_crosswalk.csv` (placed there by
+`extract_org_names.py`). Each one either gets **added to the crosswalk** or it belongs in
+one of the `org_names_*.csv` invalidity files in `org_names_for_cleaning/`.
 
 > **No shortcuts.** Examine every org individually and confirm it's genuinely the same
 > organization before merging — a fuzzy/string resemblance is a hint, not a decision.
@@ -233,8 +235,7 @@ of the same union). Each canonical should appear at most once per cell.
 | Step | Tool / file |
 |------|-------------|
 | 1. Resolve narrative | `apply_narrative_to_leginfo.py` (+ `narrative_org_mapping.tsv`) → `narrative_orgs` column |
-| 2. Pull the orgs | `extract_org_names.py` → extract all org names from metadata |
-| 3. Match crosswalk | identify matched vs. unmatched + track unmatched orgs |
+| 2–3. Pull & match | `extract_org_names.py` → summary CSV + unmatched orgs → `org_names_not_in_crosswalk.csv` |
 | 4. Resolve remaining | 4a partials/conjoined → 4b invalid CSVs → 4c valid → crosswalk |
 | 5. Pipeline & commit | `clean_crosswalk.py` → `regenerate_org_subsets.py` → `generate_stats.py` |
 | 6. Fill canonicals | re-match all orgs vs. final crosswalk → fill `*_canonical` columns |
