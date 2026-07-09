@@ -32,36 +32,25 @@ See `CLAUDE.md` ("General Crosswalk Workflow Principles") and
 ## 1. Resolve narrative text with AI
 
 Some org cells contain prose instead of a clean org name (e.g.
-"In support of the bill, the California Hospital Association writes…"). We use AI to
-identify the narrative fragments and parse out the actual organization(s) named inside
-them.
+"In support of the bill, the California Hospital Association writes…"). Narrative text
+appears in all five org columns (worst in `opposition_unless_amended` at ~23%, least in
+`sponsor` at ~0.4%).
 
-Rather than editing the org columns in place, we add a **new column** that holds the
-orgs parsed from narrative text. The original cells are left untouched.
+**This is not a script.** There is no lookup table or automated matching. Subagents
+individually read each `;`-separated item from the five org columns and classify it:
 
-```bash
-# Always dry-run first to validate
-python3 apply_narrative_to_leginfo.py --dry-run [--limit N]
+- **Clean org name** → copy as-is into the `narrative_orgs` column.
+- **Narrative text with extractable org(s)** → extract the real org name(s) and write
+  those into the `narrative_orgs` column. Do not use the narrative prose itself.
+- **Narrative text with no extractable org** → record `None parsed` in the
+  `narrative_orgs` column.
 
-# Then apply
-python3 apply_narrative_to_leginfo.py --apply
-```
+The `narrative_orgs` column uses ` || ` as a separator between entries. Each entry is
+tagged with its source column (e.g. `support: California Hospital Association`).
 
-What it does:
-- For each row, scans the five org columns (the four stance columns plus `sponsor`) for
-  `;`-separated items that are known narrative fragments.
-- For each narrative fragment found, parses out the real org name(s) and writes them into
-  a new `narrative_orgs` column (tagged with the source column; multiple entries joined by
-  ` || `). When no org can be parsed, records `None parsed`.
-- The original narrative prose stays in its cell — it is **never** reused as an alt
-  spelling; only the parsed org name flows forward (via the `narrative_orgs` column).
-- Detection reuses the gaps pipeline's `split('; ')` + `clean()` transform, matching the
-  master fragment by raw / cleaned / normalized form. The narrative mapping lives in
-  `narrative_org_mapping.tsv`.
-
-> **Note:** the current `apply_narrative_to_leginfo.py` replaces the fragment in place and
-> only scans the four stance columns; adjust it to instead leave the cell as-is, also scan
-> `sponsor`, and write the parsed orgs into the new `narrative_orgs` column.
+The original org columns are **never modified** — they stay exactly as the parser
+produced them. The narrative prose is never reused as an alt spelling; only the parsed
+org name flows forward via `narrative_orgs`.
 
 ---
 
@@ -234,14 +223,3 @@ of the same union). Each canonical should appear at most once per cell.
 > deduplicated view of who supported/opposed each bill — every org that exists in the
 > crosswalk is represented by its canonical name.
 
----
-
-## Quick reference
-
-| Step | Tool / file |
-|------|-------------|
-| 1. Resolve narrative | `apply_narrative_to_leginfo.py` (+ `narrative_org_mapping.tsv`) → `narrative_orgs` column |
-| 2–3. Pull & match | `extract_org_names.py` → summary CSV + unmatched orgs → `org_names_not_in_crosswalk.csv` |
-| 4. Resolve remaining | 4a partials/conjoined → 4b invalid CSVs → 4c valid → crosswalk |
-| 5. Pipeline & commit | `clean_crosswalk.py` → `regenerate_org_subsets.py` → `generate_stats.py` |
-| 6. Fill canonicals | re-match all orgs vs. final crosswalk → fill `*_canonical` columns |
