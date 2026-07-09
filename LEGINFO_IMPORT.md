@@ -51,6 +51,23 @@ See `CLAUDE.md` ("General Crosswalk Workflow Principles") and
 Pull and clean every org name from the five org columns and match each against the
 crosswalk. This pass is **pure script — no AI, no narrative handling.**
 
+> ### ⚠️ Reset these files first (the script is not idempotent)
+>
+> `extract_org_names.py` mutates the routing CSVs **in place** — it appends new unmatched
+> orgs to `org_names_not_in_crosswalk.csv` and overwrites counts in the other CSVs — and it
+> regenerates `stats.json`. Re-running without resetting first **stacks** a second run's
+> appends/count-updates on top of the first. So before every run, restore these to their
+> last committed baseline:
+>
+> ```bash
+> git checkout -- org_names_for_cleaning/ stats.json
+> ```
+>
+> (This resets every `org_names_*.csv` routing file plus `stats.json`.)
+> `org_names_import_summary.csv` is fully overwritten each run, so it needs no reset.
+> Only run the reset when the routing CSVs are clean-committed — if you have uncommitted
+> CSV edits you want to keep, commit them first.
+
 ```bash
 python3 extract_org_names.py
 ```
@@ -60,8 +77,12 @@ What it does:
 - For each of the five org columns, splits the cell on `;`.
 - Cleans each name with the regex patterns in `cleaning_patterns.txt` (strips trailing
   metadata like dates, positions, counts).
-- Checks each cleaned name against the crosswalk. **Matched orgs are done** for now (their
-  canonical name gets written in the final step).
+- **Counts each org by the number of bill analyses (rows) it appears in.** Within a single
+  row an org is counted once even if it shows up in more than one stance column; the same
+  underlying bill still counts once per analysis row (multiple analyses → multiple counts).
+- Checks each cleaned name against the crosswalk — a **plain name-set membership test**
+  (exact or punctuation-normalized). No canonical is resolved here; canonicals are a step-4
+  concern. **Matched orgs are done** for now (their canonical name gets written in step 4).
 - **Filters out already-routed orgs** — compares against all existing `org_names_*.csv`
   files in `org_names_for_cleaning/` (invalids, individuals, partials, conjoined, etc.).
   Orgs already in one of those files are skipped (not re-added to `not_in_crosswalk.csv`).
