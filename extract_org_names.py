@@ -3,14 +3,28 @@
 Extract unique organization names from leginfo_metadata.csv, check against crosswalk,
 and route unmatched orgs to org_names_not_in_crosswalk.csv.
 Processes the large file line by line to avoid memory issues.
+
+Step 1 of LEGINFO_IMPORT.md — pure deterministic matching:
+- For every org name in the five stance columns, clean it and check membership in the
+  crosswalk (a plain name-set — no canonical resolution; canonicals are a step-4 concern).
+- Count = the number of BILL ANALYSES (rows) each org appears in. Within a single row an
+  org is counted once even if it shows up in more than one stance column; the same bill
+  counts multiple times if it has multiple analysis rows (that is intended).
+- Narrative-prose cells won't cleanly match, so they fall through to the unmatched pile
+  and are handled by the resolution scan (step 2).
 """
 
 import csv
+import json
 import sys
 from collections import Counter
 from pathlib import Path
 
-from org_matching_utils import CrosswalkMatcher, normalize_for_matching
+from org_matching_utils import (
+    normalize_for_matching,
+    clean_org_name,
+    load_cleaning_patterns,
+)
 
 # Increase CSV field size limit for large fields
 csv.field_size_limit(sys.maxsize)
@@ -18,6 +32,7 @@ csv.field_size_limit(sys.maxsize)
 # Paths
 PROJECT_ROOT = Path(__file__).resolve().parent
 LEGINFO_PATH = "/Users/ruthgracewong/leginfo/extract_all_leginfo_metadata/leginfo_metadata.csv"
+CROSSWALK_PATH = PROJECT_ROOT / "2_webapp" / "org_clusters_crosswalk.json"
 OUTPUT_PATH = PROJECT_ROOT / "org_names_import_summary.csv"
 SUBSETS_DIR = PROJECT_ROOT / "org_names_for_cleaning"
 NOT_IN_CROSSWALK_PATH = SUBSETS_DIR / "org_names_not_in_crosswalk.csv"
@@ -36,32 +51,74 @@ ALL_CSV_FILES = [
 ORG_COLUMNS = ["support", "opposition", "opposition_unless_amended", "support_with_amendments", "sponsor"]
 
 
-def extract_org_names_from_cell(cell_value, matcher):
-    """Extract individual org names from a semicolon-separated cell and clean them.
+def load_crosswalk_names(path):
+    """Load the crosswalk into a plain name-set for membership checks.
 
-    This is pure deterministic matching (LEGINFO_IMPORT.md step 1): every cell is split
-    on ';' and each part is cleaned. Narrative-prose cells won't cleanly match the
-    crosswalk, so they fall through to the unmatched pile and are handled by the
-    resolution scan (step 2). No prose detection or fragment skipping happens here.
+    Returns two sets: exact names (uppercased) and normalized names. No canonical
+    mapping is built — step 1 only needs to know whether a name is present.
+    Walks canonicals and all nested children recursively.
     """
-    if not cell_value or cell_value.strip() == "":
-        return []
+    with open(path, "r", encoding="utf-8") as f:
+        data = json.load(f)
 
-    orgs = []
-    for part in cell_value.split(";"):
-        name = part.strip()
-        if not name:
+    exact_names = set()
+    normalized_names = set()
+
+    def _add(name):
+        exact_names.add(name.strip().upper())
+        norm = normalize_for_matching(name)
+        if norm:
+            normalized_names.add(norm)
+
+    def _walk_children(children):
+        for child in children:
+            _add(child["name"])
+            if "children" in child:
+                _walk_children(child["children"])
+
+    for cluster in data["clusters"]:
+        _add(cluster["canonical"])
+        _walk_children(cluster.get("children", []))
+
+    return exact_names, normalized_names
+
+
+def is_in_crosswalk(name, exact_set, normalized_set):
+    """Check if a name matches the crosswalk (exact or normalized)."""
+    if name.strip().upper() in exact_set:
+        return True
+    if normalize_for_matching(name) in normalized_set:
+        return True
+    return False
+
+
+def extract_orgs_from_row(row, cleaning_patterns):
+    """Return the set of cleaned org names appearing in a single row.
+
+    Splits each of the five stance columns on ';', cleans each part, and collects
+    the results into a set so an org is counted once per row (bill analysis) even if
+    it appears in more than one stance column. Narrative-prose cells are split and
+    cleaned like everything else; they simply won't match the crosswalk and fall
+    through to the unmatched pile (handled in step 2).
+    """
+    orgs = set()
+    for col in ORG_COLUMNS:
+        cell_value = row.get(col)
+        if not cell_value or not cell_value.strip():
             continue
-        # Apply cleaning patterns to remove metadata annotations
-        cleaned = matcher.clean(name)
-        if cleaned:
-            orgs.append(cleaned)
+        for part in cell_value.split(";"):
+            name = part.strip()
+            if not name:
+                continue
+            cleaned = clean_org_name(name, cleaning_patterns)
+            if cleaned:
+                orgs.add(cleaned)
     return orgs
 
 
-def process_leginfo_file(matcher):
-    """Process leginfo file line by line and count org occurrences."""
-    org_counts = Counter()
+def process_leginfo_file(cleaning_patterns):
+    """Process leginfo file line by line, counting bill-analysis rows per org."""
+    org_counts = Counter()  # org name -> number of bill-analysis rows it appears in
     rows_processed = 0
 
     with open(LEGINFO_PATH, 'r', encoding='utf-8', errors='replace') as f:
@@ -72,11 +129,8 @@ def process_leginfo_file(matcher):
             if rows_processed % 50000 == 0:
                 print(f"Processed {rows_processed} rows...")
 
-            for col in ORG_COLUMNS:
-                if col in row:
-                    orgs = extract_org_names_from_cell(row[col], matcher)
-                    for org in orgs:
-                        org_counts[org] += 1
+            for org in extract_orgs_from_row(row, cleaning_patterns):
+                org_counts[org] += 1
 
     print(f"Finished processing {rows_processed} rows")
     print(f"Found {len(org_counts)} unique organization names")
@@ -141,18 +195,22 @@ def update_csv_counts(org_counts):
 
 
 def main():
-    # Initialize the matcher (loads crosswalk and cleaning patterns)
-    print("Loading crosswalk matcher...")
-    matcher = CrosswalkMatcher()
-    print(f"Loaded {matcher.exact_name_count} exact names")
-    print(f"Loaded {matcher.normalized_name_count} normalized names for fuzzy matching")
+    # Load cleaning patterns (cheap — just cleaning_patterns.txt, no crosswalk)
+    print("Loading cleaning patterns...")
+    cleaning_patterns = load_cleaning_patterns()
+
+    # Load crosswalk into a plain name-set for membership checks
+    print("Loading crosswalk names...")
+    exact_set, normalized_set = load_crosswalk_names(CROSSWALK_PATH)
+    print(f"Loaded {len(exact_set)} exact names")
+    print(f"Loaded {len(normalized_set)} normalized names")
 
     # Load already-routed org names from all existing CSVs (norm -> csv filename)
     already_routed = load_already_routed_orgs()
     print(f"Loaded {len(already_routed)} already-routed org names from CSVs")
 
     # Process leginfo file
-    org_counts = process_leginfo_file(matcher)
+    org_counts = process_leginfo_file(cleaning_patterns)
 
     # Update counts in existing CSVs with leginfo counts
     print("\nUpdating counts in existing CSVs...")
@@ -160,8 +218,7 @@ def main():
     print(f"Updated {updated_count} total counts across CSVs")
 
     # Track match statistics
-    exact_match_count = 0
-    normalized_match_count = 0
+    in_crosswalk_count = 0
     already_routed_count = 0
     unmatched_count = 0
     new_unmatched = []
@@ -169,19 +226,12 @@ def main():
     # Write output CSV
     with open(OUTPUT_PATH, 'w', encoding='utf-8', newline='') as f:
         writer = csv.writer(f)
-        writer.writerow(["org_name", "count", "status", "match_type", "canonical_name", "routed_to"])
+        writer.writerow(["org_name", "count", "status", "routed_to"])
 
         for org_name, count in sorted(org_counts.items(), key=lambda x: (-x[1], x[0])):
-            result = matcher.match(org_name)
-
-            if result.is_match:
+            if is_in_crosswalk(org_name, exact_set, normalized_set):
                 status = "in_crosswalk"
-                if result.match_type == 'exact':
-                    exact_match_count += 1
-                else:
-                    normalized_match_count += 1
-                match_type = result.match_type
-                canonical = result.canonical
+                in_crosswalk_count += 1
                 routed_to = ""
             else:
                 norm = normalize_for_matching(org_name)
@@ -194,10 +244,8 @@ def main():
                     unmatched_count += 1
                     new_unmatched.append((org_name, count))
                     routed_to = ""
-                match_type = ""
-                canonical = ""
 
-            writer.writerow([org_name, count, status, match_type, canonical, routed_to])
+            writer.writerow([org_name, count, status, routed_to])
 
     print(f"Output written to {OUTPUT_PATH}")
 
@@ -215,9 +263,7 @@ def main():
     total_unique = len(org_counts)
     print(f"\nStats:")
     print(f"  Total unique orgs: {total_unique}")
-    print(f"  Exact matches: {exact_match_count}")
-    print(f"  Normalized matches (punctuation/spacing): {normalized_match_count}")
-    print(f"  Total in crosswalk: {exact_match_count + normalized_match_count}")
+    print(f"  In crosswalk: {in_crosswalk_count}")
     print(f"  Already routed to CSV: {already_routed_count}")
     print(f"  Unmatched (new): {unmatched_count}")
 
