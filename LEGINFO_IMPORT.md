@@ -51,22 +51,24 @@ See `CLAUDE.md` ("General Crosswalk Workflow Principles") and
 Pull and clean every org name from the five org columns and match each against the
 crosswalk. This pass is **pure script — no AI, no narrative handling.**
 
-> ### ⚠️ Reset these files first (the script is not idempotent)
+> ### ⚠️ Reset `org_names_not_in_crosswalk.csv` first (the script APPENDS to it)
 >
-> `extract_org_names.py` mutates the routing CSVs **in place** — it appends new unmatched
-> orgs to `org_names_not_in_crosswalk.csv` and overwrites counts in the other CSVs — and it
-> regenerates `stats.json`. Re-running without resetting first **stacks** a second run's
-> appends/count-updates on top of the first. So before every run, restore these to their
-> last committed baseline:
+> `extract_org_names.py` **appends** every new unmatched org to
+> `org_names_for_cleaning/org_names_not_in_crosswalk.csv`. If you re-run without clearing it,
+> a second run's unmatched pile is left sitting on top of the first (stale rows that may no
+> longer belong there). So before every run, **truncate this one file back to a header-only
+> file** — actually rewrite its contents, not `git checkout` (a checkout only undoes
+> *uncommitted* changes and does nothing once a prior run is committed):
 >
 > ```bash
-> git checkout -- org_names_for_cleaning/ stats.json
+> printf 'org_name,count\n' > org_names_for_cleaning/org_names_not_in_crosswalk.csv
 > ```
 >
-> (This resets every `org_names_*.csv` routing file plus `stats.json`.)
-> `org_names_import_summary.csv` is fully overwritten each run, so it needs no reset.
-> Only run the reset when the routing CSVs are clean-committed — if you have uncommitted
-> CSV edits you want to keep, commit them first.
+> **Nothing else needs resetting.** The other routing CSVs (`invalid`, `partial`,
+> `individuals`, `conjoined`, …) are **overwritten in place idempotently** — the script
+> rewrites each matching org's count to the current leginfo value, so re-running reproduces
+> the same numbers. `stats.json` is regenerated at the end of every run, and
+> `org_names_import_summary.csv` is fully overwritten — none of these need a manual reset.
 
 ```bash
 python3 extract_org_names.py
