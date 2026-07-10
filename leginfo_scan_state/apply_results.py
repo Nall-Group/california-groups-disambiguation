@@ -22,7 +22,7 @@ Writes: routing CSVs, worklist, $SCAN/processed.txt, $SCAN/rewrites.tsv (append)
 Prints JSON: {batch, valid:[...], routed:{}, removed, rewrites:[[orig,[orgs]]],
 deletes:[...], unresolved:[...]}
 """
-import csv, json, os, sys
+import csv, json, os, re, sys
 from pathlib import Path
 
 PROJECT = Path("/Users/ruthgracewong/california-groups-disambiguation")
@@ -46,6 +46,15 @@ with open(batch_file, newline="") as f:
 diags = json.load(open(results_file))
 by_orig = {d.get("original"): d for d in diags if isinstance(d, dict)}
 
+def _norm(s):
+    return re.sub(r"\s+", " ", (s or "").strip().strip('"').strip("'")).casefold()
+
+# normalized fallback so quote/whitespace echo differences still map (batch names are unique)
+by_norm = {}
+for d in diags:
+    if isinstance(d, dict):
+        by_norm.setdefault(_norm(d.get("original")), d)
+
 remove_from_worklist = set()
 csv_appends = {}      # fn -> [(name,count)]
 valid = []            # crosswalk-adds
@@ -55,7 +64,7 @@ unresolved = []
 processed_now = []
 
 for name, count in items.items():
-    d = by_orig.get(name)
+    d = by_orig.get(name) or by_norm.get(_norm(name))
     if d is None:
         unresolved.append(name); continue
     processed_now.append(name)
