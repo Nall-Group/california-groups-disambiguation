@@ -14,8 +14,62 @@ and git-commit the data changes + TASKS.md + leginfo_scan_state/.
 Prints a summary. Idempotent-ish: re-running the same output re-writes result files but
 apply_results skips already-processed names (ledger), so counts won't double.
 """
-import json, os, subprocess, sys, re
+import json, os, subprocess, sys, re, time
 from pathlib import Path
+
+# --- TASKS.md Write Queue participation (coordinates with the fleet) ---
+QNAME = "Driver-Scan"
+Q_HDR = "## TASKS.md Write Queue"
+Q_END = "## Data Write Queue"
+
+def _q_bounds(lines):
+    try:
+        s = next(i for i, l in enumerate(lines) if l.strip() == Q_HDR)
+        e = next(i for i, l in enumerate(lines) if l.strip() == Q_END)
+        return s, e
+    except StopIteration:
+        return None, None
+
+def _q_name_idxs(lines, s, e):
+    return [i for i in range(s, e) if lines[i].strip().startswith("- ")]
+
+def queue_join(tasks_path):
+    lines = tasks_path.read_text().split("\n")
+    s, e = _q_bounds(lines)
+    if e is None:
+        return False
+    lines.insert(e, f"- {QNAME}")
+    tasks_path.write_text("\n".join(lines))
+    return True
+
+def queue_wait(tasks_path, timeout=900):
+    waited = 0
+    while waited < timeout:
+        lines = tasks_path.read_text().split("\n")
+        s, e = _q_bounds(lines)
+        if e is not None:
+            idxs = _q_name_idxs(lines, s, e)
+            if idxs and lines[idxs[0]].strip() == f"- {QNAME}":
+                return True
+        time.sleep(3); waited += 3
+    return False
+
+def queue_leave(tasks_path):
+    lines = tasks_path.read_text().split("\n")
+    lines = [l for l in lines if l.strip() != f"- {QNAME}"]
+    tasks_path.write_text("\n".join(lines))
+
+def git_commit_retry(cwd, add_files, msg, tries=6):
+    for _ in range(tries):
+        subprocess.run(["git", "add", *add_files], cwd=cwd, capture_output=True, text=True)
+        cp = subprocess.run(["git", "commit", "-m", msg], cwd=cwd, capture_output=True, text=True)
+        blob = (cp.stdout or "") + (cp.stderr or "")
+        if cp.returncode == 0 or "nothing to commit" in blob:
+            return cp
+        if "index.lock" in blob or "another git process" in blob:
+            time.sleep(2); continue
+        return cp
+    return cp
 
 PROJECT = Path("/Users/ruthgracewong/california-groups-disambiguation")
 SCAN = Path(os.environ["TMPDIR"]) / "leginfo_scan"
@@ -83,10 +137,16 @@ for s in summaries:
         rows.append(f"| {next_id} | {delete_task(s['deletes'], s['batch'])} | Not Started |  |  |"); next_id += 1
 
 if rows:
+    # join the TASKS.md Write Queue, wait until we're at the top (no RA editing),
+    # append while holding it, then leave — so a concurrent RA can't clobber our rows.
+    queue_join(TASKS)
+    if not queue_wait(TASKS):
+        print("WARN: TASKS.md queue wait timed out (900s) — appending anyway")
     with open(TASKS, "a") as f:
         for r in rows: f.write(r + "\n")
+    queue_leave(TASKS)
 
-# ---- commit ----
+# ---- commit (retry on concurrent-RA git index.lock) ----
 data_files = [
     "TASKS.md",
     "org_names_for_cleaning/org_names_not_in_crosswalk.csv",
@@ -99,11 +159,10 @@ data_files = [
 ]
 batch_lo = min(s["batch"] for s in summaries) if summaries else 0
 batch_hi = max(s["batch"] for s in summaries) if summaries else 0
-subprocess.run(["git", "add", *data_files], cwd=PROJECT)
 msg = (f"Leginfo scan batches {batch_lo:03d}-{batch_hi:03d}: route CSVs + {len(rows)} tasks\n\n"
        "Generated with [Claude Code](https://claude.ai/code)\nvia [Happy](https://happy.engineering)\n\n"
        "Co-Authored-By: Claude <noreply@anthropic.com>\nCo-Authored-By: Happy <yesreply@happy.engineering>")
-cp = subprocess.run(["git", "commit", "-m", msg], cwd=PROJECT, capture_output=True, text=True)
+cp = git_commit_retry(PROJECT, data_files, msg)
 
 # ---- summary ----
 tv = sum(len(s.get("valid", [])) for s in summaries)
