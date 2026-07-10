@@ -1,0 +1,143 @@
+#!/usr/bin/env python3
+"""Collector: apply one batch's diagnosis JSON to the routing CSVs + worklist,
+record step-4 rewrites, and surface crosswalk-add and prose-deletion work.
+
+Usage: apply_results.py <batch_file.csv> <results.json>
+
+Per-item handling (LEGINFO_IMPORT.md step 2 + locked decisions 2026-07-09):
+- classification invalid/individual/partial (target_csv): append (original,count) to that
+  CSV (dedup), remove original from worklist.
+- classification conjoined: record rewrite(original -> extracted_orgs) for step 4, remove
+  original from worklist (NO csv), each extracted org becomes a crosswalk-add.
+- judgment prose + valid/already_in_crosswalk: record rewrite(original -> extracted_orgs)
+  for step 4, remove the prose from the worklist (NO csv). Add an extracted org as a
+  crosswalk-add ONLY if it is absent (relation != already_present / classification valid).
+- judgment org_name + valid/already_in_crosswalk: crosswalk-add of the ORIGINAL spelling
+  (add as alt/chapter per placement). Leave in worklist (step-3 regenerate sweeps it).
+- delete_from_crosswalk (array on the item, optional): accidental prose nodes found IN the
+  crosswalk -> emit a delete-from-crosswalk RA task. NEVER routed to a CSV.
+Items with no matching diagnosis are left unprocessed (retry), not marked processed.
+
+Writes: routing CSVs, worklist, $SCAN/processed.txt, $SCAN/rewrites.tsv (append).
+Prints JSON: {batch, valid:[...], routed:{}, removed, rewrites:[[orig,[orgs]]],
+deletes:[...], unresolved:[...]}
+"""
+import csv, json, os, sys
+from pathlib import Path
+
+PROJECT = Path("/Users/ruthgracewong/california-groups-disambiguation")
+SUB = PROJECT / "org_names_for_cleaning"
+WORKLIST = SUB / "org_names_not_in_crosswalk.csv"
+STATE = PROJECT / "leginfo_scan_state"          # durable (committed) ledgers
+PROCESSED = STATE / "processed.txt"
+REWRITES = STATE / "rewrites.tsv"
+
+CSV_FOR = {"invalid": "org_names_invalid.csv", "partial": "org_names_partial.csv",
+           "individual": "org_names_that_are_actually_individuals.csv"}
+
+batch_file, results_file = sys.argv[1], sys.argv[2]
+batch_num = int(Path(batch_file).stem.split("_")[1])
+
+items = {}
+with open(batch_file, newline="") as f:
+    for row in csv.reader(f):
+        if row: items[row[0]] = int(row[1])
+
+diags = json.load(open(results_file))
+by_orig = {d.get("original"): d for d in diags if isinstance(d, dict)}
+
+remove_from_worklist = set()
+csv_appends = {}      # fn -> [(name,count)]
+valid = []            # crosswalk-adds
+rewrites = []         # (original, [orgs]) for step 4
+deletes = []          # accidental prose nodes to delete from crosswalk
+unresolved = []
+processed_now = []
+
+for name, count in items.items():
+    d = by_orig.get(name)
+    if d is None:
+        unresolved.append(name); continue
+    processed_now.append(name)
+
+    # accidental prose already in the crosswalk -> delete task (independent of class)
+    for node in (d.get("delete_from_crosswalk") or []):
+        if node: deletes.append(node)
+
+    cls = (d.get("classification") or "").lower()
+    judg = (d.get("judgment") or "").lower()
+    orgs = d.get("extracted_orgs") or []
+    placement = d.get("crosswalk_placement") or {}
+    rel = (placement.get("relation") or "").lower()
+
+    if cls in ("invalid", "individual", "partial"):
+        fn = d.get("target_csv") if d.get("target_csv") in CSV_FOR.values() else CSV_FOR[cls]
+        csv_appends.setdefault(fn, []).append((name, count))
+        remove_from_worklist.add(name)
+
+    elif cls == "conjoined":
+        rewrites.append((name, orgs)); remove_from_worklist.add(name)
+        for org in orgs:
+            valid.append({"name": org, "count": count, "relation": "new_or_existing",
+                          "canonical": None, "attach_to_node": None,
+                          "notes": f"split from conjoined: {name}"})
+
+    elif judg == "prose" and cls in ("valid", "already_in_crosswalk"):
+        rewrites.append((name, orgs)); remove_from_worklist.add(name)
+        if cls == "valid" and rel != "already_present":
+            for org in orgs:
+                valid.append({"name": org, "count": count, "relation": rel or "new_or_existing",
+                              "canonical": placement.get("canonical"),
+                              "attach_to_node": placement.get("attach_to_node"),
+                              "notes": f"extracted from prose: {name[:60]}"})
+
+    elif judg == "org_name" and cls in ("valid", "already_in_crosswalk"):
+        # present under a different spelling OR genuinely new -> add the exact spelling
+        valid.append({"name": name, "count": count, "relation": rel or "alternate_spelling",
+                      "canonical": placement.get("canonical"),
+                      "attach_to_node": placement.get("attach_to_node"),
+                      "notes": d.get("notes", "")})
+        # leave in worklist; step-3 regenerate moves it to in_crosswalk once the RA adds it
+    # anything else: leave in worklist, no action
+
+# ---- apply CSV appends (dedup) ----
+routed = {}
+for fn, pairs in csv_appends.items():
+    p = SUB / fn
+    existing = set()
+    if p.exists():
+        with open(p, newline="") as f:
+            existing = {row[0] for row in csv.reader(f) if row}
+    added = 0
+    with open(p, "a", newline="") as f:
+        w = csv.writer(f)
+        for nm, cnt in pairs:
+            if nm in existing: continue
+            w.writerow([nm, cnt]); existing.add(nm); added += 1
+    routed[fn] = added
+
+# ---- remove routed/prose/conjoined originals from worklist ----
+removed = 0
+if remove_from_worklist:
+    with open(WORKLIST, newline="") as f:
+        r = list(csv.reader(f))
+    header, body = r[0], r[1:]
+    kept = [row for row in body if row and row[0] not in remove_from_worklist]
+    removed = len(body) - len(kept)
+    with open(WORKLIST, "w", newline="") as f:
+        w = csv.writer(f); w.writerow(header); w.writerows(kept)
+
+# ---- append rewrites ledger (for step 4) ----
+if rewrites:
+    with open(REWRITES, "a", newline="") as f:
+        w = csv.writer(f, delimiter="\t")
+        for orig, orgs in rewrites:
+            w.writerow([orig, ";".join(orgs)])
+
+# ---- update processed ledger ----
+with open(PROCESSED, "a") as f:
+    for n in processed_now: f.write(n + "\n")
+
+print(json.dumps({"batch": batch_num, "valid": valid, "routed": routed, "removed": removed,
+                  "rewrites": [[o, gs] for o, gs in rewrites], "deletes": deletes,
+                  "unresolved": unresolved}))

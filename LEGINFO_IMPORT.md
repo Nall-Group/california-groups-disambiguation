@@ -189,6 +189,21 @@ CSV below, and drops it from the working list. If it's already in that CSV, its 
 updated rather than duplicated. (Valid orgs are **not** routed to a CSV — they become RA tasks
 that add them to the crosswalk JSON.)
 
+Two cases that look like "already handled" but aren't:
+
+- **Org name already present under a *different* spelling.** By definition every worklist item
+  failed the deterministic match, so its exact/normalized string is **not** a crosswalk node —
+  even when the org clearly exists under another spelling. Do **not** drop it as "already done."
+  It's a **valid crosswalk-add**: the RA adds *this exact leginfo spelling* as an
+  `alternate_spelling` (or chapter) of the existing canonical, so the spelling is preserved and
+  its bill count can be attributed in step 4.
+- **Accidental prose found *in* the crosswalk.** If, while searching, you discover a node that
+  is itself narrative prose wrongly added as an org (e.g. a node literally named "we strongly
+  support this bill"), it becomes an **RA task to DELETE that node from
+  `2_webapp/org_clusters_crosswalk.json`.** It is **deleted, never moved to a routing CSV** — a
+  CSV entry could later be matched as if it were a real org. (Diagnosis agents surface these via
+  a `delete_from_crosswalk` field; the scanner files the deletion task.)
+
 The routing CSVs in `org_names_for_cleaning/`:
 
 | File | What goes here |
