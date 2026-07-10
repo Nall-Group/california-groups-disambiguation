@@ -101,8 +101,11 @@ for name, count in items.items():
                               "notes": f"extracted from prose: {name[:60]}"})
 
     elif judg == "org_name" and cls in ("valid", "already_in_crosswalk"):
-        # present under a different spelling OR genuinely new -> add the exact spelling
-        valid.append({"name": name, "count": count, "relation": rel or "alternate_spelling",
+        # present under a different spelling OR genuinely new -> add the exact spelling.
+        # "already_present" is not an actionable relation for an add (the exact string is NOT
+        # a node, else step 1 would have matched it) -> instruct the RA to add it as an alt.
+        add_rel = "alternate_spelling" if rel in ("", "already_present", None) else rel
+        valid.append({"name": name, "count": count, "relation": add_rel,
                       "canonical": placement.get("canonical"),
                       "attach_to_node": placement.get("attach_to_node"),
                       "notes": d.get("notes", "")})
