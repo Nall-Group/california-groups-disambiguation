@@ -47,8 +47,9 @@ diags = json.load(open(results_file))
 by_orig = {d.get("original"): d for d in diags if isinstance(d, dict)}
 
 def _norm(s):
-    # drop all quote chars (straight + curly) so CSV-escaped "" echoes still match
-    s = re.sub(r'["“”‘’\']', "", s or "")
+    # strip ALL punctuation (quotes, trailing commas/periods, brackets) so minor echo
+    # differences still map; batch items are unique enough that this is collision-safe
+    s = re.sub(r"[^0-9a-zA-Z%\s]", " ", s or "")
     return re.sub(r"\s+", " ", s).strip().casefold()
 
 # normalized fallback so quote/whitespace echo differences still map (batch names are unique)
