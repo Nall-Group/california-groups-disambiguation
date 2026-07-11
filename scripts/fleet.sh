@@ -8,9 +8,15 @@
 #
 # Commands:
 #   scripts/fleet.sh start [N|name...]   start a detached fleet (default N=3)
-#   scripts/fleet.sh status              show whether RAs are running + task counts
 #   scripts/fleet.sh logs                tail all RA logs (Ctrl-C to stop tailing)
+#   scripts/fleet.sh errors              show classified error log (usage-limit stalls, etc.)
 #   scripts/fleet.sh stop                stop the whole fleet
+#
+# NOTE: there is deliberately NO `status` command. Process-liveness checks
+# (kill -0 / pgrep) are blocked under the Claude Bash sandbox and report a FALSE
+# "not running" even when the fleet is fine. Judge the fleet by on-disk signals
+# that work everywhere: `git log --oneline` (fresh RA commits = alive) and
+# `scripts/fleet.sh errors` / `tail ra_logs/errors.log` (recent usage_limit = stalled).
 #
 # Env knobs (passed through to run_ra.sh): MAX_TASKS, MODEL, MAX_EMPTY, EMPTY_BACKOFF
 
@@ -48,7 +54,7 @@ _reap_fleet() {
   [[ "$left" != "0" ]] && echo "warning: $left worker(s) still not dead (likely stuck in a syscall; will exit on socket timeout)"
 }
 
-cmd="${1:-status}"
+cmd="${1:-help}"
 shift || true
 
 case "$cmd" in
@@ -72,27 +78,7 @@ case "$cmd" in
     echo $! >"$PID_FILE"
     disown 2>/dev/null || true
     echo "fleet started detached (pid $(cat "$PID_FILE"), args: ${args[*]})."
-    echo "logs: ra_logs/*.log   |   status: scripts/fleet.sh status   |   stop: scripts/fleet.sh stop"
-    ;;
-
-  status)
-    if [[ -f "$PID_FILE" ]] && kill -0 "$(cat "$PID_FILE")" 2>/dev/null; then
-      echo "fleet: RUNNING (launcher pid $(cat "$PID_FILE"))"
-    else
-      echo "fleet: not running"
-    fi
-    # Count DISTINCT RA names (a loop briefly forks a subshell during the
-    # claude command-substitution, which would otherwise double-count).
-    workers=$(pgrep -fl "run_ra.sh RA-" 2>/dev/null | grep -oE "RA-[A-Za-z0-9-]+" | sort -u | wc -l | tr -d ' ')
-    echo "active RA loops: $workers"
-    if compgen -G "$LOG_DIR/RA-*.log" >/dev/null; then
-      echo "per-RA completed-task counts this session:"
-      for f in "$LOG_DIR"/RA-*.log; do
-        name="$(basename "$f" .log)"
-        done_n=$(grep -c "completed task process" "$f" 2>/dev/null); done_n="${done_n:-0}"
-        echo "  $name: $done_n"
-      done
-    fi
+    echo "alive? -> git log --oneline (fresh RA commits)  |  stalls -> scripts/fleet.sh errors  |  stop -> scripts/fleet.sh stop"
     ;;
 
   logs)
@@ -116,8 +102,13 @@ case "$cmd" in
     echo "fleet stopped (loops + workers hard-killed)."
     ;;
 
+  help|--help|-h)
+    echo "usage: $0 {start [N|name...]|logs|errors|stop}"
+    echo "  (no 'status' — check 'git log --oneline' for fresh RA commits; 'scripts/fleet.sh errors' for stalls)"
+    ;;
+
   *)
-    echo "usage: $0 {start [N|name...]|status|logs|stop}" >&2
+    echo "usage: $0 {start [N|name...]|logs|errors|stop}" >&2
     exit 1
     ;;
 esac

@@ -44,10 +44,20 @@ the RA fleet. It does not clear by waiting a few min — raise it or wait for th
 - **Leave the fleet RUNNING** through a limit — `run_ra.sh` backs off and auto-resumes. (Only `fleet.sh stop` needs a manual restart; if you must stop it, clear orphan lines from BOTH TASKS.md queues afterward and reset orphaned "In Progress" tasks.)
 
 ## The RA fleet (parallel task drainer)
-`scripts/fleet.sh {start|status|stop}` — 3 detached Opus `claude -p` RAs that work the
+`scripts/fleet.sh {start|logs|errors|stop}` — 3 detached Opus `claude -p` RAs that work the
 `[LEGINFO-CROSSWALK-ADD/DELETE]` tasks. Pair `start` with caffeinate:
 `nohup caffeinate -i -m -s -w <launcher_pid> >/dev/null 2>&1 & disown`.
 Launching fleet from inside a claude Bash tool needs `dangerouslyDisableSandbox:true`.
+
+**Checking fleet status (IMPORTANT — do it this way):** there is deliberately NO
+`fleet.sh status` command. Process checks (`kill -0`, `pgrep`, `ps`) are BLOCKED under the
+Claude Bash sandbox and falsely report "not running." Judge the fleet by on-disk signals,
+which work everywhere:
+- **Alive?** `git log --oneline -5` — recent RA commits (e.g. "Task NNNN: add … (RA-Fleet-x)") = fleet is working.
+- **Stalled?** `scripts/fleet.sh errors` or `tail ra_logs/errors.log` — recent `usage_limit` rows = blocked on the spend limit (fleet auto-resumes when it clears).
+- Need a real process check anyway? Run `pgrep -fl run_ra.sh` with `dangerouslyDisableSandbox:true` (or from a plain terminal).
+The fleet is detached OS processes independent of any Claude session — closing/reopening a
+session doesn't affect it, and a new session sees it via the on-disk signals above.
 
 ## After the worklist drains
 - **Step 3** finalize pipeline: `clean_crosswalk.py` → `regenerate_org_subsets.py` → `generate_stats.py`.
