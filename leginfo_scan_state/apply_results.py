@@ -58,6 +58,22 @@ for d in diags:
     if isinstance(d, dict):
         by_norm.setdefault(_norm(d.get("original")), d)
 
+# containment fallback: on very long prose the agent often echoes a TRUNCATED prefix of
+# the original string, so exact/norm both miss and the item never leaves the worklist.
+# Match when one normalized string is a prefix of the other (>=40 chars) AND exactly one
+# diag qualifies (uniqueness guards against near-duplicate prose sharing a long prefix).
+_diag_norms = [(_norm(d.get("original")), d) for d in diags if isinstance(d, dict)]
+def _contain_match(name):
+    nn = _norm(name)
+    if len(nn) < 40:
+        return None
+    uniq = []
+    for dn, d in _diag_norms:
+        if len(dn) >= 40 and (nn.startswith(dn) or dn.startswith(nn)):
+            if all(d is not u for u in uniq):
+                uniq.append(d)
+    return uniq[0] if len(uniq) == 1 else None
+
 remove_from_worklist = set()
 csv_appends = {}      # fn -> [(name,count)]
 valid = []            # crosswalk-adds
@@ -67,7 +83,7 @@ unresolved = []
 processed_now = []
 
 for name, count in items.items():
-    d = by_orig.get(name) or by_norm.get(_norm(name))
+    d = by_orig.get(name) or by_norm.get(_norm(name)) or _contain_match(name)
     if d is None:
         unresolved.append(name); continue
     processed_now.append(name)
