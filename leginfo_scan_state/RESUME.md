@@ -18,7 +18,23 @@ prose/conjoined→org rewrites for step 4, and files RA tasks for valid crosswal
 - `process_chunk.py` — runs the whole chunk: writes results, runs apply_results per batch, files `[LEGINFO-CROSSWALK-ADD]`/`[LEGINFO-CROSSWALK-DELETE]` tasks (joins TASKS.md Write Queue), commits.
 - `processed.txt` — ledger of diagnosed item names (skip-set). `rewrites.tsv` — prose/conjoined→org, for step 4. `next_batch_num.txt` — batch counter.
 
-## The loop (one chunk). Run SANDBOXED so `$TMPDIR=/tmp/claude-501` stays consistent.
+## PRIMARY: the auto-restarting daemon `scripts/run_scan.sh`
+The scan normally runs UNATTENDED via this daemon — fleet-parity: it loops chunk-by-chunk,
+diagnoses each batch with a parallel `claude -p` Opus worker (NOT the Workflow tool, which
+needs a live session), processes via `process_chunk.py`, and **backs off + auto-resumes on
+the spend limit**. It survives session close and limit resets, just like the RA fleet.
+```
+CONC=8 nohup scripts/run_scan.sh >ra_logs/scan.out 2>&1 & disown
+nohup caffeinate -i -m -s -w $! >/dev/null 2>&1 & disown       # keep Mac awake, auto-release
+```
+(Launch needs `dangerouslyDisableSandbox:true` from inside a claude Bash tool — nested `claude -p`.)
+- **Is it running / progressing?** `tail ra_logs/scan.log` (chunk lines + worklist count) and `git log --oneline` (fresh `Leginfo scan batches …` commits). Do NOT trust process-list checks under the sandbox.
+- **Stop it:** `pkill -f run_scan.sh` (from a terminal / sandbox-off Bash).
+- Knobs: `CHUNK_BATCHES`(40) `CONC`(8) `FATAL_BACKOFF`(300) `TASK_TIMEOUT`(1800) `MAX_CHUNKS`(0=until drained).
+- **Do NOT run the daemon and the manual Workflow loop at the same time** — they'd double-pull batches. Pick one.
+
+## FALLBACK / interactive: drive one chunk by hand via the Workflow tool.
+Run SANDBOXED so `$TMPDIR=/tmp/claude-501` stays consistent.
 Working scripts run from `$TMPDIR/leginfo_scan/` — first copy the committed ones there:
 ```
 mkdir -p "$TMPDIR/leginfo_scan/batches" "$TMPDIR/leginfo_scan/results"
