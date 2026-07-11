@@ -52,6 +52,11 @@ TASK_TIMEOUT="${TASK_TIMEOUT:-2700}"   # 45 minutes
 FATAL_BACKOFF="${FATAL_BACKOFF:-300}"  # 5 minutes
 MODEL_ARG=()
 [[ -n "${MODEL:-}" ]] && MODEL_ARG=(--model "$MODEL")
+# Reasoning effort for the fleet workers. Default medium (was inheriting the launcher's
+# CLAUDE_EFFORT=high). Set both var names so it wins regardless of which the CLI reads;
+# override with e.g. EFFORT=high scripts/fleet.sh start.
+EFFORT="${EFFORT:-medium}"
+export CLAUDE_EFFORT="$EFFORT" CLAUDE_CODE_EFFORT_LEVEL="$EFFORT"
 
 LOG_DIR="$REPO_DIR/ra_logs"
 mkdir -p "$LOG_DIR"

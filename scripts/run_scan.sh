@@ -52,6 +52,11 @@ FATAL_BACKOFF="${FATAL_BACKOFF:-300}"
 TASK_TIMEOUT="${TASK_TIMEOUT:-1800}"
 MAX_CHUNKS="${MAX_CHUNKS:-0}"
 IDLE_SLEEP="${IDLE_SLEEP:-60}"
+# Reasoning effort for the diagnosis workers. Default medium (was inheriting the
+# launcher's CLAUDE_EFFORT=high). Set both var names so it wins regardless of which
+# the CLI reads; override with e.g. EFFORT=high scripts/run_scan.sh.
+EFFORT="${EFFORT:-medium}"
+export CLAUDE_EFFORT="$EFFORT" CLAUDE_CODE_EFFORT_LEVEL="$EFFORT"
 
 worklist_count() { echo $(( $(wc -l < "$WORKLIST") - 1 )); }
 
