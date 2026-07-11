@@ -20,7 +20,7 @@ PROCESSED = STATE / "processed.txt"
 COUNTER = STATE / "next_batch_num.txt"
 
 K = int(sys.argv[1]) if len(sys.argv) > 1 else 40
-SIZE = 15
+SIZE = 30
 
 processed = set()
 if PROCESSED.exists():
