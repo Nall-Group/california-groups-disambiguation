@@ -9,6 +9,45 @@ To edit this file (post questions, write answers), join this queue first. Only t
 
 ## Open Questions
 
+### Q43 (Task 4463, RA-Fleet-1) — Cleaning-pattern proposal: `[SPONSOR]` marker — but it is often a CONJOIN SEPARATOR, so a plain strip would be wrong
+
+**Status:** Open
+
+Not blocking — task 4463 is complete and committed. This is a recurring-pattern proposal per the Worker RA Role ("3+ entries sharing the same strippable boilerplate").
+
+**What I found.** `[SPONSOR]` is a leginfo extraction artifact appearing in **5 crosswalk JSON nodes** and **~25 rows across the `org_names_for_cleaning/` CSVs**. It is a bill-position marker (like the already-stripped `(sponsor)` / `CO-SPONSOR`), so it clearly does not belong in an org name.
+
+**The catch — it has two different meanings**, so I do NOT think a single strip regex is safe:
+
+*Case A — trailing/embedded marker on ONE org (safe to strip):*
+- `Education Coalition of CA [SPONSOR]` → `Education Coalition of CA`
+- `Orange County Employees Assoc. [SPONSOR]` → `Orange County Employees Assoc.`
+- `CA Narcotics Officers Association [SPONSOR]` → `CA Narcotics Officers Association`
+- `Geil Enterprises, Inc., d.b.a. [SPONSOR] CA Industrial Services` → `Geil Enterprises, Inc., d.b.a. CA Industrial Services` (this one is a single org — the dba name straddles the marker)
+
+*Case B — `[SPONSOR]` acts as a SEPARATOR joining TWO orgs (stripping would silently CREATE a conjoined name):*
+- `City of Hesperia [SPONSOR] CA State Association of Counties`
+- `City of South El Monte [SPONSOR]American Civil Liberties Union`
+- `CA State Association of Counties [SPONSOR]CA Taxpayer's Association`
+- `Attorney's Office [SPONSOR] CA Assoc. of Realtors`
+- `American Radio Relay League [SPONSOR]Cities of: Claremont, Moreno Valley, ...`
+
+A blind `\s*\[SPONSOR\]\s*` → `` (or → ` `) would turn Case B into plausible-looking but **fake conjoined orgs** (e.g. `City of Hesperia CA State Association of Counties`), which is exactly the failure mode the pattern rules warn about.
+
+**Proposed regex (Case A only — strip only when the marker is at the END):**
+```
+\s*\[SPONSOR\]\s*$
+```
+This affects roughly **8-10** entries and cannot produce a conjoined name, because there is nothing after the marker.
+
+**Near-misses it must NOT match** (regex above correctly leaves these intact):
+- `City of Hesperia [SPONSOR] CA State Association of Counties` — Case B, marker is mid-string; must stay for manual conjoined-splitting
+- `Geil Enterprises, Inc., d.b.a. [SPONSOR] CA Industrial Services` — single org but marker is mid-string; I handled this one manually in task 4463 (kept both the clean and the original dirty spelling as alts)
+
+**My questions:**
+1. Approve the end-anchored `\s*\[SPONSOR\]\s*$` pattern for `cleaning_patterns.txt`?
+2. For the mid-string Case B entries (~12-15), should I file a task to **split them as conjoined** (each component to the crosswalk, original row to `org_names_conjoined.csv`)? That seems right per CLAUDE.md, but they arrived via leginfo batches whose task text says "do NOT route any to a CSV" — same tension as Q42.
+
 ### Q42 (Task 4430, RA-Fleet-1) — `Industrial District Green Ink People` looks conjoined, but the task says "do NOT route any to a CSV"
 
 **Status:** Open
