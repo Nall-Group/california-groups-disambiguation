@@ -8,9 +8,8 @@ To edit this file (mark tasks, update queues, add tasks), join this queue first.
 ## Data Write Queue
 
 Only the RA at the top of this list has write access to project data files (crosswalk JSON, CSVs). Add yourself to the bottom when you're ready to write. Remove yourself when done.
-1. RA-Fleet-1
-
 1. RA-Fleet-2
+2. RA-Fleet-1
 
 ## Historical Data-Cleaning Log (migrated from README)
 
