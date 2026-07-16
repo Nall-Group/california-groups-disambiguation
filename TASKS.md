@@ -12,6 +12,7 @@ Only the RA at the top of this list has write access to project data files (cros
 
 - RA-Fleet-2 (task 4515)
 - RA-Fleet-3 (task 4516)
+- RA-Fleet-1 (task 4517)
 
 
 ## Historical Data-Cleaning Log (migrated from README)
