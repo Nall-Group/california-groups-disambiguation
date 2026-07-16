@@ -45,8 +45,12 @@ fast "already in the crosswalk → skip" check.
 Its columns are **`narrative_text,mapped_org`** (no count). Each row is a chunk of narrative
 prose — a bill-position sentence with no org name of its own, e.g. *"California Coalition of
 Travel Agents to improve the operation of California's Seller of Travel Law…"* — paired with the
-organization that prose describes (`mapped_org`, left blank if it names none). The prose is
-preserved here rather than in the crosswalk, where it does not belong.
+organization that prose describes. The prose is preserved here rather than in the crosswalk,
+where it does not belong.
+
+**Every row maps to a real org: `mapped_org` is never blank.** Prose that names *no*
+organization is not narrative-with-a-mapping — it's just a non-org, so it goes to
+`org_names_invalid.csv` (`org_name,count`) instead of here.
 
 It is deliberately **outside** the standard routing set:
 
