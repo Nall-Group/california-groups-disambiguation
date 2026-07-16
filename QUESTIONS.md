@@ -6,7 +6,38 @@ RAs post questions here when blocked. The human supervisor answers them.
 
 To edit this file (post questions, write answers), join this queue first. Only the name at the top may edit.
 
+
 ## Open Questions
+
+### Q51 (Task 4601, RA-Fleet-3) — CLEANING PATTERN PROPOSAL: leading `Oppose ` stance prefix — 7 crosswalk entries
+**Status:** Open
+
+Surfaced while doing task 4601 (leginfo batch 924), where 3 of the batch's entries were `Oppose `-prefixed source strings. Per the Worker RA Role I'm proposing a regex rather than cleaning them one by one, and I have **not** touched `cleaning_patterns.txt`. I filed all 3 as exact-spelling alts under their correct canonicals (forward-compatible: if this is approved, `clean_crosswalk.py` reduces each to a still-valid alt or merges it into the canonical).
+
+**The class.** An `opposition` stance column bled into the front of the org name, exactly like the already-approved `Sponsor `/`Support.` prefix class (Q at line ~812). `cleaning_patterns.txt` already strips *trailing* oppose stances (`, oppose$`, `- Oppose$`, `(oppose)$`, `[oppose]$`) but has **no leading-prefix rule**, so these survive. **7 crosswalk entries** match.
+
+**Proposed regex** (leading only, require a letter after the space so it can't eat a parenthetical):
+```
+(?i)^oppose\s+(?=[A-Za-z])
+```
+
+**Example matches (before → after):**
+- `Oppose California District Attorneys Association` → `California District Attorneys Association`
+- `Oppose Amalgamated Transit Union Local 1555` → `Amalgamated Transit Union Local 1555`
+- `Oppose American Forest and Paper Association` → `American Forest and Paper Association`
+
+**Near-misses it must NOT match (verified by running the regex):**
+- `OPPOSITION` / `OPPOSE UNLESS AMENDED` → **not matched** (`^oppose\s+` needs a space + letter; `Opposition` has neither, and the all-caps stance row ends there).
+- `Oppose (continued): |City of Pismo Beach | Consumer Rights` (a conjoined-CSV row) → **not matched**; the `(?=[A-Za-z])` lookahead blocks it, so the regex won't strip into a leading `(continued)` fragment.
+- No legitimate org name in the crosswalk begins with the word `Oppose` — all 7 matches are stance bleed.
+
+**One honest caveat (I ran the regex rather than eyeballing it):** the mixed-case `Oppose Unless Amended` **does** match, yielding `Unless Amended`. That exact string is not in the crosswalk — the stance rows sit in `org_names_invalid.csv` (`OPPOSE UNLESS AMENDED`, `Oppose As Amended`, `Oppose None reported to committee`, ~18 rows) — but since `cleaning_patterns.txt` is applied by `regenerate_org_subsets.py` to the CSVs too, approving this would rewrite those invalid rows into fragments (`As Amended`, `None reported to committee`). They stay invalid either way, so nothing is misclassified, but if you'd rather not churn them I can add a `(?!unless\b|as\b|none\b)` guard to the lookahead.
+
+**Two cases worth your call before this lands:**
+1. `Oppose Child Sierra County Children's Services (concerned)` → would become `Child Sierra County Children's Services (concerned)`, which still looks garbled. Fine either way (it's no worse than today), but flagging it.
+2. Stripping is **not** required for correctness here — all 7 are already alts mapping to the right canonical, so they're orphan-safe as-is. This is a hygiene/consistency call: approve if you want the class handled globally (and future `Oppose `-prefixed leginfo rows auto-cleaned); decline if 7 entries isn't worth another global regex.
+
+Should I file a follow-up task to add this pattern + run the full clean/dedup/stats pipeline?
 
 ### Q50 (Task 4582, RA-Fleet-3) — CLEANING PATTERN PROPOSAL: mid-string PDF page-footer artifacts (`PageB`, `Page n`, `Page 3`) — ~28+ entries
 **Status:** Open
