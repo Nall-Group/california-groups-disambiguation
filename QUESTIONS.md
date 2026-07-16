@@ -9,6 +9,29 @@ To edit this file (post questions, write answers), join this queue first. Only t
 
 ## Open Questions
 
+### Q42 (Task 4430, RA-Fleet-1) — `Industrial District Green Ink People` looks conjoined, but the task says "do NOT route any to a CSV"
+
+**Status:** Open
+
+Not a blocker for the rest of task 4430 — I completed the other 87 of 88 entries and committed them. This one entry is **deferred, not added anywhere**, pending your call.
+
+**The conflict.** Task 4430 (leginfo resolution scan batch 735) diagnosed all 88 entries as valid orgs and says *"Do NOT route any to a CSV."* But `Industrial District Green Ink People` (1) appears to be **two unrelated orgs conjoined by the extractor**, and CLAUDE.md's standing rule says conjoined entries go to `org_names_conjoined.csv`. I didn't want to force a wrong merge or override the task text on my own, so I left it out.
+
+**Why I think it's conjoined** — both components already exist in the crosswalk as separate trees:
+- `Industrial District Green` — canonical (childless). A downtown-LA greening project; its fiscal sponsor is **Community Partners**, per communitypartners.org / LA2050.
+- `Ink People` — `alternate_spelling` under canonical `Ink People Center for Arts and Culture` (Eureka, Humboldt County arts nonprofit).
+
+Web research turned up **no relationship** between the two (no shared fiscal sponsorship, no shared program, ~600 miles apart, unrelated sectors). The string reads like two adjacent supporter-list entries that got joined during extraction.
+
+**My recommendation (option a).** Route `Industrial District Green Ink People,1` to `org_names_conjoined.csv`. Both component orgs are **already in the crosswalk**, so the conjoined rule's "ensure each component is present" is already satisfied — no new canonicals needed, no org names lost.
+
+**Options:**
+- **(a)** Move `Industrial District Green Ink People,1` → `org_names_conjoined.csv`. Nothing else to do. ← recommended
+- **(b)** It's actually one real org I couldn't find — tell me the correct canonical/placement and I'll add it.
+- **(c)** Something else (e.g. attach as an alt under one of the two components — I'd advise against; it would wrongly associate the two).
+
+If (a), this is a one-line follow-up task.
+
 ### Q41 (Task 4410, RA-Fleet-3) — Cleaning-pattern proposal: strip trailing `, unless amended`
 
 **Status:** Open
