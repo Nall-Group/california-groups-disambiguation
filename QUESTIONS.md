@@ -9,6 +9,41 @@ To edit this file (post questions, write answers), join this queue first. Only t
 
 ## Open Questions
 
+### Q40 (Task 4407, RA-Fleet-3) — Seventh instance of the lost-separator conjoined class: `Natural Resources Defense Council` + `San Diego BayKeeper`
+
+**Status:** Open
+
+**Same class as Q32/Q33/Q34/Q35/Q38/Q39.** Task 4407 is a single-entry LEGINFO-CROSSWALK-ADD batch, and its one entry is another lost-separator conjoined artifact, so the batch has nothing to add. Filing so the entry isn't lost.
+
+**The entry.** Task 4407 hints: `Natural Resources Defense Council, San Diego` (1) -> "new or existing" under **Natural Resources Defense Council**.
+
+**Why the hint is wrong.** At face value the string reads as an NRDC San Diego office, and the crosswalk already has `Natural Resources Defense Council, San Francisco` as an `alternate_spelling` — so the obvious move would be to add the San Diego string the same way. The source says otherwise: the trailing `San Diego` is not a city suffix on NRDC, it is the **first half of the next org, `San Diego BayKeeper`**.
+
+**The source proves it — both occurrences.** `Natural Resources Defense Council, San Diego` appears exactly **twice** in `leginfo_metadata.csv`, and in both the very next token is `BayKeeper`:
+
+```
+... Heal the Bay, Natural Heritage; Institute, Natural Resources Defense Council, San Diego BayKeeper, Santa Clara Valley Audubon; Society, Sierra Club, ...
+```
+```
+... Councilmember Donna Frye, City of San Diego, Natural Resources Defense Council, San Diego; BayKeeper, Sierra Club, San Diego Chapter, The Ocean Conservancy, 28 individuals
+```
+
+The first is unambiguous (`Natural Resources Defense Council` ; `San Diego BayKeeper`). The second is the mangled one that produced the task string: the `;` landed **inside** `San Diego BayKeeper`, so the `;`-split cut it into `... Natural Resources Defense Council, San Diego` and `BayKeeper, Sierra Club, ...`. There is **no occurrence anywhere in the source of an NRDC San Diego office** — the string only ever exists as this straddle.
+
+**Both constituents are already in the crosswalk**, so nothing is lost by routing the string to `org_names_conjoined.csv`:
+- `Natural Resources Defense Council` — top-level canonical with many alts (JSON ~line 622648).
+- `San Diego Baykeeper` — an `alternate_spelling` under canonical `San Diego Coastkeeper` (~line 758731; the org renamed Baykeeper -> Coastkeeper in 2008).
+
+The two enclosing `;`-cells are **already** routed to `org_names_conjoined.csv` (lines 5247 and 6733), which corroborates the reading.
+
+**Conflict with the task instructions.** Task 4407 says "Do NOT route any to a CSV" — but the one entry is not a valid org, so following that literally would mint a fake NRDC San Diego office. Blocking rather than deviating, consistent with Q32-Q39.
+
+**Proposed action (same as the rest of the class):** add `"Natural Resources Defense Council, San Diego",1` to `org_names_conjoined.csv`, add nothing to the crosswalk, and close task 4407 with no crosswalk change.
+
+**Meta:** this is the **seventh** instance, and all seven (Q32/Q33/Q34/Q35/Q38/Q39/Q40) are still Open. A single blanket ruling on the class — "lost-separator conjoined straddle, both constituents already present -> route to `org_names_conjoined.csv`, no crosswalk change, no question needed" — would unblock tasks 4126, 4187, 4196, 4205, 4338, 4402 and 4407 at once and let future RAs handle these inline.
+
+---
+
 ### Q39 (Task 4402, RA-Fleet-3) — Sixth instance of the lost-separator conjoined class: `California Probation, Parole, and Correctional Association` + `Chief Probation Officers of California`
 
 **Status:** Open
