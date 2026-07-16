@@ -9,6 +9,47 @@ To edit this file (post questions, write answers), join this queue first. Only t
 
 ## Open Questions
 
+### Q38 (Task 4338, RA-Fleet-2) — Lost-separator conjoined: `California Veterans Board` + `Veterans Advisory Council, County of Orange` — same class as Q32/Q33/Q34/Q35
+
+**Status:** Open
+
+**Fifth instance of the Q32-Q35 class.** Filing so the entry isn't lost. 11 of the 12 batch-630 entries are committed (`3d2b531a`); only this one is open.
+
+**The entry.** Task 4338 hints: `California Veterans Board Veterans Advisory Council, County of Orange` (1) -> alternate spelling of **COUNTY OF ORANGE VETERANS ADVISORY COUNCIL**.
+
+**The source proves it is conjoined — a lost `;`.** The whole `support` cell of AB 3155 (1993, veterans benefits), `leginfo_metadata.csv` line 17001, reads:
+
+```
+Department of Veterans Affairs; California Veterans Board Veterans Advisory Council, County of Orange
+```
+
+Read with the separator restored, the list is three orgs: `Department of Veterans Affairs` ; `California Veterans Board` ; `Veterans Advisory Council, County of Orange`. The `;` between the 2nd and 3rd was lost — the exact mechanism of Q32 and Q34.
+
+**Both constituents are already in the crosswalk**, so nothing would be lost by routing the string to `org_names_conjoined.csv`:
+- `California Veterans Board` — a top-level canonical (3 children). It is a real CA state body (governing board of CalVet).
+- `Veterans Advisory Council, County of Orange` — already an `alternate_spelling` under `COUNTY OF ORANGE VETERANS ADVISORY COUNCIL` (and already carries 147 bills in `leginfo_added_to_crosswalk.csv`).
+
+**Why the hint is wrong:** applying it would attribute the California Veterans Board's support of AB 3155 to the Orange County council, which did not support it.
+
+**Why I'm asking instead of just fixing it:** same conflict as Q32-Q35 — the task says *"Do NOT route any to a CSV"*, but CLAUDE.md says conjoined entries go to `org_names_conjoined.csv`.
+
+**Note for the Q35 sweep question:** this artifact class is already *in* the crosswalk. `California Veterans Board Veterans Advisory Council` (the same string, minus the Orange County tail) currently sits as an `alternate_spelling` under canonical `California Veterans Advisory Council` — i.e. a previous batch already placed this exact junk the hinted way. Likewise `Alliance California Trial Lawyers Association` is a live top-level canonical produced by the same column-flattening. Both are examples for the sweep proposed in Q35.
+
+**Question — which do you want?**
+- **(a)** Route the row to `org_names_conjoined.csv` (both constituents already present, so no crosswalk change needed). Consistent with CLAUDE.md and with the recommendations in Q32/Q33/Q34/Q35. **My recommendation.**
+- **(b)** Apply the hint (alt of `COUNTY OF ORANGE VETERANS ADVISORY COUNCIL`), accepting the misattribution.
+- **(c)** Something else — e.g. make it an alt of `California Veterans Board` (the leading org, which the lost separator actually belongs to).
+
+**The general ruling suggested in Q34 would close this too**, with no extra round-trip: *when the leginfo source shows a string is a mis-split of a supporter list, route it to `org_names_conjoined.csv` provided every constituent org is already in the crosswalk.* This is now the 5th blocked entry of this class; a single ruling would unblock tasks 4126, 4187, 4196, 4205 and 4338 together.
+
+**A note on where I did NOT block.** Three other batch-630 entries came from the same column-flattening but I judged them *garbled single-org* strings, not conjoined, and applied the hints (committed):
+- `California Teamsters Public Commerce Council` -> alt of `California Teamsters Public Affairs Council` ("Commerce" spliced in from `California Chamber of Commerce` in the adjacent column)
+- `California Trial Lawyers Alliance Association` -> alt of `CALIFORNIA TRIAL LAWYERS ASSOCIATION` ("Alliance" spliced in from `California Mobilehome Parkowners Alliance`)
+- `California Trial Lawyers Reform Association` -> alt of `CALIFORNIA TRIAL LAWYERS ASSOCIATION` ("Reform" spliced in from `Association for California Tort Reform`)
+
+My reasoning: in each the spliced token is a *fragment* of another org, not a whole org, so CLAUDE.md's conjoined definition ("multiple orgs joined together") doesn't fit, and the real org is unambiguous — CLAUDE.md principle 3 says preserve it as an alt of that org. **Please correct me if you'd rather these also go to `org_names_conjoined.csv`** — they are 1-count entries and trivial to move.
+
+
 ### Q36 (Task 4274, RA-Fleet-1) — Cleaning-pattern proposal: leginfo `None` / `None on file.` stance boilerplate
 
 **Status:** Open
