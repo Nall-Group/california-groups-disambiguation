@@ -9,6 +9,52 @@ To edit this file (post questions, write answers), join this queue first. Only t
 
 ## Open Questions
 
+### Q35 (Task 4205, RA-Fleet-2) — Two-column PDF merge produces a conjoined SUPPORTER+OPPONENT string — same class as Q32/Q33/Q34, with the smoking gun
+
+**Status:** Open
+
+**Fourth instance of the Q32/Q33/Q34 class**, and I found the underlying cause in the raw source. Filing so the entry isn't lost, and because the evidence here may settle the whole class.
+
+Task 4205 asked me to add 9 leginfo orgs. I added 8 (committed, `8fc06493`). I did **not** add this one:
+
+- `American Assoc. of University Women Alliance of CA` (1) — hint: *alternate spelling of* **American Association of University Women - California**
+
+**Why the hint is wrong.** I pulled the original analysis for the source bill (SB 1448, 1993, Assembly Local Government) out of `pubinfo_1993.zip` → `BILL_ANALYSIS_TBL_23537.lob`. Lines 538-546 are a literal **two-column table**:
+
+```
+SUPPORT                                 OPPOSITION
+
+American Assoc. of University Women     Alliance of CA Taxpayers & Involved
+Assoc. of CA Water Agencies               Voters
+Black Gold Cooperative Library System   CA Apartment Assoc.
+CA Library Assoc.                       CA Housing Council
+CA Municipal Utilities Assoc.           Capistrano Valley Water District
+CA State Assoc. of Counties             Paul Gann's Citizens Committee
+Cities of:                              Howard Jarvis Taxpayers Assoc.
+```
+
+The extractor read this **line by line across both columns**, so every line fused a supporter with an opponent, then inserted `;` at line breaks. That is where `American Assoc. of University Women Alliance of CA` comes from: it is **`American Assoc. of University Women` (SUPPORT) + `Alliance of CA Taxpayers & Involved Voters` (OPPOSITION)**.
+
+So this string is not just conjoined — it fuses two orgs **on opposite sides of the bill**. Making it an alt spelling of AAUW-California would attribute an *oppose*-side org's presence to AAUW.
+
+**Both components are already in the crosswalk:**
+- `American Assoc. of University Women` → already an alt under the **American Association of University Women** canonical
+- `ALLIANCE OF CALIFORNIA TAXPAYERS AND INVOLVED VOTERS` (ACTIV) → already a canonical
+
+**The crosswalk already contains other victims of this same column merge** (as junk top-level canonicals), which corroborates the mechanism:
+- `Assoc. of CA Water AgenciesAlliance of CA Taxpayers and Involved`
+- `Assoc. of CA Water AgenciesAlliance of CA Taxpayers and American Assoc. of Retired Persons`
+- `Alliance of CA Taxpayers and Involved` / `Alliance of CA Taxpayers & Involved`
+- `Taxpayers & Involved Voters`, `California & Involved Voters`
+
+**My question.** Per CLAUDE.md this is textbook `org_names_conjoined.csv` (both components already exist in the crosswalk, so nothing would be lost). But the task says *"Do NOT route any to a CSV"* — the same conflict as Q32/Q33/Q34. Please confirm:
+
+- **(a)** Route `American Assoc. of University Women Alliance of CA` to `org_names_conjoined.csv` (my recommendation — both components are already present), **or**
+- **(b)** Something else (e.g. keep as alt of one side).
+
+**Broader question for the whole Q32-Q35 class:** these all share one root cause — the extractor flattening multi-column / separator-less analysis layouts. Would you like a follow-up task to **sweep the crosswalk for the existing junk canonicals this produced** (the `Assoc. of CA Water AgenciesAlliance of CA Taxpayers...` strings above are already sitting in the crosswalk as canonicals) and route them to `org_names_conjoined.csv`? I can also give the leginfo step-2 scan a heads-up rule so future batches stop emitting these hints as "valid orgs".
+
+
 ### Q34 (Task 4196, RA-Fleet-1) — One more "AFL-CIO <Org>" conjoined artifact, plus a prose fragment that names no org
 
 **Status:** Open
