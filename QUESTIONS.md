@@ -39,7 +39,7 @@ Note: it must strip to a SINGLE space when mid-string (not empty), else `Santa P
 ---
 
 ### Q49 (Task 4570, RA-Fleet-3) — Eleventh instance of the lost-separator conjoined class: `Monterey Peninsula Taxpayers Assoc.` + `Los Angeles County` — the source cell shows FOUR merges in a row
-**Status:** Open
+**Status:** Answered — APPROVED (supervisor, 2026-07-16). Route the fused/conjoined string to `org_names_conjoined.csv` (count 1), add nothing to the crosswalk; any prose fragment that names no org → `org_names_invalid.csv`. This is now a **STANDING RULE** (baked into `LEGINFO_IMPORT.md` conjoined section): a lost-separator conjoined straddle whose components are all already in the crosswalk is handled **inline — no blocking, no question**; only escalate if a component is missing. Closes the whole Q32–Q49 lost-separator class.
 
 **Same class as Q35/Q39/Q40/Q44/Q46/Q47.** Task 4570 (leginfo batch 895) had 12 entries. I resolved 11 and committed them: 7 added (6 new canonicals + 1 alt), 4 already present. The 12th is another lost-separator conjoined artifact.
 
@@ -115,7 +115,7 @@ The neighbours that were NOT merged (`Sacramento County Taxpayers League`, `Unit
 
 ### Q47 (Task 4560, RA-Fleet-3) — Tenth instance of the lost-separator conjoined class: `Mayor of San Leandro` + `City of Albany` — full source cell retrieved
 
-**Status:** Open
+**Status:** Answered — APPROVED (supervisor, 2026-07-16). Route the fused/conjoined string to `org_names_conjoined.csv` (count 1), add nothing to the crosswalk; any prose fragment that names no org → `org_names_invalid.csv`. This is now a **STANDING RULE** (baked into `LEGINFO_IMPORT.md` conjoined section): a lost-separator conjoined straddle whose components are all already in the crosswalk is handled **inline — no blocking, no question**; only escalate if a component is missing. Closes the whole Q32–Q49 lost-separator class.
 
 **Same class as Q32/Q33/Q34/Q35/Q38/Q39/Q40/Q44/Q46.** Task 4560 (leginfo batch 885) had 15 entries. I resolved 14 and committed them (`e6575f18`): 13 added as alternate spellings, 1 (`Mayor pro Tem Mary England, City of Lemon Grove`) already present as a case variant. The 15th is another lost-separator conjoined artifact.
 
@@ -145,7 +145,7 @@ Task 4560 is marked **Blocked** with the assignee cleared; the 14 resolved entri
 
 ### Q46 (Task 4541, RA-Fleet-2) — Ninth instance of the lost-separator conjoined class: `Los Angeles Area Chamber of Commerce` + `Management & Capital Group` — with a decisive alphabetical smoking gun
 
-**Status:** Open
+**Status:** Answered — APPROVED (supervisor, 2026-07-16). Route the fused/conjoined string to `org_names_conjoined.csv` (count 1), add nothing to the crosswalk; any prose fragment that names no org → `org_names_invalid.csv`. This is now a **STANDING RULE** (baked into `LEGINFO_IMPORT.md` conjoined section): a lost-separator conjoined straddle whose components are all already in the crosswalk is handled **inline — no blocking, no question**; only escalate if a component is missing. Closes the whole Q32–Q49 lost-separator class.
 
 **Same class as Q32/Q33/Q34/Q35/Q38/Q39/Q40/Q44.** Task 4541 (leginfo batch 864) had 20 entries. I resolved 19 and committed them (`bb78ae68`): 11 added as alternate spellings, 8 were already present verbatim. The 20th is another lost-separator conjoined artifact.
 
@@ -216,7 +216,7 @@ Three proposed regexes (all case-insensitive). `co-?sponsors?` requires the lite
 
 ### Q44 (Task 4512, RA-Fleet-1) — Eighth instance of the lost-separator conjoined class: `JERICHO` + `National Center for Youth Law` — with a same-cell control case
 
-**Status:** Open
+**Status:** Answered — APPROVED (supervisor, 2026-07-16). Route the fused/conjoined string to `org_names_conjoined.csv` (count 1), add nothing to the crosswalk; any prose fragment that names no org → `org_names_invalid.csv`. This is now a **STANDING RULE** (baked into `LEGINFO_IMPORT.md` conjoined section): a lost-separator conjoined straddle whose components are all already in the crosswalk is handled **inline — no blocking, no question**; only escalate if a component is missing. Closes the whole Q32–Q49 lost-separator class.
 
 **Same class as Q32/Q33/Q34/Q35/Q38/Q39/Q40.** Task 4512 (leginfo batch 837) had 9 entries. I added 8 (committed, `3205cdde`). The 9th is another lost-separator conjoined artifact.
 
@@ -346,7 +346,7 @@ Not a blocker — task 4410 is committed. Filing per the Worker RA "3 or more di
 
 ### Q40 (Task 4407, RA-Fleet-3) — Seventh instance of the lost-separator conjoined class: `Natural Resources Defense Council` + `San Diego BayKeeper`
 
-**Status:** Open
+**Status:** Answered — APPROVED (supervisor, 2026-07-16). Route the fused/conjoined string to `org_names_conjoined.csv` (count 1), add nothing to the crosswalk; any prose fragment that names no org → `org_names_invalid.csv`. This is now a **STANDING RULE** (baked into `LEGINFO_IMPORT.md` conjoined section): a lost-separator conjoined straddle whose components are all already in the crosswalk is handled **inline — no blocking, no question**; only escalate if a component is missing. Closes the whole Q32–Q49 lost-separator class.
 
 **Same class as Q32/Q33/Q34/Q35/Q38/Q39.** Task 4407 is a single-entry LEGINFO-CROSSWALK-ADD batch, and its one entry is another lost-separator conjoined artifact, so the batch has nothing to add. Filing so the entry isn't lost.
 
@@ -381,7 +381,7 @@ The two enclosing `;`-cells are **already** routed to `org_names_conjoined.csv` 
 
 ### Q39 (Task 4402, RA-Fleet-3) — Sixth instance of the lost-separator conjoined class: `California Probation, Parole, and Correctional Association` + `Chief Probation Officers of California`
 
-**Status:** Open
+**Status:** Answered — APPROVED (supervisor, 2026-07-16). Route the fused/conjoined string to `org_names_conjoined.csv` (count 1), add nothing to the crosswalk; any prose fragment that names no org → `org_names_invalid.csv`. This is now a **STANDING RULE** (baked into `LEGINFO_IMPORT.md` conjoined section): a lost-separator conjoined straddle whose components are all already in the crosswalk is handled **inline — no blocking, no question**; only escalate if a component is missing. Closes the whole Q32–Q49 lost-separator class.
 
 **Same class as Q32/Q33/Q34/Q35/Q38.** Filing so the entry isn't lost. 8 of the 9 batch-698 entries are committed (`6c11a982`); only this one is open.
 
@@ -419,7 +419,7 @@ Task 4402 is marked **Blocked** with the assignee cleared; the 8 resolved entrie
 
 ### Q38 (Task 4338, RA-Fleet-2) — Lost-separator conjoined: `California Veterans Board` + `Veterans Advisory Council, County of Orange` — same class as Q32/Q33/Q34/Q35
 
-**Status:** Open
+**Status:** Answered — APPROVED (supervisor, 2026-07-16). Route the fused/conjoined string to `org_names_conjoined.csv` (count 1), add nothing to the crosswalk; any prose fragment that names no org → `org_names_invalid.csv`. This is now a **STANDING RULE** (baked into `LEGINFO_IMPORT.md` conjoined section): a lost-separator conjoined straddle whose components are all already in the crosswalk is handled **inline — no blocking, no question**; only escalate if a component is missing. Closes the whole Q32–Q49 lost-separator class.
 
 **Fifth instance of the Q32-Q35 class.** Filing so the entry isn't lost. 11 of the 12 batch-630 entries are committed (`3d2b531a`); only this one is open.
 
@@ -496,7 +496,7 @@ There's no exact `Capistrano Valley` node. I did **not** add it and did **not** 
 
 ### Q35 (Task 4205, RA-Fleet-2) — Two-column PDF merge produces a conjoined SUPPORTER+OPPONENT string — same class as Q32/Q33/Q34, with the smoking gun
 
-**Status:** Open
+**Status:** Answered — APPROVED (supervisor, 2026-07-16). Route the fused/conjoined string to `org_names_conjoined.csv` (count 1), add nothing to the crosswalk; any prose fragment that names no org → `org_names_invalid.csv`. This is now a **STANDING RULE** (baked into `LEGINFO_IMPORT.md` conjoined section): a lost-separator conjoined straddle whose components are all already in the crosswalk is handled **inline — no blocking, no question**; only escalate if a component is missing. Closes the whole Q32–Q49 lost-separator class.
 
 **Fourth instance of the Q32/Q33/Q34 class**, and I found the underlying cause in the raw source. Filing so the entry isn't lost, and because the evidence here may settle the whole class.
 
@@ -542,7 +542,7 @@ So this string is not just conjoined — it fuses two orgs **on opposite sides o
 
 ### Q34 (Task 4196, RA-Fleet-1) — One more "AFL-CIO <Org>" conjoined artifact, plus a prose fragment that names no org
 
-**Status:** Open
+**Status:** Answered — APPROVED (supervisor, 2026-07-16). Route the fused/conjoined string to `org_names_conjoined.csv` (count 1), add nothing to the crosswalk; any prose fragment that names no org → `org_names_invalid.csv`. This is now a **STANDING RULE** (baked into `LEGINFO_IMPORT.md` conjoined section): a lost-separator conjoined straddle whose components are all already in the crosswalk is handled **inline — no blocking, no question**; only escalate if a component is missing. Closes the whole Q32–Q49 lost-separator class.
 
 **Third instance of the Q32/Q33 class** — the leginfo hint says place/create it, and the task says *"Do NOT route any to a CSV"*, but the source proves the string isn't an org. Answering Q33 answers entry 1 below; entry 2 is a related but distinct case. Filing so the 2 entries aren't lost.
 
@@ -584,7 +584,7 @@ Task 4196 is marked **Blocked** with the assignee cleared; the 4 adds are alread
 
 ### Q33 (Task 4187, RA-Fleet-3) — Two "AFL-CIO <Org>" entries are conjoined artifacts, not new canonicals — same class as Q32
 
-**Status:** Open
+**Status:** Answered — APPROVED (supervisor, 2026-07-16). Route the fused/conjoined string to `org_names_conjoined.csv` (count 1), add nothing to the crosswalk; any prose fragment that names no org → `org_names_invalid.csv`. This is now a **STANDING RULE** (baked into `LEGINFO_IMPORT.md` conjoined section): a lost-separator conjoined straddle whose components are all already in the crosswalk is handled **inline — no blocking, no question**; only escalate if a component is missing. Closes the whole Q32–Q49 lost-separator class.
 
 **This is the same question as Q32** (leginfo hint says "new canonical" + "Do NOT route any to a CSV", but the source proves the string is conjoined). Answering Q32 almost certainly answers this too — I'm filing it so the 2 entries aren't lost.
 
@@ -635,7 +635,7 @@ Task 4187 is marked **Blocked** with the assignee cleared; the 3 unambiguous org
 
 
 ### Q32 (Task 4126, RA-Fleet-2) — "Women For: <Org>" entries are conjoined, not alternate spellings
-**Status:** Open
+**Status:** Answered — APPROVED (supervisor, 2026-07-16). Route the fused/conjoined string to `org_names_conjoined.csv` (count 1), add nothing to the crosswalk; any prose fragment that names no org → `org_names_invalid.csv`. This is now a **STANDING RULE** (baked into `LEGINFO_IMPORT.md` conjoined section): a lost-separator conjoined straddle whose components are all already in the crosswalk is handled **inline — no blocking, no question**; only escalate if a component is missing. Closes the whole Q32–Q49 lost-separator class.
 
 Task 4126 asked me to add 8 leginfo orgs. I added 5 (committed, `05b9450e`). I did **not** add the other 3, because the leginfo source shows the task's placement hints would inject bad data:
 
