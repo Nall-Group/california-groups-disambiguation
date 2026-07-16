@@ -8,6 +8,44 @@ To edit this file (post questions, write answers), join this queue first. Only t
 
 ## Open Questions
 
+### Q48 (Task 4565, RA-Fleet-3) — Cleaning-pattern proposal: unhyphenated `(cosponsors)` suffix is not stripped (11 entries)
+
+**Status:** Open
+
+**Type:** reusable cleaning-pattern proposal (per CLAUDE.md "Proposing new cleaning patterns"). Not blocking — task 4565 is committed; this is a global cleanup for sign-off.
+
+**The gap.** `cleaning_patterns.txt` already strips the *hyphenated* forms — line 7 `\(co-sponsor\)`, line 16 `\(co-sponsors\)`. It does **not** strip the *unhyphenated* `(cosponsors)`. Line 35's catch-all `\(...\bsponsor...\)$` also misses it, because in `cosponsors` there is no word boundary between `co` and `sponsors`, so `\bsponsor` never matches. Confirmed with `python3 scripts/clean_name.py "Medical Oncology Association of Southern California (cosponsors)"` -> returns the string unchanged.
+
+**Proposed regex** (strips a trailing `(cosponsor)` / `(cosponsors)` tag):
+
+```
+(?i)\s*\(cosponsors?\)\s*$
+```
+
+**Example matches (before -> after):**
+- `California Hospital Association (cosponsors)` -> `California Hospital Association`
+- `American College of Surgeons (cosponsors)` -> `American College of Surgeons`
+- `Los Angeles LGBT Center (cosponsors)` -> `Los Angeles LGBT Center`
+
+**Near-misses it must NOT match (verified against the current regex):**
+- `California League of Savings (co-sponsor) Institutions` — the tag is **mid-string**, not a suffix, and the org name continues after it. The `$` anchor leaves this untouched (it is also a separate conjoined/lost-text issue, not a suffix strip).
+- `Medical Oncology Association of Southern California (MOASC)` — a legitimate trailing **acronym** in parens. Per [[scan_valid_vs_dirty_affixes]] trailing `(ACRONYM)` is a valid org-name part; the regex only matches the literal word `cosponsor(s)`, so acronyms are safe.
+
+**Affected entries: 11** (all currently in `2_webapp/org_clusters_crosswalk.json`):
+- `American Cancer Society Cancer Action Network (cosponsors)`
+- `American College of Surgeons (cosponsors)`
+- `Association of Northern California Oncologists (cosponsors)`
+- `California Chronic Care Coalition (cosponsors)`
+- `California Hospital Association (cosponsors)`
+- `California Pharmacists Association (cosponsors)`
+- `California Professional Firefighters (cosponsors)`
+- `Emergency Medical Services Administrator's Association of California (cosponsors)`
+- `Leukemia Lymphoma Society (cosponsors)`
+- `Los Angeles LGBT Center (cosponsors)`
+- `Medical Oncology Association of Southern California (cosponsors)`
+
+**One caveat worth a decision.** These 11 dirty strings are real source rows. Stripping them globally will collapse each onto its clean canonical, which orphans the dirty source string to `not_in_crosswalk.csv` (the [[prefix_strip_orphan]] / task 1716 failure mode). The established fix is to keep BOTH spellings as alts. **Question: should the approved pattern task (a) strip and re-add each dirty string as an `alternate_spelling` of its clean canonical, or (b) just strip and let `regenerate_org_subsets.py` re-route the orphans?** I recommend (a), consistent with task 1716 and how task 4518/4565 kept the dirty string as an alt so the source row maps.
+
 ### Q47 (Task 4560, RA-Fleet-3) — Tenth instance of the lost-separator conjoined class: `Mayor of San Leandro` + `City of Albany` — full source cell retrieved
 
 **Status:** Open
