@@ -206,15 +206,11 @@ Two cases that look like "already handled" but aren't:
 - **Accidental prose found *in* the crosswalk.** If, while searching, you discover a node that
   is itself narrative prose wrongly added as an org (e.g. a node literally named "we strongly
   support this bill", or "California Coalition of Travel Agents to improve the operation of…"),
-  it becomes an **RA task to remove that node from `2_webapp/org_clusters_crosswalk.json`**.
-  If the prose describes a real org, extract it and **record `narrative_text,mapped_org` in
-  `org_names_for_cleaning/narrative_text_mapping_to_orgs.csv`** (search the crosswalk first; add
-  the org as a new canonical only if it's genuinely absent) — the mapping file's separate schema
-  is read only to *skip* the prose (step 1) and attribute its count to the real org (step 4), so
-  it is never read back as a real org the way the standard `org_name,count` buckets are. **If the
-  prose names no org**, it does **not** go in the mapping file (which never has a blank
-  `mapped_org`) — route it to `org_names_invalid.csv` instead. (Diagnosis agents surface these
-  via a `delete_from_crosswalk` field; the scanner files the removal-and-record task.)
+  it becomes an **RA task to remove that node from `2_webapp/org_clusters_crosswalk.json`**,
+  handled per the narrative-entry rules in `CLAUDE.md` ("Handling Invalid Entries") — the RA
+  records it in `narrative_text_mapping_to_orgs.csv` if it maps to an org, or
+  `org_names_invalid.csv` if it names none. It is **not** left in the crosswalk. (Diagnosis
+  agents surface these via a `delete_from_crosswalk` field; the scanner files the task.)
 
 The routing CSVs in `org_names_for_cleaning/`:
 
