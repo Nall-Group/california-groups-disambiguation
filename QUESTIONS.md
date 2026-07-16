@@ -9,6 +9,42 @@ To edit this file (post questions, write answers), join this queue first. Only t
 
 ## Open Questions
 
+### Q36 (Task 4274, RA-Fleet-1) — Cleaning-pattern proposal: leginfo `None` / `None on file.` stance boilerplate
+
+**Status:** Open
+
+Leginfo batch 568 contained three entries where the source string has a literal `None` / `None on file.` spliced onto the end — it's the leginfo stance field rendering "no position on file", not part of the org name. I added the raw strings as alts (to preserve matching) rather than hand-cleaning, since this is a recurring class.
+
+**Proposed patterns (verified against the live crosswalk — 12 entries contain a trailing `None`):**
+
+1. `\s*None on file\.?\s*$` — strips the "None on file." stance rendering.
+2. `(?<=\.)\s*None\s*$` — strips a bare `None` that directly follows an abbreviation period.
+
+Before → after:
+- `CA Integrated Waste Management Bd.None on file.` → `CA Integrated Waste Management Bd.`
+- `CA Manufacturers Assn. None` → `CA Manufacturers Assn.`
+- `CA Manufacturers Assn.None` → `CA Manufacturers Assn.`
+
+**Near-misses these must NOT match (all verified intact):**
+- `All of Us or None` — a real org (plus `Riverside's All of Us or None`, `Legal Services for Prisoners With Children / All of Us or None`, `All of Us of None`). This is why I did **not** propose a bare `\s+None$`, which would mangle it.
+- `OptionONE` — matches `None` case-insensitively across the word boundary; safe because neither pattern is case-insensitive at that position / both require a preceding period.
+
+**Optional 3rd pattern — needs your call.** Two entries have a bare `None` with no preceding period: `City of San Diego None` and `City of San Diego (sponsor) None`. Stripping those needs `(?<!\bor)(?<!\bof)\s+None\s*$`, which I verified leaves all the "All of Us or None" variants intact — but it is more aggressive and could bite a future org legitimately ending in "None". **Approve patterns 1-2 only, or all three?**
+
+### Q37 (Task 4274, RA-Fleet-1) — `Capistrano Valley` is ambiguous; task said not to route to a CSV
+
+**Status:** Open
+
+Leginfo batch 568 (task 4274) listed `Capistrano Valley` (count 1) with the hint "new or existing", and the task says "Do NOT route any to a CSV". But `Capistrano Valley` on its own is a place name, not an org, and the crosswalk already has several orgs it could be truncated from:
+- `BOYS & GIRLS CLUBS OF CAPISTRANO VALLEY`
+- `Capistrano Valley Christian School`
+- `Capistrano Valley High School`
+- `Capistrano Valley Water District`
+
+There's no exact `Capistrano Valley` node. I did **not** add it and did **not** log a CSV row for it (nothing was added, so logging it in `leginfo_added_to_crosswalk.csv` would be false). The other 16 entries in the batch are done and committed.
+
+**Question:** Normally the truncated-entry rule sends a genuinely ambiguous name to `org_names_partial.csv`, but this task overrode that. Should `Capistrano Valley` go to `org_names_partial.csv` after all, or do you want it attached to one of the four orgs above (and if so, which)?
+
 ### Q35 (Task 4205, RA-Fleet-2) — Two-column PDF merge produces a conjoined SUPPORTER+OPPONENT string — same class as Q32/Q33/Q34, with the smoking gun
 
 **Status:** Open
