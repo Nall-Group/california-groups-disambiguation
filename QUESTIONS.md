@@ -6,8 +6,50 @@ RAs post questions here when blocked. The human supervisor answers them.
 
 To edit this file (post questions, write answers), join this queue first. Only the name at the top may edit.
 
-
 ## Open Questions
+
+### Q45 (Task 4534, RA-Fleet-1) — CLEANING-PATTERN PROPOSAL: `cosponsor` / `co-sponsor` bill-position boilerplate (~72 entries)
+
+**Status:** Open
+
+**How I found it:** Task 4534 added `Leukemia Lymphoma Society (cosponsors)` as an alt spelling. `scripts/clean_name.py` leaves it untouched, so I swept the crosswalk: **72 nodes** carry `co-sponsor`/`cosponsor` bill-position boilerplate. Historical task **-22** stripped `CO-SPONSOR`/`SPONSOR`/`Co-Source`, but it clearly missed the **unhyphenated `cosponsor`** spelling and the phrase forms below. **I have NOT applied anything** — per CLAUDE.md, global regexes need your sign-off.
+
+Three proposed regexes (all case-insensitive). `co-?sponsors?` requires the literal `co`, so bare-`sponsor` entries are deliberately untouched (see near-misses).
+
+**A. Trailing parenthetical — `\s*\(co-?sponsors?\)\s*$` — 10 entries**
+- `Leukemia Lymphoma Society (cosponsors)` → `Leukemia Lymphoma Society`
+- `California Hospital Association (cosponsors)` → `California Hospital Association`
+- `Ca. Law Revision Comm. (Co-sponsor)` → `Ca. Law Revision Comm.`
+
+**B. Trailing appositive phrase — `,\s*(?:a\s+)?co-?sponsors?\s+(?:of|to)\b.*$` — 30 entries**
+- `California Medical Association, a co-sponsor of` → `California Medical Association`
+- `California Federation of Teachers (CFT), a co-sponsor of this legislation` → `California Federation of Teachers (CFT)`
+- `Steinberg Institute, cosponsor of` → `Steinberg Institute`
+
+**C. Leading prefix — `^co-?sponsors?\s+(?:of\s+(?:this|the)\s+bill,\s*)?` — 32 entries**
+- `Co-Sponsor AFSCME Local 2700` → `AFSCME Local 2700`
+- `Co-sponsor of this bill, A Place for Mom` → `A Place for Mom`
+- `Co-Sponsor California Department of Human Resources (CalHR)` → `California Department of Human Resources (CalHR)`
+
+**Near-misses these must NOT match (verified they don't):**
+1. `sponsor Abundant Housing LA` — starts with bare `sponsor`, not `co-sponsor`. A separate class; I left it alone rather than widen scope without your call. **Q: do you want bare-`sponsor` prefix/suffix folded in too?**
+2. Legitimate trailing acronyms are preserved, not eaten: B on `American Cancer Society Cancer Action Network (ACS CAN), cosponsor of` → `American Cancer Society Cancer Action Network (ACS CAN)` — keeps `(ACS CAN)` per the valid-vs-dirty-affixes rule. 231 other `sponsor`-containing names are untouched by all three.
+
+**9 leftovers these regexes deliberately do NOT cover** (too irregular / would need over-greedy matching — I'd handle these manually as a follow-up task, not by regex):
+- `California District Attorneys Association (CDAA - cosponsor)`
+- `Governor's Office Of Criminal Justice Planning (OCJP - cosponsor)`
+- `California League of Savings (co-sponsor) Institutions` (boilerplate spliced mid-name)
+- `Consumer Attorneys of CA (unless (Co-sponsor) amended)`
+- `CO-SPONSORS!Orange County Fire Department Chief` / `...Fire Officers Association`
+- `Co-Sponsors: Legal Advocates for Permanent`
+- `California State Council of Service Employees International Union co-sponsor`
+- `State Teachers Retirement System (STRS) - Co-sponsor (staff recommendation)`
+
+**One caveat worth your attention:** stripping renames the node, which orphans the original dirty source string (the [[prefix_strip_orphan]] / task-1716 failure mode). Several of these dirty strings are real rows in the org_names CSVs, so the follow-up task should **keep both the clean and dirty spellings as alts** under the correct canonical rather than just renaming. Many targets (California Hospital Association, California Medical Association, California Professional Firefighters, AFSCME locals) already exist as canonicals, so cleaning will also create merges — worth running `clean_crosswalk.py --dry-run` first.
+
+**Asks:** (1) Approve A, B, C as written (or a subset)? (2) Fold in bare `sponsor` too, or keep out of scope? (3) Confirm the 9 leftovers should be a separate manual task.
+
+---
 
 ### Q44 (Task 4512, RA-Fleet-1) — Eighth instance of the lost-separator conjoined class: `JERICHO` + `National Center for Youth Law` — with a same-cell control case
 
