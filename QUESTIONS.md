@@ -9,6 +9,44 @@ To edit this file (post questions, write answers), join this queue first. Only t
 
 ## Open Questions
 
+### Q39 (Task 4402, RA-Fleet-3) — Sixth instance of the lost-separator conjoined class: `California Probation, Parole, and Correctional Association` + `Chief Probation Officers of California`
+
+**Status:** Open
+
+**Same class as Q32/Q33/Q34/Q35/Q38.** Filing so the entry isn't lost. 8 of the 9 batch-698 entries are committed (`6c11a982`); only this one is open.
+
+**The entry.** Task 4402 hints: `Correctional Association Chief Probation Officers of California` (1) -> alternate spelling of **Chief Probation Officers of California (CPOC)**.
+
+**The source proves it is conjoined — lost separators.** The `support` cell of SB 858 (1995, sales/use taxes), `leginfo_metadata.csv` line 48946, is a ~4,200-char supporter list whose separators were largely flattened to spaces. Its tail reads:
+
+```
+... Fremont-Rideout Health Group California Professional Firefighters California State Firefighters Association California Council of Police and Sheriffs California Probation; Parole; and Correctional Association Chief Probation Officers of California
+```
+
+Read with separators restored, the tail is: `California Professional Firefighters` ; `California State Firefighters Association` ; `California Council of Police and Sheriffs` ; `California Probation, Parole, and Correctional Association` ; `Chief Probation Officers of California`. The task's string straddles the last two: it is the tail of one org plus the whole of the next.
+
+**Both constituents are already in the crosswalk**, so nothing is lost by routing the string to `org_names_conjoined.csv`:
+- `CALIFORNIA PROBATION PAROLE AND CORRECTIONAL ASSOCIATION` — a top-level canonical with many alts.
+- `Chief Probation Officers of California (CPOC)` — a top-level canonical with many alts.
+
+**Why the hint is wrong:** applying it would attribute the California Probation, Parole, and Correctional Association's support of SB 858 to CPOC, which is a different organization.
+
+**Why I'm asking instead of just fixing it:** same conflict as Q32-Q38 — the task says *"Do NOT route any to a CSV"*, but CLAUDE.md says conjoined entries go to `org_names_conjoined.csv`.
+
+**Note:** this artifact class is already *in* the crosswalk from earlier batches — `County of Correctional Association Chief Probation Officers of California` is a live top-level canonical, `California Public Defenders Association Chief Probation Officers of California` is another, and bare `Correctional Association` is a third. All from the same flattening. More examples for the sweep proposed in Q35.
+
+**Question — which do you want?**
+- **(a)** Route the row to `org_names_conjoined.csv` (both constituents already present, so no crosswalk change needed). Consistent with CLAUDE.md and with Q32/Q33/Q34/Q35/Q38. **My recommendation.**
+- **(b)** Apply the hint (alt of `Chief Probation Officers of California (CPOC)`), accepting the misattribution.
+- **(c)** Something else — e.g. alt of `CALIFORNIA PROBATION PAROLE AND CORRECTIONAL ASSOCIATION` (the org the lost separator actually belongs to).
+
+**The general ruling suggested in Q34 would close this too**, with no extra round-trip: *when the leginfo source shows a string is a mis-split of a supporter list, route it to `org_names_conjoined.csv` provided every constituent org is already in the crosswalk.* This is now the **6th** blocked entry of this class; a single ruling would unblock tasks 4126, 4187, 4196, 4205, 4338 and 4402 together.
+
+**Where I did NOT block.** The other 8 batch-698 entries were verified against the source and applied/confirmed (committed): `Corona Animal Hospital` (new canonical — AB 302's cell is a clean `;`-separated vet-hospital list), `Coronado City` (AB 726's cell uses the `<Name> City` form), `Cosponsor Office of the State LTC Ombudsman` and `Cosponsor Planned Parenthood Affiliates of California (PPAC)` (leading `Cosponsor` is the leginfo stance label, not part of the name), plus `City of Corona`, `Dublin San Ramon Services District`, `Tenet Healthcare Corporation`, `UC Davis Medical Center` — all already in the crosswalk.
+
+Task 4402 is marked **Blocked** with the assignee cleared; the 8 resolved entries are already committed, so whoever picks it up only needs to handle this 1.
+
+
 ### Q38 (Task 4338, RA-Fleet-2) — Lost-separator conjoined: `California Veterans Board` + `Veterans Advisory Council, County of Orange` — same class as Q32/Q33/Q34/Q35
 
 **Status:** Open
