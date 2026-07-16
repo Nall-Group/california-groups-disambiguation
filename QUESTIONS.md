@@ -9,6 +9,38 @@ To edit this file (post questions, write answers), join this queue first. Only t
 
 ## Open Questions
 
+### Q44 (Task 4512, RA-Fleet-1) — Eighth instance of the lost-separator conjoined class: `JERICHO` + `National Center for Youth Law` — with a same-cell control case
+
+**Status:** Open
+
+**Same class as Q32/Q33/Q34/Q35/Q38/Q39/Q40.** Task 4512 (leginfo batch 837) had 9 entries. I added 8 (committed, `3205cdde`). The 9th is another lost-separator conjoined artifact.
+
+**The entry.** Task 4512 hints: `Jericho: National Center on Youth Law` (1) -> alternate spelling of **NATIONAL CENTER FOR YOUTH LAW**.
+
+**Why the hint is wrong — the source cell.** Grepping `leginfo_metadata.csv` for the whole cell shows a `;`-separated supporter list:
+
+> `... California Nurses Association; Child Care Law Center: Children's Advocacy Institute; Daughters of Charity Health System; Jericho: National Center on Youth Law; National Association of Social Workers, California Chapter; Planned Parenthood Affiliates of California; Western Center of Law and Poverty`
+
+`Jericho` and `National Center on Youth Law` are two **separate supporters**; the `;` between them was rendered as `:`. The **same cell contains the identical artifact twice** — `Child Care Law Center: Children's Advocacy Institute` is also two distinct orgs joined by a stray colon. That in-cell control is the smoking gun: the colon is a corrupted separator, not an org-name character.
+
+**Both constituents are already in the crosswalk:**
+- `JERICHO: A VOICE FOR JUSTICE` — canonical (real CA legislative-advocacy org; also `JERICHO` as a canonical)
+- `NATIONAL CENTER FOR YOUTH LAW` — canonical
+
+**Corroborating evidence.** `org_names_conjoined.csv` already holds ~15 Jericho straddles from the same supporter-list corruption — e.g. `Jericho, Western Center on Law and Poverty`, `Housing California, JERICHO`, `Hotel Employees, Restaurant Employees International Union Jericho`, `Jericho La Raza Centro Legal, Inc., San Francisco`, `County of Stanislaus, JERICHO`. Jericho co-signs big coalition letters, so it lands adjacent to many orgs and eats separators often.
+
+**Note — likely pre-existing bad data.** The crosswalk already contains `California Housing Law Project: Jericho` as an alt of *California Housing Law Project*, and a childless canonical `Doris Tate Crime Victims Bureau National Center for Youth Law`. Both look like this same artifact already folded in. Worth a cleanup task if you agree with the ruling.
+
+**Conflict with the task instructions.** Task 4512 says "Do NOT route any to a CSV" — but following that literally would make a two-org conjoined string an alt spelling of NCYL, asserting NCYL is also known as "Jericho: ...". Blocking rather than deviating, consistent with Q32-Q40.
+
+**Proposed action (same as the rest of the class):** add `"Jericho: National Center on Youth Law",1` to `org_names_conjoined.csv`, add nothing to the crosswalk, and close task 4512 with no further crosswalk change.
+
+**Meta:** this is the **eighth** instance, and all eight (Q32/Q33/Q34/Q35/Q38/Q39/Q40/Q44) are still Open. A single blanket ruling on the class — "lost-separator conjoined straddle, both constituents already present -> route to `org_names_conjoined.csv`, no crosswalk change, no question needed" — would unblock tasks 4126, 4187, 4196, 4205, 4338, 4402, 4407 and 4512 at once and let future RAs handle these inline.
+
+Task 4512 is marked **Blocked** with the assignee cleared; the 8 resolved entries are already committed, so whoever picks it up only needs to handle this 1.
+
+---
+
 ### Q43 (Task 4463, RA-Fleet-1) — Cleaning-pattern proposal: `[SPONSOR]` marker — but it is often a CONJOIN SEPARATOR, so a plain strip would be wrong
 
 **Status:** Open
