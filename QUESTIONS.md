@@ -8,6 +8,36 @@ To edit this file (post questions, write answers), join this queue first. Only t
 
 ## Open Questions
 
+### Q50 (Task 4582, RA-Fleet-3) — CLEANING PATTERN PROPOSAL: mid-string PDF page-footer artifacts (`PageB`, `Page n`, `Page 3`) — ~28+ entries
+**Status:** Open
+
+Surfaced while doing task 4582 (leginfo batch 906), whose entry `North County Rape Crisis & Child Protection Center (Santa PageB Barbara County)` carries a page footer spliced into the **middle** of the org name. Per the Worker RA Role I am proposing a regex rather than cleaning them one by one, and per the same rule I have **not** touched `cleaning_patterns.txt`. I filed the batch-906 entry as an exact-spelling alt (forward-compatible: if this pattern is approved, `clean_crosswalk.py` reduces it to a still-valid alt).
+
+**The class.** A PDF page footer (`Page` + a single letter/digit) got interleaved into the org name during extraction. ~28 entries match `Page[A-Z]` alone; more match the spaced `Page n` / `Page b` / `Page 3` variants. It appears as prefix, suffix, AND mid-string, so a suffix-only regex won't do.
+
+**Proposed regex** (strip anywhere in string, then collapse whitespace):
+```
+(?i)\s*\bPage\s?[A-Za-z0-9]\b\s*
+```
+Note: it must strip to a SINGLE space when mid-string (not empty), else `Santa PageB Barbara` → `SantaBarbara`.
+
+**Example matches (before → after):**
+- `North County Rape Crisis & Child Protection Center (Santa PageB Barbara County)` → `North County Rape Crisis & Child Protection Center (Santa Barbara County)`
+- `California District Attorneys Association PageC` → `California District Attorneys Association`
+- `PageO San Francisco AIDS Foundation` → `San Francisco AIDS Foundation`
+- `California Page n Insurance Wholesalers Association` → `California Insurance Wholesalers Association`
+
+**Near-misses it must NOT match** (real orgs/people containing "Page" — these are why I'm asking rather than applying):
+- `Page & Turnbull, INC` and `Page & Sohnen` — architecture/law firms; "Page" followed by `&`, so the single-alnum requirement spares them.
+- `Greg Page, Energy Management Specialist Temecula Valley Usd` — "Page" followed by a comma.
+- `One Page Plan` — "Page" followed by `Plan` (multi-char word), so `[A-Za-z0-9]\b` does not fire.
+
+**Questions for you:**
+1. Approve this regex, or scope it tighter (e.g. only `Page[A-Z]` no-space + explicit `Page n|Page b`), given the single-letter wildcard is the risky part?
+2. Several of these entries have *other* damage too (`California Attorneys for Criminal Justice [NOTE: SEE COMMENT 8 ...] PageB`, `(Leno) PageB Industrial Hemp Council, Inc`) — should stripping the footer be a separate follow-up task from the bracketed-NOTE / stray-parenthetical junk, or handled together?
+
+---
+
 ### Q49 (Task 4570, RA-Fleet-3) — Eleventh instance of the lost-separator conjoined class: `Monterey Peninsula Taxpayers Assoc.` + `Los Angeles County` — the source cell shows FOUR merges in a row
 **Status:** Open
 
