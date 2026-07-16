@@ -9,6 +9,58 @@ To edit this file (post questions, write answers), join this queue first. Only t
 
 ## Open Questions
 
+### Q33 (Task 4187, RA-Fleet-3) — Two "AFL-CIO <Org>" entries are conjoined artifacts, not new canonicals — same class as Q32
+
+**Status:** Open
+
+**This is the same question as Q32** (leginfo hint says "new canonical" + "Do NOT route any to a CSV", but the source proves the string is conjoined). Answering Q32 almost certainly answers this too — I'm filing it so the 2 entries aren't lost.
+
+Task 4187 asked me to add 5 batch-477 orgs. I added 3 (committed, `769cf51c`). The other 2 were both hinted as **new canonicals**, but neither is a real organization:
+
+**1. `AFL-CIO California State Legislative Board` (1)**
+
+The batch-477 supporter list reads:
+```
+California Labor Federation; AFL-CIO California State Legislative Board; Smart - Transportation Division California Teamsters Public Affairs Council
+```
+The **same list appears elsewhere in `leginfo_metadata.csv` with separators intact**:
+```
+... California Labor Federation, AFL-CIO; California State Legislative Board of Sheet Metal, Air, Rail and Transportation Workers; Transportation Division; ...
+```
+So the string is the tail of **`California Labor Federation, AFL-CIO`** glued to the head of **`California State Legislative Board of SMART-TD`** (an intra-name comma became a separator). Note the third item in the dirty list is *also* visibly conjoined (`Smart - Transportation Division` + `California Teamsters Public Affairs Council`), confirming the mis-split.
+
+**2. `AFL-CIO International, Inc` (1)**
+
+Raw source cell (a Prop 51 / tort-reform **defense-side** supporter list — accountancies, chambers, businesses; the AFL-CIO would be a very odd member):
+```
+Aerospace Dynamics; AFL-CIO International, Inc; Arthur Andersen & Co. LLP; CA Association for Tort Reform; CA Business Properties Assn; CA Chamber of Commerce; ...
+```
+**`Aerospace Dynamics International, Inc`** is a real Valencia, CA company and appears **14×** in the source with separators intact, e.g.:
+```
+Adams-Campbell Co; Aerospace Dynamics International, Inc; Arete Precision, Inc; Autronics Corporation; ...
+```
+The list is alphabetical (`Aerospace…` < `AFL-CIO` < `Arthur Andersen`), so the true items are `Aerospace Dynamics International, Inc` and `AFL-CIO`; the `International, Inc` tail got attached to the wrong item. There is no entity called "AFL-CIO International, Inc".
+
+**Why I'm asking instead of just fixing it:** same conflict as Q32 — the task says *"Do NOT route any to a CSV"*, but CLAUDE.md says conjoined entries go to `org_names_conjoined.csv`.
+
+**Relevant precedent (unlike Q32, this class already has one):** `org_names_conjoined.csv` **already** contains this exact `AFL-CIO <NextOrg>` shape, including a near-identical sibling of entry 1:
+- `AFL-CIO California State Legislative Board of Sheet Metal,1`  ← same string, more of the tail
+- `AFL-CIO California Tax Reform Association,5`
+- `AFL-CIO California State Council of Laborers,3`
+- `AFL-CIO Judy Michaels,6`
+
+No `AFL-CIO <Org>` string is currently placed as an alt/canonical in the crosswalk, so — unlike Q32 — there's no competing convention to undo.
+
+**All constituent orgs are already in the crosswalk**, so nothing is lost by routing the 2 strings to `org_names_conjoined.csv`: `California Labor Federation, AFL-CIO` ✓, `California State Legislative Board of Sheet Metal…` ✓ (under SMART), `AFL-CIO` ✓, `Aerospace Dynamics International, Inc` ✓.
+
+**Question — which do you want?**
+- **(a)** Route both rows to `org_names_conjoined.csv` (constituents already present; no crosswalk change needed). Matches CLAUDE.md + the 4 existing precedent rows. **My recommendation.**
+- **(b)** Follow the hints and create both as new canonicals — I'd advise against: both are junk names and would misattribute bill counts.
+- **(c)** Something else.
+
+Task 4187 is marked **Blocked** with the assignee cleared; the 3 unambiguous orgs are already committed, so whoever picks it up only needs to handle these 2.
+
+
 ### Q32 (Task 4126, RA-Fleet-2) — "Women For: <Org>" entries are conjoined, not alternate spellings
 **Status:** Open
 
