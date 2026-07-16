@@ -174,12 +174,28 @@ classification — actually read it. Handle **conjoined first**, because splitti
 strings that must themselves be triaged.
 
 - **Conjoined** — the string is actually multiple organizations mashed together (e.g.
-  "Sierra Club Planning and Conservation League"). Split it into its individual orgs; the
-  scanner **records them as the cell's resolved orgs** (applied in step 4). **Do not preserve
-  the conjoined string** — it isn't a real org, and its bill count carries forward on the
-  split-out orgs. Do **not** route it to any CSV: a conjoined string sitting in a routing CSV
-  gets treated as already-routed by straight matching and is silently skipped instead of split,
-  which corrupts the counts. Feed each split-out org back through this triage.
+  "Sierra Club Planning and Conservation League", or a **lost-separator straddle** where the
+  extractor dropped a `;`/line-break between two adjacent supporter-list entries, e.g.
+  `Mayor of San Leandro, City of Albany`). Split it into its individual orgs and feed each back
+  through this triage. Then route the split-out **components** by whether they already exist:
+  - **A component is NOT yet in the crosswalk** → it's a real org to capture: add it (as a
+    crosswalk-add), so its support/opposition isn't lost.
+  - **ALL components are already in the crosswalk** → add nothing new, and route the fused
+    string to `org_names_conjoined.csv` (count 1). It gets skipped by straight matching on a
+    re-import — which is **correct here**: the fused string is extraction garbage, and each real
+    component is already a canonical that gets its counts from its own clean rows elsewhere, so
+    nothing real is lost. (The only cost is the fused string's own single bill-occurrence isn't
+    split onto the two components — negligible for count-1 artifacts. This is a **deliberate
+    refinement** of the older blanket "never route conjoined to a CSV" rule: that rule exists to
+    stop a conjoined string being skipped *before* it's split and losing an org that would
+    otherwise never be captured — which cannot happen once every component is confirmed present.)
+
+  **Standing rule for RAs (approved 2026-07-16, closes the Q32–Q49 "lost-separator" class):** a
+  lost-separator conjoined straddle whose components are **all already in the crosswalk** →
+  route the fused string to `org_names_conjoined.csv`, no crosswalk change, **handle it inline —
+  do not block or file a question.** Only escalate when a component is missing (add it). Confirm
+  the split by grepping the source cell (alphabetical supporter-list order + a control row where
+  a component appears standalone make the merge unambiguous).
 - **Invalid** — the string isn't a real organization at all (bill text, vote tallies,
   procedural text, dates, phone numbers; a fragment or generic word; a bare person's name
   **who is not a leader representing an org** — see the note below). Route it to the matching
