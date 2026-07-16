@@ -33,6 +33,12 @@ CROSSWALK_PATH = PROJECT_ROOT / "2_webapp" / "org_clusters_crosswalk.json"
 SUBSETS_DIR = PROJECT_ROOT / "org_names_for_cleaning"
 
 # All CSV files, keyed by a short label
+# Standard `org_name,count` routing buckets that this script reads, re-checks
+# against the crosswalk, and redistributes. Do NOT add
+# `narrative_text_mapping_to_orgs.csv` here: it has a different schema
+# (`narrative_text,mapped_org`, no count) and its rows are prose, not orgs —
+# redistributing them would re-check prose against the crosswalk and could merge
+# it back in. It is intentionally left untouched by this script.
 CSV_FILES = {
     "in_crosswalk":   "org_names_in_crosswalk.csv",
     "not_in_crosswalk": "org_names_not_in_crosswalk.csv",

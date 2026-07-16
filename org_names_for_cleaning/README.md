@@ -39,6 +39,29 @@ contain commas, so use a CSV parser).
 JSON. It is safe to delete; the next pipeline run recreates it. `extract_org_names.py` reads it as a
 fast "already in the crosswalk → skip" check.
 
+### Narrative-prose mapping (a different schema — not a routing bucket)
+
+`narrative_text_mapping_to_orgs.csv` is the one file here that does **not** use `org_name,count`.
+Its columns are **`narrative_text,mapped_org`** (no count). Each row is a chunk of narrative
+prose — a bill-position sentence with no org name of its own, e.g. *"California Coalition of
+Travel Agents to improve the operation of California's Seller of Travel Law…"* — paired with the
+organization that prose describes (`mapped_org`, left blank if it names none). The prose is
+preserved here rather than in the crosswalk, where it does not belong.
+
+It is deliberately **outside** the standard routing set:
+
+- `regenerate_org_subsets.py` never reads or redistributes it (it isn't a real-org bucket, so its
+  strings must never be re-checked against the crosswalk or merged in).
+- `extract_org_names.py` reads only its **`narrative_text` column**, to mark a re-imported prose
+  string as `already_routed` (skip re-diagnosis). It is kept **out** of that script's
+  count-rewrite pass — its second column is `mapped_org`, not a count, so a naive count write
+  would corrupt it.
+- The **`mapped_org`** column is consumed by `LEGINFO_IMPORT.md` step 4 to attribute the prose
+  cell's bill count to the real org.
+
+See `LEGINFO_IMPORT.md` (step 2 prose handling and the "accidental prose found in the crosswalk"
+case) for how rows land here.
+
 ## Where a valid org goes instead
 
 A string that **is** a real, single organization does **not** go in any CSV here — it goes into

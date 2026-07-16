@@ -20,7 +20,9 @@ When an entry in the crosswalk turns out to not be a real organization, two thin
 | `org_names_conjoined.csv` | Multiple orgs joined together (e.g. "Sierra Club Planning and Conservation League") |
 | `org_names_invalid.csv` | Not organizations at all (e.g. legislative bills, procedural text like "GOVERNOR'S VETO MESSAGE", dates, phone numbers). Also extraction artifacts that are just a stray leading parenthetical (the retired `org_names_that_start_with_parens.csv` bucket was folded in here). |
 
-All CSVs use the same format: `org_name,count` — move the entire row including the count.
+These four CSVs use the same format: `org_name,count` — move the entire row including the count.
+
+**Narrative-embedded prose is a special case** — it goes to `narrative_text_mapping_to_orgs.csv`, which has a **different schema (`narrative_text,mapped_org`, no count)**. Use it when a crosswalk entry is a chunk of bill-position prose with no org name of its own (e.g. "California Coalition of Travel Agents to improve the operation of California's Seller of Travel Law…"). Don't reuse the prose as an alt spelling: **extract** the org it describes, make sure that org is in the crosswalk (search first — most likely already there; add a new canonical only if genuinely absent), remove the prose node from the JSON, and append a `narrative_text,mapped_org` row (leave `mapped_org` blank only if the prose names no org). This file is read by `extract_org_names.py` (to skip re-diagnosing known prose) and `LEGINFO_IMPORT.md` step 4 (to attribute the prose's bill count to the org); it is **never** redistributed by `regenerate_org_subsets.py`. See `org_names_for_cleaning/README.md` and `LEGINFO_IMPORT.md`.
 
 If the entry only exists in the JSON and not in any CSV file, just remove it from the JSON.
 

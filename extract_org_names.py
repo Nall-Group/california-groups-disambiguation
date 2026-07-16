@@ -47,6 +47,14 @@ ALL_CSV_FILES = [
     "leginfo_added_to_crosswalk.csv",
 ]
 
+# Narrative-prose mapping file. NOT one of ALL_CSV_FILES: it has a different
+# schema (`narrative_text,mapped_org`, no count column) and must NEVER go
+# through update_csv_counts(), which would overwrite mapped_org (col 1) with a
+# count. It is read only for its col-0 narrative strings, so a prose cell we've
+# already diagnosed is recognized as already-routed and skips re-diagnosis. Its
+# mapped_org column is consumed by the step-4 cell rewrite (LEGINFO_IMPORT.md).
+NARRATIVE_MAP_CSV = "narrative_text_mapping_to_orgs.csv"
+
 # Columns to extract org names from
 ORG_COLUMNS = ["support", "opposition", "opposition_unless_amended", "support_with_amendments", "sponsor"]
 
@@ -153,6 +161,20 @@ def load_already_routed_orgs():
                 norm = normalize_for_matching(row[0])
                 if norm:
                     already_routed[norm] = csv_file
+
+    # Narrative-prose mapping (different schema): mark each already-diagnosed
+    # prose string (col 0) as already-routed so it never re-enters the worklist.
+    narrative_path = SUBSETS_DIR / NARRATIVE_MAP_CSV
+    if narrative_path.exists():
+        with open(narrative_path, "r", encoding="utf-8", newline="") as f:
+            reader = csv.reader(f)
+            next(reader, None)  # skip header
+            for row in reader:
+                if not row:
+                    continue
+                norm = normalize_for_matching(row[0])
+                if norm:
+                    already_routed[norm] = NARRATIVE_MAP_CSV
     return already_routed
 
 

@@ -143,9 +143,15 @@ prose (e.g. "In support of the bill, the California Hospital Association writes�
   **`;`-separated list of their names** (the standard cell format). This is the LLM reading and
   reasoning — never a script, regex, or extraction heuristic. The scanner **records the cell's resolved org(s)**
   (used in step 4 to fill the canonical column and rewrite the cell) and runs those orgs
-  through the checks below. The prose itself is discarded — never kept, never reused as an alt
-  spelling. If the prose names no organization, route the original string to
-  `org_names_invalid.csv` so it's still accounted for.
+  through the checks below. **Also append the pairing to
+  `org_names_for_cleaning/narrative_text_mapping_to_orgs.csv`** (`narrative_text,mapped_org` —
+  the raw prose string and the org it resolved to; leave `mapped_org` blank if the prose names
+  no organization). This is the one place the prose string is preserved: it is **never** kept
+  in the crosswalk and **never** reused as an alt spelling, but recording it here means a later
+  re-import recognizes the exact prose as already-diagnosed (step 1 marks it `already_routed`)
+  and attributes its bill count to `mapped_org` in step 4 instead of re-reading it from scratch.
+  If the prose names no organization, **also** route the original string to
+  `org_names_invalid.csv` so it's counted as a non-org.
 - **An org name** → go straight to the checks below; no grep needed.
 
 After this step each candidate is a clean org name — whether it arrived as one or was the
@@ -199,10 +205,16 @@ Two cases that look like "already handled" but aren't:
   its bill count can be attributed in step 4.
 - **Accidental prose found *in* the crosswalk.** If, while searching, you discover a node that
   is itself narrative prose wrongly added as an org (e.g. a node literally named "we strongly
-  support this bill"), it becomes an **RA task to DELETE that node from
-  `2_webapp/org_clusters_crosswalk.json`.** It is **deleted, never moved to a routing CSV** — a
-  CSV entry could later be matched as if it were a real org. (Diagnosis agents surface these via
-  a `delete_from_crosswalk` field; the scanner files the deletion task.)
+  support this bill", or "California Coalition of Travel Agents to improve the operation of…"),
+  it becomes an **RA task to remove that node from `2_webapp/org_clusters_crosswalk.json` and
+  record it in `org_names_for_cleaning/narrative_text_mapping_to_orgs.csv`** as
+  `narrative_text,mapped_org` — extract the org the prose describes and put it in `mapped_org`
+  (search the crosswalk first; add the org as a new canonical only if it's genuinely absent),
+  or leave `mapped_org` blank if it names no org. It is **not** routed to one of the standard
+  `org_name,count` buckets: those are read back as real orgs by straight matching, whereas the
+  mapping file's separate schema is read only to *skip* the prose (step 1) and to attribute its
+  count to the real org (step 4). (Diagnosis agents surface these via a `delete_from_crosswalk`
+  field; the scanner files the removal-and-record task.)
 
 The routing CSVs in `org_names_for_cleaning/`:
 
@@ -211,7 +223,13 @@ The routing CSVs in `org_names_for_cleaning/`:
 | `org_names_that_are_actually_individuals.csv` | a person's name with no identifiable leadership-org |
 | `org_names_partial.csv` | fragments, generic single words (`Author`, `County`, `Union`…), `N individuals` placeholders |
 | `org_names_invalid.csv` | not an org at all (bill text, vote tallies, procedural text, dates, phone numbers) |
-| `orgs_added_to_crosswalk.csv` | valid orgs added to the crosswalk (tracking) |
+| `leginfo_added_to_crosswalk.csv` | valid orgs added to the crosswalk (tracking; `org_name,bills_supported`) |
+
+Plus one file that is **not** a standard `org_name,count` bucket:
+
+| File | Schema | What goes here |
+|------|--------|---------------|
+| `narrative_text_mapping_to_orgs.csv` | `narrative_text,mapped_org` | Narrative-prose strings (no real org name of their own) paired with the org each describes (`mapped_org` blank if none). Read by step 1 only to mark the prose `already_routed`, and by step 4 to attribute the prose's bill count to `mapped_org`. Never redistributed by `regenerate_org_subsets.py`; never treated as a real org.
 
 > **Leadership ≠ individual.** "Person, Org" where the person is a Mayor / President /
 > Director-of-whole-org / CEO / Chief / Sheriff / Chair is an **alternate spelling of the
@@ -261,7 +279,12 @@ This is the **single pass over `leginfo_metadata.csv`** — the only time the so
 no RA task ever touches `leginfo_metadata.csv`.** Stream it once, and for each cell:
 
 1. Apply the prose/conjoined cell rewrites the scanner recorded in step 2 (so prose becomes the
-   organization(s) it was describing and conjoined strings become their split `;`-list).
+   organization(s) it was describing and conjoined strings become their split `;`-list). **Also
+   apply the persistent `narrative_text_mapping_to_orgs.csv` mapping:** any cell (or `;`-split
+   part) whose normalized text matches a `narrative_text` row is rewritten to that row's
+   `mapped_org` — this is what carries a *previously diagnosed* prose string's bill count onto
+   the real org on a re-import, without the scan having to re-read it. (A blank `mapped_org`
+   means the prose named no org: drop the part, count nothing.)
 2. Clean each org (the same regexes — no cleaned value was saved earlier) and match it against
    the finalized crosswalk.
 3. Write the matched **canonical name(s)** into the corresponding column:
