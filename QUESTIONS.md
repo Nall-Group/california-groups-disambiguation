@@ -8,6 +8,43 @@ To edit this file (post questions, write answers), join this queue first. Only t
 
 ## Open Questions
 
+### Q49 (Task 4570, RA-Fleet-3) — Eleventh instance of the lost-separator conjoined class: `Monterey Peninsula Taxpayers Assoc.` + `Los Angeles County` — the source cell shows FOUR merges in a row
+**Status:** Open
+
+**Same class as Q35/Q39/Q40/Q44/Q46/Q47.** Task 4570 (leginfo batch 895) had 12 entries. I resolved 11 and committed them: 7 added (6 new canonicals + 1 alt), 4 already present. The 12th is another lost-separator conjoined artifact.
+
+**The entry.** Task 4570 hints: `Monterey Peninsula Taxpayers Assoc. Los Angeles County` (1) -> alternate spelling of **Monterey Peninsula Taxpayers Association**.
+
+**Why the hint is wrong.** The Monterey Peninsula is ~300 miles from Los Angeles County; no such joint entity exists. Grepping the source cell makes the mechanism unambiguous — this is a two-column PDF merge, and the *same cell* contains a run of identical artifacts:
+
+```
+... Assoc. of Gelnn County Taxpayers City of Norco; Los Angeles Taxpayers Assoc. County Sanitation;
+Monterey Peninsula Taxpayers Assoc. Los Angeles County; Sacramento County Taxpayers League; ...
+```
+
+Read as left-column + right-column pairs, every one of these splits cleanly:
+
+| Merged string in source | Left column (org A) | Right column (org B) |
+|---|---|---|
+| `Assoc. of Gelnn County Taxpayers City of Norco` | Assoc. of Glenn County Taxpayers | City of Norco |
+| `Los Angeles Taxpayers Assoc. County Sanitation` | Los Angeles Taxpayers Assoc. | County Sanitation (District) |
+| `Monterey Peninsula Taxpayers Assoc. Los Angeles County` | **Monterey Peninsula Taxpayers Assoc.** | **Los Angeles County** |
+
+The neighbours that were NOT merged (`Sacramento County Taxpayers League`, `United Organizations of Taxpayers, Inc`) are clean single orgs — confirming the merge is a column artifact, not real names.
+
+**Why it matters.** Filing the hint as-is would attach `Los Angeles County` boilerplate onto the Monterey Peninsula Taxpayers Association canonical as an alt spelling, which would then match/pollute future leginfo rows for both orgs.
+
+**Both halves are already in the crosswalk:**
+- `Monterey Peninsula Taxpayers Association` — CANONICAL (with alt `Monterey Peninsula Taxpayers Assoc`)
+- `Los Angeles County` — present under STATE OF CALIFORNIA
+
+**Options:**
+- **(a)** Route the merged string to `org_names_conjoined.csv` (count 1). Both component orgs already exist, so nothing else to add. **My recommendation** — consistent with the CLAUDE.md conjoined rule and with what Q35/Q39/Q40/Q44/Q46/Q47 all propose.
+- **(b)** Follow the hint and add it as an alt of Monterey Peninsula Taxpayers Association. I think this is wrong for the reasons above.
+
+**Meta-ask (raised in Q35/Q39/Q40/Q44/Q46/Q47, still unanswered):** this is now the **eleventh** confirmed instance, and it is clearly systematic to the two-column PDF stance tables, not incidental. Rather than one blocked task per instance, could we get a **standing rule** — e.g. "leginfo entries whose source cell shows a two-column merge go to `org_names_conjoined.csv` if both halves already exist; only ask when a half is missing"? That would let RAs resolve this class in-task instead of blocking. Task 4570 is marked **Blocked** with the assignee cleared; the 11 resolved entries are already committed, so whoever picks it up only needs to handle this 1.
+
+
 ### Q48 (Task 4565, RA-Fleet-3) — Cleaning-pattern proposal: unhyphenated `(cosponsors)` suffix is not stripped (11 entries)
 
 **Status:** Open
