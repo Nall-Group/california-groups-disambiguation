@@ -9,6 +9,39 @@ To edit this file (post questions, write answers), join this queue first. Only t
 
 ## Open Questions
 
+### Q31 (Task 4117, RA-Fleet-2) — Cleaning-pattern proposal: trailing "…, sponsor of this measure / of the bill"
+**Status:** Open
+
+While doing task 4117 I hit `Three Valleys Municipal Water District, sponsor of this measure` and found this is a **recurring** class, not a one-off: **40 crosswalk entries + 92 CSV rows**. `cleaning_patterns.txt` already strips trailing sponsor tags, but only where the string *ends* at the word "sponsor" (lines 54-55, 62) or where it's parenthesized (lines 7-9, 35). Nothing handles a trailing **prepositional phrase** — `sponsor **of the bill**`. So these 40 stay dirty today. Per CLAUDE.md I'm not editing `cleaning_patterns.txt` myself — requesting sign-off.
+
+**Proposed regex** (deliberately modeled on the existing line 62 so the two read as a family):
+```
+(?i)[\s,/"-]+(?:is\s+|also\s+)?(?:(?:a|the|one\s+of\s+the)\s+)?(?:principal\s+)?(?:co[\s-]?)?sponsors?\s+of\s+(?:this|the)\s+(?:measure|bill|legislation|act|resolution)s?\s*$
+```
+It strips a trailing "(a/the) (co-)sponsor of this/the measure|bill|legislation|act|resolution". Anchored to `$` only — never touches mid-string text.
+
+**Example matches (before → after):**
+- `Crown Castle, sponsor of this measure` → `Crown Castle`
+- `California Federation of Teachers, a co-sponsor of the bill` → `California Federation of Teachers`
+- `California School Employees Association (CSEA), AFL-CIO, a sponsor of this measure` → `California School Employees Association (CSEA), AFL-CIO`
+
+**Near-misses it must NOT match (verified it does not — real orgs with "Sponsor" in the name):**
+- `Borrego Sponsor Group`, `Jacumba Sponsor Group`, `Pala-Pauma Sponsor Group` (San Diego County planning groups — "Sponsor Group" is their actual name)
+- `Asylum Sponsorship Project`, `California Housing Sponsorship`, `Hollywood Interfaith Sponsoring Committee`
+- `American Society of Composers, (sponsor) Authors and Publishers` (mid-string, unanchored → untouched)
+
+I ran it across all 210,697 crosswalk names: **40 match, all genuine bill-relationship metadata; 0 false positives.**
+
+**Three things to flag before you approve:**
+1. **8 of the 40 clean up to a string that is already an existing canonical** (e.g. `California Nurses Association, sponsor of the bill` → `California Nurses Association`). `clean_crosswalk.py` will merge those automatically — intended, but it means the pattern is a real consolidation, not just cosmetic.
+2. **Stripping does not by itself make an entry valid.** Two cleaned results are named officials needing per-case routing under [[named_officials_per_case]]: `Mayor Eric Garcetti, City of Los Angeles` and `State Insurance Commissioner Ricardo Lara` (both leadership → alt of the body). Should I file a follow-up task for those, or leave them?
+3. **Scope question — adjacent variants I deliberately left OUT** because they'd widen the regex past what I can verify safely. Want them in, or a separate proposal?
+   - dangling/truncated: `…, a co-sponsor of`, `…, cosponsor of`, `…, sponsors of` (no object — arguably partials)
+   - different preposition: `…, sponsor to the bill`, `…, the sponsor for the bill`
+   - bill-numbered: `State Center CCD, the sponsor of AB 2104 (Soria)`
+
+If approved I'll file it as a normal task: add the pattern, run the full clean/dedup/stats pipeline.
+
 ### Q30 (Task 3846, RA-Fleet-2) — PART B university sub-unit nesting needs a parent-canonical ruling before it can run safely
 **Status:** Answered
 **Answer (supervisor, relayed by Management-Assistant-2, 2026-07-04):** Approve all three of RA-Fleet-2's proposals. (1) CREATE each of the ~15 missing parent institutions as a new top-level canonical, then nest the sub-unit under it. (2) Use the shortest existing clean UC-campus parent form where one exists (`UCLA`, `UC Berkeley`, `UCSF`, `UC Davis`, `UC San Diego`, `University of California, Merced`, `University of California Santa Cruz`, `UC Hastings College of the Law`); CREATE `UC Riverside`, `University of California, Irvine`, and `University of California Global Health Institute` where none exists. Leave the `UC Davis`/`University of California, Davis` and `UC San Diego`/`University of California, San Diego` duplicate parent trees as-is — a dedicated global-dedup task (newly created) will merge them. (3) For sub-units mapping to multiple duplicate canonicals, nest ALL matching variants under the campus parent (global-dedup will merge later); SKIP truly unresolvable shorthand (e.g. UCSD 'Center for Public') and list what was skipped in the commit message. Task 3846 unblocked (set to Not Started).
