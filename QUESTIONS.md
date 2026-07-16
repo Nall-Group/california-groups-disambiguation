@@ -8,6 +8,34 @@ To edit this file (post questions, write answers), join this queue first. Only t
 
 ## Open Questions
 
+### Q46 (Task 4541, RA-Fleet-2) — Ninth instance of the lost-separator conjoined class: `Los Angeles Area Chamber of Commerce` + `Management & Capital Group` — with a decisive alphabetical smoking gun
+
+**Status:** Open
+
+**Same class as Q32/Q33/Q34/Q35/Q38/Q39/Q40/Q44.** Task 4541 (leginfo batch 864) had 20 entries. I resolved 19 and committed them (`bb78ae68`): 11 added as alternate spellings, 8 were already present verbatim. The 20th is another lost-separator conjoined artifact.
+
+**The entry.** Task 4541 hints: `Los Angeles Area Chamber of Management & Capital Group` (1) -> **new canonical** of the same name.
+
+**Why the hint would inject bad data.** There is no such organization. The leginfo source cell is a semicolon-separated, **alphabetized** supporter list of accounting/consulting firms, and the separator between two entries was lost:
+
+> `... Kuebler, Thomas & Co; Los Angeles Area Chamber of Management & Capital Group; Michael Freedman Accountancy; M. J. Murphy & Associates; Petersen Associates; PriceWaterhouseCoopers LLP; ...`
+
+The alphabetical ordering is decisive: between `Kuebler, Thomas & Co` and `Michael Freedman Accountancy`, the list must contain `Los Angeles Area Chamber of Commerce` followed by `Management & Capital Group`. The word `Commerce` was dropped at the line break and the two neighbours fused. Following the hint would mint a fake "chamber of management" that no source supports.
+
+**Both constituents are already in the crosswalk:**
+- `LOS ANGELES AREA CHAMBER OF COMMERCE` — under `UNITED STATES CHAMBER OF COMMERCE > CALIFORNIA CHAMBER OF COMMERCE`
+- `Management & Capital Group` — top-level canonical
+
+**Conflict with the task instructions.** Task 4541 says "Do NOT route any to a CSV" — but following that literally would create a canonical for an organization that does not exist. Blocking rather than deviating, consistent with Q32-Q44.
+
+**Proposed action (same as the rest of the class):** add `"Los Angeles Area Chamber of Management & Capital Group",1` to `org_names_conjoined.csv`, add nothing to the crosswalk, and close task 4541 with no further crosswalk change.
+
+**Meta:** this is the **ninth** instance, and all nine (Q32/Q33/Q34/Q35/Q38/Q39/Q40/Q44/Q46) are still Open. A single blanket ruling on the class — "lost-separator conjoined straddle, both constituents already present -> route to `org_names_conjoined.csv`, no crosswalk change, no question needed" — would unblock tasks 4126, 4187, 4196, 4205, 4338, 4402, 4407, 4512 and 4541 at once and let future RAs handle these inline instead of spending a round-trip each.
+
+Task 4541 is marked **Blocked** with the assignee cleared; the 19 resolved entries are already committed, so whoever picks it up only needs to handle this 1.
+
+---
+
 ### Q45 (Task 4534, RA-Fleet-1) — CLEANING-PATTERN PROPOSAL: `cosponsor` / `co-sponsor` bill-position boilerplate (~72 entries)
 
 **Status:** Open
