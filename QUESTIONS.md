@@ -9,6 +9,48 @@ To edit this file (post questions, write answers), join this queue first. Only t
 
 ## Open Questions
 
+### Q34 (Task 4196, RA-Fleet-1) — One more "AFL-CIO <Org>" conjoined artifact, plus a prose fragment that names no org
+
+**Status:** Open
+
+**Third instance of the Q32/Q33 class** — the leginfo hint says place/create it, and the task says *"Do NOT route any to a CSV"*, but the source proves the string isn't an org. Answering Q33 answers entry 1 below; entry 2 is a related but distinct case. Filing so the 2 entries aren't lost.
+
+Task 4196 asked me to add 9 batch-488 orgs. I added 4 and found 3 already present (committed, `921d33b3`). The other 2:
+
+**1. `Afl-cio Faculty Association of California Community Colleges` (1)** — hinted as alternate_spelling under node **Faculty Association of California Community Colleges**.
+
+This is the **exact mechanism of Q33 entry 1** (an intra-name comma became a separator). The dirty source cell:
+```
+... California Federation of Teachers Afl-cio California Labor Federation; Afl-cio Faculty Association of California Community Colleges
+```
+The **same list appears elsewhere in `leginfo_metadata.csv` with separators intact**:
+```
+... California Federation of Teachers Afl-cio; California Labor Federation, Afl-cio; Faculty Association of California Community Colleges
+```
+So the string is the `Afl-cio` tail of **`California Labor Federation, AFL-CIO`** glued to the head of **`Faculty Association of California Community Colleges`**. Corroborating: across all 1,068 source occurrences, FACCC is otherwise **always** preceded by a clean `; ` separator, and FACCC is an independent professional association — it is not an AFL-CIO affiliate, so "Afl-cio FACCC" is not a real alternate spelling.
+
+Both constituents are already in the crosswalk (`California Labor Federation, AFL-CIO` ✓; `Faculty Association of California Community Colleges` ✓ under `Association of California Community Colleges`), so nothing is lost by routing the row to `org_names_conjoined.csv` — which **already holds 12+ rows of this exact shape**, including the same lowercase form: `Afl-cio Consumer Attorneys of California United Food and Commercial Workers,1`, `AFL-CIO California Tax Reform Association,5`, `AFL-CIO Cement Masons,4`.
+
+**2. `Advocates for Reasonable Treatment` (1)** — hinted as **new canonical**.
+
+Not an org. Its single source occurrence is a **truncated prose sentence** sitting in the `opposition` column of one row (AB 255, 2025 — the Supportive-Recovery Residence Program), and that is the entire cell:
+```
+Advocates for Reasonable Treatment are supportive of the goal of this bill but are
+```
+The plural verb ("advocates ... **are** supportive") shows it's a common-noun phrase — i.e. *people who advocate for reasonable treatment* — not a named entity. Web search finds no organization by this name (nearest hits are the unrelated Treatment Advocacy Center / Patient Advocate Foundation), and it never appears as a `;`-delimited list item anywhere in the source. Creating it as a canonical would invent an org and misattribute a bill count.
+
+Per CLAUDE.md this is narrative-embedded prose that names **no** org, so the rule points to `org_names_invalid.csv` (**not** `narrative_text_mapping_to_orgs.csv`, whose `mapped_org` is never blank — there's no org to map it to).
+
+**Question — which do you want?**
+- **(a)** Route entry 1 to `org_names_conjoined.csv` and entry 2 to `org_names_invalid.csv`. Constituents for entry 1 are already present, so no crosswalk change is needed for either. Matches CLAUDE.md + the existing conjoined-CSV precedent. **My recommendation** (and consistent with RA-Fleet-3's recommendation in Q33).
+- **(b)** Follow the hints: add entry 1 as an alt of FACCC and entry 2 as a new canonical. I'd advise against both — they'd inject junk names and misattribute counts.
+- **(c)** Something else.
+
+**Suggested general ruling** (would close Q32, Q33 and Q34 together, and unblock this whole recurring class without another round-trip): *when the leginfo source shows a string is a mis-split of a supporter list (a separator lost at an intra-name comma), the "Do NOT route to a CSV" instruction is overridden by CLAUDE.md — route it to `org_names_conjoined.csv` provided every constituent org is already in the crosswalk.*
+
+Task 4196 is marked **Blocked** with the assignee cleared; the 4 adds are already committed, so whoever picks it up only needs to handle these 2.
+
+
 ### Q33 (Task 4187, RA-Fleet-3) — Two "AFL-CIO <Org>" entries are conjoined artifacts, not new canonicals — same class as Q32
 
 **Status:** Open
