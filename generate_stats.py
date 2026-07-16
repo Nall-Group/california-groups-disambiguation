@@ -38,7 +38,10 @@ def generate_stats():
         'org_names_invalid.csv',
         'org_names_partial.csv',
         'org_names_that_are_actually_individuals.csv',
-        'org_names_conjoined.csv',
+        # conjoined strings now live in the mapping (retired the flat
+        # org_names_conjoined.csv on 2026-07-16); count its rows here so the
+        # non-org total stays consistent.
+        'conjoined_text_mapping_to_orgs.csv',
     ]
 
     invalid_count = 0

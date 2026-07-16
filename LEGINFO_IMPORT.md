@@ -65,7 +65,7 @@ crosswalk. This pass is **pure script — no AI, no narrative handling.**
 > ```
 >
 > **Nothing else needs resetting.** The other routing CSVs (`invalid`, `partial`,
-> `individuals`, `conjoined`, …) are **overwritten in place idempotently** — the script
+> `individuals`, …) are **overwritten in place idempotently** — the script
 > rewrites each matching org's count to the current leginfo value, so re-running reproduces
 > the same numbers. `stats.json` is regenerated at the end of every run, and
 > `org_names_import_summary.csv` is fully overwritten — none of these need a manual reset.
@@ -86,8 +86,10 @@ What it does:
   (exact or punctuation-normalized). No canonical is resolved here; canonicals are a step-4
   concern. **Matched orgs are done** for now (their canonical name gets written in step 4).
 - **Filters out already-routed orgs** — compares against all existing `org_names_*.csv`
-  files in `org_names_for_cleaning/` (invalids, individuals, partials, conjoined, etc.).
-  Orgs already in one of those files are skipped (not re-added to `not_in_crosswalk.csv`).
+  files in `org_names_for_cleaning/` (invalids, individuals, partials, etc.) **plus the two
+  mapping files** (`narrative_text_mapping_to_orgs.csv`, `conjoined_text_mapping_to_orgs.csv`,
+  matched on their source-string column). Orgs/strings already in one of those are skipped
+  (not re-added to `not_in_crosswalk.csv`).
 - **Updates counts** in existing CSVs — for any org that appears in both leginfo and an
   existing routing CSV, replaces the old count with the new leginfo count.
 - Writes `org_names_import_summary.csv` with status for every org: `in_crosswalk`,
@@ -177,25 +179,24 @@ strings that must themselves be triaged.
   "Sierra Club Planning and Conservation League", or a **lost-separator straddle** where the
   extractor dropped a `;`/line-break between two adjacent supporter-list entries, e.g.
   `Mayor of San Leandro, City of Albany`). Split it into its individual orgs and feed each back
-  through this triage. Then route the split-out **components** by whether they already exist:
-  - **A component is NOT yet in the crosswalk** → it's a real org to capture: add it (as a
-    crosswalk-add), so its support/opposition isn't lost.
-  - **ALL components are already in the crosswalk** → add nothing new, and route the fused
-    string to `org_names_conjoined.csv` (count 1). It gets skipped by straight matching on a
-    re-import — which is **correct here**: the fused string is extraction garbage, and each real
-    component is already a canonical that gets its counts from its own clean rows elsewhere, so
-    nothing real is lost. (The only cost is the fused string's own single bill-occurrence isn't
-    split onto the two components — negligible for count-1 artifacts. This is a **deliberate
-    refinement** of the older blanket "never route conjoined to a CSV" rule: that rule exists to
-    stop a conjoined string being skipped *before* it's split and losing an org that would
-    otherwise never be captured — which cannot happen once every component is confirmed present.)
+  through this triage. Then:
+  - **A component is NOT yet in the crosswalk** -> add it (as a crosswalk-add) so its
+    support/opposition isn't lost.
+  - **Record the split** in `org_names_for_cleaning/conjoined_text_mapping_to_orgs.csv` (schema
+    `conjoined_text,mapped_orgs`: the raw fused string + a ` ; `-separated list of its component
+    org names). This is the analog of the narrative mapping — it preserves the fused string
+    (never discarded), skips it on re-import (col 0 -> `already_routed`), and lets **step 4
+    rewrite the cell to its components and split the bill count onto each**, so no count is lost.
+    Every row's `mapped_orgs` names real orgs; a string that names none is `invalid`, not conjoined.
 
-  **Standing rule for RAs (approved 2026-07-16, closes the Q32–Q49 "lost-separator" class):** a
-  lost-separator conjoined straddle whose components are **all already in the crosswalk** →
-  route the fused string to `org_names_conjoined.csv`, no crosswalk change, **handle it inline —
-  do not block or file a question.** Only escalate when a component is missing (add it). Confirm
-  the split by grepping the source cell (alphabetical supporter-list order + a control row where
-  a component appears standalone make the merge unambiguous).
+  **Standing rule for RAs (approved 2026-07-16, closes the Q32-Q49 "lost-separator" class):** a
+  lost-separator conjoined straddle (extractor dropped a `;`/line-break between two adjacent
+  supporter-list entries) -> split it, add any missing component, and record
+  `conjoined_text,mapped_orgs` in `conjoined_text_mapping_to_orgs.csv`. **Handle it inline — do
+  not block or file a question.** Confirm the split by grepping the source cell (alphabetical
+  supporter-list order + a control row where a component appears standalone make the merge
+  unambiguous). *(The old flat `org_names_conjoined.csv` bucket was retired 2026-07-16 and
+  migrated into this mapping.)*
 - **Invalid** — the string isn't a real organization at all (bill text, vote tallies,
   procedural text, dates, phone numbers; a fragment or generic word; a bare person's name
   **who is not a leader representing an org** — see the note below). Route it to the matching
@@ -292,11 +293,14 @@ no RA task ever touches `leginfo_metadata.csv`.** Stream it once, and for each c
 
 1. Apply the prose/conjoined cell rewrites the scanner recorded in step 2 (so prose becomes the
    organization(s) it was describing and conjoined strings become their split `;`-list). **Also
-   apply the persistent `narrative_text_mapping_to_orgs.csv` mapping:** any cell (or `;`-split
-   part) whose normalized text matches a `narrative_text` row is rewritten to that row's
-   `mapped_org` — this is what carries a *previously diagnosed* prose string's bill count onto
-   the real org on a re-import, without the scan having to re-read it. (A blank `mapped_org`
-   means the prose named no org: drop the part, count nothing.)
+   apply the two persistent mapping files** — `narrative_text_mapping_to_orgs.csv` and
+   `conjoined_text_mapping_to_orgs.csv`: any cell (or `;`-split part) whose normalized text
+   matches a mapping row's source string is rewritten to that row's mapped org(s) (`mapped_org`
+   for narrative, the `;`-list in `mapped_orgs` for conjoined). This is what carries a
+   *previously diagnosed* prose/conjoined string's bill count onto the real org(s) on a re-import
+   — splitting a conjoined string's count across **all** its components — without the scan having
+   to re-read it. (A blank narrative `mapped_org` means the prose named no org: drop the part,
+   count nothing.)
 2. Clean each org (the same regexes — no cleaned value was saved earlier) and match it against
    the finalized crosswalk.
 3. Write the matched **canonical name(s)** into the corresponding column:

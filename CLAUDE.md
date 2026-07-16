@@ -17,7 +17,7 @@ When an entry in the crosswalk turns out to not be a real organization, two thin
 |------|---------------|
 | `org_names_that_are_actually_individuals.csv` | People's names (e.g. "Attorney General Rob Bonta"). **Exception:** If the person holds a leadership role (Mayor, President, Director, Sheriff, Chief, Superintendent, CEO, Chair, etc.) at an identifiable org, make the entry an alternate spelling of that org instead. Only move to individuals CSV if no org is identifiable or the person is just a member/employee, not a leader. |
 | `org_names_partial.csv` | Incomplete/fragment names (e.g. "LOS", "SAN") |
-| `org_names_conjoined.csv` | Multiple orgs joined together (e.g. "Sierra Club Planning and Conservation League") |
+| `conjoined_text_mapping_to_orgs.csv` | Multiple orgs mashed into one string (e.g. "Sierra Club Planning and Conservation League"). **Different schema** (`conjoined_text,mapped_orgs`, no count — like the narrative map): split the fused string, make sure each component org is in the crosswalk (add any missing), then record the fused string + a `;`-separated list of its components here. Never discarded; step-4 splits the bill count onto the components. *(Replaces the retired flat `org_names_conjoined.csv`.)* |
 | `org_names_invalid.csv` | Not organizations at all (e.g. legislative bills, procedural text like "GOVERNOR'S VETO MESSAGE", dates, phone numbers). Also extraction artifacts that are just a stray leading parenthetical (the retired `org_names_that_start_with_parens.csv` bucket was folded in here). |
 
 These four CSVs use the same format: `org_name,count` — move the entire row including the count.
@@ -90,7 +90,7 @@ The management assistant is a dedicated Claude Code session that coordinates bet
 - **Out-of-state orgs** that lobby the CA legislature are legitimate — keep in crosswalk
 - **Truncated entries**: Search the crosswalk AND the internet before moving to partial. If the full org name is unambiguous, add the full name as canonical (if not already present) and make the truncated version an alternate spelling. Only move to partial if truly ambiguous after both searches.
 - **Dirty entries**: After cleaning (stripping metadata/prefixes/suffixes), check if the clean version is still invalid (might be an individual, fragment, etc.) and move to the appropriate CSV
-- **Conjoined entries**: Split out the individual orgs and ensure each one is present in the crosswalk
+- **Conjoined entries**: Split out the individual orgs, ensure each is present in the crosswalk (add any missing), and record the fused string + a `;`-separated list of its components in `conjoined_text_mapping_to_orgs.csv` (schema `conjoined_text,mapped_orgs`) — never leave the fused string in the crosswalk
 - **OCR/typo entries**: Make the typo version an alternate spelling under the correct canonical
 
 ## General Crosswalk Workflow Principles
@@ -109,7 +109,7 @@ These apply to ALL task types (consolidation, OCR fixes, conjoined splitting, na
 
 4. **Location suffixes may be chapter information.** Don't strip location data from org names (e.g. "Inner City Law Center, Los Angeles") — these may indicate chapters or regional offices. Only strip clearly extraneous metadata like dates, phone numbers, counts, or person names.
 
-5. **Conjoined entries: check before adding.** When splitting a conjoined entry, search the crosswalk for each individual org. They're most likely already present. Only add new canonicals for orgs that genuinely aren't anywhere in the crosswalk.
+5. **Conjoined entries: check before adding.** When splitting a conjoined entry, search the crosswalk for each individual org. They're most likely already present. Only add new canonicals for orgs that genuinely aren't anywhere in the crosswalk. Then record the fused string + its `;`-separated component list in `conjoined_text_mapping_to_orgs.csv` (the conjoined analog of the narrative map) — the fused string is preserved there, never left in the crosswalk, and step-4 splits its bill count onto the components.
 
 6. **Narrative/dirty entries with extractable org names:** Identify the embedded org and search the crosswalk (most likely already present). For dirty entries, make the dirty version an alt spelling or chapter of the clean org — placed at the correct hierarchy level. For narrative entries, **extract** the clean org name (don't use the narrative text as an alt spelling) and ensure the org exists in the crosswalk. If the org genuinely isn't in the crosswalk, add it as a new canonical.
 

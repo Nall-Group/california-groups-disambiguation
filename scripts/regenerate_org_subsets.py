@@ -34,18 +34,20 @@ SUBSETS_DIR = PROJECT_ROOT / "org_names_for_cleaning"
 
 # All CSV files, keyed by a short label
 # Standard `org_name,count` routing buckets that this script reads, re-checks
-# against the crosswalk, and redistributes. Do NOT add
-# `narrative_text_mapping_to_orgs.csv` here: it has a different schema
-# (`narrative_text,mapped_org`, no count) and its rows are prose, not orgs —
-# redistributing them would re-check prose against the crosswalk and could merge
-# it back in. It is intentionally left untouched by this script.
+# against the crosswalk, and redistributes. Do NOT add the mapping files
+# (`narrative_text_mapping_to_orgs.csv`, `conjoined_text_mapping_to_orgs.csv`)
+# here: they have a different schema (`<string>,mapped_org(s)`, no count) and
+# their rows are prose / mashed-together strings, not real orgs — redistributing
+# them would re-check them against the crosswalk and could merge junk back in.
+# They are intentionally left untouched by this script.
+# (The old flat `org_names_conjoined.csv` bucket was retired 2026-07-16 and
+# migrated into the conjoined mapping.)
 CSV_FILES = {
     "in_crosswalk":   "org_names_in_crosswalk.csv",
     "not_in_crosswalk": "org_names_not_in_crosswalk.csv",
     "invalid":        "org_names_invalid.csv",
     "partial":        "org_names_partial.csv",
     "individuals":    "org_names_that_are_actually_individuals.csv",
-    "conjoined":      "org_names_conjoined.csv",
 }
 
 # Priority order for cross-file deduplication: when a normalized name appears

@@ -43,17 +43,22 @@ ALL_CSV_FILES = [
     "org_names_invalid.csv",
     "org_names_partial.csv",
     "org_names_that_are_actually_individuals.csv",
-    "org_names_conjoined.csv",
     "leginfo_added_to_crosswalk.csv",
 ]
 
-# Narrative-prose mapping file. NOT one of ALL_CSV_FILES: it has a different
-# schema (`narrative_text,mapped_org`, no count column) and must NEVER go
-# through update_csv_counts(), which would overwrite mapped_org (col 1) with a
-# count. It is read only for its col-0 narrative strings, so a prose cell we've
-# already diagnosed is recognized as already-routed and skips re-diagnosis. Its
-# mapped_org column is consumed by the step-4 cell rewrite (LEGINFO_IMPORT.md).
+# Mapping files — NOT in ALL_CSV_FILES. Each has a `<string>,mapped_org(s)` schema
+# (no count column) and must NEVER go through update_csv_counts() (which would
+# overwrite the mapped-orgs column with a count). Each is read only for its col-0
+# source strings, so a cell we've already diagnosed is recognized as already-routed
+# and skips re-diagnosis; the mapped-orgs column is consumed by the step-4 cell
+# rewrite (LEGINFO_IMPORT.md), which splits the count onto the component orgs.
+#   - narrative: prose that describes org(s)          -> narrative_text,mapped_org
+#   - conjoined: 2+ orgs mashed into one string       -> conjoined_text,mapped_orgs
+# (The old flat `org_names_conjoined.csv` was retired 2026-07-16, migrated into the
+# conjoined mapping so the component orgs are recorded and counts attribute properly.)
 NARRATIVE_MAP_CSV = "narrative_text_mapping_to_orgs.csv"
+CONJOINED_MAP_CSV = "conjoined_text_mapping_to_orgs.csv"
+MAPPING_CSVS = [NARRATIVE_MAP_CSV, CONJOINED_MAP_CSV]
 
 # Columns to extract org names from
 ORG_COLUMNS = ["support", "opposition", "opposition_unless_amended", "support_with_amendments", "sponsor"]
@@ -162,11 +167,14 @@ def load_already_routed_orgs():
                 if norm:
                     already_routed[norm] = csv_file
 
-    # Narrative-prose mapping (different schema): mark each already-diagnosed
-    # prose string (col 0) as already-routed so it never re-enters the worklist.
-    narrative_path = SUBSETS_DIR / NARRATIVE_MAP_CSV
-    if narrative_path.exists():
-        with open(narrative_path, "r", encoding="utf-8", newline="") as f:
+    # Mapping files (different schema): mark each already-diagnosed source string
+    # (col 0) as already-routed so it never re-enters the worklist. Covers the
+    # narrative-prose map and the conjoined map.
+    for map_csv in MAPPING_CSVS:
+        map_path = SUBSETS_DIR / map_csv
+        if not map_path.exists():
+            continue
+        with open(map_path, "r", encoding="utf-8", newline="") as f:
             reader = csv.reader(f)
             next(reader, None)  # skip header
             for row in reader:
@@ -174,7 +182,7 @@ def load_already_routed_orgs():
                     continue
                 norm = normalize_for_matching(row[0])
                 if norm:
-                    already_routed[norm] = NARRATIVE_MAP_CSV
+                    already_routed[norm] = map_csv
     return already_routed
 
 

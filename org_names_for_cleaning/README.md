@@ -29,7 +29,7 @@ contain commas, so use a CSV parser).
 | `org_names_not_in_crosswalk.csv` | **Work queue.** Unmatched orgs written by step 1 of the import (`extract_org_names.py`), awaiting the resolution scan. Normally drained to empty (header only) once the scan has routed everything. |
 | `org_names_that_are_actually_individuals.csv` | A person's name with no identifiable leadership-org. **Leadership ≠ individual:** "Person, Org" where the person is a Mayor / President / Director-of-whole-org / CEO / Chief / Sheriff / Chair is an alternate spelling of the org, not an individual. Personal businesses (e.g. "Sonya Yruel Photography") are real orgs. |
 | `org_names_partial.csv` | Truncated/fragment names, generic single words (`Author`, `County`, `Union`…), and `N individuals` placeholders that stay ambiguous after searching the crosswalk **and** the web. |
-| `org_names_conjoined.csv` | Multiple orgs mashed into one string (e.g. "Sierra Club Planning and Conservation League"). *(During the import, conjoined strings are split and their parts routed/added directly — see `LEGINFO_IMPORT.md` step 2 — rather than parked here, so a split string is never silently treated as "already routed.")* |
+| `conjoined_text_mapping_to_orgs.csv` | Multiple orgs mashed into one string (e.g. "Sierra Club Planning and Conservation League"). **Not `org_name,count`** — schema is `conjoined_text,mapped_orgs` (the fused string + a `;`-separated list of its component orgs), the conjoined analog of the narrative map. Split it, ensure each component is in the crosswalk, record here; step-4 splits the count onto the components. See "Mapping files" below. *(Replaced the retired flat `org_names_conjoined.csv` on 2026-07-16.)* |
 | `org_names_invalid.csv` | Not an organization at all: bill text, vote tallies, procedural text, dates, phone numbers, and stray-parenthesis extraction artifacts. |
 
 ### Generated file (not a routing bucket)
@@ -39,10 +39,22 @@ contain commas, so use a CSV parser).
 JSON. It is safe to delete; the next pipeline run recreates it. `extract_org_names.py` reads it as a
 fast "already in the crosswalk → skip" check.
 
-### Narrative-prose mapping (a different schema — not a routing bucket)
+### Mapping files (a different schema — not routing buckets)
 
-`narrative_text_mapping_to_orgs.csv` is the one file here that does **not** use `org_name,count`.
-Its columns are **`narrative_text,mapped_org`** (no count). Each row is a chunk of narrative
+Two files here do **not** use `org_name,count`. Each maps a **non-canonical source string** to
+the real org(s) it resolves to, so the string is preserved (never discarded), auto-skipped on
+re-import, and its bill count is split onto the real orgs by `LEGINFO_IMPORT.md` step 4:
+
+| File | Schema | Row = |
+|------|--------|-------|
+| `narrative_text_mapping_to_orgs.csv` | `narrative_text,mapped_org` | prose that *describes* an org → that org |
+| `conjoined_text_mapping_to_orgs.csv` | `conjoined_text,mapped_orgs` | 2+ orgs *mashed into one string* → a `;`-list of the components |
+
+The conjoined map **replaced the old flat `org_names_conjoined.csv`** on 2026-07-16 (that file
+recorded only the fused string, so the component orgs and their counts were lost; the mapping
+fixes both).
+
+`narrative_text_mapping_to_orgs.csv` — each row is a chunk of narrative
 prose — a bill-position sentence with no org name of its own, e.g. *"California Coalition of
 Travel Agents to improve the operation of California's Seller of Travel Law…"* — paired with the
 organization that prose describes. The prose is preserved here rather than in the crosswalk,
