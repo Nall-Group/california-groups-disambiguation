@@ -8,6 +8,36 @@ To edit this file (post questions, write answers), join this queue first. Only t
 
 ## Open Questions
 
+### Q47 (Task 4560, RA-Fleet-3) — Tenth instance of the lost-separator conjoined class: `Mayor of San Leandro` + `City of Albany` — full source cell retrieved
+
+**Status:** Open
+
+**Same class as Q32/Q33/Q34/Q35/Q38/Q39/Q40/Q44/Q46.** Task 4560 (leginfo batch 885) had 15 entries. I resolved 14 and committed them (`e6575f18`): 13 added as alternate spellings, 1 (`Mayor pro Tem Mary England, City of Lemon Grove`) already present as a case variant. The 15th is another lost-separator conjoined artifact.
+
+**The entry.** Task 4560 hints: `Mayor of San Leandro, City of Albany` (1) -> alternate spelling of **CITY OF SAN LEANDRO**.
+
+**Why that hint is wrong.** San Leandro and Albany are two different Alameda County cities. "CITY OF SAN LEANDRO" is not also known as "Mayor of San Leandro, City of Albany", so making this an alt spelling would assert a false identity between two unrelated cities.
+
+**The smoking gun — I pulled the whole source cell** (column `support`, from `leginfo_metadata.csv`). It is a semicolon-separated, alphabetically-ordered supporter list:
+
+> ... Humboldt County Department of Health and Human Services; International Longshore and Warehouse Union; **Kaiser Permanente; Mayor of San Leandro, City of Albany; National Latino Tobacco Control Network**; National Lawyers Guild Labor and Employment Committee; Professional and Technical Engineers, Local 21; ...
+
+Two independent confirmations:
+1. **Alphabetical order.** The list sorts K -> M -> N. A genuine supporter named "City of Albany" would sort under **C** (the same list has "County of Los Angeles" in the C run). "City of Albany" sitting after "Mayor of San Leandro" is only explicable as a lost `;` separator, not as part of one org's name.
+2. **A control case in the same corpus.** Other rows carry `Mayor of San Leandro` as its own standalone semicolon item, with no "City of Albany" attached — e.g. `... Mayor of Berkeley; Mayor of Oakland; Mayor of Richmond; Mayor of San Leandro; Oakland African American Chamber of Commerce; ...`
+
+**Both constituents are already in the crosswalk**, so no org name is lost by routing the artifact:
+- `STATE OF CALIFORNIA > CITY OF SAN LEANDRO > Mayor of San Leandro`
+- `STATE OF CALIFORNIA > CITY OF ALBANY`
+
+**Conflict with the task instructions.** Task 4560 says "Do NOT route any to a CSV" — but following that literally would assert that San Leandro is also known as the City of Albany. Blocking rather than deviating, consistent with Q32-Q46.
+
+**Proposed action (same as the rest of the class):** add `"Mayor of San Leandro, City of Albany",1` to `org_names_conjoined.csv`, add nothing to the crosswalk, and close task 4560 with no further crosswalk change.
+
+**Meta:** this is the **tenth** instance, and all ten (Q32/Q33/Q34/Q35/Q38/Q39/Q40/Q44/Q46/Q47) are still Open. A single blanket ruling on the class — "lost-separator conjoined straddle, both constituents already present -> route to `org_names_conjoined.csv`, no crosswalk change, no question needed" — would unblock tasks 4126, 4187, 4196, 4205, 4338, 4402, 4407, 4512, 4541 and 4560 at once and let future RAs handle these inline instead of spending a round-trip each. Ten round-trips on one mechanical pattern is the strongest argument yet for the blanket ruling.
+
+Task 4560 is marked **Blocked** with the assignee cleared; the 14 resolved entries are already committed, so whoever picks it up only needs to handle this 1.
+
 ### Q46 (Task 4541, RA-Fleet-2) — Ninth instance of the lost-separator conjoined class: `Los Angeles Area Chamber of Commerce` + `Management & Capital Group` — with a decisive alphabetical smoking gun
 
 **Status:** Open
