@@ -9,6 +9,41 @@ To edit this file (post questions, write answers), join this queue first. Only t
 
 ## Open Questions
 
+### Q32 (Task 4126, RA-Fleet-2) — "Women For: <Org>" entries are conjoined, not alternate spellings
+**Status:** Open
+
+Task 4126 asked me to add 8 leginfo orgs. I added 5 (committed, `05b9450e`). I did **not** add the other 3, because the leginfo source shows the task's placement hints would inject bad data:
+
+- `Women FOR: Commission on the Status of Women` (2) — hint: alt of **CALIFORNIA COMMISSION ON THE STATUS OF WOMEN**
+- `Women For CJA` (2) — hint: **new canonical** "Women For CJA"
+- `Women For: Sonoma County Public Health Department` (2) — hint: alt of chapter **Sonoma County Public Health Department**
+
+**Evidence — the same supporter list appears in `leginfo_metadata.csv` both ways.** The lists are `;`-separated, and `Women For` is its own list item:
+
+```
+... Older Women's League of California; Women For; CJA; National Council of Jewish Women; ...   <-- separator intact
+... Older Women's League of California; Women For CJA; National Council of Jewish Women; ...    <-- separator lost
+```
+```
+... California State Employees' Association; Women FOR: Commission on the Status of Women; California State Student Association; ...
+... Women For; Commission on the Status of Women; California State Student Association; ...     <-- same list, separator intact
+```
+
+So these strings are **conjoined**: the org `Women For` (a real LA/Beverly Hills org — already in the crosswalk as canonical `WomenFor` > `Women For`, plus `Women For (Beverly Hills)`) glued to the next org in the list. `Women For CJA` is **not** an org at all — it is `Women For` + `CJA` (already an alt of `California Judges Association`). Creating it as a canonical would be a junk entry.
+
+**Why I'm asking instead of just fixing it:** (1) the task says *"Do NOT route any to a CSV"*, but CLAUDE.md says conjoined entries go to `org_names_conjoined.csv` — direct conflict; (2) this is a **recurring class**, and entries already in the crosswalk were placed the hinted way, so a decision here is retroactive:
+- `Women for: California Women's Law Center` — currently alt under `CALIFORNIA WOMEN'S LAW CENTER`
+- `Women For: Women's Energy Matters` — currently alt under `Women's Energy Matters`
+- `Women for: Orange County, Irvine` — currently a **top-level canonical** (+ child `WOMEN FOR: ORANGE COUNTY`)
+
+**Question — which do you want?**
+- **(a)** Treat all `Women For[:;] <Org>` strings as conjoined: route the 3 rows to `org_names_conjoined.csv`, make sure both `Women For` and `<Org>` are in the crosswalk, and file a follow-up task to re-do the ~3 already-placed entries above the same way.
+- **(b)** Keep the existing convention (alt of the trailing org) and add the 3 as hinted, accepting that `Women For`'s bill counts get misattributed and that `Women For CJA` becomes a canonical.
+- **(c)** Something else — e.g. keep them as alts of `Women For` itself (the leading org), since that is the item the separator actually belongs to.
+
+My recommendation is **(a)**, with the `Women For CJA` row specifically **not** becoming a canonical under any option. Task 4126 is marked **Blocked** with the assignee cleared; the 5 unambiguous orgs are already committed, so whoever picks it up only needs to handle these 3.
+
+
 ### Q31 (Task 4117, RA-Fleet-2) — Cleaning-pattern proposal: trailing "…, sponsor of this measure / of the bill"
 **Status:** Open
 
