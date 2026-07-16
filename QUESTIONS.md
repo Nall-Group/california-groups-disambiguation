@@ -9,6 +9,42 @@ To edit this file (post questions, write answers), join this queue first. Only t
 
 ## Open Questions
 
+### Q41 (Task 4410, RA-Fleet-3) — Cleaning-pattern proposal: strip trailing `, unless amended`
+
+**Status:** Open
+
+Not a blocker — task 4410 is committed. Filing per the Worker RA "3 or more dirty entries sharing the same strippable boilerplate" rule. **I have not touched `cleaning_patterns.txt`.**
+
+**The pattern.** `, unless amended` is the tail of an `oppose unless amended` stance bleeding into the org name (the leginfo source literally has an `opposition_unless_amended` column). It is never part of an org's real name.
+
+**Proposed regex:** `,\s*unless\s+amended\s*$`  (strip; anchored to end of string, case-insensitive)
+
+**Affected: 5 crosswalk entries** — all `alternate_spelling` nodes, all leginfo additions:
+- `Air Products and Chemicals, unless amended` → `Air Products and Chemicals`
+- `California Farm Bureau Federation, unless amended` → `California Farm Bureau Federation`
+- `San Diego Gas and Electric Company, unless amended` → `San Diego Gas and Electric Company`
+- `Southern California Gas Company, unless amended` → `Southern California Gas Company`
+- `County Clerks Association, unless amended` → `County Clerks Association` (added by me in task 4410, kept verbatim pending this answer)
+
+**Near-misses it must NOT match** (all safe — the regex is end-anchored and requires the comma + "unless"):
+- `CA First Amendment Coalition`, `FIRST AMENDMENT COALITION`
+- `Comgro Soil Amendment Inc`, `Californians To Amend 3 Strikes`, `Move to Amend Coalition`
+
+**Precedent this is right:** `narrative_text_mapping_to_orgs.csv` line 261 already maps `Air Products and Chemicals, unless amended` → `Air Products and Chemicals`.
+
+**No orphan risk** (cf. [[prefix_strip_orphan]] / task 1716): `regenerate_org_subsets.py` runs `clean_org_name()` over the **source rows too**, so both sides get cleaned and the source rows still match. Each stripped name collapses into its existing parent/canonical via the normal child-dedup.
+
+**Q1: Approve this regex?** If yes it becomes a normal task (add pattern + run the full clean/dedup/stats pipeline).
+
+**Q2 (scope check — genuinely unsure, so asking rather than guessing):** there's a **larger adjacent family** of stance-artifact strings I found while grepping. These are messier and I did **not** try to write one regex for them — several would need judgment, and a greedy `amended` regex could damage real names. Do you want a separate proposal for any of these, or leave them to per-entry tasks?
+- trailing `if amended` — e.g. `Assoc. of CA School Administrators Inyo Placer Plumas Tehama if amended`, `Apartment Assn. of Los Angeles amended`
+- bracketed — e.g. `Acclamation Insurance Management Services [as amended]`, `American Civil Liberties Union (As amended April 13)`
+- leading `Amended:` / `Amended` — e.g. `Amended: American Federation of Television and Radio Arts`, `Amended Federation State County Municipal Employees (AFSCME)`
+- mid-string / lost-separator — e.g. `amended. Wal-Mart`, `Los Angeles (if amended) Workers`, `AMENDMENT REQUESTED: Mojave Town Council`
+- the recurring boilerplate `(THIS ANALYSIS REFLECTS AUTHOR'S AMENDMENTS TO BE OFFERED IN)` (appears on several ACLU/Attorney General entries — looks like a clean strippable suffix class of its own)
+
+---
+
 ### Q40 (Task 4407, RA-Fleet-3) — Seventh instance of the lost-separator conjoined class: `Natural Resources Defense Council` + `San Diego BayKeeper`
 
 **Status:** Open
