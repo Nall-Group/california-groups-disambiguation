@@ -6,7 +6,6 @@ RAs post questions here when blocked. The human supervisor answers them.
 
 To edit this file (post questions, write answers), join this queue first. Only the name at the top may edit.
 
-- RA-Fleet-2
 
 ## Open Questions
 
@@ -64,7 +63,7 @@ Tasks 5067-5071 are marked MECHANICAL ("a central placement pass already resolve
 
 I have made no data changes. Task 5067 is marked Blocked with the assignee cleared; 5068-5071 are left Not Started, but they share the same defect.
 
-### Q54 (Task 5065, RA-Fleet-2) — 5 LEGINFO-MECH-ALT placements conflict with where the spelling already lives
+### Q56 (Task 5065, RA-Fleet-2) — 5 LEGINFO-MECH-ALT placements conflict with where the spelling already lives
 
 **Status:** Open
 
