@@ -9,6 +9,35 @@ To edit this file (post questions, write answers), join this queue first. Only t
 
 ## Open Questions
 
+### Q57 (Task 5093, RA-Fleet-2) — 9 more LEGINFO-MECH-ALT placements conflict with where the spelling already lives
+
+**Status:** Open
+
+Same class as **Q56** (also mine, still open) — please answer both together if the ruling is the same.
+
+Task 5093 was mechanical (add 50 leginfo spellings under stated canonicals, "do not re-research"). Result: **40 already existed** under their stated canonical (no-ops), **1 was genuinely missing and I added it** (`Sempra Energy utilities, unless amended` → alt of `SEMPRA Energy`, committed). The remaining **9 I skipped** because the spelling already exists under a *different* canonical than the task states — adding as instructed would create a cross-tree duplicate. **No org name is lost: all 9 are already in the crosswalk.** Please confirm or correct:
+
+**(a) Spelling is already its own canonical** — adding it as an alt elsewhere would duplicate a whole tree:
+1. `Scripps Health (prior version)` cleans to `Scripps Health`, which **is** the stated canonical itself. A self-alt is meaningless. Skipped.
+2. `Select Committee on State Public Procurement Practices` — task said alt of `Select Committee on State Public`. That canonical **does not exist**; the spelling is itself a canonical. Looks like the central pass invented a truncated target.
+3. `Senate Committee on Environmental Quality` — task said alt of `DUAL REFFERRAL: Senate Environmental Quality Committee`. The spelling is itself a canonical.
+
+**(b) Stated canonical does not exist:**
+4. `Select Commitee on State Public Procurement Practices` (typo variant) — task said alt of the non-existent `Select Committee on State Public`. It is **already** correctly an alt of canonical `Select Committee on State Public Procurement Practices`.
+
+**(c) Already an alt under a different (and seemingly more correct) canonical:**
+5. `Semiconductor Equipment & Materials Int'l. (supported AB 81)` — task said alt of `Semiconductor Equipment & Materials`; already an alt of `Semiconductor Equipment Manufacturing International (SEMI)`.
+6. `Showing Up for Racial Justice Affiliate - Los Angeles` — task said chapter of `Showing Up for Racial Justice`; already an alt of `White People for Black Lives` (which is SURJ's LA affiliate's actual name).
+7. `Speech-Language Pathologists at the University of the Pacific - Graduate Program in Communication` — task said alt of `Speech-Language Pathologists at the University of the Pacific`; already an alt of `Speech-Language Pathologists at the University of the Pacific - Graduate` (a truncated canonical).
+8. `Star-News` — task said alt of `The Star-News`; already an alt of canonical `Star- News` (note the stray space — that canonical looks like a typo worth fixing).
+
+**(d) Skipped for coherence with #3:**
+9. `Senate Committee On Environmental Quality` (capital "On") — this one is **genuinely absent** from the crosswalk, and the task says to add it as an alt of `DUAL REFFERRAL: Senate Environmental Quality Committee`. I skipped it because its lowercase twin (#3) is a **separate canonical**, so adding only the case-variant under a third canonical would split one body across three places. **This is the one entry where skipping does leave an org name out of the crosswalk**, so it needs a ruling either way.
+
+**Underlying issue for #3/#9:** `Senate Committee on Environmental Quality` and `DUAL REFFERRAL: Senate Environmental Quality Committee` appear to be the **same body under two canonicals** — probably a canonical-dedup task, not a mech-alt one. If you confirm they should merge, #9 lands naturally as an alt of the merged canonical.
+
+**Also noted (no action taken):** several stated targets in this batch are **truncated/typo canonicals** (`Select Committee on State Public`, `Speech-Language Pathologists at the University of the Pacific - Graduate`, `Star- News`, `Semiconductor Equipment & Materials`) — the same wrinkle RA-Fleet-3 flagged on Q55 (`City of Covin`). A sweep of the LEGINFO-MECH-ALT batches for truncated targets before bulk-applying would likely prevent more of these.
+
 ### Q55 (Tasks 5067-5071, RA-Fleet-1) — 210 LEGINFO-MECH-ALT placements make named officials alternate spellings of `STATE OF CALIFORNIA`
 
 **Status:** Open
