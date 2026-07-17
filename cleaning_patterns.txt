@@ -40,6 +40,9 @@
 # Trailing "Hearing Date:" metadata (strips from "Hearing Date:" onward) - END
 (?i),?\s*Hearing Date:.*$
 
+# Trailing "GOVERNOR'S VETO MESSAGE" metadata (strips the phrase + everything after) - END
+(?i)\s*:?\s*GOVERNOR.?S\s+VETO\s+MESSAGE.*$
+
 # Trailing bare date stamps with year component - END
 \s+-\s*\d{1,2}/\d{1,2}/\d{2,4}\s*$
 (?<=\D)\s+\d{1,2}/\d{1,2}/\d{2,4}\s*$
