@@ -9,6 +9,46 @@ To edit this file (post questions, write answers), join this queue first. Only t
 
 ## Open Questions
 
+### Q59 (Task 5101, RA-Fleet-2) — ROOT CAUSE of the LEGINFO-MECH no-op epidemic: `org_names_not_in_crosswalk.csv` is 92% stale. All 20 MECH-NEW tasks (5100-5119) are ~99% no-ops.
+
+**Status:** Open
+
+This supersedes/explains the process notes on **Q56, Q57, Q58** (all mine/RA-Fleet-1's, all still open). I think I've found the actual root cause, and it's mechanical and fixable.
+
+**Task 5101 result: 50 of 50 entries were already in the crosswalk — byte-for-byte, verified by literal string match against every canonical and child node in the forest. Zero new org names. Nothing written.** All 50 are also already logged in `leginfo_added_to_crosswalk.csv`.
+
+**Root cause.** The central placement pass reads `org_names_for_cleaning/org_names_not_in_crosswalk.csv` to decide what's "missing". That file has not been regenerated since the leginfo adds landed, so it is badly stale:
+
+| Measure | Count |
+|---|---|
+| Rows in `org_names_not_in_crosswalk.csv` | 4,329 |
+| ...that are **already in the crosswalk** | **3,981 (92.0%)** |
+| ...of those, already logged in `leginfo_added_to_crosswalk.csv` | 3,966 |
+| **Rows genuinely NOT in the crosswalk (the real remaining work)** | **~348** |
+
+So the pass concluded "no existing match" for ~4,000 orgs that are in fact already placed. That is exactly why every MECH batch comes back as no-ops, and (Q55/Q57/Q58) why its stated targets are unreliable — it is reasoning from a stale view of the forest.
+
+**Impact across the whole MECH-NEW class.** I checked all 20 tasks' entries against the live forest:
+
+- **1,000 entries total (tasks 5100-5119)** → **~987 already present**, **~13 genuinely missing**.
+- Tasks **5101, 5102, 5104, 5105, 5106, 5110, 5111, 5113, 5115, 5116, 5117, 5118** are **100% no-op (0/50 missing each)**.
+- The rest have 1-3 genuinely-missing entries each. (A few of my "missing" hits are just markdown-escaped pipes in the task cell, e.g. `City of Hughson \| \|Mayor, City of` — so the true figure is even lower than 13.)
+
+**My recommendation:**
+
+1. Run `python3 scripts/regenerate_org_subsets.py` to refresh the CSVs. This is the fix — it will redistribute those 3,981 rows out of `not_in_crosswalk.csv` on its own. (I did **not** run it: these MECH tasks all say "defer the pipeline", and a 4,000-row redistribution is not my call to make unilaterally mid-batch. Happy to run it as its own task if you want.)
+2. **Cancel/close tasks 5102-5119 as no-ops** rather than having 18 more RAs each burn a full session re-confirming 50 already-placed orgs. I'd suggest closing them wholesale; if you'd rather each be individually verified, say so and I'll leave them.
+3. **Re-run the central placement pass against the refreshed CSV** (~348 real rows) to generate a much smaller, genuinely useful batch. Add the filters RA-Fleet-1 and I proposed on Q58 (skip if the spelling exists anywhere in the forest; skip if cleaned spelling == target canonical; skip if already in the target's subtree).
+
+**The ~13 genuinely-missing entries** are listed below so they aren't lost when 5102-5119 close. Most look like OCR/dirty variants that want folding as alts, not new canonicals:
+
+- `Association of California Life & Health Insurance Company` (5100) — alt of `ASSOCIATION OF CALIFORNIA LIFE & HEALTH INSURANCE COMPANIES`
+- `Association of California Rifle Insurance Companies` (5100) — "Rifle" is OCR for "Life"; alt of the same ACLHIC canonical
+- `Attorney General (both sent letters in opposition to the March 27, 1996 version of the bill) (…)` (5100) — alt of `State of California Attorney General`
+- `California multicultural Community Radio consortium` (5103), `Capistrano VEterinary Clinic` (5103), `Del Obispo Terrace Senior living` (5109), `Department of Finance (see Comment 4)` (5109), `Los Angeles Area Chamber of Management & Capital Group` (5114), `Los Angeles Deputy Sheriffs Association (with proposed City of Westminster v. County of Orange` (5114), `Toyota Motor Sales,USA` (5119), `Consumer Attorneys of California |Policy Education` (5108), `Human Rights/Fair Housing Commission|Francisco Bay` (5112), `City of Hughson | |Mayor, City of` (5107)
+
+**Question:** may I (or whoever picks this up) proceed with (1) + (2) + (3)? I've marked 5101 **Done** (nothing to write, no data changes), matching how 5093/5095 were handled.
+
 ### Q58 (Task 5095, RA-Fleet-2) — 10 more LEGINFO-MECH-ALT placements conflict with where the spelling already lives; task added 0 new names
 
 **Status:** Open
