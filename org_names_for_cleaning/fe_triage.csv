@@ -1,0 +1,597 @@
+idx,category,still_in_crosswalk,type,name
+0,conjoined,True,child,"100% Campaign, a collaboration of Children's Defense Fund California, California NOW, the Children's Partnership, and PICO California"
+1,dirty,True,child,"AdvoCal (clients: Wynnos International. Wynn Oil Company, and Robert Skeels & Company)"
+2,dirty,True,canonical,"Affordable Development LLC: 380, 818, 820, 2002, 3612, 3745, 5616, and SD"
+3,dirty,True,child,"Area 4 Agency on Aging, Nevada, Placer, Sacramento, Sierra, Sutter, Yolo and Yuba Counties"
+4,dirty,True,child,"Agency on Aging Advisory Council (Nevada, Placer, Sacramento, Sierra, Sutter, Yolo, & Yuba counties)"
+5,dirty,True,child,Arguments in Opposition America's Health Insurance Plans (AHIP)
+6,conjoined,True,child,"District Attorneys of Alameda, Contra Costa, Kern, Los Angeles, Santa"
+7,conjoined,True,child,"Alliance of California Tribes (Auburn Rancheria, Big Sandy Rancheria, Blue Lake Rancheria, Bridgeport Indian Reservation, Cortina Rancheria, Cuyapaipe Band of Mission Indians, Greenville Rancheria, Jackson Rancheria, Mesa Grande Band of Mission Indians, Pala Band of Mission Indians, Rumsey Indian Rancheria)"
+8,conjoined,True,canonical,"Alliance for the Mentally Ill of Contra Costa, Kern County, Lake County, Long Beach, Sacramento, San Bernardino Area, San"
+9,conjoined,True,child,"Alliance for the Mentally Ill of Contra Costa, Kern County, Lake County, Long Beach, Sacramento, San Bernardino Area, San Gabriel"
+10,clean_org,True,canonical,Alliance in Support of People With Intellectual and Developmental Disabilities
+11,dirty,True,child,"Alliance Supporting People with Intellectual and Developmental Disabilities, in opposition"
+12,individual,True,child,"Mary Micucci, Founder & Owner, Along Came Mary!: Productions. Inc"
+13,invalid,True,canonical,"Alto, Rancho Cordova, Rancho Cucamonga, Redding, Roseville, Salinas, San Francisco, Santa Barbara, Turlock, Visalia"
+14,conjoined,True,canonical,"America, Novartis Pharmaceuticals, Oracle, Pfizer, Inc., Pharmaceutical Research & Manufacturers of America, Western States Petroleum Association"
+15,clean_org,True,canonical,"American Assn./Univ. Women-Interbrnch Comm./Homeless Women & Children, San Jose"
+16,narrative,False,child,"Association of Blood Banks. Allows DPH to, by regulation, require"
+17,clean_org,True,child,"American Association of Payers Administrators and Networks (""AAPAN"")"
+18,narrative,False,child,"American Civil Liberties Union of California (ACLU), in support of"
+19,narrative,False,child,"In support, the American Civil Liberties Union of California"
+20,narrative,False,child,"In support, the American Civil Liberties Union California Action"
+21,clean_org,True,child,"American College of Emergency Physicians, Calif. State Chapter"
+22,conjoined,True,child,San Mateo County Central Labor Council on behalf of California Labor Federation
+23,clean_org,True,child,"Fresno, Madera, Tulare, Kings Counties, Central Labor Council"
+24,clean_org,True,child,"Central Labor Council Fresno, Madera, Tulare, Kings Counties, AFL-CIO"
+25,clean_org,True,child,"Fresno, Madera, Tulare, Kings Counties, Central Labor Council, Afl-cio"
+26,dirty,True,child,"Fresno, Madera, Tulare, Kings Counties, Center Labor Council"
+27,clean_org,True,child,"Local 2620, American Federation of State, County, and Municipal Employees, AFL-CIO"
+28,clean_org,True,child,"American Federation, State, County, and Municipal Employees (AFSCME), AFL-CIO"
+29,clean_org,True,child,"Assoc. of Federal, State, County and Municipal Employees, Inc., AFL-CIO"
+30,narrative,False,child,"Workers of America AFSCME Local 3930/AFL-CIO ""Studies have shown"
+31,clean_org,True,child,"United Domestic Workers, American Federation of State, County, and Municipal Employees, Local 3930"
+32,clean_org,True,child,LA County Probation Professional Managers Assoc. AFSCME Local 1967
+33,clean_org,True,child,"American Federation of State, County, and Municipal Employees (AFSCME), AFL-CIO, Bay Area"
+34,clean_org,True,child,"American Federation of State, County, and Municipal Employees, CA, AFL-CIO"
+35,narrative,False,child,"American Federation of State, County and Municipal Employees, sponsor of the bill"
+36,dirty,True,child,Inc. American Motorcyclist Association American Motorcyclist Association
+37,dirty,True,canonical,"American Psychological Association - Division One ""Clinical and Professional Practice"
+38,clean_org,True,child,Calif. Leg. Affairs Council of the American Society of Safety Engineers
+39,conjoined,True,child,"American Subcontractors Association, California Bay Area Chapter, L.A.-Orange Chapter, Redwood Empire Chapter, Capital City Chapter, Inland Chapter"
+40,conjoined,True,child,"American Subcontractors Association, California Bay Area Chapter, L.A.-Orange Chapter, Redwood Empire Chapter, Capital"
+41,invalid,True,canonical,"American, California Asian Pacific, California Hispanic, Carlsbad, Greater"
+42,invalid,True,canonical,"Angeles Area, Newport Beach, North Orange County, Oceanside, Orange"
+43,invalid,True,canonical,"Angeles, Merced, Napa, Pasadena, Rancho Cucamonga, and Santa Barbara"
+44,invalid,True,canonical,"Angeles, Merced, Oceanside, Pasadena, Port Hueneme, Poway, Rancho Cucamonga, San"
+45,invalid,True,canonical,"Angeles, Mission Viejo, Riverside, Santa Rosa, Stockton, Sunnyvale, Thousand Oaks, Vista"
+46,invalid,True,canonical,"Angeles, Monrovia, Montclair, Ontario, Pasadena, San Dimas, and South Pasadena"
+47,invalid,True,canonical,"Angeles, Orange County, Riverside County, Sacramento, San Diego, San"
+48,invalid,True,canonical,"Angels Camp, Brentwood, Burbank, Cerritos, Clearlake, Cloverdale, Commerce, Camarillo, Daly City, Dublin, Goleta, Laguna Hills, Lake Forest, Lakeport, Lakewood, La Mirada, Lodi, Los Banos, Manteca, Merced, Mill Valley, Morena Valley, Rancho Cucamonga, Rancho Palos Verdes, Redding, Riverbank, Roseville, Placerville, San Carlos, San Clemente, San Rafael, South Gate, Sunnyvale, Tehama, Thousand Oaks, Torrance"
+49,conjoined,True,child,"Anti-Defamation League, Los Angeles, Orange County, San Diego, San"
+50,conjoined,True,child,"Arcadia Health Care [Palo Alto, Stockton, San Francisco, San Rafael, Modesto]"
+51,conjoined,True,child,"Glaziers, Architectural Metal and Glass Workers, Locals 636, 169, 767, 1399, 718, and 1621"
+52,clean_org,True,canonical,"Area 12 Agency on Aging (Alpine, Amador, Calaveras, Mariposa, Tuolumne)"
+53,clean_org,True,child,"Area Agency on Aging-Alpine, Amador, Mariposa, Calaveras, Tuolumne"
+54,invalid,True,canonical,"Area, Los Angeles Area, Los Angeles Latino, Murrieta Wildomar, Rancho Cordova Area, Rocklin Area, Roseville Area, Santa Barbara"
+55,invalid,True,canonical,"Area, North Orange County, Norwalk, Orange County Black, Paradise"
+56,invalid,True,canonical,"Area, San Gabriel Valley, San Mateo County, Santa Clara County, San Joaquin County, San Luis Obispo County, Shasta County, Sonoma County, Whittier and Yolo County"
+57,conjoined,True,canonical,Assoc. For California Tort Reform Consumer Attorneys Of California
+58,conjoined,True,canonical,Assoc. General Contractors of Calif.East Bay Municipal Utility
+59,conjoined,True,canonical,"Assoc. of CA Water AgenciesAlameda County Taxpayers Assoc., Inc. CA Assoc. of Sanitation Agencies"
+60,narrative,False,child,"Associated General Contractors of California - the California Chapters (AGC) write, ""AGC"
+61,individual,True,child,"Joshua Wood, President, Associated Students, Incorporated, CSU"
+62,clean_org,True,child,"Association for Commuter Transportation, Southern Cal. Chapter"
+63,conjoined,True,canonical,"Association for Retarded Citizens of Amador, Calaveras, Long Beach, Riverside, San Francisco Counties"
+64,dirty,False,child,Association of California School Administrators : GOVERNOR'S VETO MESSAGE
+65,dirty,False,child,Association of California School Administrators: GOVERNOR'S VETO MESSAGE
+66,clean_org,True,child,Assn. of Calif. State Attorneys and Administrative Law Judges (ACSA)
+67,clean_org,True,child,Assn of Calif. State Attorneys & Administrative Law Judges (ACSA)
+68,dirty,True,child,Association of California Urban School Districts - prior version
+69,clean_org,True,child,"Association of Consulting Foresters of America, Inc., Calif. Chapter"
+70,clean_org,True,child,Association of the United States Army (Central Calif. Chapter 6105)
+71,narrative,False,child,"Autonomous Vehicle Industry Association, writing in opposition to"
+72,invalid,True,canonical,"Barbara, Placentia, Brentwood, San Rafael, Huntington Beach, and Redding"
+73,invalid,True,canonical,"Barbara, San Bernardino, San Luis Obispo, Santa Clara, Stanislaus, Solano, Sonoma, Trinity, Tulare, Tuolumne, Ventura"
+74,invalid,True,canonical,"Barbara, Selma, South San Francisco, Thousand Oaks, Torrance, Upland and Vista"
+75,clean_org,True,canonical,"Bari Management, Inc., Glendale, CA (owner Tony Roma's, Burger King, Roadhouse Grill)"
+76,conjoined,True,canonical,"Beach, Laguna Beach, Long Beach, Los Angeles, Manhattan Beach, Beach, Palos Verdes Estates, Rancho Palos Verdes, Redondo"
+77,conjoined,True,canonical,"Beach, Mid Valley, Montebello, Montrose, Pacific Palisades, Poway, Rancho Cucamonga, San Diego North, San Pedro"
+78,conjoined,True,canonical,"Beach, Monrovia, Montebello, Monterey Park, Redondo Beach, San Fernando, San Gabriel, San Marino, Santa Monica, Sierra Madre, Signal Hill, South"
+79,conjoined,True,canonical,"Beach, Orange, Placentia, Santa Ana, Seal Beach, Tustin, Westminister"
+80,conjoined,True,canonical,"Beach, Palo Alto, Redwood City, Sacramento, San Marcos, and Turlock"
+81,conjoined,True,canonical,"Beach, Paramount, Pico Rivera, Santa Fe Springs, Signal Hill"
+82,conjoined,True,canonical,"Beach, San Bernardino, San Diego, South El Monte, Torrance, and Vista"
+83,conjoined,True,canonical,"Bernardino Counties, Mar Monte, Pasadena, San Diego and Riverside Counties, Santa Barbara, Ventura and San Luis"
+84,conjoined,True,canonical,"Bernardino, San Fernando, San Gabriel, San Marcos, Redlands, Richmond, Santa Rosa, Signal (Mayor), Solana Beach, Stanton, Westminster, Visalia, Vista, King City, Moreno Valley"
+85,narrative,False,child,Biofuelwatch GOVERNOR'S VETO MESSAGE: This bill would require
+86,individual,True,child,"Earl ""Skip"" Cooper II, President/Chief Executive Officer, Black"
+87,clean_org,True,canonical,"Block, Plant, Eisner, Fiorito, Belak-berger, An Accountancy Corporation CPA"
+88,conjoined,True,child,Department of General Service on behalf of the Board of Control
+89,individual,True,child,"Fiona Ma, CPA, Vice Chair, State Board of Equalization, District 2"
+90,conjoined,True,canonical,"Board of Supervisors for Del Norte, El Dorado, Humboldt, Mendocino, Merced, Napa, Nevada, San Joaquin, San Luis Obispo, Shasta, & Stanislaus Counties"
+91,conjoined,True,canonical,"Board of Supervisors for Kern, Fresno, Sonoma, Yolo, & Yuba Counties"
+92,conjoined,True,canonical,"Board of Supervisors of Alameda, Alpine, Los Angeles, Orange, and Ventura"
+93,conjoined,True,canonical,"Board of Supervisors of Del Norte, Humboldt, Mendocino, Sonoma, Napa and Shasta"
+94,conjoined,True,canonical,"Board of Supervisors of Del Norte, Humboldt, Mendocino, Sonoma, Napa, Shasta, Yuba, Yolo, Placer, El Dorado, San"
+95,dirty,True,child,"Board of Supervisors, County of Los Angeles, 1st, 2nd, 3rd, & 4th"
+96,individual,True,canonical,"Bob Epstein, Co-Founder, Sybase, GetActive Software, Environmental Entrepreneurs"
+97,conjoined,True,canonical,"BOE Chair Diane Harkey, BOE Member Fiona Ma, BOE Member George Runner, American Rentals Association, United Rentals"
+98,conjoined,True,canonical,"Builders Exchange of Contra Costa, El Dorado, Humboldt, Kern County, Marin, North Coast, Sacramento, San Luis Obispo, Santa"
+99,conjoined,True,canonical,"Burbank, Mendocino, Normal Heights, North San Diego County, Orchard"
+100,clean_org,True,child,Ca. Assn. Sheet Metal & Air Conditioning Contractors Natl. Assn. (CAL SMACNA)
+101,clean_org,True,child,"Calif. Association of Sheet Metal and Air Conditioning Contractors, National Association"
+102,dirty,True,child,California Coastkeeper Alliance (represents 11 Waterkeeper groups)
+103,conjoined,True,canonical,CA Landscape Contractors Assoc. California Legislative Action
+104,clean_org,True,canonical,CA State Leg. Board/Brotherhood of Locomotive Engineers & Trainmen/IBT Rail Conference
+105,conjoined,True,canonical,"Cajon, Lakewood, La Mirada, Los Angeles, Modesto, Moorpark, Norwalk, Rolling Hills Estates, San Luis Obispo, Signal Hill, Tustin"
+106,clean_org,True,child,Cal. Assn. of School-Based and School-Linked Health Programs
+107,individual,True,child,"Robert Jennings (Calgard Assoc. Insurance Agency), Irwindale"
+108,conjoined,True,canonical,Calif. Anthony's Seafood Group B M Restaurants Inc. Bari Management
+109,clean_org,True,canonical,"Calif. Association for Health, Physical Education, Recreation and Dance"
+110,clean_org,True,canonical,Calif. Association of Regional Occupational Centers and Programs
+111,clean_org,True,child,Calif. Association of Rehabilitation and Reemployment Professionals
+112,conjoined,True,canonical,Calif. Building Industry Assn. Calif. Business Properties Assn. San Diego Industrial Environmental Assn
+113,clean_org,True,child,Calif. Coalition of Local Health Department Nursing Directors
+114,clean_org,True,canonical,Calif. Legislative Conference of the Plumbing Heating and Piping Industry
+115,clean_org,True,child,"Calif. Legislative Conference of the Plumbing, Heating & Piping Industry"
+116,clean_org,True,child,"Calif. Legislative Conference of the Plumbing, Heating & Piping"
+117,conjoined,True,canonical,Calif. Scully Packing Company LLC Sheriff Rodney K. Mitchell
+118,conjoined,True,child,Department of General Services/Calif. Victims Compensation and Government Claims Board
+119,dirty,True,child,Arguments in Opposition California Advocates for Nursing Home Reform (CANHR)
+120,narrative,False,child,"California Advocates for Nursing Home Reform, in opposition to a previous version of"
+121,narrative,False,child,"California Alliance for Child and Family Services (the Alliance), in support"
+122,clean_org,True,canonical,"California Alliance of Resale Merchants and Collectors (""CARMAC"")"
+123,narrative,False,child,"California Association of Health Services at Home, oppose unless"
+124,clean_org,True,canonical,California Association for Licensed Prof. Clinical Counselors
+125,narrative,False,child,"In support, the Association of Clerks and Election Officials"
+126,narrative,False,child,"California Association of Collectors, as sponsor of the bill"
+127,dirty,True,child,California Association of Health Plans (prior version): Neutral
+128,conjoined,True,canonical,"California Association of Independent Business, Inc. Century Housing"
+129,clean_org,True,child,"Calif. Assoc. of Licensed Security Agencies, Guards & Associates"
+130,clean_org,True,child,"Calif. Association of Licensed Security Agencies, Guards and Associates"
+131,clean_org,True,child,Calif. Association of Public Authorities for In-Home Supportive Services
+132,narrative,False,child,"California Association of Student Councils, sponsor of the bill"
+133,narrative,False,child,Community Associations Institute - California Legislative Action Committee writes
+134,conjoined,True,child,"California Chapters of the Brady Campaign to Prevent Gun Violence (Individual Chapters of the Brady Campaign from the following Counties and regions: Antelope Valley, Contra Costa, Long Beach, Los Angeles, Marin, Napa, Nevada, Oakland, Orange County, Pomona, San Joaquin, Sacramento Valley, San Diego, San Fernando Valley, San Francisco, San Mateo, Santa Barbara, Santa Clara, Santa Cruz, Solano, Sonoma, South Bay LA, Tri City Alameda County, Ventura and Yolo)"
+135,narrative,False,child,"California Building Industry Association, in support of the bill"
+136,narrative,False,child,"California Building Industry Association, one of the sponsors of the bill"
+137,narrative,False,child,"California Building Industry Association, sponsor of the bill"
+138,narrative,False,child,"California Building Officials, in opposition to a previous version of the bill"
+139,conjoined,True,canonical,"California Central Valley Education Coalition (Fresno, Kings, Madera, Mariposa, Merced, and Tulare county offices of education)"
+140,dirty,True,canonical,California Coastal Coalition (represents 45 cities and counties)
+141,narrative,False,child,"California Commission on Uniform State Laws, the sponsor of the bill"
+142,conjoined,True,canonical,"California Congress of Parents, Teachers and Students, Inc. California Catholic Conference"
+143,narrative,False,child,"California Consortium of Addiction Programs and Professionals (CCAPP), sponsor of the bill"
+144,narrative,False,child,"In support, the California Construction and Industrial Materials Association"
+145,narrative,False,child,"California Contract Cities Association (CCCA), with an ′Oppose′ position"
+146,narrative,False,child,California Correctional Peace Officers Association: GOVERNOR'S VETO MESSAGE
+147,narrative,False,child,"California Correctional Supervisor's Organization, ""The California Correctional Supervisors"
+148,narrative,False,child,"California Council of Community Behavioral Health Agencies (CCBHA), sponsor of the bill"
+149,clean_org,True,child,Calif. County Superintendents Educational Services Association
+150,dirty,True,child,the California Debt and Investment Advisory Commission. July 2011
+151,individual,True,child,"Hon. Tom Torlakson, State Superintendent of Public Instruction"
+152,narrative,False,child,"State Superintendent of Public Instruction, Tony Thurmond, sponsor of the bill"
+153,narrative,False,child,California Ecological Restoration Business Association writes
+154,individual,True,child,"California Federation of Teachers, AFL-CIO, Judy Michaels, Legislative Dir., Sacramento"
+155,narrative,False,child,"California Independent Petroleum Association (CIPA), in opposition"
+156,narrative,False,child,"State Insurance Commissioner Ricardo Lara, sponsor of the bill"
+157,conjoined,True,child,"CIF Southern Section - Santa Barbara, Ventura, San Bernardino, Orange, Riverside, Imperial, Inyo Counties"
+158,dirty,True,child,"California Judges Association (in support of increase to $7,500)"
+159,clean_org,True,child,"Exec. Committee, Family Law Section of the State Bar (FLEXCOM)"
+160,narrative,False,child,"sponsor of this bill, the California Lawyers Association, Trusts and Estates Section"
+161,dirty,True,child,"California Medical Association - letter dated April 22, 2005"
+162,narrative,False,child,California Municipal Utilities Assn. None reported to Committee
+163,narrative,False,child,Arguments in Opposition California Narcotic Officers' Association (CNOA)
+164,narrative,False,child,"California Narcotic Officer's Association (CNOA), in opposition"
+165,narrative,False,child,"California Nurses Association/National Nurses United, sponsor of the bill"
+166,narrative,False,child,"California Nurses Association/National Nurses United (CNA), sponsor of the bill"
+167,narrative,False,child,"California Nurses Association/National Nurses United, the sponsor of the bill"
+168,conjoined,True,canonical,"California Pan-Ethnic Health Network Catholic Legal Immigration Network, Inc. Central California Asthma Collaborative"
+169,conjoined,True,canonical,"California Rural Indian Health Board, Inc. Jackson Rancheria"
+170,narrative,False,child,"sponsor of this bill, the California School Boards Association"
+171,narrative,False,child,"California State Association of Psychiatrists (CSAP), in support of"
+172,narrative,False,child,California State Automobile Association: GOVERNOR'S VETO MESSAGE
+173,conjoined,True,canonical,California State Employees Assoc. Consumer Attorneys of California (CAOC)
+174,narrative,False,child,California State Employees Association: GOVERNOR'S VETO MESSAGE
+175,conjoined,True,child,"California Congress of Parents, Teachers, and Students, Inc. Media and Injury Prevention Program California"
+176,dirty,True,child,"California Congress of Parents, Teachers, and Students, Inc. California"
+177,dirty,True,child,California State Teachers' Retirement System - prior version
+178,clean_org,True,child,"School of Natural Sciences, Mathematics, and Engineering, California State University, Bakersfield"
+179,conjoined,True,child,"California State University, Chico-North State Planning & Develop. Collective"
+180,conjoined,True,child,"California State University, Fresno, Department of Agriculture, Lansing, Michigan"
+181,individual,True,child,"Dean Wendt, Dean, College of Science and Mathematics, California Polytechnic State University, San Luis Obispo"
+182,narrative,False,child,Oppose California Tax Reform Association (opposed identical AB 218 (2005))
+183,narrative,False,child,California Transportation Commission (osupport in concepto -- see Comment 10)
+184,conjoined,True,canonical,"California Water Utility Council Locals: 160, 160C, 160D, 205, 283, & 484"
+185,conjoined,True,canonical,Californians Against Waste. Association of California Recycling Industries
+186,conjoined,True,child,"Californians for Disability Rights, Inc. American Civil Liberties Union"
+187,conjoined,True,canonical,"Californians for Disability Rights, Inc. California Rehabilitation Association"
+188,narrative,False,child,"Californians for Good Governance, in opposition to a prior version of the bill"
+189,dirty,True,child,Calif. Public Employees' Retirement System (CalPERS) - unless
+190,narrative,False,child,"California Public Employees' Retirement System (CalPERS), Oppose, Unless"
+191,conjoined,True,child,"CARPENTERS LOCAL UNION 22, 46, 152, 180, 405, 505, 605, 562, 619, 661, 701, 713"
+192,conjoined,True,child,"CARPENTERS WOMEN'S AUXILIARY 001, 007, 66, 91, 101, 417, 710, AND 1904"
+193,individual,True,child,"Cemetery Workers & Greens Attendants Union, Local 265, John Martin, Exec. Board"
+194,individual,True,child,"Mr. Paul Bunje, Executive Director, Center for Climate Change Solutions, University of California, Los Angeles, Institute of the Environment and Sustainability"
+195,clean_org,True,child,Centers for International Trade Development (Calif. Community Colleges)
+196,clean_org,True,canonical,"Central Valley Education Coalition (Fresno, Kings, Madera, Mariposa, Merced, and Tulare county offices of education)"
+197,conjoined,True,canonical,"Chamber of Commerce: California, California Asian Pacific, California Hispanic, Fairfield-Suisun, Long Beach Area, Los Angeles Area, Orange County Black, Orange County Hispanic, Palo Alto, Sacramento Metropolitan, and San Mateo"
+198,conjoined,True,canonical,"Chamber of Commerce: California, Carlsbad, Chino Valley, Danville Area, Fremont, Greater Coachella Valley, Greater High Desert, Lake Elsinore Valley, Livermore Valley, Mission Viejo, Modesto, Murrieta Wildomar, Norwalk, Oceanside, Palm Desert Area, Palos Verdes Peninsula, Rancho Cordova Area, San Leandro, Santa Barbara South Coast, Santa Maria Valley, Simi Valley, Torrance Area, Walnut Creek, Vista, and Yuba-Sutter"
+199,conjoined,True,canonical,"Chamber of Commerce: California, Carson, El Dorado County, El Dorado Hills, Elk Grove, Folsom, Greater Coachella Valley, Greater Conejo Valley, Lincoln Area, Long Beach Area, Los Angeles Area, Los Angeles Latino, Murrieta Wildomar, Rancho Cordova Area, Rocklin Area, Roseville Area, Santa Barbara South Coast, Shingle Springs/Cameron Park, Simi Valley, Torrance Area, and Yuba Sutter"
+200,conjoined,True,canonical,"Chamber of Commerce: Carlsbad, Chico, California, Garden Grove, Greater"
+201,conjoined,True,canonical,"Chambers of Commerce of Fresno, Long Beach, Los Angeles, Oakland, Sacramento, San Diego"
+202,conjoined,True,canonical,"Chambers of Commerce of Fresno, Long Beach, Los Angeles, Oakland, Sacramento, San Diego, University of California"
+203,dirty,True,child,"Changing the Health of Adolescents Impacting the Nation Reaction, Inc. DBA"
+204,conjoined,True,canonical,"Children's Health Council, The Center, Evaluation, Therapy, Learning"
+205,conjoined,True,canonical,"Chula Vista, Claremont, El Cajon, Dana Point, Los Angeles, Moreno Valley, Pasadena, Santa"
+206,conjoined,True,child,"Chula Vista, Claremont, El Cajon, Dana Point, Los Angeles, Moreno Valley, Pasadena, Santa Barbara"
+207,clean_org,True,child,"CIF Central Section - Fresno, Kern, Kings, Madera, and Tulare Counties"
+208,clean_org,True,child,"CIF Central Section - Fresno, Kern, Kings, Madera, Tulare Counties"
+209,conjoined,True,canonical,"Cities: Chula Vista, San Buenaventura, Berkeley, Moreno Valley, Montclair"
+210,conjoined,True,child,"Citizens Against Lawsuit Abuse - Central California, Northern California, Los Angeles, Orange County, Silicon Valley and San Diego County Chapters"
+211,conjoined,True,child,"Citizens Against Lawsuit Abuse of Central California, Los Angeles, Northern California, Orange County, San Diego County, and Silicon Valley"
+212,conjoined,True,child,"Citizens Against Lawsuit Abuse: Central California, Los Angeles, Northern California, Orange County, San Diego County and Silicon"
+213,dirty,True,child,"Citizens for Responsible and Constitutional Laws ""Working to Keep"
+214,conjoined,True,canonical,City of Community Housing Assistance Program Inc. County of Santa Barbara
+215,conjoined,True,canonical,"City of Fresno, Gilroy, Merced, Sacramento, Santa Rosa, Vacaville, Visalia, Vista, Wasco, Waterford, West Covina, Whittier"
+216,individual,True,canonical,"City of San Jose, Sarah Zárate, Director of Administration, Policy, and Intergovernmental Relations"
+217,conjoined,True,canonical,"City, Half Moon Bay, Millbrae, Pacifica, Redwood City, San Bruno, San"
+218,conjoined,True,canonical,"City, Palo Alto Plus, Petaluma, Redlands, Resisters Walnut Creek, Ross Valley, Sacramento, San Diego Central, San Jose, San Pedro, Santa Barbara, Santa"
+219,conjoined,True,canonical,"City, Petaluma, Resisters Walnut Creek, Rooted in Resistance, Ross Valley, Sacramento, San Diego Central, San Diego Downtown, San Jose, San Pedro, Santa Barbara, Santa Cruz, Santa Cruz County, Sausalito, SF Peninsula, SFV, Sonoma County, South Bay LA, Stanislaus, Suffragists, Together We"
+220,individual,True,child,"Raymond F. Spengler, Jr., Lt. Col. CAP NORCAL Group 5 Commander, Sacramento, Calif"
+221,narrative,False,child,Civil Justice Association of California (CJAC) in opposition
+222,conjoined,True,child,"Clean Harbors Environmental Services, Phibro-Tech, Inc., Safety-Kleen Corporation, Teris LLC, Waste Management"
+223,conjoined,True,canonical,"Clemente, Orange, Laguna Hills, La Palma, Westminster, San Juan Capistrano, Fountain Valley, Anaheim, Fullerton"
+224,conjoined,True,child,"The Climate Reality Project: California State Coalition, Los Angeles, Monterey Bay, Orange County, San Diego, and San Fernando Valley CA"
+225,conjoined,True,child,"The Climate Reality Projects: California, Los Angeles, San Diego, San Fernando Valley, and South Central Coast"
+226,conjoined,True,child,"The Climate Reality Projects: California, Los Angeles, San Fernando Valley, San Francisco Bay Area, and Silicon Valley"
+227,narrative,False,child,"Coalition for Humane Immigrant Rights, the sponsor of the bill"
+228,conjoined,True,canonical,"Coalition of California Welfare Rights Organizations, Inc. Inquilinos Unidos"
+229,narrative,False,child,"Coalition to Abolish Slavery and Trafficking, sponsor of the bill"
+230,narrative,False,child,Collaborative Practice California (in support of Sections 1 & 2)
+231,dirty,True,child,"College Terrace Residents Association, CTRA, Palo Alto, California, 94306"
+232,conjoined,True,canonical,"Commerce of Arcadia, Burbank, Canoga Park/West Hills, Chino Valley, Costa Mesa, Crenshaw, Downey, Hanford, Inglewood/Airport Area"
+233,conjoined,True,child,"Chambers of Commerce of Arcadia, Burbank, Canoga Park/West Hills, Chino Valley, Costa Mesa, Crenshaw, Downey, Hanford, Inglewood/Airport Area"
+234,clean_org,True,child,"Commission on California State Government Organization and Economy (""Little Hoover"")"
+235,narrative,False,child,"Committee for Compassionate Use, Sonoma county Chapter. Prior Vote: Senate Judiciary Committee 4-4"
+236,narrative,False,child,"Communications Workers of America, District 9, sponsor of the bill"
+237,narrative,False,child,"Communication Workers of America, District 9 (CWA D9), sponsor of the bill"
+238,narrative,False,child,"Communication Workers of America, AFL-CIO, District 9, sponsor of the bill"
+239,clean_org,True,child,"Communications Workers of America, Local 9423, District 1 & 2, Santa Clara, San Mateo, Santa Cruz, San Benito, Monterey, San Luis Obispo"
+240,dirty,True,child,"Communications Workers of America, Local 9423, District 1 & 2, Santa Clara, San Mateo, Santa Cruz, San"
+241,dirty,True,child,"Communications Workers of America Local 9423, District I and II:: Santa Clara, San Mateo, Santa Cruz, San Benito, Monterey, and San Luis Obispo Counties"
+242,dirty,True,child,"Communications Workers of America Local 9423, District I and II:: Santa Clara, San Mateo, Santa Cruz, San Benito, Monterey, and San Luis Obispo"
+243,conjoined,True,canonical,"Communications Workers of America Locals 9000, 9410, 9415, 9423, 9503, 9586, 9588, 14909"
+244,conjoined,True,child,"Communication Workers of America Locals 9000, 14904, 9410, 9414,l 9415, 9423, 9503, 9575, 9586, 9588"
+245,conjoined,True,canonical,"Community Hospice Care of Orange, San Bernardino, San Diego, Torrance, West"
+246,clean_org,True,child,"Community Service Programs, Inc. Sexual Assault Victim Services"
+247,dirty,True,child,"Conference on Jewish Material Claims Against Germany, Inc. Six Individuals"
+248,conjoined,True,canonical,Construction Employers' Association Ghilotti Bros. Contractors
+249,conjoined,True,canonical,"Contra Costa County, Glendale, Gold Country, Angels Camp, Inland Valley, Rancho Cucamonga, Kern County, Lake"
+250,conjoined,True,canonical,"Contra Costa County, Glendale, Gold Country, Angels Camp, Inland Valley, Rancho Cucamonga, Kern County, Lake County, Los Angeles County, Marin, Mendocino"
+251,conjoined,True,canonical,"Contra Costa, San Jose, Santa Cruz County, Santa Cruz - Friends of the Environment, and Ventura"
+252,invalid,True,canonical,"Costa, Long Beach, Los Angeles, Nevada County, Oakland/Alameda"
+253,invalid,True,canonical,"Council, Cupertino, East Los Angeles, Greater Bakersfield, Greater"
+254,invalid,True,canonical,"Counties, Mar Monte, Pasadena, San Diego and Riverside Counties, Santa Barbara, Ventura and San"
+255,invalid,True,canonical,"County Hispanic, Santa Ana, Santa Clarita Valley, Torrance Area, Tulare Kings"
+256,conjoined,True,canonical,County of Santa Cruz El Dorado Hills Community Svc Dist. Foundation for Taxpayers
+257,dirty,True,canonical,County of Westwood South of Santa Monica Blvd. Homeowner Association
+258,invalid,True,canonical,"County. Kings, Lake, Los Angeles, Monterey, Napa, Placer, Sacramento, Santa"
+259,conjoined,True,child,Courtroom Television Network (Court CA Public Defenders Assn. TV)
+260,clean_org,True,canonical,"Crafts of the United States, Its Territories, and Canada, AFL-CIO, CLC"
+261,narrative,False,child,"Crypto Council for Innovation (CCI), an association whose members include Andreessen Horowitz, Block, Coinbase, Electric Capital, Fidelity Digital Assets, Gemini, OpenSea, Paradigm, and Ribbit Capital"
+262,invalid,True,canonical,"Cucamonga, Rolling Hills, San Bernardino, San Clemente, San Luis Obispo, Santa Barbara, Santa Maria, Santa Paula, Santee, Seal"
+263,invalid,True,canonical,"Cucamonga, San Diego North, San Pedro Peninsula, Santa Clarita, Santa Maria Valley, Torrance Area, Ventura, and Winnetka"
+264,conjoined,True,canonical,"Cupertino, Fremont, Homestead, Lynbrook, and Monta Vista High Schools and Fremont Union High School District"
+265,dirty,True,child,Daniel Freeman Hospital's Inc. Speech Pathologists and Audiologists
+266,dirty,True,child,Department of General Services on behalf of the Board of Control
+267,dirty,True,child,"Dependency Legal Services (Mendocino, Lake, Solano, Marin, Sonoma, Stanislaus, Yolo, Placer)"
+268,dirty,True,child,San Joaquin County Deputy Sheriff's Association (according to author)
+269,dirty,True,child,"Devine Intermodal Trucking Company, Sacramento, Fresno, Stockton, Lathrop, Oakland, Los Angeles, and Paramount, CA"
+270,invalid,True,canonical,"Diego, Santa Monica, Suisun City, Tehachapi, Temecula, Whittier"
+271,clean_org,True,child,Dignity Community Care Dba. California Hospital Medical Center
+272,individual,True,child,"Los Angeles County District Attorney Jackie Lacey, the bill's"
+273,invalid,True,canonical,"Downtown Los Angeles, Glendale, Hollywood, Long Beach, Oxnard, San Fernando, Santa Clarita Valley"
+274,dirty,True,child,"Retired Senior and Volunteer Program of Downtown Los Angeles, Glendale, Hollywood, Long Beach, Oxnard, San Fernando, Santa Clarita Valley"
+275,individual,True,canonical,"Drew, Karen Bret Harte, Patricia King, Felipe Mundante, and Victora Rivero"
+276,dirty,True,child,Education Mandated Cost Network to prior version of the bill
+277,dirty,True,child,"El Camino Children & Family Services, Inc. Board of Directors"
+278,dirty,True,child,"California Public Employees' Retirement System (CalPERS), Support with committee amendments"
+279,dirty,True,canonical,"End of Life Choices, Greater Bakersfield, Central Coast, Central Valley, Orange County, Sacramento Valley, San"
+280,dirty,True,child,"End of Life Choices, Greater Bakersfield, Central Coast, Central Valley, Orange County, Sacramento Valley, San: Diego Chapters"
+281,conjoined,True,canonical,Escondido Independent Energy Inc. Natural Resources Defense Council Pacific Energy Group
+282,individual,True,child,"Twilight Florido, Fair Housing Specialist, Fair Housing Center, Palo Alto, CA"
+283,conjoined,True,canonical,"Farm, Farmers, SAFECO, Progressive, American States and Committee on Moral Concerns"
+284,dirty,True,child,"Federation of Retired Union Members (Counties of: Amador, El Dorado, Nevada, Placer, Yolo and Sacramento)"
+285,clean_org,True,canonical,"Five Cities Economic Development Joint Powers Authority (Fowler, Reedley, Sanger, Selma, Parlier)"
+286,clean_org,True,child,"Five Star Education Coalition (Burbank, Glendale, La Canada, Pasadena, and South Pasadena Unified School Districts)"
+287,clean_org,True,canonical,"FOCUS Brands (Auntie Anne's, Carvel, Cinnabon, Moe's Southwest Grill, Schlotsky's)"
+288,clean_org,True,child,"FOCUS Brands (Auntie Anne's, Carvel, Cinnabon, Moe' Southwest Grill, Schlotsky's)"
+289,conjoined,True,child,"Foothill Air Conditioning and Heating, Inc. Golden State Builders Exchanges"
+290,individual,True,canonical,"Forest Batz, PharmD, Assistant Clinical Professor, School of Pharmacy, University of California, San Francisco"
+291,individual,True,child,"Forest Bazat, PharmD, Assistant Clinical Professor, School of Pharmacy, University of California, San Francisco"
+292,dirty,True,child,"Garton Tractor Inc., (Turlock, Tulare, Newman, and Stockton)"
+293,individual,True,canonical,"Gerardo F. Gomez, Sr. Catholic Chaplain, Twin Towers I, CF, Los Angeles, CA"
+294,clean_org,True,canonical,"Glass Molders, Pottery, Plastics and Allied Workers' Union, AFL-CIO, CLC"
+295,clean_org,True,child,"Glass, Molders, Pottery, Plastics & Allied Workers: International Union, Local 213"
+296,clean_org,True,canonical,"Glass, Molders, Pottery, Plastics and Allied Workers Union, Retirees Branch"
+297,clean_org,True,canonical,"Glass, Molders, Pottery, Plastics, & Allied Workers International Union (GMP)"
+298,clean_org,True,child,"Glass, Molders, Pottery, Plastics, & Allied Workers International Union (GMP), Local 137"
+299,clean_org,True,canonical,"Glass, Molders, Pottery, Plastics, and Allied Workers International, United Steel Workers"
+300,clean_org,True,child,"Gordon, Edelstein, Krepack, Grant, Felton, Goldstein, LLP, Attorneys at Law"
+301,individual,True,child,"Joel Makower, Founder, Greenbiz.com & Co-Founder, Clean: Edge, Inc"
+302,clean_org,True,canonical,"Grillias, Pirc, Rosier, Alves - Planners, Architects, & Engineers"
+303,invalid,True,canonical,"Grove-Cosumnes, Elsinore Valley, Gridley-Biggs, Halcumb, Hanford, Kingsburg, Lemoore, Live Oak, Los Banos, Madera, Mendocino-Little"
+304,individual,True,canonical,"Henriette W. Langdon, Assoc. Prof. San Jose State University"
+305,conjoined,True,child,"Hotel Employees & Restaurant Employees Union, AFL-CIO, Local 11, Maria Elena Durazo, President, Los Angeles Organizations"
+306,individual,True,canonical,"Honorable, La Doris Cordell, Retired, State Court Judge, Santa Clara County"
+307,dirty,True,child,"Howard Jarvis Taxpayers Association (HJTA), on behalf of 34 individual HJTA"
+308,conjoined,True,canonical,"Hueneme, Redondo Beach, South Bay Association, South County, Torrance, and Wilmington"
+309,individual,True,child,"Craig N. Rossell of Hunt, Ortmann, Blasco, Palffy, & Rossell, Inc. Attorneys at Law"
+310,dirty,True,child,Independent Cities Association (represents 49 cities in Southern California)
+311,conjoined,True,canonical,"Infinity Broadcasting Corporation Radio Stations KHTK, KNCI, KSFM, KXOA, KYMX and KZZO, Sacramento"
+312,dirty,True,child,"International Alliance of Theatrical Stage Employees Local 44, 80, 600, 695, 700, 705, 706, 728, 729, 767, 800, 871, 884, 892"
+313,dirty,True,child,"International Alliance of Theatrical Stage Employees, Locals 44, 80, 600, 695, 700, 705, 706, 728, 729, 767, 800, 871, 884, 892"
+314,dirty,True,child,"IATSE Local 44, 80, 600, 695, 700, 705, 706, 728, 729, 767, 800, 871, 884, 892"
+315,clean_org,True,child,"International Alliance of Theatrical Stage Employees, Moving Picture Technicians, Artists, and Allied Crafts of the United States, Its Territories, and Canada, AFL-CIO, CLC"
+316,dirty,True,child,"International Alliance of Theatrical Stage Employees, Locals 33, 80, 706, 768, 857"
+317,dirty,True,child,"International Association of Bridge, Structural, Ornamental and Reinforcing Iron Workers, Local Union 155, Local 433"
+318,clean_org,True,child,"The International Association of Bridge, Structural, Ornamental, Iron Workers, Riggers, Heavy Machinery Movers, & Sheeters"
+319,dirty,True,child,"International Association of Bridge, Structural, Ornamental Iron Workers, Riggers, Heavy"
+320,individual,True,child,"California Professional Firefighters, Brian Hatch, Dir. Gov. Affairs, Sacramento"
+321,individual,True,child,"California Professional Firefighters, Brian Hatch, Dir. Gov. Affairs"
+322,individual,True,child,"Capt. Raymond Bower, International Association of Firefighters, Local I-25"
+323,dirty,True,child,"CA State Legislative Board of Sheet Metal, Air, Rail and Transportation Workers, Engineers and Scientists of CA, IPTE"
+324,dirty,True,child,"CA State Legislative Board of Sheet Metal, Air, Rail and Transportation Workers, Engineers and Scientists of CA, IPTE Local 20, AFL-CIO"
+325,clean_org,True,child,"California State Board, Sheet Metal, Air, Rail, and Transportation Workers"
+326,clean_org,True,child,"Sheet Metal, Air, Rail, and Transportation Workers, Local Union No.105"
+327,dirty,True,child,"International Brotherhood of Boilermakers, Iron Ship Builders, Blacksmiths, International Brotherhood of Boilermakers, Western States Section"
+328,dirty,True,child,"International Brotherhood of Electrical Workers Local 11, 40, 180, 234, 413, 440, 441, 551, 569, 595, 617, 639, 952"
+329,dirty,True,child,"International Brotherhood of Electrical Workers, Local 45, 332, 569, 595"
+330,dirty,True,child,"International Brotherhood of Electrical Workers Locals 6, 47, 100, 180, 302, 332, 340, 413, 551, 595, and 639"
+331,dirty,True,child,"International Brotherhood of Electrical Workers, Local Union 6, 180, 302, 551, and 617"
+332,dirty,True,child,"International Brotherhood of Electrical Workers: Local 11, Local 47, Local 617, Local 684, and Local 1245"
+333,dirty,True,child,"International Brotherhood of Electrical Workers Local 551, Marin, Sonoma, Mendocino, Lake, Humboldt and Del Norte Counties"
+334,dirty,True,child,"Local Union 45, Broadcast, Television, Recording Engineers, IBEW"
+335,dirty,True,child,"International Brotherhood of Electrical Workers Local Unions Nos. 6, 40, 302, 340, 413, 441, 551, 569, 595, 639, and 684"
+336,dirty,True,child,"International Brotherhood of Electrical Workers Locals 11, 18,100, 302, 428, 441, 551, 569, 595, 684"
+337,dirty,True,child,"Teamsters Warehouse Union, Local 853, San Francisco, San Mateo, Alameda, Marin, and Contra Costa Counties"
+338,conjoined,True,child,"Teamsters Local 63,137, 150, 315, 350, 386, 396, 431, 517, 542, 856, 890, UNITE HERE"
+339,dirty,True,child,"Teamsters Union Local 601, Cannery Workers, Processors, Warehousemen and Helpers, Stockton and Oroville"
+340,dirty,True,child,Northern California District Council - Int. Longshore and Warehouse Union
+341,dirty,True,child,Northern CA District Council of the Intl. Longshore and Warehouse Union
+342,clean_org,True,child,Northern CA District Council of the Int. Longshore and Warehouse Union
+343,dirty,False,child,"Inlandboatmen's Union of the Pacific (IBU), a sponsor of the bill"
+344,dirty,True,child,"Northern California District Council of the ILWU, in opposition to the bill"
+345,clean_org,True,child,"International Union of Painters and Allied Trades, Painters, Tapers, Floorcoverers, & Glaziers"
+346,clean_org,True,child,"International Union of Painters and Allied Trades, Painters, Tapers, Floorcoverers, & Glaziers, Local 294"
+347,clean_org,True,child,"Structural, Ornamental, Iron Workers, Riggers, Heavy Machinery"
+348,clean_org,True,child,"Structural, Ornamental, Iron Workers, Riggers, Heavy Machinery Movers, & Sheeters"
+349,clean_org,True,canonical,"IU of Painters and Allied Trades, Painters, Tapers, Floorcoverers, & Glaziers"
+350,clean_org,True,child,"IU of Painters and Allied Trades, Painters, Tapers, Floorcoverers, & Glaziers, Local 294"
+351,individual,True,child,"Hon. James Lambden, Associate Justice, Court of Appeal, First Appellate District, Division Two"
+352,clean_org,True,canonical,"JBanta, Inc., Resources & Support for Fathers, Sacramento, CA"
+353,individual,True,canonical,"Jerome Engel, Chief, Division of Epilepsy and Clinical Neurophysiology, UCLA and Director, UCLA"
+354,individual,True,child,"Dr. Jerome Engel, Chief, Division of Epilepsy and Clinical Neurophysiology, UCLA and Director, UCLA"
+355,clean_org,True,canonical,"Jewish Community Relations Council of San Francisco, the Peninsula, Marin, Sonoma, Alameda and Contra Costa Counties"
+356,clean_org,True,child,"Jewish Community Relations Council of San Francisco, the Peninsula, Marin, Sonoma, Alameda, Contra Costa Counties"
+357,clean_org,True,child,"Jewish Community Relations Council of San Francisco, the Peninsula, Marin, Sonoma, Alameda and Contra Cost counties"
+358,clean_org,True,child,"Jewish Community Relations Council (JCRC) of San Francisco, the Peninsula, Marin, Sonoma, Alameda and Contra Costa Counties"
+359,clean_org,True,canonical,"Jewish Family and Children Services of San Francisco, Peninsula, San Mateo, Marin, and Sonoma"
+360,individual,True,canonical,"John Tavaglione, Roy Wilson, Tom Mullen, and Jim Venable, Riverside County Supervisors"
+361,conjoined,True,canonical,"Junior League of Long Beach, Los Angeles, Orange County, Riverside, Sacramento, and San Diego"
+362,conjoined,True,canonical,"Juvenile Division, Sup. Ct. of L.A.Muni. Ct., San Diego Judicial"
+363,clean_org,True,child,"Kalpulli Inc. Projects, California State University, Northridge"
+364,individual,True,canonical,"Karen Chapple, Professor, City and Regional Planning, University of California, Berkeley"
+365,individual,True,child,"Karen Chappelle, Professor, College of Environmental Design, City and Regional Planning, UC Berkeley"
+366,clean_org,True,canonical,"Kelly & Hubner, LLP Advocates for Infants, Children, & Youth, Santa Barbara County"
+367,dirty,True,child,Kiner/Goodsell Advertising (on behalf of Programmed Special Markets)
+368,dirty,True,child,KP Public Affairs (on behalf of the California Mortgage Bankers Association)
+369,dirty,True,child,Gerald P. OoHara. La Raza National Lawyers Association - Sacramento
+370,conjoined,True,canonical,"Lafayette, Lemoore, Pismo Beach, Rohnert Park Walnut Creek, and West Hollywood"
+371,conjoined,True,child,"Lake Hughes Recovery Estates, Inc. Lake Hughes Recovery O.P., Inc. dba First Responders First Outpatient"
+372,dirty,True,child,"Laurence P. Lubka, esq. Hunt Ortmann Blasco Palffy & Rossell, Inc"
+373,conjoined,True,canonical,"Law Libraries of the Counties of Solano, Alameda, Sacramento, San Diego, Orange, Los Angeles, Santa"
+374,dirty,True,child,"Lawrence Tractor Company: Visalia, CA, Hanford, CA, Tipton, CA"
+375,dirty,True,child,"League of California Cities, Inland Empire Division (Member Cities: Chino, Chino Hills, Colton, Fontana, Grand Terrace, Highland, Loma Linda, Montclair, Ontario, Rancho Cucamonga, Redlands, Rialto, San Bernardino, Upland, and Yucaipa)"
+376,narrative,False,child,League of California Cities (Cal Cities) is sponsoring this bill and states
+377,narrative,False,child,League of California Cities NOTE: SEE COMMENT 6 FOR PROPOSED AMENDMENTS. PageB
+378,dirty,True,canonical,"Lee Petillon, Petillon, Hiraide, Loomis, Zagzebski & Zagzebski, LLP"
+379,dirty,True,child,Legal Services of Northern CA on behalf of the Avondale-Glen Neighborhood Assoc
+380,narrative,False,child,Legal Services of Northern CA on behalf of the Avondale-Glen
+381,conjoined,True,canonical,"Legion, Veterans Service Officers, State Council, Engineering & TXI Riverside Cement, Associated"
+382,clean_org,True,canonical,"LIFE: California's Lesbian, Gay, Bisexual, Transgender, and HIV/AIDS Lobby and Institute"
+383,clean_org,True,child,"LIFE: California's Lesbian, Gay, Bisexual, Transgender, & HIV/AIDS Lobby & Institute"
+384,clean_org,True,child,"LIFE (California's Lesbian, Gay, Bisexual, Transgender, and HIV/AIDS Lobby & Institute)"
+385,clean_org,True,child,"LIFE: California's Lesbian, Gay, Bisexual, Transgender, and Institute"
+386,clean_org,True,child,"Milton Marks Commission on California State Government Organization and Economy (""Little Hoover Commission"")"
+387,conjoined,True,canonical,"LIVERMORE, MARIN, MEDIA CITY BURBANK, RESISTANCE SAN DIEGO, ROSS VALLEY"
+388,dirty,True,child,"Los Angeles County Drainage Area Alliance (coalition of seven cities--Bellflower, Carson, Downey, Lakewood, Paramount, Pico Rivera, and South Gate)"
+389,dirty,True,child,Los Angeles County Transportation Commission. James Warren Beebe
+390,dirty,False,child,"Los Angeles Unified School District, the sponsor of the bill"
+391,conjoined,True,canonical,"Luis Obispo, San Mateo, Santa Barbara, Santa Cruz, Shasta County, Solano, Sonoma, Stanislaus, Tulare, Ventura, Yolo County"
+392,individual,True,child,"M. Margaret Knudson, M.D., Professor of Surgery, University: of California, San Francisco"
+393,narrative,False,canonical,MA and SUD Provider Credentialing. The Center for Autism and Related Disorders (CARD)
+394,conjoined,True,canonical,"Mar, Los Angeles, Manhattan Beach, Merced, Palo Alto, Piedmont, Santa Barbara, Santa Monica, Thousand"
+395,clean_org,True,canonical,"Margaret A. Cellio dba ""Nails by Peggy"", South San Francisco"
+396,individual,True,child,"K.J Killea, Brigadier General, U.S. Marine Corps Commanding General, Marine Corps Installations West-Marine Corps Base, Camp Pendleton"
+397,individual,True,child,"Michael G. Colantuono, Neufeld, Jaffe, Levin & Colantuono, LLP"
+398,conjoined,True,canonical,"Miguel, San Ramon, Santa Clara County, Santa Rosa, Stockton, Torrance, Vacaville, Vallejo"
+399,dirty,True,child,California State Council. Military Order of the Purple Heart- Department of California
+400,clean_org,True,child,"The ""Ministry In Action Commission"" of St. Mark's United Methodist Church"
+401,individual,True,child,"Alan Ruby, Esq., of Morgan, Ruby, Schofiled, Franich & Fredkin"
+402,dirty,True,child,"The Motion Picture Association of America, Inc. (includes Walt Disney Studios Motion Pictures, Paramount Pictures Corporation, Sony Pictures Entertainment, Inc., Twentieth Century Fox Film Corp., Universal Studios LLLP, Warner Bros. Entertainment Inc.)"
+403,dirty,True,child,"MPA Collaborative Implementation Project (includes San Diego, Orange County, Los Angeles, Catalina, San Luis Obispo, Monterey, San Mateo, Golden Gate, Sonoma, Mendocino, Humboldt, and Del Norte Collaboratives)"
+404,conjoined,True,child,NATIONAL ASSOCIATION OF SOCIAL WORKERS â€” CALIFORNIA CHAPTER NATIONAL COALITION FOR THE HOMELESS
+405,narrative,False,child,National Association of Social Workers California Chapter writes
+406,conjoined,True,canonical,National Association of Uniformed Services. Veterans Advisory Council Veterans of Foreign Wars of the United States
+407,dirty,True,child,"National Baptist Convention USA, Inc, Dr. Willie Gable, Jr., Pastor"
+408,clean_org,True,child,"National Coalition of 100 Black Women, Inc. Sacramento Chapter"
+409,dirty,True,child,National Consumer Law Center (on behalf of its low-income clients)
+410,clean_org,True,child,"Nations Private Duty Association, Northern and Southern Calif. Chapters"
+411,dirty,True,child,Natural Resources Defense Council - seek additional amendments
+412,dirty,True,canonical,"Neighborhood Partnership Housing Services, Montclair, Chino, Ontario, Upland and Pomona"
+413,conjoined,True,canonical,"Norte, Eastern Sierra, El Dorado, Fresno, Madera, Kern, Kings, Lassen, Los Angeles, Marin, Mendocino, Lake, Merced, Monterey, Orange, Sacramento, San Benito, San Bernardino, San Francisco, San Joaquin, San"
+414,dirty,False,child,"State Building and Construction Trades Council, sponsor of the bill"
+415,dirty,False,child,"State Building and Construction Trades Council of California, co-sponsor of the bill"
+416,dirty,True,child,"State Building and Construction Trades Council of California, with an ""oppose,"" position"
+417,dirty,False,child,"State Building and Construction Trades, a sponsor of the bill"
+418,narrative,False,child,"State Building and Construction Trades Council, AFL-CIO, a co-sponsor of the bill"
+419,individual,True,child,"Hon. Darrell W. Stevens, Presiding Judge, North Butte County"
+420,individual,True,child,"Northern California Community Loan Fund, Guy Baldwin, Policy, Research, and Information Manager"
+421,individual,True,child,"Rev. Diane Weible, Northern California Nevada Conference, United Church of Christ"
+422,individual,True,child,"Rev. Diane Weible, Northern CA Nevada Conference, United Church of Christ"
+423,conjoined,True,canonical,"Northridge, Tracy, Tri-Valley, TWW - Los Gatos, Ventura, West Side LA, Yalla, and Yolo"
+424,conjoined,True,child,"Northridge, Tracy, Tri-Valley, WW - Los Gatos, Ventura, West Side LA, Yalla, and Yolo"
+425,conjoined,True,canonical,"Obispo, San Mateo, Santa Barbara, Santa Clara, Sonoma, and Yolo County"
+426,conjoined,True,canonical,"Obispo, Santa Cruz, Santa Rosa, South Bay, and Ventura County"
+427,narrative,False,child,Riverside County Superintendent of Schools: GOVERNOR'S VETO MESSAGE
+428,conjoined,True,canonical,"Option B Cities: Atascadero, Buena Park, Claremont, Milpitas, Montebello"
+429,conjoined,True,canonical,"Orange, San Diego, San Francisco, Fresno, Calaveras and San Bernardino Counties"
+430,conjoined,True,child,"Organization of Chinese Americans: East Bay Chapter, National, Sacramento Chapter, San Mateo County, Silicon Valley"
+431,dirty,True,child,"Organization of Professional Aviculturists, Inc.: Prior version"
+432,narrative,False,child,Moffatt and Nichol on behalf of the Pacific Merchant Shipping Association
+433,conjoined,True,canonical,"Pacific, California Hispanic, Cupertino, East Los Angeles, Hawthorne, Hermosa Beach, Long Beach Area, Palos Verdes Peninsula, Sacramento"
+434,individual,True,child,"Pacifica Friends of the Library, Mrs. Caroline Barba, Co-president"
+435,individual,True,child,"Mrs. Joan Putz, co-president Pacifica Friends of the Library"
+436,individual,True,child,"Hon. Leon Panetta, Chair, Panetta Institute/Former U.S. Secretary of Defense"
+437,conjoined,True,child,"Participating Freestanding Cardiac Labs (San Jose, Sacramento, Rancho Mirage, Los Angeles (2), San Ramon and Brea)"
+438,conjoined,True,canonical,"Pasadena, Auburn CA, Beach Cities, California Green Team, Claremont/Inland"
+439,narrative,False,child,"Peace Officers Research Association of California (PORAC), in opposition"
+440,narrative,False,child,Peace Officers Research Association of California (PORAC): GOVERNOR'S VETO MESSAGE
+441,narrative,False,child,"Peace Officers Research Association of California, in support"
+442,narrative,False,child,Peace Officers' Research Association of California (PORAC) writes
+443,individual,True,child,"Diane Cooper-Puckett, Exec. Director, The Peg Taylor Center for Adult Day"
+444,narrative,False,child,"Performance Marketing Alliance, Inc. on behalf of over 300 California Professionals"
+445,conjoined,True,child,"Pet Assistance Foundation - San Diego, Orange County, Los Angeles County, Antelope Valley, Inland Empire, San Gabriel Valley, Santa Clarita Valley, San Fernando Valley, San Pedro"
+446,narrative,False,child,Pete Conaty and Associates on behalf of the California Off-Road
+447,individual,True,child,"Professor and Chair, School of Nursing, Department of Physiological Nursing, UC San Francisco, Erika S. Froelicher, R.N"
+448,invalid,True,canonical,"Plan to End Poverty in California. Resolution Chapter 117, Statutes of 2003"
+449,conjoined,True,child,"Contractors, Alameda/Contra Costa County, Los Angeles, Northern California, Sacramento"
+450,conjoined,True,child,"Plumbing/Hearing/Cooling Contractors, Alameda/Contra Costa County, Los Angeles, Northern California, Sacramento"
+451,conjoined,True,canonical,"Plus, Petaluma, Redlands, ReSisters Walnut Creek, Ross Valley, Sacramento, San Diego Central, San Jose, San Pedro, Santa Barbara, Santa Cruz County, Sausalito, Sebastopol, SF, SF Peninsula and CA 14, SFV, Sonoma County, South Bay LA, Stanislaus, Stockton, Tracy, Tri Valley, TWW/Los Gatos, Ventura, Westside LA, Yalla, and Yolo"
+452,individual,True,child,"Capt. Richard J. Doscher, Div. Commander, Yuba City Police Dept"
+453,conjoined,True,canonical,"Police from: Foster City, Palm Springs, Stockton, Farmersville, Waterford, Modesto, Ripon, Anaheim, Fresno, South Lake Tahoe, Fort Bragg, Sanger, Scotts"
+454,clean_org,True,child,Help Oppose Pornography's Exploitation (HOPE) of Sonoma County
+455,conjoined,True,canonical,"Porter Ranch, CA 43, CA 45, CA Green Team, Claremont/Inland Valley, Colusa County, East Bay, East Valley, Eden, Elmwood, El Dorado Hills, Euclid, Fremont, Hillcrest, Los Angeles, Manteca, Marin, Media City"
+456,individual,True,canonical,"Prasad Krishnamurthy, J.D., Ph.D., University of California, Berkeley, School of Law"
+457,individual,True,canonical,"Priscilla Abercrombie, RN, NP, PhD, UCSF Obstetrics, Gynecology"
+458,individual,True,child,"Priscilla Abercrombie, RN, NP, PhD, UCSF Obstetrics, Gynecology and Reproductive Services"
+459,conjoined,True,child,"Probation Department, Counties of: Alpine, Glenn, Imperial, Lassen, Mendocino, San Benito, San Luis Obispo, Santa Clara, Sonoma"
+460,conjoined,True,child,"Probation Department, Counties of: Alpine, Glenn, Imperial, Lassen, Mendocino, San Benito, Sonoma"
+461,clean_org,True,child,"The Professional Association for Childhood Education (""PACE"")"
+462,conjoined,True,canonical,Public Advocates. Affordable Housing Advocates of Santa Cruz County
+463,conjoined,True,child,California Public Interest Research Group California Youth vs. Big Oil
+464,individual,True,canonical,"Ralph R. Ramirez, Major, AG, Deputy Commander, So. Area OPS unit"
+465,individual,True,child,"Ralph R. Ramirez, Major, AG, Deputy Commander, So. Area OPS unit, State of CA Center for Military History, Armed Forces Reserve"
+466,individual,True,canonical,"Rebecca Toporek, Acting Assoc. Dean, Counseling, De Anza College"
+467,individual,True,canonical,"Richard J. Jackson, M.d., MPH (Professor and Chair, Environmental Health Sciences, School)"
+468,individual,True,child,"Richard J. Jackson, M.d., MPH (Professor and Chair, Environmental Health Sciences, School of Public Health, UCLA)"
+469,conjoined,True,canonical,"Ridge, Paramount, Rancho Cordova Area, Redondo Beach, San Clemente, San Diego Regional, Santa Clarita Valley, South Bay Association, South"
+470,conjoined,True,canonical,"River, Merced, North County, Orange County, Palm Springs, Paso"
+471,conjoined,True,canonical,"Robles, Pomerado, Red Bluff, Rockville, Shiloh, Silveyville, Sutter, Tahoe City, Vacaville-Elmira"
+472,narrative,False,child,"Rural County Representatives of California, in support of the bill"
+473,clean_org,True,canonical,"S.E.S.A.M.E., Inc. Stop Educator Sexual Abuse, Misconduct & Exploitation"
+474,dirty,True,child,Sacramento City Unified School District: OVERNOR'S VETO MESSAGE
+475,dirty,False,child,Sacramento City Unified School District: GOVERNOR'S VETO MESSAGE
+476,dirty,True,canonical,Sacramento The Donald P. & Katherine B. Loker Univ. Student Union
+477,conjoined,True,canonical,"Sacramento, San Clemente, San Diego, Santa Monica, Seal Beach, Torrance"
+478,conjoined,True,child,"SAFE Campuses Coalition, which includes Generation UP, INC, Ignite Nation, and the Youth Power Project"
+479,dirty,True,child,San Diego Drycleaners Association (on behalf of 2 businesses)
+480,conjoined,True,canonical,"San Fernando Valley, Humboldt, Sacramento, San Diego, SoCal Climate"
+481,individual,True,canonical,"San Francisco County Supervisors Alioto-Pier, Dufty, Elsbernd, Mar, and Maxwell"
+482,individual,True,child,"San Francisco County Supervisors Alioto-Pier, Dufty, Elsbernd, Mar, Maxwell"
+483,conjoined,True,canonical,"San Jacinto, Nevada County, Orange County, Pomona Valley, Riverside, Sacramento, San Bernardino Area, North Coastal San Diego County, San"
+484,conjoined,True,child,"Jacinto, Nevada County, Orange County, Pomona Valley, Riverside, Sacramento, San Bernardino Area, North Coastal"
+485,individual,True,child,"Joseph McNamara, D.P.A., Police Chief, San Jose, (Ret.), Research Fellow at the Hoover Institution on War, Revolution and Peace"
+486,conjoined,True,canonical,"San Luis Obispo County, Walnut Creek, Wilmington, Yorba Linda, and Yuba-Sutter"
+487,conjoined,True,canonical,Santa Clara County Fire Protection Dist. Public Safety Regionalization Board Criminal Justice Training Center
+488,clean_org,True,child,"Santa Clara County Special Education Local Plan Areas I, Ii, Iii, Iv, & Vii"
+489,clean_org,True,child,"Santa Clara County Special Education Local Plan Areas I, II, III, IV, V"
+490,dirty,True,canonical,Sault Ste. Marie Tribe of Chippewa Indians Attorney Elizabeth A. Eggert
+491,dirty,True,canonical,Sault Ste. Marine Tribe of Chippewa Indians Child Welfare Attorney
+492,dirty,True,child,School Districts of Marin County - letter was for prior version
+493,clean_org,True,canonical,"Secretariat of Agriculture, Livestock, Rural Development, Fisheries, and Food of the United States of Mexico"
+494,dirty,True,child,"Secretariat of Agriculture, Livestock, Rural Development, Fisheries, and Food of the Untied States of Mexico"
+495,invalid,True,canonical,"Segundo, Glendale, Glendora, Hawthorne, Long Beach, Maywood, Montebello, Palos Verdes Estates, San"
+496,dirty,False,child,"California State Council of Service Employees International Union (SEIU), sponsor to the bill"
+497,dirty,True,child,Service Employees International Union (on behalf of the SEIU Nurse Alliances)
+498,dirty,True,child,Service Employees International Union (on behalf of the SEIU Nurse Alliance)
+499,clean_org,True,child,"California State Employees, SEIU, Local 1,000, Civil Service Division"
+500,clean_org,True,child,"California State Employees, SEIU, Local 1,000, Civil Service"
+501,dirty,True,child,Service Employees International Union (on behalf of Local 347)
+502,conjoined,True,child,"Service Employees International Union Locals 250, 399, 817, 1280, 2028"
+503,narrative,False,child,Service Employees International Union (SEIU) represents the Bar's employees and it
+504,dirty,True,child,"Service Employees International Union, Sacramento, Los Angeles, Oakland, CA"
+505,dirty,True,child,"Service Employees International Union, Local 660 THIS ANALYSIS REFLECTS AMENDMENTS TO BE OFFERED IN"
+506,clean_org,True,child,"Sheet Metal, Air, Rail, and Transportation Workers, Local 104"
+507,clean_org,True,child,"Sheet Metal, Air, Rail, and Transportation Workers, Local 105"
+508,individual,True,child,"Hon. Don McDonald, Sheriff-Coroner-Public Administrator, El Dorado"
+509,narrative,False,child,El Dorado County Sheriff Jeff Leikauf also opposes the bill and
+510,dirty,False,child,"Soboba Band of Luiseño Indians (Soboba), sponsor of the bill"
+511,dirty,True,child,"California Society for Human Resource Management, a supporter of the bill"
+512,dirty,True,child,"South Bay Cities Council of Governments (Carson, El Segundo, Gardena, Hawthorne, Hermosa Beach, Inglewood, Lawndale, Lomita, Manhattan Beach, Palos Verdes Estates, Rancho Palos Verdes, Redondo Beach, Rolling Hills, Rolling Hills Estates, Torrance, and the Harbor City/San Pedro communities of the City of Los Angeles.)"
+513,invalid,True,canonical,"South Coast, Shingle Springs/Cameron Park, Simi Valley, Torrance Area, and Yuba Sutter"
+514,dirty,True,child,"Southern California Contractors Association (SCCA), in opposition"
+515,clean_org,True,canonical,"Southern Calif. Painters & Allied Trades, District Council . 36"
+516,clean_org,True,child,Regional Council of the So. Calif. Association of Governments
+517,dirty,False,child,"Southern California Black Worker Hub for Regional Organizing, sponsor of the bill"
+518,dirty,True,child,"Southern California Public Power Authority (comprising the cities of Anaheim, Azusa, Banning, Burbank, Colton, Glendale, Pasadena, Riverside, Vernon, the Imperial Irrigation District, and the Los Angeles Department of Water and Power)"
+519,dirty,True,child,"Special Opportunities for Access & Reform Coalition (SELPAs of Merced, Napa, Solano, Sutter, and Yolo Counties)"
+520,clean_org,True,child,"Sporting Arms and Ammunition Manufacturers' Institute (""SAAMI"")"
+521,individual,True,child,"Rev. John Anderson, St. John's Presbyterian Church-San Francisco"
+522,conjoined,True,child,"St. Joseph Health - Eureka, Redwood Memorial Hospital, Santa Rosa Memorial, St. Jude, Petaluma Valley, Orange, and Queen of the Valley"
+523,clean_org,True,child,"Stanislaus County Police Chiefs', Sheriffs' and Dist. Attorneys"
+524,dirty,True,child,State Association of County Retirement Systems (on behalf of the 1937 Act County Ret. Systems)
+525,dirty,True,child,State Association of County Retirement Systems (SACRS) Oppose unless
+526,dirty,False,child,Los Angeles County Office of Education: GOVERNOR'S VETO MESSAGE
+527,dirty,True,child,"County of Los Angeles - Studio City, Glendale, West Van Nuys, Van Nuys, and Sherman Oaks"
+528,dirty,True,child,"County of Los Angeles - Studio City, lendale, West Van Nuys, Van Nuys, and Sherman Oaks"
+529,dirty,True,child,Marin County Hazardous and Solid Waste Mgmt. Joint Powers Authority Napa
+530,narrative,False,child,How is the Pilot Progressing? According to the Solano County Board of Supervisors
+531,dirty,True,child,"Yuba County Board of Supervisors, on behalf of Pat McGrath, Yuba County"
+532,conjoined,True,child,"City of Dinuba, Mayor Terry McKittrick, Danny Delgado, Chair, Dinuba"
+533,individual,True,child,"City of San Jose, Mayor, Matt Mahan, City of San Jose, Vice Mayor, Rosemary Kamei"
+534,narrative,False,canonical,"Stronach Group, on behalf Golden Gate Fields and Santa Anita Park"
+535,narrative,False,child,"Sunita Jain Anti-Trafficking Initiative, sponsor of the bill"
+536,narrative,False,canonical,Sustainable Conservation on Behalf of the Brake Pad Partnership
+537,narrative,False,child,Taxpayers & Involved Water District Committee Assoc. Alameda Belmont Berkeley Calabasas Escalon Lakewood Modesto Norco Ojai Sunnyvale Tracy Walnut Alameda Mono Sacramento Ventura PROCEDURES
+538,dirty,True,child,Taxpayers for Improving Public Safety NOTE: THIS ANALYSIS REFLECTS AUTHOR'S AMENDMENTS
+539,narrative,False,child,"Technology, Trade and Commerce Agency on behalf of the Governor"
+540,individual,True,canonical,"Terra Lawson-Remer, JD, PhD, Candidate, San Diego County Board of Supervisors, District 3"
+541,narrative,False,child,"California Restaurant Association, in support of a previous version of the bill"
+542,narrative,False,child,"California Restaurant Association, in support of a prior version of the bill"
+543,narrative,False,child,"California Restaurant Association, which represents the restaurant and foodservice industry"
+544,clean_org,True,child,"The Children's Clinic, ""serving Children and Their Families""/TCC Family Health"
+545,conjoined,True,canonical,"The Dwyer Group (AirServ, Glass Doctor, The Grounds Guys, Mr. Appliance, Mr. Electric, Mr)"
+546,conjoined,True,canonical,"The Dwyer Group (AirServ, Glass Doctor, The Grounds Guys, Mr. Appliance, Mr. Electric, Mr. Rooter, Portland Glass, Rainbow International)"
+547,clean_org,True,canonical,"The Institute for Human and Social Development, Inc. Dba Izzi Early Education"
+548,clean_org,True,canonical,"The Real F.A.C.T.S. (Forum on Abused Children & ""The System"")"
+549,clean_org,True,child,"Transport Workers Union of America, Cal. State Conference: AFL-CIO"
+550,clean_org,True,child,"Tri City Transportation Systems, Inc. DBA Yellow Cab and DBA Checker Cab"
+551,conjoined,True,child,"Tri-valley Cities of Dublin, Livermore, Pleasanton, San Ramon, and Town of Danville"
+552,clean_org,True,child,"University of California Los Angeles, Neurology Dept. Stroke Center"
+553,clean_org,True,child,"University of California Los Angeles, Neurology Dept. Stroke Center: Movement Disorders Clinic"
+554,clean_org,True,child,"Steam, Refrigerator, Air Conditioning, Pipe Fitters, Welders and Apprentices of the United Association Local Union 250"
+555,clean_org,True,child,"International Union, United Automobile, Aerospace and Agricultural Implement Workers of America, UAW, Region 5"
+556,conjoined,True,child,"United Food & Commercial Workers Union, Locals 101, 120,135, 324, 373, 373R, 532 Retirees Club, 839, 1442, 1179, 1179"
+557,clean_org,True,child,"United Food and Commercial Workers International Union, Distillery, Wine & Allied Workers: Division, Local 45D, Fresno"
+558,conjoined,True,child,"United Food & Commercial Workers Union, Locals 101, 120, 373R, 428, 648, 839, 870"
+559,dirty,True,child,Budget Request. The United Nurses Associations of California/Union of Health Care Professionals
+560,conjoined,True,child,Pajaro Valley Chamber of Com. Monterey Bay Clean Air Coalition
+561,conjoined,True,child,"Santa Fe Springs Chamber of Commerce & Industrial League, Inc. Intel Corporation"
+562,conjoined,True,child,"United Translators and Interpreters of New Jersey, CWA: Locals 1034, 9400, 9415, 9423"
+563,conjoined,True,child,"United Union of Roofers, Waterproofers, and Allied Workers Local 36, 81, 220"
+564,clean_org,True,child,"University of California at Davis, Calif. Medical Training Center"
+565,conjoined,True,canonical,"Valley Porter Ranch, CA-29, CA-33, CA-34 Women's Feminists in Action, CA-37, CA-43, CA: Green Team, CA: StateStrong, Claremont / Inland"
+566,dirty,True,child,"Valley Truck and Tractor Co. (Yuba City, Robbins, Woodland, Dixon, and Elk Grove)"
+567,conjoined,True,canonical,"Valley, Cloverdale, Colusa County, East Bay, East Valley, El Dorado Hills, Elmwood, Euclid, Fremont, Hillcrest, Indian Valley, Lakewood, Livermore, Los Angeles, Manteca, Marin, Media City Burbank, Mendocino, Mid"
+568,conjoined,True,canonical,"Valley, Cloverdale, Colusa County, East Bay, East Valley, El Dorado Hills, Elmwood, Euclid, Hillcrest, Indian Valley, Livermore, Los Angeles, Manteca, Marin, Media City Burbank, Mendocino, Normal Heights, OC 46, OC 48, Orchard City, Petaluma, ReSisters Walnut Creek, Ross Valley, Sacramento, San"
+569,conjoined,True,canonical,"Valley, Cloverdale, Colusa County, East Bay, East Valley, El Dorado Hills, Euclid, Hillcrest, Livermore, Los Angeles, Manteca, Marin, Media City"
+570,conjoined,True,canonical,"Valley, Contra Costa, Long Beach, Los Angeles, Marin, Napa, Nevada, Oakland, Orange County, Pomona, San Joaquin, Sacramento"
+571,conjoined,True,canonical,"Valley, Costa Mesa, Crenshaw, Downey, Hanford, Hollywood, Inglewood/Airport Area"
+572,conjoined,True,canonical,"Valley, El Dorado Hills, Elmwood, Euclid, Hillcrest, Indian Valley, Livermore, Los Angeles, Manteca, Marin, Media City Burbank, Mendocino, Normal Heights, OC 46, OC 48, Orchard City, Petaluma, ReSisters Walnut Creek, Ross Valley, Sacramento, San Diego Central, San Jose, San"
+573,conjoined,True,canonical,"Valley, Fremont/East Bay, Fresno, Grass Valley/Nevada City, Greater"
+574,conjoined,True,canonical,"Valley, Kern County Hispanic, Long Beach Area, Los Angeles Area, Port"
+575,conjoined,True,canonical,"Valley, Long Beach Area, Los Angeles Latino, Moorpark, Murrieta/Wildomar, Port Hueneme, Santa Monica, Santa Paula, Ventura, and Vietnamese"
+576,conjoined,True,canonical,"Valley, Mt. Shasta, Murrieta, Napa, Newport Beach, Norco, Norwalk, Novato, Oakdale, Oakland, Oceanside, Ojai, Ontario, Oroville, Palmdale, Palo Alto, Pasadena, Patterson, Pinole, Placentia, Pleasanton, Pomona, Poway, Rancho Cordova, Rancho Cucamonga, Red Bluff, Reedley, Rialto, Ridgecrest, Rio Vista, Riverbank, Rohnert Park, Rolling Hills Estates, Rosemead, Sacramento, Salinas, San Diego, San Francisco, Sanger, San"
+577,conjoined,True,canonical,"Valley, National City, Rancho Cucamonga, Rocklin, Santa Cruz, Stockton"
+578,conjoined,True,canonical,"Valley, San Diego, San Fernando Valley, San Francisco, San Mateo, Santa Barbara, and Santa Clara"
+579,conjoined,True,canonical,"Valley, San Diego, San Fernando Valley, San Francisco, San Mateo, Santa Barbara, Santa Clara, Santa Cruz, South Bay LA, and Tri"
+580,conjoined,True,canonical,"Valley-Porter Ranch, California Green Team, Claremont/Inland Valley, Cloverdale, Colusa County, East Bay, East Valley, El Dorado Hills, Elmwood, Euclid, Hillcrest, Indian Valley, Livermore, Lorin, Los Angeles, Manteca, Marin, Media City Burbank, Mendocino, Normal Heights, North Oakland"
+581,conjoined,True,canonical,"Verdes Estates, Placentia, Poway, Rancho Cucamonga, Redwood City, Riverside, Rolling Hills, Rolling Hills"
+582,conjoined,True,child,"SB Verdes Estates, Placentia, Poway, Rancho Cucamonga, Redwood City, Riverside, Rolling Hills, Rolling Hills"
+583,individual,True,child,"William T. Bare, Colonel, USAF (ret.), Director, Monterey Veterans Transition Center"
+584,dirty,False,child,"Vietnam Veterans of California, Inc.: GOVERNOR'S VETO MESSAGE"
+585,conjoined,True,canonical,"Waterford, Los Gatos/Monte Serano, Burbank, Rialto, Auburn, Barstow, Emeryville, Escondido, Lodi, Brentwood, Delano, Livermore, Glenora, Glendale, Lodi, Fremont, Millbrae, Antioch, Santa"
+586,conjoined,True,canonical,"Waterford, Los Gatos/Monte Serano, Burbank, Rialto, Auburn, Barstow, Emeryville, Escondido, Lodi, Brentwood, Delano, Livermore, Glenora, Glendale, Lodi, Fremont, Millbrae, Antioch, Santa Barbara, Vallejo, Piedmont, San Leandro, and Blue Lake Police Departments"
+587,clean_org,True,canonical,"Weiss, Scolney, Spees, Danker & Shinderman, Attorneys at Law"
+588,narrative,False,child,"Western Center on Law & Poverty, commenting on the previous version of the bill"
+589,dirty,False,child,"Western Center on Law and Poverty, Inc.: GOVERNOR'S VETO MESSAGE"
+590,narrative,False,child,"Western Center on Law and Poverty, opposed to a prior version of"
+591,dirty,False,child,Western Manufactured Housing Communities Association: GOVERNOR'S VETO MESSAGE
+592,narrative,False,child,"Western State Petroleum Association, in opposition to the bill"
+593,narrative,False,child,Western States Petroleum Association Oppose on bill as introduced
+594,dirty,True,child,"Women In Military Service for America, Memorial Foundation, Inc., Washington, D.C"
+595,dirty,True,child,Youth Law Center (NOTE: THIS BILL IS IDENTICAL TO SBX1 13 (McCorquodale).)
