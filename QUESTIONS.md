@@ -9,6 +9,39 @@ To edit this file (post questions, write answers), join this queue first. Only t
 
 ## Open Questions
 
+### Q58 (Task 5095, RA-Fleet-2) — 10 more LEGINFO-MECH-ALT placements conflict with where the spelling already lives; task added 0 new names
+
+**Status:** Open
+
+Third instance of the same class as **Q56** and **Q57** (both mine, both still open) — please answer all three together if the ruling is the same.
+
+Task 5095 was mechanical (add 50 leginfo spellings under stated canonicals, "do not re-research"). Result: **40 already existed** under their stated canonical (no-ops per the task's own skip rule), and **10 already exist under a *different* canonical than the task states**, so adding them as instructed would create a cross-tree duplicate. **This task therefore produced zero new org names — nothing was written.** No org name is lost: all 50 are already in the crosswalk. I skipped the 10 rather than duplicate them. Please confirm or correct.
+
+**Notable:** unlike Q56/Q57, **every stated canonical in these 10 exists** — so this isn't the "invented truncated target" failure mode. It's the central pass picking a *worse* target than where the spelling already correctly sits. In the four nested cases the existing placement is plainly more correct:
+
+| # | Spelling | Task said | Actually lives at (skipped in favour of this) |
+|---|----------|-----------|-----------------------------------------------|
+| 1 | `Treasurer, City of Los Angeles` | alt of `Los Angeles City Treasurer` | `STATE OF CALIFORNIA > City of Los Angeles > …` |
+| 2 | `Ventura County Clerk-Recorder` | alt of `Richard Dean, Ventura County Clerk and Recorder` | `STATE OF CALIFORNIA > Ventura County > Ventura County Clerk and Recorder > …` |
+| 3 | `The Women's PageB Resource Center of California State University, Sacramento` | alt of `CSUS Women's Resource Center` | `California State University > California State University, Sacramento > The Women's Resource Center of CSU, Sacramento > …` |
+| 4 | `Union of American Physicians and Page b Dentists` | alt of `Union of American Phys. & Dentists` | `AFSCME > Union of American Physicians and Dentists, AFSCME > …` |
+
+Note #1/#2 are the **inverse** of Q55: there the pass used `STATE OF CALIFORNIA` as a junk fallback, whereas here the spelling *already* sits correctly under the city/county body and the pass wanted to pull it out to a flat canonical. Both point at the same root cause — the pass's target is unreliable when the spelling is already placed.
+
+**Remaining 6 (already an alt under a different canonical):**
+5. `The Los Angeles SPCA/So. California (with concern)` — task said alt of `Los Angeles SPCA, Southern California Humane Society`; already an alt of `SPCA Los Angeles`. (These two canonicals look like the same org — likely a canonical-dedup task.)
+6. `The Office of the Attorney General (See Comment 4.)` — task said alt of `The Office of the Attorney General (See Comment)`; already an alt of `State of California Attorney General`, which is the real body. The stated target is itself a junk `(See Comment)` artifact canonical.
+7. `UNITE-HERE, AFL-CIO (American Federation of Labor & Congress of Industrial Organizations), a union representing hotel workers` — task said alt of `United Here International Union, AFL-CIO`; already an alt of `UNITE HERE!`.
+8. `UNITE-HERE, AFL-CIO, a union representing hotel workers` — same as #7.
+9. `Unitarian Universalist Refugee and Immigrant Services and Education` — task said alt of `UURISE - Unitarian Universalist Refugee & Immigrant Services & Education`; already an alt of `Unitarian Universalist Refugee, Immigrant Services and Education`. (Those two canonicals are the same org — canonical-dedup candidate.)
+10. `Up and Away Ballooning` — task said alt of `Up & away Ballooning`; the spelling **is itself a canonical**. Making a whole canonical an alt of another would need a real merge decision (which of the two spellings is canonical?), not a mechanical alt-add.
+
+**My recommendation:** keep all 10 where they are (skip), and instead spin off the genuine canonical-dedup pairs surfaced here as their own tasks: `SPCA Los Angeles` / `Los Angeles SPCA, Southern California Humane Society`; `UNITE HERE!` / `United Here International Union, AFL-CIO`; `UURISE - …` / `Unitarian Universalist Refugee, Immigrant Services and Education`; `Up and Away Ballooning` / `Up & away Ballooning`; plus routing the junk canonical `The Office of the Attorney General (See Comment)`.
+
+**Process note for the LEGINFO-MECH-ALT batches generally:** across tasks 5065, 5093 and 5095 (150 entries) only **9 were genuinely missing** — 117 were no-ops and 24 were conflicts. The "mechanical, do not re-research" batches are mostly re-asserting placements that already exist, and their stated target is wrong often enough (~16%) that applying them literally would damage the forest. It may be worth re-running the central placement pass with a "skip if the spelling already exists anywhere in the forest" filter before generating more of these tasks.
+
+I have marked task 5095 **Done** (nothing to write; the 10 skips are documented here), matching how 5093 was handled.
+
 ### Q57 (Task 5093, RA-Fleet-2) — 9 more LEGINFO-MECH-ALT placements conflict with where the spelling already lives
 
 **Status:** Open
