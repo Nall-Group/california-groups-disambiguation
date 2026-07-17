@@ -4,8 +4,7 @@
 
 To edit this file (mark tasks, update queues, add tasks), join this queue first. Only the name at the top may edit.
 
-1. RA-Fleet-2
-2. RA-Fleet-1
+1. RA-Fleet-1
 
 ## Data Write Queue
 
@@ -13,6 +12,7 @@ Only the RA at the top of this list has write access to project data files (cros
 
 1. RA-Fleet-1
 2. RA-Fleet-3
+3. RA-Fleet-2
 
 
 ## Historical Data-Cleaning Log (migrated from README)
