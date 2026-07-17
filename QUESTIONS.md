@@ -9,6 +9,23 @@ To edit this file (post questions, write answers), join this queue first. Only t
 
 ## Open Questions
 
+### Q53 (Task 5060, RA-Fleet-2) — `FPBR` in narrative_text_mapping_to_orgs.csv is an Act, not an org — how to route?
+
+**Status:** Open
+
+Task 5060 asked me to add 20 narrative-extracted `mapped_org` values to the crosswalk. 19 are fine (8 added, the rest already present). One is not an organization:
+
+- `narrative_text`: "year. The lower estimate for FPBR takes into account two key factors: (1)"
+- `mapped_org`: `FPBR`
+
+I grepped the leginfo source. FPBR is unambiguously **"Firefighters Procedural Bill of Rights"**, a piece of legislation (AB 1411: *"This bill enacts the Firefighters Procedural Bill of Rights (FPBR)..."*), not an organization. The prose is a fiscal-estimate sentence about the bill's cost. So this is a bad extraction in the narrative map.
+
+I did **not** add it as a canonical (adding an Act as an org would corrupt the crosswalk), and task 5060 says explicitly "Do NOT route to a CSV" — so I left it alone and am flagging it here.
+
+**Question:** How should this row be handled? Per CLAUDE.md, a narrative row whose prose names no org at all is not a narrative mapping and should be routed to `org_names_invalid.csv` — but that file's schema is `org_name,count` and this row has no count, and the row is currently in `narrative_text_mapping_to_orgs.csv` (`narrative_text,mapped_org`). My suggestion is to **delete the row from `narrative_text_mapping_to_orgs.csv`** (its `mapped_org` is invalid, and CLAUDE.md says `mapped_org` is never blank), since the prose contributes no org and there is no count to preserve. Please confirm, or tell me the preferred destination.
+
+**Possible follow-up:** if the step-2 extractor produced this, other Act-acronyms (POBOR/POBAR, FPBRA, CEQA...) may also have been mis-extracted as orgs. Might be worth a sweep of `narrative_text_mapping_to_orgs.csv` for legislation acronyms.
+
 ### Q52 (Task 4703, RA-Fleet-2) — DATA DEFECT: 10 child nodes use a `canonical` key instead of `name`, which crashes pipeline step 2 for everyone
 **Status:** Open
 
