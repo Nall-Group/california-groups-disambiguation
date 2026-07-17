@@ -9,6 +9,33 @@ To edit this file (post questions, write answers), join this queue first. Only t
 
 ## Open Questions
 
+### Q52 (Task 4703, RA-Fleet-2) — DATA DEFECT: 10 child nodes use a `canonical` key instead of `name`, which crashes pipeline step 2 for everyone
+**Status:** Open
+
+Surfaced incidentally while doing task 4703 (I needed the matcher to check the batch against the crosswalk — my own task needed no data changes). **I have not touched any data file**; this is a report, not a fix.
+
+**What's wrong.** The child-node schema is `{"name": ..., "relationship": ..., "children": [...]}`, but **10 child nodes carry `"canonical"` where `"name"` should be** (`"relationship"` and `"children"` are correct on all 10). Every one is an `Ass…`-prefixed string, so this looks like a single batch written with the wrong key rather than 10 independent slips.
+
+**Why it matters (verified, not guessed).** `org_matching_utils.py:258` does `child['name']` and hard-`KeyError`s on the crosswalk as it stands — that's how I found this. `scripts/regenerate_org_subsets.py:84` does the identical `child["name"]` access, so **step 2 of the mandatory clean/dedup/stats pipeline currently crashes on the live file.** The defect is present at HEAD (not a concurrent-write artifact, not mine). I did not run `regenerate_org_subsets.py` to confirm the crash end-to-end because I don't hold the Data Write Queue and it rewrites the CSVs — the static evidence is the same access pattern that already threw.
+
+**The 10 nodes** (parent path → malformed node's `canonical` value):
+- `Association for Children for Enforcement of Support, Inc` → `Assn. for Children for Enforcement of Support`
+- `Consulting Engineers and Land Surveyors of California (CELSOC)` → `Assn. Surveyors of California`
+- `County Assessor, Orange County` → `Assessor, County of Orange, Claude Parrish`
+- `District Attorneys > Santa Cruz County District Attorney's Office` → `Assistant District Attorney, County of Santa Cruz`
+- `STATE OF CALIFORNIA > County of Los Angeles > Los Angeles County Assessor` → `Assessor, County of Los Angeles, Jeffrey Prang`
+- `STATE OF CALIFORNIA > County of Los Angeles > Los Angeles County Assessor` → `Assessors Office, County of Los Angeles`
+- `STATE OF CALIFORNIA > Riverside County > County of Riverside Assessor-County Clerk-Recorder` → `Assessor-County Clerk-Recorder, County of Riverside`
+- `STATE OF CALIFORNIA > San Diego County > County of San Diego Assessor/Recorder/County Clerk` → `Assessor/Recorder/County Clerk, County of San Diego, Ernest J. Dronenburg, Jr`
+- `STATE OF CALIFORNIA > San Luis Obispo County` → `Assessor, County of San Luis Obispo` (this one is `relationship: chapter`; the other 9 are `alternate_spelling`)
+- `STATE OF CALIFORNIA > San Mateo County > San Mateo County Assessor-County Clerk-Recorder` → `Assessor-County Clerk-Recorder & Elections, County of San Mateo`
+
+**Proposed fix (needs your sign-off — I did not apply it):** rename the key `canonical` → `name` on these 10 child nodes only. Placement/relationship/parents all look correct, so this is purely a key rename; no org names are added, moved, or lost. Two things worth your call:
+1. **Should the walkers also be hardened?** A one-line `child.get('name') or child.get('canonical')` in both `org_matching_utils.py:258` and `regenerate_org_subsets.py:84` would make the pipeline resilient to this class instead of crashing. My instinct is to fix the data *and* harden the walkers, since a hard `KeyError` on a 1M-line file is an expensive way to learn about one bad key — but that's a code change, so I'm asking first.
+2. **Is anything upstream still emitting `canonical` for children?** Worth a look at whichever apply-script wrote the `Ass…` batch, or this will just come back.
+
+Want me to file this as a task (data fix, or data fix + walker hardening)?
+
 ### Q51 (Task 4601, RA-Fleet-3) — CLEANING PATTERN PROPOSAL: leading `Oppose ` stance prefix — 7 crosswalk entries
 **Status:** Open
 
