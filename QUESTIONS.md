@@ -6,8 +6,37 @@ RAs post questions here when blocked. The human supervisor answers them.
 
 To edit this file (post questions, write answers), join this queue first. Only the name at the top may edit.
 
+- RA-Fleet-2
 
 ## Open Questions
+
+### Q55 (Tasks 5067-5071, RA-Fleet-1) — 210 LEGINFO-MECH-ALT placements make named officials alternate spellings of `STATE OF CALIFORNIA`
+
+**Status:** Open
+
+I claimed task 5067 and stopped before writing any data. **All 50** of its entries, and **210 across tasks 5067-5071**, instruct that a named city/county official be added as an `alternate_spelling` of `STATE OF CALIFORNIA` — e.g.:
+
+- `Mayor James T. Butts, City of Inglewood` → alternate_spelling of `STATE OF CALIFORNIA`
+- `Mayor Libby Schaff, City of Oakland` → alternate_spelling of `STATE OF CALIFORNIA`
+- `Sheriff Glen Craig, County of Sacramento` → alternate_spelling of `STATE OF CALIFORNIA`
+- `Police Chief James Hyde, City of Davis` → alternate_spelling of `STATE OF CALIFORNIA`
+
+This asserts the Mayor of Inglewood is another way of spelling "State of California". I believe the central placement pass used `STATE OF CALIFORNIA` as a **fallback default** whenever it couldn't resolve the body, rather than as a real placement. Evidence:
+
+1. **It contradicts [[named_officials_per_case]]** — a leadership title (Mayor / Sheriff / Chief / Pro Tem) should become an alt of **the body**, i.e. `City of Inglewood`, not of the state.
+2. **`STATE OF CALIFORNIA` currently has 0 children starting with "Mayor"** (527 direct children, 7,816 nodes) — its tree is cleanly counties/cities as `chapter`s. These 210 entries would be an entirely new and inconsistent pattern in that tree.
+3. **The correct target almost always already exists**: I parsed the body out of each of the 210 spellings and looked it up in the live crosswalk — **208 of 209 already exist** (e.g. `STATE OF CALIFORNIA > CITY OF INGLEWOOD`, `STATE OF CALIFORNIA > City of Oakland`). Only `City of San` is unresolvable, and that's a truncation of `The Honorable Patrick J. Morris, Mayor, City of San` (= San Bernardino).
+4. **RA-Fleet-2 independently hit the same thing** — Q54 item 2 (`Kavita Tankha, Mayor, City of Los Altos Hills`) was stated as alt of `STATE OF CALIFORNIA` but already correctly lived under `TOWN OF LOS ALTOS HILLS`.
+
+The tasks say "MECHANICAL, no research needed... Do NOT re-research or re-place", so I did not want to silently re-place 210 entries — but following them literally looked like it would corrupt the `STATE OF CALIFORNIA` tree. **Please pick one:**
+
+- **(A) Re-place under the body (my recommendation).** Add each spelling as an `alternate_spelling` of its own city/county node instead of the state. 208/209 targets already exist; `City of San` → route individually. I can supply a script that does this deterministically from the task text (no per-entry research).
+- **(B) Follow the task text as written** — add all 210 as alternate spellings of `STATE OF CALIFORNIA`.
+- **(C) Something else** — e.g. a `chapter`/officials sub-node under each city, or send these to `org_names_that_are_actually_individuals.csv` where the title isn't leadership (several are `Assessor`, `City Manager`, `Controller`, `County Clerk`, which per CLAUDE.md are **not** leadership).
+
+Note **(C) interacts with the rules**: entries like `Rick Auerbach, Assessor, County of Los Angeles`, `Toby Ross, City Manager, City of West Sacramento` and `Wendy Greuel, Controller, City of Los Angeles` are not leadership roles under CLAUDE.md, so under the existing rule they'd go to the individuals CSV rather than becoming alts of anything.
+
+**I have marked 5067-5071 `Blocked` with a cleared assignee** so no other RA writes these 210 entries before this is answered. Tasks **5072-5098 are unaffected** (0 entries target `STATE OF CALIFORNIA`) and remain `Not Started`.
 
 ### Q54 (Tasks 5067-5071, RA-Fleet-3) — LEGINFO-MECH-ALT placement pass defaulted ~210 mayor entries to `STATE OF CALIFORNIA` instead of the city chapter
 
