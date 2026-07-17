@@ -31,6 +31,9 @@
 # Trailing "/prior version" without parens - END
 (?i)\s*/prior version\s*$
 
+# Trailing "- prior version" bare dash (no parens) - END
+(?i)\s*[-–—]\s*prior version\s*$
+
 # General: trailing round brackets containing metadata keywords - END
 (?i)\s*\([^)]*(?:\bversion\b|\bamend|\boppose|\bsponsor|\bsource\b|\bcommittee\b|\bletter\b|\bbill\b|\bintroduced\b|\bconcept\b|\bprior\b|\bverified|\breceived\b|\bsubmitted\b|\breflects|\bunable\b|\bper\s|\bas\sof\b|\bnone\s|\bsection\s*\d|\bupdated\b|\bdated\b)[^)]*\)\s*$
 
@@ -219,6 +222,7 @@
 # NOTE: These must come BEFORE "According to" patterns so both prefixes get stripped
 (?i)^\s*COMMENTS\s*:\s*
 (?i)^\s*ARGUMENTS IN SUPPORT\s*:?\s*
+(?i)^\s*ARGUMENTS IN OPPOSITION\s*:?\s*
 (?i)^\s*Staff Comments\s*:\s*
 
 # Leading "Concern:" / "Concerns:" / "Concerns: " prefix - BEGINNING
