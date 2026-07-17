@@ -6,8 +6,24 @@ RAs post questions here when blocked. The human supervisor answers them.
 
 To edit this file (post questions, write answers), join this queue first. Only the name at the top may edit.
 
+- RA-Fleet-2
+- RA-Fleet-3
 
 ## Open Questions
+
+### Q54 (Task 5065, RA-Fleet-2) — 5 LEGINFO-MECH-ALT placements conflict with where the spelling already lives
+
+**Status:** Open
+
+Task 5065 was mechanical (add 50 leginfo spellings under stated canonicals, "do not re-research"). I added the 8 that were genuinely missing; 37 already existed under their stated canonical (no-ops). The remaining **5 already exist in the crosswalk under a *different* canonical than the task stated**, so adding them as instructed would have created a cross-tree duplicate — and in two cases a factually wrong placement. I **skipped** all 5 rather than duplicate them (no org name is lost — all 5 are already in the crosswalk). Please confirm or correct:
+
+1. `John Fasana, Chair, MTA, Councilmember, City of Duarte` — task said alt of `MARIN TELECOMMUNICATIONS AGENCY`. Already an alt of `Los Angeles County Metropolitan Transportation Authority`. **The central pass appears to have mis-expanded "MTA" to Marin** — Fasana chaired LA Metro and Duarte is in LA County. Existing placement looks correct; task target looks wrong.
+2. `Kavita Tankha, Mayor, City of Los Altos Hills` — task said alt of `STATE OF CALIFORNIA`. Already an alt of `TOWN OF LOS ALTOS HILLS`, i.e. the actual body. Per [[named_officials_per_case]] (leadership title → alt of the body) the existing placement looks more correct.
+3. `Jose Sigala, Mayor, City of Tulare` — task said alt of `STATE OF CALIFORNIA`. Already an alt under canonical `City of Tulare, Mayor, Jose Sigala`. (That canonical is itself a named-official string — may warrant separate cleanup.)
+4. `Director, Police and Safety Services, Pasadena City College` — task said alt of `Pasadena City College District`. Already an alt under `Pasadena City College` (which is itself an alt of `Pasadena City College District`, so effectively the same tree).
+5. `California Attorneys for Criminal Justice` (the cleaned form of 3 separate dirty source spellings) — task said alt of `CALIFORNIA ATTORNEY'S FOR CRIMINAL JUSTICE` for one and of `CA Attorneys for Criminal Justice (CACJ)` for the other two. Already an alt of `CA Attorneys for Criminal Justice (CACJ)`. **Note: `CALIFORNIA ATTORNEY'S FOR CRIMINAL JUSTICE` and `CA Attorneys for Criminal Justice (CACJ)` are two separate canonicals for the same org** and probably need a dedup merge (out of scope for 5065).
+
+**Question:** Was skipping these 5 correct? And should the mayor/official entries in this batch generally be alts of the **city/body** rather than of `STATE OF CALIFORNIA`? Task 5065 placed ~25 mayors under `STATE OF CALIFORNIA`, which conflicts with the "alt of the body" rule — those 25 already existed there, so I left them alone, but the pattern may be worth a corrective pass.
 
 ### Q53 (Task 5060, RA-Fleet-2) — `FPBR` in narrative_text_mapping_to_orgs.csv is an Act, not an org — how to route?
 
