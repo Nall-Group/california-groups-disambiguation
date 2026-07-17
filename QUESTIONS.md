@@ -6,9 +6,34 @@ RAs post questions here when blocked. The human supervisor answers them.
 
 To edit this file (post questions, write answers), join this queue first. Only the name at the top may edit.
 
-- RA-Fleet-3
 
 ## Open Questions
+
+### Q54 (Tasks 5067-5071, RA-Fleet-3) — LEGINFO-MECH-ALT placement pass defaulted ~210 mayor entries to `STATE OF CALIFORNIA` instead of the city chapter
+
+**Status:** Open
+
+Tasks 5067-5071 are marked MECHANICAL ("a central placement pass already resolved each of these to an existing crosswalk canonical... Do NOT re-research or re-place"). But the hinted placements look like a systematic bug in that pass, so I stopped rather than write them.
+
+**The problem:** the overwhelming majority of entries are `Mayor <Name>, City of <X>` and are hinted as `alternate_spelling` of the canonical `STATE OF CALIFORNIA` — the root of the whole state tree — rather than of the city itself. Examples from 5067:
+
+- `Mayor James T. Butts, City of Inglewood` → alternate_spelling of `STATE OF CALIFORNIA`
+- `Mayor Jerry P. Dyer, City of Fresno` → alternate_spelling of `STATE OF CALIFORNIA`
+- `Mayor Libby Schaff, City of Oakland` → alternate_spelling of `STATE OF CALIFORNIA`
+
+**Why I think it's a bug, not just an unintuitive placement:**
+
+1. Every one of those cities already exists as a proper chapter under `STATE OF CALIFORNIA` — I checked all 27 distinct cities named in 5067 and got 27/27 hits (`CITY OF INGLEWOOD`, `CITY OF FRESNO`, `CITY OF OAKLAND`, …). There are 466 city chapters there in total. So the pass had a correct target available and chose the root instead.
+2. `STATE OF CALIFORNIA` currently has 526 children: 525 chapters + exactly **one** alternate_spelling (`THE STATE OF CALIFORNIA`). Executing these 5 tasks would add ~210 mayor strings as flat alt spellings of the state — i.e. asserting that "Mayor Libby Schaff, City of Oakland" is another way of writing "STATE OF CALIFORNIA".
+3. This contradicts the documented rule that a leadership title makes the entry an alt of **the body that person leads** (the city), and General Principle 2 ("place entries at the correct hierarchy level — don't default to making everything a flat alt spelling of the top-level canonical").
+
+**Scope:** 5 tasks, ~210 affected entries — 5067 (50 of 50 hints are STATE OF CALIFORNIA), 5068 (46), 5069 (39), 5070 (44), 5071 (31).
+
+**A second, smaller issue in the same batch:** a few hints point at what look like typo canonicals — e.g. `Mayor, City of Covina` → alternate_spelling of `City of Covin`. No `City of Covina` node exists anywhere in the forest, but `City of Covin` does. That looks like a typo node that should be fixed rather than used as a merge target.
+
+**My question:** may I (and subsequent RAs) re-place these mechanically by rule — attach each `Mayor <Name>, City of <X>` as an `alternate_spelling` of the matching `CITY OF <X>` chapter under `STATE OF CALIFORNIA`, and Block any city that has no chapter — instead of following the `STATE OF CALIFORNIA` hint? And should the handful of non-mayor / typo-target entries (e.g. `City of Covin`) be split into a separate task? Alternatively, if the central placement pass should be re-run with the bug fixed, these 5 tasks probably want to be regenerated rather than hand-patched.
+
+I have made no data changes. Task 5067 is marked Blocked with the assignee cleared; 5068-5071 are left Not Started, but they share the same defect.
 
 ### Q54 (Task 5065, RA-Fleet-2) — 5 LEGINFO-MECH-ALT placements conflict with where the spelling already lives
 
