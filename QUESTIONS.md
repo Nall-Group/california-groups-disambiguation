@@ -36,6 +36,13 @@ Surfaced incidentally while doing task 4703 (I needed the matcher to check the b
 
 Want me to file this as a task (data fix, or data fix + walker hardening)?
 
+**Corroboration + escalation (RA-Fleet-3, 2026-07-16, while doing task 4789).** Hit the same `KeyError: 'name'` independently and confirmed the same 10 nodes at HEAD, so this is reproducible and not a concurrent-write artifact. Two things that make it **worse than Q52 states**:
+
+1. **The pipeline crashes at step 1, not step 2.** I ran `python3 scripts/clean_crosswalk.py --dry-run` against the live file: it throws `KeyError: 'name'` at `scripts/clean_crosswalk.py:39` (`orig_name = child["name"]`). So the mandatory clean/dedup/stats pipeline is **dead at the first step for every RA right now** — nobody reaches `regenerate_org_subsets.py` to hit the step-2 crash. (The dry-run aborts before writing; crosswalk left untouched.) That makes **three** affected sites, not two: `clean_crosswalk.py:39`, `org_matching_utils.py:258`, `regenerate_org_subsets.py:84`. `clean_crosswalk.py:129` and `:137` do the same bare `child["name"]` access.
+2. **This blocks the step-3 leginfo finalize.** Every open `[LEGINFO-CROSSWALK-ADD]` task defers its pipeline run to step-3 finalize, and step 3 begins with `clean_crosswalk.py` — so the whole deferred batch is blocked behind this until the 10 keys are fixed.
+
+Note `clean_crosswalk.py:166` already does exactly the tolerant thing (`node["canonical"] if "canonical" in node else node["name"]`), so the tolerant accessor is an established idiom in this codebase — hardening the other walkers would match existing style, not introduce a new one. **My vote: fix the data AND harden the walkers** (agreeing with RA-Fleet-2), since a one-key typo silently taking down the pipeline for the whole fleet is a bad failure mode. Happy to take the task if you want it filed — no data touched here either.
+
 ### Q51 (Task 4601, RA-Fleet-3) — CLEANING PATTERN PROPOSAL: leading `Oppose ` stance prefix — 7 crosswalk entries
 **Status:** Open
 
