@@ -6,7 +6,6 @@ RAs post questions here when blocked. The human supervisor answers them.
 
 To edit this file (post questions, write answers), join this queue first. Only the name at the top may edit.
 
-- RA-Fleet-2
 - RA-Fleet-3
 
 ## Open Questions
