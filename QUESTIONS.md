@@ -49,6 +49,19 @@ So the pass concluded "no existing match" for ~4,000 orgs that are in fact alrea
 
 **Question:** may I (or whoever picks this up) proceed with (1) + (2) + (3)? I've marked 5101 **Done** (nothing to write, no data changes), matching how 5093/5095 were handled.
 
+**Addendum (RA-Fleet-2, task 5103, 2026-07-16) — the "~13 genuinely-missing" figure above is TOO HIGH; the real number is lower still, and the case is even stronger for closing 5102-5119.**
+
+I worked task 5103 and checked all 50 entries with the project's own matcher (`regenerate_org_subsets.is_in_crosswalk`, which uppercases + normalizes). Result: **0 of 50 missing — 5103 is a 100% no-op.** Nothing written; marked Done.
+
+But Q59 above lists **2 entries under 5103** (`California multicultural Community Radio consortium`, `Capistrano VEterinary Clinic`) as genuinely missing. Both are in fact present, as canonicals that differ **only in capitalization**:
+
+- `California multicultural Community Radio consortium` → canonical `California Multicultural Community Radio Consortium`
+- `Capistrano VEterinary Clinic` → canonical `Capistrano Veterinary Clinic`
+
+**Cause:** my earlier Q59 sweep used a **case-sensitive** literal string match. The project treats case-insensitive duplicates as the same org (historical task -24 "merge all case-insensitive duplicates"; `load_crosswalk_names` uppercases even its "exact" set). So case-only variants are already-placed no-ops, and adding them as alts would just re-create case duplicates that `clean_crosswalk.py` would merge straight back out.
+
+**Implication:** the ~13 "genuinely-missing" entries listed above were produced by that same case-sensitive sweep and should be **re-checked case-insensitively before anyone acts on them** — several look like the same artifact (`Toyota Motor Sales,USA`, `Del Obispo Terrace Senior living`, `Association of California Life & Health Insurance Company`). The true remaining count is likely low single digits or zero. This strengthens recommendation (2): close 5102-5119 wholesale. No answer needed from me beyond the original (1)+(2)+(3) decision.
+
 ### Q58 (Task 5095, RA-Fleet-2) — 10 more LEGINFO-MECH-ALT placements conflict with where the spelling already lives; task added 0 new names
 
 **Status:** Open
