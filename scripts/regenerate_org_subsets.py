@@ -103,6 +103,32 @@ def is_in_crosswalk(name, exact_set, normalized_set):
     return False
 
 
+# Source strings already routed into the narrative / conjoined mapping files are
+# HANDLED — a dirty prose string mapped to its real org. Their org lives in the
+# crosswalk (via the map), even though the raw string is intentionally NOT a
+# crosswalk node. They must never be re-surfaced as "not in crosswalk".
+MAPPING_FILES = [
+    "narrative_text_mapping_to_orgs.csv",
+    "conjoined_text_mapping_to_orgs.csv",
+]
+
+
+def load_mapped_strings():
+    """Return the set of normalized source strings already routed to a mapping file."""
+    mapped = set()
+    for filename in MAPPING_FILES:
+        fp = SUBSETS_DIR / filename
+        if not fp.exists():
+            continue
+        with open(fp, "r", encoding="utf-8", newline="") as f:
+            reader = csv.reader(f)
+            next(reader, None)
+            for row in reader:
+                if row:
+                    mapped.add(normalize_for_matching(row[0]))
+    return mapped
+
+
 # ---------------------------------------------------------------------------
 # 2. Read all CSVs
 # ---------------------------------------------------------------------------
@@ -281,11 +307,16 @@ def main():
     # CSVs entirely (it lives in the JSON — see module docstring). We only keep
     # names that are NOT in the crosswalk, in whichever bucket they came from.
     dropped_in_crosswalk = 0
+    dropped_mapped = 0
+    mapped_set = load_mapped_strings()
 
     for label, rows in category_rows.items():
         for name, count in rows:
             if is_in_crosswalk(name, exact_set, normalized_set):
                 dropped_in_crosswalk += 1
+            elif normalize_for_matching(name) in mapped_set:
+                # Already routed to the narrative/conjoined map — handled, not unrouted.
+                dropped_mapped += 1
             else:
                 new_buckets[label].append((name, count))
 
@@ -344,10 +375,11 @@ def main():
     print(f"  {'TOTAL':<48} {total_before:>7,} {total_after:>7,} {sign}{diff_total:>6,}")
 
     print(f"\nDropped (now present in the crosswalk):         {dropped_in_crosswalk:,}")
+    print(f"Dropped (already routed to narrative/conjoined map): {dropped_mapped:,}")
     print(f"Within-file duplicates merged:                  {total_dedup:,}")
     print(f"Cross-file duplicates removed:                  {total_cross:,}")
 
-    total_removed = dropped_in_crosswalk + total_dedup + total_cross
+    total_removed = dropped_in_crosswalk + dropped_mapped + total_dedup + total_cross
     if total_removed == 0 and total_after != total_before:
         print(f"\nWARNING: total names changed from {total_before:,} to {total_after:,} without any removals!")
     elif total_removed > 0:
@@ -355,7 +387,7 @@ def main():
         if total_after != expected:
             print(f"\nWARNING: expected {expected:,} after removals, got {total_after:,}")
         else:
-            print(f"\nVerified: {total_before:,} - {dropped_in_crosswalk:,} in-crosswalk - {total_dedup:,} within-file - {total_cross:,} cross-file = {total_after:,} (correct)")
+            print(f"\nVerified: {total_before:,} - {dropped_in_crosswalk:,} in-crosswalk - {dropped_mapped:,} mapped - {total_dedup:,} within-file - {total_cross:,} cross-file = {total_after:,} (correct)")
     else:
         print(f"\nVerified: {total_after:,} names total (unchanged)")
 
