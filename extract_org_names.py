@@ -42,8 +42,11 @@ ALL_CSV_FILES = [
     "org_names_invalid.csv",
     "org_names_partial.csv",
     "org_names_that_are_actually_individuals.csv",
-    "leginfo_added_to_crosswalk.csv",
 ]
+# leginfo_added_to_crosswalk.csv (a tracking log of orgs added to the crosswalk,
+# `org_name,bills_supported`) was RETIRED 2026-07-17: nothing consumed it (step 4
+# attributes counts from the source + mapping files, not this file), it drifted with
+# duplicate/dirty rows, and the per-org bill counts are re-derivable from the source.
 
 # Mapping files — NOT in ALL_CSV_FILES. Each has a `<string>,mapped_org(s)` schema
 # (no count column) and must NEVER go through update_csv_counts() (which would

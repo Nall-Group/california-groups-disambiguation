@@ -244,7 +244,8 @@ The routing CSVs in `org_names_for_cleaning/`:
 | `org_names_that_are_actually_individuals.csv` | a person's name with no identifiable leadership-org |
 | `org_names_partial.csv` | fragments, generic single words (`Author`, `County`, `Union`…), `N individuals` placeholders |
 | `org_names_invalid.csv` | not an org at all (bill text, vote tallies, procedural text, dates, phone numbers) |
-| `leginfo_added_to_crosswalk.csv` | valid orgs added to the crosswalk (tracking; `org_name,bills_supported`) |
+
+*(The `leginfo_added_to_crosswalk.csv` tracking log was retired 2026-07-17 — nothing consumed it; orgs added to the crosswalk live in the crosswalk JSON, and their bill counts are re-derivable from the source + mapping files.)*
 
 Plus one file that is **not** a standard `org_name,count` bucket:
 
@@ -274,8 +275,6 @@ pipeline to step 3. Two leginfo-specific notes for the task:
   web research when needed to confirm what the org actually is (acronym ↔ full name, e.g.
   `ACLU` ↔ `American Civil Liberties Union`; aka / former name / merger / parent) before
   merging it onto an existing canonical.
-- **Track it.** Append a row to `org_names_for_cleaning/leginfo_added_to_crosswalk.csv`
-  (`org_name,bills_supported`) so we record what was incorporated.
 
 ---
 

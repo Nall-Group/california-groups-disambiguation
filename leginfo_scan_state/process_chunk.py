@@ -114,8 +114,7 @@ def add_task(valid, batch):
             f"to the crosswalk.** Unmatched leginfo orgs diagnosed valid. Placements are HINTS — per the Worker RA "
             f"Role, SEARCH THE CROSSWALK FIRST to confirm the exact node, disambiguate with web research before "
             f"merging, place at the correct hierarchy. Do NOT route any to a CSV. Entries → placement: "
-            f"{'; '.join(entries)}. For each org added, append a row to "
-            f"`org_names_for_cleaning/leginfo_added_to_crosswalk.csv` (`org_name,bills_supported`). DO NOT run the "
+            f"{'; '.join(entries)}. DO NOT run the "
             f"clean/dedup/stats pipeline — deferred to step-3 finalize. Grab the Data Write Queue once, add all "
             f"{len(valid)}, commit once while holding the queue.")
 
