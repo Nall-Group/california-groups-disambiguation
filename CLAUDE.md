@@ -11,7 +11,7 @@ Note that you shouldn't remove entries unless they are exact duplicates since we
 When an entry in the crosswalk turns out to not be a real organization, two things need to happen:
 
 1. **Remove it from the crosswalk JSON** (`2_webapp/org_clusters_crosswalk.json`)
-2. **Move its CSV row** (including the count) from whichever source file it's in (`org_names_for_cleaning/org_names_in_crosswalk.csv` or `org_names_for_cleaning/org_names_not_in_crosswalk.csv`) to the appropriate invalidity file in `org_names_for_cleaning/`:
+2. **Move its CSV row** (including the count) — if the entry still has one in a source CSV (in practice the transient leginfo worklist `org_names_for_cleaning/org_names_not_in_crosswalk.csv`, when it exists) — to the appropriate invalidity file in `org_names_for_cleaning/`: *(The old `org_names_in_crosswalk.csv` mirror was retired 2026-07-09 — names already in the crosswalk are simply dropped, not recorded in a redundant CSV.)*
 
 | File | What goes here |
 |------|---------------|
