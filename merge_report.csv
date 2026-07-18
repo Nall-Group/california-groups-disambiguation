@@ -1,0 +1,612 @@
+norm,action,winner,winner_cluster,winner_size,loser,loser_cluster,loser_is_canonical,metadata_dropped
+alzheimers association california council,remove-descendant,Alzheimer's Association California Council,4102,7,"Alzheimer's Association, California Council",4102,False,False
+american college of obstetricians and gynecologists district ix,remove-descendant,American College of Obstetricians and Gynecologists - District IX,4758,46,"American College of Obstetricians and Gynecologists, District IX",4758,False,False
+california council of the blind,remove-descendant,California Council of the Blind,4826,9,California Council of the Blind,4826,False,False
+alameda labor council aflcio,remove-descendant,"Alameda Labor Council, AFL-CIO",4920,16,Alameda Labor Council AFL-CIO,4920,False,False
+inland empire labor council aflcio,remove-descendant,"Inland Empire Labor Council, AFL-CIO",4920,7,Inland Empire Labor Council AFL-CIO,4920,False,False
+california land title association,remove-descendant,CALIFORNIA LAND TITLE ASSOCIATION,5147,18,California Land Title Association,5147,False,False
+sons of the american legion,remove-descendant,Sons of The American Legion,5162,2,Sons of the American Legion,5162,False,False
+the american legion department of california,remove-descendant,"The American Legion, Department of California",5162,163,The American Legion (Department of California),5162,False,False
+american planning association california chapter,remove-descendant,"American Planning Association, California Chapter",5317,25,"American Planning Association, California Chapter",5317,False,False
+california psychological association,remove-descendant,CALIFORNIA PSYCHOLOGICAL ASSOCIATION,5349,16,California Psychological Association,5349,False,False
+amvets department of california,remove-descendant,"AMVETS, Department of California",5639,39,AMVETS - DEPARTMENT OF CALIFORNIA,5639,False,False
+california veterinary medical association,remove-descendant,CALIFORNIA VETERINARY MEDICAL ASSOCIATION,5643,15,California Veterinary Medical Association,5643,False,False
+associated builders and contractors of california,remove-descendant,Associated Builders and Contractors of California,8296,87,Associated Builders and Contractors of California,8296,False,False
+association for commuter transportation northern california inland chapter,remove-descendant,"Association for Commuter Transportation, Northern California Inland Chapter",8521,7,"Association for Commuter Transportation, Northern: California Inland Chapter",8521,False,False
+faculty association of california community colleges,remove-descendant,Faculty Association of California Community Colleges,8662,31,Faculty Association of California Community Colleges,8662,False,False
+korean american bar association of northern california,remove-descendant,Korean American Bar Association of Northern California,10428,5,KOREAN AMERICAN BAR ASSOCIATION OF NORTHERN CALIFORNIA,10428,False,False
+california assessors association county of san diego,remove-descendant,"California Assessors' Association, County of San Diego",15518,2,"California Assessors Association, County of San Diego",15518,False,False
+national association of social workers california chapter,remove-descendant,National Association of Social Workers - California Chapter,72155,111,National Association of Social Workers - California Chapter,72155,False,False
+los angeles county democratic party,remove-descendant,LOS ANGELES COUNTY DEMOCRATIC PARTY,18476,13,Los Angeles County Democratic Party,18476,False,False
+napa county democratic central committee,remove-descendant,Napa County Democratic Central Committee,18476,4,NAPA COUNTY DEMOCRATIC CENTRAL COMMITTEE,18476,False,False
+santa cruz county democratic central committee,remove-descendant,Santa Cruz County Democratic Central Committee,18476,4,SANTA CRUZ COUNTY DEMOCRATIC CENTRAL COMMITTEE,18476,False,False
+california retailers association,remove-descendant,CALIFORNIA RETAILERS ASSOCIATION,72977,14,California Retailers Association,72977,False,False
+california rural legal assistance foundation,remove-descendant,California Rural Legal Assistance Foundation,20676,32,CALIFORNIA RURAL LEGAL ASSISTANCE FOUNDATION,20676,False,False
+california state university channel islands,remove-descendant,"California State University, Channel Islands",21191,12,California State University Channel Islands,21191,False,False
+california state university dominguez hills,remove-descendant,"California State University, Dominguez Hills",21191,18,California State University Dominguez Hills,21191,False,False
+california state university east bay,remove-descendant,"California State University, East Bay",21191,16,California State University East Bay,21191,False,False
+california state university long beach nursing students,remove-descendant,"California State University, Long Beach, Nursing Students",21191,3,"California State University, Long Beach Nursing Students",21191,False,False
+california state university los angeles,remove-descendant,"California State University, Los Angeles",21191,34,California State University Los Angeles,21191,False,False
+california state university san bernardino,remove-descendant,"California State University, San Bernardino",21191,27,California State University San Bernardino,21191,False,False
+city of pleasanton,remove-descendant,CITY OF PLEASANTON,100917,8,City of Pleasanton,100917,False,False
+san joaquin county deputy sheriffs association,remove-descendant,SAN JOAQUIN COUNTY DEPUTY SHERIFFS ASSOCIATION,36880,2,San Joaquin County Deputy Sheriff's Association,36880,False,False
+deputy sheriffs association of santa clara county,remove-descendant,DEPUTY SHERIFFS ASSOCIATION OF SANTA CLARA COUNTY,36880,3,Deputy Sheriffs Association of Santa Clara County,36880,False,False
+disabled american veterans department of california,remove-descendant,"Disabled American Veterans, Department of California",37562,27,Disabled American Veterans - Department of California,37562,False,False
+san diego county district attorney,remove-descendant,San Diego County District Attorney,37693,62,San Diego County District Attorney,37693,False,False
+drywall lathers local 9109,remove-descendant,Drywall Lathers Local 9109,38624,3,DRYWALL LATHERS LOCAL 9109,38624,False,False
+easterseals bay area,remove-descendant,Easterseals Bay Area,39433,2,Easterseals Bay area,39433,False,False
+education coalition of ca,remove-descendant,Education Coalition of CA,39922,2,Education Coalition of CA,39922,False,False
+emergency medical services administrators association of california,remove-descendant,Emergency Medical Services Administrator's Association of California,40934,16,Emergency Medical Services Administrator's Association of California,40934,False,False
+engineers scientists of california local 20 ifpte,remove-descendant,"Engineers & Scientists of California, Local 20, IFPTE",41460,2,"Engineers & Scientists of California, Local 20 IFPTE",41460,False,False
+faith in action bay area,remove-descendant,Faith in Action Bay Area,43050,2,FAITH IN ACTION BAY AREA,43050,False,False
+gray panthers california,remove-descendant,Gray Panthers California,49203,8,Gray Panthers California,49203,False,False
+greenpeace usa,remove-descendant,Greenpeace USA,49704,2,Greenpeace Usa,49704,False,False
+health care for all california,remove-descendant,Health Care for All - California,51185,6,Health Care for All California,51185,False,False
+healthy mothers healthy babies santa barbara chapter,remove-descendant,"Healthy Mothers, Healthy Babies, Santa Barbara Chapter",51442,3,"Healthy Mother's, Healthy Babies, Santa Barbara Chapter",51442,False,False
+indivisible ca statestrong,remove-descendant,Indivisible CA StateStrong,55089,20,INDIVISIBLE CA STATESTRONG,55089,False,False
+indivisible ca37,remove-descendant,Indivisible CA-37,55089,4,INDIVISIBLE CA-37,55089,False,False
+indivisible sacramento,remove-descendant,Indivisible Sacramento,55089,3,INDIVISIBLE SACRAMENTO,55089,False,False
+indivisible san francisco,remove-descendant,Indivisible San Francisco,55089,5,INDIVISIBLE SAN FRANCISCO,55089,False,False
+indivisible sanjose,remove-descendant,Indivisible SanJose,55089,3,INDIVISIBLE SANJOSE,55089,False,False
+indivisible south bay la,remove-descendant,Indivisible South Bay LA,55089,6,INDIVISIBLE SOUTH BAY LA,55089,False,False
+indivisible yolo,remove-descendant,Indivisible Yolo,55089,3,INDIVISIBLE YOLO,55089,False,False
+indivisibles of sherman oaks,remove-descendant,Indivisibles of Sherman Oaks,55089,7,INDIVISIBLES OF SHERMAN OAKS,55089,False,False
+normal heights indivisible,remove-descendant,Normal Heights Indivisible,55089,4,NORMAL HEIGHTS INDIVISIBLE,55089,False,False
+santa cruz indivisible,remove-descendant,Santa Cruz Indivisible,55089,3,SANTA CRUZ INDIVISIBLE,55089,False,False
+resistance northridgeindivisible,remove-descendant,Resistance Northridge-Indivisible,55089,11,RESISTANCE NORTHRIDGE-INDIVISIBLE,55089,False,False
+indivisible ca29,remove-descendant,Indivisible Ca29,55089,4,Indivisible CA-29,55089,False,False
+indivisible ca33,remove-descendant,Indivisible CA33,55089,5,Indivisible CA-33,55089,False,False
+japanese american citizens league marin county chapter,remove-descendant,"Japanese American Citizens League, Marin County Chapter",57477,3,"JAPANESE AMERICAN CITIZENS LEAGUE, MARIN COUNTY CHAPTER",57477,False,False
+la galaxy san diego,remove-descendant,LA Galaxy San Diego,60741,2,La Galaxy San Diego,60741,False,False
+california league of united latin american citizens,remove-descendant,CALIFORNIA LEAGUE OF UNITED LATIN AMERICAN CITIZENS,62408,6,California League of United Latin American Citizens,62408,False,False
+military order of the purple heart department of california,remove-descendant,"Military Order of the Purple Heart, Department of California",69224,28,Military Order of the Purple Heart - Department of California,69224,False,False
+nami mt san jacinto,remove-descendant,NAMI Mt. San Jacinto,71889,5,Nami - Mt. San Jacinto,71889,False,False
+california association of dental plans,remove-descendant,California Association of Dental Plans,72036,9,CALIFORNIA ASSOCIATION OF DENTAL PLANS,72036,False,False
+california association of health underwriters,remove-descendant,California Association of Health Underwriters,72057,10,CALIFORNIA ASSOCIATION OF HEALTH UNDERWRITERS,72057,False,False
+california cannabis industry association,remove-descendant,CALIFORNIA CANNABIS INDUSTRY ASSOCIATION,72277,7,California Cannabis Industry Association,72277,False,False
+california credit union league,remove-descendant,CALIFORNIA CREDIT UNION LEAGUE,72492,8,California Credit Union League,72492,False,False
+national guard association of california,remove-descendant,National Guard Association of California,72631,11,NATIONAL GUARD ASSOCIATION OF CALIFORNIA,72631,False,False
+state building and construction trades council of california,remove-descendant,State Building and Construction Trades Council of California,74766,363,State Building and Construction Trades Council of California,74766,False,False
+planned parenthood affiliates of california,remove-descendant,Planned Parenthood Affiliates of California,81999,204,Planned Parenthood Affiliates of California,81999,False,False
+los angeles police department,remove-descendant,LOS ANGELES POLICE DEPARTMENT,82397,31,Los Angeles Police Department,82397,False,False
+santa ana police department,remove-descendant,SANTA ANA POLICE DEPARTMENT,82397,19,Santa Ana Police Department,82397,False,False
+fremont police department,remove-descendant,FREMONT POLICE DEPARTMENT,82397,23,Fremont Police Department,82397,False,False
+inglewood police department,remove-descendant,INGLEWOOD POLICE DEPARTMENT,82397,10,Inglewood Police Department,82397,False,False
+livermore police department,remove-descendant,LIVERMORE POLICE DEPARTMENT,82397,9,Livermore Police Department,82397,False,False
+san rafael police department,remove-descendant,SAN RAFAEL POLICE DEPARTMENT,82397,5,San Rafael Police Department,82397,False,False
+claremont police department,remove-descendant,CLAREMONT POLICE DEPARTMENT,82397,9,Claremont Police Department,82397,False,False
+selma police department,remove-descendant,SELMA POLICE DEPARTMENT,82397,5,Selma Police Department,82397,False,False
+california police officers association,remove-descendant,California Police Officer's Association,82401,7,California Police Officer's Association,82401,False,False
+san francisco police officers association,remove-descendant,SAN FRANCISCO POLICE OFFICERS ASSOCIATION,82401,8,San Francisco Police Officers Association,82401,False,False
+fullerton police officers association,remove-descendant,FULLERTON POLICE OFFICERS ASSOCIATION,82401,4,Fullerton Police Officers' Association,82401,False,False
+san jose police officers association,remove-descendant,SAN JOSE POLICE OFFICERS ASSOCIATION,82401,4,San Jose Police Officers' Association,82401,False,False
+california public interest research group calpirg,remove-descendant,California Public Interest Research Group (CALPIRG),84365,59,California Public Interest Research Group (CALPIRG),84365,False,False
+sheet metal workers local 104,remove-descendant,Sheet Metal Workers' Local 104,95787,12,"Sheet Metal Workers', Local 104",95787,False,False
+alameda county sheriff,remove-descendant,Alameda County Sheriff,95884,34,ALAMEDA COUNTY SHERIFF,95884,False,False
+orange county sheriff,remove-descendant,Orange County Sheriff,95884,43,ORANGE COUNTY SHERIFF,95884,False,False
+placer county sheriff,remove-descendant,Placer County Sheriff,95884,23,Placer County Sheriff,95884,False,False
+san bernardino county sheriff,remove-descendant,San Bernardino County Sheriff,95884,148,SAN BERNARDINO COUNTY SHERIFF,95884,False,False
+san diego county sheriff,remove-descendant,San Diego County Sheriff,95884,37,SAN DIEGO COUNTY SHERIFF,95884,False,False
+sacramento county sheriff,remove-descendant,Sacramento County Sheriff,95884,44,SACRAMENTO COUNTY SHERIFF,95884,False,False
+fresno county sheriff,remove-descendant,Fresno County Sheriff,95884,17,FRESNO COUNTY SHERIFF,95884,False,False
+yolo county sheriff,remove-descendant,Yolo County Sheriff,95884,32,YOLO COUNTY SHERIFF,95884,False,False
+butte county sheriff,remove-descendant,Butte County Sheriff,95884,23,BUTTE COUNTY SHERIFF,95884,False,False
+contra costa county sheriff,remove-descendant,Contra Costa County Sheriff,95884,30,CONTRA COSTA COUNTY SHERIFF,95884,False,False
+stanislaus county sheriff,remove-descendant,Stanislaus County Sheriff,95884,6,STANISLAUS COUNTY SHERIFF,95884,False,False
+marin county sheriff,remove-descendant,Marin County Sheriff,95884,16,MARIN COUNTY SHERIFF,95884,False,False
+el dorado county sheriff,remove-descendant,El Dorado County Sheriff,95884,36,EL DORADO COUNTY SHERIFF,95884,False,False
+kings county sheriff,remove-descendant,Kings County Sheriff,95884,22,KINGS COUNTY SHERIFF,95884,False,False
+santa barbara county sheriff,remove-descendant,Santa Barbara County Sheriff,95884,32,SANTA BARBARA COUNTY SHERIFF,95884,False,False
+mariposa county sheriff,remove-descendant,Mariposa County Sheriff,95884,13,MARIPOSA COUNTY SHERIFF,95884,False,False
+san joaquin county sheriff,remove-descendant,San Joaquin County Sheriff,95884,25,SAN JOAQUIN COUNTY SHERIFF,95884,False,False
+tuolumne county sheriff,remove-descendant,Tuolumne County Sheriff,95884,24,TUOLUMNE COUNTY SHERIFF,95884,False,False
+mono county sheriff,remove-descendant,Mono County Sheriff,95884,15,MONO COUNTY SHERIFF,95884,False,False
+sonoma county sheriff,remove-descendant,Sonoma County Sheriff,95884,23,SONOMA COUNTY SHERIFF,95884,False,False
+san mateo county sheriff,remove-descendant,San Mateo County Sheriff,95884,25,SAN MATEO COUNTY SHERIFF,95884,False,False
+monterey county sheriff,remove-descendant,Monterey County Sheriff,95884,20,MONTEREY COUNTY SHERIFF,95884,False,False
+del norte county sheriff,remove-descendant,Del Norte County Sheriff,95884,18,DEL NORTE COUNTY SHERIFF,95884,False,False
+nevada county sheriff,remove-descendant,Nevada County Sheriff,95884,14,NEVADA COUNTY SHERIFF,95884,False,False
+sutter county sheriff,remove-descendant,Sutter County Sheriff,95884,18,SUTTER COUNTY SHERIFF,95884,False,False
+san benito county sheriff,remove-descendant,San Benito County Sheriff,95884,13,SAN BENITO COUNTY SHERIFF,95884,False,False
+imperial county sheriff,remove-descendant,Imperial County Sheriff,95884,17,IMPERIAL COUNTY SHERIFF,95884,False,False
+humboldt county sheriff,remove-descendant,Humboldt County Sheriff,95884,15,HUMBOLDT COUNTY SHERIFF,95884,False,False
+lake county sheriff,remove-descendant,Lake County Sheriff,95884,15,LAKE COUNTY SHERIFF,95884,False,False
+calaveras county sheriff,remove-descendant,Calaveras County Sheriff,95884,9,CALAVERAS COUNTY SHERIFF,95884,False,False
+lassen county sheriff,remove-descendant,Lassen County Sheriff,95884,8,LASSEN COUNTY SHERIFF,95884,False,False
+san luis obispo county sheriff,remove-descendant,San Luis Obispo County Sheriff,95884,9,SAN LUIS OBISPO COUNTY SHERIFF,95884,False,False
+plumas county sheriff,remove-descendant,Plumas County Sheriff,95884,13,PLUMAS COUNTY SHERIFF,95884,False,False
+solano county sheriff,remove-descendant,Solano County Sheriff,95884,11,SOLANO COUNTY SHERIFF,95884,False,False
+tulare county sheriff,remove-descendant,Tulare County Sheriff,95884,11,TULARE COUNTY SHERIFF,95884,False,False
+tehama county sheriff,remove-descendant,Tehama County Sheriff,95884,12,TEHAMA COUNTY SHERIFF,95884,False,False
+merced county sheriff,remove-descendant,Merced County Sheriff,95884,19,MERCED COUNTY SHERIFF,95884,False,False
+santa clara county sheriff,remove-descendant,Santa Clara County Sheriff,95884,11,SANTA CLARA COUNTY SHERIFF,95884,False,False
+glenn county sheriff,remove-descendant,Glenn County Sheriff,95884,11,GLENN COUNTY SHERIFF,95884,False,False
+colusa county sheriff,remove-descendant,Colusa County Sheriff,95884,11,COLUSA COUNTY SHERIFF,95884,False,False
+siskiyou county sheriff,remove-descendant,Siskiyou County Sheriff,95884,15,SISKIYOU COUNTY SHERIFF,95884,False,False
+mendocino county sheriff,remove-descendant,Mendocino County Sheriff,95884,19,MENDOCINO COUNTY SHERIFF,95884,False,False
+madera county sheriff,remove-descendant,Madera County Sheriff,95884,6,MADERA COUNTY SHERIFF,95884,False,False
+los angeles county sheriff,remove-descendant,Los Angeles County Sheriff,95884,94,LOS ANGELES COUNTY SHERIFF,95884,False,False
+san francisco sheriff,remove-descendant,San Francisco Sheriff,95884,3,SAN FRANCISCO SHERIFF,95884,False,False
+alameda county chiefs of police and sheriffs association,remove-descendant,ALAMEDA COUNTY CHIEFS OF POLICE AND SHERIFF'S ASSOCIATION,95887,9,Alameda County Chiefs of Police and Sheriff's Association,95887,False,False
+sierra club california,remove-descendant,"Sierra Club, California",96171,24,Sierra Club California,96171,False,False
+los angeles county office of education,remove-descendant,Los Angeles County Office of Education,100917,22,Los Angeles County Office of Education,100917,False,False
+city of alameda,remove-descendant,CITY OF ALAMEDA,100917,17,City of Alameda,100917,False,False
+city of anaheim,remove-descendant,CITY OF ANAHEIM,100917,21,City of Anaheim,100917,False,False
+city of azusa,remove-descendant,CITY OF AZUSA,100917,16,City of Azusa,100917,False,False
+city of berkeley,remove-descendant,CITY OF BERKELEY,100917,54,City of Berkeley,100917,False,False
+city of burbank,remove-descendant,CITY OF BURBANK,100917,36,City of Burbank,100917,False,False
+city of capitola,remove-descendant,CITY OF CAPITOLA,100917,3,City of Capitola,100917,False,False
+city of ceres,remove-descendant,CITY OF CERES,100917,6,City of Ceres,100917,False,False
+city of clayton,remove-descendant,CITY OF CLAYTON,100917,12,City of Clayton,100917,False,False
+city of concord,remove-descendant,CITY OF CONCORD,100917,23,City of Concord,100917,False,False
+city of corona,remove-descendant,CITY OF CORONA,100917,7,City of Corona,100917,False,False
+city of coronado,remove-descendant,CITY OF CORONADO,100917,19,City of Coronado,100917,False,False
+city of el cajon,remove-descendant,CITY OF EL CAJON,100917,27,City of El Cajon,100917,False,False
+city of el segundo,remove-descendant,CITY OF EL SEGUNDO,100917,8,City of El Segundo,100917,False,False
+city of escondido,remove-descendant,CITY OF ESCONDIDO,100917,15,City of Escondido,100917,False,False
+city of fountain valley,remove-descendant,CITY OF FOUNTAIN VALLEY,100917,8,City of Fountain Valley,100917,False,False
+city of fremont,remove-descendant,CITY OF FREMONT,100917,14,City of Fremont,100917,False,False
+city of fullerton,remove-descendant,CITY OF FULLERTON,100917,16,City of Fullerton,100917,False,False
+city of gilroy,remove-descendant,CITY OF GILROY,100917,9,City of Gilroy,100917,False,False
+city of gridley,remove-descendant,CITY OF GRIDLEY,100917,6,City of Gridley,100917,False,False
+city of gustine,remove-descendant,CITY OF GUSTINE,100917,5,City of Gustine,100917,False,False
+city of hawthorne,remove-descendant,CITY OF HAWTHORNE,100917,6,City of Hawthorne,100917,False,False
+city of hemet,remove-descendant,CITY OF HEMET,100917,8,City of Hemet,100917,False,False
+city of imperial beach,remove-descendant,CITY OF IMPERIAL BEACH,100917,14,City of Imperial Beach,100917,False,False
+city of indio,remove-descendant,CITY OF INDIO,100917,6,City of Indio,100917,False,False
+city of kerman,remove-descendant,CITY OF KERMAN,100917,12,City of Kerman,100917,False,False
+city of laguna hills,remove-descendant,CITY OF LAGUNA HILLS,100917,6,City of Laguna Hills,100917,False,False
+city of lakewood,remove-descendant,CITY OF LAKEWOOD,100917,18,City of Lakewood,100917,False,False
+city of lathrop,remove-descendant,CITY OF LATHROP,100917,11,City of Lathrop,100917,False,False
+city of lawndale,remove-descendant,CITY OF LAWNDALE,100917,5,City of Lawndale,100917,False,False
+city of lemoore,remove-descendant,CITY OF LEMOORE,100917,8,City of Lemoore,100917,False,False
+city of livermore,remove-descendant,CITY OF LIVERMORE,100917,8,City of Livermore,100917,False,False
+city of livingston,remove-descendant,CITY OF LIVINGSTON,100917,5,City of Livingston,100917,False,False
+city of lodi,remove-descendant,CITY OF LODI,100917,6,City of Lodi,100917,False,False
+city of los angeles,remove-descendant,City of Los Angeles,100917,204,City of Los Angeles,100917,False,False
+city of mammoth lakes,remove-descendant,CITY OF MAMMOTH LAKES,100917,5,City of Mammoth Lakes,100917,False,False
+city of manteca,remove-descendant,CITY OF MANTECA,100917,7,City of Manteca,100917,False,False
+city of modesto,remove-descendant,CITY OF MODESTO,100917,10,City of Modesto,100917,False,False
+city of montclair,remove-descendant,CITY OF MONTCLAIR,100917,9,City of Montclair,100917,False,False
+city of monterey park,remove-descendant,CITY OF MONTEREY PARK,100917,6,City of Monterey Park,100917,False,False
+city of murrieta,remove-descendant,CITY OF MURRIETA,100917,16,City of Murrieta,100917,False,False
+city of newport beach,remove-descendant,CITY OF NEWPORT BEACH,100917,8,City of Newport Beach,100917,False,False
+city of norco,remove-descendant,CITY OF NORCO,100917,9,City of Norco,100917,False,False
+city of oakdale,remove-descendant,CITY OF OAKDALE,100917,7,City of Oakdale,100917,False,False
+city of oceanside,remove-descendant,CITY OF OCEANSIDE,100917,10,City of Oceanside,100917,False,False
+city of ojai,remove-descendant,CITY OF OJAI,100917,4,City of Ojai,100917,False,False
+city of ontario,remove-descendant,CITY OF ONTARIO,100917,8,City of Ontario,100917,False,False
+city of orange cove,remove-descendant,CITY OF ORANGE COVE,100917,5,City of Orange Cove,100917,False,False
+city of palm springs,remove-descendant,CITY OF PALM SPRINGS,100917,12,City of Palm Springs,100917,False,False
+city of pinole,remove-descendant,CITY OF PINOLE,100917,9,City of Pinole,100917,False,False
+city of pismo beach,remove-descendant,CITY OF PISMO BEACH,100917,7,City of Pismo Beach,100917,False,False
+city of placentia,remove-descendant,CITY OF PLACENTIA,100917,8,City of Placentia,100917,False,False
+city of pleasant hill,remove-descendant,CITY OF PLEASANT HILL,100917,6,City of Pleasant Hill,100917,False,False
+city of pomona,remove-descendant,CITY OF POMONA,100917,16,City of Pomona,100917,False,False
+city of redding,remove-descendant,CITY OF REDDING,100917,9,City of Redding,100917,False,False
+city of redondo beach,remove-descendant,CITY OF REDONDO BEACH,100917,10,City of Redondo Beach,100917,False,False
+city of reedley,remove-descendant,CITY OF REEDLEY,100917,6,City of Reedley,100917,False,False
+city of rolling hills,remove-descendant,CITY OF ROLLING HILLS,100917,3,City of Rolling Hills,100917,False,False
+city of roseville,remove-descendant,CITY OF ROSEVILLE,100917,14,City of Roseville,100917,False,False
+city of sacramento,remove-descendant,CITY OF SACRAMENTO,100917,86,City of Sacramento,100917,False,False
+city of san buenaventura,remove-descendant,CITY OF SAN BUENAVENTURA,100917,3,City of San Buenaventura,100917,False,False
+city of san leandro,remove-descendant,CITY OF SAN LEANDRO,100917,20,City of San Leandro,100917,False,False
+city of san marcos,remove-descendant,CITY OF SAN MARCOS,100917,15,City of San Marcos,100917,False,False
+city of santa ana,remove-descendant,CITY OF SANTA ANA,100917,26,City of Santa Ana,100917,False,False
+city of selma,remove-descendant,CITY OF SELMA,100917,9,City of Selma,100917,False,False
+city of shafter,remove-descendant,CITY OF SHAFTER,100917,5,City of Shafter,100917,False,False
+city of taft,remove-descendant,CITY OF TAFT,100917,10,City of Taft,100917,False,False
+city of tulare,remove-descendant,CITY OF TULARE,100917,9,City of Tulare,100917,False,False
+city of wasco,remove-descendant,CITY OF WASCO,100917,10,City of Wasco,100917,False,False
+city of watsonville,remove-descendant,CITY OF WATSONVILLE,100917,12,City of Watsonville,100917,False,False
+city of whittier,remove-descendant,CITY OF WHITTIER,100917,12,City of Whittier,100917,False,False
+ua local 582,remove-descendant,UA Local 582,109564,2,Ua Local 582,109564,False,False
+united auto workers local 2865,remove-descendant,United Auto Workers Local 2865,109572,8,"United Auto Workers, Local 2865",109572,False,False
+united food and commercial workers local 324,remove-descendant,United Food and Commercial Workers Local 324,109667,5,"United Food and Commercial Workers, Local 324",109667,False,False
+united food and commercial workers local 428,remove-descendant,United Food and Commercial Workers Local 428,109667,6,"United Food and Commercial Workers, Local 428",109667,False,False
+united food and commercial workers local 839,remove-descendant,United Food and Commercial Workers Local 839,109667,7,"United Food and Commercial Workers, Local 839",109667,False,False
+united food and commercial workers local 870,remove-descendant,United Food and Commercial Workers Local 870,109667,7,"United Food and Commercial Workers, Local 870",109667,False,False
+united food and commercial workers local 1442,remove-descendant,United Food and Commercial Workers Local 1442,109667,10,"United Food and Commercial Workers, Local 1442",109667,False,False
+united food and commercial workers western states council,remove-descendant,United Food and Commercial Workers Western States Council,109667,77,UNITED FOOD AND COMMERCIAL WORKERS WESTERN STATES COUNCIL,109667,False,False
+california chamber of commerce,remove-descendant,CALIFORNIA CHAMBER OF COMMERCE,109883,1384,California Chamber of Commerce,109883,False,False
+california african american chamber of commerce,remove-descendant,CALIFORNIA AFRICAN AMERICAN CHAMBER OF COMMERCE,109883,13,California African American Chamber of Commerce,109883,False,False
+california asian pacific chamber of commerce,remove-descendant,CALIFORNIA ASIAN PACIFIC CHAMBER OF COMMERCE,109883,28,California Asian Pacific Chamber of Commerce,109883,False,False
+university professional and technical employees cwa local 9119,remove-descendant,"University Professional and Technical Employees, CWA Local 9119",110437,27,University Professional and Technical Employees (CWA Local 9119),110437,False,False
+veterans of foreign wars department of california,remove-descendant,"Veterans of Foreign Wars, Department of California",112053,130,"Veterans of Foreign Wars, Department of California",112053,False,False
+vietnam veterans of america california state council,remove-descendant,"Vietnam Veterans of America, California State Council",112280,71,Vietnam Veterans of America - California State Council,112280,False,False
+california yimby,remove-descendant,California YIMBY,116294,6,California YIMBY,116294,False,False
+american college of obstetricians and gynecologists district ix california,within-tree,American College of Obstetricians and Gynecologists - District IX California,4758,9,"American College of Obstetricians and Gynecologists, District IX, California",4758,False,False
+la county probation department union local 685,within-tree,L.A. County Probation Department Union Local 685,4925,1,LA County Probation Department Union Local 685,4925,False,False
+los angeles county probation officers union afsme local 685,within-tree,Los Angeles County Probation Officers Union AFSME Local 685,4925,1,"Los Angeles County Probation Officers Union, AFSME, Local 685",4925,False,False
+los angeles deputy probation officers afscme local 685,within-tree,"Los Angeles Deputy Probation Officers, AFSCME Local 685",4925,1,"Los Angeles Deputy Probation Officers, AFSCME, Local 685",4925,False,False
+los angeles probation department union afscme local 685,within-tree,"Los Angeles Probation Department Union AFSCME, Local 685",4925,1,"Los Angeles Probation Department Union, AFSCME, Local 685",4925,False,False
+los angeles probation officers union local 685,within-tree,"Los Angeles Probation Officers' Union, Local 685",4925,1,"Los Angeles Probation Officers Union, Local 685",4925,False,False
+united domestic workers udwafscme local 3930,within-tree,United Domestic Workers UDW/AFSCME Local 3930,4925,1,United Domestic Workers UDW/AFSCME Local 3930,4925,False,False
+udwafscme local 3930,within-tree,"UDW/AFSCME, Local 3930",4925,1,UDW/AFSCME Local 3930,4925,False,False
+union of american physicians and dentists,within-tree,UNION OF AMERICAN PHYSICIANS AND DENTISTS,4925,1,Union of American Physicians and Dentists,4925,False,False
+union of american physicians and dentists uapd,within-tree,UNION OF AMERICAN PHYSICIANS AND DENTISTS (UAPD),4925,1,Union of American Physicians and Dentists (UAPD),4925,False,False
+california federation of teachers cft,within-tree,California Federation of Teachers (CFT),4926,1,California Federation of Teachers (CFT),4926,False,False
+california federation of teachers,within-tree,California Federation of Teachers,4926,1,California Federation of Teachers,4926,False,False
+brady california,within-tree,BRADY California,14060,1,Brady California,14060,False,False
+childrens rights council of sacramento,within-tree,Children's Rights Council of Sacramento,26450,1,Children's Rights Council of Sacramento,26450,False,False
+the climate reality project orange county chapter,within-tree,"The Climate Reality Project, Orange County Chapter",29153,1,The Climate Reality Project Orange County Chapter,29153,False,False
+communications workers of america district 9,within-tree,"Communications Workers of America, District 9",31048,1,Communications Workers of America District 9,31048,False,False
+ca council of police sheriffs,within-tree,CA Council of Police & Sheriffs,33876,1,CA Council of Police & Sheriffs,33876,False,False
+escrow institute of california eic,within-tree,Escrow Institute of California (EIC),42119,1,Escrow Institute of California (EIC),42119,False,False
+health access california,within-tree,"Health Access, California",51133,1,Health Access California,51133,False,False
+ca25 simi indivisible,within-tree,CA-25 Simi Indivisible,55089,1,CA-25 Simi Indivisible,55089,False,False
+international longshore and warehouse union northern california district council,within-tree,"International Longshore and Warehouse Union, Northern California District Council",56396,1,International Longshore and Warehouse Union Northern California District Council,56396,False,False
+judicial council of california,within-tree,JUDICIAL COUNCIL OF CALIFORNIA,58601,1,Judicial Council of California,58601,False,False
+los angeles gay lesbian center,within-tree,Los Angeles Gay & Lesbian Center,60785,1,Los Angeles Gay & Lesbian Center,60785,False,False
+leadingage california,within-tree,LEADINGAGE CALIFORNIA,62351,1,LeadingAge California,62351,False,False
+national association for the advancement of colored people sacramento branch,within-tree,"National Association for the Advancement of Colored People, Sacramento Branch",71969,1,"National Association for the Advancement of Colored People, Sacramento Branch",71969,False,False
+state building and construction trades council,within-tree,State Building and Construction Trades Council,74766,1,STATE BUILDING AND CONSTRUCTION TRADES COUNCIL,74766,False,False
+planned parenthood world population los angeles,within-tree,Planned Parenthood World Population Los Angeles,81999,1,"Planned Parenthood World Population, Los Angeles",81999,False,False
+planned parenthood mar monte,within-tree,Planned Parenthood Mar Monte,81999,12,Planned Parenthood Mar Monte,81999,False,False
+planned parenthood orange san bernardino counties,within-tree,Planned Parenthood Orange & San Bernardino Counties,81999,1,Planned Parenthood Orange & San Bernardino Counties,81999,False,False
+sempra energy utilities unless amended,within-tree,"Sempra Energy Utilities, unless amended",94908,1,"Sempra Energy utilities, unless amended",94908,False,False
+seiu local 1000,within-tree,SEIU Local 1000,95230,1,"SEIU, Local 1000",95230,False,False
+seiu california,within-tree,SEIU - California,95230,1,SEIU California,95230,False,False
+seiu california seiu,within-tree,SEIU California (SEIU),95230,1,SEIU California (SEIU),95230,False,False
+service employees international union seiu california,within-tree,Service Employees International Union (SEIU California),95230,1,Service Employees International Union (SEIU California),95230,False,False
+california state council of the service employees international union seiu,within-tree,CALIFORNIA STATE COUNCIL OF THE SERVICE EMPLOYEES INTERNATIONAL UNION (SEIU),95230,1,California State Council of the Service Employees International Union (SEIU),95230,False,False
+service employees international union california state council,within-tree,SERVICE EMPLOYEES INTERNATIONAL UNION - CALIFORNIA STATE COUNCIL,95230,1,"Service Employees International Union, California State Council",95230,False,False
+service employees international union california seiu,within-tree,Service Employees International Union California (SEIU),95230,1,Service Employees International Union - California (SEIU),95230,False,False
+seiu state council,within-tree,SEIU State Council,95230,1,SEIU State Council,95230,False,False
+julian a gold md mayor city of beverly hills,within-tree,"Julian A. Gold, M.D. Mayor, City of Beverly Hills",100917,1,"Julian A. Gold, M.D., Mayor, City of Beverly Hills",100917,False,False
+city of willits,within-tree,City of Willits,100917,1,City of Willits,100917,False,False
+california attorney general,within-tree,CALIFORNIA ATTORNEY GENERAL,100919,1,California Attorney General,100919,False,False
+region 8 state council of the united food and commercial workers,within-tree,Region 8 State Council of the United Food and Commercial Workers,109667,1,"Region 8, State Council of the United Food and Commercial Workers",109667,False,False
+united food and commercial workers western states council,within-tree,"United Food and Commercial Workers, Western States Council",109667,1,United Food and Commercial Workers Western States Council,109667,False,False
+murrieta wildomar chamber of commerce,within-tree,Murrieta / Wildomar Chamber of Commerce,109883,1,Murrieta Wildomar Chamber of Commerce,109883,False,False
+greater riverside chambers of commerce,within-tree,GREATER RIVERSIDE CHAMBERS OF COMMERCE,109883,1,Greater Riverside Chambers of Commerce,109883,False,False
+san diego regional chamber of commerce,within-tree,SAN DIEGO REGIONAL CHAMBER OF COMMERCE,109883,1,San Diego Regional Chamber of Commerce,109883,False,False
+goleta chamber of commerce,within-tree,GOLETA CHAMBER OF COMMERCE,109883,1,Goleta Chamber of Commerce,109883,False,False
+greater fresno area chamber of commerce,within-tree,GREATER FRESNO AREA CHAMBER OF COMMERCE,109883,1,Greater Fresno Area Chamber of Commerce,109883,False,False
+sacramento asian chamber of commerce,within-tree,Sacramento Asian Chamber of Commerce,109883,1,Sacramento Asian Chamber of Commerce,109883,False,False
+asian americans for civil rights and equality aacre,cross-tree,ASIAN AMERICANS FOR CIVIL RIGHTS AND EQUALITY ( AACRE),7857,1,Asian Americans for Civil Rights and Equality (AACRE),598,False,False
+agency on aging advisory council,cross-tree,Agency on Aging Advisory Council,7251,1,Agency on Aging Advisory Council,2038,False,False
+aids coordinators office department of disability city of los angeles,cross-tree,"AIDS Coordinator's Office, Department of Disability, City of Los Angeles",2227,1,"AIDS Coordinator's Office, Department of Disability, City of Los Angeles",28026,False,False
+alameda county chiefs of police and sheriffs association sb46x,cross-tree,Alameda County Chiefs of Police and Sheriff's Association SB46X,95887,1,Alameda County Chiefs of Police and Sheriff's Association SB46X,2560,False,False
+marin institute,cross-tree,Marin Institute,2862,1,MARIN INSTITUTE,66737,False,False
+the california academy of family physicians,cross-tree-fold,THE CALIFORNIA ACADEMY OF FAMILY PHYSICIANS,4368,1,The California Academy of Family Physicians,104631,True,False
+american academy of pediatrics aap,cross-tree,American Academy of Pediatrics (AAP),4379,1,American Academy of Pediatrics (AAP),4380,False,False
+california state automobile association,cross-tree-fold,California State Automobile Association,4551,1,California State Automobile Association,21013,True,False
+auto club of southern california writing in opposition to,cross-tree,"Auto Club of Southern California, writing in opposition to",4551,1,"Auto Club of Southern California, writing in opposition to",98917,False,False
+american capital management corp,cross-tree,American Capital Management Corp,4653,1,American Capital Management Corp,4654,False,False
+american college of obstetricians and gynecologists district ix,cross-tree,American College of Obstetricians and Gynecologists - District IX,4758,45,American College of Obstetricians and Gynecologists District IX,4744,False,False
+california council of the blind,cross-tree-fold,California Council of the Blind,4826,8,California Council of The Blind,18362,True,False
+california dental association,cross-tree-fold,California Dental Association,4846,13,California Dental Association,18483,True,False
+california labor federation aflcio,cross-tree,California Labor Federation (AFL-CIO),4920,1,"California Labor Federation, AFL-CIO",15635,False,False
+los angeles county probation department union local 685,cross-tree,"Los Angeles County Probation Department Union, Local 685",4925,1,Los Angeles County Probation Department Union Local 685,64815,False,False
+los angeles county probation union afscme local 685,cross-tree,Los Angeles County Probation Union. AFSCME Local 685,4925,1,"Los Angeles County Probation Union, AFSCME, Local 685",64816,False,False
+los angeles probation union afscme local 685,cross-tree,"Los Angeles Probation Union AFSCME, Local 685",4925,1,"Los Angeles Probation Union, AFSCME, Local 685",64816,False,False
+los angeles county probation department union afscme local 685,cross-tree,"Los Angeles County Probation Department Union, AFSCME Local 685",4925,1,"Los Angeles County Probation Department Union, AFSCME, Local 685",64815,False,False
+los angeles probation officers union,cross-tree-fold,Los Angeles Probation Officers' Union,4925,1,Los Angeles Probation Officers Union,65086,True,False
+los angeles county probation union,cross-tree-fold,Los Angeles County Probation Union,4925,1,Los Angeles County Probation Union,64816,True,False
+los angeles county probation department union local,cross-tree-fold,Los Angeles County Probation Department Union Local,4925,1,Los Angeles County Probation Department Union Local,64815,True,False
+california federation of teachers cft,cross-tree-fold,California Federation of Teachers (CFT),4926,1,California Federation of Teachers (CFT),18873,True,False
+american stroke association,cross-tree-fold,American Stroke Association,5008,1,American Stroke Association,5585,True,False
+california society of addiction medicine csam cosponsor of,cross-tree,"California Society of Addiction Medicine (CSAM), cosponsor of",5496,1,"California Society of Addiction Medicine (CSAM), cosponsor of",20880,False,False
+california speechlanguagehearing association,cross-tree,California Speech-language-hearing Association,5564,1,California Speech-Language-Hearing Association,20956,False,False
+american subcontractor assn of california,cross-tree,American Subcontractor Assn. of California,5589,1,American Subcontractor Assn. of California,104416,False,False
+cosponsor amvets department of california,cross-tree,Co-sponsor AMVETS Department of California,5639,1,Co-sponsor AMVETS Department of California,5873,False,False
+angelica salas executive directoru coalition for humane,cross-tree,"Angelica Salas, Executive Directoru, Coalition for Humane",29643,1,"Angelica Salas, Executive Directoru, Coalition for Humane",6148,False,False
+annmarie hogan city auditor city of berkeley,cross-tree,"Ann-Marie Hogan, City Auditor, City of Berkeley",6452,1,"Ann-Marie Hogan, City Auditor, City of Berkeley",6453,False,False
+annemarie hogan city auditor city of berkeley,cross-tree,"Anne-Marie Hogan, City Auditor, City of Berkeley",6452,1,"Anne-Marie Hogan, City Auditor, City of Berkeley",6469,False,False
+antelope valley hospital,cross-tree,Antelope Valley Hospital,6517,1,Antelope Valley Hospital,6569,False,False
+council president anthony young city of san diego,cross-tree,"Council President Anthony Young, City of San Diego",28319,1,"Council President Anthony Young, City of San Diego",6620,False,False
+antidefamation league,cross-tree,ANTI-DEFAMATION LEAGUE,6628,1,Anti-Defamation League,6627,False,False
+chief of police jim hyde city of antioch,cross-tree,"Chief of Police Jim Hyde, City of Antioch",82397,1,"Chief of Police Jim Hyde, City of Antioch",6668,False,False
+asian american certified public accountants and attorneys san,cross-tree,Asian American Certified Public Accountants and Attorneys San,7817,1,Asian American Certified Public Accountants and Attorneys San,7818,False,False
+faculty association of california community colleges faccc the sponsor of this legislation,cross-tree,"Faculty Association of California Community Colleges (FACCC), the sponsor of this legislation",8662,1,"Faculty Association of California Community Colleges (FACCC), the sponsor of this legislation",42887,False,False
+the association of california healthcare districts achd,cross-tree-fold,The Association of California Healthcare Districts (ACHD),8674,1,The Association of California Healthcare Districts (ACHD),104492,True,False
+assoc of california hospital districts,cross-tree,Assoc. of California Hospital Districts,8674,1,Assoc. of California Hospital Districts,17042,False,False
+the association of california insurance companies acic,cross-tree-fold,THE ASSOCIATION OF CALIFORNIA INSURANCE COMPANIES (ACIC),8678,1,The Association of California Insurance Companies (ACIC),104493,True,False
+california association of catholic hospitals,cross-tree,California Association of Catholic Hospitals,16911,13,California Association of Catholic Hospitals,8718,False,False
+california association of legal document assistants,cross-tree,CALIFORNIA ASSOCIATION OF LEGAL DOCUMENT ASSISTANTS,17083,5,California Association of Legal Document Assistants,8910,False,False
+california association of nonprofits,cross-tree,CALIFORNIA ASSOCIATION OF NONPROFITS,17123,20,California Association of Nonprofits,8950,False,False
+the california association of private postsecondary schools capps,cross-tree,THE CALIFORNIA ASSOCIATION OF PRIVATE POSTSECONDARY SCHOOLS (CAPPS),17155,1,The California Association of Private Postsecondary Schools (CAPPS) -,8981,False,False
+california association of rehabilitation professionals,cross-tree,California Association of Rehabilitation Professionals,17209,1,California Association of Rehabilitation Professionals,9016,False,False
+astrotech space operations,cross-tree,Astrotech Space Operations,9168,2,Astrotech Space Operations,9167,False,False
+attorneys for criminal justice organization,cross-tree,Attorneys for Criminal Justice Organization,15545,1,Attorneys for Criminal Justice Organization,9363,False,False
+mendocino county auditorcontroller,cross-tree,Mendocino County Auditor-Controller,100917,3,Mendocino County Auditor-Controller,9437,False,False
+automotive service councils of california,cross-tree,Automotive Service Councils Of California,9684,5,Automotive Service Councils of California,9685,False,False
+family law section,cross-tree,Family Law Section,10428,9,Family Law Section,19596,False,False
+business law section,cross-tree,Business Law Section,10428,3,Business Law Section,19596,False,False
+office of governmental affairs,cross-tree-fold,Office of Governmental Affairs,10428,2,Office of Governmental Affairs,76585,True,False
+bay 101 club,cross-tree-fold,Bay 101 Club,10742,1,Bay 101 Club,10745,True,False
+san francisco baykeeper,cross-tree-fold,San Francisco Baykeeper,11139,1,San Francisco Baykeeper,91421,True,False
+being alive los angeles inc,cross-tree,"Being Alive Los Angeles, Inc",11516,1,"Being Alive Los Angeles, Inc.",11512,False,False
+beverly hills city,cross-tree,Beverly Hills City,100917,1,Beverly Hills City,12202,False,False
+board of governors of the california community colleges,cross-tree,BOARD OF GOVERNORS OF THE CALIFORNIA COMMUNITY COLLEGES,18149,1,Board of Governors of the California Community Colleges,13326,False,False
+board of supervisors city of los angeles,cross-tree,"Board of Supervisors, City of Los Angeles",13366,1,"Board of Supervisors, City of Los Angeles",64626,False,False
+el dorado county board of supervisors,cross-tree,El Dorado County Board of Supervisors,100917,6,El Dorado County Board of Supervisors,13370,False,False
+board of supervisors president keith carson county of alameda,cross-tree,"Board of Supervisors President Keith Carson, County of Alameda",100917,1,"Board of Supervisors President Keith Carson, County of Alameda",13408,False,False
+fresno county board of supervisors stan oken sharon levy deran koligian,cross-tree,"Fresno County Board of Supervisors: Stan Oken, Sharon Levy, Deran Koligian",100917,1,"Fresno County Board of Supervisors: Stan Oken, Sharon Levy, Deran Koligian",13423,False,False
+boards of supervisors of mendocino county,cross-tree,Boards of Supervisors of:: Mendocino County,100917,1,Boards of Supervisors of:: Mendocino County,13424,False,False
+brawley chamber of commerce,cross-tree-fold,BRAWLEY CHAMBER OF COMMERCE,109883,4,Brawley Chamber of Commerce,14139,True,False
+bruce bolinger county clerk county of nevada,cross-tree,"Bruce Bolinger, County Clerk, County of Nevada",100917,1,"Bruce Bolinger, County Clerk, County of Nevada",14670,False,False
+builders exchanges legislative network,cross-tree,Builders Exchanges Legislative Network,14890,1,Builders Exchanges Legislative Network,14889,False,False
+building owners and managers association 738,cross-tree,Building Owners and Managers Association 738,14966,1,Building Owners and Managers Association 738,14965,False,False
+john burton foundation for children without homes,cross-tree,JOHN BURTON FOUNDATION FOR CHILDREN WITHOUT HOMES,58145,1,John Burton Foundation for Children Without Homes,15182,False,False
+business law section of the state bar of california,cross-tree-fold,Business Law Section of the State Bar of California,19596,1,Business Law Section of the State Bar of California,15243,True,False
+california business properties association,cross-tree-fold,California Business Properties Association,15258,1,California Business Properties Association,17533,True,False
+california business roundtable,cross-tree-fold,California Business Roundtable,15261,1,California Business Roundtable,17537,True,False
+california attorneys for criminal justice,cross-tree,CALIFORNIA ATTORNEY'S FOR CRIMINAL JUSTICE,17325,28,California Attorneys for Criminal Justice,15545,False,False
+california district attorneys association,cross-tree,CALIFORNIA DISTRICT ATTORNEY'S ASSOCIATION,18580,32,California District Attorneys Association,15602,False,False
+california school employees association aflcio,cross-tree,"California School Employees Association, AFL-CIO",20726,1,"California School Employees Association, AFL-CIO",15678,False,False
+state association of county auditors,cross-tree,State Association of County Auditors,15693,1,State Association of County Auditors,34020,False,False
+colusa indian community,cross-tree,Colusa Indian community,15824,1,Colusa Indian community,30618,False,False
+managed risk medical insurance board,cross-tree,MANAGED RISK MEDICAL INSURANCE BOARD,66287,5,Managed Risk Medical Insurance Board,15950,False,False
+calcima,cross-tree-fold,CalCIMA,18267,1,Calcima,16155,True,False
+calif allied for patient protection,cross-tree,Calif. Allied for Patient Protection,21856,1,Calif. Allied for Patient Protection,16260,False,False
+ca assoc of realtors,cross-tree,CA ASSOC. OF REALTORS,17316,1,CA Assoc. of Realtors,16273,False,False
+california forestry association,cross-tree,CALIFORNIA FORESTRY ASSOCIATION,18993,11,California Forestry Association,16329,False,False
+ca police chiefs assoc inc ca,cross-tree,"CA Police Chiefs Assoc., Inc. CA",20287,1,"CA Police Chiefs Assoc., Inc. CA",16356,False,False
+california police chiefs assoc none,cross-tree,California Police Chiefs Assoc. None,20287,1,California Police Chiefs Assoc. None,16356,False,False
+california rifle and pistol association to use of dros funds,cross-tree,California Rifle and Pistol Association (to use of DROS funds),72980,1,California Rifle and Pistol Association (to use of DROS funds),16360,False,False
+california school employees association csea in support,cross-tree,"California School Employees Association (CSEA), in support",20726,1,"California School Employees Association (CSEA), in support",16363,False,False
+cosponsor california state employees association csea,cross-tree,Co-sponsor California State Employees Association (CSEA),21069,1,Co-sponsor California State Employees Association (CSEA),16372,False,False
+abx1 49 california state horsemens association,cross-tree,ABX1 49 California State Horsemen's Association,21103,1,ABX1 49 California State Horsemen's Association,16375,False,False
+california state association of electrical workers,cross-tree,California State Association of Electrical Workers,56231,19,California State Association of Electrical Workers,16397,False,False
+california abortion reproductive rights action league network,cross-tree,California Abortion & Reproductive Rights Action League Network,71830,1,California Abortion & Reproductive Rights Action League Network,16423,False,False
+california academy of preventative medicine,cross-tree-fold,California Academy of Preventative Medicine,16446,1,California Academy of Preventative Medicine,16445,True,False
+california advocates for nursing home reform,cross-tree,California Advocates for Nursing Home Reform,16515,19,California Advocates for Nursing Home Reform,16513,False,False
+california air pollution control officers association,cross-tree-fold,CALIFORNIA AIR POLLUTION CONTROL OFFICER'S ASSOCIATION,16578,1,California Air Pollution Control Officers Association,16580,True,False
+california american water opposeto include investor owned utilities,cross-tree,California American Water - Opposeto include: investor owned utilities,16689,1,California American Water - Opposeto include: investor owned utilities,16690,False,False
+california association for health services at home cahsah support if,cross-tree,California Association for Health Services at Home (CAHSAH) - Support if,16814,1,California Association for Health Services at Home (CAHSAH) - Support if,52844,False,False
+california charter schools association advocates,cross-tree-fold,CALIFORNIA CHARTER SCHOOLS ASSOCIATION ADVOCATES,16915,1,California Charter Schools Association Advocates,17779,True,False
+california association of clerks,cross-tree-fold,California Association of Clerks,16923,1,California Association of Clerks,16921,True,False
+california association of county treasurers,cross-tree-fold,California Association of County Treasurers,16964,1,California Association of County Treasurers,16963,True,False
+california association of hmos inc,cross-tree,"California Association of HMO's, Inc",17027,1,"California Association of HMOs, Inc",17038,False,False
+the california association of health plans cahp,cross-tree-fold,THE CALIFORNIA ASSOCIATION OF HEALTH PLANS (CAHP),17029,1,The California Association of Health Plans (CAHP),104642,True,False
+california housing authorities association,cross-tree-fold,California Housing Authorities Association,17046,1,California Housing Authorities Association,19302,True,False
+california state association of psychiatrists,cross-tree,CALIFORNIA STATE ASSOCIATION OF PSYCHIATRISTS,20999,9,California State Association of Psychiatrists,17172,False,False
+ca association of public administrators public guardians and public conservators,cross-tree,"CA Association of Public Administrators, Public Guardians, and Public Conservators",17175,1,"CA Association of Public Administrators, Public Guardians, and Public Conservators",21002,False,False
+ca state assn of public administrators public guardians and public conservators,cross-tree,"CA State Assn. of Public Administrators, Public Guardians, and Public Conservators",17175,1,"CA State Assn. of Public Administrators, Public Guardians, and Public Conservators",21002,False,False
+california public administrators public guardians and public conservators,cross-tree,"California Public Administrators, Public Guardians, and Public Conservators",17175,1,"California Public Administrators, Public Guardians, and Public Conservators",20427,False,False
+california state assn of public administrators public guardians and public conservators,cross-tree,"California State Assn. of Public Administrators, Public Guardians, and Public Conservators",17175,1,"California State Assn. of Public Administrators, Public Guardians, and Public Conservators",100726,False,False
+california association of public authorities for ihss,cross-tree-fold,California Association of Public Authorities for Ihss,17178,1,California Association of Public Authorities for Ihss,17177,True,False
+california association of public guardians public conservators and public administrators,cross-tree,"California Association of Public Guardians, Public Conservators and Public Administrators",21002,1,"California Association of Public Guardians, Public Conservators and Public Administrators",17184,False,False
+california association of realtors,cross-tree-fold,CALIFORNIA ASSOCIATION OF REALTORS,17316,1,California Association of Realtors,17196,True,False
+california association of social rehabilitation agencies,cross-tree-fold,CALIFORNIA ASSOCIATION OF SOCIAL REHABILITATION AGENCIES,17254,1,California Association of Social Rehabilitation Agencies,17253,True,False
+cashpcr,cross-tree-fold,CASHPCR,17261,1,CASHPCR,23586,True,False
+california association of veteran services agencies,cross-tree-fold,CALIFORNIA ASSOCIATION OF VETERAN SERVICES AGENCIES,17295,1,California Association of Veteran Services Agencies,17297,True,False
+community associations institute california legislative action committee,cross-tree,Community Associations Institute California Legislative Action Committee,31226,1,Community Associations Institute - California Legislative Action Committee,17313,False,False
+california business for education excellence,cross-tree,California Business for Education Excellence,17523,2,California Business for Education Excellence,17524,False,False
+national association of social workers california chapter,cross-tree,National Association of Social Workers - California Chapter,72155,110,"National Association of Social Workers, California Chapter",17729,False,False
+california child care resource referral network,cross-tree,California Child Care Resource & Referral Network,26140,1,California Child Care Resource & Referral Network,17792,False,False
+california childrens lobby,cross-tree,California Children's Lobby,17823,4,California Children's Lobby,26414,False,False
+california conference of machinists,cross-tree,California Conference of Machinists,18232,1,California Conference of Machinists,32350,False,False
+ca congress of parents and students inc,cross-tree,"CA Congress of Parents, and Students, Inc",21157,1,"CA Congress of Parents, and Students, Inc",18242,False,False
+california council for environmental and economic balance cceeb,cross-tree,CALIFORNIA COUNCIL FOR ENVIRONMENTAL AND ECONOMIC BALANCE (CCEEB),18331,1,California Council for Environmental and Economic Balance (CCEEB),33783,False,False
+california council of community mental health agencies,cross-tree-fold,California Council of Community Mental Health Agencies,18345,1,California Council of Community Mental Health Agencies,18347,True,False
+san francisco department of public health,cross-tree-fold,San Francisco Department of Public Health,18395,1,San Francisco Department of Public Health,91537,True,False
+california state employees association,cross-tree,California State Employees Association,21074,1,California State Employees Association,18691,False,False
+california health and human services agency,cross-tree,California Health and Human Services Agency,19151,5,California Health and Human Services Agency,19145,False,False
+california health advocates,cross-tree-fold,California Health+ Advocates,20338,1,CALIFORNIA HEALTH ADVOCATES,19148,True,False
+california housing partnership corporation,cross-tree,CALIFORNIA HOUSING PARTNERSHIP CORPORATION,19310,1,California Housing Partnership Corporation,19314,False,False
+california inhome supportive services consumer alliance,cross-tree-fold,CALIFORNIA IN-HOME SUPPORTIVE SERVICES CONSUMER ALLIANCE,19352,1,California In-home Supportive Services Consumer Alliance,19351,True,False
+jobs to move america,cross-tree,Jobs to Move America,19501,1,JOBS TO MOVE AMERICA,58080,False,False
+gay and aids lobby,cross-tree,Gay and AIDS Lobby,63265,1,Gay and AIDS Lobby,19653,False,False
+california manufacturing and technology association cmta,cross-tree,California Manufacturing and Technology Association (CMTA),19737,1,California Manufacturing and Technology Association (CMTA),66435,False,False
+the california medical association,cross-tree-fold,The California Medical Association,19769,1,The California Medical Association,104674,True,False
+the california medical association cma,cross-tree-fold,THE CALIFORNIA MEDICAL ASSOCIATION (CMA),19769,1,The California Medical Association (CMA),104675,True,False
+california newspaper publishers association,cross-tree,California Newspaper Publishers' Association,19987,1,California Newspaper Publishers Association,19991,False,False
+california police chiefs association,cross-tree-fold,California Police Chief's Association,82383,32,California Police Chiefs Association,20287,True,False
+california probation and correctional association,cross-tree-fold,California Probation and Correctional Association,20366,1,California Probation and Correctional Association,20365,True,False
+ca public interest research groupca,cross-tree,CA Public Interest Research GroupCA,84365,1,CA Public Interest Research GroupCA,20449,False,False
+cpuc,cross-tree-fold,CPUC,20469,1,CPUC,34568,True,False
+california retailers association,cross-tree-fold,CALIFORNIA RETAILERS ASSOCIATION,72977,13,California Retailers Association,20611,True,False
+california small business development center,cross-tree,California Small Business Development Center,20847,5,California Small Business Development Center,20855,False,False
+kathleen connell state controller,cross-tree,"Kathleen Connell, State Controller",76617,1,"Kathleen Connell, State Controller",21044,False,False
+california state sheriffs association,cross-tree-fold,CALIFORNIA STATE SHERIFF'S ASSOCIATION,95887,1,California State Sheriffs' Association,21170,True,False
+california state teachers retirement system,cross-tree,California State Teacher's Retirement System,100989,1,California State Teachers' Retirement System,21185,False,False
+sonoma state university,cross-tree-fold,Sonoma State University,21191,13,Sonoma State University,98268,True,False
+san jose state university,cross-tree-fold,San Jose State University,21191,1,San Jose State University,92295,True,False
+ca teachers association,cross-tree,CA Teachers Association,21319,1,CA Teachers Association,103700,False,False
+california state teachers retirement system calstrs,cross-tree,California State Teacher's Retirement System (CalSTRS),100989,12,California State Teachers' Retirement System (CalSTRS),21325,False,False
+as of march 15 1996 trade and commerce agency,cross-tree,"As of March 15, 1996. Trade and Commerce Agency",21400,1,"As of March 15, 1996. Trade and Commerce Agency",107390,False,False
+coalition of california welfare rights organizations,cross-tree,COALITION OF CALIFORNIA WELFARE RIGHTS ORGANIZATIONS,29783,37,Coalition of California Welfare Rights Organizations,21625,False,False
+the california nevada soft drink association,cross-tree,The California Nevada Soft Drink Association,104684,1,The California Nevada Soft Drink Association,21814,False,False
+california public employees retirement system,cross-tree,California Public Employees' Retirement System,22101,1,California Public Employees Retirement System,84311,False,False
+united brotherhood of carpenters and joiners of america,cross-tree-fold,United Brotherhood of Carpenters and Joiners of America,23355,1,United Brotherhood of Carpenters and Joiners of America,109579,True,False
+cease coalition engaged in a smokefree effort santa pageg,cross-tree,"CEASE (Coalition Engaged in a Smoke-Free Effort), Santa PageG",24066,1,"CEASE (Coalition Engaged in a Smoke-Free Effort), Santa PageG",29496,False,False
+center for ethics economic policy,cross-tree,Center for Ethics & Economic Policy,24365,2,Center for Ethics & Economic Policy,24366,False,False
+chabotlas positas community college district,cross-tree-fold,Chabot-las Positas Community College District,25326,1,Chabot-Las Positas Community College District,25328,True,False
+fresno chamber of commerce also,cross-tree,Fresno Chamber of Commerce [also],109883,1,Fresno Chamber of Commerce [also],25399,False,False
+santa ynez band of chumash indians,cross-tree,SANTA YNEZ BAND OF CHUMASH INDIANS,93609,12,Santa Ynez Band of Chumash Indians,26915,False,False
+cigna,cross-tree-fold,CIGNA,27025,1,Cigna,27022,True,False
+the citizens commission on human rights cchr,cross-tree-fold,THE CITIZENS COMMISSION ON HUMAN RIGHTS (CCHR),27211,1,The Citizens Commission on Human Rights (CCHR),104837,True,False
+city of san juan capistrano x,cross-tree,City of San Juan Capistrano X,100917,1,City of San Juan Capistrano X,27494,False,False
+city of tustin,cross-tree,CITY OF TUSTIN,100917,11,City of Tustin,27528,False,False
+honorable louis scanlon chief of police city of coronado,cross-tree,"Honorable Louis Scanlon, Chief of Police, City of Coronado",82397,1,"Honorable Louis Scanlon, Chief of Police, City of Coronado",27733,False,False
+facility engineering city of hope,cross-tree,"Facility Engineering, City of Hope",27925,1,"Facility Engineering, City of Hope",42865,False,False
+city of king city,cross-tree,City of King City,100917,2,CITY OF KING CITY,27954,False,False
+city of kingsburg,cross-tree,City of Kingsburg,100917,2,CITY OF KINGSBURG,27956,False,False
+city of long beach,cross-tree-fold,CITY OF LONG BEACH,100917,47,City of Long Beach,28005,True,False
+city of los angeles office of the chief legislative analyst,cross-tree-fold,City of Los Angeles - Office of the Chief Legislative Analyst,100917,1,City of Los Angeles Office of the Chief Legislative Analyst,28054,True,False
+libby schaaf mayor city of oakland,cross-tree,"Libby Schaaf, Mayor, City of Oakland",100917,1,"Libby Schaaf- Mayor, City of Oakland",28152,False,False
+gene h kulander chief of police city of palm springs,cross-tree,"Gene H. Kulander, Chief of Police, City of Palm Springs",82397,1,"Gene H. Kulander, Chief of Police, City of Palm Springs",28190,False,False
+chief of police arturo venegas jr city of sacramento,cross-tree,"Chief of Police, Arturo Venegas, Jr., City of Sacramento",82397,1,"Chief of Police, Arturo Venegas, Jr., City of Sacramento",28302,False,False
+honorable stephen whitburn council president pro tem city of san diego,cross-tree,"Honorable Stephen Whitburn, Council President Pro Tem , City of San Diego",28319,1,"Honorable Stephen Whitburn, Council President Pro Tem , City of San Diego",28329,False,False
+environmental public works management fleet management division city of santa monica,cross-tree,"Environmental & Public Works Management, Fleet Management Division, City of Santa Monica",100917,1,"Environmental & Public Works Management, Fleet Management Division, City of Santa Monica",28422,False,False
+city of waterford,cross-tree-fold,CITY OF WATERFORD,100917,5,City of Waterford,28551,True,False
+city of west covina,cross-tree-fold,CITY OF WEST COVINA,100917,11,CITY OF WEST COVINA,28557,True,False
+citycounty association of governments,cross-tree-fold,City/County Association of Governments,28623,1,City/County Association of Governments,28622,True,False
+city of pleasanton,cross-tree,CITY OF PLEASANTON,100917,7,City of Pleasanton,28625,False,False
+chief of police paul cooper city of claremont police department,cross-tree,"Chief of Police Paul Cooper, City of Claremont Police Department",82397,1,"Chief of Police Paul Cooper, City of Claremont Police Department",28733,False,False
+clean power alliance,cross-tree-fold,Clean Power Alliance,28901,1,Clean Power Alliance,28902,True,False
+the coalition of california insurance professionals ccip,cross-tree-fold,THE COALITION OF CALIFORNIA INSURANCE PROFESSIONALS (CCIP),29777,1,The Coalition of California Insurance Professionals (CCIP),104868,True,False
+comcast,cross-tree,Comcast,30635,1,COMCAST,30638,False,False
+community clinic association of los angeles county,cross-tree-fold,Community Clinic Association of Los Angeles County,31306,1,COMMUNITY CLINIC ASSOCIATION OF LOS ANGELES COUNTY,31307,True,False
+community housing development corporation,cross-tree,COMMUNITY HOUSING DEVELOPMENT CORPORATION,31562,4,Community Housing Development Corporation,31563,False,False
+los angeles community redevelopment agency,cross-tree-fold,Los Angeles Community Redevelopment Agency,31739,1,Los Angeles Community Redevelopment Agency,64690,True,False
+concowest inc,cross-tree-fold,ConcoWest Inc,32239,1,Conco-West Inc,32241,True,False
+first congregational church auburn santa cruz,cross-tree-fold,"First Congregational Church, Auburn, Santa Cruz",32448,1,"First Congregational Church, Auburn, Santa Cruz",44456,True,False
+board of supervisors counties of contra costa,cross-tree,"Board of Supervisors, counties of: Contra Costa",100917,1,"Board of Supervisors, counties of: Contra Costa",33009,False,False
+contractors state license board,cross-tree,Contractors State License Board,33179,1,Contractors State License Board,100798,False,False
+state controllers office,cross-tree,State Controller's Office,76617,1,State Controller's Office,33199,False,False
+council of acupuncture and oriental medicine association licensed acupuncturists marian blum,cross-tree,"Council of Acupuncture and Oriental Medicine Association : Licensed Acupuncturists, Marian Blum",33802,1,"Council of Acupuncture and Oriental Medicine Association : Licensed Acupuncturists, Marian Blum",104939,False,False
+county of amador,cross-tree-fold,County of Amador,100917,1,County of Amador,34104,True,False
+county of san bernardino,cross-tree,COUNTY OF SAN BERNARDINO,100917,1,County of San Bernardino,34115,False,False
+the county of san luis obispo,cross-tree,THE COUNTY OF SAN LUIS OBISPO,100917,1,The County of San Luis Obispo,34271,False,False
+county welfare directors association of california,cross-tree-fold,County Welfare Directors Association of California,34394,1,County Welfare Directors Association of California,34393,True,False
+covenant house california,cross-tree-fold,"Covenant House, California",34471,3,Covenant House California,34472,True,False
+san ramon chapter pflag danville,cross-tree,San Ramon Chapter (PFLAG- Danville),79859,1,San Ramon Chapter (PFLAG- Danville),35806,False,False
+the department of corporations,cross-tree-fold,THE DEPARTMENT OF CORPORATIONS,36700,1,The Department of Corporations,104985,True,False
+los angeles county department of health services,cross-tree,Los Angeles County Department of Health Services,100917,10,Los Angeles County Department of Health Services,36740,False,False
+the department of managed health care dmhc,cross-tree-fold,The Department of Managed Health Care (DMHC),36762,1,The Department of Managed Health Care (DMHC),104987,True,False
+state department of social services sdss,cross-tree,STATE DEPARTMENT OF SOCIAL SERVICES (SDSS),100840,1,State Department of Social Services (SDSS)-,36796,False,False
+navy department of the commander navy region southwest,cross-tree,"Navy, Department of the, Commander Navy Region Southwest",73352,2,"Navy, Department of the, Commander Navy Region Southwest",36811,False,False
+los angeles county sheriffs association,cross-tree-fold,Los Angeles County Sheriffs Association,36880,1,Los Angeles County Sheriff's Association,64834,True,False
+sequoia hospital,cross-tree-fold,Sequoia Hospital,37391,1,Sequoia Hospital,95144,True,False
+los angeles county district attorney,cross-tree,Los Angeles County District Attorney,100917,12,Los Angeles County District Attorney,37693,False,False
+san francisco district attorney family violence project,cross-tree,San Francisco District Attorney Family Violence Project,37693,1,San Francisco District Attorney Family Violence Project,91577,False,False
+edco disposal,cross-tree,Edco Disposal,39792,1,Edco Disposal,39791,False,False
+city of edco disposal,cross-tree,City of Edco Disposal,39792,1,City of Edco Disposal,39791,False,False
+el centro chamber of commerce,cross-tree-fold,El Centro Chamber of Commerce,109883,4,El Centro Chamber of Commerce,40180,True,False
+electrical contractors assoc of ca,cross-tree-fold,Electrical Contractors Assoc. of CA,40556,1,Electrical Contractors Assoc. of CA,40555,True,False
+chief of police ken james city of emeryville,cross-tree,"Chief of Police Ken James, City of Emeryville",82397,1,"Chief of Police Ken James, City of Emeryville",40977,False,False
+chief of police city of emeryville,cross-tree,"Chief of Police, City of Emeryville",82397,1,"Chief of Police, City of Emeryville",40977,False,False
+hotel employees and restaurant employees union,cross-tree,Hotel Employees and Restaurant Employees Union,51864,1,Hotel Employees and Restaurant Employees Union,41056,False,False
+service employees international union local 1000,cross-tree,"Service Employees' International Union, Local 1000",95230,1,"Service Employees International Union, Local 1000",41071,False,False
+employees international union city of downey,cross-tree,"Employees International Union, City of Downey",95230,1,"Employees International Union, City of Downey",41071,False,False
+public employees retirement system calpers,cross-tree,Public Employees' Retirement System (CalPERS),84311,1,Public Employees' Retirement System (CalPERS),41084,False,False
+california public employees retirement system calpers opposed to version january 5 2012,cross-tree,"California Public Employees' Retirement System (CalPERS), Opposed to version - January 5, 2012",84311,1,"California Public Employees' Retirement System (CalPERS), Opposed to version - January 5, 2012",41084,False,False
+grace end child poverty ca,cross-tree,Grace - End Child Poverty CA,48989,1,GRACE - End Child Poverty CA,41255,False,False
+engineer and scientists of california local 20 ifpte local 20 aflcio,cross-tree,"Engineer and Scientists of California, Local 20, IFPTE Local 20, AFL-CIO",41460,1,"Engineer and Scientists of California, Local 20, IFPTE Local 20, AFL-CIO",41425,False,False
+engineering general contractors assoc of san diego,cross-tree,Engineering General Contractor's Assoc.: of San Diego,41437,1,Engineering General Contractor's Assoc.: of San Diego,41445,False,False
+engineers inc,cross-tree-fold,"Engineers, Inc",56320,1,"Engineers, Inc.",41465,True,False
+executive council of homeowners echo,cross-tree-fold,Executive Council of Homeowners (ECHO),42592,1,Executive Council of Homeowners (ECHO),42593,True,False
+fairfieldsuisun sewer district,cross-tree,Fairfield-Suisun Sewer District,42991,2,Fairfield-suisun Sewer District,42987,False,False
+federation of fly fishers,cross-tree,Federation of Fly Fishers,43771,26,Federation of Fly Fishers,43772,False,False
+the fund for the feminist majority,cross-tree,The Fund for the Feminist Majority,105166,3,The Fund For the Feminist Majority,43888,False,False
+food and beverage association of san,cross-tree,Food and Beverage Association of San,44977,1,Food and Beverage Association of San,44990,False,False
+city of fort brag,cross-tree,City of Fort Brag,100917,1,City of Fort Brag,45319,False,False
+fred diaz city manager city of tracy,cross-tree,"Fred Diaz, City Manager, City of Tracy",100917,1,"Fred Diaz, City Manager, City of Tracy",45747,False,False
+glass molders pottery plastics allied workers international union local 213,cross-tree,"Glass, Molders, Pottery, Plastics & Allied Workers: International Union, Local 213",48034,1,"Glass, Molders, Pottery, Plastics & Allied Workers: International Union, Local 213",48037,False,False
+goodwill industries of the greater east bay,cross-tree-fold,Goodwill Industries of the Greater East Bay,48827,2,Goodwill Industries of the Greater East Bay,48836,True,False
+sandag cosponsor of,cross-tree,"SANDAG, co-sponsor of",90624,1,"SANDAG, co-sponsor of",48939,False,False
+governors office of criminal none justice planning,cross-tree,Governor's Office of Criminal None Justice Planning,48949,1,Governor's Office of Criminal None Justice Planning,76564,False,False
+grassland water district,cross-tree-fold,GRASSLAND WATER DISTRICT,49173,1,Grassland Water District,49171,True,False
+assessorrecordercounty clerk county of san diego ernest j dronenburg jr,cross-tree,"Assessor/Recorder/County Clerk, County of San Diego, Ernest J. Dronenburg, Jr",100917,1,"Assessor/Recorder/County Clerk, County of San Diego, Ernest J. Dronenburg, Jr",49751,False,False
+hanford chamber of commerce,cross-tree-fold,Hanford Chamber of Commerce,109883,1,Hanford Chamber of Commerce,50492,True,False
+happy valley telephone co,cross-tree,Happy Valley Telephone Co,50585,2,Happy Valley Telephone Co,50586,False,False
+health care agency county of orange,cross-tree,"Health Care Agency, County of Orange",100917,1,"Health Care Agency, County of Orange",51179,False,False
+healthy communities access program fresno,cross-tree-fold,Healthy Communities Access Program - Fresno,51415,1,Healthy Communities Access Program - Fresno,51416,True,False
+city of hermosa beach,cross-tree,CITY OF HERMOSA BEACH,100917,7,City of Hermosa Beach,51941,False,False
+california hispanic chambers of commerce,cross-tree,CALIFORNIA HISPANIC CHAMBERS OF COMMERCE,109883,1,California Hispanic Chambers of Commerce,52433,False,False
+historical heritage commission county of santa clara,cross-tree,"Historical Heritage Commission, County of Santa Clara",100917,1,"Historical Heritage Commission, County of Santa Clara",52487,False,False
+hiv womens page u voices,cross-tree,HIV: Women's Page u Voices,52533,1,HIV: Women's Page u Voices,52534,False,False
+hiv womens voices,cross-tree-fold,HIV: Women's Voices,52533,1,HIV: Women's Voices,52534,True,False
+honorable h gregory scharff mayor city of palo alto,cross-tree,"Honorable H. Gregory Scharff, Mayor, City of Palo Alto",100917,1,"Honorable H. Gregory Scharff, Mayor, City of Palo Alto",53139,False,False
+housing authority of the county of monterey,cross-tree-fold,HOUSING AUTHORITY OF THE COUNTY OF MONTEREY,100917,1,Housing Authority of the County of Monterey,53544,True,False
+the impact fund,cross-tree-fold,THE IMPACT FUND,54634,1,The Impact Fund,105364,True,False
+independent automobile dealers association of california,cross-tree-fold,Independent Automobile Dealers Association of California,54867,1,INDEPENDENT AUTOMOBILE DEALERS ASSOCIATION OF CALIFORNIA,54869,True,False
+chief of police city of indio,cross-tree,"Chief of Police, City of Indio",82397,1,"Chief of Police, City of Indio",55082,False,False
+international association for financial planning iafp,cross-tree-fold,INTERNATIONAL ASSOCIATION FOR FINANCIAL PLANNING (IAFP),56166,1,International Association for Financial Planning (IAFP),56167,True,False
+charles brobeck chief of police city of irvine,cross-tree,"Charles Brobeck, Chief of Police, City of Irvine",82397,1,"Charles Brobeck, Chief of Police, City of Irvine",56823,False,False
+assessor county of los angeles jeffrey prang,cross-tree,"Assessor, County of Los Angeles, Jeffrey Prang",100917,1,"Assessor, County of Los Angeles, Jeffrey Prang",57678,False,False
+ventura county board of supervisors,cross-tree,VENTURA COUNTY BOARD OF SUPERVISORS,100917,9,Ventura County Board of Supervisors,58183,False,False
+strateic committee of public employees laborers international union of north america,cross-tree,"Strateic Committee of Public Employees, Laborers' International Union of North America",60978,1,"Strateic Committee of Public Employees, Laborers' International Union of North America",101539,False,False
+lawyers committee for civil rights of the san francisco bay area,cross-tree-fold,LAWYERS' COMMITTEE FOR CIVIL RIGHTS OF THE SAN FRANCISCO BAY AREA,62252,1,Lawyers' Committee for Civil Rights of the San Francisco Bay Area,62251,True,False
+libertarian party of california,cross-tree-fold,Libertarian Party of California,63086,2,Libertarian Party of California,63087,True,False
+little tokyo service center,cross-tree,LITTLE TOKYO SERVICE CENTER,63702,7,Little Tokyo Service Center,63703,False,False
+los angeles commission on assaults against women,cross-tree,LOS ANGELES COMMISSION ON ASSAULTS AGAINST WOMEN,64665,8,Los Angeles Commission on Assaults Against Women,64488,False,False
+los angeles black worker center,cross-tree,Los Angeles Black Worker Center,64559,2,LOS ANGELES BLACK WORKER CENTER,64560,False,False
+los angeles housing law project,cross-tree-fold,Los Angeles Housing Law Project,64955,1,Los Angeles Housing Law Project,64954,True,False
+los angeles county sanitation districts,cross-tree,Los Angeles County Sanitation Districts,92840,1,Los Angeles County Sanitation Districts,65130,False,False
+los angeles superior court,cross-tree,Los Angeles Superior Court,65153,5,Los Angeles Superior Court,102503,False,False
+los angeles times,cross-tree-fold,Los Angeles Times,65162,1,Los Angeles Times,65161,True,False
+san francisco manalive,cross-tree,San Francisco ManAlive,66314,1,San Francisco ManAlive,66313,False,False
+assessorcounty clerkrecorder elections county of san mateo,cross-tree,"Assessor-County Clerk-Recorder & Elections, County of San Mateo",100917,1,"Assessor-County Clerk-Recorder & Elections, County of San Mateo",66965,False,False
+marriott vacation club international,cross-tree-fold,Marriott Vacation Club International,67044,1,Marriott Vacation Club International,67046,True,False
+mayor city of burbank,cross-tree-fold,"Mayor, City of Burbank",100917,1,"Mayor, City of Burbank",67522,True,False
+ashley swearengin mayor city of fresno,cross-tree,"Ashley Swearengin, Mayor, City of Fresno",100917,1,"Ashley Swearengin, Mayor, City of Fresno",67523,False,False
+richard riordan mayor city of los angeles,cross-tree,"Richard Riordan, Mayor, City of Los Angeles",100917,1,"Richard Riordan - Mayor, City of Los Angeles",67525,False,False
+eric garcetti city of los angeles mayor,cross-tree,"Eric Garcetti, City of Los Angeles, Mayor",100917,1,"Eric Garcetti, City of Los Angeles, Mayor",67525,False,False
+hon antonio villaraigosa mayor city of los angeles,cross-tree,"Hon. Antonio Villaraigosa, Mayor, City of Los Angeles",100917,1,"Hon. Antonio Villaraigosa, Mayor, City of Los Angeles",67525,False,False
+honorable jean quan mayor city of oakland,cross-tree,"Honorable Jean Quan, Mayor, City of Oakland",100917,1,"Honorable Jean Quan, Mayor, City of Oakland",67526,False,False
+honorable sam liccardo mayor city of san jose,cross-tree,"Honorable Sam Liccardo, Mayor, City of San Jose",100917,1,"Honorable Sam Liccardo, Mayor, City of San Jose",67531,False,False
+mental health america of los angeles,cross-tree-fold,MENTAL HEALTH AMERICA OF LOS ANGELES,68369,1,Mental Health America of Los Angeles,68336,True,False
+mercury insurance,cross-tree,Mercury Insurance,68490,1,Mercury Insurance,68491,False,False
+the money services roundtable tmsrt,cross-tree-fold,The Money Services Roundtable (TMSRT),70046,1,The Money Services Roundtable (TMSRT),105629,True,False
+mount diablo unified school district,cross-tree,Mount Diablo Unified School District,70755,3,Mount Diablo Unified School District,70756,False,False
+national association of counsel for children,cross-tree-fold,NATIONAL ASSOCIATION OF COUNSEL FOR CHILDREN,72027,1,National Association of Counsel for Children,72026,True,False
+san jose south bay national organization for women,cross-tree,San Jose - South Bay National Organization for Women,72867,1,San Jose - South Bay National Organization for Women,92219,False,False
+california restaurant association,cross-tree,CALIFORNIA RESTAURANT ASSOCIATION,72973,8,California Restaurant Association,104693,False,False
+special needs network,cross-tree,SPECIAL NEEDS NETWORK,99604,3,Special Needs Network,73435,False,False
+nissan,cross-tree,Nissan,74439,1,Nissan,74440,False,False
+norco college,cross-tree,Norco College,74705,3,NORCO COLLEGE,74706,False,False
+north orange county community college district,cross-tree,North Orange County Community College District,75126,3,North Orange County Community College District,75125,False,False
+riverside county superintendent of schools,cross-tree-fold,Riverside County Superintendent of Schools,76679,1,Riverside County Superintendent of Schools,88005,True,False
+office of the state ltc ombudsman,cross-tree,Office of the State LTC Ombudsman,76697,1,Office of the State LTC Ombudsman,76698,False,False
+orange county superior court,cross-tree,Orange County Superior Court,77729,5,Orange County Superior Court,102514,False,False
+the otter project,cross-tree-fold,THE OTTER PROJECT,78206,1,The Otter Project,105765,True,False
+para los niños,cross-tree,Para Los Niños,79649,3,Para los Niños,79650,False,False
+pasadena city college,cross-tree,Pasadena City College,80116,5,Pasadena City College,80117,False,False
+peace and freedom party of california,cross-tree-fold,PEACE AND FREEDOM PARTY OF CALIFORNIA,80502,1,Peace and Freedom Party of California,80515,True,False
+peace officers research association of california,cross-tree-fold,PEACE OFFICER'S RESEARCH ASSOCIATION OF CALIFORNIA,80545,1,Peace Officers Research Association of California,80539,True,False
+personnel management association of aztlan,cross-tree-fold,Personnel Management Association of Aztlan,81090,1,Personnel & Management Association of Aztlan,81079,True,False
+city of scotts valley chief of police,cross-tree,City of Scotts Valley Chief of Police,82397,1,City of Scotts Valley Chief of Police,94339,False,False
+ab nathaniel holmes iii chief of police city of san jacinto,cross-tree,"AB Nathaniel Holmes III, Chief of Police, City of San Jacinto",82397,1,"AB Nathaniel Holmes III, Chief of Police, City of San Jacinto",92023,False,False
+rio hondo college,cross-tree,Rio Hondo College,87720,4,Rio Hondo College,89149,False,False
+riverside sheriffs association,cross-tree,Riverside Sheriffs' Association,95884,1,Riverside Sheriffs' Association,88073,False,False
+saint marys college of california,cross-tree-fold,Saint Mary's College of California,100243,2,Saint Mary's College of California,90122,True,False
+board of supervisors county of san diego,cross-tree,"Board of Supervisors, County of San Diego",100917,1,"Board of Supervisors, County of San Diego",90641,False,False
+san diego city schools,cross-tree,San Diego City Schools,91182,1,San Diego City Schools,91135,False,False
+san francisco citizens initiative for technology and innovation,cross-tree,San Francisco Citizens Initiative for Technology and Innovation,91476,2,San Francisco Citizens Initiative for Technology and Innovation,91475,False,False
+san francisco department on the status of women,cross-tree,San Francisco Department on the Status of Women,91544,4,San Francisco Department on the Status of Women,91543,False,False
+san francisco tenants union,cross-tree-fold,SAN FRANCISCO TENANTS UNION,91851,1,San Francisco Tenants Union,91850,True,False
+board of supervisors county of san mateo,cross-tree,"Board of Supervisors, County of San Mateo",100917,1,"Board of Supervisors, County of San Mateo",92551,False,False
+santa ana college,cross-tree,Santa Ana College,92858,3,Santa Ana College,92859,False,False
+santa clara county office of education,cross-tree,Santa Clara County Office of Education,93152,12,Santa Clara County Office of Education,93094,False,False
+santa clara county superior court,cross-tree-fold,Santa Clara County Superior Court,102511,1,Santa Clara County Superior Court,93169,True,False
+united longterm care workers union seiuultcw,cross-tree,United Long-Term Care Workers Union (SEIU-ULTCW),95230,1,United Long-Term Care Workers Union (SEIU-ULTCW),109751,False,False
+los angeles sheriff,cross-tree,Los Angeles Sheriff,100917,1,Los Angeles Sheriff,95884,False,False
+los angeles county sheriffs department,cross-tree,Los Angeles County Sheriff's Department,100917,12,LOS ANGELES COUNTY SHERIFF'S DEPARTMENT,95884,False,False
+special education local plan area administrators,cross-tree,Special Education Local Plan Area Administrators,99590,1,Special Education Local Plan Area Administrators,99588,False,False
+board of supervisors county of shasta,cross-tree,"Board of Supervisors, County of Shasta",100917,1,"Board of Supervisors, County of Shasta",106087,False,False
+sonoma county board of supervisors,cross-tree,Sonoma County Board of Supervisors,100917,3,SONOMA COUNTY BOARD OF SUPERVISORS,106127,False,False
+yolo county assessor,cross-tree-fold,Yolo County Assessor,100917,1,Yolo County Assessor,116355,True,False
+attorney generals office note see,cross-tree,Attorney General's Office [Note: See],100919,1,Attorney General's Office [Note: See],105736,False,False
+sunset whitney veterinary hospital,cross-tree-fold,Sunset Whitney Veterinary Hospital,102358,1,Sunset Whitney Veterinary Hospital,102355,True,False
+california tash california chapter the association for persons with severe disabilities,cross-tree,California TASH - California Chapter: The Association for Persons with Severe Disabilities,103542,1,California TASH - California Chapter: The Association for Persons with Severe Disabilities,104491,False,False
+the unity council,cross-tree-fold,THE UNITY COUNCIL,110081,1,The Unity Council,106278,True,False
+university of california san francisco,cross-tree,"University of California, San Francisco",109094,1,University of California San Francisco,110205,False,False
+ucsf benioff childrens hospital oakland,cross-tree,UCSF Benioff Children's Hospital Oakland,109099,13,UCSF Benioff Children's Hospital Oakland,109098,False,False
+united africanasian abilities club,cross-tree,United African-Asian Abilities Club,109536,2,United African-Asian Abilities Club,109535,False,False
+united anglers of california,cross-tree,United Anglers of California,109558,3,United Anglers of California,109556,False,False
+united chambers of commerce of the san fernando valley,cross-tree,UNITED CHAMBERS OF COMMERCE OF THE SAN FERNANDO VALLEY,109883,4,United Chambers of Commerce of the San Fernando Valley,109598,False,False
+university of california irvine department of psychiatry,cross-tree-fold,"University of California Irvine, Department of Psychiatry",110187,1,University of California Irvine Department of Psychiatry,110239,True,False
+university of california los angeles,cross-tree,University of California Los Angeles,110187,2,University of California Los Angeles,110199,False,False
+w c cox company,cross-tree-fold,W. C. Cox & Company,113095,1,W. C. Cox & Company,113084,True,False
+whittier college,cross-tree,Whittier College,114861,2,Whittier College,114862,False,False
+american legion chinatown post 628,remove-descendant,American Legion Chinatown Post 628,5162,5,"American Legion, Chinatown Post 628",5162,False,False
+california federation of teachers,within-tree,California Federation of Teachers,4926,1,California Federation of Teachers,4926,False,False
+the association of california health care districts achd,within-tree,The Association of California Health Care Districts (ACHD),8673,1,The Association of California Health Care Districts (ACHD),8673,False,False
+cashpcr with concerns,within-tree,CASHPCR (with concerns),17249,1,CASHPCR (with concerns),17249,False,False
+california probation and correctional association abx1 22,within-tree,California Probation and Correctional Association ABX1 22,20341,1,California Probation and Correctional Association ABX1 22,20341,False,False
+california state sherriffs association,within-tree,California State Sherriffs Association,95806,1,California State Sherriff's Association,95806,False,False
+ca state sheriffs assoc,within-tree,CA State Sheriffs' Assoc,95806,1,CA State Sheriffs Assoc,95806,False,False
+california state sheriffs association cssa,within-tree,California State Sheriffs' Association (CSSA),95806,1,CALIFORNIA STATE SHERIFF'S ASSOCIATION (CSSA),95806,False,False
+mayor todd campbell city of burbank,within-tree,"Mayor Todd Campbell, City of Burbank",100835,1,"Mayor, Todd Campbell, City of Burbank",100835,False,False
+united food commercial workers western states council,within-tree,"United Food & Commercial Workers, Western States Council",109569,1,"United Food & Commercial Workers, Western States Council",109569,False,False
+california state automobile association,cross-tree,California State Automobile Association,4551,3,California State Automobile Association,20989,False,False
+acog district ix,cross-tree,ACOG District IX,4758,1,ACOG - District IX,4755,False,False
+state bar of california family law section,cross-tree,"State Bar of California, Family Law Section",10427,1,State Bar of California Family Law Section,19573,False,False
+california business properties association,cross-tree,California Business Properties Association,15254,5,California Business Properties Association,17520,False,False
+ab california attorneys for criminal justice,cross-tree,AB California Attorneys for Criminal Justice,17312,1,AB California Attorneys for Criminal Justice,15541,False,False
+california advocates for nursing home reform canhr,cross-tree,California Advocates for Nursing Home Reform (CANHR),16509,1,California Advocates for Nursing Home Reform (CANHR),16507,False,False
+california state association of electrical workers,cross-tree,California State Association of Electrical Workers,56175,19,California State Association of Electrical Workers,16977,False,False
+california frommer association cdaa,cross-tree,California (Frommer) Association (CDAA),18561,1,California (Frommer) Association (CDAA),37651,False,False
+ca police chiefs association approve,cross-tree,"CA Police Chiefs' Association - ""Approve",82310,1,"CA Police Chiefs' Association - ""Approve",20264,False,False
+california state employees association,cross-tree-fold,California State Employees Association,21047,1,California State Employees Association,21042,True,False
+california state shriffs association,cross-tree,California State Shriff's Association,95806,1,California State Shriff's Association,21145,False,False
+california state teachers retirement system,cross-tree,California State Teacher's Retirement System,100907,1,California State Teachers' Retirement System,21297,False,False
+fly fishers international,cross-tree-fold,Fly Fishers International,43724,1,Fly Fishers International,44822,True,False
+los angeles county district,cross-tree-fold,Los Angeles County District,100835,1,Los Angeles County District,64690,True,False
+los angeles sheriffs department,cross-tree,Los Angeles Sheriff's Department,100835,1,Los Angeles Sheriffs Department,95803,False,False
+riverside sheriffs association,cross-tree,Riverside Sheriffs' Association,95803,1,RIVERSIDE SHERIFF'S ASSOCIATION,95806,False,False
