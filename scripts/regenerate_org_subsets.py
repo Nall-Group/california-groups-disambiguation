@@ -3,9 +3,11 @@
 Regenerate org_names_for_cleaning CSVs by re-checking all names
 against the current crosswalk.
 
-Names that are now in the crosswalk (regardless of original category) move
-to org_names_in_crosswalk.csv. Names in org_names_in_crosswalk.csv that are
-no longer in the crosswalk move to org_names_not_in_crosswalk.csv.
+A name that is now present in the crosswalk JSON is DROPPED from the routing
+CSVs entirely — it lives in the crosswalk, and the README invariant is that a
+string is either in the crosswalk OR in exactly one of these CSVs, never both.
+(The redundant `org_names_in_crosswalk.csv` mirror was retired 2026-07-09; this
+script no longer reads or writes it.)
 
 Deduplication: names that normalize to the same string (via
 normalize_for_matching) are merged — counts are summed and the most common
@@ -41,9 +43,10 @@ SUBSETS_DIR = PROJECT_ROOT / "org_names_for_cleaning"
 # them would re-check them against the crosswalk and could merge junk back in.
 # They are intentionally left untouched by this script.
 # (The old flat `org_names_conjoined.csv` bucket was retired 2026-07-16 and
-# migrated into the conjoined mapping.)
+# migrated into the conjoined mapping. The `org_names_in_crosswalk.csv` mirror
+# was retired 2026-07-09 — names already in the crosswalk are dropped, not
+# recorded in a redundant CSV.)
 CSV_FILES = {
-    "in_crosswalk":   "org_names_in_crosswalk.csv",
     "not_in_crosswalk": "org_names_not_in_crosswalk.csv",
     "invalid":        "org_names_invalid.csv",
     "partial":        "org_names_partial.csv",
@@ -53,7 +56,6 @@ CSV_FILES = {
 # Priority order for cross-file deduplication: when a normalized name appears
 # in multiple buckets, the highest-priority (lowest index) bucket keeps it.
 BUCKET_PRIORITY = [
-    "in_crosswalk",
     "not_in_crosswalk",
     "individuals",
     "conjoined",
@@ -275,25 +277,17 @@ def main():
     # Buckets after redistribution (lists of (name, count))
     new_buckets = {label: [] for label in CSV_FILES}
 
-    moved_to_crosswalk = 0
-    moved_from_crosswalk = 0
+    # A name that is now present in the crosswalk is dropped from the routing
+    # CSVs entirely (it lives in the JSON — see module docstring). We only keep
+    # names that are NOT in the crosswalk, in whichever bucket they came from.
+    dropped_in_crosswalk = 0
 
     for label, rows in category_rows.items():
         for name, count in rows:
-            in_cw = is_in_crosswalk(name, exact_set, normalized_set)
-
-            if label == "in_crosswalk":
-                if in_cw:
-                    new_buckets["in_crosswalk"].append((name, count))
-                else:
-                    new_buckets["not_in_crosswalk"].append((name, count))
-                    moved_from_crosswalk += 1
+            if is_in_crosswalk(name, exact_set, normalized_set):
+                dropped_in_crosswalk += 1
             else:
-                if in_cw:
-                    new_buckets["in_crosswalk"].append((name, count))
-                    moved_to_crosswalk += 1
-                else:
-                    new_buckets[label].append((name, count))
+                new_buckets[label].append((name, count))
 
     # ----- Deduplicate each bucket -----
     print("Deduplicating...")
@@ -349,20 +343,19 @@ def main():
     sign = "+" if diff_total > 0 else ""
     print(f"  {'TOTAL':<48} {total_before:>7,} {total_after:>7,} {sign}{diff_total:>6,}")
 
-    print(f"\nMoved to in_crosswalk (from other categories):  {moved_to_crosswalk:,}")
-    print(f"Moved from in_crosswalk (to not_in_crosswalk):  {moved_from_crosswalk:,}")
+    print(f"\nDropped (now present in the crosswalk):         {dropped_in_crosswalk:,}")
     print(f"Within-file duplicates merged:                  {total_dedup:,}")
     print(f"Cross-file duplicates removed:                  {total_cross:,}")
 
-    total_removed = total_dedup + total_cross
+    total_removed = dropped_in_crosswalk + total_dedup + total_cross
     if total_removed == 0 and total_after != total_before:
-        print(f"\nWARNING: total names changed from {total_before:,} to {total_after:,} without dedup!")
+        print(f"\nWARNING: total names changed from {total_before:,} to {total_after:,} without any removals!")
     elif total_removed > 0:
         expected = total_before - total_removed
         if total_after != expected:
-            print(f"\nWARNING: expected {expected:,} after dedup, got {total_after:,}")
+            print(f"\nWARNING: expected {expected:,} after removals, got {total_after:,}")
         else:
-            print(f"\nVerified: {total_before:,} - {total_dedup:,} within-file - {total_cross:,} cross-file = {total_after:,} (correct)")
+            print(f"\nVerified: {total_before:,} - {dropped_in_crosswalk:,} in-crosswalk - {total_dedup:,} within-file - {total_cross:,} cross-file = {total_after:,} (correct)")
     else:
         print(f"\nVerified: {total_after:,} names total (unchanged)")
 

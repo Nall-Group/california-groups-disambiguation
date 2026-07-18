@@ -38,7 +38,6 @@ SUBSETS_DIR = PROJECT_ROOT / "org_names_for_cleaning"
 NOT_IN_CROSSWALK_PATH = SUBSETS_DIR / "org_names_not_in_crosswalk.csv"
 
 ALL_CSV_FILES = [
-    "org_names_in_crosswalk.csv",
     "org_names_not_in_crosswalk.csv",
     "org_names_invalid.csv",
     "org_names_partial.csv",
