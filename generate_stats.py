@@ -6,6 +6,7 @@ Run this after making changes to the crosswalk or org name files.
 
 import json
 import csv
+import os
 
 def generate_stats():
     stats = {}
@@ -27,11 +28,16 @@ def generate_stats():
             total += count_children(cluster.get('children', []))
         stats['total_in_crosswalk'] = total
 
-    # 2. Org names not in crosswalk
-    with open('org_names_for_cleaning/org_names_not_in_crosswalk.csv', 'r') as f:
-        reader = csv.reader(f)
-        next(reader)  # skip header
-        stats['not_in_crosswalk'] = sum(1 for row in reader if row)
+    # 2. Org names not in crosswalk (transient leginfo-import handoff; retired as a
+    #    persistent file 2026-07-17, so it may not exist — treat absence as 0).
+    nic_path = 'org_names_for_cleaning/org_names_not_in_crosswalk.csv'
+    if os.path.exists(nic_path):
+        with open(nic_path, 'r') as f:
+            reader = csv.reader(f)
+            next(reader, None)  # skip header
+            stats['not_in_crosswalk'] = sum(1 for row in reader if row)
+    else:
+        stats['not_in_crosswalk'] = 0
 
     # 3. Invalid org names (sum of all invalid files)
     invalid_files = [

@@ -53,6 +53,14 @@ crosswalk. This pass is **pure script — no AI, no narrative handling.**
 
 > ### ⚠️ Reset `org_names_not_in_crosswalk.csv` first (the script APPENDS to it)
 >
+> **Note (retired 2026-07-17):** `org_names_not_in_crosswalk.csv` is now a **transient
+> handoff only** — it is not a committed, persistent artifact. `extract_org_names.py`
+> recreates it (with a header) when it has unmatched orgs; the resolution scan (step 2)
+> drains it to the definite buckets; when empty it can be deleted. `regenerate_org_subsets.py`
+> no longer manages it (it reconciles only the permanent invalidity buckets), and
+> `generate_stats.py` treats a missing file as 0. The reset step below is therefore only
+> needed if a prior run's file is still on disk.
+>
 > `extract_org_names.py` **appends** every new unmatched org to
 > `org_names_for_cleaning/org_names_not_in_crosswalk.csv`. If you re-run without clearing it,
 > a second run's unmatched pile is left sitting on top of the first (stale rows that may no

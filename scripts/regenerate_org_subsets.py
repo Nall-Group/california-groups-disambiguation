@@ -46,8 +46,12 @@ SUBSETS_DIR = PROJECT_ROOT / "org_names_for_cleaning"
 # migrated into the conjoined mapping. The `org_names_in_crosswalk.csv` mirror
 # was retired 2026-07-09 — names already in the crosswalk are dropped, not
 # recorded in a redundant CSV.)
+# org_names_not_in_crosswalk.csv is intentionally NOT managed here. It was
+# retired as a managed bucket 2026-07-17: it is the leginfo import's TRANSIENT
+# handoff — extract_org_names.py writes unmatched orgs to it and the resolution
+# scan drains them to the definite buckets below. This script only reconciles
+# the permanent invalidity buckets against the crosswalk.
 CSV_FILES = {
-    "not_in_crosswalk": "org_names_not_in_crosswalk.csv",
     "invalid":        "org_names_invalid.csv",
     "partial":        "org_names_partial.csv",
     "individuals":    "org_names_that_are_actually_individuals.csv",
@@ -56,7 +60,6 @@ CSV_FILES = {
 # Priority order for cross-file deduplication: when a normalized name appears
 # in multiple buckets, the highest-priority (lowest index) bucket keeps it.
 BUCKET_PRIORITY = [
-    "not_in_crosswalk",
     "individuals",
     "conjoined",
     "partial",

@@ -278,10 +278,15 @@ def main():
 
     print(f"Output written to {OUTPUT_PATH}")
 
-    # Route unmatched orgs to org_names_not_in_crosswalk.csv
+    # Route unmatched orgs to org_names_not_in_crosswalk.csv. This is a TRANSIENT
+    # handoff to the resolution scan (the file was retired as a persistent artifact
+    # 2026-07-17), so recreate it with a header if it isn't there.
     if new_unmatched:
+        new_file = not NOT_IN_CROSSWALK_PATH.exists()
         with open(NOT_IN_CROSSWALK_PATH, "a", encoding="utf-8", newline="") as f:
             writer = csv.writer(f)
+            if new_file:
+                writer.writerow(["org_name", "count"])
             for org_name, count in new_unmatched:
                 writer.writerow([org_name, count])
         print(f"\nAppended {len(new_unmatched)} new unmatched orgs to {NOT_IN_CROSSWALK_PATH}")
