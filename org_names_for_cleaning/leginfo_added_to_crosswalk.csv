@@ -19,7 +19,6 @@ The Climate Reality Project Orange County Chapter,26
 "Office of the Mayor, City of Los Angeles",12
 "Office of the Sheriff, County of San Bernardino",12
 "Sheriff Leroy D. Baca, County of Los Angeles",12
-"The Climate Reality Project, Orange County Chapter",12
 Ventura & Santa Barbara Counties Chamber of Commerce,12
 "Board of Education, City of Los Angeles",10
 Alliance Chamber of Commerce,20
@@ -66,13 +65,13 @@ California State Sheriffs Association (if piloted outside of San Francisco),8
 "Chief of Police Susan Jones, City of Healdsburg",8
 "Chief of Police William Bratton, City of Los Angeles",8
 California Association of County Veterans Service Officers,8
-"Vietnam Veterans of America - California State Council",8
+Vietnam Veterans of America - California State Council,8
 "Mayor Farrah N. Khan, City of Irvine",8
 "Mayor Gavin Newsom, City of San Francisco",8
 "Mayor Jerry Dyer, City of Fresno",8
 "Mayor, City of Burbank",8
 "Planning and Redevelopment, City of Redwood City",8
-"Region 8 State Council of the United Food and Commercial Workers",8
+Region 8 State Council of the United Food and Commercial Workers,8
 "Sheriff, County of Los Angeles",8
 "Chief of Police, City of Fresno",7
 "District Attorney, County of Ventura",7
@@ -234,13 +233,11 @@ East Valley Indivisible,4
 El Dorado Hills Indivisible,4
 Elmwood Indivisible,4
 "Elvin G. Miali, Chief of Police, City of Fountain Valley",4
-"Engineers & Scientists of California, Local 20 IFPTE",4
 Environmental Quality Committee,4
 "Estate Planning, Trust & Probate Law Section of the State Bar of California",4
 Euclid Indivisible,4
 Fremont Indivisible,4
 "GRP Resources Agency, Department of Conservation",4
-Grace - End Child Poverty CA,4
 Hope School District District,4
 City of Sacramento,4
 International Franchise Association in opposition,4
@@ -280,8 +277,8 @@ Manteca Indivisible,4
 "Mayor William Alexander, City of Rancho Cucamonga",4
 "Mayor, City of Hawaiian Gardens",4
 "Mayor, City of Pomona",4
-"Media City Burbank Indivisible",4
-"Mendocino Indivisible",4
+Media City Burbank Indivisible,4
+Mendocino Indivisible,4
 Mid-Peninsula Indivisible,4
 Monterey Indivisible,4
 "Mike Skogh, Chief of Police, City of Los Alamitos",4
@@ -472,7 +469,7 @@ League of California Cities,3
 "Honorable Johan Klehs, member, Board of Equalization",3
 "Howard, Weil, Labouisse, Friedriches, Inc",3
 "Human Services Department, County of Siskiyou",3
-"International Association of Business Communicators (Sacramento Valley Chapter)",3
+International Association of Business Communicators (Sacramento Valley Chapter),3
 "Janelle Kellman, Mayor, City of Sausalito",3
 "John Jansons, City Manager, City of Kerman, CA",3
 "John M. Simpson, Chief of Police, City of Marysville",3
@@ -481,7 +478,6 @@ League of California Cities,3
 "Kathleen Losekoot, President, California Women in Timber",3
 L.A. Affiliate of the National Association of Counsel for Children,3
 "L.A. County Probation Officers Union, AFSCME, Local 685",3
-"LA County Probation Officers Union, AFSCME, Local 685",3
 "LA Probation Union, AFSCME, Local 685",3
 LAFCO of Butte,3
 LAFCO of Fresno,3
@@ -491,9 +487,7 @@ LAFCO of Nevada,3
 "Larry J. Shaw, Chief of Police, City of Brentwood",3
 "Larry Profitt, Chief of Police, City of Rio Vista",3
 Los Angeles County Probation Officers Union AFSCEME Local 685,3
-Los Angeles County Probation Officers Union Local 685,3
 "Los Angeles County Probation Officers Union, Local 685, AFSCME",3
-"Los Angeles County Probation Officers' Union, Local 685",3
 City of Los Angeles,3
 Marin Institute,3
 "Louie Arrollo, former Mayor, City of Ceres",3
@@ -568,7 +562,6 @@ Association of California Life and Health Insurance Companies,3
 America's Health Insurance Plans,3
 "Rauscher Pierce Refnses, Inc",3
 "Ray Waller, Mayor, City of Etna",3
-"Region 8, State Council of the United Food and Commercial Workers",3
 Region and States Council of the United Food and Commercial Workers,3
 "Rent Stabilization Board, City of Berkeley",3
 "Representative of the President of the United States for USA at Hannover 2000, Inc",3
@@ -624,7 +617,7 @@ Wessman Development Company: GOVERNOR'S VETO MESSAGE,3
 "Western University of Health Services, Center for Disability Issues and Health Professions",3
 "William Mintline, Chief of Police, City of Colfax",3
 "Willis Casey, Chief of Police, City of Pittsburg",3
-"Women for: California Women's Law Center",3
+Women for: California Women's Law Center,3
 Glasforms Inc,3
 Consumers Union,3
 TURN - The Utility Reform Network,3
@@ -662,7 +655,6 @@ California Coastkeeper Alliance,2
 "California Labor Federation, AFL-CIO",2
 "Engineers & Scientists of California, Local 20, IFPTE, AFL-CIO",2
 American Property Casualty Insurance Association (APCIA),2
-League of California Cities,2
 Regional Council of Rural Counties,2
 California Chapter of the American Planning Association,2
 California State Association of Counties,2
@@ -679,7 +671,6 @@ Alliance of Los Angeles Inner-City Brokers & Agents,2
 "Alliance of Nurses for Healthy Environments, in opposition",2
 Alliance of Venture Chamber of Commerce,2
 Depression and Bipolar Support Alliance,2
-Media Alliance,2
 Alpha Fund [oppose],2
 America's Health Insurance Plans (AHIP) are,2
 American Adoption Congress,2
@@ -794,8 +785,8 @@ Southern California Golf Association,2
 "Biocom, in support",2
 "Board of Commissioners Humboldt Bay Harbor, Recreation and Conservation District",2
 "C. Robert Jameson, Presiding Judge, Superior Court, County of Orange",2
-"CA Assn. of Sheet Metal & Air Conditioning Contractors",2
-"CA Federation of the Arts [previous version of bill]",2
+CA Assn. of Sheet Metal & Air Conditioning Contractors,2
+CA Federation of the Arts [previous version of bill],2
 "Bob McDonell, Chief of Police, Newport Beach Police Department (Prior, related but different version: California Council of Police & Sheriffs)",2
 "Brady Campaign to Prevent Gun Violence, Chapter Alameda County",2
 "Brady Campaign to Prevent Gun Violence, San Mateo",2
@@ -1052,11 +1043,9 @@ City Police Department of Torrance,2
 City of Alameda,2
 City of Anaheim,2
 City of Azusa,2
-City of Ceres,2
 City of Hawthorne,2
 City of Lakewood,2
 City of Lathrop,2
-City of Modesto,2
 City of Ojai,2
 City of Ontario,2
 City of Pinole,2
@@ -1071,7 +1060,6 @@ City of Kerman,2
 City of Laguna Hills,2
 City of Lemoore,2
 City of Mammoth Lakes,2
-City of Norco,2
 City of Orange Cove,2
 City of Reedley,2
 City of Selma,2
@@ -1121,13 +1109,10 @@ City of Manteca,2
 City of Montclair,2
 City of Monterey Park,2
 City of Oakdale,2
-City of Oceanside,2
-City of Palm Springs,2
 City of Pismo Beach,2
 City of Placentia,2
 City of Pleasant Hill,2
 City of Redondo Beach,2
-City of Roseville,2
 City of San Leandro,2
 City of Santa Ana,2
 City of San Diego,2
@@ -1178,7 +1163,6 @@ Nevada County Clerk,2
 Del Norte County Clerk,2
 Alameda County Clerk,2
 Los Angeles County Clerk,2
-Santa Barbara County Fire Department,2
 City of Huntington Beach,2
 City of Long Beach Fire Department,2
 County Sheriff's Office of Alameda,2
@@ -1237,7 +1221,6 @@ County of City of Walnut Creek,2
 County of Del Norte Service,2
 County of Los Angeles ( obtained from AB 1447 analysis),2
 County of Los Angeles_Dept. of Mental Health: Patients' Rights Office,2
-County of Sacramento,2
 City of Buena Park,2
 DOVES- Domestic Violence Education,2
 "Daniel D. Farell, Fire Chief, City of Oakland",2
@@ -1252,7 +1235,6 @@ Cypress-Freeway Replacement Advisory,2
 "Dean James A. Liontas, Peninsula College of Law",2
 "Department of Building and Safety, County of Tuolumne",2
 "Department of Business Assistance and Housing Development, City of Oroville",2
-California Association of County Veterans Service Officers,2
 Military Officers Association of America,2
 "Department of Community Development, City of Huntington Beach",2
 Department of Consumer Affairs (South San Francisco),2
@@ -1290,7 +1272,6 @@ San Bernardino County District Attorney's Office,2
 Shasta County District Attorney's Office,2
 Tehama County District Attorney,2
 Trinity County District Attorney's Office,2
-Ventura County District Attorney,2
 Yuba County District Attorney's Office,2
 Los Angeles County District Attorney,2
 San Diego County District Attorney,2
@@ -1316,7 +1297,6 @@ California Affordable Housing Coalition for Persons with Developmental Disabilit
 California Agricultural Commissioners & Sealers Assoc,2
 California Agricultural Commissioners and (Matthews),2
 California Air Pollution Control Officers Association,2
-City of Anaheim,2
 California Alliance Against Domestic Violence The,2
 California Alliance Against Support Violence,2
 California Alliance for Consumer Protection [to the bill as introduced],2
@@ -1357,7 +1337,6 @@ Bill Gorman & Associates,2
 California Association for the Education of Young Children,2
 California Community Colleges,2
 California Board of Surety Agents,2
-California Building Officials,2
 CA Coalition for Rural Housing,2
 California Car & Truck Renting & Leasing of California,2
 California District Attorneys' Association (probation revocation provisions only),2
@@ -1367,10 +1346,10 @@ California Vaccine Awareness,2
 Planned Parenthood Affiliates of California,2
 Francisco -Machado American Legion War Memorial Commission,2
 "Frank Roberts, Mayor, City of Lancaster",2
-"Friends Committee on Legislation (THIS ANALYSIS REFLECTS AUTHOR'S AMENDMENTS TO BE OFFERED IN)",2
-"Friends Committee on Legislation (specifically regarding pilot projects and legislative intent language)",2
+Friends Committee on Legislation (THIS ANALYSIS REFLECTS AUTHOR'S AMENDMENTS TO BE OFFERED IN),2
+Friends Committee on Legislation (specifically regarding pilot projects and legislative intent language),2
 "Friends of the Ballona Wetlands, in support of the bill",2
-"Fund (MALDEF): Statecraft",2
+Fund (MALDEF): Statecraft,2
 GALA - San Luis Obispo,2
 "GRP Business, Transportation and Housing Agency",2
 "Gabriel Quinto, Mayor, City of El Cerrito",2
@@ -1393,7 +1372,6 @@ Gray Panthers of Long Beach,2
 Gray Panthers of South Bay-Redondo Beach,2
 Gray Panthers of Sacramento,2
 "Gregory D. Totten, District Attorney, County of Ventura",2
-City of Gridley,2
 City of Healdsburg,2
 City of Lodi,2
 City of Lompoc,2
@@ -1402,7 +1380,6 @@ Harbor Association of Industry and Commerce (committee),2
 "Health Services Agency, County of San Mateo",2
 "Health Services Department Mental Health Division, Martinez California",2
 "Hemet, City of",2
-City of Berkeley,2
 "Hon. Ashley Swearengin, Mayor, City of Fresno",2
 "Hon. Jan Scully, District Attorney, County of Sacramento",2
 "Hon. Jerry Sanders, Mayor, City of San Diego",2
@@ -1435,7 +1412,6 @@ Inc. California-Nevada Snowmobile Association,2
 Inc. Communities in Schools,2
 Inc. Outdoor Sportsmen's Coalition of California,2
 Inc. Veterans Affiliated Council,2
-California Building Industry Association,2
 National Association of Independent Insurers,2
 Association of California Insurance Companies (ACIC),2
 Interested: International Association for Financial Planning,2
@@ -1479,8 +1455,6 @@ LAFCO of Sonoma,2
 City of Lake Elsinore,2
 Las Virgenes Municipal Water District,2
 "Laura Parmer-lohan, Mayor, City of San Carlos (FORMER)",2
-League of California Cities,2
-California State Association of Counties,2
 League of California Cities (initial opposition),2
 "League of California Cities, in opposition",2
 "Lee Brand, Mayor, City of Fresno",2
@@ -1492,20 +1466,15 @@ Miller Brewing Company,2
 Los Angeles Board of Harbor Commissioners - Port of Los Angeles,2
 "Los Angeles College of Chiropractic, Department of Biochemistry and Nutrition",2
 "Los Angeles County Deputy Probation Officers Union, AFSCME, Local 865",2
-"Los Angeles County Probation Department Union, Local 685",2
 Los Angeles County Probation Officers Union AFSME Local 685,2
 "Los Angeles County Probation Officers' Union AFCSME, Local 685",2
 "Los Angeles County Probation Union, Local 685",2
-Los Angeles County Probation Union. AFSCME Local 685,2
 "Los Angeles Deputy Probation Officers, AFSCME Local 685",2
 Los Angeles Gay and Lesbian Community Services Center,2
 Los Angeles Lakers Basketball Team,2
 "Los Angeles Probation Department Union, AFSCMA, Local 685",2
-"Los Angeles Probation Union AFSCME, Local 685",2
-City of Los Angeles,2
 "Mark Beil Accountancy, Sacramento",2
 Mayfair Plastics and Mayfair Packaging,2
-County of Los Angeles,2
 San Diego Gas & Electric,2
 Los Bomberos,2
 Los Angeles Fire Department,2
@@ -1634,7 +1603,7 @@ California Life Sciences Association,2
 "Office of the City Attorney, City of San Diego",2
 "Office of the City Prosecutor, City of Long Beach",2
 "Office of the Mayor, Antonio R. Villaraigosa, City of Los",2
-"Pacific Coast Renderers Association",2
+Pacific Coast Renderers Association,2
 Los Angeles County Board of Supervisors,2
 Los Angeles County Workforce Investment Board,2
 Southern California Workforce Partnership,2
@@ -1742,7 +1711,6 @@ Housing Authority of the County of Mendocino,2
 Housing Authority of the County of Fresno,2
 Housing Authority of the County of Kern,2
 California District Attorneys Association,2
-California Police Chiefs Association,2
 "Public Works Department, City of Santa Cruz",2
 Police Department of Tulare,2
 Police Department of Tustin,2
@@ -1832,7 +1800,6 @@ Institute for Higher Education Leadership and Policy,2
 City of Redding,2
 Southern California Public Power Authority,2
 O'Connor Hospital,2
-County of Santa Clara,2
 "Registrar of Voters, County of Riverside",2
 Los Angeles County Employee Relations Commission (ERCOM),2
 Los Angeles City Employee Relations Board (ERB),2
@@ -1880,7 +1847,6 @@ California Farm Bureau Federation,2
 SPONSOR! CA Association of RealtorsCA,2
 County of Del Norte,2
 County of San Joaquin,2
-County of San Luis Obispo,2
 California Institute for Regenerative Medicine,2
 University of California,2
 Sacramento Association of Legal Assistants,2
@@ -1898,7 +1864,6 @@ County of San Bernardino,2
 San Joaquin Valley Regional Transportation Planning Agencies,2
 San Francisco Unified School District,2
 California Taxpayers Association,2
-County of Santa Barbara,2
 "County of Santa Clara, Board of Supervisors",2
 Santa Clara County Office of Education,2
 First 5 Santa Clara County,2
@@ -1914,7 +1879,6 @@ Service Employees International Union Marin Solano Stanislaus Tehama,2
 "Service Employees International Union, one of the sponsors of",2
 Service Employees Union (SEIU),2
 "Services Employees International Union California State Council (SEIU California), sponsor of the bill",2
-California Chamber of Commerce,2
 California Restaurant Association,2
 California Hotel and Lodging Association,2
 California Farm Bureau,2
@@ -1977,13 +1941,9 @@ Sonora Community Hospital,2
 "Southern California Gas Company, unless amended",2
 "Southern California Public Power Authority (comprising the cities of Anaheim, Azusa, Banning, Burbank, Colton, Glendale, Pasadena, Riverside, Vernon, the Imperial Irrigation District, and the Los Angeles Department of Water and Power)",2
 "Southern Wine and Spirits of America, Inc",2
-County of San Joaquin,2
-County of Yuba,2
 "St. Mary Medical Center, San Francisco",2
 "Stan Knee, Chief of Police, City of Garden Grove",2
 "Stan Tish, Chair of Assessment Appeals Board I, County of Santa Clara",2
-California State Association of Counties,2
-California Taxpayers Association,2
 "State Bar of California, Family Section",2
 "State Bar, Committee on of Justice",2
 "State Building and Construction Trades Council, AFL-CIO, a co-sponsor of the bill",2
@@ -2017,26 +1977,18 @@ Contra Costa Humane Society,2
 The Assembly Health Committee,2
 The Automobile Club of Southern California Association,2
 Board of Architectural Examiners,2
-Department of Consumer Affairs,2
-California Association of Health Plans,2
-Association of California Life and Health Insurance Companies,2
-America's Health Insurance Plans,2
-Natural Resources Defense Council,2
 Sierra Club,2
 "Portland Energy Conservation, Inc.",2
 Proven Alternatives,2
 SYCOM Enterprises,2
 "Board of Supervisors, County of Santa Cruz",2
-California Building Industry Association,2
 San Diego Gas and Electric Company,2
 Southern California Edison Company,2
 "Richard F. Thomas, Chief of Police, City of Buenaventura",2
-"Richard Riordan - Mayor, City of Los Angeles",2
 Riley Center Services for Battered Women and their Children,2
 "Rincon Band of Luiseño Indians, sponsor of this measure",2
 Rio Hondo AIDS Project,2
 City of Riverside,2
-City of Roseville,2
 Rowland Water District,2
 Robbie Vierra-Lambert Spinal Cord Organization for Regaining Excellence,2
 "Robert Blankenship, Chief of Police, City of Redding",2
@@ -2052,19 +2004,10 @@ California Workforce Development Board,2
 "The Honorable Jimmie R. Yee, Mayor, City of Sacramento",2
 "The Honorable Joe Vinatieri, Mayor, City of Whittier",2
 "The California Right to Life, Committee, Inc. (CRL)",2
-California State Association of Counties,2
 County Welfare Directors Association of California,2
 The Center for Public Interest Law - support,2
 California Energy Commission,2
-Natural Resources Defense Council,2
-Sierra Club,2
-"Portland Energy Conservation, Inc.",2
-Proven Alternatives,2
-SYCOM Enterprises,2
 County of Santa Cruz Board of Supervisors,2
-California Building Industry Association,2
-San Diego Gas and Electric Company,2
-Southern California Edison Company,2
 National Association of Energy Efficient Mortgage Service Companies,2
 "The Honorable Paul Boyer, Mayor, City of Farmersville",2
 "The Honorable Willie L. Brown, Mayor, City of San",2
@@ -2118,9 +2061,7 @@ United Caltrans Tenant Association (UCTA) are,2
 Victor Miceli Law Library (Riverside),2
 "W. Douglas Franks, Chief of Police, City of Tustin",2
 "W.D. ""Bill"" Stearns, Chief of Police, City of Seal Beach",2
-Sierra Club,2
 Women For,2
-City of Berkeley,2
 City and County of San Francisco,2
 Californians Against Waste,2
 "Water and Power Department, City of Pasadena",2
@@ -2131,7 +2072,6 @@ Western Mobilehome Association (sponsor) Council,2
 Westwood South of Santa Monica Blvd. Homeowner Association,2
 California Mobile Home Park Owners Alliance,2
 Environmental Defense Fund,2
-Natural Resources Defense Council,2
 Women's Foundation of California,2
 Women's Policy Institute,2
 "Workers of America AFSCME Local 3930/AFL-CIO ""Studies have shown",2
@@ -2180,8 +2120,6 @@ the Purchaser Business Group on Health,2
 United Food and Commercial Workers Union Western States Council,2
 "American College of Obstetricians and Gynecologists, District IX",2
 American Civil Liberties Union,2
-California Chamber of Commerce,2
-TechNet,2
 (A) California District Attorneys Association,1
 "(Equipment Dealers): Berchtold Equipment Co. (Bakersfield, Delano and Santa Maria)",1
 1.ANAC,1
@@ -2196,7 +2134,6 @@ Federation of Tax Administrators,1
 110 Tower Ltd. Inc,1
 California Federation of Teachers,1
 California Teachers Association,1
-California Nurses Association,1
 28th District Agricultural Association,1
 380 LLC Affordable Development,1
 Orange County University of Law,1
@@ -2212,7 +2149,6 @@ HemaCare,1
 Department of Finance,1
 CompTIA,1
 CalChamber,1
-TechNet,1
 A House Call Pet Vet,1
 A Voice For Choice Advocacy,1
 National Vaccine Information Center,1
@@ -2225,19 +2161,11 @@ California Rangeland Trust,1
 California Farmland Trust,1
 California Climate and Agriculture Network,1
 American Civil Liberties Union of California,1
-Western Center on Law & Poverty,1
 Disability Rights California,1
 California Bankers Association,1
 Silicon Valley Leadership Group,1
 CalTax,1
-Civil Justice Association of California,1
 Internet Association,1
-Silicon Valley Leadership Group,1
-TechNet,1
-CalChamber,1
-TechNet,1
-Internet Association,1
-Civil Justice Association of California,1
 Greater Riverside Chambers of Commerce,1
 Greater Stockton Chamber of Commerce,1
 Valley Industry & Commerce Association,1
@@ -2246,37 +2174,17 @@ Western Center on Law and Poverty,1
 Housing California,1
 ACLU California Action,1
 California Retailers Association,1
-California Restaurant Association,1
-California Chamber of Commerce,1
-TechNet,1
-California Chamber of Commerce,1
 California Newspaper Publishers Association,1
 Association of Magazine Media,1
-TechNet,1
-Internet Association,1
-California Chamber of Commerce,1
 Consumer Technology Association,1
-Civil Justice Association of California,1
 Computer & Communications Industry Association,1
-California Chamber of Commerce,1
-TechNet,1
 National Organization for Women,2
 Common Sense Kids Action,1
 Consumer Federation of California,1
 Privacy Rights Clearinghouse,1
-TechNet,1
-California Chamber of Commerce,1
 Entertainment Software Association,1
-California Manufacturers & Technology Association,1
-American Chemistry Council,1
-California Chamber of Commerce,1
-California Chamber of Commerce,1
-TechNet,1
-ACLU California Action,1
 Consumer Federation of America,1
-Electronic Frontier Foundation,1
 California Association of Joint Powers Authorities,1
-League of California Cities,1
 Avis,1
 Budget,1
 Enterprise Holdings,1
@@ -2287,21 +2195,15 @@ California Special Districts Association,2
 Reclaim Our Power Utility Justice Campaign,1
 Earthjustice,1
 Sierra Club California,1
-Leadership Counsel for Justice and Accountability,1
 Center for Biological Diversity,1
-Natural Resources Defense Council,1
 California Council of Community Behavioral Health Agencies,1
-Disability Rights California,1
 County Behavioral Health Directors Association,1
 California Catholic Conference,1
 California Partnership to End Domestic Violence,1
-California Police Chiefs Association,1
 California Public Defenders Association,1
 Chief Probation Officers Association,1
-Peace Officers Research Association of California,1
 Small Business Finance Association,1
 Electronic Transactions Association,1
-California Association of Health Plans,1
 Blue Cross of California,1
 Health Net,1
 A&C Healthcare Services,1
@@ -2339,16 +2241,13 @@ Access Reproductive Justice,1
 Black Women for Wellness Action Project,1
 NARAL Pro-Choice California,1
 National Health Law Program,1
-Planned Parenthood Affiliates of California,1
 Association of California Life & Health Insurance Companies,1
-America's Health Insurance Plans,1
 "ACLU (NOTE: SEE COMMENT 13 FOR THE AMENDMENT ADDED TO THIS BILL ON MAY 1, 2003)",1
 ACLU (THIS ANALYSIS REFLECTS AUTHOR'S AMENDMENTS TO BE OFFERED IN),1
 ACLU (regarding background checks),1
 ACLU (with concerns),1
 "ACLU California Action, in support",1
 AFL-CIO,1
-SEIU California,1
 "AIDS Coordinator's Office, Department of Disability, City of Los Angeles",1
 AIDS Healthcare Foundation,1
 American College of Physicians - California Chapter,1
@@ -2364,9 +2263,6 @@ Kern Ross Estates,1
 Monterey Bay Unified APCD,1
 Planning and Conservation League,1
 San Diego County APCD,1
-County of San Diego,1
-Sierra Club,1
-City and County of San Francisco,1
 County of Stanislaus,1
 "Academy of California Adoption (sponsor) Lawyers, as introduced",1
 Academy of California Adoption Lawyers-as introduced,1
@@ -2375,7 +2271,6 @@ AccentCare [24 members],1
 "Access California, in opposition",1
 Acclamation Insurance Management Services [as amended],1
 Chief Probation Officers of California,1
-California State Association of Counties,1
 Action for Animals,1
 Adams and Anderson Insurance Brokers,1
 American Society for the Prevention of Cruelty to Animals,1
@@ -2455,7 +2350,6 @@ American Capital Management Corp,1
 American Civil Liberties Union ( as introduced ) (THIS ANALYSIS REFLECTS AUTHOR'S AMENDMENTS TO BE OFFERED IN),1
 American Civil Liberties Union (As amended April 13),1
 American Civil Liberties Union (NOTE: SEE COMMENTS 13-15 FOR POSSIBLE PROPOSED AUTHOR'S),1
-American Civil Liberties Union (as introduced) (THIS ANALYSIS REFLECTS AUTHOR'S AMENDMENTS TO BE OFFERED IN),1
 American Civil Liberties Union (concerned),1
 "Alzheimer's Association, California Council [June 4, 2012]",1
 "Alzheimer's Association, the sponsor of the bill",1
@@ -2499,7 +2393,6 @@ American Insurance Association (prior version),1
 Amos Temple Christian Methodist Episcopal Church,1
 Amusement & Music Operators Association,1
 "Andrew G. Pasmant, City Manager, City of West Covina",1
-Natural Resources Defense Council,1
 Occidental Power,1
 Palmdale Redevelopment Agency,1
 "Angelica Salas, Executive Directoru, Coalition for Humane",1
@@ -2575,8 +2468,6 @@ Beyond Plastic,1
 "Ramiz Dashdamirov, Acting Consul General of the Republic of Azerbaijan",1
 California Carbon Capture Coalition,1
 Western States Petroleum Association,1
-County of San Joaquin,1
-California Municipal Utilities Association,1
 Imperial Irrigation District,1
 Farmworkers Institute of Education & Leadership Development,1
 California Health+ Advocates,1
@@ -2593,13 +2484,11 @@ GENup,1
 CA Fence Contractors' Association,1
 CA State Association of Counties,1
 "CA State Firefighters' Association, Inc",1
-City of Fremont,1
 City of Susanville,1
 City of Walnut Creek,1
 Engineering Contractors' Association,1
 Network Cabling,1
 The McIntyre Company,1
-Urban Counties Caucus,1
 Vista Steel Company,1
 "Sherman Block, Sheriff - County of Los Angeles",1
 City Council of the City of National City,1
@@ -2634,21 +2523,16 @@ Ass'n for Children for Enforcement of Support,1
 "Assessor/Recorder/County Clerk, County of San Diego, Ernest J. Dronenburg, Jr",1
 "Assistant District Attorney, County of Santa Cruz",1
 Assn. Surveyors of California,1
-Assn. for Children for Enforcement of Support,1
 "Assessor, County of San Luis Obispo",1
 "Associated General Contractors, (TORLAKSON)",1
-California Peace Officers Association,1
-California Police Chiefs Association,1
 Howard Jarvis Taxpayers Association,1
 Association of Club Executives,1
 California Apartment Association,1
-California Association of Realtors,1
 California Waterfowl Association,1
 California Outdoor Heritage Alliance,1
 Assn. of Monterey Bay Area Governments,1
 Assn. of Southern California Energy Programs,1
 Associated General Contractors of California,1
-City of Los Angeles,1
 Richardson Insurance Services,1
 "Bartz Construction, Inc.",1
 Assoc. of CA School Administrators Inyo Placer Plumas Tehama if amended,1
@@ -2657,12 +2541,10 @@ Assoc. of CA Water Agencies [SPONSOR],1
 Assoc. of CA Water Agencies/Joint Powers Insurance Authority,1
 Assoc. of California Hospital Districts,1
 Association of Glenn County Taxpayers,1
-City of Norco,1
 Assocaition of California Water Agencies (Unless Am),1
 Associated Builders and Contractors of California are,1
 Associated Builders and Contractors of California writing,1
 Associated Builders and Contractors of California,1
-City of Lakewood,1
 Costco Wholesale,1
 Wal-Mart,1
 "Associated Builders and Contractors of California, Inc, San",1
@@ -2679,8 +2561,6 @@ Association of California Insurance Companies (prior to proposed),1
 Association of California Insurance Companies (to the version in print),1
 Association of California Insurance Companies,1
 State Farm Insurance,1
-Association of California Water Agencies,1
-County of Imperial,1
 Salton Sea Authority,1
 San Diego County Water Authority,1
 "Association of Cancer Patients, San Diego",1
@@ -2694,37 +2574,23 @@ California Assessors' Association,1
 Southwest Airlines,1
 California Independent Telecommunications Companies,1
 California Communications Association,1
-California Chamber of Commerce,1
-California Manufacturers & Technology Association,1
-California Bankers Association,1
 Bay Area Air Quality Management District,1
 Monterey Bay Unified Air Pollution Control Officers Association,1
 Bay Area Teleport,1
 CalTel,1
 Golden State Newspaper Association,1
-California Chamber of Commerce,1
 California Business Properties Association,1
 "Association, California State Sheriffs",1
-California Water Association,1
-City and County of San Francisco,1
-City of Hemet,1
 Consumer Action,1
-Consumers Union,1
 City of Larkspur,1
-City of Oakland,1
 City of St. Helena,1
-City of San Jose,1
 City of Los Altos,1
 City of Mountain View,1
 City of Palo Alto,1
 City of Norwalk,1
 Clean Power Campaign,1
-City of San Diego,1
 Southern California Edison,1
 "Association, San Joaquin Valley Unified Air Pollution",1
-California Federation of Teachers,1
-California Teachers Association,1
-California Nurses Association,1
 California Public Utilities Commission,1
 "Atascadero, City of",1
 San Luis Obispo County Board of Supervisors,1
@@ -2761,29 +2627,17 @@ State Board of Equalization,1
 County of Alpine,1
 Baker Commodities Inc. & 50 employees,1
 City of Bakersfield,1
-City of Bakersfield,1
 Beloit Property Managers Association,1
-City of Bakersfield,1
-California Chamber of Commerce,1
-City of Bakersfield,1
 City of Chino Hills,1
-City of El Cajon,1
 City of El Centro,1
 City of Encinitas,1
 City of Exeter,1
 City of Grass Valley,1
 City of La Mesa,1
 City of Lindsay,1
-City of Hemet,1
-City of Merced,1
-City of Norwalk,1
-City of Pacific Grove,1
 City of Redlands,1
-County of Riverside,1
 City of Santa Cruz,1
 City of Santa Fe Springs,1
-City of Victorville,1
-City of Walnut Creek,1
 Calipatria Police Department,1
 Banning-Cabazon District,1
 Coalition on the Environment and Jewish Life of Southern California,1
@@ -2802,8 +2656,6 @@ BayTalk Computer Users Group (for disabled computer users - most are visually im
 Bear City Animal Hospital,1
 City of Beaumont,1
 City of Blythe Police Department,1
-City of Beaumont,1
-California Special Districts Association,1
 D-Q University,1
 Bell Police Department,1
 "Ben Benavidez, President, Fresno",1
@@ -2821,16 +2673,12 @@ Bird & Pet Clinic,1
 "Bishop Emeritus Stanley Olson, Pacific Synod Lutheran Church in America",1
 Black Gold Cooperative Library System,1
 Black Women for Wellness,1
-NARAL Pro-Choice California,1
 California Council of Churches IMPACT,1
 California Latinas for Reproductive Justice,1
 Maternal and Child Health Access,1
 Planned Parenthood,1
 Bloom Energy,1
-TechNet,1
-Environmental Defense Fund,1
 Blythe Energy,1
-City of Victorville,1
 Board of Behavioral Examiners,1
 Board of Equalization (sales tax provisions),1
 "Board of Supervisor, County of San Luis Obispo",1
@@ -2855,7 +2703,6 @@ National School Boards Association,1
 "Board of Supervisors, County of Shasta",1
 "Board of Supervisors, County of Tehama",1
 "Board of Supervisors, counties of: Contra Costa",1
-California Chamber of Commerce,1
 Biocom,1
 "Builder's Staff Corporation, the sponsor of this measure",1
 Builders Association of the Central Coast,1
@@ -2867,7 +2714,6 @@ San Joaquin County,1
 Building Owners and Managers Association 738,1
 Building Owners and Managers Association of Association (CMA),1
 Building Owners and Managers California,1
-"Building Trades Council -Kern, Inyo & Mono Counties of California AFL-CIO",1
 "Building and Safety Division, City of Moreno Valley",1
 City of Glendale,1
 "Bureau of Electricity, City Alamada",1
@@ -2897,16 +2743,12 @@ Broadway Animal Hospital,1
 "Bruce Delgado, May, City of Marina",1
 Brunswick Veterinary Clinic,1
 California Student Aid Commission,1
-Legislative Analyst's Office,1
 Buellton Chamber of Commerce,1
-City of Buena Park,1
 Bourdette & Partners,1
 Orange County Business Council,1
-Silicon Valley Leadership Group,1
 Butte College Public Safety Training & Education Center,1
 "Butte, County of",3
 California Forestry Association,1
-California State Association of Counties,1
 "Colusa, County of",1
 "Contra Costa, County of",1
 "Del Norte, County of",1
@@ -2964,19 +2806,15 @@ CA State Assn. of Counties Assn,1
 CA State Assoc. of Counties Butte,1
 CA State Assoc. of Counties Camarillo Cudahy Norwalk Palmdale Paramount Victorville,1
 California Rural Legal Assistance Foundation,1
-Western Center on Law & Poverty,1
-California State Association of Counties,1
 Paul Gann's Citizens Committee,1
 CALAFCO [in concept],1
 "CAO, County of Los Angeles",1
 California Academy of Audiology,1
 California DUI Lawyers Association,1
-"California Department of Forestry and Fire Protection (CAL FIRE)",1
-"California Governor's Office of Emergency Services",1
+California Department of Forestry and Fire Protection (CAL FIRE),1
+California Governor's Office of Emergency Services,1
 CASHPCR (with concerns),1
 "CCCCO, the sponsor of SB 417",1
-California Department of Corrections and Rehabilitation,1
-Department of State Hospitals,1
 California Department of Corrections and Rehabilitation,1
 Department of State Hospitals,1
 CDF Firefighters: Public Interest Groups,1
@@ -2998,12 +2836,8 @@ CO-SPONSORS!Orange County Fire Officers Association,1
 Anthem Blue Cross,1
 California Hospital Association,1
 California Mental Health Directors Association,1
-California State Association of Counties,1
-California State Auditor,1
 City of West Sacramento,1
 California State Approving Agency for Veterans Education (CSAAVE),1
-California State Association of Counties,1
-Rural County Representatives of California,1
 CSAC-Excess Insurance Authority (a joint powers authority representing public entities),1
 CTIA - The Wireless Association (3/26/15 version),1
 CTIA-the Wireless Association (Note: This analysis reflects author's amendments to be offered in),1
@@ -3014,7 +2848,6 @@ Ca. Law Revision Comm. (Co-sponsor),1
 "Cal State Fullerton, Department of Psychology",1
 Cal Voices in opposition to,1
 Cal Water,1
-California Water Association,1
 City of El Monte,1
 City of Montebello,1
 City of Willows,1
@@ -3052,7 +2885,6 @@ California Assn. of Sheet Metal and Air Conditioning National Association,1
 California Association Sheet Metal & Air Conditioning Contractors,1
 California Association for Health Services at Home (CAHSAH) - Support if,1
 "California Assessors' Association, County of San Diego",1
-"California Assessors Association, County of San Diego",1
 California Association of Continuing Care Retirement-Communities,1
 "California Association of County Veterans Service Officers, Inc.",1
 California Association of Family Court Services Directors,1
@@ -3099,7 +2931,6 @@ California Association of Realtors (not actively pursuing--an old position-- but
 California Association of Recreation & Park Districts [Oppose],1
 California Association of Rehabilitation Professionals,1
 California Association of Sanitation Agencies (committee),1
-California Association of Sanitation Agencies,1
 "California Association of Student Councils, sponsor of the bill",1
 California Association of Work Experience,1
 California Association of photocopiers & Process Servers,1
@@ -3111,18 +2942,14 @@ California Attorneys for Criminal Justice (As amended May 9),1
 "California Attorneys for Criminal Justice (NOTE: Support and opposition was registered as to bill in prior form (March 19, 2004), which placed MDMA in Schedule II of the Controlled Substance Schedules except for CNOA.)",1
 California Attorneys for Criminal Justice (Note: 5/30/96 amendments appear to have),1
 California Attorneys for Criminal Justice (THIS ANALYSIS REFLECTS AUTHOR'S AMENDMENTS TO BE OFFERED),1
-California Attorneys for Criminal Justice (THIS ANALYSIS REFLECTS AUTHORS AMENDMENTS TO BE OFFERED IN),1
 California Attorneys for Criminal Justice (THIS ANALYSIS REFLECTS AUTHORoS AMENDMENTS TO BE OFFERED IN),1
 California Broadband & Video Association (CalBroadband),1
 California Broadcasters Association: OPPOSTION,1
 California Building Industry Association (supported similar legislation contained in SB 6x 4 (Ashburn)),1
 California Building Industry Association (would support if reference to school districts having municipal powers were removed),1
-California Building Industry Association,1
 Government Affairs Council,1
-California Taxpayers Association,1
 California Realtors Association,1
 West Venture,1
-California Building Industry Association,1
 Pardee,1
 "California Building Industry Association, in opposition",1
 "California Building Industry Association, one of the sponsors of the bill",1
@@ -3141,19 +2968,16 @@ California Beer and Beverage continued Distributors,1
 "California Black Chamber of Commerce, City of Oakland",1
 "Crossroads, Inc",1
 California Body Contouring Council,1
-California Building Industry Association,1
 Chevron,1
 "California Building Officials, in opposition to a previous version of the bill",1
 California Building and Construction Trades Council of California,1
 California Business Properties Association (committee),1
 California Business Properties Association (prior to author's),1
-California Business Properties Association,1
 Irvine Company,1
 Bixby Ranch,1
 Tejon Ranch,1
 California Catholic Conference for Women,1
 "California Catholic Conference | | |Grade(s) |Content Tested | | | | | | | | | | | | | | | | | | | | | | | | | | |CSTs |All students unless |2-11 |ELA, grades 2-11",1
-"California Catholic Conference | |Grade(s) |Content Tested | | | | | | | | | | | | | | | | | | | | | | | | | | |CSTs |All students unless |2-11 |ELA, grades 2-11",1
 California Cattlemen's Association,1
 California Cement Producers' Coalition,1
 California Central Valley Flood Control Association OF SECTION 2,1
@@ -3244,13 +3068,8 @@ California Medical Association: GOVERNOR'S VETO MESSAGE,1
 California Mental Health Planning Council (committee),1
 California Mortgage Association (CMA): Concern,1
 California Municipal Treasurers Association,1
-City of Newport Beach,1
-California Municipal Utilities Association,1
-California Special Districts Association,1
 California Municipal Utility Assn. (CMUA),1
 California NORML,1
-California Nurses Association,1
-City and County of San Francisco,1
 County of San Mateo,1
 Drug Policy Alliance Network,1
 Friends Committee on Legislation of California,1
@@ -3303,9 +3122,6 @@ California Retailers Association for the purpose of simplifying the collections 
 California Reserve Law Enforcement Officers,1
 California Refuse Removal Council,1
 Browning-Ferris Industries,1
-California Restaurant Association,1
-California Medical Association,1
-"California Labor Federation, AFL-CIO",1
 California Psychological Association,1
 Medical Board of California,1
 California Public 445-4246 04/14/93 (CPUC),1
@@ -3350,18 +3166,7 @@ California State Association of Counties - notes concerns,1
 California State Association of Counties -Horton,1
 California State Association of Counties Excess Insurance Authority (CSAC-EIA),1
 California State Association of Counties [in concept],1
-California State Association of Counties,1
 California Tax Reform Association,1
-Rural County Representatives of California,1
-California State Association of Counties,1
-County of Los Angeles,1
-California State Association of Counties,1
-County of Sacramento,1
-California State Association of Counties,1
-County of Santa Clara,1
-Planning and Conservation League,1
-Sierra Club,1
-Paul Gann's Citizens' Committee,1
 City of Artesia,1
 "California State Association of Psychiatrists (CSAP), in support of",1
 "California State Association of Psychiatrists, cosponsor of",1
@@ -3429,7 +3234,6 @@ Camden Pet Hospital,1
 Camino Animal Hospital,1
 Campanile Veterinary Clinic,1
 Capistrano Veterinary Clinic,1
-Capistrano VEterinary Clinic,1
 "Californians for a Drug Free Youth, Inc",1
 Californians to Amend Three Strikes (CATS),1
 Center on Juvenile & Criminal Justice,1
@@ -3473,7 +3277,6 @@ Asian Pacific Planning Council,1
 Chapter (AMTA),1
 City of Chico,1
 Chico Chamber of Commerce,1
-City of Chico,1
 Orange County Transportation Authority,1
 "Chicoeco, Inc",1
 City of Arcata,1
@@ -3495,7 +3298,6 @@ Chief Executive Officers of the CA Community Colleges,1
 "Chicano Federation of San Diego Co., Inc",1
 Chico Farm and Orchard,1
 Chico Peace and Justice Center,1
-Chico Peace and justice Center,1
 "Chico Velo, Chico",1
 "Charlie Padilla, principal of Parkview School",1
 American Electronics Association,1
@@ -3705,13 +3507,10 @@ City Police Department of Seaside,1
 City of Adelanto,1
 City of Canyon Lake,1
 City of Chowchilla,1
-City of Chowchilla,1
-City of Colton,1
 City of Colton,1
 City of Covina,1
 City of Vallejo,1
 City of Downey,1
-City of Pico Rivera,1
 City of Pico Rivera,1
 City of Belmont,1
 City of Grover Beach,1
@@ -3749,7 +3548,6 @@ City of Los Angeles (in support of an identical bill by the same),1
 City of Edco Disposal,1
 City of San Dimas,1
 City of Elk Grove,1
-City of Elk Grove,1
 City of Emeryville,1
 City of Scotts Valley,1
 City of National City,1
@@ -3761,19 +3559,12 @@ City of Goleta Sanitary District,1
 City of Goleta West Sanitary District,1
 City of Grass Valley Disposal,1
 City of Hawaiian Gardens,1
-County of Sacramento,1
-City of Hawthorne,1
 Hawthorne Police Department,1
 City of Hesperia,1
-City of Victorville,1
-City of Hesperia,1
-City of Victorville,1
 Town of Apple Valley,1
 "City of Hollister, Animal Control Division",1
-Howard Jarvis Taxpayers Association,1
 City of Huntington Park,1
 City of La Mirada,1
-City of San Jose,1
 "City of Hughson | |Mayor, City of",1
 City of Independent Cities Association,1
 City of Ironhouse Sanitary District,1
@@ -3818,12 +3609,7 @@ City of Richmond,1
 City of Running Springs Water District,1
 City of Sacramento Area Sewer District,1
 City of Sacramento Valley Environmental Waste Disposal,1
-City of Sacramento,1
-City of Oakland,1
-City of San Diego,1
-City and County of San Francisco,1
 City of San Carlos,1
-California Farm Bureau Federation,1
 Harbor Industrial Association,1
 San Carlos Chamber of Commerce,1
 City of San Clemente X,1
@@ -3896,27 +3682,20 @@ Community Alliance with Family Farmers] [are,1
 Community Associations Institute - California Legislative Action Committee writes,1
 "Community Associations Institute - California Legislative Action Committee, a group representing Common Interest Developments",1
 Community Associations Services,1
-California State Association of Counties,1
 California Association of County Treasurers and Tax Collectors,1
 State Association of County Auditors,1
-California State Association of Counties,1
 Urban Counties of California,1
 "Coalition of California Welfare Rights Organizations, a co-sponsor of",1
 Coalition of Parent Support (THIS ANALYSIS REFLECTS AUTHOR'S AMENDMENTS TO BE OFFERED IN),1
 Coalition of Small & Disabled Veterans,1
 Coalition of Trial Court (Escutia),1
-California Association of Health Plans,1
 Aetna U.S. Healthcare,1
 American Specialty Health Plans,1
 Blue Shield of California,1
 Congress of California Seniors,1
-Health Net,1
 PacifiCare of California,1
 Coalition to Abolish Slavery & Trafficking (CAST) Coalition to Abolish Slavery and Trafficking,1
 Coalition to Abolish Slavery and Trafficking,1
-County of Santa Clara,1
-California Coastkeeper Alliance,1
-City of Huntington Beach,1
 Endangered Habitats League,1
 Long Beach Water Department,1
 Community Clinic Association of Los Angeles (committee),1
@@ -3933,8 +3712,6 @@ Commerce Industrial Chamber of Commerce,1
 Commercial Internet eXchange Association (CIX - a trade association representing Internet service providers),1
 "Commission for Children, Youth and Their Families, City of Los Angeles",1
 Commission for Cooperative Services for Young Handicapped Children and Their Families,1
-Western Center on Law & Poverty,1
-California Rural Legal Assistance Foundation,1
 Air Conditioning Contractors National Association,1
 Los Angeles County Sheriff's Department,1
 Conference of Delegates of California Bar Associations to address an apparent loophole in the law regarding persons as to,1
@@ -3957,8 +3734,6 @@ Pardee Construction Company,1
 Shapell Industries,1
 Construction Industry Council,1
 "Construction Industry Force Account Council (CIFAC), co-sponsor of",1
-California Building Industry Association,1
-California Apartment Association,1
 Consulting Eneginers and Land Surveyors of California,1
 Consulting Engineers and Land Surveryeors,1
 "Consumer Action, writing in support",1
@@ -3967,15 +3742,12 @@ Consumer Attorneys of California (opposing liability waiver),1
 Consumer Attorneys of California (to the previous version of the),1
 Consumer Attorneys of California Council,1
 Consumer Attorneys of California District,1
-Consumer Attorneys of California,1
 California Defense Counsel,1
 Consumer Attorneys of California |Policy Education,1
 "Consumer Attorneys of California, Nancy Peverini, Legislative Director",1
 Consumer Attorneys of California: GOVERNOR'S VETO MESSAGE,1
 Consumer Attorneys of California: One individual,1
 Consumer Attorneys of CaliforniaConsumer Attorneys of California (Sections 1 and 2),1
-Consumer Federation of America,1
-Consumer Federation of California,1
 "Consumer Federation of California [June 6, 2012]",1
 "Consumer Watchdog, sponsor of the bill",1
 "Consumers Union (Based upon prior version, particularly due to proposed elimination of sunset on LCA, an element removed from the bill by Senate Transportation Committee amendment. Position on current version unknown.):",1
@@ -4009,36 +3781,24 @@ Tenet Healthcare Corporation,1
 Council for Educational Facility Planners,1
 Council for a Green Environment (Portion pertaining to landscape),1
 "Council of Acupuncture and Oriental Medicine Association : Licensed Acupuncturists, Marian Blum",1
-"Council of Acupuncture and Oriental Medicine Association: Licensed Acupuncturists, Marian Blum",1
 Council of Community Clinics Angele,1
 California State Council of Laborers,1
 City of Colton Community Development Department,1
 Council on American-Islamic Relations - Sacramento Valley,1
 "Council, California Peace Officerso",1
 California Plant Health Association,1
-California Retailers Association,1
 California Women for Agriculture,1
-Chemical Industry Council of California,1
-Consumer Specialty Products Association,1
 Clorox Company,1
 Coalition of Independent Recyclers,1
 Silicon Valley Manufacturing Group,1
 Sony Ericsson Mobile,1
 Sprint,1
 The Thursday Group,1
-"Los Angeles County Business Federation (BIZ-FED)",1
+Los Angeles County Business Federation (BIZ-FED),1
 Rural County Representatives of California (RCRC),1
-League of California Cities,1
 County of El Dorado,1
 County of Mono,1
-County of Sacramento,1
-County of San Diego,1
 County of Placer,1
-County of Sacramento,1
-County of Placer,1
-County of Sacramento,1
-County of Stanislaus,1
-County of Merced,1
 County Association of Governments of San Mateo County,1
 County Recorder of Napa,1
 County Recorder of Placer,1
@@ -4087,74 +3847,31 @@ County Sheriff's Office of Santa Barbara,1
 County Surveyor of Alameda County,1
 County Welfare Directors Association of CA (CWDA) co,1
 County Welfare Directors Association of CA 9CWDA,1
-County of Alameda,1
 County of Fresno,1
-County of Madera,1
 County of Marin,1
-County of Mono,1
-County of Napa,1
-County of Orange,1
-County of San Diego,1
-County of San Joaquin,1
 County of Siskiyou,1
-County of Sonoma,1
-County of Stanislaus,1
-County of Ventura,1
-County of Alameda,1
-County of Los Angeles,1
-County of Butte,1
-County of Del Norte,1
 County of Humboldt,1
 County of Lassen,1
 County of Mendocino,1
-County of Merced,1
-County of Siskiyou,1
-County of Calaveras,1
-County of Mono,1
-County of Placer,1
 County of City of Berkeley,1
 County of County of Amador,1
-County of Del Norte,1
-County of Humboldt,1
-County of Lassen,1
-County of Mendocino,1
-County of Merced,1
-County of Siskiyou,1
-County of Del Norte,1
-County of Humboldt,1
-County of Mendocino,1
-County of Sonoma,1
-County of El Dorado,1
 CA Independent Public Employees Legislative Council,1
-County of Del Norte,1
 "County of Humboldt, Department of Health and Human Services",1
 County of San Mateo Human Services Agency,1
-County of Los Angeles,1
 Association for Los Angeles Deputy Sheriffs,1
-County of Los Angeles,1
 League of Women Voters of California,1
-County of Los Angeles,1
-County of San Bernardino,1
-County of San Mateo,1
-County of Los Angeles,1
 City of Santa Clarita,1
 County of Los Angeles. 0121745,1
 County of Medocino,1
 County of Mendicino,1
-County of Orange,1
-California State Association of Counties,1
-County of Sacramento,1
-County of Yuba,1
 County of San Bernardino Auditor,1
 "County of San Diego, Assessor/ Recorder/County Clerk",1
 County of San Francisco Commission on the Aging (committee),1
-County of Santa Clara,1
 City of Cupertino,1
 City of Saratoga,1
 "Courtney Welch, Mayor, City of Emeryville",1
 Courts Los Angeles County Board of Supervisors,1
 Covered California,1
-California Department of Insurance,1
 County of Sonoma Department of Transportation & Public Works,1
 County of Sycamores,1
 "County of Venture, in support of",1
@@ -4176,7 +3893,6 @@ West Coast Distributors,1
 Cypress City,1
 D.M. Camp & Sons,1
 DB Products,1
-Department of Health Services,1
 Department of Managed Health Care,1
 DVBE Insurance and Financial services LLC,1
 "Dale Reynolds, Mayor, City of Blythe",1
@@ -4357,7 +4073,7 @@ United Water Conservation District,1
 California Firefighters,1
 "Division of Emergency Medical Services, County of San Diego",1
 Dystonia Medical Research Foundation,1
-"ECHO (Executive Council of Homeowners)",1
+ECHO (Executive Council of Homeowners),1
 ERX Logistics,1
 "Eagle Cycling Club, Napa, Vallejo",1
 East Bay (PFLAG-Oakland),1
@@ -4382,12 +4098,9 @@ Santa Barbara LAFCO,1
 Shasta LAFCO,1
 Ventura LAFCO,1
 City of Moreno Valley,1
-City of El Monte,1
 Environment California,1
-City of El Segundo,1
 Encinitas Neighbors Coalition,1
 Fullerton Police Officers' Association,1
-City of Lakewood,1
 "Specialized Waste Solutions, Inc",1
 El Toro Water District X,1
 Elder & Dependent Adult Abuse Prevention Council of Santa Barbara County - Support,1
@@ -4400,24 +4113,19 @@ Emergency Animal Clinic,1
 Emergency Medical Services Administrator's Association of California (cosponsors),1
 Ebenezer Congregational Christ,1
 "Ecology Center, Los Angeles",1
-City of Escondido,1
 Eden Indivisible,1
-Southern California Edison,1
 Pacific Gas and Electric Company,1
 "Educating People in Compassion for Animals, Rolling Hills Estate",1
 Education Mandated Cost Network to prior version of the bill,1
 Emergency Pet Clinic,1
 "Employees International Union, City of Downey",1
 "Employees, City of Pasadena Municipal Employees",1
-City of Encinitas,1
 City of Fairfield,1
-League of California Cities,1
 Encino Veterinary Clinic,1
 "Engineer and Scientists of California, Local 20, IFPTE Local 20, AFL-CIO",1
 Engineering General Contractor's Assoc.: of San Diego,1
 Engineering and Utility Contractors Assoc,1
 Engineering/Utility Contractors Assoc,1
-"Engineers & Scientists of California, Local 20, Ifpte",1
 "Engineers and Scientists of California, MEBA",1
 Environmental & Occupational Health Committee of the American Electronis Association,1
 "Environmental & Public Works Management, Fleet Management Division, City of Santa Monica",1
@@ -4447,14 +4155,10 @@ Senate Committee on the Judiciary,1
 "Facility Engineering, City of Hope",1
 "Faculty Association of California Community Colleges (FACCC), the sponsor of this legislation",1
 Faculty Association of California Community Colleges,1
-California Teachers Association,1
-City of Fairfield,1
 Humboldt Bay Municipal Water District,1
-City of Fairfield,1
 "Department of the Navy, Commander Navy Region Southwest",1
 Fairhaven Memorial Park & Mortuary,1
 Faith United Methodist Church,1
-City of West Hollywood,1
 Family Animal Hospital,1
 Family Child Care Council of the (Jackson) Valley,1
 Family Pets Medical Centre,1
@@ -4475,12 +4179,10 @@ California Mortgage Association,1
 Fire Districts Legislative Task Force Committee,1
 "First Unitarian Universalist Church, San Diego",1
 East Bay Municipal Utility District,1
-Association of California Water Agencies,1
 Flewelling and Moody,1
 Floor Tech America INC Sb 1422 Support Letter,1
 Southland Farmers' Market Association,1
 California Federation of Certified Farmers' Markets,1
-Consumer Attorneys of California,1
 Food and Beverage Manufacturing Consortium funders forum and supply chain mapping,1
 "Foothill Cycle Club, Pasadena",1
 Foothill Veterinary Clinic,1
@@ -4493,11 +4195,7 @@ UCSF Medical Center,1
 Stanford Health Services,1
 UCSF Stanford Health Care,1
 Fresno Metropolitan Flood Control District,1
-County of Fresno,1
-City of Fresno,1
 Friant Water Authority,1
-County of Fresno,1
-Kings River Conservation District,1
 "Fresno, Madera, Kings & Tulare Building & Construction Trades Council, AFl-CIO",1
 Friends Committee on Legislation of California (founded by Quakers),1
 Friends Outside,1
@@ -4512,7 +4210,6 @@ Humboldt Waste Management Authority,1
 "Fred Diaz, City Manager, City of Tracy",1
 "Free Battered Women, a Project of the California Coalition for Women Prisoners",1
 Fremont City,1
-City of Fremont,2
 City of Hayward,1
 Livable California,1
 "Fresno CDFI, Salam Nalia, CEO",1
@@ -4564,7 +4261,6 @@ GRACE,1
 "Golden State Power Cooperative, in opposition to the bill",1
 Good Samaritan Veterinary Hospital,1
 Goodrich Corporation,1
-City of Chula Vista,1
 Gosling Watchers of Lake Merritt,1
 Governor's Office,1
 California Department of Health Services,1
@@ -4590,7 +4286,6 @@ Hazardous Waste Association of California,1
 Association of Metal Finishers,1
 Printed Circuit Alliance,1
 Solar Turbines,1
-City of San Diego,1
 Hazel Ridge Veterinary Clinic,1
 "H.J. Brunnier Assn., Structural Engineers, San Francisco",1
 HIV: Women's Page u Voices,1
@@ -4610,7 +4305,6 @@ Hi-Tech Trust Coalition (comprised of over 30 technology companies),1
 Highland City,1
 Hill's Veterinary Hospital,1
 "Historical Heritage Commission, County of Santa Clara",1
-California Association of Health Plans,1
 Pharmaceutical Care Management Association,1
 Express Scripts,1
 Hearing Well Club,1
@@ -4652,29 +4346,17 @@ San Bernardino Superior Court,1
 County of San Diego District Attorney,1
 San Diego Superior Court,1
 Hopyard Animal Hospital,1
-California Hospital Association,1
-California Nurses Association,1
-California Medical Association,1
-California Hospital Association,1
 Hotel Employees and Restaurant Employees Local 2850,1
-Howard Jarvis Taxpayers Association,1
 Apple Valley Fire Protection District,1
-Howard Jarvis Taxpayers Association,1
 American Institute of Architects,1
-California Association of Realtors,1
-Howard Jarvis Taxpayers Association,1
 "Humane Society of the United States, Sacramento",1
 "Humane Task Force, Winnetka",1
 Humboldt Bay harbor pilots,1
 "Humboldt County, Board of Supervisors, Chair Estelle Fennell",1
 Humboldt Women for Shelter: 4 private citizens,1
 "Humboldt and Mendocino Redwood Companies, in opposition",1
-County of Humboldt,1
 Kiva Confections,1
-County of Humboldt,1
 Vote the Coast,1
-City of Huntington Beach,1
-League of California Cities,1
 Division of Juvenile Justice,1
 California Health and Human Services Agency,1
 Department of Youth and Community Restoration,1
@@ -4708,25 +4390,17 @@ HP,1
 Motorola,1
 Xerox,1
 Consumer Electronics Retailers Association,1
-Superintendent of Public Instruction,1
-California State Board of Education,1
 American Insurance Association,1
-California Chamber of Commerce,1
-California Teamsters Public Affairs Council,1
-Center for Public Interest Law,1
 Consumer Watchdog,1
 National Alliance on Mental Illness,1
 ShatterProof,1
-"California Grain and Feed Association",1
+California Grain and Feed Association,1
 EHS Medical Group,1
 CA State Assoc. of Electrical Workers (IBEW),1
 CA State Association of Assoc. Counties (CSAC),1
-California State Association of Counties,1
 Business Properties Association,1
 County of San Benito,1
-California State Association of Counties,1
 County of Tulare,1
-County of Los Angeles,1
 CA State Association of CountiesCA,1
 CA Taxpayers' Assoc. Office,1
 CA Taxpayers' Assoc. previous version of bill,1
@@ -4751,10 +4425,7 @@ Hispanic Chamber of Commerce of Silicon Valley,1
 "In support, the Brennan Center for Justice",1
 "In support, the California Association of Port Authorities",1
 "In support, the California Construction and Industrial Materials Association",1
-Legislative Analyst's Office,1
 Fiscal Crisis Management and Assistance Team,1
-TechNet,1
-California Chamber of Commerce,1
 "Medco Containment Services, Inc. (Medco)",1
 Caremark Prescription Service Division (Caremark),1
 Inc. (dba Holiday and SAV MOR Foods) PAQ,1
@@ -4776,7 +4447,6 @@ Inc. Medco Containment Services,1
 Inc. National Pony Express Association,1
 Plumbing-Heating-Cooling Contractors Association of California,1
 Inc. Reis Ranch Universal Horsemanship,1
-Inc. Rural County Representatives of California (RCRC),1
 Inc. Service Employees International Union,1
 Inc. Solution Transportation Service,1
 Inc. United Food and Commercial Workers,1
@@ -4785,139 +4455,58 @@ Incorporated Golden State Mobilehome Owners League,1
 "Independent Defense Counsel Office, County of Santa Clara",1
 Independent Waste Oil Collectors & Transporters,1
 Indian Wells City,1
-City of Indian Wells,1
 Inland Empire Economic Partnership,1
-City of Indio,1
-City of Tustin,1
-City and County of San Francisco,1
 City of Agoura Hills,1
-City of Alameda,1
 City of Antioch,1
 City of Apple Valley,1
 City of Arcadia,1
-City of Arcata,1
 City of Arroyo Grande,1
 City of Atwater,1
 City of Avenal,1
 City of Banning,1
-City of Bakersfield,1
-City of Buena Park,1
 City of Camarillo,1
 City of Campbell,1
 City of Carlsbad,1
 City of Carson,1
-City of Chico,1
 City of Chino,1
-City of Chino Hills,1
-City of Chula Vista,1
-City of Claremont,1
 City of Clearlake,1
-City of Colton,1
-City of Concord,1
-City of Coronado,1
 City of Culver City,1
-City of Cupertino,1
 City of Cypress,1
 City of Daly City,1
 City of Danville,1
-City of El Cajon,1
 City of Escalon,1
-City of Escondido,1
-City of Fairfield,1
 City of Fontana,1
-City of Fresno,1
-City of Fullerton,1
 City of Garden Grove,1
-City of Grand Terrace,1
-City of Hawaiian Gardens,1
 City of Half Moon Bay,1
-City of Hawthorne,1
-City of Hayward,1
-City of Hemet,1
-City of Hesperia,1
-City of Huntington Beach,1
-City of Imperial Beach,1
-City of La Mirada,1
-City of Lakewood,1
 City of La Palma,1
 City of La Verne,1
-City of Livermore,1
 City of Loma Linda,1
-City of Lompoc,1
-City of Los Alamitos,1
-City of Los Angeles,1
-City of Merced,1
 City of Monterey,1
-City of Montclair,1
-City of Moreno Valley,1
-City of Murrieta,1
-City of Newport Beach,1
-City of Norwalk,1
-City of Oceanside,1
-City of Ontario,1
 City of Orange,1
 City of Oxnard,1
-City of Pacific Grove,1
 City of Palmdale,1
-City of Palm Springs,1
-City of Pasadena,1
 City of Piedmont,1
-City of Placentia,1
-City of Pomona,1
-City of Poway,1
-City of Rancho Cucamonga,1
-City of Redding,1
-City of Redlands,1
-City of Redondo Beach,1
 City of Rialto,1
-City of Richmond,1
 City of Riverbank,1
-City of Riverside,1
 City of Rocklin,1
-City of Sacramento,1
 City of Salinas,1
 City of San Anselmo,1
 City of San Bernardino,1
-City of San Carlos,1
 City of San Clemente,1
-City of San Diego,1
-City of San Jacinto,1
-City of San Jose,1
-City of San Leandro,1
 City of San Luis Obispo,1
-City of San Marcos,1
-City of San Mateo,1
-City of San Pablo,1
 City of San Rafael,1
 City of Sand City,1
-City of Santa Barbara,1
-City of Santa Maria,1
-City of Santa Monica,1
 City of Sausalito,1
-City of Selma,1
-City of Stockton,1
-City of Sunnyvale,1
-City of Taft,1
 City of Tehachapi,1
 City of Temple City,1
-City of Thousand Oaks,1
 City of Tracy,1
-City of Tulare,1
 City of Turlock,1
 City of Upland,1
-City of Vallejo,1
 City of Vacaville,1
-City of Victorville,1
-City of Vista,1
 City of Walnut,1
-City of Walnut Creek,1
 City of Westminster,1
-City of Willows,1
-County of Sacramento,1
 Independent Cities Association,1
-League of California Cities,1
 "Southern California Association of Code Enforcement Officials, Inc.",1
-"Mayor Richard Riordan, City of Los Angeles",1
 Denticator,1
 San Miguel Fire Fighters,1
 "Indivisible CA Statestrong, et al",1
@@ -4929,9 +4518,6 @@ Industrial Development Corporation,1
 Institute of Scrap Recycling Industries,1
 California Manufacturers Association,1
 Semiconductor Industry Association,1
-Silicon Valley Leadership Group,1
-Chemical Industry Council of California,1
-Chlorine Chemistry Council,1
 Infant Development Association of California,1
 Blind Childrens Center,1
 Infant of Prague Counselling and South Adoption Services,1
@@ -4945,7 +4531,6 @@ Insurance Commissioner John Garamendi and the Department of Insurance,1
 Golden State Life Insurance Company,1
 Integral Senior Living,1
 International Longshore and Warehouse Union Southern California District Council,1
-"International Longshore and Warehouse Union, Southern California District Council",1
 "Interpersonal Developmental Facilitators, Inc., -- /22/00 Pasadena",1
 Investment Advisory Commission [SPONSOR],1
 California Pipetrades Council,1
@@ -4995,7 +4580,6 @@ Judicial Council of California (with respect to Section 437c summary adjudicatio
 Judicial Council of California None,1
 "Joyce E. Dudley, District Attorney, County of Santa Barbara",1
 "Julian A. Gold, M.D. Mayor, City of Beverly Hills",1
-"Julian A. Gold, M.D., Mayor, City of Beverly Hills",1
 "Julie Ruiz-Raber, Mayor Pro-Tem, City of Carson",1
 Juvenile Dependency Mediation Assn.None on file.,1
 "Karen Goh, Mayor, City of Bakersfield",1
@@ -5009,10 +4593,8 @@ L. A. Movers,1
 "L.A. County Deputy Probation Officers Union, AFSCME Local 685",1
 Health and Welfare Data Center (HWDC),1
 "L.A. County Probation Officers Union, Local 685",1
-L.A. Women's Leadership Network,1
 LA Center Animal Hospital,1
 "LA County Deputy Probation Officers Union, Local 685",1
-LA County Probation Department Union Local 685,1
 LA County Probation Department Union/AFSCME Local 685,1
 "LA County Probation Dept Union, Local 685",1
 LA County Probation Officers Union/AFSCME Local 685,1
@@ -5054,18 +4636,13 @@ Lake County Office of Education,1
 Mendocino County Office of Education,1
 Sonoma County Office of Education,1
 Lakewood City,1
-City of Lakewood,1
 Las Virgenes - Triunfo Joint Powers Authority,1
-City of Lakewood,1
 Liberty Mutual Group,1
-City of Lancaster,1
 Latino Business Council,1
 Land Trust of Santa Cruz County,1
 "American Federation of State, County and Municipal Employees AFL-CIO",1
 California Council of Land Trusts,1
 County of Santa Cruz,1
-Natural Resources Defense Council,1
-City of Oceanside,1
 "Large-scale Solar Association, sponsor of this measure",1
 "Larry R. Price, Chief Probation Officer, County of Fresno",1
 "La Raza Unida foundation (Fresno, CA)",1
@@ -5099,8 +4676,6 @@ Lawndale City,1
 "Lawrence E. Stone, Assessor, County of Santa Clara",1
 "Leading Age, the bill′s",1
 "LeadingAge California, a sponsor of the bill",1
-League of California Cities,1
-California State Association of Counties,1
 "League of California Cities, in an ""opposed,"" position",1
 "League of California Cities, sponsor of this measure",1
 League of United Latin American Citizens (LULAC) Council 3122,1
@@ -5116,7 +4691,6 @@ League of California Cities [support],1
 Legal Services for Northern California,1
 "Leon Burrus, Chief of Police, City of Alhambra",1
 Leukemia Lymphoma Society (cosponsors),1
-"Libby Schaaf- Mayor, City of Oakland",1
 "Libby Schaaf- Mayor,City of Oakland",1
 "Library Administrator, City of Imperial Public Library",1
 Motion Picture Association of America,1
@@ -5152,13 +4726,9 @@ Long Beach City,1
 Long Beach Police Officerso Association,1
 "Loren Buddress, Chief Probation Officer, County of San",1
 Loomis Basin Veterinary Clinic,1
-California State Sheriffs' Association,1
 Loma Linda University,1
 AZUSA PACIFIC UNIVERSITY,1
-City of Lompoc,1
-City of Redding,1
 San Diego Gas & Electric Company,1
-City of Long Beach,1
 Santa Cruz Society for the Prevention of Cruelty to Animals,1
 Los Alisos Water District X,1
 Town of Los Altos,1
@@ -5173,7 +4743,6 @@ Los Angeles County Bar Association (with concerns),1
 Los Angeles County Chapter of Fire Chiefs,1
 Los Angeles County Children's Planning Council,1
 "Los Angeles County Deputy Probation Officers Union, AFSCME Local 658",1
-"Los Angeles County Deputy Probation Officers, AFSCME Local 685",1
 "Los Angeles County Deputy Probations Officers Union, AFSCME Local 685",1
 Los Angeles County District Attorney (on behalf of the),1
 "Los Angeles County District Attorney Jackie Lacey, the bill's",1
@@ -5181,13 +4750,10 @@ Los Angeles County District Attorney [See],1
 Los Angeles County Neighborhood Legal Services (NLS),1
 Los Angeles County Office of Education (LACOE) - removed opposition,1
 Los Angeles County Office of Education: GOVERNOR'S VETO MESSAGE,1
-"Los Angeles County Probation Department Union, AFSCME Local 685",1
-"Los Angeles County Probation Officers Union, AFSME, Local 685",1
 Los Angeles County Probation Officers Union-AFSME- Local 685,1
 Los Angeles County Probation Officers Union/AFSCME Local 685,1
 Los Angeles County Sheriff's Department: It is highly unlikely that the County of Los Angeles will be able to backfill the funds that will lost if this bill is approved. This bill jeopardize the programs funded by the [inmate welfare fund],1
 "Los Angeles County Solid Waste Management Committee/Integrated Waste Management Task Force ""agrees the bill would reduce single-use plastic waste but",1
-Los Angeles County Sheriff's Department,1
 California Public Parking Association,1
 Alhambra Police Department,1
 "Los Angeles Dependency Lawyers, a co-sponsor of",1
@@ -5195,13 +4761,10 @@ Los Angeles Deputy Sheriffs Association (with proposed City of Westminster v. Co
 Los Angeles Gay & Lesbian Center |County,1
 Los Angeles LGBT Center (cosponsors),1
 "Los Angeles Deputy Probation Officers Union, Local 685",1
-"Los Angeles Deputy Probation Officers, AFSCME, Local 685",1
 "Los Angeles Deputy Probation Offices Union, AFSCME Local 685",1
-"Los Angeles Probation Department Union AFSCME, Local 685",1
 Los Angeles Probation Department Union Local 685,1
 "Los Angeles Probation Officer's Union, ACFSME, Local 685",1
 "Los Angeles Probation Officers Union, AFSMC Local 685",1
-"Los Angeles Probation Officers' Union, Local 685",1
 "Los Angeles Probation Officers' Unions, AFSCME, Local 685",1
 Los Angeles Superior Court (amendments to be taken on),1
 "Los Angeles Times, ""Chuckwalla National Monument would protect swath of California desert and preserve a sacred land"" April",1
@@ -5211,33 +4774,18 @@ Los Angeles Unified School District and the,1
 "Los Angeles Unified School District, the sponsor of the bill",1
 Los Angeles Taxpayers Association,1
 Los Angeles County Sanitation Districts,1
-Los Angeles County District Attorney,1
-Ventura County District Attorney,1
-City of Los Angeles,1
 Los Angeles County Sheriff,1
-City of Los Angeles,1
 Los Angeles Department of Water and Power,1
-City of Los Angeles,1
-County of Los Angeles,1
 National Parks Conservation Association,1
-City of Los Angeles,1
 Lutheran Office of Public Policy,1
-City of Los Angeles,1
 Marin County Cable Rate Regulation Joint Powers Authority,1
 "Los Angeles, City of",1
-Modesto Police Department,1
-City of Monterey Park,1
 Pasadena Unified School District,1
-"Los Angeles, City of",1
 San Francisco Regional Office of the American Jewish Committee,1
-"Los Angeles, City of",1
 Simon Wiesenthal Center,1
 "Los Angeles, County of",1
 Los Angeles County Economic Development Corporation,1
-"Los Angeles, County of",1
 "Oakland, City of",1
-Rural County Representatives of California,1
-Los Bomberos,1
 City of Los Angeles Fire Department,1
 Los Obos Pet Hospital,1
 Los Padrinos Community Coalition,1
@@ -5287,7 +4835,6 @@ Marshals Association of (cosponsor) California,1
 "Mayor Abbe Land, City of West Hollywood",1
 "Mayor Alan Autry, City of Fresno",1
 "Mayor Alejandra Sotelo-Solis, City of National City",1
-"Mayor Alejandra Sotelo-solis, City of National City",1
 "Mayor Anja Reinke, City of Burbank",1
 "Mayor Anthony B. Santos, City of San Leandro",1
 "Mayor Beagley, City of Walnut Creek",1
@@ -5301,7 +4848,6 @@ Marshals Association of (cosponsor) California,1
 "Mayor Dan Bilbrey, City of Tracy",1
 "Mayor Daniel Helix, City of Concord",1
 "Mayor David Potter, City of Carmel By-the-Sea",1
-"Mayor David Potter, City of Carmel By-the-sea",1
 "Mayor Dennis Donohue, City of Salinas",1
 "Mayor Dick Riddell, City of Yucaipa",1
 "Mayor Edwin Lee, City of San Francisco",1
@@ -5437,7 +4983,6 @@ Mayor of the City of Ukiah,1
 "Mayor, City of Westlake Village",1
 "Mayor, City of Yuba City",1
 "Mayor, Curt Pringle, City of Anaheim",1
-"Mayor, Todd Campbell, City of Burbank",1
 Maze Animal Hospital,1
 McDonald Animal Hospital,1
 "McGregor Scott, United States Attorney, Eastern District of California",1
@@ -5495,7 +5040,6 @@ City of Millbrae,1
 Multi-City TSM Agency,1
 Milpitas Animal Hospital,1
 Fresno Metro Ministry,1
-Minority Apartment Owners Association (Minority apartment owners in Los Angeles County),1
 Miralles Associates,1
 "Morris B. Vance, Mayor, City of Vista",1
 "Morton & Pitalo, Civil Engineering, Sacramento",1
@@ -5523,20 +5067,11 @@ National Association of Theater Owners of California and Nevada AB126X,1
 National Council on Alcoholism & Drug Dependence - Orange County,1
 National Health Law Program (cosponsors),1
 National Greyhound Adoption,1
-California Redevelopment Association,1
-League of California Cities,1
-California Association of HMOs,1
-Association of California Life Insurance Companies,1
-Kaiser,1
-Healthnet,1
 NOW--San Gabriel Valley,1
 NRA (both to the use of DROS funding),1
 Napa Nook Vet Clinic,1
 City of Napa,1
 Napa County Board of Supervisors,1
-City of Napa,1
-California Outdoor Heritage Alliance,1
-County of Napa,1
 National Guard Association of California,1
 Narbonne Animal Clinic,1
 Nat'l Council on Patient Information and Education,1
@@ -5554,8 +5089,6 @@ National Association of Social Workers California Chapter writes,1
 Nationwide Insurance Company: Concern,1
 Natural Resources Defense Council - seek additional amendments,1
 "Natural Resources Defense Council, in support of the bill",1
-Association of California Life and Health Insurance Companies,1
-California Chamber of Commerce,1
 "Nevada, City of",1
 "New Economics for Women, Maggie Cervantes, Executive Director",1
 New West Haven,1
@@ -5568,7 +5101,6 @@ North Bakersfield Recreation & Park,1
 North County Rape Crisis & Child Protection Center (Santa PageB Barbara County),1
 "Northern California District Council of the ILWU, in opposition to the bill",1
 Northern California Ecumenical Council,1
-Association of California Water Agencies,1
 City of Solvang,1
 Northridge Pet Hospital,1
 Northtown Animal Hospital,1
@@ -5581,7 +5113,6 @@ Mission Viejo/Saddleback Valley Elks Lodge 2444,1
 Nurses for Ethical Standards,1
 Oakland Veterinary Hospital,1
 Oakland YWCA,1
-City of Oakland,1
 Operating Engineers Local Union No. 3,1
 Oakland-Alameda County Coliseum Complex,1
 "Oaks North Community Center, Inc",1
@@ -5622,7 +5153,6 @@ Office of the President Family Winemakers of California,1
 "Offices of the Mayor and Vice Mayor, County of Sacramento",1
 Small School Districts' Association,1
 Ombudsman/Advocacy Service Of Inyo-Mono,1
-"Office of the independent Police Auditor, City of San Jose",1
 County Health Executives Association of California,1
 California Conference of Local Health Officers,1
 California Association of School Business Officials,1
@@ -5699,7 +5229,6 @@ Palo9 Alto Indivisible,1
 "Pam O'Connor, Mayor , City of Santa Monica",1
 Papillon Travel,1
 "Pardee Construction Company This bill was originally referred to the Senate Committee onNatural Resources and Wildlife and re-referred from that committee on May 10, 1994",1
-Los Angeles County District Attorney's Office,1
 Parents Group Porterville Development Center,1
 "Parents, Families & Friends of Gays & Lesbians - Danville",1
 "Parents, Families & Friends of Gays & Lesbians - Oakland",1
@@ -5826,7 +5355,6 @@ National Health Service Corps,1
 Resisters Indivisible,1
 Resisters Walnut Creek Indivisible,1
 "Richard M. Tefank, Chief of Police, City of Buena",1
-"Richard Riordan, Mayor City of Los Angeles",1
 Richmond Caltrans Minority and Women Advisory Committee,1
 "Rick Auerbach, Assessor, County of Los Angeles",1
 "Rick Bonilla Mayor, City of San Mateo",1
@@ -5905,8 +5433,6 @@ Rural County Representatives of California (RCRC) [Oppose],1
 "Rural County Representatives of California, co-sponsor of",1
 "Rural County Representatives of California, in support of the bill",1
 Rural Legal Assistance Foundation,1
-Western Center on Law & Poverty,1
-City of Long Beach,1
 "Rusty Bailey, Mayor, City of Riverside",1
 "S&P Global Mobility, which owns CARFAX",1
 S.G. Nelson Construction Co,1
@@ -6121,7 +5647,6 @@ Selma Police Department,1
 United Coalition East Prevention Project (Los Angeles),1
 Semiconductor Equipment & Materials Int'l. (supported AB 81),1
 "Sempra Energy Utilities, unless amended",1
-"Sempra Energy utilities, unless amended",1
 Desktop Design,1
 "Guy G. Gibson, Jr., Professional Corporation",1
 Izaak Walton League of America,1
@@ -6135,7 +5660,6 @@ Monterey County Society for the Prevention of Cruelty to Animals,1
 Sebastopol Indivisible,1
 "Secretary of State (Secs. 4, 5, and 6)",1
 Senate Committee On Environmental Quality,1
-Senate Committee on Environmental Quality,1
 Senior Legal Center of Northern California,1
 Sensormatic Solutions,1
 Serrano Animal Hospital,1
@@ -6145,7 +5669,6 @@ Service Employees International Union - Stanislaus,1
 Service Employees International Union - Ventura,1
 "Service Employees International Union, Local 660 THIS ANALYSIS REFLECTS AMENDMENTS TO BE OFFERED IN",1
 Service Employees International Union-Local 660,1
-Small School Districts Association,1
 J. David Gladstone Institutes,1
 Sexual Assault Recovery and Prevention Center of San Luis Obispo County,1
 Shasta Area Joint Plumbers and Steamfitters Apprenticeship Committee,1
@@ -6180,16 +5703,8 @@ St. Francis Animal Protection Society,1
 St. Francis Vet Hospital,1
 Sommer Ranch Andalusians & Exotic Birds,1
 Sonoma County Agricultural Preservation & Open Space,1
-County of Sonoma,1
-County of Alameda,1
-County of Sonoma,1
-Western States Petroleum Association,1
-County of Sonoma,1
-County of Alameda,1
 Sor Juana Ines Services for Battered Women,1
 South Bay Cities Council of Governments,1
-City of Chula Vista,1
-California Association of Sanitation Agencies,1
 Association of Bay Area Governments,1
 South Bay LA Indivisible,1
 South Coast Water District X,1
@@ -6199,7 +5714,6 @@ South Lake Tahoe Humane Society,1
 South Lake Tahoe Indivisible,1
 Southcast Pet Clinic,1
 Southern CA Physicians for Human Rights,1
-Southern California Edison,1
 Utility Reform Network,1
 Southern California Paint & Coatings Association,1
 Southern Maryland Firearms,1
@@ -6220,39 +5734,39 @@ State Association of County Retirement Systems as an omnibus technical bill,1
 "State Bar of California, Legal Services Section, Family Law",1
 State Board of Equalization Member John Klehs,1
 State Building & Construction Trades Council of California each write,1
-"State Building and Construction Trades Council of California, co-sponsor of the bill","1"
-"State Building and Construction Trades Council of California, with an ""oppose,"" position","1"
-"State Building and Construction Trades, a sponsor of the bill","1"
-"State Farm Insurance Companies (THIS ANALYSIS REFLECTS AUTHOR'S AMENDMENTS TO BE OFFERED IN)","1"
-"State Mining and Geology Board","1"
-"State Park Peace Officers Association 678","1"
-"State Public Affairs Committee, Junior Leagues of America","1"
-"State Creek Animal Hospital","1"
-"Stephen P. Pougnet, City of Palm Springs Major","1"
-"Stephen Whitburn, Council President Pro Tem, City of San Diego","1"
-"Steven Hernandez, Mayor, City of Coachella","1"
-"Steven R. Belcher, Chief of Police, City of Santa Cruz","1"
-"Stop Hidden Taxes Coalition [as of April 16, 2009]","1"
-"Street Tree Seminar/Los Angeles-Orange County Urban Forests","1"
-"Streets for All, sponsor of this measure","1"
-"Streets for All, writing in opposition to","1"
-"Stronger California Advocates Network, et al","1"
-"Stockton Indivisible","1"
-"Strateic Committee of Public Employees, Laborers' International Union of North America","1"
-"Netigy Corporation","1"
-"ENS Inc","1"
-"Streetcat Rescue Team, SF","1"
-"Sudwerk, Privatbrauerei Hubsch","1"
-"Sue Kempf, Mayor, City of Laguna Beach","1"
-"Sun City Friends of Animals, Inc","1"
-"Sun Star, Merced","1"
-"Sunnyvale City","1"
-"Utility Consumers' Action Network (UCAN)","1"
-"Sunnymead Veterinary Clinic","1"
-"Sunrise Cirby Animal Hospital","1"
-"Sunset Whitney Veterinary Hospital","1"
-"Sunwood Door Company","1"
-"Support Network for Battered Children","1"
+"State Building and Construction Trades Council of California, co-sponsor of the bill",1
+"State Building and Construction Trades Council of California, with an ""oppose,"" position",1
+"State Building and Construction Trades, a sponsor of the bill",1
+State Farm Insurance Companies (THIS ANALYSIS REFLECTS AUTHOR'S AMENDMENTS TO BE OFFERED IN),1
+State Mining and Geology Board,1
+State Park Peace Officers Association 678,1
+"State Public Affairs Committee, Junior Leagues of America",1
+State Creek Animal Hospital,1
+"Stephen P. Pougnet, City of Palm Springs Major",1
+"Stephen Whitburn, Council President Pro Tem, City of San Diego",1
+"Steven Hernandez, Mayor, City of Coachella",1
+"Steven R. Belcher, Chief of Police, City of Santa Cruz",1
+"Stop Hidden Taxes Coalition [as of April 16, 2009]",1
+Street Tree Seminar/Los Angeles-Orange County Urban Forests,1
+"Streets for All, sponsor of this measure",1
+"Streets for All, writing in opposition to",1
+"Stronger California Advocates Network, et al",1
+Stockton Indivisible,1
+"Strateic Committee of Public Employees, Laborers' International Union of North America",1
+Netigy Corporation,1
+ENS Inc,1
+"Streetcat Rescue Team, SF",1
+"Sudwerk, Privatbrauerei Hubsch",1
+"Sue Kempf, Mayor, City of Laguna Beach",1
+"Sun City Friends of Animals, Inc",1
+"Sun Star, Merced",1
+Sunnyvale City,1
+Utility Consumers' Action Network (UCAN),1
+Sunnymead Veterinary Clinic,1
+Sunrise Cirby Animal Hospital,1
+Sunset Whitney Veterinary Hospital,1
+Sunwood Door Company,1
+Support Network for Battered Children,1
 "Superior Court of California, County of Butte",1
 "Superior Court of California, County of Contra",1
 "Superior Court of California, County of Los",1
@@ -6290,7 +5804,6 @@ Sheriff of the County of Sutter,1
 Sheriff of the County of Tehama,1
 Sheriff of the County of Tuolumne,1
 Sheriff of the County of Yuba,1
-"Sheriff's Department, County of Los Angeles",1
 "Sheriff's Office, County of Humboldt",1
 "Sheriff, County of L.A",1
 "Sheriff, County of San Barbara",1
@@ -6302,50 +5815,28 @@ Susan G. Komen (cosponsors),1
 TWW - Los Gatos Indivisible,1
 USFL (youth pankration sanctioning organization),1
 "TAGNET, San Diego Chapter",1
-California Nurses Association,1
-County Health Executives Association of California,1
 American Academy of Pediatrics,1
 California Department of Developmental Services,1
-City of Westminster,1
 Westminster Chamber of Commerce,1
 AFSCME,1
 SEIU Local 1000,1
 "American Academy of Pediatrics, California",1
-California Police Chiefs Association,1
 "American Federation of State, County and Municipal Employees (AFSCME)",1
 California Landscape Contractors Association,1
 California Access Coalition,1
 California State PTA,1
-California Farm Bureau Federation,1
-"American Federation of State, County and Municipal Employees (AFSCME)",1
 Taft City,1
 Tahoe Tavern Property Owners Association,1
 "Protection and Advocacy, Inc (P&A)",1
 Target Specialty Products,1
-California Association of County Treasurers and Tax Collectors,1
-California State Association of Counties,1
-California Tax Reform Association,1
-League of California Cities,1
-City of Corona,1
-City of Newport Beach,1
 City of San Gabriel,1
-City of San Jose,1
-City of Stockton,1
-City of Torrance,1
 Taxpayers & Involved Water District Committee Assoc. Alameda Belmont Berkeley Calabasas Escalon Lakewood Modesto Norco Ojai Sunnyvale Tracy Walnut Alameda Mono Sacramento Ventura PROCEDURES,1
 Taxpayers for Improving Public Safety (PLEASE NOTE: COMMENT 2 BELOW DESCRIBES AMENDMENTS TO BE TAKEN IN),1
-California Teachers Association,1
-American Civil Liberties Union,1
-California Teachers Association,1
-California Taxpayers Association,1
-California Teamsters Public Affairs Council,1
 UNITE HERE,1
 "Tedd Laycock, Fire Chief, City of Riverside",1
 Tehachapi City,1
 Tehama Building and Construction Trades Council,1
 County of Tehama,1
-County of Tulare,1
-County of Ventura,1
 "Veterans of Foreign Wars, Department of California",1
 Temecula City,1
 Terry Industries,1
@@ -6361,8 +5852,6 @@ The American Humane Association ABX1 49,1
 The Associated Builders and Contractors,1
 The Association for California Association Tort Reform,1
 American Society for Reproductive Medicine,1
-Association of California Life and Health Insurance Companies,1
-California Association of Health Plans,1
 California Right to Life Committee,1
 The Association of Community Organizations for Reform Now,1
 "The Bar Association of San Francisco, Volunteer Legal Services Program",1
@@ -6374,61 +5863,26 @@ The Business/Government Council and Education Fund to End Homelessness,1
 The CA Public Utilities Commission,1
 "Comite Civico Mexicano, Inc",1
 The Boeing Company,1
-California District Attorneys Association,1
-California Attorney General,1
 CA State Horsemen's Association,1
 California Youth Authority,1
 California Department of Corrections,1
 The California Alliance The Against Domestic Violence,1
-California Association of Health Plans,1
-Association of California Life and Health Insurance Companies,1
-America's Health Insurance Plans,1
-California Association of Health Plans,1
-Association of California Life and Health Insurance Companies,1
-America's Health Insurance Plans,1
-California Association of Health Plans,1
-Association of California Life and Health Insurance Companies,1
-America's Health Insurance Plans,1
 California Association of Oral and Maxillofacial Surgeons,1
 California Society of Anesthesiologists,1
-California Medical Association,1
 California Association of Schools of Cosmetology,1
-United Food and Commercial Workers,1
 California Background Investigators Association,1
 California Behavioral Health Directors Association,1
 California Women's Law Center,1
 California Association of Area Agencies on Aging,1
 California Commission on Aging,1
-California Dental Association,1
 California Dental Hygiene Association,1
 California Dental Hygienists Association,1
-California Labor Federation,1
-Health Access California,1
-California Chamber of Commerce,1
-California Forestry Association,1
 The California Charter School Association Advocates,1
-California Mental Health Directors Association,1
-California State Association of Counties,1
-California Motor Car Dealers Association,1
-California Chamber of Commerce,1
 The California Nevada Soft Drink Association,1
-California Peace Officer's Association,1
-California Police Chiefs Association,1
 California Pharmacists Association (CPhA),1
 California Retailers Association (CRA),1
 California Police Chiefs Association (CPCA),1
-Peace Officers Research Association of California,1
 The California School Nurses Organization (CSNO),1
-California State Association of Counties,1
-County Health Executives Association of California,1
-California State Association of Counties,1
-League of California Cities,1
-California State Association of Counties,1
-County of Los Angeles,1
-County of Santa Clara,1
-California State Association of Counties,1
-Urban Counties of California,1
-Rural County Representatives of California,1
 County Behavioral Health Directors Association (CBHDA),1
 California State Board of Pharmacy,1
 McKesson HBOC,1
@@ -6441,30 +5895,13 @@ The Department of Insurance (DOI),1
 EMS Medical Directors Association of California,1
 Emergency Medical Services Administrators Association of California,1
 The Equine Center,1
-City of San Diego,1
 Women's Energy Matters,1
 The City of Santa Clara,1
 "The Collateral Loan and Secondhand Dealers Association : Opposition, unless amended",1
-"The Collateral Loan and Secondhand Dealers Association: Opposition, unless amended",1
 The Committee on Appellate Courts of the State Bar of California,1
-County of Tulare,1
-County of Stanislaus,1
 County of Kern,1
-County of Mono,1
 County of Yolo,1
-County of Tulare,1
-County of Stanislaus,1
-County of Kern,1
-County of Mono,1
-County of Yolo,1
-County of San Mateo,1
-County of Los Angeles,1
-County Behavioral Health Directors Association,1
-California Hospital Association,1
 "American College of Emergency Physicians, California Chapter",1
-California Department of Justice,1
-Biocom,1
-Department of Consumer Affairs,1
 Bureau of Electronic and Appliance Repair,1
 The Hawkins Center for Law and Services to People with Disabilities,1
 The Hearing Aid Dispensers Examining Committee (HADEC),1
@@ -6520,15 +5957,11 @@ Silicon Velley NAACP,1
 Simi Valley City,1
 Alpine County Sheriff,1
 Amador County Sheriff,1
-Butte County Sheriff,1
 Contra Costa County Sheriff,1
 Del Norte County Sheriff,1
 Inyo County Sheriff,1
 Lake County Sheriff,1
-Los Angeles County Sheriff,1
 Marin County Sheriff,1
-Mariposa County Sheriff,1
-Mendocino County Sheriff,1
 Modoc County Sheriff,1
 Orange County Sheriff,1
 Sacramento County Sheriff,1
@@ -6536,39 +5969,24 @@ San Luis Obispo County Sheriff,1
 Santa Clara County Sheriff,1
 Santa Cruz County Sheriff,1
 Shasta County Sheriff,1
-Sonoma County Sheriff,1
-Tehama County Sheriff,1
 Tulare County Sheriff,1
-Tuolumne County Sheriff,1
 Oakland Police Department,1
 Fresno Police Department,1
-Fullerton Police Department,1
 Hayward Police Department,1
-Inglewood Police Department,1
 Escondido Police Department,1
 Fontana Police Department,1
-San Francisco Police Department,1
-Santa Ana Police Department,1
-Santa Barbara Police Department,1
-Oceanside Police Department,1
 Oxnard Police Department,1
 Palm Springs Police Department,1
-Redding Police Department,1
 Roseville Police Department,1
 Vacaville Police Department,1
 Alameda County District Attorney,1
 Kern County District Attorney,1
-Los Angeles County District Attorney,1
 Napa County District Attorney,1
-Orange County District Attorney,1
 Sacramento County District Attorney,1
 San Francisco District Attorney,1
 Santa Clara County District Attorney,1
 Stanislaus County District Attorney,1
-Ventura County District Attorney,1
 Governor of California,1
-Sierra Club,1
-Association of California Water Agencies,1
 California State Pipe Trades Council,1
 Northern California Industry Association,1
 The California Alliance for Pride & Equality (CAPE),1
@@ -6593,7 +6011,6 @@ Centene,1
 "Thomas J. Nolan, Esq., of Nolan & Armstrong",1
 "Thompson/Center Arms, Rochester New Hampshire",1
 "Three Valleys Municipal Water District, Claremont (4/12/94)",1
-Trial Courts' Consolidated Legislation Committee,1
 Trustees Association,1
 Trimex reality and Loan,1
 Tuolumne County Interagency Early Intervention Program,1
@@ -6650,21 +6067,19 @@ Valley Employers Association,1
 Fresno County Economic Development Corporation,1
 Pajaro Valley Chamber of Commerce,1
 Monterey Bay Clean Air Coalition,1
-"Veterans Service Office, County of San Diego","1"
-"Veterans' Advisory Council, County of Orange","1"
-"Veterinary Medicine Extension - U.C. Davis (committee)","1"
-"Veterinary Medicine Extension -- U.C. Davis (committee)","1"
-"Vice Mayor, City of Bakersfield","1"
-"Vice Mayor, City of San Jose","1"
-"Victims Group Opposed to Unsafe Restraints","1"
-"Victor M. Gordo, Mayor, City of Pasadena","1"
-"Video and Production Engineers","1"
-"Vietnam Veterans of California, Inc.: GOVERNOR'S VETO MESSAGE","1"
-"Victorville League of CA Cities","1"
-"Veterans Services Officers, County of Orange Veterans","1"
-"Veterinary Mobile Services","1"
-"Villa Animal Hospital","1"
-"Vineland Dog and Cat Hospital","1"
+"Veterans Service Office, County of San Diego",1
+Veterinary Medicine Extension - U.C. Davis (committee),1
+"Vice Mayor, City of Bakersfield",1
+"Vice Mayor, City of San Jose",1
+Victims Group Opposed to Unsafe Restraints,1
+"Victor M. Gordo, Mayor, City of Pasadena",1
+Video and Production Engineers,1
+"Vietnam Veterans of California, Inc.: GOVERNOR'S VETO MESSAGE",1
+Victorville League of CA Cities,1
+"Veterans Services Officers, County of Orange Veterans",1
+Veterinary Mobile Services,1
+Villa Animal Hospital,1
+Vineland Dog and Cat Hospital,1
 "Virtual Radiologic, the sponsor of the bill",1
 "WIC Program, City of Berkeley",1
 WOMEN FOR: Women's Commission County of Santa Cruz,1
@@ -6679,16 +6094,9 @@ WateReuse Association of California in order to ensure,1
 WateReuse Association of California to clarify the types of nonresidential structures,1
 "Water Association, Calleguas Municipal Water",1
 Visalia Veterinary Hospital,1
-Western Center on Law & Poverty,1
 Health Consumer Alliance,1
 California Integrated Waste Management Board,1
-Department of Health Services,1
-California State Association of Counties,1
 Environmental Entrepreneurs (E2),1
-City and County of San Francisco,1
-City of Cupertino,1
-City of Sunnyvale,1
-League of California Cities,1
 Ventura County (Wyland),1
 Ventura County Arts Council -Kehoe,1
 Ventura County Clerk-Recorder,1
@@ -6752,7 +6160,6 @@ Western States Petroleum Association Oppose on bill as introduced,1
 Western States Petroleum Association [SUPPORT AND OPPOSITION NOT VERIFIED BY COMMITTEE],1
 Western States Petroleum Association [numerous opposition letters are conditional],1
 Western States Petroleum Association [pic],1
-Western States Petroleum Association. . [pic],1
 Western United Dairymen to significantly restrict the sale of PIA dairy products produced at CSP Corcoran,1
 "Western Wheelers, San Mateo and Santa Clara Counties",1
 Westminister City,1
@@ -6800,31 +6207,19 @@ Yuba Riverkeeper,1
 "Yuba County Board of Supervisors, on behalf of Pat McGrath, Yuba County",1
 Yuba County Water agency 759,1
 Laborers' International Union of North America Locals 777 and 792,1
-Regional Council of Rural Counties,1
-Urban Counties Caucus,1
 Yuba Recreation and Park Districts of Ambrose,1
-City of Yucaipa,1
 City/County Association of Governments of San Mateo County,1
-City and County of San Francisco,1
 Community Media Access Partnership,1
-County of Contra Costa,1
 "Zareh Sinanyan, Mayor, City of Glendale",1
 Zieman Manufacturing ASSEMBLY BILL 3230 (B. FRIEDMAN) Page Two,1
 Department of Justice,1
-Union of American Physicians and Dentists,1
 Engineers and Scientists of California,1
 Yale University,1
 Rochester Institute of Technology,1
-Department of Motor Vehicles,1
-California Highway Patrol,1
-California Medical Association,1
 Autonomous University of Guadalajara,1
 United States Department of Agriculture,1
-California Public Employees' Retirement System,1
 California Correctional Peace Officers Association,1
 Vaughn Street Elementary School,1
-California Air Resources Board,1
-California Department of Finance,1
 Women For: American College of Cardiology,1
 Women For: California Displaced Homemakers,1
 Women For: Haven Women's Center,1
@@ -6844,10 +6239,7 @@ Kaiser Permanente,1
 State Water Resources Control Board,1
 California Department of Public Health,1
 Department of Industrial Relations,1
-Associated Builders and Contractors,1
 alifornia State Association of Counties,1
-University of California,1
-California State University,1
 "and, Apartment Association - California Southern Cities, Inc",1
 "and, Californians Against Waste",1
 "and, Construction Materials Association of California",1
@@ -6859,29 +6251,16 @@ Orange County Sheriff's Department,1
 Coto de Caza security force,1
 Antelope Valley Community College District,1
 West Kern Community College District,1
-The Utility Reform Network,1
 Communication Workers of America,1
 AARP,1
-Blue Cross of California,1
-Association of California Life and Health Insurance Companies,1
-Howard Jarvis Taxpayers Association,1
-California Taxpayers Association,1
 as Introduced:Town of Windsor,1
 Blue Cross,1
-Association of California Life and Health Insurance Companies,1
-Medical Board of California,1
-University of California,1
 Farmers Insurance Group,1
 California Earthquake Authority,1
 Center for Disease Control and Prevention,1
 World Health Organization,1
-Faculty Association of California Community Colleges,1
-California Federation of Teachers,1
 California Escrow Association,1
-California Land Title Association,1
 Stronger Women United,1
-Governor's Office,1
-California Department of Finance,1
 Office of the Secretary for Education,1
 California State Senate,1
 California State Assembly,1
@@ -6890,7 +6269,6 @@ United States Department of Justice,1
 US Home,1
 Ultratech Stepper (supported AB 81),1
 Construction Employers' Association,1
-California Chamber of Commerce,1
 INTERNATIONAL HEALTH RACQUET AND SPORTSCLUB ASSOCIATION,1
 Transportation Corridor Agencies,1
 City of Lynwood,1
@@ -6898,12 +6276,7 @@ Department of Social Services,1
 Sempra Energy,1
 California State Firefighters' Association,1
 Service Employees International Union,1
-Department of Consumer Affairs,1
-Department of Industrial Relations,1
-California Department of Insurance,1
-Franchise Tax Board,1
 Board of Equalization,1
-Department of Justice,1
 Stanford University Hospital,1
 Lucile Packard Children's Hospital,1
 Verizon Wireless,1
@@ -6915,9 +6288,7 @@ Columbia/HCA Healthcare Corporation,1
 California Judges Association,1
 "Pro-Craft Construction, Inc.",1
 State Building and Construction Trades Council,1
-California Farm Bureau Federation,1
 Western Growers,1
-Wine Institute,1
 deAngela Doberman Pinschers,1
 Dermalogica,1
 Off-Highway Motor Vehicle Recreation Division,1
@@ -6929,9 +6300,6 @@ Health Care Financing Administration,1
 h.o.p.e. of California,1
 Roman Reed Spinal Cord Injury Research Program,1
 "California Department of Corrections and Rehabilitation, Division of Juvenile Facilities",1
-California State Association of Counties,1
-County Welfare Directors Association of California,1
-California Mental Health Directors Association,1
 Moms for Liberty Santa Clara County,1
 Our Duty,1
 Managed Risk Medical Insurance Board (MRMIB),1
@@ -6939,102 +6307,47 @@ National Alliance of Buy Here Pay Here Dealers,1
 National Independent Automobile Dealers Association,1
 Federal Financial Institutions Examination Council,1
 Psychology Interjurisdictional Compact (PSYPACT),1
-California Hospital Association,1
-Department of Health Care Services,1
-Department of Social Services,1
-Department of Health Services,1
-East Bay Municipal Utility District,1
-Association of California Water Agencies,1
 National Newspaper Photographers Association (NNPA),1
-Civil Justice Association of California,1
-California Chamber of Commerce,1
 San Diego Association of Governments (SANDAG),1
 Professional Engineers in California Government (PECG),1
 Motorcycle Industry Council,1
 Specialty Vehicle Institute of America,1
 California Nurses Association/National Nurses United,1
-California Hospital Association,1
-California State Association of Counties,1
 California Association of Recreation & Park Districts,1
 California Park & Recreation Society,1
-California Fire Chiefs Association,1
-California Special Districts Association,1
-Fire Districts Association of California,1
 Mosquito & Vector Control Association of California,1
-California Association of Sanitation Agencies,1
-Association of California Water Agencies,1
 California Association of Resource Conservation Districts,1
 The Independent Cities Association,1
-California State Sheriffs' Association,1
 California Library Association,1
 Northern California Association of Public Cemeteries,1
 Contra Costa County Mayors' Conference,1
-Association of Bay Area Governments,1
 Alameda County Sheriff's Department,1
-Association for Los Angeles Deputy Sheriffs,1
-Los Angeles County Fire Department,1
-Los Angeles County Sheriff's Department,1
-East Bay Municipal Utility District,1
 Eastern Municipal Water District,1
 Santa Clara Valley Water District,1
 Sacramento Metropolitan Water Authority,1
 Contra Costa Water District,1
-Fresno Metropolitan Flood Control District,1
 "AFSCME - American Federation of State, County and Municipal Employees",1
-"Los Angeles County Probation Department Union, AFSCME, Local 685",1
 "California Independent Public Employees Legislative Council, Inc.",1
-California Professional Firefighters,1
 ATMEL Corporation,1
 "StrataCom, Incorporated",1
 "Silicon Graphics, Incorporated",1
-Hewlett-Packard Company,1
 San Jose Metropolitan Chamber of Commerce,1
-Sutherland Asbill & Brennan,1
-"University of California, San Francisco",1
-Southern California Edison,1
 Pacific Gas & Electric Company,1
 California Coalition of Accredited Career Schools (CCACS),1
 California Association of Private Postsecondary Schools (CAPPS),1
-City of Sacramento,1
-City of West Sacramento,1
-Sacramento County,1
 Yolo County,1
-Port of Oakland,1
-City of Santa Ana,1
-County of Sacramento,1
 Economic Development Corporation of San Benito County,1
-"American Federation of State, County and Municipal Employees (AFSCME)",1
-County of Santa Barbara,1
 Chamber of Commerce (unspecified),1
-California Retailers Association,1
 California Wool Growers Association,1
-County of Sacramento,1
-Department of Information Technology,1
-Department of General Services,1
-Health and Welfare Data Center,1
-Teale Data Center,1
 Department of Fair Employment and Housing,1
 Equal Employment Opportunity Commission,1
 California Academy of Family Physicians,1
 Osteopathic Physicians and Surgeons of California,1
-Consumer Attorneys of California,1
-City of Long Beach,1
-City of Los Angeles,1
 Clean Power Alliance,1
-City of Norco,1
-City of Sunnyvale,1
 City of Marysville,1
 City of Bell,1
-City of Redding,1
-City of Lakewood,1
-City of San Marcos,1
 Town of Loomis,1
-City of Palo Alto,1
-City of San Jose,1
 City of Santa Clara,1
-Regional Council of Rural Counties,1
-County of Orange,1
-Californians for Disability Rights,1
 Disability Rights and Defense Fund,1
 State Compensation Insurance Fund,1
 Department of Insurance,1
@@ -7043,28 +6356,20 @@ New York ACLU,1
 National Academy of Engineering,1
 Institute of Medicine,1
 National Research Council,1
-California Association of Health Plans,1
-Association of California Life and Health Insurance Companies,1
 California Institute of Technology,1
 Stanford University,1
-University of California,1
 University of Southern California,1
 Association of California Life & Health Insurance Companies (ACLHIC),1
 California Association of Health Plans (CAHP),1
 Kraft Corporation,1
-Association of California Life & Health Insurance Companies (ACLHIC),1
-California Association of Health Plans (CAHP),1
-California District Attorneys Association,1
 California Board of Accountancy,1
 Federal Reserve System,1
-California Medical Association,1
 ACOG District IX,1
 California Family Health Council,1
 California Tourism Commission,1
 California Tourism Marketing Commission,1
 "American Court and Commercial Newspapers, Inc. (ACCN)",1
 Association of Central Valley Reporters,1
-California State Auditor,1
 State Controller,1
 AASHTO,1
 ACLHIC,1
@@ -7075,9 +6380,6 @@ American Kennel Club (AKC),2
 Asian Pacific Resolution Center,1
 Association for Enforcement of Support,1
 BDPAC,2
-Board of Equalization,1
-Franchise Tax Board,1
-Employment Development Department,1
 CAVC,1
 CCAC,1
 CCF,1
