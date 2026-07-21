@@ -1,0 +1,340 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>California Groups Disambiguation Tool</title>
+  <style>
+    body { font-family: Arial, sans-serif; margin: 40px; background-color: #f8f9fa; color: #212529; }
+    .container { max-width: 800px; margin: 0 auto; background-color: white; padding: 40px;
+                 border-radius: 8px; box-shadow: 0 2px 4px rgba(0,0,0,0.1); }
+    h1 { color: #2c3e50; text-align: center; margin-bottom: 6px; }
+    .subtitle { text-align: center; color: #6c757d; font-size: 14px; margin-bottom: 24px; }
+    h3 { color: #2c3e50; margin-bottom: 20px; }
+    .link-container { text-align: center; margin: 20px 0; }
+    .csv-link { color: #3498db; text-decoration: underline; font-weight: bold; font-size: 18px; }
+    .csv-link:hover { color: #2980b9; }
+    .section { max-width: 600px; margin: 0 auto; }
+    label { display: block; margin-bottom: 8px; font-weight: bold; color: #333; }
+    input[type="text"] { width: 100%; padding: 10px; border: 1px solid #ccc; border-radius: 4px;
+                         font-size: 16px; box-sizing: border-box; }
+    button { padding: 10px 30px; font-size: 16px; border: none; border-radius: 4px;
+             cursor: pointer; color: white; }
+    button:disabled { opacity: 0.5; cursor: not-allowed; }
+    .btn-primary { background-color: #3498db; }
+    .btn-primary:hover:not(:disabled) { background-color: #2980b9; }
+    .btn-success { background-color: #28a745; }
+    .btn-success:hover:not(:disabled) { background-color: #218838; }
+    .center { text-align: center; }
+    .result-box { background-color: #f8f9fa; padding: 15px; border-radius: 5px; min-height: 24px;
+                  border: 1px solid #dee2e6; font-size: 16px; word-break: break-word; }
+    .relationship-box { margin-top: 15px; padding: 15px; background-color: #e7f3ff;
+                        border-left: 4px solid #2196F3; border-radius: 4px; display: none; }
+    hr { border: none; border-top: 2px solid #dee2e6; margin: 40px 0; }
+    .muted { color: #6c757d; font-size: 14px; }
+    .progress-outer { display: none; background: #e9ecef; border-radius: 4px; height: 22px; margin-top: 12px; overflow: hidden; }
+    .progress-inner { background: #28a745; height: 100%; width: 0%; color: white; font-size: 12px;
+                      line-height: 22px; text-align: center; transition: width .1s; }
+    #load-banner { text-align: center; color: #6c757d; font-size: 13px; margin-bottom: 18px; }
+    .footer { text-align: center; color: #6c757d; font-size: 14px; margin-top: 20px; }
+    .footer a { color: #3498db; }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <h1>California Groups Disambiguation Tool</h1>
+    <div class="subtitle">Look up the canonical name for any California advocacy organization.</div>
+    <div id="load-banner">Loading lookup data&hellip;</div>
+
+    <div class="link-container">
+      <a class="csv-link" target="_blank"
+         href="https://github.com/Nall-Group/california-groups-disambiguation/blob/main/disambiguation_summary.csv">
+        California Groups Disambiguation Summary</a>
+    </div>
+
+    <!-- Single lookup -->
+    <div class="section">
+      <h3>Single Organization Disambiguation</h3>
+      <label for="org-input">Enter organization name:</label>
+      <input type="text" id="org-input" placeholder="e.g., ACLU" autocomplete="off" disabled>
+      <div class="center" style="margin: 16px 0;">
+        <button id="lookup-btn" class="btn-primary" disabled>Disambiguate</button>
+      </div>
+      <div class="result-box" id="result-box">Enter an organization name and click &lsquo;Disambiguate&rsquo;.</div>
+      <div class="relationship-box" id="relationship-box">
+        <strong>Relationship:</strong> <span id="relationship-text"></span>
+      </div>
+    </div>
+
+    <hr>
+
+    <!-- Batch CSV -->
+    <div class="section">
+      <h3>Batch CSV Disambiguation</h3>
+      <p class="muted">Upload a CSV with organization names in the first column. The disambiguated name
+        and match status are inserted after the first column; all other columns are preserved.</p>
+      <label for="csv-upload">Choose CSV file:</label>
+      <input type="file" id="csv-upload" accept=".csv" disabled>
+      <div class="progress-outer" id="progress-outer"><div class="progress-inner" id="progress-inner">0%</div></div>
+      <div class="result-box" id="upload-status" style="margin-top: 12px;">Upload a CSV file to begin.</div>
+      <div class="center" id="download-area" style="display: none; margin-top: 16px;">
+        <button id="download-btn" class="btn-success">Download Results CSV</button>
+      </div>
+    </div>
+
+    <hr>
+    <div class="footer">
+      <p>Have an issue or suggestion for this web app?</p>
+      <a target="_blank" href="https://github.com/Nall-Group/california-groups-disambiguation/issues">Report it on GitHub Issues</a>
+    </div>
+  </div>
+
+<script>
+"use strict";
+
+// ------------------------------------------------------------------ index load
+// Loaded once, then every lookup (single + batch) is in-memory. GitHub Pages
+// gzips crosswalk_index.json on the wire (~3 MB).
+let RELS = [], CANON = [], NAMES = null;   // NAMES: { name -> [canonicalId, relId] }
+let UPPER = null;                          // upper(name) -> original key, for case-insensitive
+let FUZZY = null;                          // lazily-built [{key, cid, rid, tokens}] for fuzzy scan
+
+const loadBanner = document.getElementById("load-banner");
+
+async function loadIndex() {
+  try {
+    const r = await fetch("crosswalk_index.json");
+    if (!r.ok) throw new Error("HTTP " + r.status);
+    const idx = await r.json();
+    RELS = idx.rels; CANON = idx.canonicals; NAMES = idx.names;
+
+    // Case-insensitive index (built once). First spelling seen wins, matching a
+    // linear scan of the data.
+    UPPER = new Map();
+    for (const key in NAMES) {
+      const u = key.toUpperCase();
+      if (!UPPER.has(u)) UPPER.set(u, key);
+    }
+
+    loadBanner.textContent = CANON.length.toLocaleString() + " organizations · " +
+      Object.keys(NAMES).length.toLocaleString() + " known names — ready.";
+    document.getElementById("org-input").disabled = false;
+    document.getElementById("lookup-btn").disabled = false;
+    document.getElementById("csv-upload").disabled = false;
+  } catch (e) {
+    loadBanner.textContent = "Failed to load lookup data (" + e.message + "). Reload to retry.";
+    loadBanner.style.color = "#c0392b";
+  }
+}
+
+// ------------------------------------------------------------------ lookup core
+function tokenize(s) {
+  return s.toUpperCase().replace(/[^A-Z0-9]+/g, " ").trim().split(/\s+/).filter(Boolean);
+}
+
+function entryFor(key) {                    // -> {name, c, r}
+  const [cid, rid] = NAMES[key];
+  return { name: key, c: CANON[cid], r: RELS[rid] };
+}
+
+// Returns { match, fuzzy, matches } or null. Mirrors the previous app's order:
+// exact -> case-insensitive exact -> token-subset fuzzy. Fuzzy is now GLOBAL
+// (the old chunked app could only see names sharing a prefix), so it finds
+// strictly more candidates; it never runs when an exact match exists.
+function lookupName(name) {
+  const trimmed = name.trim();
+  if (!trimmed) return null;
+
+  if (NAMES[trimmed]) return { match: entryFor(trimmed), fuzzy: false };
+
+  const hit = UPPER.get(trimmed.toUpperCase());
+  if (hit) return { match: entryFor(hit), fuzzy: false };
+
+  const queryTokens = tokenize(trimmed);
+  if (queryTokens.length === 0) return null;
+
+  if (!FUZZY) {                             // build the tokenized scan list once
+    FUZZY = [];
+    for (const key in NAMES) {
+      const [cid, rid] = NAMES[key];
+      FUZZY.push({ key, cid, rid, tokens: tokenize(key) });
+    }
+  }
+
+  const candidates = [];
+  for (const e of FUZZY) {
+    if (e.tokens.length < queryTokens.length) continue;
+    const allPresent = queryTokens.every(qt => e.tokens.some(et => et.includes(qt)));
+    if (allPresent) candidates.push({ name: e.key, c: CANON[e.cid], r: RELS[e.rid],
+                                      score: e.tokens.length - queryTokens.length });
+  }
+  if (candidates.length === 0) return null;
+  candidates.sort((a, b) => a.score - b.score || a.name.localeCompare(b.name));
+  return { match: candidates[0], fuzzy: true, matches: candidates.slice(0, 5) };
+}
+
+function relationshipSentence(matchName, m) {
+  if (!m.r || m.r === "self") return null;
+  const label = m.r.replace(/_/g, " ");
+  const article = label === "alternate spelling" ? "an" : "a";
+  return matchName + " is " + article + " " + label + " of " + m.c;
+}
+
+// ------------------------------------------------------------------ single UI
+const resultBox = document.getElementById("result-box");
+const relBox = document.getElementById("relationship-box");
+const relText = document.getElementById("relationship-text");
+
+document.getElementById("lookup-btn").addEventListener("click", () => {
+  const input = document.getElementById("org-input").value;
+  relBox.style.display = "none";
+  resultBox.innerHTML = "";
+
+  if (!input.trim()) { resultBox.textContent = "Please enter an organization name."; return; }
+
+  const result = lookupName(input);
+  if (!result) { resultBox.textContent = "No match found for: " + input.trim(); return; }
+
+  const m = result.match;
+  if (result.fuzzy) {
+    const prefix = document.createElement("div");
+    prefix.style.cssText = "color:#856404;margin-bottom:8px;";
+    prefix.textContent = "No exact match. Closest:";
+    resultBox.appendChild(prefix);
+    for (const c of result.matches) {
+      const row = document.createElement("div");
+      row.style.marginBottom = "4px";
+      const nm = document.createElement("strong");
+      nm.textContent = c.name;
+      row.appendChild(nm);
+      if (c.c !== c.name) row.appendChild(document.createTextNode(" → " + c.c));
+      resultBox.appendChild(row);
+    }
+  } else {
+    resultBox.textContent = m.c;
+  }
+
+  const sentence = relationshipSentence(result.fuzzy ? m.name : input.trim(), m);
+  if (sentence) { relText.textContent = sentence; relBox.style.display = "block"; }
+});
+
+document.getElementById("org-input").addEventListener("keydown", e => {
+  if (e.key === "Enter") document.getElementById("lookup-btn").click();
+});
+
+// ------------------------------------------------------------------ CSV helpers
+function parseCSV(text) {
+  const rows = []; let i = 0;
+  while (i < text.length) {
+    const row = [];
+    while (i < text.length) {
+      let field = "";
+      if (text[i] === '"') {
+        i++;
+        while (i < text.length) {
+          if (text[i] === '"') {
+            if (text[i + 1] === '"') { field += '"'; i += 2; }
+            else { i++; break; }
+          } else { field += text[i++]; }
+        }
+      } else {
+        while (i < text.length && text[i] !== ',' && text[i] !== '\n' && text[i] !== '\r') field += text[i++];
+      }
+      row.push(field);
+      if (i < text.length && text[i] === ',') i++; else break;
+    }
+    if (i < text.length && text[i] === '\r') i++;
+    if (i < text.length && text[i] === '\n') i++;
+    if (!(row.length === 1 && row[0] === "")) rows.push(row);
+  }
+  return rows;
+}
+
+function escapeCSVField(v) {
+  v = v == null ? "" : String(v);
+  return /[",\n\r]/.test(v) ? '"' + v.replace(/"/g, '""') + '"' : v;
+}
+const rowToCSV = row => row.map(escapeCSVField).join(",");
+
+// ------------------------------------------------------------------ batch UI
+let batchResultCSV = null;
+
+document.getElementById("csv-upload").addEventListener("change", async e => {
+  const file = e.target.files[0];
+  if (!file) return;
+
+  const statusEl = document.getElementById("upload-status");
+  const progressOuter = document.getElementById("progress-outer");
+  const progressInner = document.getElementById("progress-inner");
+  const downloadArea = document.getElementById("download-area");
+
+  downloadArea.style.display = "none";
+  batchResultCSV = null;
+  statusEl.textContent = "Reading file…";
+  progressOuter.style.display = "block";
+  progressInner.style.width = "0%"; progressInner.textContent = "0%";
+
+  const text = await file.text();
+  const rows = parseCSV(text);
+  if (rows.length < 2) {
+    statusEl.textContent = "Error: CSV appears empty or has no data rows.";
+    progressOuter.style.display = "none";
+    return;
+  }
+
+  const header = rows[0];
+  const dataRows = rows.slice(1);
+  const outHeader = [header[0], "disambiguated_name", "match_status"];
+  if (header.length > 1) outHeader.push(...header.slice(1));
+  const outputRows = [outHeader];
+
+  let matched = 0;
+  const total = dataRows.length;
+
+  // Process in chunks so the progress bar/UI stays responsive on large files.
+  let i = 0;
+  const CHUNK = 2000;
+  function step() {
+    const end = Math.min(i + CHUNK, total);
+    for (; i < end; i++) {
+      const row = dataRows[i];
+      const name = (row[0] || "").trim();
+      let disambiguated = "No match found", status = "No Match";
+      if (name) {
+        const res = lookupName(name);
+        if (res && !res.fuzzy) { disambiguated = res.match.c; status = "Matched"; matched++; }
+        else if (res && res.fuzzy) { disambiguated = res.match.c; status = "Fuzzy Match"; matched++; }
+      }
+      const outRow = [row[0] || "", disambiguated, status];
+      if (header.length > 1) outRow.push(...row.slice(1));
+      outputRows.push(outRow);
+    }
+    const pct = Math.round((i / total) * 100);
+    progressInner.style.width = pct + "%"; progressInner.textContent = pct + "%";
+
+    if (i < total) { setTimeout(step, 0); return; }
+
+    batchResultCSV = outputRows.map(rowToCSV).join("\n");
+    progressInner.style.width = "100%"; progressInner.textContent = "100%";
+    statusEl.textContent = "Processed " + total.toLocaleString() + " organizations. " +
+      matched.toLocaleString() + " matched (" + (total ? (matched / total * 100).toFixed(1) : 0) + "%).";
+    downloadArea.style.display = "block";
+  }
+  statusEl.textContent = "Processing rows…";
+  step();
+});
+
+document.getElementById("download-btn").addEventListener("click", () => {
+  if (!batchResultCSV) return;
+  const blob = new Blob([batchResultCSV], { type: "text/csv" });
+  const url = URL.createObjectURL(blob);
+  const a = document.createElement("a");
+  a.href = url; a.download = "disambiguated_results.csv";
+  document.body.appendChild(a); a.click(); a.remove();
+  URL.revokeObjectURL(url);
+});
+
+loadIndex();
+</script>
+</body>
+</html>
