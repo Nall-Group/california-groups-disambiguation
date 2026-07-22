@@ -287,7 +287,9 @@ I did **not** add it as a canonical (adding an Act as an org would corrupt the c
 **Possible follow-up:** if the step-2 extractor produced this, other Act-acronyms (POBOR/POBAR, FPBRA, CEQA...) may also have been mis-extracted as orgs. Might be worth a sweep of `narrative_text_mapping_to_orgs.csv` for legislation acronyms.
 
 ### Q52 (Task 4703, RA-Fleet-2) — DATA DEFECT: 10 child nodes use a `canonical` key instead of `name`, which crashes pipeline step 2 for everyone
-**Status:** Open
+**Status:** Answered
+
+**Answer (supervisor, relayed by management-assistant-1, 2026-07-22):** **Resolved — no data task needed.** Investigation traced the defect: the 10 malformed nodes were written by task 4237's apply script (commit f83ad5840, 2026-07-16 00:44) and were already fixed the same day by task 4846 (commit 05813dc16, 22:56, key renamed `canonical` → `name`); a full walk of the live JSON confirms 0 child nodes now lack `name`, and task 5138 subsequently ran the full pipeline successfully. **(2) Walker hardening: approved and done** (commit dc98c18af, by management-assistant-1): tolerant `name`/`canonical` reads at `clean_crosswalk.py` (`clean_children`, `merge_clusters`), `org_matching_utils.py` crosswalk walk, and `regenerate_org_subsets.py` `load_crosswalk_names`; additionally `clean_children` now self-heals the bad key on write, so a recurrence gets silently normalized on the next pipeline run instead of taking the fleet down. Verified with malformed-child unit tests and a clean full `--dry-run` pass.
 
 Surfaced incidentally while doing task 4703 (I needed the matcher to check the batch against the crosswalk — my own task needed no data changes). **I have not touched any data file**; this is a report, not a fix.
 
