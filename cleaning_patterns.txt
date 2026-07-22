@@ -70,6 +70,24 @@
 # Trailing "None on file" suffix - END
 (?i),?\s*None on file\s*$
 
+# Trailing "(co-)sponsor of this/the measure|bill|legislation|act|resolution" phrase (task 5138, Q31) - END
+(?i)[\s,/"-]+(?:is\s+|also\s+)?(?:(?:a|the|one\s+of\s+the)\s+)?(?:principal\s+)?(?:co[\s-]?)?sponsors?\s+of\s+(?:this|the)\s+(?:measure|bill|legislation|act|resolution)s?\s*$
+
+# Trailing "None on file" stance rendering, incl. no-space "Assn.None on file." (task 5138, Q36 pattern 1) - END
+\s*None on file\.?\s*$
+
+# Trailing ", unless amended" stance tail (task 5138, Q41) - END
+,\s*unless\s+amended\s*$
+
+# Trailing "[SPONSOR]" / "[CO-SPONSORS]" marker — end-anchored ONLY; mid-string [SPONSOR] is a conjoin separator and must NOT be stripped (task 5138, Q43) - END
+\s*\[(?:CO-)?SPONSORS?\]\s*$
+
+# Trailing "(cosponsor)"/"(co-sponsors)" parenthetical, unhyphenated included (task 5138, Q45-A, supersedes Q48) - END
+(?i)\s*\(co-?sponsors?\)\s*$
+
+# Trailing ", a co-sponsor of/to ..." appositive phrase (task 5138, Q45-B) - END
+(?i),\s*(?:a\s+)?co-?sponsors?\s+(?:of|to)\b.*$
+
 # Square brackets - END
 (?i)\s*\[co-sponsor\]\s*$
 (?i)\s*\[sponsor\]\s*$
@@ -252,6 +270,9 @@
 # Leading "and " fragment - BEGINNING
 (?i)^and\s+
 
+# Leading "Co-Sponsor " / "Cosponsors of this bill, " prefix (task 5138, Q45-C) - BEGINNING
+(?i)^co-?sponsors?\s+(?:of\s+(?:this|the)\s+bill,\s*)?
+
 # Leading numbered-list artifact (e.g. "1. Org Name", "1995. Org Name") - BEGINNING
 (?i)^\s*\d+\.\s+
 
@@ -313,3 +334,12 @@
 (?i)\s*\[submitted on earlier version\]\s*
 (?i)\s*\[submitted on previous version\]\s*
 (?i)\s*\[unable to re-verify\]\s*
+
+# PDF page-footer artifacts "PageB"/"Page3"/"Page n" spliced into names (task 5138, Q50) - ANYWHERE
+# Case-SENSITIVE on purpose: capital letter/digit required in the no-space form so
+# "Paged"/"Pages" never trigger; spaced form requires a SINGLE alnum token after "Page"
+# so "One Page Plan" / "Page & Turnbull" / "Page Avenue ..." are never touched.
+# clean_org_name() substitutes a single space then collapses whitespace, so mid-string
+# strips can't fuse the surrounding words.
+\bPage[A-Z0-9]\b
+\bPage\s[A-Za-z0-9]\b

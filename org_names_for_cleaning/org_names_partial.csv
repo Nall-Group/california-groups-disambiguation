@@ -2,9 +2,9 @@ org_name,count
 None received,42007
 Unknown,5828
 None known,4217
-,1579
+,1846
 COUNTIES,587
-Two individuals,418
+Two individuals,419
 Union,372
 No known,356
 California,339
@@ -28,7 +28,7 @@ Services,140
 SMH:bjw,139
 for Criminal Justice,125
 SPONSOR,123
-Department,120
+Department,122
 Opponents,119
 4 individuals,117
 Neutral,116
@@ -44,7 +44,7 @@ Four individuals,103
 Center,101
 Physicians,94
 Sacramento,91
-Association of California,90
+Association of California,91
 Administration,87
 Stand Up for,87
 writing,85
@@ -63,7 +63,7 @@ County Sheriffs Department,73
 7 individuals,72
 of Colored People,71
 PATH,70
-6 individuals,69
+6 individuals,70
 a number of individuals,67
 Cities of,66
 Many individuals,66
@@ -186,7 +186,6 @@ Town of,27
 of Realtors,27
 18 individuals,27
 Section,27
-PageB,27
 Bureau,26
 Nevada,26
 Authority,26
@@ -201,7 +200,6 @@ California Reproductive Health Association,26
 The Jewish Federation,26
 Agency,25
 Butte,25
-PageD,25
 California Federation,25
 Centers,25
 RS,25
@@ -260,7 +258,6 @@ Lake,20
 Palo Alto,20
 College,20
 "Council, Inc",20
-PageF,20
 Finance,20
 Gun,20
 Mexican,20
@@ -281,6 +278,7 @@ Professional,19
 Building,19
 we are,19
 Protection,19
+The,19
 Cities,18
 Conference,18
 of Los Angeles,18
@@ -324,7 +322,6 @@ Long Beach Police,16
 "of State, County and Municipal Employees (AFSCME), AFL-CIO",16
 "of State, County and Municipal Employees, AFL-CIO",16
 42 individuals,16
-Page D,16
 Federation,15
 Health,15
 Legislative Council,15
@@ -344,9 +341,7 @@ Women Against Gun,15
 USA,15
 Law Enforcement,15
 on the Status of Women,15
-Page E,15
 Environmental Organizations,15
-The,15
 National,14
 Fullerton,14
 Insurance,14
@@ -485,7 +480,6 @@ of the San Francisco Bay Area,11
 three,11
 amended version,11
 MD,11
-Page b,11
 this bill would,11
 35 individuals,11
 40 individuals,11
@@ -540,7 +534,6 @@ International Brotherhood of,10
 Kingsburg,10
 Mission,10
 National Organization,10
-Page G,10
 Plumbing-Heating-Cooling Contractors Association of,10
 Traditional,10
 "Veterans Advisory Council, County of",10
@@ -608,8 +601,6 @@ Hotel,9
 III,9
 Legislative Dir,9
 "Military Order of the Purple Heart of the USA, Inc., Department of",9
-Page H,9
-Page j,9
 Roundtable,9
 SCR,9
 San Francisco Bicycle,9
@@ -693,8 +684,6 @@ Lutheran Office of,8
 Natural,8
 Neglect,8
 Northern California CF,8
-Page f,8
-Page k,8
 Painting,8
 Sacramento County Board of,8
 The American,8
@@ -830,7 +819,6 @@ Title,7
 several letters from private citizens,7
 increased,7
 amend,7
-Page p,7
 Boards,7
 Institute/Center for,7
 others,7
@@ -849,8 +837,9 @@ Over 50 letters and calls from individuals,7
 Eleven individuals,7
 "Joaquin, Stanislaus, Merced, Fresno and San Luis Obispo counties",7
 "Petition signatures of individuals 36,661",7
+a,7
+co,7
 Workers,6
-co,6
 Legal,6
 Community,6
 Officials,6
@@ -966,7 +955,6 @@ National Rifle Association of,6
 Nursing,6
 Organizations Expressing Concern,6
 Outdoor Sportsman's Coalition of,6
-Page n,6
 Palo,6
 Parenthood of California,6
 Prisoners,6
@@ -1051,6 +1039,7 @@ Various physicians,6
 AIC,6
 Two individual engineers,6
 6 letters from individuals,6
+i,6
 CIO,5
 Concerns,5
 Professionals,5
@@ -1094,7 +1083,6 @@ Legislature,5
 Administrative Law Judges,5
 Tarzana,5
 Yorba Linda,5
-i,5
 IX/CA,5
 Progressive,5
 "Clara County, Santa Cruz County, Shasta County, Sonoma",5
@@ -1207,7 +1195,6 @@ National Coalition Against Legalized,5
 Nav,5
 North American,5
 Officers in,5
-Page m,5
 Plumbing-Heating-Cooling,5
 Protect,5
 "Ray McKeon, Director of Detention Ministry, Archdiocese of",5
@@ -1303,6 +1290,7 @@ Unknown with latest amendments,5
 "Numerous Groups and Individuals, including Traumatologists and Acupuncturists",5
 agencies,5
 County of,5
+SB,5
 California Public,4
 Administrators,4
 Association of,4
@@ -2325,9 +2313,6 @@ Organizing Project,3
 Owens Valley Board of Trustees - Pauite-Shoshone Band of,3
 P.C,3
 Pacific Coast Regional,3
-Page I,3
-Page o,3
-Page w,3
 Painting and Decorating,3
 Palisades,3
 Paper Association,3
@@ -2545,7 +2530,6 @@ Officer,3
 Public Defender's,3
 THE CA,3
 "Agency, INC",3
-Page L,3
 Strong,3
 The Law,3
 AB 3033,3
@@ -2620,7 +2604,6 @@ stakeholders,3
 their concerns,3
 time,3
 user,3
-a sponsor of the bill,3
 aelc,3
 agencies opposed to,3
 agency peace officers,3
@@ -2704,7 +2687,6 @@ Westwood community merchants,3
 Westwood residents,3
 a Project of Community Partners,3
 a Responsible Budget,3
-a co-sponsor of the bill,3
 a number,3
 P3 1,3
 Director of Libraries,3
@@ -2745,7 +2727,6 @@ CALA,3
 CPU,3
 California Association of Rehabilitation and Reemployment Professionals,3
 City's legislative platform,3
-Co-sponsor California Advocates for Nursing Home Reform,3
 County's Office of Inspector General,3
 "However, it",3
 In several,3
@@ -3653,7 +3634,6 @@ California Association of Community,2
 California Association of Mortgage,2
 California Association of Supervisors of,2
 California Black Chamber of,2
-"California Building and Construction Trades Council, AFL-CIO, the sponsor of the bill",2
 California Cable,2
 California Car & Truck,2
 "California Chamber of Commerce, Attorney General of",2
@@ -4262,8 +4242,6 @@ PLUS 28 LETTERS FROM CITIES AND,2
 "PREVIOUS LEGISLATION . SB 2 (Burton), Chapter 673, Statutes of",2
 PTB,2
 Pacific West Association of,2
-Page C,2
-Page Q,2
 Paint,2
 Pajaro,2
 Pala Band of,2
@@ -4750,7 +4728,7 @@ AB 2514 - Thomson,2
 AB 2944 - Poochigian Brochure Federal,2
 "AB 3101, Page Employees",2
 AB 3117 - Brulte Mission Federal Credit Union,2
-AB 3236 Page 4 DIR,2
+AB 3236 DIR,2
 AB 799 - Leno Rescue MUNI,2
 AB 982 - Firestone Workers,2
 AB and Agriculture,2
@@ -4953,7 +4931,6 @@ a utilization review organization,2
 lupus,2
 on Home and Building Inspections Legislation,2
 on Law & Poverty,2
-several PageB individuals,2
 tions Authority,2
 two individual owners of property in San Francisco,2
 Beyond imagination,2
@@ -5639,7 +5616,6 @@ care,1
 Safety,1
 time of this writing,1
 Federation of California,1
-SB,1
 Association for,1
 Officers of California,1
 Legal Services for,1
@@ -5673,7 +5649,6 @@ Concerned,1
 Patrolmen,1
 of 1911,1
 Communications,1
-a,1
 Affairs Committee,1
 California Council on Alcohol,1
 Counties Caucus,1
@@ -6815,7 +6790,7 @@ LEAD,1
 (Pavley) Association,1
 (Pavley) Employees Association (CSEA),1
 (Polanco) Health Planning Council,1
-(Polanco) PageB Liberties Union,1
+(Polanco) Liberties Union,1
 (Simitian) Association,1
 "(Solis) Caplan, Founder and Chairman of Frieda's",1
 (Steinberg) Sheriff,1
@@ -7585,8 +7560,8 @@ the seat,1
 medical groups/IPAs,1
 CDF Firefighters Local,1
 (Leno) Justice Coalition,1
-(Lieber) PageB Research Association of California,1
-(Maze) PageB Parents Association,1
+(Lieber) Research Association of California,1
+(Maze) Parents Association,1
 (Morrow & Polanco) Police Officers Association,1
 (Nation) Project,1
 104 Individual Letters from Representatives of,1
@@ -8184,7 +8159,7 @@ California Assoc. of,1
 "California Association for Medical Laboratory Technology, California Society of Pathologists, and Engineers & Scientists of",1
 California Association of (Miller),1
 California Association of (Steinberg),1
-California Association of (Torrico) PageB,1
+California Association of (Torrico),1
 California Association of Certified,1
 California Association of Council of,1
 California Association of Deans and Directors of,1
@@ -9206,7 +9181,7 @@ Executive Committee of the Trusts and Estate Section of the State Bar of,1
 "Executive Committee, Family Law Section, State Bar of",1
 "Exeter, City of",1
 "Export Administration and the Defense Trade Group, U.S. Dept. Of",1
-FACTS (Families SB 1642 (Romero) PageB Against California's Three Strikes),1
+FACTS (Families SB 1642 (Romero) Against California's Three Strikes),1
 FAIR Plan,1
 FARE,1
 FBA,1
@@ -10114,7 +10089,7 @@ Nor Cal Rental,1
 NorCal Center on,1
 NorCal Rental,1
 North (Ortiz/Alby) District,1
-North AB 2211 (Horton) PageB Village Improvement Committee,1
+North AB 2211 (Horton) Village Improvement Committee,1
 North American Riding for,1
 North Bakersfield,1
 "North Coast Railroad Authority, County of",1
@@ -10285,12 +10260,8 @@ Pacific Institute - Community Strategies for,1
 "Pacific Interment Service, Inc",1
 Pacto de,1
 Page 5p,1
-Page R,1
 Page Two,1
-Page u,1
-PageB Association of California,1
-PageB Department,1
-PageB and Correctional Association,1
+and Correctional Association,1
 Pain Foundation,1
 "Painting, Inc",1
 Palace,1
@@ -10612,7 +10583,7 @@ SB 1179 - Ducheny M/E Systems Engineering,1
 SB 1280 - OoConnell The Trust for Public Land,1
 "SB 1462 - Morrow Service Officers, Inc",1
 SB 17 X2 Solar Depot,1
-"SB 38 (Alquist), PageF of",1
+"SB 38 (Alquist), of",1
 SB 75 X2 Lieutenant Governor Cruz Bustamante,1
 SB 930 (Hughes) (CalPIRG),1
 "SB >, Page California Medical Association",1
@@ -11161,7 +11132,7 @@ The Trust for,1
 The Trust for Public Land COMPARISON OF COMMON ASSESSMENT STATUTES,1
 The University Corporation,1
 The Western Center on Law and,1
-"The Women's AB 1015 (Chu) PageB Resource Center of California State University, Sacramento",1
+"The Women's AB 1015 (Chu) Resource Center of California State University, Sacramento",1
 The Women's Center of,1
 The Women's Zionist Organization of,1
 There is,1
@@ -11290,7 +11261,6 @@ VBG explains that while they share 's concerns regarding predatory companies tha
 VCTC as the compromise between the Ventura County Board of Supervisors,1
 "VISIONES (Fresno, CA) and",1
 VP,1
-"VTA, sponsor of the bill",1
 "Valerie Richards, Parents of",1
 Valley Community Hospital,1
 "Valley Community Services District, California",1
@@ -11467,8 +11437,6 @@ by county probation,1
 by the ACLU and,1
 by the Church of,1
 can,1
-co-sponsor City of Los Angeles,1
-co-sponsor Recreational Vehicle Industry Association,1
 continued Employees,1
 dam co-owner,1
 development purposes. CSAC,1
@@ -12021,7 +11989,7 @@ say,1
 see Comment 8) (NOTE: THIS ANALYSIS REFLECTS AMENDMENTS TO BE OFFERED BY,1
 sel,1
 serving,1
-several AB 184 (Lowenthal) PageB individuals,1
+several AB 184 (Lowenthal) individuals,1
 several environmental advocacy organizations such,1
 several major educational organizations and others who support AB 32's goals and who could benefit,1
 shooter,1
@@ -12056,7 +12024,7 @@ to express their,1
 to further,1
 to get information,1
 too,1
-two individuals SB 1459 (Romero) PageB,1
+two individuals SB 1459 (Romero),1
 undersigned organizations are writing,1
 undersigned organizations express their strong,1
 undersigned organizations have a long history of working with California legislators and stakeholders to craft and,1
@@ -12466,7 +12434,6 @@ Citizens letters (20),1
 140 private citizens,1
 1426 individuals,1
 144 private individuals,1
-149 form Page o support letters from individuals and couples from Hemet and Sun City,1
 15 letters from general public,1
 15 letters from individual doctors,1
 150+ letters from individuals,1
@@ -12712,7 +12679,6 @@ Citizens letters (20),1
 59 Mobilehome parkowners and individuals,1
 6 individual hearing aid specialists,1
 6 individual small businesses,1
-6 individuals Page n,1
 6 personal letters,1
 60 California judges,1
 60 letters from individual members of United Cerebral,1
@@ -12872,7 +12838,6 @@ Assoc. of California Water,1
 Assoc. of Family and Conciliation,1
 Associated Builders and,1
 Association (CFSA),1
-Association Page b for Los Angeles Deputy Sheriffs,1
 "Association of California (EMSAAC), representing LEMSAs",1
 Auditor-Controllers of the following counties,1
 Bank of America: Interest,1
@@ -13217,7 +13182,6 @@ office NFA,1
 on Alcohol Problems,1
 one CPA,1
 one individual (from Florida),1
-one individual PageB,1
 one individual constituent,1
 one-hundred fifty-five individuals,1
 open,1
@@ -13242,7 +13206,6 @@ tax reduction associations,1
 telecommunications services,1
 the purchase,1
 two attorneys,1
-two individuals PageB,1
 vaping manufacturers,1
 various individuals and doctors,1
 voucher regional centers,1
@@ -13627,7 +13590,6 @@ The following groups,1
 The following individuals,1
 The listed below is based,1
 The review process is,1
-The sponsor of the measure,1
 The sponsor states,1
 The sponsor writes,1
 There is no known on file,1
@@ -15156,7 +15118,7 @@ of Justice of the State Bar,1
 "of the United States and Canada, Local 78",1
 "(Liu) Painting, Inc",1
 (Morrow) Church,1
-(Morrow) PageB Resource Center,1
+(Morrow) Resource Center,1
 11 Private Citizens 542,1
 "16 Individuals, City of La Mesa",1
 2 private citizens 2156,1
@@ -15179,7 +15141,7 @@ CO-SPONSOR! Assoc,1
 CO-SPONSOR! San Diego ChapterAaron,1
 CSOs,1
 CTSA,1
-California (Battin) PageB Association,1
+California (Battin) Association,1
 California (Battin) continued Association,1
 California (Correa),1
 California (Dymally) Association,1
