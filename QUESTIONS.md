@@ -321,7 +321,9 @@ Want me to file this as a task (data fix, or data fix + walker hardening)?
 Note `clean_crosswalk.py:166` already does exactly the tolerant thing (`node["canonical"] if "canonical" in node else node["name"]`), so the tolerant accessor is an established idiom in this codebase — hardening the other walkers would match existing style, not introduce a new one. **My vote: fix the data AND harden the walkers** (agreeing with RA-Fleet-2), since a one-key typo silently taking down the pipeline for the whole fleet is a bad failure mode. Happy to take the task if you want it filed — no data touched here either.
 
 ### Q51 (Task 4601, RA-Fleet-3) — CLEANING PATTERN PROPOSAL: leading `Oppose ` stance prefix — 7 crosswalk entries
-**Status:** Open
+**Status:** Answered
+
+**Answer (supervisor, relayed by management-assistant-1, 2026-07-21):** **NOT approved as a cleaning pattern.** Leave the 7 `Oppose `-prefixed entries as alternate spellings under their correct canonicals (which they already are — no action needed). The supervisor will instead look at updating the upstream parser so the stance column stops bleeding into org names. Do not file a follow-up task.
 
 Surfaced while doing task 4601 (leginfo batch 924), where 3 of the batch's entries were `Oppose `-prefixed source strings. Per the Worker RA Role I'm proposing a regex rather than cleaning them one by one, and I have **not** touched `cleaning_patterns.txt`. I filed all 3 as exact-spelling alts under their correct canonicals (forward-compatible: if this is approved, `clean_crosswalk.py` reduces each to a still-valid alt or merges it into the canonical).
 
@@ -351,7 +353,13 @@ Surfaced while doing task 4601 (leginfo batch 924), where 3 of the batch's entri
 Should I file a follow-up task to add this pattern + run the full clean/dedup/stats pipeline?
 
 ### Q50 (Task 4582, RA-Fleet-3) — CLEANING PATTERN PROPOSAL: mid-string PDF page-footer artifacts (`PageB`, `Page n`, `Page 3`) — ~28+ entries
-**Status:** Open
+**Status:** Answered
+
+**Answer (supervisor, relayed by management-assistant-1, 2026-07-21):** **Approved with a tighter scope** (option from your Q1): only a SINGLE character after `Page`, and the no-space form must be case-sensitive with a CAPITAL letter (or digit) so words like `Paged`/`Pages` can never trigger. Use two patterns instead of the single wildcard one:
+- no-space: `\bPage[A-Z0-9]\b` (case-SENSITIVE — matches `PageB`, `PageC`, `PageO`, `Page3`; not `Paged`)
+- spaced: `\bPage\s[A-Za-z0-9]\b` (matches `Page n`, `Page b`, `Page 3`; `One Page Plan` and `Page &` remain safe since the next token is multi-char/non-alnum)
+
+Both strip to a SINGLE space when mid-string, then collapse whitespace. **Q2:** entries with additional damage (`[NOTE: …]`, stray parentheticals) get only the footer stripped by the pattern; their remaining junk is per-entry follow-up work, not part of this regex. Implementation folded into batch task 5138.
 
 Surfaced while doing task 4582 (leginfo batch 906), whose entry `North County Rape Crisis & Child Protection Center (Santa PageB Barbara County)` carries a page footer spliced into the **middle** of the org name. Per the Worker RA Role I am proposing a regex rather than cleaning them one by one, and per the same rule I have **not** touched `cleaning_patterns.txt`. I filed the batch-906 entry as an exact-spelling alt (forward-compatible: if this pattern is approved, `clean_crosswalk.py` reduces it to a still-valid alt).
 
@@ -419,7 +427,9 @@ The neighbours that were NOT merged (`Sacramento County Taxpayers League`, `Unit
 
 ### Q48 (Task 4565, RA-Fleet-3) — Cleaning-pattern proposal: unhyphenated `(cosponsors)` suffix is not stripped (11 entries)
 
-**Status:** Open
+**Status:** Answered
+
+**Answer (supervisor, relayed by management-assistant-1, 2026-07-21):** **Approved.** Note Q45's regex A (`\s*\(co-?sponsors?\)\s*$`, also approved) is a superset of this pattern, so only Q45-A needs to land — this question's ask is resolved by it. On the caveat: **option (a)** — keep each of the 11 dirty strings as an `alternate_spelling` of its clean canonical so the source rows keep mapping (consistent with task 1716 and how 4518/4565 handled it). Implementation folded into batch task 5138.
 
 **Type:** reusable cleaning-pattern proposal (per CLAUDE.md "Proposing new cleaning patterns"). Not blocking — task 4565 is committed; this is a global cleanup for sign-off.
 
@@ -515,7 +525,9 @@ Task 4541 is marked **Blocked** with the assignee cleared; the 19 resolved entri
 
 ### Q45 (Task 4534, RA-Fleet-1) — CLEANING-PATTERN PROPOSAL: `cosponsor` / `co-sponsor` bill-position boilerplate (~72 entries)
 
-**Status:** Open
+**Status:** Answered
+
+**Answer (supervisor, relayed by management-assistant-1, 2026-07-21):** **(1) A, B and C approved as written** (implementation folded into batch task 5138; run `clean_crosswalk.py --dry-run` first per your caveat, and keep dirty source strings as alts per [[prefix_strip_orphan]]). **(2)** Bare `sponsor` stays OUT of scope — do not widen. **(3)** Confirmed — the 9 irregular leftovers become a separate manual task (5140), handled per-entry, no regex.
 
 **How I found it:** Task 4534 added `Leukemia Lymphoma Society (cosponsors)` as an alt spelling. `scripts/clean_name.py` leaves it untouched, so I swept the crosswalk: **72 nodes** carry `co-sponsor`/`cosponsor` bill-position boilerplate. Historical task **-22** stripped `CO-SPONSOR`/`SPONSOR`/`Co-Source`, but it clearly missed the **unhyphenated `cosponsor`** spelling and the phrase forms below. **I have NOT applied anything** — per CLAUDE.md, global regexes need your sign-off.
 
@@ -590,7 +602,9 @@ Task 4512 is marked **Blocked** with the assignee cleared; the 8 resolved entrie
 
 ### Q43 (Task 4463, RA-Fleet-1) — Cleaning-pattern proposal: `[SPONSOR]` marker — but it is often a CONJOIN SEPARATOR, so a plain strip would be wrong
 
-**Status:** Open
+**Status:** Answered
+
+**Answer (supervisor, relayed by management-assistant-1, 2026-07-21):** **Q1: Approved**, generalized to also cover bracketed variants found in the CSVs (`[CO-SPONSOR]` ×1, `[SPONSORS]` ×1; no `[SOURCE]`/`[CO-SOURCE]` exist anywhere — unbracketed Co-Source was already handled by historical task -22): use `\s*\[(?:CO-)?SPONSORS?\]\s*$` (end-anchored only, per the proposal). Implementation folded into batch task 5138. **Q2: Yes** — the ~12-15 mid-string Case B entries are genuine conjoined strings and per CLAUDE.md must be split: each component to the crosswalk, fused string to `conjoined_text_mapping_to_orgs.csv`. The leginfo batches' "do NOT route to CSV" instruction is overridden here — that instruction was about not discarding org names, and conjoined splitting preserves them. Filed as task 5139.
 
 Not blocking — task 4463 is complete and committed. This is a recurring-pattern proposal per the Worker RA Role ("3+ entries sharing the same strippable boilerplate").
 
@@ -652,9 +666,11 @@ If (a), this is a one-line follow-up task.
 
 ### Q41 (Task 4410, RA-Fleet-3) — Cleaning-pattern proposal: strip trailing `, unless amended`
 
-**Status:** Open
+**Status:** Answered
 
 Not a blocker — task 4410 is committed. Filing per the Worker RA "3 or more dirty entries sharing the same strippable boilerplate" rule. **I have not touched `cleaning_patterns.txt`.**
+
+**Answer (supervisor, relayed by management-assistant-1, 2026-07-21):** **Q1: Approved as written** — `,\s*unless\s+amended\s*$` (implementation folded into batch task 5138). **Q2:** the larger adjacent "amended" family stays OUT of scope for now — leave those to per-entry tasks; propose separately if a clean sub-class (e.g. the `(THIS ANALYSIS REFLECTS AUTHOR'S AMENDMENTS…)` boilerplate) proves recurrent.
 
 **The pattern.** `, unless amended` is the tail of an `oppose unless amended` stance bleeding into the org name (the leginfo source literally has an `opposition_unless_amended` column). It is never part of an org's real name.
 
@@ -802,7 +818,9 @@ My reasoning: in each the spliced token is a *fragment* of another org, not a wh
 
 ### Q36 (Task 4274, RA-Fleet-1) — Cleaning-pattern proposal: leginfo `None` / `None on file.` stance boilerplate
 
-**Status:** Open
+**Status:** Answered
+
+**Answer (supervisor, relayed by management-assistant-1, 2026-07-21):** **Approve pattern 1 only** — `\s*None on file\.?\s*$`. Patterns 2 and 3 are NOT approved: the bare-`None` entries (`CA Manufacturers Assn. None`, `CA Manufacturers Assn.None`, `City of San Diego None`, `City of San Diego (sponsor) None`) should be kept/added as `alternate_spelling`s under their clean canonicals rather than regex-stripped. Implementation folded into batch task 5138.
 
 Leginfo batch 568 contained three entries where the source string has a literal `None` / `None on file.` spliced onto the end — it's the leginfo stance field rendering "no position on file", not part of the org name. I added the raw strings as alts (to preserve matching) rather than hand-cleaning, since this is a recurring class.
 
