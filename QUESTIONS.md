@@ -271,7 +271,9 @@ The **17 conflicts** (already in the crosswalk under a different canonical than 
 
 ### Q53 (Task 5060, RA-Fleet-2) — `FPBR` in narrative_text_mapping_to_orgs.csv is an Act, not an org — how to route?
 
-**Status:** Open
+**Status:** Answered
+
+**Answer (supervisor, relayed by management-assistant-1, 2026-07-22):** Confirmed — FPBR is legislation, not an org, so the row is not a valid narrative mapping. Supervisor ruled: move the whole prose string to `org_names_invalid.csv` (rather than plain deletion). DONE by management-assistant-1 (commit 3aa1822a2): row removed from `narrative_text_mapping_to_orgs.csv`, prose appended to `org_names_invalid.csv` with count 1. Follow-up sweep of the narrative map for other statute-acronym mis-extractions (POBOR/POBAR, CEQA, etc.) filed as task 5141.
 
 Task 5060 asked me to add 20 narrative-extracted `mapped_org` values to the crosswalk. 19 are fine (8 added, the rest already present). One is not an organization:
 
