@@ -36,7 +36,9 @@ def clean_children(children, canonical_norm, patterns, stats):
     seen_norms = {}  # normalized -> index in cleaned_children
 
     for child in children:
-        orig_name = child["name"]
+        # Tolerate children malformed with a "canonical" key instead of "name"
+        # (bad batch writes, see Q52); the rebuild below normalizes them to "name".
+        orig_name = child["name"] if "name" in child else child["canonical"]
         cleaned_name = clean_org_name(orig_name, patterns)
 
         if cleaned_name != orig_name:
@@ -64,6 +66,7 @@ def clean_children(children, canonical_norm, patterns, stats):
 
         # Build new child entry
         new_child = dict(child)
+        new_child.pop("canonical", None)
         new_child["name"] = cleaned_name
 
         # Recursively clean nested children
@@ -126,7 +129,7 @@ def merge_clusters(target, source):
 
     def collect_norms(children):
         for child in children:
-            existing_norms.add(normalize_for_matching(child["name"]))
+            existing_norms.add(normalize_for_matching(node_name(child)))
             if "children" in child:
                 collect_norms(child["children"])
 
@@ -134,7 +137,7 @@ def merge_clusters(target, source):
 
     # Add source children that aren't duplicates
     for child in source_children:
-        norm = normalize_for_matching(child["name"])
+        norm = normalize_for_matching(node_name(child))
         if norm not in existing_norms:
             target_children.append(child)
             existing_norms.add(norm)

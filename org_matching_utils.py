@@ -255,7 +255,8 @@ class CrosswalkMatcher:
             # Add all children (recursively)
             def _walk_children(children):
                 for child in children:
-                    child_name = child['name']
+                    # Tolerate children malformed with a "canonical" key (see Q52)
+                    child_name = child['name'] if 'name' in child else child['canonical']
                     self._exact_names.add(child_name.strip().upper())
                     norm_child = normalize_for_matching(child_name)
                     if norm_child and norm_child not in self._normalized_to_canonical:

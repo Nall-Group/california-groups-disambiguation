@@ -86,7 +86,8 @@ def load_crosswalk_names(path: Path):
 
     def _walk_children(children):
         for child in children:
-            _add(child["name"])
+            # Tolerate children malformed with a "canonical" key (see Q52)
+            _add(child["name"] if "name" in child else child["canonical"])
             if "children" in child:
                 _walk_children(child["children"])
 
