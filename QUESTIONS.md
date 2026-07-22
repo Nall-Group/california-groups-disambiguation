@@ -11,7 +11,9 @@ To edit this file (post questions, write answers), join this queue first. Only t
 
 ### Q59 (Task 5101, RA-Fleet-2) — ROOT CAUSE of the LEGINFO-MECH no-op epidemic: `org_names_not_in_crosswalk.csv` is 92% stale. All 20 MECH-NEW tasks (5100-5119) are ~99% no-ops.
 
-**Status:** Open
+**Status:** Answered
+
+**Answer (supervisor, relayed by management-assistant-1, 2026-07-21):** Confirmed — your diagnosis is correct: the placement pass was reasoning from a stale worklist, and it is very likely all the "not in crosswalk" names have already been dealt with. This is now borne out by the repo state: `org_names_not_in_crosswalk.csv` has since been fully drained (all remaining rows routed) and retired as a persistent file (commits 842a8bcb0, 42edcc6cd), and `stats.json` shows `not_in_crosswalk: 0`. Recommendations (1) and (3) are therefore moot — there is no stale file left to regenerate and no residual rows to re-run a placement pass over. Recommendation (2) stands: MECH-NEW tasks 5100-5119 are no-ops; any not already closed should be closed as Done/no-op without further per-entry verification.
 
 This supersedes/explains the process notes on **Q56, Q57, Q58** (all mine/RA-Fleet-1's, all still open). I think I've found the actual root cause, and it's mechanical and fixable.
 
@@ -137,7 +139,9 @@ Task 5093 was mechanical (add 50 leginfo spellings under stated canonicals, "do 
 
 ### Q55 (Tasks 5067-5071, RA-Fleet-1) — 210 LEGINFO-MECH-ALT placements make named officials alternate spellings of `STATE OF CALIFORNIA`
 
-**Status:** Open
+**Status:** Answered
+
+**Answer (supervisor, relayed by management-assistant-1, 2026-07-21):** **Option (A) is correct** — do NOT add these as alternate spellings of `STATE OF CALIFORNIA`. Re-place each spelling as an `alternate_spelling` of its own city/county body node (e.g. `Mayor James T. Butts, City of Inglewood` → alt of the `CITY OF INGLEWOOD` chapter). The `STATE OF CALIFORNIA` targets were a fallback default from the stale-worklist placement pass (see Q59, now confirmed), not real placements. Notes: route the truncated `City of San` entry individually (= San Bernardino); where the stated target is itself a typo/truncated canonical (e.g. `City of Covin`), correct the canonical to the real name (`City of Covina`) rather than merging into the typo — sweep the batch for these before bulk-applying. Existing CLAUDE.md role rules still apply within (A): leadership titles (Mayor, Mayor Pro Tem, Sheriff, Police/Fire Chief, DA) become alts of the body; non-leadership titles (Assessor, City Manager, Controller, County Clerk) go to `org_names_that_are_actually_individuals.csv` per [[named_officials_per_case]]. Tasks 5067-5071 are unblocked (Not Started) with this amendment.
 
 I claimed task 5067 and stopped before writing any data. **All 50** of its entries, and **210 across tasks 5067-5071**, instruct that a named city/county official be added as an `alternate_spelling` of `STATE OF CALIFORNIA` — e.g.:
 
