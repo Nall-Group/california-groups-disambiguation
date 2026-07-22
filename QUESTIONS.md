@@ -1012,7 +1012,9 @@ My recommendation is **(a)**, with the `Women For CJA` row specifically **not** 
 
 
 ### Q31 (Task 4117, RA-Fleet-2) — Cleaning-pattern proposal: trailing "…, sponsor of this measure / of the bill"
-**Status:** Open
+**Status:** Answered
+
+**Answer (supervisor, relayed by management-assistant-1, 2026-07-21):** **Approved as written.** (1) Add the proposed regex to `cleaning_patterns.txt` and run the full clean/dedup/stats pipeline — the 8 auto-merges into existing canonicals are intended. Keep each dirty source string as an `alternate_spelling` of its clean canonical where it is a real source row (per [[prefix_strip_orphan]] / task 1716), so nothing orphans. (2) Yes — the two named officials the strip uncovers (`Mayor Eric Garcetti, City of Los Angeles`, `State Insurance Commissioner Ricardo Lara`) are leadership titles: route per [[named_officials_per_case]] as alts of their bodies (City of Los Angeles; California Department of Insurance) in the same task. (3) The adjacent variants (dangling `…, co-sponsor of`, `sponsor to/for the bill`, bill-numbered forms) stay OUT of this pattern — file a separate proposal if they turn out to be a real recurring class. Implementation filed as task 5138.
 
 While doing task 4117 I hit `Three Valleys Municipal Water District, sponsor of this measure` and found this is a **recurring** class, not a one-off: **40 crosswalk entries + 92 CSV rows**. `cleaning_patterns.txt` already strips trailing sponsor tags, but only where the string *ends* at the word "sponsor" (lines 54-55, 62) or where it's parenthesized (lines 7-9, 35). Nothing handles a trailing **prepositional phrase** — `sponsor **of the bill**`. So these 40 stay dirty today. Per CLAUDE.md I'm not editing `cleaning_patterns.txt` myself — requesting sign-off.
 
