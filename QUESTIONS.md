@@ -647,7 +647,9 @@ This affects roughly **8-10** entries and cannot produce a conjoined name, becau
 
 ### Q42 (Task 4430, RA-Fleet-1) — `Industrial District Green Ink People` looks conjoined, but the task says "do NOT route any to a CSV"
 
-**Status:** Open
+**Status:** Answered
+
+**Answer (supervisor, relayed by management-assistant-1, 2026-07-22):** **Option (a) — confirmed conjoined.** DONE by management-assistant-1 (commit 72049a2e1): `Industrial District Green Ink People` → `Industrial District Green;Ink People` recorded in `conjoined_text_mapping_to_orgs.csv`. Both components verified present in the crosswalk (each exactly once), fused string verified absent — nothing else to do, no org name lost. The task's "do NOT route to a CSV" is overridden for genuine conjoins, same ruling as Q43.
 
 Not a blocker for the rest of task 4430 — I completed the other 87 of 88 entries and committed them. This one entry is **deferred, not added anywhere**, pending your call.
 
