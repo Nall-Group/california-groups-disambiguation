@@ -848,7 +848,9 @@ Before → after:
 
 ### Q37 (Task 4274, RA-Fleet-1) — `Capistrano Valley` is ambiguous; task said not to route to a CSV
 
-**Status:** Open
+**Status:** Answered
+
+**Answer (supervisor, relayed by management-assistant-1, 2026-07-24):** Resolved — NOT ambiguous after research, and DONE (commit 7a5516043). Capistrano Valley is an unincorporated region of south Orange County (no city/county government exists, so no new canonical). The bare string's provenance was traced in the raw leginfo metadata: it came from `CA Municipal Utilities Assoc. Capistrano Valley` — a scrambled two-column supporter list that fused pairs of orgs (same list fused e.g. `City of Howard Jarvis Taxpayers Huntington Park`). The bill's supporter list is water/utilities orgs (ACWA, CMUA), so the truncated second org unambiguously resolves to **Capistrano Valley Water District** — not the schools or the Boys & Girls Club. `Capistrano Valley` added as an `alternate_spelling` under `Capistrano Valley Water District` (verified no other crosswalk node is bare "Capistrano Valley", so no collision). Nothing goes to partial.
 
 Leginfo batch 568 (task 4274) listed `Capistrano Valley` (count 1) with the hint "new or existing", and the task says "Do NOT route any to a CSV". But `Capistrano Valley` on its own is a place name, not an org, and the crosswalk already has several orgs it could be truncated from:
 - `BOYS & GIRLS CLUBS OF CAPISTRANO VALLEY`
