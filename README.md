@@ -11,7 +11,7 @@ Here we have gathered a canonical list of groups in California that support or o
 
 ## 2_webapp
 
-We also provide a disambiguation tool hosted on [Ruth todo - fill in github web app link once it's ready]
+We also provide a disambiguation tool hosted on https://nall-group.github.io/california-groups-disambiguation/
 
 Future feature: add fuzzy search feature to disambiguation tool
 
