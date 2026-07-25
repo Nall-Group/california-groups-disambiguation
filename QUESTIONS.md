@@ -9,6 +9,27 @@ To edit this file (post questions, write answers), join this queue first. Only t
 
 ## Open Questions
 
+### Q60 (Task 5142, Management Assistant) — Does `California Council of Carpenters` belong to the State Council or the Conference?
+
+**Status:** Open
+
+Task 5142 (carpenters restructure, commit 99e583f31) is Done, but one placement is a judgment call I want reviewed — it is easy to move either way.
+
+The crosswalk had three similar California-level carpenter bodies. I nested all of them under the new `United Brotherhood of Carpenters and Joiners of America` canonical as follows:
+
+- `California State Council of Carpenters` (chapter) — with `State Council of Carpenters`, `California Congress of Carpenters`, and **`California Council of Carpenters`** as alternate_spellings
+- `California Conference of Carpenters` (chapter) — with `CA Conference of Carpenters`, `CALIFORNIA CONFERENCE OF CARPENTERS`, `CAConference of Carpenters`, `Conference of Carpenters` as alternate_spellings
+
+Two calls to check:
+
+1. **`California Council of Carpenters` — I put it under the State Council purely on nearest-string match** (one word off). But Danny Curtin, the long-time director of the *Conference*, is described in at least one profile as director of the "California Council of Carpenters", which suggests it may be loose shorthand for the **Conference** instead. Which parent is right?
+
+2. **I kept the State Council and the Conference as two SEPARATE chapters** because I could not find evidence they are the same body, and the task said not to merge them without it. If you know they are one organization, they should be merged.
+
+(`California Congress of Carpenters` I am confident about — no such body exists in any source I could find; it is a "Council" typo.)
+
+No data is at risk either way: every string is preserved, so this is a re-parenting fix if I guessed wrong.
+
 ### Q59 (Task 5101, RA-Fleet-2) — ROOT CAUSE of the LEGINFO-MECH no-op epidemic: `org_names_not_in_crosswalk.csv` is 92% stale. All 20 MECH-NEW tasks (5100-5119) are ~99% no-ops.
 
 **Status:** Answered
