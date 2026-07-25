@@ -66,7 +66,9 @@ But Q59 above lists **2 entries under 5103** (`California multicultural Communit
 
 ### Q58 (Task 5095, RA-Fleet-2) — 10 more LEGINFO-MECH-ALT placements conflict with where the spelling already lives; task added 0 new names
 
-**Status:** Open
+**Status:** Answered
+
+**Answer (supervisor, relayed by management-assistant-1, 2026-07-24):** See the anchor ruling on **Q56** (covers Q56+Q57+Q58 together). All 10 skips confirmed — existing placement wins, including the four nested cases (`Treasurer, City of Los Angeles` etc.) where the spelling already sits correctly under the city/county body and the pass wanted to pull it out to a flat canonical. Your recommendation is adopted in full: keep all 10 where they are, and the canonical-dedup pairs you surfaced (SPCA LA, UNITE HERE, UURISE, Up & Away Ballooning) plus routing the junk `The Office of the Attorney General (See Comment)` canonical are folded into **task 5141**. The process note (only 9 of 150 entries genuinely missing) is confirmed and explained by the [[Q59]] stale-worklist root cause — no more MECH-ALT batches.
 
 Third instance of the same class as **Q56** and **Q57** (both mine, both still open) — please answer all three together if the ruling is the same.
 
@@ -110,7 +112,9 @@ I have marked task 5095 **Done** (nothing to write; the 10 skips are documented 
 
 ### Q57 (Task 5093, RA-Fleet-2) — 9 more LEGINFO-MECH-ALT placements conflict with where the spelling already lives
 
-**Status:** Open
+**Status:** Answered
+
+**Answer (supervisor, relayed by management-assistant-1, 2026-07-24):** See the anchor ruling on **Q56** (covers Q56+Q57+Q58 together). Skips confirmed — existing placement wins. The one loose end here, **#9 `Senate Committee On Environmental Quality`** (capital "On", genuinely absent), is homed by the duplicate-canonical merge in **task 5141**: after `Senate Committee on Environmental Quality` and `DUAL REFFERRAL: Senate Environmental Quality Committee` merge, add the capital-"On" variant as an alt of the survivor. The truncated/typo stated targets you flagged (`Select Committee on State Public`, `Star- News`, etc.) are noted and are part of why the class rule is "skip when the spelling already exists".
 
 Same class as **Q56** (also mine, still open) — please answer both together if the ruling is the same.
 
@@ -171,7 +175,15 @@ Note **(C) interacts with the rules**: entries like `Rick Auerbach, Assessor, Co
 
 ### Q56 (Task 5065, RA-Fleet-2) — 5 LEGINFO-MECH-ALT placements conflict with where the spelling already lives
 
-**Status:** Open
+**Status:** Answered
+
+**Answer (supervisor, relayed by management-assistant-1, 2026-07-24) — anchor ruling for Q56 + Q57 + Q58 (and all their addenda across tasks 5065/5084/5088/5093/5095/5096/5097):** **Skips confirmed — existing placement always wins.** In every conflict case the RA correctly kept the spelling where it already lives and declined to create a cross-tree duplicate; no org name was lost. The general rule for the whole LEGINFO-MECH-ALT class: **if the spelling already exists anywhere in the forest, do NOT re-place it — skip.** The stated target from the central placement pass is unreliable (stale-worklist root cause, see [[Q59]]) and is frequently a duplicate, a truncated/typo canonical, or an invented node. No corrective re-placement pass is needed, and no further MECH-ALT batches should be generated (moot — worklist drained).
+
+**The two genuinely-missing entries flagged in the addenda are NOT covered by "skip"** — they must be added: Q57 #9 `Senate Committee On Environmental Quality` (capital "On"), which lands naturally once the duplicate Senate-EQ canonicals merge (see dedup task below). All other "missing" items the RAs already added inline.
+
+**Duplicate-canonical cleanup filed as task 5141** (all 12 canonicals verified present as real top-level nodes): merge each same-org pair — `SPCA Los Angeles` / `Los Angeles SPCA, Southern California Humane Society`; `UNITE HERE!` / `United Here International Union, AFL-CIO`; `UURISE - Unitarian Universalist Refugee & Immigrant Services & Education` / `Unitarian Universalist Refugee, Immigrant Services and Education`; `Up and Away Ballooning` / `Up & away Ballooning`; `Senate Committee on Environmental Quality` / `DUAL REFFERRAL: Senate Environmental Quality Committee` (then add the capital-"On" variant as an alt of the survivor); plus the CACJ, AFSCME Local 685, LAANE, Bakers' Local 85, Apartment Assn CA Southern Cities, and Alameda County Surveyor near-dup pairs surfaced in the addenda — and route the junk canonical `The Office of the Attorney General (See Comment)` (its spelling already lives correctly under `State of California Attorney General`).
+
+The 5 specific Q56 entries: all skips confirmed. #1 `John Fasana … MTA` — existing LA Metro placement is correct; the pass mis-expanded "MTA" to Marin. #2–#5 — existing placements are correct/more specific.
 
 Task 5065 was mechanical (add 50 leginfo spellings under stated canonicals, "do not re-research"). I added the 8 that were genuinely missing; 37 already existed under their stated canonical (no-ops). The remaining **5 already exist in the crosswalk under a *different* canonical than the task stated**, so adding them as instructed would have created a cross-tree duplicate — and in two cases a factually wrong placement. I **skipped** all 5 rather than duplicate them (no org name is lost — all 5 are already in the crosswalk). Please confirm or correct:
 
