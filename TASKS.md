@@ -10,6 +10,8 @@ Only the RA at the top of this list has write access to project data files (cros
 - RA-Fleet-2 (task 5305)
 - RA-Fleet-1 (task 5308)
 - RA-Fleet-3 (task 5306)
+- RA-CommitteeCrosswalk (leginfo committee-crosswalk phase 1, task 5)
+- Management Assistant (spot-check fix)
 
 ## Historical Data-Cleaning Log (migrated from README)
 
