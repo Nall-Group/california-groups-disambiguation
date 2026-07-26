@@ -11,7 +11,12 @@ To edit this file (post questions, write answers), join this queue first. Only t
 
 ### Q62 (sponsor-column audit, Management Assistant) — Strippable prose-suffix boilerplate: 5 safe regexes proposed, and the biggest class deliberately NOT proposed
 
-**Status:** Open
+**Status:** Partially answered — Q3 answered, Q1/Q2 pending review
+
+**Answer (supervisor, 2026-07-26):**
+- **Q3 (the 80 dangling-connector names already in the crosswalk): these are supposed to be ALTERNATE SPELLINGS.** Each dangling form (`AMERICAN COLLEGE OF OBSTETRICIANS AND`, `California Building Industries Association, which`) becomes an `alternate_spelling` of its clean canonical. Filed as a task.
+- **Q1 (patterns A-E): HOLD.** Supervisor wants to review the full before→after list of every affected string before anything is added to `cleaning_patterns.txt`. List produced and under review; do NOT edit `cleaning_patterns.txt` yet.
+- **Q2 (the `to <verb>` class): still pending**, but it stays manual for now by default.
 
 Auditing the `sponsor` column of `leginfo_metadata.csv` surfaced 440 strings that are in neither the crosswalk nor any cleaning file (tasks 5298-5310). The dominant malformation is **an org name with a trailing bill-purpose clause**. Some of it is safely strippable, the largest part is NOT, and the same malformation is already sitting inside the crosswalk.
 
@@ -166,9 +171,13 @@ A simpler, blunter alternative would be `\s*[,\-–(].*\bversion$` (strip from t
 3. **Separate flag, not a pattern:** while doing 5162 I found `California Association of Realtors Randy Chinn` (org + individual conjoined, count 1) still sitting as an `alternate_spelling` under C.A.R. It was outside 5162's stated scope so I left it. Worth a task?
 4. **Data-premise correction for the record:** task 5162 justified deleting the bare acronym `CAR` on the grounds that it has zero source rows. That is true of `crosswalk.standardizenames.manualedits_clean.csv` and the cleaning CSVs, but `CAR` **does** appear in `org_names_import_summary.csv` with `count 8, status in_crosswalk` — i.e. the leginfo import saw it 8 times. I deleted it as instructed (it is genuinely ambiguous across `CALIFORNIA ASSOCIATION FOR THE RETARDED (CAR)` and `Consumer Advocates for TRCFE Reform (CAR)`, so keeping it under C.A.R. was wrong either way), but those 8 occurrences are now unattributed. Should `CAR` be routed to `org_names_partial.csv` with count 8 instead of dropped?
 
+**Answer to this sub-question (supervisor, 2026-07-26): YES — route `CAR` to `org_names_partial.csv` with count 8.** It stays out of the crosswalk (genuinely ambiguous between `CALIFORNIA ASSOCIATION FOR THE RETARDED (CAR)` and `Consumer Advocates for TRCFE Reform (CAR)`), but the string and its count are preserved rather than dropped. The other parts of Q61 (the `SPONSOR!` prefix, `(late)` suffix and `... version` suffix patterns) remain OPEN.
+
 ### Q60 (Task 5142, Management Assistant) — Does `California Council of Carpenters` belong to the State Council or the Conference?
 
-**Status:** Open
+**Status:** Answered
+
+**Answer (supervisor, 2026-07-26):** Keep the current placement — `California Council of Carpenters` stays an `alternate_spelling` of `California State Council of Carpenters`. The State Council and the California Conference of Carpenters also stay as SEPARATE chapters; do not merge them. No data change required; task 5142 stands as committed.
 
 Task 5142 (carpenters restructure, commit 99e583f31) is Done, but one placement is a judgment call I want reviewed — it is easy to move either way.
 
