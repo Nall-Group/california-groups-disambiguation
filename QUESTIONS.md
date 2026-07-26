@@ -11,12 +11,12 @@ To edit this file (post questions, write answers), join this queue first. Only t
 
 ### Q62 (sponsor-column audit, Management Assistant) — Strippable prose-suffix boilerplate: 5 safe regexes proposed, and the biggest class deliberately NOT proposed
 
-**Status:** Partially answered — Q3 answered, Q1/Q2 pending review
+**Status:** Answered — DECLINED
 
 **Answer (supervisor, 2026-07-26):**
 - **Q3 (the 80 dangling-connector names already in the crosswalk): these are supposed to be ALTERNATE SPELLINGS.** Each dangling form (`AMERICAN COLLEGE OF OBSTETRICIANS AND`, `California Building Industries Association, which`) becomes an `alternate_spelling` of its clean canonical. Filed as a task.
-- **Q1 (patterns A-E): HOLD.** Supervisor wants to review the full before→after list of every affected string before anything is added to `cleaning_patterns.txt`. List produced and under review; do NOT edit `cleaning_patterns.txt` yet.
-- **Q2 (the `to <verb>` class): still pending**, but it stays manual for now by default.
+- **Q1 (patterns A-E): DECLINED (supervisor, 2026-07-26).** "I don't think we should do Pattern A or any of these patterns. I just worry that it will mess up with real organizations." No prose-suffix regex is to be added to `cleaning_patterns.txt`. **Q2 follows automatically: the `to <verb>` class stays manual too.** Nothing is lost by this — every affected string is already covered per-string by the narrative/conjoined routing in tasks 5298-5310; the regexes were only a shortcut. `cleaning_patterns.txt` remains untouched.
+- Worked example the supervisor gave: `United Teacher of Los Angeles apparently in response to safety concerns within the Los Angeles Unified School District` is narrative and belongs in `narrative_text_mapping_to_orgs.csv`, mapped to **United Teachers Los Angeles** — NOT to LAUSD, which only appears in the purpose clause.
 
 Auditing the `sponsor` column of `leginfo_metadata.csv` surfaced 440 strings that are in neither the crosswalk nor any cleaning file (tasks 5298-5310). The dominant malformation is **an org name with a trailing bill-purpose clause**. Some of it is safely strippable, the largest part is NOT, and the same malformation is already sitting inside the crosswalk.
 
