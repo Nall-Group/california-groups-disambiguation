@@ -1,14 +1,11 @@
 sponsor_string,bill_rows,proposed_route,mapped_org_if_known,org_already_in_crosswalk
 CAR,8,PARTIAL,,
-Assembly Committee on Business and Professions as part of its review of the authorities and activities of the boards and bureaus under DCA,5,NARRATIVE,,
 Sportfishing Association of California in order to limit the number of trap permits to take finfish and eliminate the incidental take of California sheephead in traps used to take crab and lobster,5,NARRATIVE,,SPORTFISHING ASSOCIATION OF CALIFORNIA
 California Coastkeeper Alliance : Defenders of Wildlife,4,CONJOINED,,CALIFORNIA COASTKEEPER ALLIANCE
 DHS and supported by the Air Resources Board,4,NARRATIVE,,AIR RESOURCES BOARD
 DHS in response to a report by the California State Auditor,4,NARRATIVE,,CALIFORNIA STATE AUDITOR
 "National Health Law Program, which write that Medi-Cal plays a crucial role in providing mental health services in California",4,NARRATIVE,,NATIONAL HEALTH LAW PROGRAM
-"A coalition of housing and public transportation advocacy organizations, including Streets for All",3,NARRATIVE,,STREETS FOR ALL
 "a coalition of supporters, including Outdoor Outreach",3,NARRATIVE,,OUTDOOR OUTREACH
-Assembly Committee on Business and Professions as part of its oversight and regulation of the Bureau,3,NARRATIVE,,REGULATION
 Board of Pharmacy writes,3,NARRATIVE,,BOARD OF PHARMACY
 California Assessors Association to address a variety of issues of concern to the assessors,3,NARRATIVE,,CALIFORNIA ASSESSORS
 California Association of County Treasurers and Tax Collectors to improve administration of the property tax law,3,NARRATIVE,,CALIFORNIA ASSOCIATION OF COUNTY TREASURERS AND TAX COLLECTORS
@@ -26,12 +23,7 @@ State Building and Construction Trades Council of California and other union gro
 State Department of Education to make various technical and minor policy changes to the Education Code relating to school district organization,3,NARRATIVE,,STATE DEPARTMENT OF EDUCATION
 While the city of Mountain View,3,NARRATIVE,,CITY OF MOUNTAIN VIEW
 with the Million Mom March,3,NARRATIVE,,THE MILLION MOM MARCH
-"After 2017-18, estimates of the QAF rate provided by the 911 Ambulance Provider's Medi-Cal Alliance",2,NARRATIVE,,
-"Alameda County District Attorney Nancy O'Malley, who",2,NARRATIVE,,ALAMEDA COUNTY DISTRICT ATTORNEY NANCY O'MALLEY
-"Although this bill is keyed as a state mandated local program, these costs would not be reimbursable, because LAUSD requested and",2,NARRATIVE,,
 Attorney General Sheriffs of the Counties of Alpine,2,CONJOINED,,ATTORNEY GENERAL
-Board of Equalization to improve the administration of taxes under its jurisdiction,2,NARRATIVE,,BOARD OF EQUALIZATION
-Board of Equalization to improve the administration of the sales tax and other taxes collected by the Board,2,NARRATIVE,,BOARD OF EQUALIZATION
 Board of Pharmacy to decrease the threat of counterfeit drugs and drug diversion and to address challenges presented by the existing distribution system for prescription drugs,2,NARRATIVE,,PRESCRIPTION DRUGS
 CACTTC and makes several changes to the laws related to property tax collection,2,NARRATIVE,,PROPERTY TAX
 California Association of Clerks and Election Officials to provide proper training of assessment appeal board members and to ensure,2,NARRATIVE,,CALIFORNIA ASSOCIATION OF CLERKS AND ELECTION OFFICIALS
@@ -84,56 +76,20 @@ Trusts and Estates section of the State Bar to address the abuse,2,NARRATIVE,,TR
 United Teacher of Los Angeles apparently in response to safety concerns within the Los Angeles Unified School District,2,NARRATIVE,,THE LOS ANGELES UNIFIED SCHOOL DISTRICT
 We founded the Drop the 'A' Word coalition whose goal is to eliminate the word accident when talking about crashes and crimes that involve impairment or distraction,2,NARRATIVE,,DROP THE 'A' WORD COALITION
 "Willie L. Brown, Jr., Esq",2,INDIVIDUALS,,
-"A coalition of supporters, including the California Special Districts Association , the California State Association of Counties, the League of California Cities, and others",1,NARRATIVE,,THE CALIFORNIA STATE ASSOCIATION OF COUNTIES
-"A coalition of worker organizations, including Jobs to Move America",1,NARRATIVE,,JOBS TO MOVE AMERICA
-A letter submitted by a coalition of groups including the California Clean Money Campaign,1,NARRATIVE,,THE CALIFORNIA CLEAN MONEY CAMPAIGN
-AC Transit in an effort to improve the environmental health,1,NARRATIVE,,THE ENVIRONMENT
 "access provider, Sierra Pine",1,NARRATIVE,,SIERRA PINE
-According the CalSTRS,1,NARRATIVE,,
 activities of the California Peace Officer Memorial Foundation in support of the families of slain peace officers,1,NARRATIVE,,CALIFORNIA PEACE OFFICER MEMORIAL FOUNDATION
 AFL-CIO SEIU California,1,CONJOINED,,SEIU CALIFORNIA
-"Agency of Monterey County and the County of Monterey, both of which would benefit from the expedition of transportation projects that",1,NARRATIVE,,COUNTY OF MONTEREY
 AIDS Healthcare Foundation and,1,DIRTY_SUFFIX,AIDS Healthcare Foundation,AIDS HEALTHCARE FOUNDATION
-AIDS Healthcare Foundation in Los Angeles to improve future disease management programs,1,NARRATIVE,,AIDS HEALTHCARE FOUNDATION
-AIDS Healthcare Foundation to dramatically reduce the cost for the state in the purchase of drugs,1,NARRATIVE,,AIDS HEALTHCARE FOUNDATION
-AIDS Healthcare Foundation to ensure,1,NARRATIVE,,AIDS HEALTHCARE FOUNDATION
-AIDS Healthcare Foundation to improve California's HIV surveillance and to ensure the state's competitiveness for federal Ryan White Care Act funding,1,NARRATIVE,,AIDS HEALTHCARE FOUNDATION
-Alzheimer's Association to increase the availability of statewide information and planning about Alzheimer's disease over the next decade,1,NARRATIVE,,ALZHEIMER'S ASSOCIATION
-Alzheimer's Association to update California's physician Guideline for Alzheimer's Disease Management to improve quality of care and support for individuals diagnosed with dementia,1,NARRATIVE,,ALZHEIMER'S ASSOCIATION
 American Civil Liberties Union of California file,1,DIRTY_SUFFIX,American Civil Liberties Union,AMERICAN CIVIL LIBERTIES UNION OF CALIFORNIA
-American Pacific Fine Chemicals a company in Rancho Cordova,1,NARRATIVE,,AMERICAN PACIFIC FINE CHEMICALS
 and Government Claims Board,1,NARRATIVE,,GOVERNMENT CLAIMS BOARD
-"Animal Physical Therapy Coalition (APTC), which describes itself as a grassroots coalition of physical therapists, veterinarians, registered veterinary technicians, and consumers",1,NARRATIVE,,ANIMAL PHYSICAL THERAPY COALITION (APTC)
-Animal Physical Therapy Coalition to codify recommendations of a task force convened by the Veterinary Medical Board to study the issue of animal physical therapy,1,NARRATIVE,,ANIMAL PHYSICAL THERAPY COALITION
-Appraisal Institute in order to make it easier for real estate appraisers to renew their licenses and pay fees to OREA,1,NARRATIVE,,APPRAISAL INSTITUTE
-As explained by the California Tribal Families Council,1,NARRATIVE,,CALIFORNIA TRIBAL FAMILIES COUNCIL
-"As mentioned, the UFPEA was drafted by the ULC, a non-profit association comprised of state commissions on uniform laws from every state, including the California Commission on Uniform State Laws",1,NARRATIVE,,CALIFORNIA COMMISSION ON UNIFORM STATE LAWS
-"As of June 14, 1996. WMX Technologies, Inc",1,NARRATIVE,,WMX TECHNOLOGIES
-As stated by DFEH,1,NARRATIVE,,
-As the California Land Title Association (CLTA),1,NARRATIVE,,THE CALIFORNIA LAND TITLE ASSOCIATION (CLTA)
-"As with SB 1916, the American Electronics Association",1,NARRATIVE,,THE AMERICAN ELECTRONICS ASSOCIATION
 Assembly Judiciary Committee omnibus civil procedure and,1,DIRTY_SUFFIX,Assembly Judiciary Committee,ASSEMBLY JUDICIARY COMMITTEE
 "assessments, the City of San Jose",1,NARRATIVE,,THE CITY OF SAN JOSE
-Association and other law enforcement groups whose members,1,NARRATIVE,,ASSOCIATION
-Association of California Healthcare Districts to enable qualified district hospitals to recruit,1,NARRATIVE,,ASSOCIATION OF CALIFORNIA HEALTHCARE DISTRICTS
-Association of California Life and Health Insurance Companies to improve information required to be provided to consumers,1,NARRATIVE,,ASSOCIATION OF CALIFORNIA LIFE AND HEALTH INSURANCE COMPANIES
-"Athens Research submitted to IOUs March 16, 2023, filed at the CPUC in April 2023 as part of A",1,NARRATIVE,,ATHENS RESEARCH
 Attorney General and The Modesto Police Department,1,CONJOINED,,MODESTO POLICE DEPARTMENT
-Attorney General to make technical and administrative changes to existing state law to assist in the permanent operation of CURES,1,NARRATIVE,,ATTORNEY GENERAL
-Authorities and the ports of Hueneme and Oakland,1,NARRATIVE,,
-Authority and some local conservation groups,1,NARRATIVE,,
-Background provided by the author indicates that according to a California Medical Association (CMA) survey (CMA),1,NARRATIVE,,CALIFORNIA MEDICAL ASSOCIATION (CMA)
-Because the LACCD,1,NARRATIVE,,
-Board and supported by the California Court Reporters Association,1,NARRATIVE,,CALIFORNIA COURT REPORTERS ASSOCIATION
-Board in order to assist in accelerating the sales and use tax revenue stream generated through the Board's audit program by encouraging taxpayers to provide their information,1,NARRATIVE,,
-Board of Behavioral Science Examiners to improve the quality of trainee education and practical experience,1,NARRATIVE,,BOARD OF BEHAVIORAL SCIENCE EXAMINERS
-Board of Pharmacy in order to allow more flexibility in hospital pharmacy licensing,1,NARRATIVE,,BOARD OF PHARMACY
 Board of Pharmacy in order to allow the restocking of emergency pharmaceutical supplies containers used on emergency transport vehicles and rescue trucks,1,NARRATIVE,,BOARD OF PHARMACY
 Board of Pharmacy to address a lack of authority to waive statutory requirements related to security features on prescriptions for controlled substances,1,NARRATIVE,,BOARD OF PHARMACY
 Board of Pharmacy to authorize the purpose of the medication to be provided on a prescription bottle,1,NARRATIVE,,BOARD OF PHARMACY
 Board of Pharmacy to establish standards for pharmacies,1,NARRATIVE,,BOARD OF PHARMACY
 Board of Psychology to impose a requirement,1,NARRATIVE,,BOARD OF PSYCHOLOGY
-BOC to facilitate restitution collection via the FTB Debt Collection Program,1,NARRATIVE,,
 "Boston-based Northeastern University, which recently merged with Mills College",1,NARRATIVE,,NORTHEASTERN UNIVERSITY
 "Budget: California Student Aid Commission report by the LAO, released February",1,CONJOINED,,CALIFORNIA STUDENT AID COMMISSION
 CA Association of Recreation and Park Districts CA Independent Public Employees Legislative Council City of Moreno Valley Counties of Del Norte,1,CONJOINED,,CA INDEPENDENT PUBLIC EMPLOYEES LEGISLATIVE COUNCIL
