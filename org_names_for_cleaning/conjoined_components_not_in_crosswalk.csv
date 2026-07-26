@@ -795,8 +795,6 @@ Pharmacy,FRAGMENT,1,7207
 Pharmacy Franchisees,FRAGMENT,1,2929
 Pharmacy Franchisees and Owners Association,ORG,1,9083
 Philanthropic Initiative for Racial Equity,ORG,1,7210
-"Photocomm, Inc.",FRAGMENT,1,6374
-Pipetrades Council,FRAGMENT,2,7215 7216
 "Plains Pipeline, L.P.",ORG,1,7868
 Planned Parenthood Orange & San Bernardino,ORG,1,7232
 Planned Parenthood of Santa Barbara and Ventura Counties,ORG,1,1461
@@ -810,7 +808,6 @@ Plumbers and Pipefitters Local Union 114,ORG,1,8122
 Plumbers and Pipefitters Local Union 460,ORG,1,8122
 Plumbers and Pipefitters Local Union 484,ORG,1,8122
 Po Folks Restaurant Inc,ORG,1,292
-Poder Popular,FRAGMENT,1,8974
 "Police Chiefs of Claremont, El Monte, Irwindale, Pomona, Redding, San Gabriel, San Marino, South Pasadena, West Covina",ORG,1,7260
 "Police Chiefs of Milpitas, El Monte, Monterey Park, Ontario, Brea, Palm",ORG,1,7258
 "Police Chiefs of San Jacinto, Santa Maria, Covina, and Arroyo Grande",ORG,1,7261
@@ -849,18 +846,14 @@ Price Waterhouse Coopers (PwC),ORG,1,7298
 Processors,FRAGMENT,5,7313 7314 7315 7316 7317
 Products,FRAGMENT,1,7320
 Products Company,FRAGMENT,1,7319
-Professional Firefighters,FRAGMENT,5,7322 7323 7324 7325 7326
 Professionals,FRAGMENT,1,7331
 Project,FRAGMENT,1,7335
-Project Wild,FRAGMENT,1,7334
 Providers,FRAGMENT,1,7341
 Public Buildings Service of the U.S. General Services Administration,ORG,1,7344
 Public Law Section of the State Bar of California,ORG,1,4987
 "Pulp & Paper Inc., Sunnyvale",ORG,1,7354
 RBD Communications/Recycling Black Dollars,ORG,1,7358
-Railroad Industry,FRAGMENT,1,7363
 Rancho Chamber of Commerce,ORG,1,1154
-Randy Chinn,FRAGMENT,1,3848
 Ready for Life Foster Agency,ORG,1,453
 Real Estate Construction Investments,ORG,1,9246
 Reckitt & Colman,ORG,1,7285
@@ -868,30 +861,21 @@ Red Bluff Police Officers Association,ORG,1,6311
 "Redevelopment Agencies of the Cities of Alhambra, Belmont, Brea, Carson, Ceres, Chico, Chula Vista, Culver City, El Cerrito, Emeryville, Hawaiian",ORG,1,7386
 "Redevelopment Agencies: Buena Park, Montebello, Santa Barbara, Yorba Linda",ORG,1,7387
 Redlands City Fire Chief,ORG,1,7389
-Regent International,FRAGMENT,1,7396
 Region 5 (UAW),ORG,1,7397
 Renegade Productions (Tahoe City),ORG,1,9246
 Reproductive Justice,FRAGMENT,1,7404
 Rhonerville School District,ORG,1,7442
 River Ridge Ranch,ORG,1,9246
 Riverside County Chiefs of Police and Sheriffs,ORG,1,406
-Roadhouse Grill,FRAGMENT,1,9350
 Robert C. Cline Company,ORG,1,9184
 "Roxborough, Pomerance, Nye & Adriani",ORG,1,387
 Royal Medical Inc,ORG,1,7891
 SAP Center at San Jose,ORG,1,1472
 SC Housing Advisory Committee,ORG,1,532
 SEE California Coalition,ORG,1,8309
-SEIU 535,FRAGMENT,1,9187
 "SEIU, Locals 99, 399, 535 and 660",ORG,1,1473
-SEWA-AIFW,FRAGMENT,2,9205 9206
-SF Parking,FRAGMENT,1,9246
-SF SCORE,FRAGMENT,2,9205 9206
 SLO Coast,FRAGMENT,1,7320
-SLO Village,FRAGMENT,2,9205 9206
 Sachs & Book,ORG,2,182 7512
-Sacramento,FRAGMENT,2,6859 7176
-Sacramento Aggregates,FRAGMENT,1,6352
 Sacramento Asian Pacific Islander Chamber of Commerce,ORG,2,1151 1771
 Sacramento County Department of Social Services,ORG,1,1796
 Sacramento County Employees,ORG,1,5516
@@ -902,7 +886,6 @@ Safe Routes to School: Marin County Public Works,ORG,1,9190
 Safety Belt Safe,ORG,1,2210
 Safety and Enforcement Division,ORG,1,9191
 Saint Bernard Academy,ORG,1,4335
-Saint-Gobain Containers,FRAGMENT,1,6260
 Salinas High School,ORG,1,1826
 San Anselmo Chamber of Commerce,ORG,1,2215
 San Benito County Auditor-Controller,ORG,1,2352
@@ -913,7 +896,6 @@ San Diego Consumers' Action Network,ORG,1,4391
 San Diego County Department of Social Services,ORG,1,1796
 San Diego County District,ORG,1,5720
 San Diego County Grand Jury,ORG,2,6139 6140
-San Francisco,FRAGMENT,1,6860
 San Francisco - Monterey Bay 7-11 Franchise Owners Association,ORG,1,9083
 San Francisco Bay Area,ORG,1,6919
 San Francisco County Department of Social Services,ORG,1,1796
@@ -931,7 +913,6 @@ San Luis Obispo County Library,ORG,1,281
 San Luis Obispo Superior Court,ORG,1,7851
 San Mateo County Expo,ORG,1,8296
 San Ramon Valley Firefighters Association,ORG,1,7605
-Sandra Jacobs,FRAGMENT,1,5472
 "Sanitary Service, Inc.",ORG,1,7607
 Santa Ana Education Association,ORG,1,4203
 Santa Clara,FRAGMENT,1,7071
@@ -942,7 +923,6 @@ Santa Clara County Health Department,ORG,1,1284
 Santa Clara Silicon Valley Central Chamber of Commerce & Convention-Visitors Bureau,ORG,1,388
 Santa Monica,FRAGMENT,1,6656
 Santa Rosa Community Media Center,ORG,1,4923
-Satrang,FRAGMENT,1,6905
 Save Round Valley Alliance,ORG,1,9246
 Save The Missions,ORG,1,7627
 Schools Advocacy Association,ORG,2,7638 7639
@@ -956,7 +936,6 @@ Sensory Integration Education and Research Foundation,ORG,2,9205 9206
 "Sequoia Consulting Associates, LLC",ORG,2,9205 9206
 "Seven Design Co., LTD",ORG,1,181
 "Shadow Husky Rescue, INC.",ORG,2,9205 9206
-Sharps,FRAGMENT,1,6664
 Sheriff of Los Angeles,ORG,1,53
 Sheriff of San Mateo,ORG,1,53
 Sheriff-Coroner of Alameda County,ORG,1,183
@@ -971,27 +950,22 @@ Sheriffs and District Attorneys Association,ORG,2,7695 7696
 Sherrin Glass & Metal Inc,ORG,1,312
 Shining STAR Consulting,ORG,2,9205 9206
 Sierra Foothills Thoroughbreds,ORG,1,9246
-Sierra LAFCO,FRAGMENT,1,2760
 Sierra Service Project,ORG,2,9205 9206
 Silverado High School,ORG,2,1826 7734
 Simbi Community Development,ORG,2,9205 9206
 Single Parents United 'N Kids,ORG,2,3818 5996
 Siskiyou League of Cities,ORG,1,3669
-Skinny Labs,FRAGMENT,1,774
 Small Business Loan Guarantee Program,ORG,1,7742
 Smile Unto Him,ORG,2,9205 9206
 So Say We All,ORG,2,9205 9206
-SoCal Grantmakers,FRAGMENT,2,9205 9206
 Social I Collective,ORG,2,9205 9206
 Society for Conservation Biology,ORG,1,9087
 Soka Gakkai International,ORG,1,7135
 Solano County Public Guardian,ORG,1,9213
 Sonoma Police Department,ORG,2,731 9161
-Sonoma Unidos,FRAGMENT,1,202
 "Sons of the American Legion, Department of California",ORG,1,5666
 South Bay AFL-CIO,ORG,1,8083
 South Central Prevention Coalition,ORG,3,7763 9205 9206
-South Coast,FRAGMENT,2,3929 7250
 South Coast Sustainable,ORG,2,9205 9206
 South Lake Tahoe City Employees Association,ORG,1,6311
 South Pasadena Police,ORG,1,7766
@@ -1011,12 +985,10 @@ St Mar Enterprises Inc. [a franchise of Taco Bell Corp.],ORG,1,7794
 St. Vincent HS,ORG,1,4335
 St. Vincent de Paul Center,ORG,1,1381
 St. Vincent's Hill,ORG,1,8172
-Standards Board,FRAGMENT,1,5611
 State Council of Education,ORG,1,7823
 "Steamfitters Local 159, Local 6 and Local 94",ORG,1,1836
 Stockton Scavenger Association,ORG,1,6356
 StopWaste.Org (Alameda County Waste Management),ORG,1,4299
-StopWaste.Org (Alameda),FRAGMENT,1,6667
 "Streams in The Desert Foundation, INC.",ORG,2,9205 9206
 Summit Mobilehome Park Homeowners' Association,ORG,1,7866
 Sunny Oaks Mobilehome Park Residents' Association,ORG,1,6357
@@ -1029,7 +1001,6 @@ Superior Escrow Service,ORG,2,5957 5958
 Sutter County Department of Social Services,ORG,1,1796
 Sutter County Superior Court,ORG,1,1842
 Sutter Creek Partners,ORG,1,9246
-Sutter Hospitals,FRAGMENT,1,1147
 Sutter Lakeside Community Services/Lake Family Resource Center,ORG,1,7875
 Taxation Section of the Business Law Section of the State Bar of California,ORG,1,3598
 Technic Tools Corporation,ORG,1,9184
