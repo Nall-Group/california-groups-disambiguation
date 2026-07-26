@@ -9,6 +9,36 @@ To edit this file (post questions, write answers), join this queue first. Only t
 
 ## Open Questions
 
+### Q62 (Task 5173, RA-Fleet-1) — 150-row corrupted block in `conjoined_text_mapping_to_orgs.csv` (columns wrong / never split)
+
+**Status:** Open
+
+Working chunk 4/21 of the unmatched-conjoined-component initiative (task 5173), 11 of my 50 `ORG`-bucket components turned out not to be org names at all, but whole unsplit conjoined strings. They all trace to the same defect.
+
+**The defect:** rows **8809-8958** (150 contiguous data rows) of `org_names_for_cleaning/conjoined_text_mapping_to_orgs.csv` have the wrong columns:
+
+- `conjoined_text` holds a bare sequence number `1`, `2`, ... `150`
+- `mapped_orgs` holds the **unsplit fused string** (0 of the 150 rows contain a `;`)
+
+Examples (`conjoined_text` | `mapped_orgs`):
+
+- `77` | `Bristol-Myers Squibb and its subsidiary Mead Johnson Nutritionals`
+- `81` | `Building Owners and Managers Association, California Building Industry Association, Consulting Engineers and Land Surveyors of California, Inland Empire Disposal Association, Los Angeles County Waste Management`
+- `1` | `Amador County Auditor-Controller Tacy Oneto Rouen, Calaveras County Auditor-Controller Rebecca Callen, ... State Association of County Auditors`
+
+Because the component-extraction step reads `mapped_orgs`, each of these 150 fused strings is emitted as a single "component" that of course matches nothing in the crosswalk — so they show up in `conjoined_components_not_in_crosswalk.csv` in the `ORG` bucket and get handed to RAs as if they were org names. Adding them to the crosswalk would be wrong (conjoined text must never live in the crosswalk), and any bill count on these rows is currently unattributable.
+
+**What I did for task 5173:** completed and committed the 38 genuine ORG components in my range and deleted those rows from the worklist. I left the 11 affected rows plus one similar row (`Building and Construction Trades Council, Los Angeles, Orange, Santa Clara, San Benito Counties` — a row where `conjoined_text` == `mapped_orgs`, likewise never split) in the worklist, untouched.
+
+**Questions:**
+
+1. Should the 150-row block be **repaired in place** — i.e. set `conjoined_text` to the fused string that is currently in `mapped_orgs`, then split it properly into a `;`-separated `mapped_orgs` list (adding any missing component orgs to the crosswalk)? That means editing `mapped_orgs`, which the chunk tasks explicitly forbid, so I did not do it.
+2. If yes, should it be one dedicated task for the whole 150-row block, or folded into the per-chunk tasks (5163-5190) as they come up?
+3. Where did the bare `1..150` numbers come from — is there an upstream generation bug that should be fixed first so this does not recur on the next import?
+4. Same question for rows where `conjoined_text` == `mapped_orgs` with no `;` (unsplit single-row cases like the Building and Construction Trades Council one) — repair by splitting, or leave?
+
+Other chunk tasks in the 5163-5190 range will hit the remaining ~139 rows of this block, so an answer here unblocks all of them.
+
 ### Q61 (Task 5162, RA-Fleet-2) — Three recurring strippable boilerplate patterns: `SPONSOR!` prefix, `(late)` suffix, `... version` suffix
 
 **Status:** Open
