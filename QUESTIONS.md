@@ -9,6 +9,75 @@ To edit this file (post questions, write answers), join this queue first. Only t
 
 ## Open Questions
 
+### Q61 (Task 5162, RA-Fleet-2) — Three recurring strippable boilerplate patterns: `SPONSOR!` prefix, `(late)` suffix, `... version` suffix
+
+**Status:** Open
+
+While cleaning the `CALIFORNIA ASSOCIATION OF REALTORS` child list (task 5162) I hit four dirty strings that `scripts/clean_name.py` does not touch. Three of them turn out to be crosswalk-wide recurring classes (counts are over all 212,670 names in the crosswalk, canonicals + children). I have NOT edited `cleaning_patterns.txt`; requesting sign-off.
+
+---
+
+**Pattern A — `SPONSOR!` bill-position prefix (24 entries)**
+
+Regex: `^SPONSOR!\s*(?:None on file\.)?\s*`
+
+Note the `None on file.` variant: several entries are `SPONSOR! None on file.<Org>`, so the optional group is needed or those stay dirty. Also note the prefix is frequently **unspaced** (`SPONSOR!CA Downtown Assoc`), so `\s*` must allow zero spaces.
+
+Examples:
+- `SPONSOR! CA Association of RealtorsCA` -> `CA Association of RealtorsCA` (still dirty — trailing `CA` is a separate artifact, would need manual follow-up)
+- `SPONSOR!Alameda County Planning Department` -> `Alameda County Planning Department`
+- `SPONSOR! None on file.Builders Exchanges` -> `Builders Exchanges`
+
+Must NOT match:
+- `Sponsors of the Ontario Convention Center` (word "Sponsors", no `!`)
+- `SPONSORSHIP LEADERSHIP COUNCIL` (no `!`)
+
+The `!` is what makes this safe — no legitimate org name starts `SPONSOR!`.
+
+---
+
+**Pattern B — trailing `(late)` (22 entries)**
+
+Regex: `\s*\((?:late|LATE|Late)\)\s*$`  (or `\s*\(late\)\s*$` case-insensitive)
+
+This is a bill-analysis annotation meaning the position was filed late, not part of any org name.
+
+Examples:
+- `California Association of Realtors (late)` -> `California Association of Realtors`
+- `California Apartment Association (late)` -> `California Apartment Association`
+- `Apartment Association of Greater Los Angeles (late)` -> `Apartment Association of Greater Los Angeles`
+
+Must NOT match:
+- `THE CALIFORNIA ASSOCIATION OF REALTORS (C.A.R.)` — trailing parenthetical is a real acronym (per the "valid vs dirty affixes" rule, trailing `(ACRONYM)` is a VALID part of the name)
+- `Latino Coalition (LC)` — nothing named `(late)` here; listed to confirm the regex is anchored to the literal word only.
+
+---
+
+**Pattern C — trailing bill-version annotation (8 entries)**
+
+Regex: `\s*[,\-–]?\s*(?:\(?[^()]*?\)?\s*)?(?:prior|[A-Z][a-z]+ \d{1,2}, \d{4}|\d{1,2}/\d{1,2}/\d{2,4}|based on \d{1,2}/\d{1,2}/\d{2,4})\s*version$`
+
+This one I am **least confident about** — the 8 real instances have quite different shapes, so a single regex is awkward. The full list is:
+
+- `California Association of Realtors, April 23, 2007 version`
+- `California Department of Transportation (4/16/98) version`
+- `California Department of Transportation (based on 4/16/98) version`
+- `Department of Conservation - April 29, 2002 version`
+- `Department of Corporations, prior version`
+- `Kaiser Permanente, prior version`
+- `Robinsons-May Department Stores - May 24, 1999 version`
+- `County of Santa Barbara, in support of a prior version`
+
+A simpler, blunter alternative would be `\s*[,\-–(].*\bversion$` (strip from the last comma/dash/open-paren through a trailing literal `version`). Must NOT match anything — I found **no** legitimate org name in the crosswalk ending in the word "version", so a trailing-`version` anchor appears safe. But 8 entries is barely over the 3-entry threshold and they are heterogeneous, so **just cleaning these 8 by hand may be the better call**. Your judgment.
+
+---
+
+**Questions:**
+1. Approve A and B as written (I will file a follow-up task to add them to `cleaning_patterns.txt` and run the full clean/dedup/stats pipeline)?
+2. For C: blunt regex, precise regex, or hand-clean the 8?
+3. **Separate flag, not a pattern:** while doing 5162 I found `California Association of Realtors Randy Chinn` (org + individual conjoined, count 1) still sitting as an `alternate_spelling` under C.A.R. It was outside 5162's stated scope so I left it. Worth a task?
+4. **Data-premise correction for the record:** task 5162 justified deleting the bare acronym `CAR` on the grounds that it has zero source rows. That is true of `crosswalk.standardizenames.manualedits_clean.csv` and the cleaning CSVs, but `CAR` **does** appear in `org_names_import_summary.csv` with `count 8, status in_crosswalk` — i.e. the leginfo import saw it 8 times. I deleted it as instructed (it is genuinely ambiguous across `CALIFORNIA ASSOCIATION FOR THE RETARDED (CAR)` and `Consumer Advocates for TRCFE Reform (CAR)`, so keeping it under C.A.R. was wrong either way), but those 8 occurrences are now unattributed. Should `CAR` be routed to `org_names_partial.csv` with count 8 instead of dropped?
+
 ### Q60 (Task 5142, Management Assistant) — Does `California Council of Carpenters` belong to the State Council or the Conference?
 
 **Status:** Open
