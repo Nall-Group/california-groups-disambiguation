@@ -1,8 +1,8 @@
 sponsor_string,bill_rows,proposed_route,mapped_org_if_known,org_already_in_crosswalk
 CAR,8,PARTIAL,,
 California Coastkeeper Alliance : Defenders of Wildlife,4,CONJOINED,,CALIFORNIA COASTKEEPER ALLIANCE
-DHS and supported by the Air Resources Board,4,NARRATIVE,,AIR RESOURCES BOARD
-DHS in response to a report by the California State Auditor,4,NARRATIVE,,CALIFORNIA STATE AUDITOR
+DHS and supported by the Air Resources Board,4,NARRATIVE,,"DHS (Department of Health Services) — NOT the Air Resources Board, which is the supporter"
+DHS in response to a report by the California State Auditor,4,NARRATIVE,,"DHS (Department of Health Services) — NOT the State Auditor, which wrote the report"
 "a coalition of supporters, including Outdoor Outreach",3,NARRATIVE,,OUTDOOR OUTREACH
 "Document submitted to the Legislature by the IBank and CPCFA, January",3,NARRATIVE,,
 Franchise Tax Board to facilitate return processing and reduce taxpayer confusion and frustration regarding change of filing status,3,NARRATIVE,,FRANCHISE TAX BOARD
@@ -26,7 +26,6 @@ This bill is supported by the California Trucking Association,2,NARRATIVE,,THE C
 This bill is supported by the Sierra Club,2,NARRATIVE,,THE SIERRA CLUB
 Thoroughbred Owners of California in order to authorize the CHRB to enter into the model compact,2,NARRATIVE,,THOROUGHBRED OWNERS OF CALIFORNIA
 Trusts and Estates section of the State Bar to address the abuse,2,NARRATIVE,,TRUSTS AND ESTATES SECTION OF THE STATE BAR
-United Teacher of Los Angeles apparently in response to safety concerns within the Los Angeles Unified School District,2,NARRATIVE,,THE LOS ANGELES UNIFIED SCHOOL DISTRICT
 We founded the Drop the 'A' Word coalition whose goal is to eliminate the word accident when talking about crashes and crimes that involve impairment or distraction,2,NARRATIVE,,DROP THE 'A' WORD COALITION
 "Willie L. Brown, Jr., Esq",2,INDIVIDUALS,,
 "access provider, Sierra Pine",1,NARRATIVE,,SIERRA PINE
@@ -63,7 +62,7 @@ City of Hawthorne and the Hawthorne Police Department,1,CONJOINED,,HAWTHORNE POL
 Clean Water Action and California League of,1,CONJOINED,,CLEAN WATER ACTION
 consumer safety reporter Public Citizen,1,NARRATIVE,,PUBLIC CITIZEN
 continued California Builders Exchanges,1,NARRATIVE,,CALIFORNIA BUILDERS EXCHANGE
-Council to modify membership to increase the representation of academic interests of the University of California MIND Institute and of consumers with developmental disabilities,1,NARRATIVE,,UNIVERSITY OF CALIFORNIA MIND INSTITUTE
+Council to modify membership to increase the representation of academic interests of the University of California MIND Institute and of consumers with developmental disabilities,1,NARRATIVE,,UNVERIFIED — the auto-hint (UC MIND Institute) sits in the purpose clause; identify the actual Council from the source row
 Counties of Placer and Sacramento S,1,CONJOINED,,
 County Assessors Association as a means to improve the discovery of changes in ownership,1,NARRATIVE,,COUNTY ASSESSORS ASSOCIATION
 County of El Dorado CA Independent Public Employees Legislative Council Counties of Del Norte,1,CONJOINED,,CA INDEPENDENT PUBLIC EMPLOYEES LEGISLATIVE COUNCIL
@@ -83,7 +82,7 @@ DHCS November 2015 Estimate,1,NARRATIVE,,
 DHS to change three of the four teenage pregnancy prevention programs administered by Office from a contract process to a grant process for fund disbursement,1,NARRATIVE,,PREGNANCY PREVENTION
 DHS to change three of the four teenage pregnancy prevention programs administered by the Office from a contract process to a grant process for fund disbursement,1,NARRATIVE,,PREGNANCY PREVENTION
 Disabled American Veterans to provide an allocation from this state to the American Battle Monuments Commission for construction of the American Veterans Disabled for Life Memorial in Washington D,1,NARRATIVE,,DISABLED AMERICAN VETERANS
-DMV in order to conform California law to federal mandates contained in the Motor Vehicle Information and Cost Saving Act,1,NARRATIVE,,CALIFORNIA LA
+DMV in order to conform California law to federal mandates contained in the Motor Vehicle Information and Cost Saving Act,1,NARRATIVE,,DMV (Department of Motor Vehicles)
 Doris Tate Crime Victims Bureau and addresses the issue of a victim's or next of kin's testimony at a parole hearing,1,NARRATIVE,,DORIS TATE CRIME VICTIMS BUREAU
 DPH because additional expenditure authority is needed in the Program to continue the production of BabyBig,1,NARRATIVE,,
 "Due to this lack of statutory authority to issue a summons, the Trusts and Estates Section of the State Bar (TEXCOM)",1,NARRATIVE,,THE TRUSTS AND ESTATES SECTION OF THE STATE BAR (TEXCOM)
@@ -100,7 +99,7 @@ Fire Districts Association of California and supported by various local fire dep
 "Franchise Tax Board , California Association of Nonprofits and The Howard Jarvis Taxpayer Association",1,CONJOINED,,CALIFORNIA ASSOCIATION OF NONPROFITS
 Franchise Tax Board to correct two grammatical errors and identify the appropriate agencies to certify pollution control credits,1,NARRATIVE,,FRANCHISE TAX BOARD
 Fresno Zoological Society in an effort to raise additional revenues to support the zoo and related zoological facilities and purposes within Fresno County,1,NARRATIVE,,FRESNO ZOOLOGICAL SOCIETY
-FTB and supported by the State Controller,1,NARRATIVE,,THE STATE CONTROLLER
+FTB and supported by the State Controller,1,NARRATIVE,,"FTB (Franchise Tax Board) — NOT the State Controller, which is the supporter"
 FTB in an effort to reverse the Ordlock decision,1,NARRATIVE,,
 Golden State Opportunity GRACE,1,CONJOINED,,GOLDEN STATE OPPORTUNITY
 Governor and Judicial Council,1,CONJOINED,,JUDICIAL COUNCIL
@@ -126,7 +125,7 @@ Riverside County Flood Control and Water Conservation District to obtain state a
 Sacramento AIDS Foundation to increase AIDS awareness and fund AIDS prevention services,1,NARRATIVE,,SACRAMENTO AIDS FOUNDATION
 "San Jose, City of Santa Clara County Office of Education",1,CONJOINED,,CITY OF SANTA CLARA COUNTY OFFICE OF EDUCATION
 Sonoma S CA Association of Councils of Governments Counties of Alameda,1,CONJOINED,,CA ASSOCIATION OF COUNCILS OF GOVERNMENTS
-SOS and supported by the California Association of Clerks and Elections Officials,1,NARRATIVE,,THE CALIFORNIA ASSOCIATION OF CLERKS AND ELECTIONS OFFICIALS
+SOS and supported by the California Association of Clerks and Elections Officials,1,NARRATIVE,,"SOS (Secretary of State) — NOT the Clerks association, which is the supporter"
 Stanislaus and San Joaquin Counties,1,CONJOINED,,SAN JOAQUIN
 State Department of Education in recognition,1,DIRTY_SUFFIX,State Department of Education,STATE DEPARTMENT OF EDUCATION
 STO to modernize and update the statutes affecting CHFFA,1,NARRATIVE,,
