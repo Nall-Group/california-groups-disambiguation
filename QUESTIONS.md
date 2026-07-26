@@ -9,6 +9,38 @@ To edit this file (post questions, write answers), join this queue first. Only t
 
 ## Open Questions
 
+### Q62 (sponsor-column audit, Management Assistant) — Strippable prose-suffix boilerplate: 5 safe regexes proposed, and the biggest class deliberately NOT proposed
+
+**Status:** Open
+
+Auditing the `sponsor` column of `leginfo_metadata.csv` surfaced 440 strings that are in neither the crosswalk nor any cleaning file (tasks 5298-5310). The dominant malformation is **an org name with a trailing bill-purpose clause**. Some of it is safely strippable, the largest part is NOT, and the same malformation is already sitting inside the crosswalk.
+
+**PROPOSED — 5 patterns, each verified against all 213,437 crosswalk names:**
+
+| # | regex (strip to end of string) | strips | legit names harmed |
+|---|---|---|---|
+| A | `(?i)\s+in order to\s.*$` | 23 sponsor strings | **0** |
+| B | `(?i)\s+in an?\s+(?:effort\|attempt)\s+to\s.*$` | 9 | **0** |
+| C | `(?i)\s+in response to\s.*$` | 5 | **0** |
+| D | `(?i),\s+who\s.*$` | 9 | **0** |
+| E | `(?i)\s+and supported by\s.*$` | 51 | **0** |
+
+Before -> after examples:
+- `California Distributors Association in order to help distributors meet the increasing cost demands of their bonding requirements` -> `California Distributors Association`
+- `California Association of Nonprofits and supported by a large coalition of nonprofit organizations` -> `California Association of Nonprofits`
+- `California Public Defenders Association, who` -> `California Public Defenders Association`
+
+**On "near-misses":** I searched the whole crosswalk for legitimate org names these five would damage and found **none**. The 16 crosswalk entries that DO match are themselves malformed prose that has wrongly been admitted as org names — e.g. `WateReuse Association of California in order to ensure`, `California Medical Association, who is sponsoring this legislation`, `Los Angeles City Attorney and supported by sheriffs`. So approving these would also **clean 16 bad entries already in the crosswalk**, not just the unmatched pile. Per [[prefix_strip_orphan]] the dirty spellings should be kept as alternate_spellings of their clean canonicals.
+
+**DELIBERATELY NOT PROPOSED — the biggest class.** 113 of the 440 are `<ORG> to <verb> <purpose>` (`Franchise Tax Board to facilitate return processing`, `MBC to increase funding for the Thompson Program`). A regex for that shape would be the single highest-yield pattern here, **and it must not be written**: **401 real organizations in the crosswalk have exactly that shape in their actual names** — `Alliance to Save Energy`, `Alliance to End Slavery and Trafficking`, `ALLIANCE TO STOP SLAVERY AND END TRAFFICKING`, `Alliance to Prevent Legionnaires' Disease`, `Alliance of Citizens to Improve Oceanside Neighborhoods`, `AMERICAN COALITION OF COMPANIES ORGANIZED TO REDUCE DEBT`. Stripping there would silently truncate hundreds of legitimate advocacy-org names. Those 113 are handled per-string as narrative extraction in task 5298 instead.
+
+**SEPARATE FINDING — 80 malformed names already in the crosswalk that no regex above covers:** 61 end in a dangling ` and` (`AMERICAN COLLEGE OF OBSTETRICIANS AND`, `Academy of California Adoption Lawyers (ACAL) and`) and 19 end in a dangling ` who`/` is`/` which`/` that` (`California Building Industries Association, which`). A trailing-`and` strip is risky — some org names legitimately end in "and" mid-truncation and the clean form may already exist as a separate node, which would create merges. **Do you want a pattern for these, or a task to clean the 80 by hand?**
+
+**Questions:**
+1. Approve patterns A-E for `cleaning_patterns.txt`?
+2. Confirm the `to <verb>` class stays manual (I recommend yes, given the 401 legitimate names).
+3. Regex or manual task for the 80 dangling-connector entries?
+
 ### Q64 (Task 5292, RA-Fleet-1) — sub-item (e) instruction is truncated; 3 WECA strings left untouched
 
 **Status:** Open
