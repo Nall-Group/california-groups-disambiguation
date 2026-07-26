@@ -9,6 +9,22 @@ To edit this file (post questions, write answers), join this queue first. Only t
 
 ## Open Questions
 
+### Q64 (Task 5292, RA-Fleet-1) — sub-item (e) instruction is truncated; 3 WECA strings left untouched
+
+**Status:** Open
+
+Task 5292 sub-item (e) reads, in full: **"(e) `Western Electrical Contractors Association, Inc."** — the sentence is cut off mid-string in TASKS.md, so there is no instruction. I completed every other sub-item (a)-(h) and committed them (e1e8a448f), leaving (e) untouched rather than guessing.
+
+The `Western Electrical Contractors Association, Inc.` tree (32 nodes) has three sibling top-level canonicals that look like the intended candidates, all **truncated conjoined** strings whose second component is cut off:
+
+- `The Western Electrical Contractors Association and the Plumbing-Heating` (0 children)
+- `Western Electrical Contractors Association (WECA-IEC) and California` (0 children)
+- `Western Electrical Contractors Association and the Southern California` (0 children)
+
+I did not route them to `conjoined_text_mapping_to_orgs.csv` because each one's second component is unidentifiable as written (`the Plumbing-Heating`…, `California`…, `the Southern California`…), so `mapped_orgs` would have to be invented. **Question:** for truncated conjoined strings like these, should we (a) record them in the conjoined map with only the identifiable component(s) listed, (b) fold them as alternate spellings of `Western Electrical Contractors Association, Inc.` since WECA is the only recoverable org, or (c) route to `org_names_partial.csv`? A standing rule would help — this pattern recurs across the big-tree tasks.
+
+**Related deviation in the same task (FYI, no answer needed unless you disagree):** sub-item (a) told me to route `American Lung Association Coalition` to the conjoined map, but its second component is likewise unidentifiable, so I folded it as an `alternate_spelling` of `AMERICAN LUNG ASSOCIATION` instead of inventing a component.
+
 ### Q63 (Task 5188, RA-Fleet-2) — 2 unmatched conjoined components that must NOT become crosswalk entries
 
 **Status:** Open
