@@ -1,16 +1,11 @@
 component,bucket,occurrences,source_rows
-'Ohana House,FRAGMENT,1,2610
 A-Built Aluminum Gutters,ORG,1,974
-ACFC,FRAGMENT,1,1274
-ACTCM,FRAGMENT,1,2024
 AFL-CIO California State Council,ORG,1,3211
 "AFL-CIO Central Labor Council of Fresno, Madera, Tulare and Kings counties",ORG,1,8779
 "AFL-CIO, Local 9000",ORG,1,3052
 AKA Marine & Aviation Insurance (U.K.) Limited,ORG,1,2636
-APAPA,FRAGMENT,1,653
 Abatement District,FRAGMENT,1,2165
 Academic Senate of the University of California,ORG,1,8096
-Access Staffing,FRAGMENT,1,3491
 Accountants & Allied Production Specialists Guild,ORG,2,6276 9108
 Accrediting Commission for Senior Colleges and Universities,ORG,1,2173
 Action for a Healthy Planet,ORG,1,8759
@@ -19,7 +14,6 @@ Advanced Data Processing,ORG,1,9345
 Advancement Foundation,FRAGMENT,1,2200
 Advisory Committee on Immunization Practices (ACIP),ORG,1,8170
 Agency on Aging Area 4 (AAA4),ORG,1,8793
-Airline Associates,FRAGMENT,1,2264
 Alameda County Breast Cancer Early Detection Program,ORG,1,905
 "Alameda County Youth Development, Inc.",ORG,2,904 1980
 Alcance Homeless Emergency Action Response,ORG,1,5201
@@ -35,7 +29,6 @@ Alliance for the Mentally Ill of Yolo County,ORG,1,9307
 Alliance of POTWs,ORG,1,2328
 "Alpha Phi Alpha Fraternity, Gamma Chi Lambda Chapter",ORG,1,7479
 "Amador County Auditor-Controller Tacy Oneto Rouen, Calaveras County Auditor-Controller Rebecca Callen, Kern County Auditor-Controller Mary Bedard, Lassen County Auditor-Controller Diana Wemple, Mendocino County Auditor-Controller Lloyd Weer, Napa County Auditor-Controller Tracy Schulze, Orange County Auditor-Controller Eric Woolery, San Benito County Auditor-Controller Joe Paul Gonzalez, San Bernardino County Auditor-Controller/Treasurer/Tax Collector Oscar Valdez, Tehama County Auditor-Controller LeRoy M. Anderson, Yuba County Auditor-Controller Richard Eberle, California Association of County Treasurers and Tax Collectors, State Association of County Auditors",ORG,1,8810
-Amarok,FRAGMENT,1,5973
 "America's Edge, Bay Area Council, California Association of Regional Occupational Programs and Centers, California Chamber of Commerce, Metropolitan Education District, Sacramento City Unified School District, San Bernardino County District Advocates for Better Schools, San Francisco",ORG,1,8811
 American -Escutia California Association of Enterprise Zones,ORG,1,8812
 American Addiction Institute of Mind and Medicine,ORG,1,2359
@@ -130,34 +123,22 @@ Association of Trial Court Administrators,ORG,1,939
 "Association, the California Association of School Business Officials, and the Association of California Construction Managers. These entities",ORG,1,8866
 "Asthma & Allergy Foundation of America, California Chapter Bayer HealthCare",ORG,1,8867
 "Atkins Environmental H.E.L.P., Inc.",ORG,1,9096
-Atlantic Resources,FRAGMENT,1,4429
-Atlantis Energy,FRAGMENT,1,4074
 Attorney (Sponsor) San Diego County District Attorney,ORG,1,8868
 "Authorities, California Chamber of Commerce, California Council for Environmental and Economic Balance, California Marine Parks and Harbors Association, California Refuse Removal",ORG,1,8869
-Automotive Technicians,FRAGMENT,1,2264
-Avco Disposal,FRAGMENT,1,6301
 Avondale - Glen Elder Neighborhood Association,ORG,1,2973
 "Azusa, Arcadia, Bell, Burbank, Downey Police Department, El Monte, El Segundo, Glendale, Glendora, Hawthorne, Long Beach, Maywood, Montebello, Palos Verdes Estates, San Fernando, San Gabriel, Sierra Madre, Signal Hill, South Pasadena, Vernon and Culver City Police Departments",ORG,1,8870
 "BIOCOM/San Diego, California Chapter of American College of Nuclear Physicians, California Healthcare Association, California",ORG,1,8871
-BRCO,FRAGMENT,1,2629
-BRIDGE,FRAGMENT,1,7234
-Bakersfield PFLAG,FRAGMENT,1,9313
 "Barbara Chula Vista, Alameda County Congestion Management Agency",ORG,1,8872
 "Barbara County Board of Supervisors, Astrotech, Made with Magnets Company",ORG,1,8873
 Barger and Wolen,ORG,1,6089
-Baskin Robbins,FRAGMENT,1,9350
 Bay Area Building Trades Council,ORG,1,1469
 Bayview Hunters Point Breast Cancer Fund,ORG,1,8791
 "Being Alive Los Angeles, Inc. -Goldberg Billy DeFrank LGBT Community Center (San Jose)",ORG,1,8874
-Belvedere,FRAGMENT,1,6724
 "Better Choices, Inc",ORG,1,453
 Beverly-Wilshire Home Owners Association,ORG,1,8489
 "Bevers Disposal Service Browning-Ferris Industries California Refuse Removal Council EDCO Disposal Corporation Harrison Industries Kern County Waste Management Association Inc. Mashburn Waste and Recycling Services, Inc. Norcal Waste Systems, Inc. Paso Robles Waste Disposal Pena's Disposal Inc. Rainbow Disposal Company, Inc. San Diego County Disposal Association Tulare County Refuse Removal Association Varner Bros., Inc",ORG,1,8875
 "Biking Association, San Francisco Public Utilities Commission",ORG,1,8876
 Bingo Innovations of California,ORG,1,1301
-BioTech,FRAGMENT,1,6110
-BioTech Restorations,FRAGMENT,1,1339
-BisSchips,FRAGMENT,1,209
 Black Women's Forum,ORG,1,125
 Blue Belly Farm,ORG,1,9246
 Blue Cross of California California Association of Health Plans,ORG,1,8877
@@ -177,7 +158,6 @@ Board of Supervisors of Tuolumne County,ORG,1,345
 Board of Supervisors of Ventura County,ORG,1,425
 Board of Supervisors of Yuba County,ORG,2,90 141
 "Boeing Company, California Chamber of Commerce, California Healthcare Association, California",ORG,1,8882
-"Borax, Inc.",FRAGMENT,1,3109
 Both the American Civil Liberties Union (ACLU) and the Western Center on Law and Poverty (WCLP),ORG,1,8883
 Botswana Wildlife Producers Association (BWPA),ORG,1,3062
 Bottled Water Association,ORG,2,3123 3124
@@ -223,7 +203,6 @@ Business & Industry Council on Emergency Planning and Preparedness,ORG,1,3172
 "Business Law Section, California Lawyers Association",ORG,1,5327
 Byron Municipal Advisory Council Department of Finance School Boards Assoc. Cities of,ORG,1,8893
 Byron Orris Autobody,ORG,1,5691
-C.A.R.E.,FRAGMENT,1,7943
 CA Apartment AssociationSan,ORG,1,8894
 CA Assn. of County Treasurers and Tax,ORG,1,6729
 CA Council of Churches Ceres,ORG,1,8895
@@ -238,18 +217,14 @@ CA State Association of CA Manufacturers Assn,ORG,1,8901
 CA State Legislative Board,ORG,1,3290
 CA Teachers Assoc. Anaheim Arvin Brentwood Ceres Coalinga Corcoran Delano Duarte Firebaugh Fresno Huron Kerman Lafayette Livermore Merced Modesto Moraga Norco Oakland Oceanside Orinda Poway Shafter Stockton Turlock Visalia Fresno Kern Madera Florin Forestville District,ORG,1,8903
 CA Teachers Assoc. Ceres Duarte Livermore Merced Modesto Poway Stockton,ORG,1,8904
-CA Trucking,FRAGMENT,1,6813
 CA-Nev Conf. of Operating Engineers,ORG,1,9246
-CABRO,FRAGMENT,1,8703
 CAL FIRE Local,ORG,1,3977
 "CAL-RAD Forum, Stanford University, Southern",ORG,1,8905
-CALA,FRAGMENT,1,3266
 CEC Teacher Education Division,ORG,1,3457
 CHANGE (Californians for a Healthy & Green Economy Children Now City of Berkeley Clean Water Action Commonweal Community Health Council Consumer Federation of California County of Santa Clara Board of Supervisors County of Solano Board of Supervisors County of Los Angeles EcoMom Alliance Environment California Environmental Defense Fund First 5 Association of California First 5 Fresno County First 5 LA Food & Water Watch Fresno Metro Ministry Green to Grow Great Beginnings for Black Babies Having Our Say Healthy Child Healthy World Latinos Unidos Concientizados Al Ambiente Making Our Milk Safe (MOMS) Moms Advocating Sustainability Mothers of Marin Against the Spray Natural Resources Defense Council Planned Parenthood Advocacy Project of LA Planned Parenthood of CA Reproductive Justice Coalition Reproductive Justice Association of L.A. San Diego and Imperial Counties Labor Council San Diego Coast Keeper SF Environment Sierra Club California Silicon Valley Toxics Coalition St. John's Well Child and Family Center Teens Turning Green The Help Group US Autism & Asperger Association Worksite Wellness LA),ORG,1,8906
 "CICC (Chemical manufacturers, distributors & users), California League of Conservation",ORG,1,8907
 CWA Local 9199,ORG,1,3294
 Ca Organic Recycling Co,ORG,1,6625
-Cal-Sierra Disposal,FRAGMENT,1,6305
 Calaveras County Community Television,ORG,1,4432
 Calif. Academy of Family State Assoc. of Counties,ORG,1,8908
 California,FRAGMENT,27,4248 4249 4250 4251 4252 4253 4254 4255 4256 4257 4258 4259 4260 4261 4262 4263 4264 4265 4266 4267 4268 4269 4270 4273 4274 7331 7339
@@ -337,7 +312,6 @@ California Future Farmers of America Foundation,ORG,1,3326
 California Green Jobs Council,ORG,1,4393
 California Grocers Association State Superintendent of Public Instruction,ORG,1,8955
 "California Healthcare Association, Center for Behavioral: Health",ORG,1,8956
-California IMPACT,FRAGMENT,1,3312
 "California Immigrant Policy Center (CIPC Children's Defense Fund - California Coalition of California Welfare Rights Organizations, Inc. County Welfare Directors Association of CA (CWDA) Courage Campaign Ella Baker Center for Human Rights Hunger Action Los Angeles National Association of Social Workers, CA Chapter (NASW-CA) Saint Anthony's Foundations Western Center on Law and Poverty)",ORG,1,8957
 California Indian Center,ORG,1,3797
 "California Institute of Technology, Division of Biology",ORG,1,1084
