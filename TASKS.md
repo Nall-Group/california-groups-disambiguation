@@ -3,9 +3,8 @@
 ## TASKS.md Write Queue
 
 To edit this file (mark tasks, update queues, add tasks), join this queue first. Only the name at the top may edit.
-
-1. Management Assistant
 2. RA-Fleet-1
+3. RA-Fleet-2
 
 ## Data Write Queue
 
