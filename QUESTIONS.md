@@ -9,6 +9,16 @@ To edit this file (post questions, write answers), join this queue first. Only t
 
 ## Open Questions
 
+### Q63 (Task 5188, RA-Fleet-2) — 2 unmatched conjoined components that must NOT become crosswalk entries
+
+**Status:** Open
+
+Task 5188 (ORG chunk 19/21 of the unmatched-conjoined-component initiative) gave me 50 components. **48 are done and committed** (5df957297). The remaining 2 can't be resolved by either of the two allowed actions ("fold as alt/chapter" or "add as new canonical"), so I left their rows in `conjoined_components_not_in_crosswalk.csv` rather than guess:
+
+1. **`Steamfitters Local 159, Local 6 and Local 94`** — this "component" is itself a **conjoined string**. Its source row in `conjoined_text_mapping_to_orgs.csv` has `conjoined_text` == `mapped_orgs` == this exact string, i.e. it was never split. All three locals already exist in the crosswalk as chapters of `United Association`: `Plumbers and Steamfitters Local 159`, `Steamfitters Local 6`, `Steamfitters Local 94`. Putting the fused string in the crosswalk would violate the conjoined rule in CLAUDE.md; the real fix is to split `mapped_orgs` into those three names — but task 5188 explicitly says *"Do NOT edit the `mapped_orgs` text"*. **Question:** may an RA split an unsplit `mapped_orgs` cell in this situation (i.e. does the no-edit rule mean "don't rewrite spellings to match the crosswalk" rather than "never split")? This looks like the same class as Q62.
+
+2. **`U.S. Senators Boxer and Feinstein`** — individuals, not an org (source: `"...Division of the League of California Cities, U.S. Senators Boxer and Feinstein"`). Per the named-officials rule, legislators are plain members, not leadership, so this isn't an alt of any body and shouldn't be a canonical. It's a *component*, not a source row, so it has no `org_name,count` row to move into `org_names_that_are_actually_individuals.csv`. **Question:** for non-org components like this, should we (a) just delete the worklist row and accept the dropped bill count, (b) add the string to the individuals CSV with the component's occurrence count, or (c) something else? A standing rule would cover this class across all 21 chunks.
+
 ### Q62 (Task 5173, RA-Fleet-1) — 150-row corrupted block in `conjoined_text_mapping_to_orgs.csv` (columns wrong / never split)
 
 **Status:** Open
