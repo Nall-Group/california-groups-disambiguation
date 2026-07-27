@@ -142,6 +142,12 @@
 # Trailing "also" metadata - END
 (?i)\s+also\s*$
 
+# Trailing "(late)" bill-analysis annotation (task 5338, Q61-B) - END
+# Case-insensitive to catch the "(Late)" rendering; ~22 entries.
+# Must NOT touch legitimate trailing acronyms, e.g.
+# "THE CALIFORNIA ASSOCIATION OF REALTORS (C.A.R.)" (verified untouched).
+(?i)\s*\(late\)\s*$
+
 # Trailing bare date in parens like (5/22/98) or (6/14/07) - END
 \s*\(\d{1,2}/\d{1,2}/\d{2,4}\)\s*$
 
@@ -318,6 +324,13 @@
 ^Sponsor(?: (?:of|and supporter of) the bill)?[\s,:\-]+(?:the )?
 ^In support of the bill,? (?:the )?
 ^OPPOSITION \(UNLESS AMENDED\)
+
+# Leading "SPONSOR!" bill-position prefix (task 5338, Q61-A) - BEGINNING
+# Covers the "SPONSOR! None on file.<Org>" variant and the frequently-unspaced
+# form ("SPONSOR!CA Downtown Assoc"); ~24 entries. Case-SENSITIVE and the
+# literal "!" means no legitimate org name can match -- verified untouched:
+# "Sponsors of the Ontario Convention Center", "SPONSORSHIP LEADERSHIP COUNCIL".
+^SPONSOR!\s*(?:None on file\.)?\s*
 
 # Patterns to remove from ANYWHERE in organization names
 # These phrases can appear in the middle of strings and should be removed
