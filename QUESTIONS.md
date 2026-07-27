@@ -75,7 +75,19 @@ I did not route them to `conjoined_text_mapping_to_orgs.csv` because each one's 
 
 ### Q63 (Task 5188, RA-Fleet-2) — 2 unmatched conjoined components that must NOT become crosswalk entries
 
-**Status:** Open
+**Status:** Answered — both parts (supervisor, 2026-07-27)
+
+**Answer to part 1 (supervisor, 2026-07-27): YES — RAs MAY and SHOULD edit `mapped_orgs` to split an unsplit cell.** In the supervisor's words: *"oh, yes, we need to edit mapped orgs. i don't know why we told it not to edit that."* The "Do NOT edit the `mapped_orgs` text" line in the chunk tasks (5163-5190) was a mistake and is **retracted**.
+
+**STANDING RULE for all 21 chunk tasks (5163-5190) and any future conjoined work:** when a row in `conjoined_text_mapping_to_orgs.csv` has an unsplit `mapped_orgs` — i.e. the cell contains no `;` but is plainly multiple orgs fused together (including the `conjoined_text == mapped_orgs` case) — **split it properly** into a `;`-separated list of its component orgs. Search the crosswalk for each component first; add a new canonical only for components that genuinely aren't anywhere. The fused string itself still never enters the crosswalk. What the retracted rule was *meant* to prevent is **rewriting a component's spelling to force a crosswalk match** — that is still off-limits; splitting is not.
+
+Applied to this case: `Steamfitters Local 159, Local 6 and Local 94` — set `mapped_orgs` to `Plumbers and Steamfitters Local 159;Steamfitters Local 6;Steamfitters Local 94` (all three already exist as chapters of `United Association`), and drop the row from `conjoined_components_not_in_crosswalk.csv`. Nothing is added to the crosswalk.
+
+**This also answers Q62 (Task 5173) question 1 and question 4** — the 150-row corrupted block and the unsplit `conjoined_text == mapped_orgs` rows may be repaired by splitting. Q62's remaining questions (one dedicated task vs. folded into the chunk tasks; and the upstream generation bug that produced the bare `1..150` sequence numbers) are still open.
+
+**Answer to part 2 (supervisor, 2026-07-27): option (b) — add it to `org_names_that_are_actually_individuals.csv` with the component's occurrence count.** The RA's analysis is confirmed: `U.S. Senators Boxer and Feinstein` is individuals, not an org, and legislators are plain members rather than leadership, so it is neither an alternate spelling of any body nor a canonical.
+
+**STANDING RULE for non-org components across all 21 chunk tasks (5163-5190):** a conjoined component that is a person or people has no `org_name,count` source row of its own, but it is **not** dropped — write it into `org_names_that_are_actually_individuals.csv` using the **component's occurrence count** as the count, then remove the row from `conjoined_components_not_in_crosswalk.csv`. Nothing is added to the crosswalk and no bill count is silently lost. This matches how the supervisor ruled on `CAR` (routed to `org_names_partial.csv` with count 8 rather than dropped) and on `Various Constituent Letters (Over 450)`.
 
 Task 5188 (ORG chunk 19/21 of the unmatched-conjoined-component initiative) gave me 50 components. **48 are done and committed** (5df957297). The remaining 2 can't be resolved by either of the two allowed actions ("fold as alt/chapter" or "add as new canonical"), so I left their rows in `conjoined_components_not_in_crosswalk.csv` rather than guess:
 
