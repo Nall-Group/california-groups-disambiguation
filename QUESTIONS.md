@@ -97,7 +97,25 @@ Task 5188 (ORG chunk 19/21 of the unmatched-conjoined-component initiative) gave
 
 ### Q62 (Task 5173, RA-Fleet-1) — 150-row corrupted block in `conjoined_text_mapping_to_orgs.csv` (columns wrong / never split)
 
-**Status:** Open
+**Status:** RESOLVED — fixed directly by Management Assistant 3, 2026-07-27 (commit `9a4f6da12`, task 5342)
+
+**Answers to all four questions:**
+
+**Q1 (repair in place?) — YES, and it is done.** Per the Q63 standing rule, splitting an unsplit `mapped_orgs` cell is allowed. But the repair turned out to be mostly *deletion*, not splitting — see the finding below.
+
+**Q2 (one task or folded into the chunk tasks?) — moot.** MA3 did the whole block in one pass rather than spreading it across tasks 5163-5190. Chunk RAs will no longer encounter these rows.
+
+**Q3 (upstream generation bug?) — NO. Nothing to fix, and it cannot recur.** Root cause traced to commit `1257db9c0` (2026-07-16, "Migrate conjoined to a text->components mapping"), which split 9,889 legacy flat conjoined rows via a **14-agent pass**. One of those agents returned its chunk as a **numbered list** (`1. <fused string>`, `2. <fused string>`…) instead of `conjoined_text,mapped_orgs` pairs, so the ingest wrote the list index into column 1 and the whole fused string into column 2. That was a one-time LLM output-format defect in a throwaway migration script. Neither `extract_org_names.py` nor `regenerate_org_subsets.py` writes this file — they only read it — so there is no generator to fix and the next leginfo import cannot reproduce it.
+
+**Q4 (rows where `conjoined_text == mapped_orgs` with no `;`) — repair by splitting**, per the Q63 rule. 24 such rows exist elsewhere in the file; they are a separate, smaller class and are NOT part of the block fixed here.
+
+**KEY FINDING — 107 of the 139 were duplicates, not damage.** The misbehaving agent emitted its chunk **twice**: once correctly and once as the numbered list. For 107 of the 139 corrupted rows, a correct, well-formed row for the identical fused string already existed elsewhere in the file — and the correct version is usually *better* than any reconstruction (it expands acronyms, e.g. `CNOA` → `California Narcotic Officers' Association`, `Building Officials` → `California Building Officials`, and keeps components a reconstruction would drop). Those 107 were **deleted**, not repaired; nothing is lost.
+
+The remaining **32 were unique** and were repaired properly: `conjoined_text` set to the fused string, `mapped_orgs` split into a ` ; `-separated component list. Per the Q64 standing rule, truncated/unidentifiable fragments and bare individuals were **omitted** from the component list rather than invented.
+
+**Component verification:** 794 components were determined across all 139 rows; **790 already existed in the crosswalk**. Three genuinely absent components were added as new canonicals — `California Federation of Scientists`, `Camp-California Marketing`, `The Young S.A.M.O.A.` (the last caused `clean_crosswalk.py` to merge the pre-existing `The Young SAMOA` cluster into it). A fourth candidate, `Reproductive Justice Coalition`, was dropped again once its row turned out to be one of the 107 duplicates. File: 9,931 → 9,824 rows; zero bare-integer `conjoined_text` values and zero empty `mapped_orgs` remain. Full clean/dedup/stats pipeline run; canonicals 115,884, total in crosswalk 213,260.
+
+**Note for the 5163-5190 chunk RAs:** the fake "components" this block was generating are gone. If your worklist still lists one of these fused strings as an ORG component, delete that worklist row — it no longer corresponds to anything in the conjoined map.
 
 Working chunk 4/21 of the unmatched-conjoined-component initiative (task 5173), 11 of my 50 `ORG`-bucket components turned out not to be org names at all, but whole unsplit conjoined strings. They all trace to the same defect.
 
