@@ -115,7 +115,17 @@ Other chunk tasks in the 5163-5190 range will hit the remaining ~139 rows of thi
 
 ### Q61 (Task 5162, RA-Fleet-2) — Three recurring strippable boilerplate patterns: `SPONSOR!` prefix, `(late)` suffix, `... version` suffix
 
-**Status:** Open
+**Status:** Answered — A & B APPROVED, C hand-clean (supervisor, 2026-07-27)
+
+**Answer (supervisor, 2026-07-27):**
+
+1. **Pattern A — `SPONSOR!` prefix (24 entries): APPROVED.** Add `^SPONSOR!\s*(?:None on file\.)?\s*` to `cleaning_patterns.txt`. Safe because the literal `!` means no legitimate org name matches.
+2. **Pattern B — trailing `(late)` (22 entries): APPROVED.** Add it to `cleaning_patterns.txt`. It is a bill-analysis annotation and is anchored to the literal word, so it leaves real trailing acronyms like `(C.A.R.)` intact.
+3. **Pattern C — trailing bill-version annotation (8 entries): NO REGEX — hand-clean the 8.** "There's not so many." The shapes are too heterogeneous to be worth a global regex; clean each of the 8 individually. Do NOT add anything to `cleaning_patterns.txt` for this class.
+4. **`California Association of Realtors Randy Chinn`: route to `conjoined_text_mapping_to_orgs.csv`, resolving only to the org.** The standing rule for an `<ORG> <Person>` conjoined string is: **research whether the person is a leader of that org.** If yes → the string becomes an `alternate_spelling` of the org (per the named-officials leadership rule). If no → route the fused string to the conjoined map with `mapped_orgs` naming **only the org, never the individual**.
+   **Research result (MA3, 2026-07-27): Randy Chinn is NOT C.A.R. leadership.** He is a California State Senate committee staffer — Chief Consultant to the Senate Energy, Utilities and Communications Committee from 1995, then Chief Consultant to the Senate Transportation and Housing Committee from 2009 ([Senate committee bio](https://archive.senate.ca.gov/sites/archive.senate.ca.gov/files/committees/2017-18/stran.senate.ca.gov/sites/stran.senate.ca.gov/files/randy_chinn2015.pdf), [LinkedIn](https://www.linkedin.com/in/randy-chinn-681baa8/)). He has no leadership role at the California Association of Realtors. So: remove the string from its current position as an `alternate_spelling` under C.A.R. and record it in `conjoined_text_mapping_to_orgs.csv` with `mapped_orgs` = `CALIFORNIA ASSOCIATION OF REALTORS`.
+
+(Sub-question 4 of the original post — routing `CAR` to `org_names_partial.csv` with count 8 — was already answered YES on 2026-07-26; see below.)
 
 While cleaning the `CALIFORNIA ASSOCIATION OF REALTORS` child list (task 5162) I hit four dirty strings that `scripts/clean_name.py` does not touch. Three of them turn out to be crosswalk-wide recurring classes (counts are over all 212,670 names in the crosswalk, canonicals + children). I have NOT edited `cleaning_patterns.txt`; requesting sign-off.
 
