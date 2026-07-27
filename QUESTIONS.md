@@ -48,7 +48,18 @@ Before -> after examples:
 
 ### Q64 (Task 5292, RA-Fleet-1) — sub-item (e) instruction is truncated; 3 WECA strings left untouched
 
-**Status:** Open
+**Status:** Answered — option (a) (supervisor, 2026-07-27)
+
+**Answer (supervisor, 2026-07-27): (a) — record them in `conjoined_text_mapping_to_orgs.csv` with only the identifiable component(s) listed in `mapped_orgs`.** Do NOT invent a component for the truncated tail, and do NOT leave the fused string in the crosswalk.
+
+This is a **STANDING RULE** for the whole class (it recurs across the big-tree tasks): when a conjoined string's second (or later) component is truncated and unidentifiable as written, route the fused string to `conjoined_text_mapping_to_orgs.csv` with `mapped_orgs` = the `;`-separated list of only the components that ARE identifiable. Do not route to `org_names_partial.csv`, and do not fold as an alternate spelling of the one recoverable org.
+
+Applied to the three task-5292 sub-item (e) strings — each maps to the single identifiable component `Western Electrical Contractors Association, Inc.`:
+- `The Western Electrical Contractors Association and the Plumbing-Heating`
+- `Western Electrical Contractors Association (WECA-IEC) and California`
+- `Western Electrical Contractors Association and the Southern California`
+
+**Note on the sub-item (a) deviation:** `American Lung Association Coalition` was folded as an `alternate_spelling` of `AMERICAN LUNG ASSOCIATION`. Under this rule it should instead go to `conjoined_text_mapping_to_orgs.csv` with `mapped_orgs` = `AMERICAN LUNG ASSOCIATION`. Correct it as part of the follow-up task.
 
 Task 5292 sub-item (e) reads, in full: **"(e) `Western Electrical Contractors Association, Inc."** — the sentence is cut off mid-string in TASKS.md, so there is no instruction. I completed every other sub-item (a)-(h) and committed them (e1e8a448f), leaving (e) untouched rather than guessing.
 
