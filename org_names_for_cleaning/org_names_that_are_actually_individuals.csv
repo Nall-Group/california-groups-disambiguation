@@ -2,7 +2,7 @@ org_name,count
 Several individuals,673
 1 individual,605
 Author,342
-Numerous Individuals,296
+Numerous Individuals,297
 Randy Chinn,131
 Over,127
 David Felderstein,74
@@ -12,7 +12,7 @@ Lawrence Lingbloom,48
 Councilmember Zach Hilton,35
 Individual Citizens,31
 Institute,30
-Two private individuals,28
+Two private individuals,29
 Barbara,27
 "Councilmember Zach Hilton, City of Gilroy",25
 Sacramento County Deputy,24
@@ -22,12 +22,12 @@ San Diego Councilmember Donna Frye,22
 "Councilmember Kevin McCarty, City of Sacramento",22
 Senator Dianne Feinstein,19
 Councilmember David Alvarez,19
-Numerous Individual Letters,17
 A coalition of supporters,18
 Jacqueline Kinney,18
 Congressman Sam Farr,18
 7 INDIVIDUAL LETTERS,18
 Honorable Quentin Kopp,18
+Numerous Individual Letters,17
 Constituent,17
 Senator Simitian,17
 Councilmember Sean Elo-rivera,17
@@ -246,6 +246,7 @@ Los Angeles Unified School District Board Member Jose Huizar,7
 "Don Tamaki, former Task Force Member",7
 "Councilmember Rita Walters, City of Los Angeles",7
 "Councilmember Steve Castaneda, City of Chula Vista",7
+"Madison P. Nguyen, Councilmember, Dist. 7 - City of San Jose",7
 President,6
 6 Private Citizens,6
 Private Citizen (1),6
@@ -559,9 +560,8 @@ Charles R,5
 "Kevin McKeown, Councilmember, City of Santa Monica",5
 "Paul Koretz, Councilmember, City of Los Angeles",5
 "Zach Hilton, Council Member, City of Gilroy",5
-"Councilmember Sean Elo-Rivera, City of San Diego, District 9",3
-"Zach Hilton City Council Member, City of Gilroy",3
 Richmond City Councilmember Gayle Mclaughlin,5
+"Gerardo F. Gomez, Sr. Catholic Chaplain, Twin Towers I, CF, Los Angeles, CA",5
 Individual Letters (3),4
 One Individual Letter,4
 Individuals - 4,4
@@ -1006,8 +1006,10 @@ Treasurer Fong,4
 "Roger Hernandez, Councilmember, City of West Covina",4
 "Sacramento City Unified School District, Board Member Manny Hernandez",4
 "Vice Mayor Henry Chang, City of Oakland",4
-"Jay K. Pierce, Central united Methodist Church",3
 "Brietta Clark, Loyola Law School",4
+"Councilmember Sean Elo-Rivera, City of San Diego, District 9",3
+"Zach Hilton City Council Member, City of Gilroy",3
+"Jay K. Pierce, Central united Methodist Church",3
 3 Private Citizens,3
 4 Private Citizens,3
 Individual Letters (5),3
@@ -2105,9 +2107,12 @@ Marion Ely,3
 "Council Member Sean Elo-Rivera, City of San Diego, District 9",3
 "Tony Cardenas, Councilmember, City of Los Angeles",3
 "Tri Ta, Councilman, City of Westminster",3
-"Council Member Laura Parmer-Lohan, City of San Carlos",2
 149 form support letters from individuals and couples from Hemet and Sun City,3
-Judge Quentin Kopp. San Mateo County Superior Court,1
+94 Individuals,3
+"Katie Peters, CCC-SLP, Pasadena City College",3
+"Cemetery Workers & Greens Attendants Union, Local 265, John Martin, Exec. Board",3
+"M. Margaret Knudson, M.D., Professor of Surgery, University: of California, San Francisco",3
+"Council Member Laura Parmer-Lohan, City of San Carlos",2
 Individual Letters: 2,2
 Individual Letter (1),2
 SENATE RULES COMMITTEE: Sandy Kenyon/323-8897,2
@@ -2244,7 +2249,7 @@ Lund,2
 "Sheriffs of Imperial County, San Bernardino County, Calaveras County",2
 Vice Chairman of the San Diego County Veterans Advisory,2
 Yosemite Community College District Trustee,2
-Dr. Robert Jacobson,1
+Dr. Robert Jacobson,2
 1 Structural Engineer,2
 "1,155 Individuals",2
 1013 Individuals,2
@@ -2284,7 +2289,6 @@ Individual Businesses (numerous letters on file),2
 "Marcos, Santa Rosa, Sunnyvale, Thousand Oaks, Tustin, Vista",2
 Patrick,2
 "Jose Luis Diaz, binding finding of factual innocence, $305,300",2
-94 Individuals,3
 47 Individuals,2
 36 Individuals,2
 101 Individuals,2
@@ -4256,12 +4260,19 @@ Susan Mellen,2
 "Vice Mayor Martine Watkins, City of Santa Cruz",2
 "William G. Glynn, Ed.D., Vice Mayor, City of Pittsburg",2
 "Yvonne Brathwaite Burke Supervisor, 2nd District Board of Supervisors, County of Los Angeles",2
+149 form SB 2097 (Haynes) support letters from individuals and couples from Hemet and Sun City,2
+"Lynette McElhaney, Oakland City Councilmember",2
+4 Individual Senior Legislators,2
+"Forest Batz, PharmD, Assistant Clinical Professor, School of Pharmacy, University of California, San Francisco",2
+"Forest Bazat, PharmD, Assistant Clinical Professor, School of Pharmacy, University of California, San Francisco",2
+"Henriette W. Langdon, Assoc. Prof. San Jose State University",2
+"Joseph McNamara, D.P.A., Police Chief, San Jose, (Ret.), Research Fellow at the Hoover Institution on War, Revolution and Peace",2
+"Petition signatures of individuals 36,661",9
+Judge Quentin Kopp. San Mateo County Superior Court,1
 "Councilmember Kristin McCowan, City of Santa Monica",1
 "Ken Yeager Councilmember, District 6, City of San Jose",1
 "School of Science, Department of Biological Sciences, Robert A. Main, PH.D., Professor of Zoology (Emeritus) California State University, Hayward",1
-149 form SB 2097 (Haynes) support letters from individuals and couples from Hemet and Sun City,2
 Lt. Governor Cruz Bustamente,1
-"Lynette McElhaney, Oakland City Councilmember",2
 12 (individuals),1
 judges,1
 Doris Tate,1
@@ -5517,7 +5528,6 @@ Mike Gotch [former Assemblymember],1
 35 individuals (most identify themselves as owners or previous owners of lemons) *Position has been reconfirmed after review of July 15th,1
 35 pawnbrokers,1
 372 Private Citizens,1
-4 Individual Senior Legislators,2
 41 Clients of Joe A. Gonsalves & Son,1
 42 individual veterans' letters,1
 45 Amusement Machine Operators and Distributors,1
@@ -11610,34 +11620,19 @@ Ignacio de La Fuente - City Councilman Oakland,1
 "Henry Chang, Jr., Vice Mayor",1
 "Henry Chang, Jr., Vice Mayor of the City of Oakland",1
 Oakland City Councilmember McElhaney,1
-"Madison P. Nguyen, Councilmember, Dist. 7 - City of San Jose",7
 "Madison P. Nguyen, Councilmember, Dist.7- City of San Jose",1
 "Jonathan A. Eisen, Professor at the University of California, Davis",1
 "City of Riverside Council Member, Chris Mac Arthur",1
 Michael Anthony Cacciotti - South Pasadena City Councilmember,1
-"Katie Peters, CCC-SLP, Pasadena City College",3
 Gayle Mclaughlin - Richmond City Councilmember,1
 "Michael Waterstone, Loyola Marymount School of Law",1
 "Capt. Raymond Bower, International Association of Firefighters, Local I-25",1
-"COUNCIL MEMBER JON WIZARD, CITY OF SEASIDE",0
-"HONORABLE SALUD CARABAJAL, MEMBER OF U.S. CONGRESS",0
-"SCOTT WIENER, SUPERVISOR - DISTRICT 8, SAN FRANCISCO",0
-"Marian Wolfe, Housing Advisory Commissioner",0
 "California Taxpayers Association, Howard Zelikow",1
 "Jean Lowry, Professor, Loma Linda University",1
-"Gerardo F. Gomez, Sr. Catholic Chaplain, Twin Towers I, CF, Los Angeles, CA",5
-"Cemetery Workers & Greens Attendants Union, Local 265, John Martin, Exec. Board",3
-"Forest Batz, PharmD, Assistant Clinical Professor, School of Pharmacy, University of California, San Francisco",2
-"Forest Bazat, PharmD, Assistant Clinical Professor, School of Pharmacy, University of California, San Francisco",2
-"Henriette W. Langdon, Assoc. Prof. San Jose State University",2
-"Joseph McNamara, D.P.A., Police Chief, San Jose, (Ret.), Research Fellow at the Hoover Institution on War, Revolution and Peace",2
-"M. Margaret Knudson, M.D., Professor of Surgery, University: of California, San Francisco",2
-"Petition signatures of individuals 36,661 (received prior to June 22, 2010)",2
-54-individuals[pic],1
+54-individuals,5
 "Capt. Richard J. Doscher, Div. Commander, Yuba City Police Dept",1
 "City of San Jose, Sarah Zárate, Director of Administration, Policy, and Intergovernmental Relations",1
 "Dr. Jerome Engel, Chief, Division of Epilepsy and Clinical Neurophysiology, UCLA and Director, UCLA",1
-Dr. Robert Jacobson (former Assembly Utilities and Committee),1
 "Drew, Karen Bret Harte, Patricia King, Felipe Mundante, and Victora Rivero",1
 "Fiona Ma, CPA, Vice Chair, State Board of Equalization, District 2",1
 "Hon. James Lambden, Associate Justice, Court of Appeal, First Appellate District, Division Two",1
@@ -11647,7 +11642,6 @@ Dr. Robert Jacobson (former Assembly Utilities and Committee),1
 "Karen Chappelle, Professor, College of Environmental Design, City and Regional Planning, UC Berkeley",1
 "Karen Chapple, Professor, City and Regional Planning, University of California, Berkeley",1
 "Karen Chapple, Professor, UC Berkeley - City & Regional Planning",1
-"M. Margaret Knudson, M.D., Professor of Surgery, University of California, San Francisco",1
 "Prasad Krishnamurthy, J.D., Ph.D., University of California, Berkeley, School of Law",1
 "Priscilla Abercrombie, RN, NP, PhD, UCSF Obstetrics, Gynecology and Reproductive Services",1
 "Ralph R. Ramirez, Major, AG, Deputy Commander, So. Area OPS unit, State of CA Center for Military History, Armed Forces Reserve",1
@@ -11659,7 +11653,8 @@ Dr. Robert Jacobson (former Assembly Utilities and Committee),1
 "San Francisco County Supervisors Alioto-Pier, Dufty, Elsbernd, Mar, and Maxwell",1
 "Terra Lawson-Remer, JD, PhD, Candidate, San Diego County Board of Supervisors, District 3",1
 "Twilight Florido, Fair Housing Specialist, Fair Housing Center, Palo Alto, CA",1
-Two private individuals (prior to June),1
-individuals (THIS ANALYSIS REFLECTS AUTHOR'S AMENDMENTS TO BE OFFERED IN),1
-numerous individuals (THIS ANALYSIS REFLECTS AUTHOR'S AMENDMENTS TO BE OFFERED IN),1
-one individual (received prior to most recent),1
+individuals,183
+"COUNCIL MEMBER JON WIZARD, CITY OF SEASIDE",0
+"HONORABLE SALUD CARABAJAL, MEMBER OF U.S. CONGRESS",0
+"SCOTT WIENER, SUPERVISOR - DISTRICT 8, SAN FRANCISCO",0
+"Marian Wolfe, Housing Advisory Commissioner",0
