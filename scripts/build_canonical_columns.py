@@ -197,7 +197,16 @@ def resolve_cell(cell, mapping, cleaning_patterns, exact, normalized, routed, st
         if not part:
             continue
 
+        # Mapping lookup: try the RAW part first, then the CLEANED form. The maps are keyed
+        # by the string as step 1/step 2 saw it, which is the CLEANED name (extract_org_names
+        # counts orgs by cleaned name, so that is what the scan diagnosed and recorded). A raw
+        # part carrying trailing metadata therefore misses its own mapping row unless we also
+        # try the cleaned key — that silently stranded 361 already-diagnosed prose strings.
         candidates = mapping.get(normalize_for_matching(part))
+        if candidates is None:
+            cleaned_key = clean_org_name(part, cleaning_patterns)
+            if cleaned_key and cleaned_key != part:
+                candidates = mapping.get(normalize_for_matching(cleaned_key))
         if candidates is None:
             candidates = [part]
         else:
@@ -224,7 +233,7 @@ def resolve_cell(cell, mapping, cleaning_patterns, exact, normalized, routed, st
                     stats["parts_known_non_org"] += 1
                 else:
                     stats["parts_unmatched"] += 1
-                    stats["unmatched_examples"][cleaned[:80]] += 1
+                    stats["unmatched_examples"][cleaned] += 1
                 continue
 
             stats["parts_matched"] += 1
@@ -239,6 +248,8 @@ def main():
     parser = argparse.ArgumentParser()
     parser.add_argument("--limit", type=int, default=0, help="process only the first N rows")
     parser.add_argument("--out", default=None, help="twin output path")
+    parser.add_argument("--dump-unaccounted", default=None,
+                        help="write every distinct unaccounted-for string + occurrence count to this CSV")
     args = parser.parse_args()
 
     out_path = Path(args.out) if args.out else LEGINFO_PATH.with_name("leginfo_metadata_canonical.csv")
@@ -318,10 +329,18 @@ def main():
     print(f"  parts that are known non-orgs:{stats['parts_known_non_org']}  (routed to an invalidity CSV — expected)")
     print(f"  parts UNACCOUNTED FOR:       {stats['parts_unmatched']}  (these lose their bill count)")
 
+    if args.dump_unaccounted:
+        with open(args.dump_unaccounted, "w", encoding="utf-8", newline="") as f:
+            w = csv.writer(f)
+            w.writerow(["unaccounted_string", "occurrences"])
+            for name, n in stats["unmatched_examples"].most_common():
+                w.writerow([name, n])
+        print(f"\n  Wrote {len(stats['unmatched_examples'])} distinct unaccounted strings to {args.dump_unaccounted}")
+
     if stats["unmatched_examples"]:
         print("\n  Top unaccounted-for strings — not in the crosswalk and not routed anywhere:")
         for name, n in stats["unmatched_examples"].most_common(25):
-            print(f"    {n:6}  {name}")
+            print(f"    {n:6}  {name[:80]}")
 
     return 0
 
