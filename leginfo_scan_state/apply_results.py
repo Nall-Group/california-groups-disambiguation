@@ -18,8 +18,10 @@ Per-item handling (LEGINFO_IMPORT.md step 2 + locked decisions 2026-07-09):
   crosswalk -> emit a delete-from-crosswalk RA task. NEVER routed to a CSV.
 Items with no matching diagnosis are left unprocessed (retry), not marked processed.
 
-Writes: routing CSVs, worklist, $SCAN/processed.txt, $SCAN/rewrites.tsv (append).
-Prints JSON: {batch, valid:[...], routed:{}, removed, rewrites:[[orig,[orgs]]],
+Writes: routing CSVs, worklist, $SCAN/processed.txt, $SCAN/rewrites.tsv (append), AND the
+two persistent mapping CSVs (narrative_text_mapping_to_orgs.csv / conjoined_text_mapping_
+to_orgs.csv) — those are the durable record; rewrites.tsv is only this run's ledger.
+Prints JSON: {batch, valid:[...], routed:{}, removed, rewrites:[[orig,[orgs]]], mapped:{},
 deletes:[...], unresolved:[...]}
 """
 import csv, json, os, re, sys
@@ -31,6 +33,10 @@ WORKLIST = SUB / "org_names_not_in_crosswalk.csv"
 STATE = PROJECT / "leginfo_scan_state"          # durable (committed) ledgers
 PROCESSED = STATE / "processed.txt"
 REWRITES = STATE / "rewrites.tsv"
+# The persistent prose/conjoined maps — the record that survives a run. Step 1 reads these
+# to mark a string already_routed; step 4 reads them to attribute its bill count.
+NARRATIVE_MAP = SUB / "narrative_text_mapping_to_orgs.csv"
+CONJOINED_MAP = SUB / "conjoined_text_mapping_to_orgs.csv"
 
 CSV_FOR = {"invalid": "org_names_invalid.csv", "partial": "org_names_partial.csv",
            "individual": "org_names_that_are_actually_individuals.csv"}
@@ -165,10 +171,55 @@ if rewrites:
         for orig, orgs in rewrites:
             w.writerow([orig, ";".join(orgs)])
 
+# ---- append the PERSISTENT mapping CSVs (the durable record) ----
+# rewrites.tsv alone is NOT enough: it is a per-run ledger that nothing else reads, so a
+# prose/conjoined string diagnosed here would be re-diagnosed from scratch on the next
+# import (extract_org_names.py marks a string already_routed only if it appears in one of
+# these two mapping files). Run 1 recorded 7,076 resolutions in the ledger and only 362 in
+# the mapping files, which cost a full re-scan of ~5,700 items — hence this write.
+#   single org  -> narrative_text_mapping_to_orgs.csv (narrative_text,mapped_org)
+#   several     -> conjoined_text_mapping_to_orgs.csv (conjoined_text,mapped_orgs, " ; "-joined)
+mapped_counts = {}
+if rewrites:
+    buckets = {NARRATIVE_MAP: [], CONJOINED_MAP: []}
+    for orig, orgs in rewrites:
+        orgs = [o.strip() for o in orgs if o and o.strip()]
+        if not orgs:
+            continue  # names no org: it was routed to org_names_invalid.csv, not mapped here
+        if len(orgs) == 1:
+            buckets[NARRATIVE_MAP].append([orig, orgs[0]])
+        else:
+            buckets[CONJOINED_MAP].append([orig, " ; ".join(orgs)])
+
+    # A source string must not land in both files, so dedup across the pair.
+    seen_all = set()
+    for path in (NARRATIVE_MAP, CONJOINED_MAP):
+        if path.exists():
+            with open(path, newline="") as f:
+                rdr = csv.reader(f); next(rdr, None)
+                seen_all |= {_norm(row[0]) for row in rdr if row}
+
+    for path, rows in buckets.items():
+        if not rows:
+            continue
+        new_file = not path.exists()
+        added = 0
+        with open(path, "a", newline="") as f:
+            w = csv.writer(f)
+            if new_file:
+                w.writerow(["narrative_text", "mapped_org"] if path == NARRATIVE_MAP
+                           else ["conjoined_text", "mapped_orgs"])
+            for src, mapped in rows:
+                k = _norm(src)
+                if k in seen_all:
+                    continue
+                w.writerow([src, mapped]); seen_all.add(k); added += 1
+        mapped_counts[path.name] = added
+
 # ---- update processed ledger ----
 with open(PROCESSED, "a") as f:
     for n in processed_now: f.write(n + "\n")
 
 print(json.dumps({"batch": batch_num, "valid": valid, "routed": routed, "removed": removed,
-                  "rewrites": [[o, gs] for o, gs in rewrites], "deletes": deletes,
-                  "unresolved": unresolved}))
+                  "rewrites": [[o, gs] for o, gs in rewrites], "mapped": mapped_counts,
+                  "deletes": deletes, "unresolved": unresolved}))

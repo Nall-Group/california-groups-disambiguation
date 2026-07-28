@@ -129,8 +129,11 @@ session doesn't affect it, and a new session sees it via the on-disk signals abo
 
 ## After the worklist drains
 - **Step 3** finalize pipeline: `clean_crosswalk.py` → `regenerate_org_subsets.py` → `generate_stats.py`.
-- **Step 4** one pass over `leginfo_metadata.csv`: apply this run's `rewrites.tsv` **plus** the two
-  persistent mapping CSVs (`narrative_text_mapping_to_orgs.csv`,
-  `conjoined_text_mapping_to_orgs.csv`), then fill the `*_canonical` columns. Run 1's step 4 never
-  ran, so also fold in any `archive_run1/rewrites_run1.tsv` rows not represented in the mapping
-  CSVs. Driver-only — no RA task ever touches `leginfo_metadata.csv`.
+- **Step 4** `python3 scripts/build_canonical_columns.py` — one pass over `leginfo_metadata.csv`
+  that applies the two persistent mapping CSVs (`narrative_text_mapping_to_orgs.csv`,
+  `conjoined_text_mapping_to_orgs.csv`) plus the `rewrites.tsv` ledgers (this run's **and**
+  `archive_run1/rewrites_run1.tsv`, since run 1's step 4 never ran), then writes the
+  `*_canonical` columns. **Output is a TWIN** (`leginfo_metadata_canonical.csv`) — the source is
+  never mutated and the original org columns are copied through unchanged; see LEGINFO_IMPORT.md
+  step 4 for why. Driver-only — no RA task ever touches `leginfo_metadata.csv`.
+  Check the closing report: *UNACCOUNTED FOR* parts are counts being silently dropped.

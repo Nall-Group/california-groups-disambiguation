@@ -167,11 +167,12 @@ cp = git_commit_retry(PROJECT, data_files, msg)
 tv = sum(len(s.get("valid", [])) for s in summaries)
 tr = sum(sum(s.get("routed", {}).values()) for s in summaries)
 trw = sum(len(s.get("rewrites", [])) for s in summaries)
+tmap = sum(sum((s.get("mapped") or {}).values()) for s in summaries)
 td = sum(len(s.get("deletes", [])) for s in summaries)
 tu = sum(len(s.get("unresolved", [])) for s in summaries)
 wl = sum(1 for _ in open(WORKLIST)) - 1
 print(f"batches processed: {len(summaries)} ({batch_lo}-{batch_hi})")
-print(f"valid crosswalk-adds: {tv} | routed-to-CSV: {tr} | rewrites: {trw} | deletes: {td} | unresolved: {tu}")
+print(f"valid crosswalk-adds: {tv} | routed-to-CSV: {tr} | rewrites: {trw} (mapped to persistent CSVs: {tmap}) | deletes: {td} | unresolved: {tu}")
 print(f"tasks created: {len(rows)} | worklist now: {wl}")
 print("commit:", (cp.stdout or cp.stderr).strip().split(chr(10))[0])
 if tu:

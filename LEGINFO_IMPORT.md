@@ -289,24 +289,50 @@ Then commit — stage **only** the files that changed. Never `git add -A`.
 
 ---
 
-## 4. Apply source rewrites & fill the canonical columns
+## 4. Resolve every org to its canonical & build the canonical twin
 
-This is the **single pass over `leginfo_metadata.csv`** — the only time the source file is rewritten. **It is run once by the import driver (the scan/management side), not a worker RA —
-no RA task ever touches `leginfo_metadata.csv`.** Stream it once, and for each cell:
+```bash
+python3 scripts/build_canonical_columns.py            # full run
+python3 scripts/build_canonical_columns.py --limit 300 --out "$TMPDIR/smoke.csv"   # smoke test
+```
 
-1. Apply the prose/conjoined cell rewrites the scanner recorded in step 2 (so prose becomes the
-   organization(s) it was describing and conjoined strings become their split `;`-list). **Also
-   apply the two persistent mapping files** — `narrative_text_mapping_to_orgs.csv` and
-   `conjoined_text_mapping_to_orgs.csv`: any cell (or `;`-split part) whose normalized text
-   matches a mapping row's source string is rewritten to that row's mapped org(s) (`mapped_org`
-   for narrative, the `;`-list in `mapped_orgs` for conjoined). This is what carries a
-   *previously diagnosed* prose/conjoined string's bill count onto the real org(s) on a re-import
-   — splitting a conjoined string's count across **all** its components — without the scan having
-   to re-read it. (A blank narrative `mapped_org` means the prose named no org: drop the part,
-   count nothing.)
+This is the **single pass over `leginfo_metadata.csv`**. **It is run once by the import driver
+(the scan/management side), not a worker RA — no RA task ever touches `leginfo_metadata.csv`.**
+
+> ### The output is a TWIN, not an in-place rewrite (changed 2026-07-27)
+>
+> This step used to be specified as rewriting the source in place — adding the canonical
+> columns *and* replacing each org cell's text with the resolved org names. It now streams the
+> pristine source to a **twin file** (default `leginfo_metadata_canonical.csv`, beside the
+> source) and copies the original org columns through **unchanged**; only the five new
+> `*_canonical` columns hold resolved names. Why:
+>
+> - The source is a tracked file in a **separate repo** (`Nall-Group/leginfo`) that isn't ours
+>   to mutate.
+> - Rewriting cells **destroys the original supporter text** — the very context step 2's
+>   diagnosis agents grep the source for. Once a prose cell has become an org name, a future
+>   re-diagnosis has nothing left to read.
+> - A twin keeps step 4 **re-runnable**: when the crosswalk improves, regenerate from the
+>   pristine source instead of trying to re-resolve already-resolved cells.
+>
+> The script refuses to write to the source path, and refuses a source that already has
+> canonical columns. Cost: ~800 MB of disk for the twin.
+
+Stream the source once, and for each `;`-separated part of each org cell:
+
+1. Apply the prose/conjoined mappings — the two persistent files
+   `narrative_text_mapping_to_orgs.csv` and `conjoined_text_mapping_to_orgs.csv`, plus the
+   per-run `leginfo_scan_state/rewrites.tsv` ledgers (which only fill gaps; a curated mapping
+   row always wins). Any part whose normalized text matches a mapping row's source string
+   resolves to that row's mapped org(s) (`mapped_org` for narrative, the `;`-list in
+   `mapped_orgs` for conjoined). This is what carries a *previously diagnosed* prose/conjoined
+   string's bill count onto the real org(s) — splitting a conjoined string's count across
+   **all** its components — without the scan having to re-read it. (A blank narrative
+   `mapped_org` means the prose named no org: drop the part, count nothing.)
 2. Clean each org (the same regexes — no cleaned value was saved earlier) and match it against
-   the finalized crosswalk.
-3. Write the matched **canonical name(s)** into the corresponding column:
+   the finalized crosswalk. Every node name in a cluster — the canonical plus all descendants at
+   any depth — resolves to that cluster's **canonical**.
+3. Write the matched **canonical name(s)** into the corresponding new column:
 
 | Org column | New canonical-name column |
 |------------|---------------------------|
@@ -325,3 +351,17 @@ of the same union). Each canonical should appear at most once per cell.
 > literal Leginfo org string. After this pass, the canonical columns are a complete,
 > deduplicated view of who supported/opposed each bill — every org that exists in the
 > crosswalk is represented by its canonical name.
+
+**Read the run's closing report — it is the audit.** The script classifies every part it
+could not resolve to a canonical:
+
+- *known non-orgs* — the part matches a routing CSV (`invalid` / `individuals` / `partial`).
+  It is **supposed** to resolve to nothing; not a loss.
+- *UNACCOUNTED FOR* — the part is neither in the crosswalk nor routed anywhere. **Every one of
+  these silently loses its bill count**, so this number should be at or near zero. The report
+  lists the top offenders by frequency; each is either a missing alt spelling (add it to the
+  crosswalk) or a bad conjoined split (fix the component list in the mapping file), then re-run.
+
+Because the mapping files feed this step, a conjoined row whose `mapped_orgs` names an org that
+isn't in the crosswalk drops that component's share of the count. Check for those **before**
+running step 4 — see the orphaned-component check in the crosswalk-gap initiative.
