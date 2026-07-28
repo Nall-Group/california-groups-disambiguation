@@ -10,8 +10,8 @@ directory (`leginfo_scan_state/`), all committed. A fresh Claude session needs o
   `/Users/ruthgracewong/leginfo/extract_all_leginfo_metadata/leginfo_metadata_canonical.csv`
   (382,729 rows, 871 MB): the pristine source plus five `*_canonical` columns. Final numbers —
   canonical_orgs 115,909 | total_in_crosswalk 213,617 | not_in_crosswalk 21 |
-  2,321,389 org parts resolved to a canonical | 187,626 known non-orgs (expected to resolve to
-  nothing) | **817 parts unaccounted for (0.03%)** | 0 duplicate canonicals in any cell.
+  2,320,594 org parts resolved to a canonical | 187,617 known non-orgs (expected to resolve to
+  nothing) | **784 parts unaccounted for (0.03%)** | 0 duplicate canonicals in any cell.
   Fixed along the way: `extract_org_names.py` worklist rewrite (idempotent), `clean_org_name`
   fixed-point iteration (closed a churn loop that made ~232 strings immortal), and
   `apply_results.py` now writes the persistent mapping CSVs (the omission that cost run 1's
@@ -173,3 +173,22 @@ session doesn't affect it, and a new session sees it via the on-disk signals abo
 - **Crosswalk modeling questions** worth a task: `California Teachers' Retirement System` vs
   `California State Teachers' Retirement System Board` as separate canonicals; generic
   canonicals such as `Sheriff` that swallow specific orgs.
+
+## Correctness fix worth knowing about (2026-07-28)
+
+**An embedded statistical table was being read as bill positions.** Three AB 172 analysis
+cells append a district enrollment table to the OPPOSITION list:
+
+    ...County Superintendents of Schools; COUNTY DISTRICT ENROLLMENT AS OF 10/96 LOS ANGELES
+    LOS ANGELES UNIFIED 667,305; SAN DIEGO SAN DIEGO CITY UNIFIED 133,687; ...
+
+Every `<county> <district> <enrollment>` entry cleans down to a real district name and matches
+the crosswalk, so the first twin credited **229 school districts** with opposing AB 172. Fixed
+by `strip_embedded_tables()` in `org_matching_utils.py`, applied by steps 1 and 4: a cell is
+truncated at a marker in `EMBEDDED_TABLE_MARKERS`. Truncation is the only available signal —
+inside the table the entries are indistinguishable from real position entries, since both are
+org names in the same `;`-delimited list.
+
+**If another analysis turns out to embed a similar table, add its marker to that tuple.** The
+tell is a burst of same-type orgs (all districts, all cities) appearing in one cell, each
+followed by a number.
