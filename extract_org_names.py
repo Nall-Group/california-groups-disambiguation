@@ -16,6 +16,7 @@ Step 1 of LEGINFO_IMPORT.md — pure deterministic matching:
 
 import csv
 import json
+import os
 import sys
 from collections import Counter
 from pathlib import Path
@@ -37,8 +38,11 @@ OUTPUT_PATH = PROJECT_ROOT / "org_names_import_summary.csv"
 SUBSETS_DIR = PROJECT_ROOT / "org_names_for_cleaning"
 NOT_IN_CROSSWALK_PATH = SUBSETS_DIR / "org_names_not_in_crosswalk.csv"
 
+# The PERMANENT routing buckets. org_names_not_in_crosswalk.csv is deliberately NOT
+# here: it is the transient step-2 worklist, not a routing destination. Treating it as
+# one would mark last run's still-undiagnosed items "already_routed" and drop them from
+# the worklist this run rewrites — silently losing them.
 ALL_CSV_FILES = [
-    "org_names_not_in_crosswalk.csv",
     "org_names_invalid.csv",
     "org_names_partial.csv",
     "org_names_that_are_actually_individuals.csv",
@@ -226,6 +230,35 @@ def update_csv_counts(org_counts):
     return updated_total
 
 
+def write_worklist(new_unmatched):
+    """Rewrite the transient step-2 worklist with exactly this run's unmatched orgs.
+
+    Deduplicated (first count wins) and written via a temp file + atomic replace, so
+    an interrupted or concurrent run can never leave a half-written or doubled-up
+    worklist behind. An empty pile still writes a header-only file, which is how a
+    fully-drained worklist is represented.
+    """
+    seen = set()
+    rows = []
+    for org_name, count in new_unmatched:
+        if org_name in seen:
+            continue
+        seen.add(org_name)
+        rows.append((org_name, count))
+
+    tmp_path = NOT_IN_CROSSWALK_PATH.with_suffix(".csv.tmp")
+    with open(tmp_path, "w", encoding="utf-8", newline="") as f:
+        writer = csv.writer(f)
+        writer.writerow(["org_name", "count"])
+        for org_name, count in rows:
+            writer.writerow([org_name, count])
+    os.replace(tmp_path, NOT_IN_CROSSWALK_PATH)
+
+    dropped = len(new_unmatched) - len(rows)
+    dup_note = f" ({dropped} duplicate name(s) collapsed)" if dropped else ""
+    print(f"\nWrote {len(rows)} unmatched orgs to {NOT_IN_CROSSWALK_PATH}{dup_note}")
+
+
 def main():
     # Load cleaning patterns (cheap — just cleaning_patterns.txt, no crosswalk)
     print("Loading cleaning patterns...")
@@ -283,18 +316,12 @@ def main():
 
     # Route unmatched orgs to org_names_not_in_crosswalk.csv. This is a TRANSIENT
     # handoff to the resolution scan (the file was retired as a persistent artifact
-    # 2026-07-17), so recreate it with a header if it isn't there.
-    if new_unmatched:
-        new_file = not NOT_IN_CROSSWALK_PATH.exists()
-        with open(NOT_IN_CROSSWALK_PATH, "a", encoding="utf-8", newline="") as f:
-            writer = csv.writer(f)
-            if new_file:
-                writer.writerow(["org_name", "count"])
-            for org_name, count in new_unmatched:
-                writer.writerow([org_name, count])
-        print(f"\nAppended {len(new_unmatched)} new unmatched orgs to {NOT_IN_CROSSWALK_PATH}")
-    else:
-        print(f"\nNo new unmatched orgs to add")
+    # 2026-07-17), so it is REWRITTEN from scratch every run rather than appended to:
+    # the unmatched pile is a pure function of (leginfo source, crosswalk, routing
+    # CSVs), so rewriting makes re-runs idempotent. Appending used to require
+    # truncating the file by hand first, and a forgotten (or concurrent) run left a
+    # previous pile stacked underneath — stale rows, or every row duplicated.
+    write_worklist(new_unmatched)
 
     # Print stats
     total_unique = len(org_counts)

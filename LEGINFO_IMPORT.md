@@ -51,28 +51,24 @@ See `CLAUDE.md` ("General Crosswalk Workflow Principles") and
 Pull and clean every org name from the five org columns and match each against the
 crosswalk. This pass is **pure script — no AI, no narrative handling.**
 
-> ### ⚠️ Reset `org_names_not_in_crosswalk.csv` first (the script APPENDS to it)
+> ### ⚠️ Nothing needs resetting — the run is idempotent
 >
-> **Note (retired 2026-07-17):** `org_names_not_in_crosswalk.csv` is now a **transient
-> handoff only** — it is not a committed, persistent artifact. `extract_org_names.py`
-> recreates it (with a header) when it has unmatched orgs; the resolution scan (step 2)
-> drains it to the definite buckets; when empty it can be deleted. `regenerate_org_subsets.py`
-> no longer manages it (it reconciles only the permanent invalidity buckets), and
-> `generate_stats.py` treats a missing file as 0. The reset step below is therefore only
-> needed if a prior run's file is still on disk.
+> **Note (retired 2026-07-17):** `org_names_not_in_crosswalk.csv` is a **transient handoff
+> only** — not a committed, persistent artifact. `extract_org_names.py` writes it, the
+> resolution scan (step 2) drains it to the definite buckets, and when empty it is left
+> header-only. `regenerate_org_subsets.py` no longer manages it (it reconciles only the
+> permanent invalidity buckets), and `generate_stats.py` treats a missing file as 0.
 >
-> `extract_org_names.py` **appends** every new unmatched org to
-> `org_names_for_cleaning/org_names_not_in_crosswalk.csv`. If you re-run without clearing it,
-> a second run's unmatched pile is left sitting on top of the first (stale rows that may no
-> longer belong there). So before every run, **truncate this one file back to a header-only
-> file** — actually rewrite its contents, not `git checkout` (a checkout only undoes
-> *uncommitted* changes and does nothing once a prior run is committed):
+> **Update (2026-07-27): the manual truncate step is gone.** `extract_org_names.py` used to
+> *append* to the worklist, so a re-run stacked a second unmatched pile on top of the first
+> and you had to blank the file by hand beforehand. It now **rewrites the worklist from
+> scratch every run** (deduped, atomic temp-file + replace), because the unmatched pile is a
+> pure function of (leginfo source, crosswalk, routing CSVs). Re-running with a previous
+> worklist still on disk reproduces it byte-for-byte. The worklist is also no longer counted
+> among the permanent routing buckets, so last run's still-undiagnosed items can never be
+> mistaken for `already_routed` and dropped.
 >
-> ```bash
-> printf 'org_name,count\n' > org_names_for_cleaning/org_names_not_in_crosswalk.csv
-> ```
->
-> **Nothing else needs resetting.** The other routing CSVs (`invalid`, `partial`,
+> **Nothing else needs resetting either.** The other routing CSVs (`invalid`, `partial`,
 > `individuals`, …) are **overwritten in place idempotently** — the script
 > rewrites each matching org's count to the current leginfo value, so re-running reproduces
 > the same numbers. `stats.json` is regenerated at the end of every run, and

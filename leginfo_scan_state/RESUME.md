@@ -23,11 +23,12 @@ Only these things reset. **Never reset** the permanent buckets in `org_names_for
 `conjoined_text_mapping_to_orgs.csv`) — they are the accumulated diagnosis memory and are
 updated idempotently in place.
 
-```bash
-# 1. transient worklist back to header-only (extract_org_names.py APPENDS to it)
-printf 'org_name,count\n' > org_names_for_cleaning/org_names_not_in_crosswalk.csv
+The transient worklist (`org_names_not_in_crosswalk.csv`) needs **no** reset: as of
+2026-07-27 `extract_org_names.py` rewrites it from scratch each run instead of appending,
+so re-running reproduces it byte-for-byte.
 
-# 2. archive + clear the scan ledgers (skip-set and step-4 rewrites are per-run)
+```bash
+# archive + clear the scan ledgers (skip-set and step-4 rewrites are per-run)
 mkdir -p leginfo_scan_state/archive_runN
 git mv leginfo_scan_state/processed.txt  leginfo_scan_state/archive_runN/processed_runN.txt
 git mv leginfo_scan_state/rewrites.tsv   leginfo_scan_state/archive_runN/rewrites_runN.tsv
