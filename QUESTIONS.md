@@ -11,7 +11,15 @@ To edit this file (post questions, write answers), join this queue first. Only t
 
 ### Q65 (invalid-CSV scan, Leginfo-Import-Driver) — Strippable **prefix** `Purpose.` / `Purpose of this bill:` — 104 entries
 
-**Status:** Open
+**Status:** Answered — REGEX DECLINED, handled as narrative mapping instead
+
+**Answer (supervisor, 2026-07-27):** "No this is actually narrative text. I think the best thing for you to do is to put it into the narrative map and show the string and then show the org that it should map to."
+
+**Resolution.** No cleaning pattern was added — `cleaning_patterns.txt` is untouched. The class is narrative prose with the org name *inside* it, so each string was paired with the org it names in `narrative_text_mapping_to_orgs.csv`, where step 4 attributes its bill count. Applied in commit `cff534595`: **103 rows** moved out of `org_names_invalid.csv` (32,200 -> 32,097; narrative map 7,324 -> 7,427), covering **92 distinct orgs, all already in the crosswalk**. Acronyms were expanded on the way (`BOE` -> State Board of Equalization, `SCO` -> California State Controller's Office, `BHSOAC` -> Behavioral Health Services Oversight and Accountability Commission, ...); `Purpose. AG Rob Bonta` -> California Department of Justice per the leadership rule; `Purpose. The California Association of Relators` -> CALIFORNIA ASSOCIATION OF REALTORS (OCR typo).
+
+**18 rows stayed in `org_names_invalid.csv`** because they name no org: the `the author` variants, ambiguous `The Commission` / `The Board`, ten lowercase mid-sentence fragments, and `Purpose. The Assembly Committee on Jobs, Economic Development, and the Economy` (committees are deliberately not orgs).
+
+**Precedent:** consistent with Q62 — prose is routed per-string through the narrative map, not stripped by a global regex.
 
 **Context.** Scanning `org_names_invalid.csv` for real organizations wrongly filed as non-orgs, the single biggest recurring shape is a bill-analysis section header glued to the front of a real org name. **104 rows** in that CSV start with it. Because the header sits in front, the org name itself is intact and unambiguous — this is the strippable-prefix family (`SB ###`, `Page`, `Sponsor`, `In support of the bill`), not the prose-suffix family the supervisor declined in **Q62**.
 
