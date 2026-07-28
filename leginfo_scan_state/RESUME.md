@@ -1,9 +1,59 @@
-# Leginfo Resolution Scan — Resume Guide
+# Leginfo Import / Resolution Scan — Resume Guide
 
-Everything needed to resume the leginfo import **step 2 (resolution scan)** lives in this
+Everything needed to run or resume the leginfo import **step 2 (resolution scan)** lives in this
 directory (`leginfo_scan_state/`), all committed. A fresh Claude session needs only this repo.
 
-## What this is
+## Run status
+
+- **Run 2 (current) — started 2026-07-27.** New source extraction:
+  `/Users/ruthgracewong/leginfo/extract_all_leginfo_metadata/leginfo_metadata.csv`
+  (796 MB, dated 2026-07-25). Starting from **step 1**.
+- **Run 1 (2026-07-10 → 2026-07-17)** — steps 1-2 ran; **step 4 never ran** (the source CSV
+  still has no `*_canonical` columns). Its ledgers are archived in `archive_run1/`
+  (`processed_run1.txt`, `rewrites_run1.tsv`). Nothing there needs re-reading for run 2's scan:
+  every routing decision it made is already persisted in the permanent CSVs in
+  `org_names_for_cleaning/` (invalid / partial / individuals + the two mapping files), which
+  step 1 uses to mark strings `already_routed`.
+
+## Starting a fresh run from step 1 (the reset)
+
+Only these things reset. **Never reset** the permanent buckets in `org_names_for_cleaning/`
+(`org_names_invalid.csv`, `org_names_partial.csv`,
+`org_names_that_are_actually_individuals.csv`, `narrative_text_mapping_to_orgs.csv`,
+`conjoined_text_mapping_to_orgs.csv`) — they are the accumulated diagnosis memory and are
+updated idempotently in place.
+
+```bash
+# 1. transient worklist back to header-only (extract_org_names.py APPENDS to it)
+printf 'org_name,count\n' > org_names_for_cleaning/org_names_not_in_crosswalk.csv
+
+# 2. archive + clear the scan ledgers (skip-set and step-4 rewrites are per-run)
+mkdir -p leginfo_scan_state/archive_runN
+git mv leginfo_scan_state/processed.txt  leginfo_scan_state/archive_runN/processed_runN.txt
+git mv leginfo_scan_state/rewrites.tsv   leginfo_scan_state/archive_runN/rewrites_runN.tsv
+: > leginfo_scan_state/processed.txt
+```
+
+`next_batch_num.txt` is **not** reset — the batch counter stays monotonic across runs so batch
+files and `[LEGINFO-CROSSWALK-ADD]` task names never collide with a previous run's. (Run 2
+starts at batch 1530.)
+
+Why `processed.txt` resets: it is a skip-set of item strings already *diagnosed*. Items whose
+diagnosis was "invalid / individual / partial / prose / conjoined" are permanently remembered by
+the CSVs above, so they never re-enter the worklist anyway. Items diagnosed "valid → add to
+crosswalk" whose RA task never landed **should** be re-diagnosed — keeping the old skip-set would
+silently drop them.
+
+## Step 1 (deterministic match)
+
+```bash
+python3 extract_org_names.py
+```
+Rewrites counts in the routing CSVs and `org_names_import_summary.csv`, and fills
+`org_names_for_cleaning/org_names_not_in_crosswalk.csv` with the genuinely-new unmatched pile.
+It touches shared data files, so **hold the Data Write Queue** while it runs.
+
+## What step 2 is
 `LEGINFO_IMPORT.md` step 2: diagnose the unmatched leginfo org names in
 `org_names_for_cleaning/org_names_not_in_crosswalk.csv` (the "worklist", count-sorted).
 Parallel **Opus** sub-agents judge each item (org-name vs prose), triage it
@@ -17,6 +67,7 @@ prose/conjoined→org rewrites for step 4, and files RA tasks for valid crosswal
 - `apply_results.py` — per-batch collector: routes CSVs, updates worklist + ledgers, has a 3-tier echo matcher (exact → normalized → containment-for-truncated-prose).
 - `process_chunk.py` — runs the whole chunk: writes results, runs apply_results per batch, files `[LEGINFO-CROSSWALK-ADD]`/`[LEGINFO-CROSSWALK-DELETE]` tasks (joins TASKS.md Write Queue), commits.
 - `processed.txt` — ledger of diagnosed item names (skip-set). `rewrites.tsv` — prose/conjoined→org, for step 4. `next_batch_num.txt` — batch counter.
+- `archive_run1/` — run 1's ledgers, kept for provenance (see "Run status").
 
 ## PRIMARY: the auto-restarting daemon `scripts/run_scan.sh`
 The scan normally runs UNATTENDED via this daemon — fleet-parity: it loops chunk-by-chunk,
@@ -77,4 +128,8 @@ session doesn't affect it, and a new session sees it via the on-disk signals abo
 
 ## After the worklist drains
 - **Step 3** finalize pipeline: `clean_crosswalk.py` → `regenerate_org_subsets.py` → `generate_stats.py`.
-- **Step 4** one pass over `leginfo_metadata.csv`: apply `rewrites.tsv` + fill `*_canonical` columns.
+- **Step 4** one pass over `leginfo_metadata.csv`: apply this run's `rewrites.tsv` **plus** the two
+  persistent mapping CSVs (`narrative_text_mapping_to_orgs.csv`,
+  `conjoined_text_mapping_to_orgs.csv`), then fill the `*_canonical` columns. Run 1's step 4 never
+  ran, so also fold in any `archive_run1/rewrites_run1.tsv` rows not represented in the mapping
+  CSVs. Driver-only — no RA task ever touches `leginfo_metadata.csv`.
