@@ -158,6 +158,9 @@ def fix_mismatched_brackets(name: str) -> str:
     return name
 
 
+MAX_CLEAN_PASSES = 5  # cleaning is idempotent well before this; the cap just bounds pathological input
+
+
 def clean_org_name(name: str, patterns: List[re.Pattern]) -> str:
     """
     Apply cleaning patterns to remove metadata annotations from org name,
@@ -169,15 +172,31 @@ def clean_org_name(name: str, patterns: List[re.Pattern]) -> str:
         "Association of Bay Area Governments (ABAG" -> "Association of Bay Area Governments (ABAG)"
     """
     cleaned = name
-    for pattern in patterns:
-        cleaned = pattern.sub(' ', cleaned)
-    # Collapse multiple spaces and strip
-    cleaned = re.sub(r'\s+', ' ', cleaned).strip()
-    # Fix mismatched brackets
-    cleaned = fix_mismatched_brackets(cleaned)
-    # Unwrap names entirely wrapped in parentheses: "(AFSCME)" -> "AFSCME"
-    if cleaned.startswith('(') and cleaned.endswith(')') and cleaned.count('(') == 1 and cleaned.count(')') == 1:
-        cleaned = cleaned[1:-1].strip()
+    # Iterate to a FIXED POINT. One pass is not enough: bracket repair runs after the
+    # strip patterns, so a parenthetical the source left unclosed —
+    # "California Public Defenders Association (committee" — gets completed to
+    # "...(committee)" and is then never re-tested against the patterns that would have
+    # stripped it. One pass also leaves the second of two stacked annotations
+    # ("X (as introduced) (THIS ANALYSIS...)"). Both cases produced strings that match
+    # nothing in the crosswalk, so every import re-emitted them as "unmatched", an RA
+    # added them, clean_crosswalk stripped them back to the canonical and deleted them as
+    # redundant, and the next import emitted them again — an endless churn loop.
+    # Safe to iterate: every strip pattern is keyword-anchored (sponsor/committee/oppose/
+    # version/dated/...), so a genuine acronym suffix like "(ABAG)" is never touched, and
+    # repairing "(ABAG" to "(ABAG)" still stands.
+    for _ in range(MAX_CLEAN_PASSES):
+        before = cleaned
+        for pattern in patterns:
+            cleaned = pattern.sub(' ', cleaned)
+        # Collapse multiple spaces and strip
+        cleaned = re.sub(r'\s+', ' ', cleaned).strip()
+        # Fix mismatched brackets
+        cleaned = fix_mismatched_brackets(cleaned)
+        # Unwrap names entirely wrapped in parentheses: "(AFSCME)" -> "AFSCME"
+        if cleaned.startswith('(') and cleaned.endswith(')') and cleaned.count('(') == 1 and cleaned.count(')') == 1:
+            cleaned = cleaned[1:-1].strip()
+        if cleaned == before:
+            break
     return cleaned
 
 
