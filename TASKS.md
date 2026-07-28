@@ -1,7 +1,6 @@
 # Tasks
 
 ## TASKS.md Write Queue
-2. RA-Fleet-2 (join data queue for 5378)
 
 To edit this file (mark tasks, update queues, add tasks), join this queue first. Only the name at the top may edit.
 
@@ -9,6 +8,7 @@ To edit this file (mark tasks, update queues, add tasks), join this queue first.
 
 Only the RA at the top of this list has write access to project data files (crosswalk JSON, CSVs). Add yourself to the bottom when you're ready to write. Remove yourself when done.
 1. RA-Fleet-3 (task 5379)
+2. RA-Fleet-2 (task 5378)
 
 
 ## Historical Data-Cleaning Log (migrated from README)
