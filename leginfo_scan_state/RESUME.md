@@ -5,7 +5,19 @@ directory (`leginfo_scan_state/`), all committed. A fresh Claude session needs o
 
 ## Run status
 
-- **Run 2 (current) — started 2026-07-27.** New source extraction:
+- **RUN 2 IS COMPLETE — 2026-07-28.** All four steps finished, including **step 4, which had
+  never run in any prior import**. The deliverable is the canonical twin
+  `/Users/ruthgracewong/leginfo/extract_all_leginfo_metadata/leginfo_metadata_canonical.csv`
+  (382,729 rows, 871 MB): the pristine source plus five `*_canonical` columns. Final numbers —
+  canonical_orgs 115,909 | total_in_crosswalk 213,617 | not_in_crosswalk 21 |
+  2,321,389 org parts resolved to a canonical | 187,626 known non-orgs (expected to resolve to
+  nothing) | **817 parts unaccounted for (0.03%)** | 0 duplicate canonicals in any cell.
+  Fixed along the way: `extract_org_names.py` worklist rewrite (idempotent), `clean_org_name`
+  fixed-point iteration (closed a churn loop that made ~232 strings immortal), and
+  `apply_results.py` now writes the persistent mapping CSVs (the omission that cost run 1's
+  7,076 diagnoses). Remaining backlog is listed at the bottom of this file.
+
+- **Run 2 source** (started 2026-07-27):
   `/Users/ruthgracewong/leginfo/extract_all_leginfo_metadata/leginfo_metadata.csv`
   (796 MB, dated 2026-07-25). Starting from **step 1**.
 - **Run 1 (2026-07-10 → 2026-07-17)** — steps 1-2 ran; **step 4 never ran** (the source CSV
@@ -137,3 +149,17 @@ session doesn't affect it, and a new session sees it via the on-disk signals abo
   never mutated and the original org columns are copied through unchanged; see LEGINFO_IMPORT.md
   step 4 for why. Driver-only — no RA task ever touches `leginfo_metadata.csv`.
   Check the closing report: *UNACCOUNTED FOR* parts are counts being silently dropped.
+
+## Left over after run 2 (not blocking anything)
+
+- **817 unaccounted-for parts** in the step-4 report — mostly undiagnosed prose/conjoined
+  strings (`COUNTY DISTRICT ENROLLMENT AS OF 10/96 <district>` is the biggest single family,
+  a table header fused to a school-district name). Re-run `build_canonical_columns.py` after
+  clearing any of them; the twin regenerates from the pristine source.
+- **1,694 entries in `org_names_invalid.csv` confirmed correctly filed** by the 2026-07-28
+  sub-agent scan (statute refs, court citations, bill text, generic "a coalition of X").
+  Entries with count >= 2 and all org-shaped count-1 entries have now been read; what remains
+  unreviewed is the non-org-shaped count-1 tail.
+- **Crosswalk modeling questions** worth a task: `California Teachers' Retirement System` vs
+  `California State Teachers' Retirement System Board` as separate canonicals; generic
+  canonicals such as `Sheriff` that swallow specific orgs.
