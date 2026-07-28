@@ -323,9 +323,9 @@ This is the **single pass over `leginfo_metadata.csv`**. **It is run once by the
 Stream the source once, and for each `;`-separated part of each org cell:
 
 1. Apply the prose/conjoined mappings — the two persistent files
-   `narrative_text_mapping_to_orgs.csv` and `conjoined_text_mapping_to_orgs.csv`, plus the
-   per-run `leginfo_scan_state/rewrites.tsv` ledgers (which only fill gaps; a curated mapping
-   row always wins). Any part whose normalized text matches a mapping row's source string
+   `narrative_text_mapping_to_orgs.csv` and `conjoined_text_mapping_to_orgs.csv`, which are the
+   **only** source of truth (the per-run `rewrites.tsv` ledger was retired 2026-07-28: stale
+   rows in it silently resurrected mappings that had been corrected in the maps). Any part whose normalized text matches a mapping row's source string
    resolves to that row's mapped org(s) (`mapped_org` for narrative, the `;`-list in
    `mapped_orgs` for conjoined). This is what carries a *previously diagnosed* prose/conjoined
    string's bill count onto the real org(s) — splitting a conjoined string's count across

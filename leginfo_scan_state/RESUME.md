@@ -22,7 +22,8 @@ directory (`leginfo_scan_state/`), all committed. A fresh Claude session needs o
   (796 MB, dated 2026-07-25). Starting from **step 1**.
 - **Run 1 (2026-07-10 → 2026-07-17)** — steps 1-2 ran; **step 4 never ran** (the source CSV
   still has no `*_canonical` columns). Its ledgers are archived in `archive_run1/`
-  (`processed_run1.txt`, `rewrites_run1.tsv`). Nothing there needs re-reading for run 2's scan:
+  (`processed_run1.txt`; its `rewrites_run1.tsv` was retired 2026-07-28 after its content was
+  folded into the mapping CSVs). Nothing there needs re-reading for run 2's scan:
   every routing decision it made is already persisted in the permanent CSVs in
   `org_names_for_cleaning/` (invalid / partial / individuals + the two mapping files), which
   step 1 uses to mark strings `already_routed`.
@@ -40,12 +41,21 @@ The transient worklist (`org_names_not_in_crosswalk.csv`) needs **no** reset: as
 so re-running reproduces it byte-for-byte.
 
 ```bash
-# archive + clear the scan ledgers (skip-set and step-4 rewrites are per-run)
+# archive + clear the skip-set (per-run)
 mkdir -p leginfo_scan_state/archive_runN
-git mv leginfo_scan_state/processed.txt  leginfo_scan_state/archive_runN/processed_runN.txt
-git mv leginfo_scan_state/rewrites.tsv   leginfo_scan_state/archive_runN/rewrites_runN.tsv
+git mv leginfo_scan_state/processed.txt leginfo_scan_state/archive_runN/processed_runN.txt
 : > leginfo_scan_state/processed.txt
 ```
+
+**`rewrites.tsv` no longer exists (retired 2026-07-28).** It was a per-run ledger of
+prose/conjoined→org decisions that only step 4 read, as a *fallback* behind the two
+persistent mapping CSVs. It caused two problems: nothing else read it, so run 1's 7,076
+diagnoses stayed invisible to step 1 (~5,700 items re-diagnosed); and worse, stale rows in
+it **resurrected corrected mappings** — 12 rows mapping an enrollment-table line
+(`COUNTY DISTRICT ENROLLMENT AS OF 10/96 <district>`) to a school district survived there
+after being removed from the narrative map, and would have re-credited those districts with
+opposing AB 172 on the next step-4 run. `apply_results.py` now writes the persistent maps
+directly and step 4 reads only those. Its legitimate content was folded into the maps first.
 
 `next_batch_num.txt` is **not** reset — the batch counter stays monotonic across runs so batch
 files and `[LEGINFO-CROSSWALK-ADD]` task names never collide with a previous run's. (Run 2
@@ -79,7 +89,8 @@ prose/conjoined→org rewrites for step 4, and files RA tasks for valid crosswal
 - `leginfo_resolution_scan.js` — the **workflow script** (one Opus schema-agent per batch). Prompt has the crosswalk rules **inlined** (agents do NOT read docs). Model MUST be opus.
 - `apply_results.py` — per-batch collector: routes CSVs, updates worklist + ledgers, has a 3-tier echo matcher (exact → normalized → containment-for-truncated-prose).
 - `process_chunk.py` — runs the whole chunk: writes results, runs apply_results per batch, files `[LEGINFO-CROSSWALK-ADD]`/`[LEGINFO-CROSSWALK-DELETE]` tasks (joins TASKS.md Write Queue), commits.
-- `processed.txt` — ledger of diagnosed item names (skip-set). `rewrites.tsv` — prose/conjoined→org, for step 4. `next_batch_num.txt` — batch counter.
+- `processed.txt` — ledger of diagnosed item names (skip-set). `next_batch_num.txt` — batch counter.
+  (`rewrites.tsv` was **RETIRED 2026-07-28** — see below.)
 - `archive_run1/` — run 1's ledgers, kept for provenance (see "Run status").
 
 ## PRIMARY: the auto-restarting daemon `scripts/run_scan.sh`
@@ -143,8 +154,7 @@ session doesn't affect it, and a new session sees it via the on-disk signals abo
 - **Step 3** finalize pipeline: `clean_crosswalk.py` → `regenerate_org_subsets.py` → `generate_stats.py`.
 - **Step 4** `python3 scripts/build_canonical_columns.py` — one pass over `leginfo_metadata.csv`
   that applies the two persistent mapping CSVs (`narrative_text_mapping_to_orgs.csv`,
-  `conjoined_text_mapping_to_orgs.csv`) plus the `rewrites.tsv` ledgers (this run's **and**
-  `archive_run1/rewrites_run1.tsv`, since run 1's step 4 never ran), then writes the
+  `conjoined_text_mapping_to_orgs.csv`) — the only source of truth — then writes the
   `*_canonical` columns. **Output is a TWIN** (`leginfo_metadata_canonical.csv`) — the source is
   never mutated and the original org columns are copied through unchanged; see LEGINFO_IMPORT.md
   step 4 for why. Driver-only — no RA task ever touches `leginfo_metadata.csv`.

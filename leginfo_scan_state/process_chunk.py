@@ -153,7 +153,8 @@ data_files = [
     "org_names_for_cleaning/org_names_partial.csv",
     "org_names_for_cleaning/org_names_that_are_actually_individuals.csv",
     "leginfo_scan_state/processed.txt",
-    "leginfo_scan_state/rewrites.tsv",
+    "org_names_for_cleaning/narrative_text_mapping_to_orgs.csv",
+    "org_names_for_cleaning/conjoined_text_mapping_to_orgs.csv",
     "leginfo_scan_state/next_batch_num.txt",
 ]
 batch_lo = min(s["batch"] for s in summaries) if summaries else 0

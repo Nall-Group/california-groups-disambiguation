@@ -18,9 +18,10 @@ Per-item handling (LEGINFO_IMPORT.md step 2 + locked decisions 2026-07-09):
   crosswalk -> emit a delete-from-crosswalk RA task. NEVER routed to a CSV.
 Items with no matching diagnosis are left unprocessed (retry), not marked processed.
 
-Writes: routing CSVs, worklist, $SCAN/processed.txt, $SCAN/rewrites.tsv (append), AND the
-two persistent mapping CSVs (narrative_text_mapping_to_orgs.csv / conjoined_text_mapping_
-to_orgs.csv) — those are the durable record; rewrites.tsv is only this run's ledger.
+Writes: routing CSVs, worklist, $SCAN/processed.txt, and the two persistent mapping CSVs
+(narrative_text_mapping_to_orgs.csv / conjoined_text_mapping_to_orgs.csv) — the durable
+record of every prose/conjoined diagnosis. (The per-run rewrites.tsv ledger was RETIRED
+2026-07-28: nothing read it, and stale rows in it silently resurrected corrected mappings.)
 Prints JSON: {batch, valid:[...], routed:{}, removed, rewrites:[[orig,[orgs]]], mapped:{},
 deletes:[...], unresolved:[...]}
 """
@@ -32,7 +33,6 @@ SUB = PROJECT / "org_names_for_cleaning"
 WORKLIST = SUB / "org_names_not_in_crosswalk.csv"
 STATE = PROJECT / "leginfo_scan_state"          # durable (committed) ledgers
 PROCESSED = STATE / "processed.txt"
-REWRITES = STATE / "rewrites.tsv"
 # The persistent prose/conjoined maps — the record that survives a run. Step 1 reads these
 # to mark a string already_routed; step 4 reads them to attribute its bill count.
 NARRATIVE_MAP = SUB / "narrative_text_mapping_to_orgs.csv"
@@ -164,19 +164,13 @@ if remove_from_worklist:
     with open(WORKLIST, "w", newline="") as f:
         w = csv.writer(f); w.writerow(header); w.writerows(kept)
 
-# ---- append rewrites ledger (for step 4) ----
-if rewrites:
-    with open(REWRITES, "a", newline="") as f:
-        w = csv.writer(f, delimiter="\t")
-        for orig, orgs in rewrites:
-            w.writerow([orig, ";".join(orgs)])
-
 # ---- append the PERSISTENT mapping CSVs (the durable record) ----
-# rewrites.tsv alone is NOT enough: it is a per-run ledger that nothing else reads, so a
-# prose/conjoined string diagnosed here would be re-diagnosed from scratch on the next
-# import (extract_org_names.py marks a string already_routed only if it appears in one of
-# these two mapping files). Run 1 recorded 7,076 resolutions in the ledger and only 362 in
-# the mapping files, which cost a full re-scan of ~5,700 items — hence this write.
+# These two files are the ONLY durable record of a prose/conjoined diagnosis, so writing
+# them here is what makes a diagnosis survive the run: extract_org_names.py marks a string
+# already_routed only if it appears in one of them, and step 4 reads only them to attribute
+# the bill count. (Until 2026-07-28 this went to a per-run rewrites.tsv ledger instead;
+# run 1 put 7,076 resolutions there and only 362 in these files, costing a re-scan of
+# ~5,700 items, and its stale rows later resurrected mappings that had been corrected.)
 #   single org  -> narrative_text_mapping_to_orgs.csv (narrative_text,mapped_org)
 #   several     -> conjoined_text_mapping_to_orgs.csv (conjoined_text,mapped_orgs, " ; "-joined)
 mapped_counts = {}

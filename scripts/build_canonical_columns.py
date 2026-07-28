@@ -20,7 +20,8 @@ in the five new `*_canonical` columns, which is what downstream analysis reads.
 
 RESOLUTION ORDER (per `;`-separated part of each org cell)
 ----------------------------------------------------------
-1. Mapping files, matched on normalized text — a part that is a known prose string or a
+1. Mapping files (the ONLY source of truth — the retired per-run rewrites.tsv ledger is no
+   longer consulted), matched on normalized text — a part that is a known prose string or a
    known conjoined string is replaced by the org(s) it maps to. The conjoined map yields
    MULTIPLE orgs, which is how a fused string's bill count reaches every component
    instead of being dropped. A blank narrative `mapped_org` means the prose named no org:
@@ -63,15 +64,6 @@ CROSSWALK_PATH = PROJECT_ROOT / "2_webapp" / "org_clusters_crosswalk.json"
 SUBSETS_DIR = PROJECT_ROOT / "org_names_for_cleaning"
 NARRATIVE_MAP = SUBSETS_DIR / "narrative_text_mapping_to_orgs.csv"
 CONJOINED_MAP = SUBSETS_DIR / "conjoined_text_mapping_to_orgs.csv"
-
-# Per-run rewrite ledgers. rewrites.tsv is the CURRENT run's scanner output; the archived
-# run-1 ledger is folded in because run 1's step 4 never executed, so those prose/conjoined
-# resolutions were never applied to the source and are only partly represented in the
-# mapping CSVs. Mapping-file rows win on conflict (they are the curated, persistent record).
-REWRITE_LEDGERS = [
-    PROJECT_ROOT / "leginfo_scan_state" / "rewrites.tsv",
-    PROJECT_ROOT / "leginfo_scan_state" / "archive_run1" / "rewrites_run1.tsv",
-]
 
 ORG_COLUMNS = [
     "support",
@@ -179,25 +171,7 @@ def load_mappings():
                 if norm and comps:
                     mapping[norm] = comps
 
-    # Ledgers fill gaps only — never override a curated mapping row.
-    ledger_added = 0
-    for ledger in REWRITE_LEDGERS:
-        if not ledger.exists():
-            continue
-        with open(ledger, "r", encoding="utf-8") as f:
-            for line in f:
-                parts = line.rstrip("\n").split("\t")
-                if len(parts) < 2 or not parts[0].strip() or not parts[1].strip():
-                    continue
-                norm = normalize_for_matching(parts[0])
-                if not norm or norm in mapping:
-                    continue
-                comps = [c.strip() for c in parts[1].split(";") if c.strip()]
-                if comps:
-                    mapping[norm] = comps
-                    ledger_added += 1
-
-    return mapping, ledger_added
+    return mapping
 
 
 def resolve_cell(cell, mapping, cleaning_patterns, exact, normalized, routed, stats):
@@ -273,8 +247,8 @@ def main():
     print(f"  {len(routed)} known non-org strings")
 
     print("Loading prose/conjoined mappings...")
-    mapping, ledger_added = load_mappings()
-    print(f"  {len(mapping)} source strings mapped ({ledger_added} filled in from rewrite ledgers)")
+    mapping = load_mappings()
+    print(f"  {len(mapping)} source strings mapped")
 
     stats = Counter()
     stats["unmatched_examples"] = Counter()
