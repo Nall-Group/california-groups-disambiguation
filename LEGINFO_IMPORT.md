@@ -155,7 +155,9 @@ prose (e.g. "In support of the bill, the California Hospital Association writes�
   preserved: it is **never** kept in the crosswalk and **never** reused as an alt spelling, but
   recording it here means a later re-import recognizes the exact prose as already-diagnosed
   (step 1 marks it `already_routed`) and attributes its bill count to `mapped_org` in step 4
-  instead of re-reading it from scratch. **`mapped_org` is never blank** — if the prose names
+  instead of re-reading it from scratch. `mapped_org` may name **several orgs, `;`-separated**,
+  when the prose credits more than one; step 4 splits the count across them. **`mapped_org` is
+  never blank** — if the prose names
   **no** organization, it does **not** go in this file at all; route the original string to
   `org_names_invalid.csv` (`org_name,count`) so it's counted as a non-org and nothing else.
 - **An org name** → go straight to the checks below; no grep needed.
@@ -247,7 +249,7 @@ Plus one file that is **not** a standard `org_name,count` bucket:
 
 | File | Schema | What goes here |
 |------|--------|---------------|
-| `narrative_text_mapping_to_orgs.csv` | `narrative_text,mapped_org` | Narrative-prose strings (no real org name of their own) paired with the org each describes. **Every row maps to a real org — `mapped_org` is never blank; prose that names no org goes to `org_names_invalid.csv`, not here.** Read by step 1 only to mark the prose `already_routed`, and by step 4 to attribute the prose's bill count to `mapped_org`. Never redistributed by `regenerate_org_subsets.py`; never treated as a real org.
+| `narrative_text_mapping_to_orgs.csv` | `narrative_text,mapped_org` | Narrative-prose strings (no real org name of their own) paired with the org each describes. **Every row maps to a real org — `mapped_org` is never blank; prose that names no org goes to `org_names_invalid.csv`, not here.** **A row MAY name several orgs, `;`-separated** (`CMHDA ; CSAC`) — one prose sentence can credit more than one, and step 4 splits the bill count across them exactly as it does for the conjoined map. Read by step 1 only to mark the prose `already_routed`, and by step 4 to attribute the prose's bill count. Never redistributed by `regenerate_org_subsets.py`; never treated as a real org.
 
 > **Leadership ≠ individual.** "Person, Org" where the person is a Mayor / President /
 > Director-of-whole-org / CEO / Chief / Sheriff / Chair is an **alternate spelling of the

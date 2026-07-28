@@ -160,8 +160,12 @@ def load_mappings():
                 norm = normalize_for_matching(row[0])
                 mapped = row[1].strip() if len(row) > 1 else ""
                 if norm:
+                    # mapped_org may name SEVERAL orgs, ';'-separated ("CMHDA ; CSAC") —
+                    # a prose sentence can credit more than one, and that is allowed here.
+                    # Split it like the conjoined map so each org gets the count; treating
+                    # "A ; B" as one literal name would match nothing and drop both.
                     # Blank mapped_org = prose naming no org: resolves to nothing.
-                    mapping[norm] = [mapped] if mapped else []
+                    mapping[norm] = [c.strip() for c in mapped.split(";") if c.strip()]
 
     if CONJOINED_MAP.exists():
         with open(CONJOINED_MAP, "r", encoding="utf-8", newline="") as f:
