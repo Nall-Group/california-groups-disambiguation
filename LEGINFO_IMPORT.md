@@ -294,9 +294,14 @@ Then commit — stage **only** the files that changed. Never `git add -A`.
 ## 4. Resolve every org to its canonical & build the canonical twin
 
 ```bash
-python3 scripts/build_canonical_columns.py            # full run
-python3 scripts/build_canonical_columns.py --limit 300 --out "$TMPDIR/smoke.csv"   # smoke test
+python3 scripts/build_canonical_columns.py                                  # full run (~10 min)
+python3 scripts/build_canonical_columns.py --limit 300 --out "$TMPDIR/x.csv" # smoke test
+python3 scripts/build_canonical_columns.py --dump-unaccounted unacc.csv      # + audit list
 ```
+
+`--dump-unaccounted` writes every distinct string the run could **not** resolve, with its
+occurrence count. That file is the audit: each row is a bill count going nowhere. Classify
+them (org name / prose / fused list / fragment) and route them, then re-run.
 
 This is the **single pass over `leginfo_metadata.csv`**. **It is run once by the import driver
 (the scan/management side), not a worker RA — no RA task ever touches `leginfo_metadata.csv`.**
@@ -320,14 +325,28 @@ This is the **single pass over `leginfo_metadata.csv`**. **It is run once by the
 > The script refuses to write to the source path, and refuses a source that already has
 > canonical columns. Cost: ~800 MB of disk for the twin.
 
-Stream the source once, and for each `;`-separated part of each org cell:
+Stream the source once. For each org cell, first **drop any embedded statistical table**
+(`strip_embedded_tables()` in `org_matching_utils.py`, applied by steps 1 and 4): a few
+analyses paste a data table into the position list, e.g. AB 172 appends a district enrollment
+table to its OPPOSITION cell. Every `<county> <district> <enrollment>` entry there cleans down
+to a real district name and matches the crosswalk, so without the guard the twin credits **229
+school districts** with opposing a bill they took no position on. The cell is truncated at a
+marker in `EMBEDDED_TABLE_MARKERS`; add a marker if another such table turns up (the tell is a
+burst of same-type orgs in one cell, each followed by a number).
+
+Then, for each `;`-separated part of the cell:
 
 1. Apply the prose/conjoined mappings — the two persistent files
    `narrative_text_mapping_to_orgs.csv` and `conjoined_text_mapping_to_orgs.csv`, which are the
    **only** source of truth (the per-run `rewrites.tsv` ledger was retired 2026-07-28: stale
-   rows in it silently resurrected mappings that had been corrected in the maps). Any part whose normalized text matches a mapping row's source string
-   resolves to that row's mapped org(s) (`mapped_org` for narrative, the `;`-list in
-   `mapped_orgs` for conjoined). This is what carries a *previously diagnosed* prose/conjoined
+   rows in it silently resurrected mappings that had been corrected in the maps). A part resolves to a mapping row's org(s) (`mapped_org` for
+   narrative, the `;`-list in `mapped_orgs` for conjoined) when its normalized text matches
+   that row's source string — **matched on the RAW part first, then on its CLEANED form.**
+   The second lookup is not optional: the maps are keyed by the string as steps 1-2 saw it,
+   which is the *cleaned* name (`extract_org_names.py` counts orgs by cleaned name, so that is
+   what the scan diagnosed and recorded). Matching only the raw part strands every mapping row
+   whose source carried trailing metadata — that bug hid 361 already-diagnosed prose strings
+   and dropped their counts until it was fixed 2026-07-28. This is what carries a *previously diagnosed* prose/conjoined
    string's bill count onto the real org(s) — splitting a conjoined string's count across
    **all** its components — without the scan having to re-read it. (A blank narrative
    `mapped_org` means the prose named no org: drop the part, count nothing.)
@@ -354,8 +373,9 @@ of the same union). Each canonical should appear at most once per cell.
 > deduplicated view of who supported/opposed each bill — every org that exists in the
 > crosswalk is represented by its canonical name.
 
-**Read the run's closing report — it is the audit.** The script classifies every part it
-could not resolve to a canonical:
+**Read the run's closing report — it is the audit.** Re-run with `--dump-unaccounted` to get
+the full list rather than the top 25. The script classifies every part it could not resolve to
+a canonical:
 
 - *known non-orgs* — the part matches a routing CSV (`invalid` / `individuals` / `partial`).
   It is **supposed** to resolve to nothing; not a loss.
