@@ -200,6 +200,33 @@ def clean_org_name(name: str, patterns: List[re.Pattern]) -> str:
     return cleaned
 
 
+# Markers for STATISTICAL TABLES that some bill analyses append inside an org cell. Everything
+# from the marker to the end of the cell is table data, not organizations taking a position.
+#
+# The AB 172 analyses (3 cells) append a district enrollment table to the OPPOSITION list:
+#   "...County Superintendents of Schools; COUNTY DISTRICT ENROLLMENT AS OF 10/96 LOS ANGELES
+#    LOS ANGELES UNIFIED 667,305; SAN DIEGO SAN DIEGO CITY UNIFIED 133,687; ..."
+# Each ';'-separated entry is "<county> <district> <enrollment>", which cleans down to a real
+# district name and matches the crosswalk — silently crediting 229 school districts with
+# opposing a bill they took no position on. Truncating at the marker is the only way to tell
+# the positions from the table, because both are org names in the same delimited list.
+EMBEDDED_TABLE_MARKERS = (
+    "COUNTY DISTRICT ENROLLMENT",
+)
+
+
+def strip_embedded_tables(cell: str) -> str:
+    """Drop any statistical table appended inside an org cell (see EMBEDDED_TABLE_MARKERS)."""
+    if not cell:
+        return cell
+    cut = len(cell)
+    for marker in EMBEDDED_TABLE_MARKERS:
+        i = cell.find(marker)
+        if i >= 0:
+            cut = min(cut, i)
+    return cell[:cut]
+
+
 def normalize_for_matching(name: str) -> str:
     """
     Normalize a name for matching purposes.

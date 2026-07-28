@@ -56,6 +56,7 @@ from org_matching_utils import (  # noqa: E402
     normalize_for_matching,
     clean_org_name,
     load_cleaning_patterns,
+    strip_embedded_tables,
 )
 
 PROJECT_ROOT = Path(__file__).resolve().parent.parent
@@ -179,6 +180,15 @@ def resolve_cell(cell, mapping, cleaning_patterns, exact, normalized, routed, st
     if not cell or not cell.strip():
         return []
 
+    # A statistical table appended inside the cell is data, not positions — drop it before
+    # splitting, or every district/city name in it is credited with a position it never took.
+    trimmed = strip_embedded_tables(cell)
+    if trimmed != cell:
+        stats["cells_with_embedded_table_trimmed"] += 1
+        cell = trimmed
+    if not cell.strip():
+        return []
+
     canonicals = []
     seen = set()
 
@@ -300,6 +310,7 @@ def main():
     print(f"\nWrote {rows_processed} rows to {out_path}")
     print("\nResolution stats:")
     print(f"  cells given canonicals:      {stats['cells_with_canonicals']}")
+    print(f"  cells with an embedded table trimmed: {stats['cells_with_embedded_table_trimmed']}")
     print(f"  parts resolved via mappings: {stats['parts_via_mapping']}")
     print(f"    of which mapped to no org: {stats['parts_mapped_to_nothing']}")
     print(f"  parts matched to a canonical:{stats['parts_matched']}")

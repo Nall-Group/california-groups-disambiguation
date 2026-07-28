@@ -25,6 +25,7 @@ from org_matching_utils import (
     normalize_for_matching,
     clean_org_name,
     load_cleaning_patterns,
+    strip_embedded_tables,
 )
 
 # Increase CSV field size limit for large fields
@@ -122,7 +123,7 @@ def extract_orgs_from_row(row, cleaning_patterns):
     """
     orgs = set()
     for col in ORG_COLUMNS:
-        cell_value = row.get(col)
+        cell_value = strip_embedded_tables(row.get(col))
         if not cell_value or not cell_value.strip():
             continue
         for part in cell_value.split(";"):
