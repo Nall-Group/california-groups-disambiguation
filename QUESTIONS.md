@@ -9,6 +9,37 @@ To edit this file (post questions, write answers), join this queue first. Only t
 
 ## Open Questions
 
+### Q65 (invalid-CSV scan, Leginfo-Import-Driver) — Strippable **prefix** `Purpose.` / `Purpose of this bill:` — 104 entries
+
+**Status:** Open
+
+**Context.** Scanning `org_names_invalid.csv` for real organizations wrongly filed as non-orgs, the single biggest recurring shape is a bill-analysis section header glued to the front of a real org name. **104 rows** in that CSV start with it. Because the header sits in front, the org name itself is intact and unambiguous — this is the strippable-prefix family (`SB ###`, `Page`, `Sponsor`, `In support of the bill`), not the prose-suffix family the supervisor declined in **Q62**.
+
+**Proposed regex** (prefix only, anchored):
+
+```
+^\s*(?:PURPOSE OF THIS BILL|Purpose of this bill|Purpose)\s*[.:]\s*(?:The\s+|According to\s+(?:the\s+)?)?
+```
+
+Strips the leading header, plus an immediately following `The ` / `According to (the )?` connector, and nothing else.
+
+**Example matches (before → after):**
+- `Purpose. The California Dental Association` → `California Dental Association`
+- `PURPOSE OF THIS BILL. The author` → `author` *(still not an org — stays in `org_names_invalid.csv`, just cleaner)*
+- `Purpose of this bill: The Appraisal Institute` → `Appraisal Institute`
+- `Purpose. According to the California Podiatric Medical Association` → `California Podiatric Medical Association`
+
+**Near-misses it must NOT match** (verified against the current CSVs):
+- `purpose of the Small Business Retention Program is` — lowercase mid-sentence prose, no `.`/`:` after the keyword. Not matched (anchor + required punctuation).
+- `purpose for this bill by merely exercising their current` — same reason. Not matched.
+- No crosswalk node and no row in `partial` / `individuals` begins with `Purpose` in any casing, so nothing already-clean is at risk (**0 crosswalk nodes affected**).
+
+**Affected entries:** 104 in `org_names_invalid.csv`, 0 elsewhere.
+
+**Open sub-question.** There is a spaced variant — `Purpose . DPA`, `Purpose . According to CSLB`, `Purpose . According to the FTB` (space before the period). Adding `\s*` before `[.:]` would catch those too. **Include the spaced variant, or keep the regex tight and handle those few by hand?**
+
+**Note.** Stripping the prefix does not by itself finish the job: a cleaned string like `California Dental Association` still has to be routed out of `org_names_invalid.csv` and paired into `narrative_text_mapping_to_orgs.csv`. Tasks 5380-5385 already handle the highest-count instances by hand. This regex would stop the class from recurring on every future import — if you would rather keep doing them by hand (as with Q62), say so and I will not add it.
+
 ### Q62 (sponsor-column audit, Management Assistant) — Strippable prose-suffix boilerplate: 5 safe regexes proposed, and the biggest class deliberately NOT proposed
 
 **Status:** Answered — DECLINED
