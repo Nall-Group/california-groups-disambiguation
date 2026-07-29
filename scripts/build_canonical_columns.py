@@ -220,6 +220,13 @@ def resolve_cell(cell, mapping, cleaning_patterns, exact, normalized, routed, st
                 stats["parts_empty_after_clean"] += 1
                 continue
 
+            # A part with no alphanumeric content at all ("* * *", "---") cannot be an org and
+            # cannot be looked up either — it normalizes to the empty string, so it would sit
+            # in the unaccounted bucket forever no matter which CSV it were routed to.
+            if not normalize_for_matching(cleaned):
+                stats["parts_empty_after_clean"] += 1
+                continue
+
             canonical = exact.get(cleaned)
             if canonical is None:
                 canonical = normalized.get(normalize_for_matching(cleaned))
