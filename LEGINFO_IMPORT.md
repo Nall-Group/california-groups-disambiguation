@@ -291,99 +291,54 @@ Then commit — stage **only** the files that changed. Never `git add -A`.
 
 ---
 
-## 4. Resolve every org to its canonical & build the canonical twin
+## 4. Rebuild the canonical twin
+
+**The builder lives in the leginfo repo, not here** — `~/leginfo/data_analysis/build_canonical_metadata.py`:
 
 ```bash
-python3 scripts/build_canonical_columns.py                                  # full run (~10 min)
-python3 scripts/build_canonical_columns.py --limit 300 --out "$TMPDIR/x.csv" # smoke test
-python3 scripts/build_canonical_columns.py --dump-unaccounted unacc.csv      # + audit list
+python data_analysis/build_canonical_metadata.py            # full run, default paths
+python data_analysis/build_canonical_metadata.py --in small.csv --out out.csv
+python data_analysis/build_canonical_metadata.py --no-merge-chapters
 ```
 
-`--dump-unaccounted` writes every distinct string the run could **not** resolve, with its
-occurrence count. That file is the audit: each row is a bill count going nowhere. Classify
-them (org name / prose / fused list / fragment) and route them, then re-run.
+Output: `~/leginfo/data_analysis/leginfo_metadata_canonical.csv`. **Run by the import driver,
+never by a worker RA.**
 
-This is the **single pass over `leginfo_metadata.csv`**. **It is run once by the import driver
-(the scan/management side), not a worker RA — no RA task ever touches `leginfo_metadata.csv`.**
+**What it produces.** A twin of `leginfo_metadata.csv` with the *same 18 columns, same rows,
+same order*, row-for-row alignable on `(folder_name, bill_number)` — but the five stance
+columns are **rewritten in place** to hold crosswalk CANONICAL names:
 
-> ### The output is a TWIN, not an in-place rewrite (changed 2026-07-27)
->
-> This step used to be specified as rewriting the source in place — adding the canonical
-> columns *and* replacing each org cell's text with the resolved org names. It now streams the
-> pristine source to a **twin file** (default `leginfo_metadata_canonical.csv`, beside the
-> source) and copies the original org columns through **unchanged**; only the five new
-> `*_canonical` columns hold resolved names. Why:
->
-> - The source is a tracked file in a **separate repo** (`Nall-Group/leginfo`) that isn't ours
->   to mutate.
-> - Rewriting cells **destroys the original supporter text** — the very context step 2's
->   diagnosis agents grep the source for. Once a prose cell has become an org name, a future
->   re-diagnosis has nothing left to read.
-> - A twin keeps step 4 **re-runnable**: when the crosswalk improves, regenerate from the
->   pristine source instead of trying to re-resolve already-resolved cells.
->
-> The script refuses to write to the source path, and refuses a source that already has
-> canonical columns. Cost: ~800 MB of disk for the twin.
+| Rewritten in place | Copied verbatim |
+|---|---|
+| `support`, `support_with_amendments`, `opposition`, `opposition_unless_amended`, `sponsor` | `neutral` and every non-org column |
 
-Stream the source once. For each org cell, first **drop any embedded statistical table**
-(`strip_embedded_tables()` in `org_matching_utils.py`, applied by steps 1 and 4): a few
-analyses paste a data table into the position list, e.g. AB 172 appends a district enrollment
-table to its OPPOSITION cell. Every `<county> <district> <enrollment>` entry there cleans down
-to a real district name and matches the crosswalk, so without the guard the twin credits **229
-school districts** with opposing a bill they took no position on. The cell is truncated at a
-marker in `EMBEDDED_TABLE_MARKERS`; add a marker if another such table turns up (the tell is a
-burst of same-type orgs in one cell, each followed by a number).
+Per cell it parses the orgs, **drops names that don't match the crosswalk**, canonicalizes the
+rest, dedups order-preserving, and re-joins with `; `. A row whose orgs all drop is still
+emitted with empty stance cells. `--no-merge-chapters` keeps `chapter` children separate from
+their canonical; by default they are folded in.
 
-Then, for each `;`-separated part of the cell:
+> **Do NOT write a second implementation.** Canonicalization is imported from
+> `build_cosupport_graph_clean.py` precisely so it cannot drift from the co-support graph's
+> notion of a canonical, and downstream consumers assume the in-place column layout. A
+> side-by-side variant adding `*_canonical` columns alongside the raw ones looks harmless but
+> breaks both properties. (One was written and deleted on 2026-07-28 — this section previously
+> documented it by mistake.)
 
-1. Apply the prose/conjoined mappings — the two persistent files
-   `narrative_text_mapping_to_orgs.csv` and `conjoined_text_mapping_to_orgs.csv`, which are the
-   **only** source of truth (the per-run `rewrites.tsv` ledger was retired 2026-07-28: stale
-   rows in it silently resurrected mappings that had been corrected in the maps). A part resolves to a mapping row's org(s) (`mapped_org` for
-   narrative, the `;`-list in `mapped_orgs` for conjoined) when its normalized text matches
-   that row's source string — **matched on the RAW part first, then on its CLEANED form.**
-   The second lookup is not optional: the maps are keyed by the string as steps 1-2 saw it,
-   which is the *cleaned* name (`extract_org_names.py` counts orgs by cleaned name, so that is
-   what the scan diagnosed and recorded). Matching only the raw part strands every mapping row
-   whose source carried trailing metadata — that bug hid 361 already-diagnosed prose strings
-   and dropped their counts until it was fixed 2026-07-28. This is what carries a *previously diagnosed* prose/conjoined
-   string's bill count onto the real org(s) — splitting a conjoined string's count across
-   **all** its components — without the scan having to re-read it. (A blank narrative
-   `mapped_org` means the prose named no org: drop the part, count nothing.)
-2. Clean each org (the same regexes — no cleaned value was saved earlier) and match it against
-   the finalized crosswalk. Every node name in a cluster — the canonical plus all descendants at
-   any depth — resolves to that cluster's **canonical**.
-3. Write the matched **canonical name(s)** into the corresponding new column:
+**It is a SNAPSHOT: rebuild it whenever the crosswalk changes**, the same discipline as the
+graphs. That is the last action of an import run, after step 3 has finalized the crosswalk.
 
-| Org column | New canonical-name column |
-|------------|---------------------------|
-| `support` | `support_canonical` |
-| `opposition` | `opposition_canonical` |
-| `opposition_unless_amended` | `opposition_unless_amended_canonical` |
-| `support_with_amendments` | `support_with_amendments_canonical` |
-| `sponsor` | `sponsor_canonical` |
+### Known gaps in the twin (worth checking before you trust a count)
 
-**Deduplicate within each cell.** Before writing, drop duplicate canonicals inside a single
-cell — multiple Leginfo orgs in the same cell can resolve to the same canonical (e.g. a
-conjoined entry that was split into two orgs which share one canonical, or several locals
-of the same union). Each canonical should appear at most once per cell.
+- **The prose/conjoined mapping CSVs are not consulted.** `narrative_text_mapping_to_orgs.csv`
+  and `conjoined_text_mapping_to_orgs.csv` translate a diagnosed prose string or fused string
+  into the org(s) it names. The builder matches raw cell text against the crosswalk only, so
+  those strings simply fail to match and their bill counts are dropped. Steps 1-2 spend most of
+  their effort producing exactly those mappings.
+- **An embedded statistical table is read as positions.** A few analyses paste a data table
+  into a stance cell — AB 172 appends a district enrollment table to its OPPOSITION cell, where
+  every `<county> <district> <enrollment>` entry canonicalizes to a real district and is
+  credited with opposing the bill (229 of them). `strip_embedded_tables()` in this repo's
+  `org_matching_utils.py` handles this for step 1; the twin builder has no equivalent.
 
-> **Canonicals only.** These columns hold the crosswalk **canonical name**, never the
-> literal Leginfo org string. After this pass, the canonical columns are a complete,
-> deduplicated view of who supported/opposed each bill — every org that exists in the
-> crosswalk is represented by its canonical name.
-
-**Read the run's closing report — it is the audit.** Re-run with `--dump-unaccounted` to get
-the full list rather than the top 25. The script classifies every part it could not resolve to
-a canonical:
-
-- *known non-orgs* — the part matches a routing CSV (`invalid` / `individuals` / `partial`).
-  It is **supposed** to resolve to nothing; not a loss.
-- *UNACCOUNTED FOR* — the part is neither in the crosswalk nor routed anywhere. **Every one of
-  these silently loses its bill count**, so this number should be at or near zero. The report
-  lists the top offenders by frequency; each is either a missing alt spelling (add it to the
-  crosswalk) or a bad conjoined split (fix the component list in the mapping file), then re-run.
-
-Because the mapping files feed this step, a conjoined row whose `mapped_orgs` names an org that
-isn't in the crosswalk drops that component's share of the count. Check for those **before**
-running step 4 — see the orphaned-component check in the crosswalk-gap initiative.
+Both are upstream-repo changes, so they are **not** made from this repo without the supervisor
+deciding — noted here so the numbers are read with the right caveats.

@@ -152,7 +152,7 @@ session doesn't affect it, and a new session sees it via the on-disk signals abo
 
 ## After the worklist drains
 - **Step 3** finalize pipeline: `clean_crosswalk.py` → `regenerate_org_subsets.py` → `generate_stats.py`.
-- **Step 4** `python3 scripts/build_canonical_columns.py` — one pass over `leginfo_metadata.csv`
+- **Step 4** `python data_analysis/build_canonical_metadata.py` **in the ~/leginfo repo** — one pass over `leginfo_metadata.csv`
   that applies the two persistent mapping CSVs (`narrative_text_mapping_to_orgs.csv`,
   `conjoined_text_mapping_to_orgs.csv`) — the only source of truth — then writes the
   `*_canonical` columns. **Output is a TWIN** (`leginfo_metadata_canonical.csv`) — the source is
@@ -162,11 +162,13 @@ session doesn't affect it, and a new session sees it via the on-disk signals abo
 
 ## Left over after run 2 (not blocking anything)
 
-- **5 unaccounted-for parts remain** (from 784). `build_canonical_columns.py
-  --dump-unaccounted <path>` writes the full distinct list with occurrence counts — that is
-  the tool for auditing what the twin still cannot resolve. Task 5428 covers the last 4
-  (variant spellings of orgs already present) plus 17 orgs a classification scan found
-  missing; re-run step 4 after it lands to reach zero.
+- **Unresolved-string audit.** The 2026-07-28 audit of strings that match nothing found 641
+  distinct (784 occurrences); all were routed (narrative 402, conjoined 152, invalid 40,
+  partial 25) or added to the crosswalk (task 5428: 4 variant spellings + 17 absent orgs), so
+  the crosswalk side is clear. NOTE: that audit was produced by a since-deleted side-by-side
+  builder; the real twin builder (`~/leginfo/data_analysis/build_canonical_metadata.py`) does
+  not consult the mapping CSVs at all, so prose/conjoined strings still drop there. See
+  "Known gaps in the twin" in LEGINFO_IMPORT.md step 4.
 - **1,694 entries in `org_names_invalid.csv` confirmed correctly filed** by the 2026-07-28
   sub-agent scan (statute refs, court citations, bill text, generic "a coalition of X").
   Entries with count >= 2 and all org-shaped count-1 entries have now been read; what remains
