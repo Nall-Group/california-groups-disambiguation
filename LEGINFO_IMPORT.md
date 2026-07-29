@@ -298,8 +298,17 @@ Then commit — stage **only** the files that changed. Never `git add -A`.
 ```bash
 python data_analysis/build_canonical_metadata.py            # full run, default paths
 python data_analysis/build_canonical_metadata.py --in small.csv --out out.csv
-python data_analysis/build_canonical_metadata.py --no-merge-chapters
 ```
+
+**The twin is that repo's prerequisite for everything downstream** (2026-07-28). Its graph
+input `graph_inputs/cosupport_input_canonical.csv` used to be re-derived independently from
+the raw metadata; it is now a pure column projection of the twin, so every graph, map and
+page over there ultimately derives from this one file. Rebuilding the twin is the last step
+of an import run, and the first step of any reanalysis.
+
+`--no-merge-chapters` is gone: the builder now resolves through this repo's
+`CrosswalkMatcher`, which folds every child into its cluster canonical regardless of
+`relationship`, so the flag could not be honored.
 
 Output: `~/leginfo/data_analysis/leginfo_metadata_canonical.csv`. **Run by the import driver,
 never by a worker RA.**
@@ -327,18 +336,24 @@ their canonical; by default they are folded in.
 **It is a SNAPSHOT: rebuild it whenever the crosswalk changes**, the same discipline as the
 graphs. That is the last action of an import run, after step 3 has finalized the crosswalk.
 
-### Known gaps in the twin (worth checking before you trust a count)
+### Known gaps in the twin — BOTH CLOSED 2026-07-28
 
-- **The prose/conjoined mapping CSVs are not consulted.** `narrative_text_mapping_to_orgs.csv`
-  and `conjoined_text_mapping_to_orgs.csv` translate a diagnosed prose string or fused string
-  into the org(s) it names. The builder matches raw cell text against the crosswalk only, so
-  those strings simply fail to match and their bill counts are dropped. Steps 1-2 spend most of
-  their effort producing exactly those mappings.
-- **An embedded statistical table is read as positions.** A few analyses paste a data table
-  into a stance cell — AB 172 appends a district enrollment table to its OPPOSITION cell, where
-  every `<county> <district> <enrollment>` entry canonicalizes to a real district and is
-  credited with opposing the bill (229 of them). `strip_embedded_tables()` in this repo's
-  `org_matching_utils.py` handles this for step 1; the twin builder has no equivalent.
+The twin used to match raw cell text against the crosswalk with its own light normalization.
+It now runs **the same cleaning path as step 1** — `strip_embedded_tables` → split `;` →
+`clean_org_name(cleaning_patterns.txt)` → `CrosswalkMatcher` — importing this repo's
+`org_matching_utils` rather than reimplementing it, so the twin and the import summary
+cannot disagree about what an org name is.
 
-Both are upstream-repo changes, so they are **not** made from this repo without the supervisor
-deciding — noted here so the numbers are read with the right caveats.
+- ~~The prose/conjoined mapping CSVs are not consulted.~~ **Fixed.** `narrative_text_mapping_to_orgs.csv`
+  and `conjoined_text_mapping_to_orgs.csv` are now read by the builder: a diagnosed prose
+  string is replaced by the org it describes, and a fused string is expanded into its
+  components, before canonicalization. The effort steps 1-2 spend producing those mappings
+  now reaches the twin's counts. Measured over 40,000 rows: 1,240 conjoined expansions and
+  438 narrative replacements.
+- ~~An embedded statistical table is read as positions.~~ **Fixed.** The builder calls this
+  repo's `strip_embedded_tables()`, so the AB 172 district-enrollment table no longer credits
+  229 school districts with opposing a bill.
+
+Net effect over the same 40,000-row sample: org mentions resolving to a canonical went from
+143,912 (84.9%) to 151,227 (87.8%), and mentions dropped with **no diagnosis** fell from
+13,652 to **1** — the rest are now attributed to a specific routing CSV.
