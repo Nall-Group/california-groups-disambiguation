@@ -102,6 +102,23 @@
 # Center". Matches 4 crosswalk entries and 0 CSV rows.
 (?i),\s*(?:a |the )?sponsor of (?:AB|SB|ACA|ACR|SCA|SCR|AJR|SJR)\s*\d{1,4}(?:\s*\([^)]*\))?\s*$
 
+# Trailing dangling "(a|the|one of the) (co-)sponsor(s) of" with the bill lost to
+# truncation (2026-07-30) - END
+# Same boilerplate as the pattern above, but the source string was cut off after
+# "of", so there is no bill number to anchor on; the phrase ending the string IS
+# the signal. Delimiter class matches the house style, and the optional "co[\s-]?"
+# is REQUIRED here: without it the "-" in the delimiter class eats the hyphen of
+# "co-sponsor" and truncates names to "..., a co".
+#   "Alliance for Children's Rights, the sponsor of"  -> Alliance for Children's Rights
+#   "Biocom California, sponsors of"                  -> Biocom California
+#   "Partnership Health Plan, one of the sponsors of" -> Partnership Health Plan
+#   "... Service Employees International Union - sponsor of" -> ... Union
+# Verified untouched: "Sponsors of the Ontario Convention Center", "Sponsors for
+# Educational Opportunity", "SPONSORSHIP LEADERSHIP COUNCIL", "Friends of the
+# Sponsor", "American Cancer Society, sponsor of the bill" (covered by the
+# this/the-measure pattern above). Matches 13 crosswalk entries.
+(?i)[\s,/"-]+(?:is\s+|also\s+|as\s+|and\s+)*(?:(?:a|the|one\s+of\s+the)\s+)?(?:co[\s-]?)?sponsors?\s+of\s*$
+
 # Square brackets - END
 (?i)\s*\[co-sponsor\]\s*$
 (?i)\s*\[sponsor\]\s*$
