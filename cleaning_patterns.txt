@@ -24,6 +24,25 @@
 (?i)\s*\(per\s[^)]*\)\s*$
 (?i)\s*\(as of\s[^)]*\)\s*$
 
+# Trailing "(support ...)" stance parenthetical (2026-07-30) - END
+# The general metadata-keyword bracket pattern below covers "oppose" but has no
+# "support" counterpart. Do NOT fix that by adding \bsupport to the shared keyword
+# list: that list also drives the square-bracket pattern, and a bare support keyword
+# amputates real names -- verified it would have eaten the acronym expansions
+#   "H.O.U.S.E. (Home Ownership Utilizing Supportive Education)"
+#   "SIRUM (Supporting Initiatives to Redistribute Unused Medicine)"
+# and the descriptive "The Center Long Beach (LGBT victim support services)".
+# So this is scoped to a STANCE reading instead: the parenthetical must OPEN with
+# support/supports/supported/supportive (optionally prefixed by conceptual/qualified/
+# resolution of), which already spares "Supporting ..." expansions, plus a lookahead
+# that declines "(Support Services|Center|Network|Council|...)" org-name forms.
+#   "Franchise Tax Board (support)"                      -> Franchise Tax Board
+#   "Ultratech Stepper (supported AB 81)"                -> Ultratech Stepper
+#   "United Domestic Workers (Qualified support, see comment 7)" -> United Domestic Workers
+#   "City of Desert Hot Springs (Resolution of Support)" -> City of Desert Hot Springs
+# Matches 27 crosswalk entries and 1 CSV row.
+(?i)\s*\((?:conceptual\s+|qualified\s+|resolution\s+of\s+)?supports?(?:ed|ive)?\b(?!\s+(?:services?|center|centre|group|network|council|program|programs?|project|team|alliance|fund|foundation|coalition|committee|association|institute|society|initiatives?|systems?|solutions?|partners?|unit|division|bureau|office|agency|department|staff|worker|workers)\b)[^()]*\)\s*$
+
 # Trailing "(updated date)" / "(dated date)" metadata - END
 (?i)\s*\(updated\s+[^)]+\)\s*$
 (?i)\s*\(dated\s+[^)]+\)\s*$
