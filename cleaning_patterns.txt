@@ -88,6 +88,20 @@
 # Trailing ", a co-sponsor of/to ..." appositive phrase (task 5138, Q45-B) - END
 (?i),\s*(?:a\s+)?co-?sponsors?\s+(?:of|to)\b.*$
 
+# Trailing ", (a|the) sponsor of <BILL NUMBER>" appositive phrase (2026-07-30) - END
+# Plain-sponsor analog of the co-sponsor pattern above, deliberately narrow: a comma
+# delimiter AND an explicit bill designator + number are BOTH required, with an optional
+# trailing "(Author)" parenthetical.
+#   "California Commission on Aging, sponsor of AB 2207"        -> California Commission on Aging
+#   "CCCCO, the sponsor of SB 417"                              -> CCCCO
+#   "State Center CCD, the sponsor of AB 2104 (Soria)"          -> State Center CCD
+# The bill-number requirement is what protects orgs legitimately named after a bill,
+# which are numerous here - verified untouched: "Stop AB 2844 Coalition", "Coalition
+# Opposed to AB 2271", "SB 600 Telecommunications Task Force", "Calfresh Coalition for
+# AB1967", "Sponsors for Educational Opportunity", "Sponsors of the Ontario Convention
+# Center". Matches 4 crosswalk entries and 0 CSV rows.
+(?i),\s*(?:a |the )?sponsor of (?:AB|SB|ACA|ACR|SCA|SCR|AJR|SJR)\s*\d{1,4}(?:\s*\([^)]*\))?\s*$
+
 # Square brackets - END
 (?i)\s*\[co-sponsor\]\s*$
 (?i)\s*\[sponsor\]\s*$
