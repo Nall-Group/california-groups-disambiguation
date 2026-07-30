@@ -5,7 +5,29 @@ directory (`leginfo_scan_state/`), all committed. A fresh Claude session needs o
 
 ## Run status
 
-- **RUN 2 IS COMPLETE — 2026-07-28.** All four steps finished, including **step 4, which had
+- **RUN 3 IS COMPLETE — 2026-07-30.** All four steps, start to finish in one session, against
+  a new extract (382,729 rows, 796 MB) and a freshly cleaned crosswalk. It was a *small* run:
+  step 1 found only **19** genuinely new org names out of 270,418 unique (211,300 already in
+  the crosswalk, 59,099 already routed), so step 2 was a single batch (1558) and the fleet had
+  one task (5437). Final numbers — canonical_orgs 115,827 | total_in_crosswalk 213,462 |
+  **not_in_crosswalk 0** | 2,319,772 org parts resolved | **0 parts unaccounted for**.
+  Notable diagnoses: the `Daly City, Foster City, Atherton, ...` lost-separator straddle split
+  into 12 cities; `California Transplant` and `INTERVAL RESEARCH` added as alternate spellings.
+
+  **Bug found and fixed in step 4** (`~/leginfo/data_analysis/org_cleaning.py`): the narrative
+  map was loaded with `multi=False`, so its **68 multi-org rows never split on `;`**. The
+  builder replaced the prose with the whole value (`CMHDA ; CSAC`), matched it as ONE org name,
+  matched nothing, and dropped *both* orgs — 72 mentions across 65 bills silently uncredited
+  (`UC ; CSU`, `CalSTRS ; CalPERS`, a 7-org list on SB 768). The conjoined map one line above
+  had always been `multi=True`. LEGINFO_IMPORT.md step 2 specifies the intended behavior
+  ("step 4 splits the bill count across them exactly as it does for the conjoined map"). Fixed
+  by flipping the flag; `testing/test_canonical_twin.py` gained the multi-org narrative case
+  that was missing (which is why this survived). After the fix `dropped_undiagnosed` is 0.
+
+  **If you see `dropped_undiagnosed` > 0 in a future run**, this is the first thing to check:
+  it means some string reached the matcher that no routing bucket knows about.
+
+- **RUN 2 WAS COMPLETE — 2026-07-28.** All four steps finished, including **step 4, which had
   never run in any prior import**. The deliverable is the canonical twin
   `/Users/ruthgracewong/leginfo/extract_all_leginfo_metadata/leginfo_metadata_canonical.csv`
   (382,729 rows, 871 MB): the pristine source plus five `*_canonical` columns. Final numbers —
@@ -165,10 +187,11 @@ session doesn't affect it, and a new session sees it via the on-disk signals abo
 - **Unresolved-string audit.** The 2026-07-28 audit of strings that match nothing found 641
   distinct (784 occurrences); all were routed (narrative 402, conjoined 152, invalid 40,
   partial 25) or added to the crosswalk (task 5428: 4 variant spellings + 17 absent orgs), so
-  the crosswalk side is clear. NOTE: that audit was produced by a since-deleted side-by-side
-  builder; the real twin builder (`~/leginfo/data_analysis/build_canonical_metadata.py`) does
-  not consult the mapping CSVs at all, so prose/conjoined strings still drop there. See
-  "Known gaps in the twin" in LEGINFO_IMPORT.md step 4.
+  the crosswalk side is clear. ~~NOTE: that audit was produced by a since-deleted side-by-side
+  builder; the real twin builder does not consult the mapping CSVs at all.~~ **Stale — the
+  builder has consulted both maps since 2026-07-28**; run 3 applied 13,295 conjoined
+  expansions and 10,010 narrative replacements over the full extract. See "Known gaps in the
+  twin — BOTH CLOSED" in LEGINFO_IMPORT.md step 4.
 - **1,694 entries in `org_names_invalid.csv` confirmed correctly filed** by the 2026-07-28
   sub-agent scan (statute refs, court citations, bill text, generic "a coalition of X").
   Entries with count >= 2 and all org-shaped count-1 entries have now been read; what remains
