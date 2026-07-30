@@ -2,7 +2,7 @@ org_name,count
 None received,42007
 Unknown,5828
 None known,4217
-,1848
+,1849
 COUNTIES,587
 Two individuals,418
 "Employees, AFL-CIO",417
@@ -19,8 +19,8 @@ An individual,200
 District,198
 Secretary of,192
 Three individuals,189
-3 individuals,182
 California Association,183
+3 individuals,182
 . Supporters,168
 BILL,158
 Various individuals,152
@@ -203,6 +203,7 @@ California Federation of,25
 Civil,25
 Coalition for,25
 Committee on,25
+Pasadena,25
 Government,24
 LLC,24
 Glenn,24
@@ -213,7 +214,6 @@ American Association of,24
 Aids,24
 Letters from several individuals,24
 we must,24
-Pasadena,25
 end,23
 School District,23
 Modesto,23
@@ -254,7 +254,6 @@ Mexican,20
 State Public Affairs Committee of the Junior Leagues of,20
 of Women,20
 21 individuals,20
-The,17
 Santa Monica,19
 Teachers,19
 Pomona,19
@@ -284,6 +283,7 @@ Therapists,18
 26 individuals,18
 Ontario,18
 Brea,18
+The,17
 Tuolumne,17
 Obispo,17
 West Covina,17
@@ -431,6 +431,7 @@ of Police and Sheriffs,12
 Section of the California State Bar,12
 Independent California,12
 Water District,12
+California State,12
 Society,11
 Seniors,11
 "California, Inc",11
@@ -620,7 +621,6 @@ author's office,9
 Unions,9
 "Union, AFL-CIO",9
 Hospitals,8
-California State,12
 Women,8
 Sheriffs,8
 of,8
@@ -711,6 +711,7 @@ GOC,8
 Two individual practitioners,8
 CAR,8
 Green CA,8
+Citizens,8
 Firefighters,7
 City of San,7
 Schools,7
@@ -822,7 +823,6 @@ Six private individuals,7
 13 individual letters,7
 strongly,7
 51 individuals,7
-Tax,2
 Over 50 letters and calls from individuals,7
 Eleven individuals,7
 "Joaquin, Stanislaus, Merced, Fresno and San Luis Obispo counties",7
@@ -1194,7 +1194,6 @@ Services for Children,5
 "Services, Ltd",5
 Sex,5
 Shasta County Board of,5
-Sheriffs of,1
 "Social Service Ministry Office, Catholic Diocese of",5
 Southern California Nevada Conference United Church of,5
 State Bar Committee on the Administration of,5
@@ -1273,7 +1272,6 @@ Unknown with latest amendments,5
 Voters,5
 Data Center,5
 Association Association,5
-Citizens,8
 agencies,4
 County of,4
 California Public,4
@@ -1827,7 +1825,6 @@ Public Health,3
 Small Businesses,3
 Association of North America,3
 Underwriters,3
-Nation,2
 org,3
 various organizations,3
 None reported to committee,3
@@ -2810,6 +2807,8 @@ Reproductive Justice Coalition,3
 County of City of Planning,3
 County of Sheriffs California Probation,3
 "In conclusion, the California Alliance",3
+Tax,2
+Nation,2
 commerce,2
 California Association of,2
 AB,2
@@ -3609,7 +3608,6 @@ California Association of Supervisors of,2
 California Black Chamber of,2
 California Cable,2
 California Car & Truck,2
-"California Chamber of Commerce, Attorney General of",1
 California Coalition on Crime Against People with,2
 California College of,2
 California Conference of Local Directors of,2
@@ -3707,7 +3705,6 @@ City of Environment,2
 City of Inglewood Chief of,2
 "City of Los Angeles, Council District 5",2
 "City of Los Angeles, Executive Council of",2
-City of Mission,1
 City of Redding Chief of,2
 City of San Juan Capistrano Consumer Attorneys of,2
 City of Santa Barbara Chief of,2
@@ -5578,6 +5575,9 @@ Association of Southern California,2
 "Workers, AFL-CIO",2
 "Employees Action Committee, AFL-CIO",2
 "Employees, AFL-CIO, Local",2
+Sheriffs of,1
+"California Chamber of Commerce, Attorney General of",1
+City of Mission,1
 veteran's cannabis advocacy organizations,1
 analysis,1
 SB,1
@@ -15250,6 +15250,7 @@ Citizens Against,1
 "Employee, AFL-CIO",1
 Municipal AFL-CIO,1
 Engineers AFL-CIO,1
+Tobacco Prevention Coalition,1
 542,0
 AFL-CIO Local 11,0
 Assn of California,0
@@ -15353,4 +15354,3 @@ Poverty Law,0
 "Employees Association, AFL-CIO",0
 "Artists, AFL-CIO",0
 "International Union AFL-CIO, CLC",0
-Tobacco Prevention Coalition,1
