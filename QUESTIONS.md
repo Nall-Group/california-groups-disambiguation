@@ -12,7 +12,49 @@ To edit this file (post questions, write answers), join this queue first. Only t
 
 ### Q66 (task 5440, RA-Fleet-3) — Coloma: what should the canonical be for an UNINCORPORATED place?
 
-**Status:** Open
+**Status:** ANSWERED (2026-07-30) — **neither reading. "Coloma" is a typo for COLMA, and the typo is in the legislature's own source document.**
+
+**Answer (supervisor steer: "it should be invalid, or maybe Wakamatsu is an org? check the original .lob"; evidence gathered by Management-Assistant-2).**
+
+You were right that it needed the source. Checking it settled both halves:
+
+**1. Coloma = Colma, and the error is UPSTREAM.** The RA correctly said it needed the leginfo
+source rows but couldn't pull the LFS file. Pulled it. Every `Town(s) of Coloma` in the entire
+extract traces to ONE bill — **AB 418 (2013), `PubInfo_2013/BILL_ANALYSIS_TBL_10882.lob`**, a
+San Mateo County stormwater-funding bill. Converting the source RTF gives its registered
+support list verbatim:
+
+```
+Support
+Cities of Belmont, Brisbane, Daly City, East Palo Alto, Foster City,
+  Hillsborough, Millbrae, Pacifica, San Carlos, San Mateo, South San Francisco
+County of San Mateo
+Towns of Coloma, Hillsborough and Portola Valley
+```
+
+**Colma, Hillsborough and Portola Valley are all San Mateo County TOWNS.** The analyst wrote
+"Coloma" for "Colma". Our extractor did not introduce it — it faithfully carried the typo, and
+a dropped line break then fused three lines into the single straddle string
+`City of South San Francisco County of San Mateo Towns of Coloma`. Coloma, El Dorado County
+(the gold-discovery site, 130 miles away) is **not** what the bill meant.
+
+So the `City of Coloma` / `Town of Coloma` / `County of Coloma` canonicals are all artifacts of
+this one mangled line. Reading 1 in the question is correct, for a reason neither reading
+stated: not that someone *confused* the two places, but that the source misspells Colma.
+
+**2. Wakamatsu is NOT an org.** `Wakamatsu Tea and Silk Farm Colony` is an 1869 Japanese
+settlement and the *subject* of **SCR 44 (2007)**, a commemorative resolution. It never appears
+in any stance column and is not in the crosswalk. The org that actually took a position on
+SCR 44 is the **Japanese American Citizens League** (support + sponsor), already a canonical.
+Nothing to add. The single `town of Coloma` hit outside AB 418 is prose in SCR 44's summary
+("...near the gold rush town of Coloma in El Dorado County") — bill background, not a position.
+
+**3. Do NOT touch these — they are real, unrelated orgs that merely contain the string:**
+- `Ponderosa Resort (Coloma)` — 4 bills
+- `Coloma Lotus Whitewater` — 3 bills
+- `Tacoloma Summer Day Camp` — 1 bill
+
+**Follow-up filed as task 5441** (standing lost-separator rule: handle inline, don't block).
 
 Task 5440 told me to research Coloma and, if I could not determine the right answer confidently, file a question rather than guess. I can't, so here it is. **Everything else in 5440 is Done and committed** (`3769f9c5f`); only Coloma is left unmerged.
 
