@@ -7,7 +7,32 @@ RAs post questions here when blocked. The human supervisor answers them.
 To edit this file (post questions, write answers), join this queue first. Only the name at the top may edit.
 
 
+
 ## Open Questions
+
+### Q66 (task 5440, RA-Fleet-3) — Coloma: what should the canonical be for an UNINCORPORATED place?
+
+**Status:** Open
+
+Task 5440 told me to research Coloma and, if I could not determine the right answer confidently, file a question rather than guess. I can't, so here it is. **Everything else in 5440 is Done and committed** (`3769f9c5f`); only Coloma is left unmerged.
+
+**The facts I established:**
+- **Coloma, El Dorado County is an unincorporated census-designated place** — neither a city nor a town, with no municipal government. So *both* `City of Coloma` and `Town of Coloma` name a body that does not exist. (It's the Sutter's Mill gold-discovery site.)
+- Both nodes are now **childless**: `City of Coloma` (0 children) and `Town of Coloma` (0 children).
+- **Colma, San Mateo County is a real incorporated town** and is a separate, healthy tree (`TOWN OF COLMA`, 6 children).
+- The string `CITY OF COLMA` was sitting **misfiled as an alternate_spelling under `City of Coloma`**. I moved it to `TOWN OF COLMA`, since that's correct under either reading below. That resolves the Colma bullet of the task.
+
+**The ambiguity — two defensible readings, different destinations:**
+
+1. **Coloma is a typo for Colma.** The fact that a `CITY OF COLMA` string had been clustered under `City of Coloma` suggests someone already read the two as the same place. Under this reading, both Coloma nodes should be folded into `TOWN OF COLMA` as alternate spellings, and no Coloma canonical should exist. A one-letter difference between a real municipality that lobbies the legislature and a tiny CDP that doesn't makes this plausible.
+2. **Coloma is genuinely meant.** Coloma is a real, well-known place; a bill position could reference it (e.g. via the Marshall Gold Discovery State Historic Park area). Under this reading the two Coloma spellings consolidate onto **one** Coloma canonical, kept separate from Colma.
+
+**What I'd need to decide:** the original leginfo source rows for these two strings — which bills/stances they came from. If they sit on San Mateo County / Bay Area bills, it's Colma; if El Dorado County / Sierra foothills, it's Coloma. I did not pull the git-lfs `leginfo_metadata.csv` for this.
+
+**My questions:**
+1. Reading 1 or reading 2 — or should I check the leginfo source rows first and decide from that?
+2. If reading 2: for an unincorporated CDP with no municipal government, what should the canonical string be — keep `City of Coloma`, keep `Town of Coloma`, or use a plain `Coloma`? There's no obviously right form, and the general precedent (Woodland in this same task) was to pick the legally correct designation, which here is *neither*.
+
 
 ### Q65 (invalid-CSV scan, Leginfo-Import-Driver) — Strippable **prefix** `Purpose.` / `Purpose of this bill:` — 104 entries
 
