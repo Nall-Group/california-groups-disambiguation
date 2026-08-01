@@ -137,21 +137,13 @@ function entryFor(key) {                    // -> {name, c, r}
   return { name: key, c: CANON[cid], r: RELS[rid] };
 }
 
-// Returns { match, fuzzy, matches } or null. Mirrors the previous app's order:
-// exact -> case-insensitive exact -> token-subset fuzzy. Fuzzy is now GLOBAL
-// (the old chunked app could only see names sharing a prefix), so it finds
-// strictly more candidates; it never runs when an exact match exists.
-function lookupName(name) {
-  const trimmed = name.trim();
-  if (!trimmed) return null;
-
-  if (NAMES[trimmed]) return { match: entryFor(trimmed), fuzzy: false };
-
-  const hit = UPPER.get(trimmed.toUpperCase());
-  if (hit) return { match: entryFor(hit), fuzzy: false };
-
+// Global token-subset scan: every name that contains all of the query's tokens,
+// ranked by how few extra tokens it has. Returns [] for an empty/tokenless query.
+// This is the app's notion of "closeness" — reused for both no-match and the
+// close-matches list shown under an exact match.
+function fuzzyScan(trimmed) {
   const queryTokens = tokenize(trimmed);
-  if (queryTokens.length === 0) return null;
+  if (queryTokens.length === 0) return [];
 
   if (!FUZZY) {                             // build the tokenized scan list once
     FUZZY = [];
@@ -168,9 +160,26 @@ function lookupName(name) {
     if (allPresent) candidates.push({ name: e.key, c: CANON[e.cid], r: RELS[e.rid],
                                       score: e.tokens.length - queryTokens.length });
   }
-  if (candidates.length === 0) return null;
   candidates.sort((a, b) => a.score - b.score || a.name.localeCompare(b.name));
-  return { match: candidates[0], fuzzy: true, matches: candidates.slice(0, 5) };
+  return candidates;
+}
+
+// Returns { match, fuzzy, matches } or null. Mirrors the previous app's order:
+// exact -> case-insensitive exact -> token-subset fuzzy. Exact matches return
+// early WITHOUT scanning (keeps batch CSV lookups O(1)); the single-lookup UI
+// computes close matches separately via fuzzyScan when it wants to show them.
+function lookupName(name) {
+  const trimmed = name.trim();
+  if (!trimmed) return null;
+
+  if (NAMES[trimmed]) return { match: entryFor(trimmed), fuzzy: false };
+
+  const hit = UPPER.get(trimmed.toUpperCase());
+  if (hit) return { match: entryFor(hit), fuzzy: false };
+
+  const candidates = fuzzyScan(trimmed);
+  if (candidates.length === 0) return null;
+  return { match: candidates[0], fuzzy: true, matches: candidates };
 }
 
 function relationshipSentence(matchName, m) {
@@ -196,22 +205,75 @@ document.getElementById("lookup-btn").addEventListener("click", () => {
   if (!result) { resultBox.textContent = "No match found for: " + input.trim(); return; }
 
   const m = result.match;
-  if (result.fuzzy) {
+
+  // Renders a "closest matches" list (first 6 + see-more/see-less toggle) into
+  // its own container and returns it. Reused for the no-exact-match case and the
+  // close-matches list shown beneath an exact match.
+  const renderCloseList = (matches, headingText, headingColor) => {
+    const box = document.createElement("div");
     const prefix = document.createElement("div");
-    prefix.style.cssText = "color:#856404;margin-bottom:8px;";
-    prefix.textContent = "No exact match. Closest:";
-    resultBox.appendChild(prefix);
-    for (const c of result.matches) {
+    prefix.style.cssText = "color:" + headingColor + ";margin-bottom:8px;";
+    prefix.textContent = headingText;
+    box.appendChild(prefix);
+
+    const INITIAL = 6;
+    const makeRow = c => {
       const row = document.createElement("div");
       row.style.marginBottom = "4px";
       const nm = document.createElement("strong");
       nm.textContent = c.name;
       row.appendChild(nm);
       if (c.c !== c.name) row.appendChild(document.createTextNode(" → " + c.c));
-      resultBox.appendChild(row);
+      return row;
+    };
+
+    matches.slice(0, INITIAL).forEach(c => box.appendChild(makeRow(c)));
+
+    if (matches.length > INITIAL) {
+      const btn = document.createElement("button");
+      btn.style.cssText = "padding:6px 18px;font-size:14px;margin-top:10px;";
+      let extraRows = [];
+
+      const showMore = () => {
+        btn.className = "btn-success";
+        btn.textContent = "see less";
+        extraRows = matches.slice(INITIAL).map(makeRow);
+        const frag = document.createDocumentFragment();
+        extraRows.forEach(r => frag.appendChild(r));
+        box.insertBefore(frag, btn);
+      };
+      const showLess = () => {
+        btn.className = "btn-primary";
+        btn.textContent = "see more";
+        extraRows.forEach(r => r.remove());
+        extraRows = [];
+      };
+
+      btn.addEventListener("click", () => {
+        if (extraRows.length) showLess(); else showMore();
+      });
+
+      btn.className = "btn-primary";
+      btn.textContent = "see more";
+      box.appendChild(btn);
     }
+    return box;
+  };
+
+  if (result.fuzzy) {
+    resultBox.appendChild(renderCloseList(result.matches, "No exact match. Closest:", "#856404"));
   } else {
-    resultBox.textContent = m.c;
+    const canon = document.createElement("div");
+    canon.textContent = m.c;
+    resultBox.appendChild(canon);
+
+    // Exact match: also show other close matches (excluding the matched name itself).
+    const close = fuzzyScan(input.trim()).filter(c => c.name.toLowerCase() !== m.name.toLowerCase());
+    if (close.length) {
+      const list = renderCloseList(close, "Other close matches:", "#6c757d");
+      list.style.marginTop = "12px";
+      resultBox.appendChild(list);
+    }
   }
 
   const sentence = relationshipSentence(result.fuzzy ? m.name : input.trim(), m);
